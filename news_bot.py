@@ -21,14 +21,13 @@ def tg_text(text):
         print(f"Ошибка отправки текста: {e}")
 
 
-def tg_photo(image_url, caption):
+def tg_photo(image_url):
     try:
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
             json={
                 "chat_id": TG_CHAT_ID,
-                "photo": image_url,
-                "caption": caption[:1020]
+                "photo": image_url
             },
             timeout=15
         )
@@ -38,7 +37,6 @@ def tg_photo(image_url, caption):
 
 
 def gemini_analyze(title, description):
-    # Пробуем модели по очереди — если одна не работает, берём следующую
     models = [
         "gemini-2.5-pro",
         "gemini-2.5-flash",
@@ -128,12 +126,11 @@ for i, article in enumerate(articles, 1):
     analysis = gemini_analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
 
-    sent = False
+    # Сначала картинка отдельно, потом полный текст отдельно
     if image_url:
-        sent = tg_photo(image_url, message)
+        tg_photo(image_url)
 
-    if not sent:
-        tg_text(message)
+    tg_text(message)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
