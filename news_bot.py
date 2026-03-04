@@ -38,12 +38,14 @@ def tg_photo(image_url, caption):
 
 
 def gemini_analyze(title, description):
-    try:
-        url = (
-            "https://generativelanguage.googleapis.com/v1beta/"
-            f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
-        )
-        prompt = f"""Вот новость на английском языке.
+    # Пробуем модели по очереди — если одна не работает, берём следующую
+    models = [
+        "gemini-2.5-pro",
+        "gemini-2.5-flash",
+        "gemini-2.0-flash",
+    ]
+
+    prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 Описание: {description}
 
@@ -55,20 +57,32 @@ def gemini_analyze(title, description):
 
 Только чистый текст, никаких звёздочек и специальных символов."""
 
-        resp = requests.post(url, json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.6, "maxOutputTokens": 400}
-        }, timeout=30)
+    for model in models:
+        try:
+            url = (
+                "https://generativelanguage.googleapis.com/v1beta/"
+                f"models/{model}:generateContent?key={GEMINI_KEY}"
+            )
+            resp = requests.post(url, json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.6, "maxOutputTokens": 400}
+            }, timeout=30)
 
-        data = resp.json()
-        if "candidates" not in data:
-            msg = data.get("error", {}).get("message", str(data))
-            return f"Ошибка Gemini: {msg}"
+            data = resp.json()
 
-        return data["candidates"][0]["content"]["parts"][0]["text"]
+            if "candidates" in data:
+                print(f"Работает модель: {model}")
+                return data["candidates"][0]["content"]["parts"][0]["text"]
+            else:
+                error = data.get("error", {}).get("message", "")
+                print(f"Модель {model} не сработала: {error}")
+                continue
 
-    except Exception as e:
-        return f"Ошибка при обращении к Gemini: {e}"
+        except Exception as e:
+            print(f"Ошибка с моделью {model}: {e}")
+            continue
+
+    return "Не удалось получить анализ — все модели Gemini недоступны."
 
 
 # 1. Получаем новости
