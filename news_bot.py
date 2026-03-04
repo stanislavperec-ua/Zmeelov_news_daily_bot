@@ -1,7 +1,3 @@
-# Скрипт получает топ-5 мировых новостей с картинками,
-# просит Gemini перевести заголовок на русский,
-# написать суть и прогноз — и отправляет всё в Telegram.
-
 import os
 import requests
 from datetime import datetime, timedelta
