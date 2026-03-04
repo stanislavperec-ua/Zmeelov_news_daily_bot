@@ -10,7 +10,6 @@ NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
-# Слова которые означают нежелательные новости
 EXCLUDE_KEYWORDS = [
     "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
     "kardashian", "taylor swift", "oscar", "grammy", "box office",
@@ -46,7 +45,6 @@ def is_relevant(article):
     description = (article.get("description") or "").lower()
     text = title + " " + description
 
-    # Фильтруем мусор
     if article.get("title") == "[Removed]":
         return False
     if article.get("description") == "[Removed]":
@@ -138,10 +136,10 @@ articles = [a for a in all_articles if is_relevant(a)]
 print(f"Всего: {len(all_articles)}, после фильтра: {len(articles)}")
 
 if not articles:
-    tg_text(f"Нет подходящих новостей сегодня.")
+    tg_text("Нет подходящих новостей сегодня.")
     exit()
 
-articles = articles[:5]
+articles = articles[:7]
 
 # 2. Заголовок
 tg_text(f"ОБЗОР МИРОВЫХ НОВОСТЕЙ\n{today_str}\n\nГотовлю топ-{len(articles)} событий дня...")
@@ -162,7 +160,6 @@ for i, article in enumerate(articles, 1):
 
     tg_text(message)
 
-    # Пауза чтобы не превышать лимит Gemini
     if i < len(articles):
         print("Пауза 10 секунд...")
         time.sleep(10)
