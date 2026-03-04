@@ -40,8 +40,8 @@ def tg_photo(image_url, caption):
 def gemini_analyze(title, description):
     try:
         url = (
-            "https://generativelanguage.googleapis.com/v1/"
-            f"models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
+            "https://generativelanguage.googleapis.com/v1beta/"
+            f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
         )
         prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
@@ -96,8 +96,6 @@ articles = [
     and a.get("description") and a.get("description") != "[Removed]"
 ]
 
-print(f"Всего статей: {len(all_articles)}, после фильтра: {len(articles)}")
-
 if not articles:
     tg_text(f"Нет доступных новостей. Ответ API: {str(result)[:500]}")
     exit()
@@ -113,24 +111,19 @@ for i, article in enumerate(articles, 1):
     description = article.get("description", "No description")
     image_url   = article.get("urlToImage")
 
-    print(f"Обрабатываю новость {i}: {title[:60]}")
-
     analysis = gemini_analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
 
     sent = False
     if image_url:
         sent = tg_photo(image_url, message)
-        print(f"Отправка с фото: {'OK' if sent else 'FAIL'}")
 
     if not sent:
         tg_text(message)
-        print("Отправлено как текст")
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
 print("Готово!")
-
 
 
 
