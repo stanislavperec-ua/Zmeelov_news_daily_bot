@@ -1,4 +1,5 @@
 import os
+import time
 import requests
 from datetime import datetime
 
@@ -25,10 +26,7 @@ def tg_photo(image_url):
     try:
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
-            json={
-                "chat_id": TG_CHAT_ID,
-                "photo": image_url
-            },
+            json={"chat_id": TG_CHAT_ID, "photo": image_url},
             timeout=15
         )
         return resp.status_code == 200
@@ -47,13 +45,15 @@ def gemini_analyze(title, description):
 Заголовок: {title}
 Описание: {description}
 
-Напиши ответ на русском языке в таком виде:
+Напиши ответ на русском языке строго в таком формате:
 
-Заголовок: (переведи на русский)
-Суть: (2-3 предложения — что произошло и почему важно)
-Прогноз: (2-3 предложения — возможные последствия для мира или России)
+Заголовок: (переведи заголовок на русский язык)
 
-Только чистый текст, никаких звёздочек и специальных символов."""
+Суть: (2-3 предложения — что именно произошло и почему это важно)
+
+Прогноз: (2-3 предложения — к чему это может привести, какие последствия для мира или России)
+
+Пиши полные предложения. Только чистый текст без звёздочек."""
 
     for model in models:
         try:
@@ -63,8 +63,11 @@ def gemini_analyze(title, description):
             )
             resp = requests.post(url, json={
                 "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": 0.6, "maxOutputTokens": 400}
-            }, timeout=30)
+                "generationConfig": {
+                    "temperature": 0.6,
+                    "maxOutputTokens": 800
+                }
+            }, timeout=45)
 
             data = resp.json()
 
@@ -80,7 +83,7 @@ def gemini_analyze(title, description):
             print(f"Ошибка с моделью {model}: {e}")
             continue
 
-    return "Не удалось получить анализ — все модели Gemini недоступны."
+    return "Не удалось получить анализ."
 
 
 # 1. Получаем новости
@@ -123,14 +126,21 @@ for i, article in enumerate(articles, 1):
     description = article.get("description", "No description")
     image_url   = article.get("urlToImage")
 
+    print(f"Обрабатываю новость {i}: {title[:60]}")
+
     analysis = gemini_analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
 
-    # Сначала картинка отдельно, потом полный текст отдельно
+    print(f"Длина ответа: {len(analysis)} символов")
+
+    # Картинка отдельно, потом полный текст отдельно
     if image_url:
         tg_photo(image_url)
 
     tg_text(message)
+
+    # Пауза между новостями чтобы не превышать лимит Gemini
+    time.sleep(5)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
