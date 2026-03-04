@@ -71,14 +71,19 @@ def gemini_analyze(title, description):
         }
     }, timeout=30)
 
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    data = resp.json()
+
+    # Если Gemini вернул ошибку — показываем её текст
+    if "candidates" not in data:
+        error_msg = data.get("error", {}).get("message", str(data))
+        return f"⚠️ Ошибка Gemini: {error_msg}"
+
+    return data["candidates"][0]["content"]["parts"][0]["text"]
 
 
 # ── Основной код ──────────────────────────────────
 
 # 1. Получаем топ-5 мировых новостей за вчера
-#    Берём английские источники — их больше и они полнее.
-#    Gemini переведёт всё на русский.
 news_resp = requests.get(
     "https://newsapi.org/v2/top-headlines",
     params={
@@ -106,7 +111,6 @@ tg_text(
 
 # 3. Обрабатываем каждую новость
 for i, article in enumerate(articles, 1):
-    # Берём заголовок (убираем название СМИ после " - ")
     title       = article.get("title", "").split(" - ")[0].strip()
     description = article.get("description") or "No description"
     image_url   = article.get("urlToImage")
