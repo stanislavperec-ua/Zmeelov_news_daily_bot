@@ -10,6 +10,13 @@ NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
+# Слова которые означают нежелательные новости
+EXCLUDE_KEYWORDS = [
+    "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
+    "kardashian", "taylor swift", "oscar", "grammy", "box office",
+    "recipe", "horoscope", "zodiac"
+]
+
 
 def tg_text(text):
     try:
@@ -34,6 +41,26 @@ def tg_photo(image_url):
         return False
 
 
+def is_relevant(article):
+    title = (article.get("title") or "").lower()
+    description = (article.get("description") or "").lower()
+    text = title + " " + description
+
+    # Фильтруем мусор
+    if article.get("title") == "[Removed]":
+        return False
+    if article.get("description") == "[Removed]":
+        return False
+    if not article.get("description"):
+        return False
+
+    for word in EXCLUDE_KEYWORDS:
+        if word in text:
+            return False
+
+    return True
+
+
 def gemini_analyze(title, description):
     models = [
         "gemini-2.5-pro",
@@ -45,15 +72,15 @@ def gemini_analyze(title, description):
 Заголовок: {title}
 Описание: {description}
 
-Напиши ответ на русском языке строго в таком формате:
+Напиши полный ответ на русском языке в таком формате:
 
-Заголовок: (переведи заголовок на русский язык)
+Заголовок: (переведи на русский)
 
-Суть: (2-3 предложения — что именно произошло и почему это важно)
+Суть: (напиши 2-3 полных предложения о том что произошло и почему важно)
 
-Прогноз: (2-3 предложения — к чему это может привести, какие последствия для мира или России)
+Прогноз: (напиши 2-3 полных предложения о возможных последствиях для мира или России)
 
-Пиши полные предложения. Только чистый текст без звёздочек."""
+Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек."""
 
     for model in models:
         try:
@@ -64,26 +91,28 @@ def gemini_analyze(title, description):
             resp = requests.post(url, json={
                 "contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {
-                    "temperature": 0.6,
-                    "maxOutputTokens": 800
+                    "temperature": 0.5,
+                    "maxOutputTokens": 1000
                 }
-            }, timeout=45)
+            }, timeout=60)
 
             data = resp.json()
 
             if "candidates" in data:
-                print(f"Работает модель: {model}")
-                return data["candidates"][0]["content"]["parts"][0]["text"]
+                text = data["candidates"][0]["content"]["parts"][0]["text"]
+                print(f"Модель {model} вернула {len(text)} символов")
+                return text
             else:
                 error = data.get("error", {}).get("message", "")
-                print(f"Модель {model} не сработала: {error}")
+                print(f"Модель {model} не сработала: {error[:100]}")
+                time.sleep(3)
                 continue
 
         except Exception as e:
             print(f"Ошибка с моделью {model}: {e}")
             continue
 
-    return "Не удалось получить анализ."
+    return "Анализ временно недоступен."
 
 
 # 1. Получаем новости
@@ -93,7 +122,7 @@ try:
         params={
             "apiKey": NEWS_KEY,
             "language": "en",
-            "pageSize": 10,
+            "pageSize": 20,
             "category": "general"
         },
         timeout=15
@@ -104,43 +133,39 @@ except Exception as e:
     exit()
 
 all_articles = result.get("articles", [])
+articles = [a for a in all_articles if is_relevant(a)]
 
-articles = [
-    a for a in all_articles
-    if a.get("title") and a.get("title") != "[Removed]"
-    and a.get("description") and a.get("description") != "[Removed]"
-]
+print(f"Всего: {len(all_articles)}, после фильтра: {len(articles)}")
 
 if not articles:
-    tg_text(f"Нет доступных новостей. Ответ API: {str(result)[:500]}")
+    tg_text(f"Нет подходящих новостей сегодня.")
     exit()
 
 articles = articles[:5]
 
-# 2. Заголовок рассылки
+# 2. Заголовок
 tg_text(f"ОБЗОР МИРОВЫХ НОВОСТЕЙ\n{today_str}\n\nГотовлю топ-{len(articles)} событий дня...")
 
 # 3. Каждая новость
 for i, article in enumerate(articles, 1):
     title       = article.get("title", "").split(" - ")[0].strip()
-    description = article.get("description", "No description")
+    description = article.get("description", "")
     image_url   = article.get("urlToImage")
 
-    print(f"Обрабатываю новость {i}: {title[:60]}")
+    print(f"\nНовость {i}: {title[:60]}")
 
     analysis = gemini_analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
 
-    print(f"Длина ответа: {len(analysis)} символов")
-
-    # Картинка отдельно, потом полный текст отдельно
     if image_url:
         tg_photo(image_url)
 
     tg_text(message)
 
-    # Пауза между новостями чтобы не превышать лимит Gemini
-    time.sleep(5)
+    # Пауза чтобы не превышать лимит Gemini
+    if i < len(articles):
+        print("Пауза 10 секунд...")
+        time.sleep(10)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
