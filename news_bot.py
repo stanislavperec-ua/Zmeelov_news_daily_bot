@@ -41,7 +41,7 @@ def gemini_analyze(title, description):
     try:
         url = (
             "https://generativelanguage.googleapis.com/v1beta/"
-            f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+            f"models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
         )
         prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
@@ -103,7 +103,6 @@ if not articles:
     tg_text(f"Нет доступных новостей. Ответ API: {str(result)[:500]}")
     exit()
 
-# Берём первые 5
 articles = articles[:5]
 
 # 2. Заголовок рассылки
@@ -119,8 +118,6 @@ for i, article in enumerate(articles, 1):
 
     analysis = gemini_analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
-
-    print(f"Анализ получен, длина: {len(message)} символов")
 
     sent = False
     if image_url:
