@@ -40,7 +40,7 @@ def tg_photo(image_url, caption):
 def gemini_analyze(title, description):
     try:
         url = (
-            "https://generativelanguage.googleapis.com/v1beta/"
+            "https://generativelanguage.googleapis.com/v1/"
             f"models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
         )
         prompt = f"""Вот новость на английском языке.
@@ -90,7 +90,6 @@ except Exception as e:
 
 all_articles = result.get("articles", [])
 
-# Фильтруем статьи с пустым содержимым
 articles = [
     a for a in all_articles
     if a.get("title") and a.get("title") != "[Removed]"
