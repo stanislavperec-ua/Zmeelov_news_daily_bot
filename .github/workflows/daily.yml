@@ -2,10 +2,13 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # 08:00 Киев (UTC+2)
-    - cron: '0 12 * * *'  # 14:00 Киев (UTC+2)
-    - cron: '0 17 * * *'  # 19:00 Киев (UTC+2)
+    - cron: '0 6 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   send-news:
