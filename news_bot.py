@@ -1,4 +1,5 @@
-import os
+Да, это сделать просто! Нужно вернуть текст обратно в подпись к фото (caption). Проблема раньше была в обрезке на 1024 символа — теперь добавим умную обрезку чтобы текст всегда влезал. Вот полный скрипт:
+pythonimport os
 import time
 import requests
 from groq import Groq
@@ -9,16 +10,15 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
-# Определяем киевское время и выбираем блок
 utc_hour  = datetime.utcnow().hour
-kyiv_hour = (utc_hour + 2) % 24  # Киев = UTC+2
+kyiv_hour = (utc_hour + 2) % 24
 
 if kyiv_hour < 12:
-    BLOCK = "morning"    # 08:00 Киев — 4 мировых + 3 Украина
+    BLOCK = "morning"
 elif kyiv_hour < 17:
-    BLOCK = "midday"     # 14:00 Киев — 4 мировых
+    BLOCK = "midday"
 else:
-    BLOCK = "evening"    # 19:00 Киев — 4 мировых + 3 Украина + прощание
+    BLOCK = "evening"
 
 print(f"UTC час: {utc_hour}, Киев час: {kyiv_hour}, блок: {BLOCK}")
 
@@ -44,15 +44,25 @@ def tg_text(text):
         print(f"Ошибка отправки текста: {e}")
 
 
-def tg_photo(image_url):
+def tg_photo_with_caption(image_url, caption):
+    """Отправляет фото с текстом как одно сообщение"""
     try:
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
-            json={"chat_id": TG_CHAT_ID, "photo": image_url},
+            json={
+                "chat_id": TG_CHAT_ID,
+                "photo": image_url,
+                "caption": caption[:1024]
+            },
             timeout=15
         )
-        return resp.status_code == 200
-    except Exception:
+        if resp.status_code == 200:
+            return True
+        # Если фото не загрузилось — шлём только текст
+        print(f"Фото не отправилось: {resp.status_code}")
+        return False
+    except Exception as e:
+        print(f"Ошибка отправки фото: {e}")
         return False
 
 
@@ -88,7 +98,8 @@ def analyze(title, description):
 
 Прогноз: (напиши 2-3 полных предложения о возможных последствиях для мира или России)
 
-Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек."""
+Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек.
+Важно: весь ответ должен быть не длиннее 900 символов."""
 
     for attempt in range(1, 4):
         try:
@@ -96,7 +107,7 @@ def analyze(title, description):
             response = client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
                 messages=[{"role": "user", "content": prompt}],
-                max_tokens=1000,
+                max_tokens=600,
                 temperature=0.5
             )
             result = response.choices[0].message.content
@@ -167,17 +178,20 @@ def send_news_block(articles, start_index, total):
         analysis = analyze(title, description)
         message  = f"Новость {i} из {total}\n\n{analysis}"
 
+        # Фото + текст одним сообщением
         if image_url:
-            tg_photo(image_url)
-
-        tg_text(message)
+            sent = tg_photo_with_caption(image_url, message)
+            if not sent:
+                tg_text(message)  # если фото не вышло — только текст
+        else:
+            tg_text(message)
 
         if i < total:
             print("Пауза 60 секунд...")
             time.sleep(60)
 
 
-# ── УТРЕННИЙ БЛОК 08:00 — 4 мировых + 3 Украина ──
+# ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
@@ -190,7 +204,7 @@ if BLOCK == "morning":
         tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
         send_news_block(ukraine, len(world) + 1, total)
 
-# ── ДНЕВНОЙ БЛОК 14:00 — 4 мировых ──
+# ── ДНЕВНОЙ БЛОК 14:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
     total = len(world)
@@ -199,7 +213,7 @@ elif BLOCK == "midday":
 
     send_news_block(world, 1, total)
 
-# ── ВЕЧЕРНИЙ БЛОК 19:00 — 4 мировых + 3 Украина + прощание ──
+# ── ВЕЧЕРНИЙ БЛОК 19:00 ──
 elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
