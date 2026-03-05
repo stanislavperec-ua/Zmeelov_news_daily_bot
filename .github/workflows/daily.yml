@@ -2,9 +2,9 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 17 * * *'
+    - cron: '0 6 * * *'   # 08:00 Киев (UTC+2)
+    - cron: '0 12 * * *'  # 14:00 Киев (UTC+2)
+    - cron: '0 17 * * *'  # 19:00 Киев (UTC+2)
   workflow_dispatch:
 
 jobs:
@@ -29,3 +29,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NEWS_API_KEY:     ${{ secrets.NEWS_API_KEY }}
         run: python news_bot.py
+
+      - name: Keep repo active
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "News Bot"
+          echo "Last run: $(date)" > last_run.txt
+          git add last_run.txt
+          git commit -m "Auto: keep repo active $(date +%Y-%m-%d-%H%M)" || echo "Nothing to commit"
+          git push
