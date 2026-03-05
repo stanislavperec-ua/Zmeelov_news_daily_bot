@@ -1,27 +1,22 @@
 import os
 import time
 import requests
+from groq import Groq
 from datetime import datetime
 
-GEMINI_KEY = os.environ["GEMINI_API_KEY"]
+GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
+client = Groq(api_key=GROQ_KEY)
+
 EXCLUDE_KEYWORDS = [
     "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
     "kardashian", "taylor swift", "oscar", "grammy", "box office",
     "recipe", "horoscope", "zodiac"
-]
-
-# Список моделей — пробуем по очереди если предыдущая не работает
-MODELS = [
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
-    "gemini-1.5-flash-8b",
-    "gemini-1.5-pro",
 ]
 
 
@@ -67,29 +62,7 @@ def is_relevant(article):
     return True
 
 
-def call_gemini(model, prompt):
-    url = (
-        "https://generativelanguage.googleapis.com/v1beta/"
-        f"models/{model}:generateContent?key={GEMINI_KEY}"
-    )
-    resp = requests.post(url, json={
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.5,
-            "maxOutputTokens": 1000
-        }
-    }, timeout=60)
-
-    data = resp.json()
-
-    if "candidates" in data:
-        return data["candidates"][0]["content"]["parts"][0]["text"]
-
-    error_msg = data.get("error", {}).get("message", "Неизвестная ошибка")
-    raise Exception(error_msg)
-
-
-def gemini_analyze(title, description):
+def analyze(title, description):
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 Описание: {description}
@@ -104,34 +77,29 @@ def gemini_analyze(title, description):
 
 Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек."""
 
-    for model in MODELS:
-        print(f"Пробую модель: {model}")
-        for attempt in range(1, 3):
-            try:
-                result = call_gemini(model, prompt)
-                print(f"Успешно! Модель {model}, получено {len(result)} символов")
-                return result
+    for attempt in range(1, 4):
+        try:
+            print(f"Попытка {attempt}...")
+            response = client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=1000,
+                temperature=0.5
+            )
+            result = response.choices[0].message.content
+            print(f"Успешно, получено {len(result)} символов")
+            return result
 
-            except Exception as e:
-                error = str(e)
-                print(f"Ошибка ({model}, попытка {attempt}): {error[:120]}")
-
-                # Если лимит запросов — ждём и повторяем эту же модель
-                if "quota" in error.lower() or "rate" in error.lower():
-                    print("Лимит запросов, ждём 60 секунд...")
-                    time.sleep(60)
-                    continue
-
-                # Если модель не найдена — сразу переходим к следующей
-                if "not found" in error.lower() or "not supported" in error.lower():
-                    print(f"Модель {model} недоступна, переходим к следующей")
-                    break
-
-                # Другая ошибка — пробуем ещё раз
+        except Exception as e:
+            error = str(e)
+            print(f"Ошибка (попытка {attempt}): {error[:150]}")
+            if "rate" in error.lower() or "429" in error:
+                print("Лимит запросов, ждём 30 секунд...")
+                time.sleep(30)
+            else:
                 time.sleep(10)
-                continue
 
-    return "Анализ недоступен — все модели Gemini не отвечают."
+    return "Анализ временно недоступен."
 
 
 # 1. Получаем новости
@@ -173,7 +141,7 @@ for i, article in enumerate(articles, 1):
 
     print(f"\nНовость {i}: {title[:60]}")
 
-    analysis = gemini_analyze(title, description)
+    analysis = analyze(title, description)
     message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
 
     if image_url:
@@ -182,8 +150,8 @@ for i, article in enumerate(articles, 1):
     tg_text(message)
 
     if i < len(articles):
-        print("Пауза 60 секунд...")
-        time.sleep(60)
+        print("Пауза 5 секунд...")
+        time.sleep(5)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
