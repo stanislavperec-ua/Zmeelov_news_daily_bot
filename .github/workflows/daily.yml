@@ -2,12 +2,9 @@ name: Daily News Bot
 
 on:
   schedule:
-    # 05:00 UTC = 08:00 по Москве (UTC+3)
-    # Екатеринбург UTC+5 → пиши '0 3 * * *'
-    # Новосибирск UTC+7 → пиши '0 1 * * *'
-    # Владивосток UTC+10 → пиши '22 * * *' (предыдущего дня)
-    - cron: '0 5 * * *'
-  workflow_dispatch:  # кнопка ручного запуска для теста
+    # 06:00 UTC = 08:00 по Киеву (UTC+2)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   send-news:
