@@ -124,10 +124,10 @@ def analyze(title, description, source_name):
             )
             raw = response.choices[0].message.content.strip()
 
-            # Первая строка — заголовок, делаем жирным сами
+            # Первая строка — заголовок, делаем жирным и добавляем красный шар
             lines = [l.strip() for l in raw.split("\n") if l.strip()]
             if lines:
-                lines[0] = f"*{lines[0]}*"
+                lines[0] = f"🔴 *{lines[0]}*"
             result = "\n\n".join(lines)
 
             print(f"Успешно, получено {len(result)} символов")
@@ -250,6 +250,8 @@ elif BLOCK == "evening":
     tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
 
 print("Готово!")
+
+
 
 
 
