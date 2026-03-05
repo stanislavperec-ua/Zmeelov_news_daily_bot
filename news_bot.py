@@ -16,6 +16,14 @@ EXCLUDE_KEYWORDS = [
     "recipe", "horoscope", "zodiac"
 ]
 
+# Список моделей — пробуем по очереди если предыдущая не работает
+MODELS = [
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash-8b",
+    "gemini-1.5-pro",
+]
+
 
 def tg_text(text):
     try:
@@ -59,6 +67,28 @@ def is_relevant(article):
     return True
 
 
+def call_gemini(model, prompt):
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/"
+        f"models/{model}:generateContent?key={GEMINI_KEY}"
+    )
+    resp = requests.post(url, json={
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.5,
+            "maxOutputTokens": 1000
+        }
+    }, timeout=60)
+
+    data = resp.json()
+
+    if "candidates" in data:
+        return data["candidates"][0]["content"]["parts"][0]["text"]
+
+    error_msg = data.get("error", {}).get("message", "Неизвестная ошибка")
+    raise Exception(error_msg)
+
+
 def gemini_analyze(title, description):
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
@@ -74,45 +104,34 @@ def gemini_analyze(title, description):
 
 Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек."""
 
-    url = (
-        "https://generativelanguage.googleapis.com/v1beta/"
-        f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
-    )
+    for model in MODELS:
+        print(f"Пробую модель: {model}")
+        for attempt in range(1, 3):
+            try:
+                result = call_gemini(model, prompt)
+                print(f"Успешно! Модель {model}, получено {len(result)} символов")
+                return result
 
-    for attempt in range(1, 4):
-        try:
-            print(f"Попытка {attempt}...")
-            resp = requests.post(url, json={
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {
-                    "temperature": 0.5,
-                    "maxOutputTokens": 1000
-                }
-            }, timeout=60)
+            except Exception as e:
+                error = str(e)
+                print(f"Ошибка ({model}, попытка {attempt}): {error[:120]}")
 
-            data = resp.json()
+                # Если лимит запросов — ждём и повторяем эту же модель
+                if "quota" in error.lower() or "rate" in error.lower():
+                    print("Лимит запросов, ждём 60 секунд...")
+                    time.sleep(60)
+                    continue
 
-            if "candidates" in data:
-                text = data["candidates"][0]["content"]["parts"][0]["text"]
-                print(f"Успешно, получено {len(text)} символов")
-                return text
+                # Если модель не найдена — сразу переходим к следующей
+                if "not found" in error.lower() or "not supported" in error.lower():
+                    print(f"Модель {model} недоступна, переходим к следующей")
+                    break
 
-            error_msg = data.get("error", {}).get("message", "")
-            print(f"Ошибка Gemini: {error_msg[:150]}")
-
-            if "quota" in error_msg.lower() or "rate" in error_msg.lower():
-                print("Лимит запросов, ждём 60 секунд...")
-                time.sleep(60)
+                # Другая ошибка — пробуем ещё раз
+                time.sleep(10)
                 continue
-            else:
-                return f"Ошибка: {error_msg[:200]}"
 
-        except Exception as e:
-            print(f"Исключение: {e}")
-            time.sleep(15)
-            continue
-
-    return "Анализ недоступен."
+    return "Анализ недоступен — все модели Gemini не отвечают."
 
 
 # 1. Получаем новости
@@ -162,7 +181,6 @@ for i, article in enumerate(articles, 1):
 
     tg_text(message)
 
-    # Пауза 60 секунд между новостями
     if i < len(articles):
         print("Пауза 60 секунд...")
         time.sleep(60)
