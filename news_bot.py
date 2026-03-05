@@ -9,17 +9,18 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
-# Определяем текущий час по UTC и выбираем блок
-utc_hour = datetime.utcnow().hour
+# Определяем киевское время и выбираем блок
+utc_hour  = datetime.utcnow().hour
+kyiv_hour = (utc_hour + 2) % 24  # Киев = UTC+2
 
-if utc_hour == 6:
+if kyiv_hour < 12:
     BLOCK = "morning"    # 08:00 Киев — 4 мировых + 3 Украина
-elif utc_hour == 12:
+elif kyiv_hour < 17:
     BLOCK = "midday"     # 14:00 Киев — 4 мировых
 else:
     BLOCK = "evening"    # 19:00 Киев — 4 мировых + 3 Украина + прощание
 
-print(f"UTC час: {utc_hour}, блок: {BLOCK}")
+print(f"UTC час: {utc_hour}, Киев час: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
@@ -106,8 +107,8 @@ def analyze(title, description):
             error = str(e)
             print(f"Ошибка (попытка {attempt}): {error[:150]}")
             if "rate" in error.lower() or "429" in error:
-                print("Лимит запросов, ждём 30 секунд...")
-                time.sleep(30)
+                print("Лимит запросов, ждём 60 секунд...")
+                time.sleep(60)
             else:
                 time.sleep(10)
 
@@ -115,7 +116,6 @@ def analyze(title, description):
 
 
 def get_world_news(count):
-    """Получает мировые новости"""
     try:
         resp = requests.get(
             "https://newsapi.org/v2/top-headlines",
@@ -136,7 +136,6 @@ def get_world_news(count):
 
 
 def get_ukraine_news(count):
-    """Получает новости по Украине"""
     try:
         resp = requests.get(
             "https://newsapi.org/v2/everything",
@@ -158,7 +157,6 @@ def get_ukraine_news(count):
 
 
 def send_news_block(articles, start_index, total):
-    """Отправляет блок новостей"""
     for i, article in enumerate(articles, start_index):
         title       = article.get("title", "").split(" - ")[0].strip()
         description = article.get("description", "")
@@ -175,8 +173,8 @@ def send_news_block(articles, start_index, total):
         tg_text(message)
 
         if i < total:
-            print("Пауза 5 секунд...")
-            time.sleep(5)
+            print("Пауза 60 секунд...")
+            time.sleep(60)
 
 
 # ── УТРЕННИЙ БЛОК 08:00 — 4 мировых + 3 Украина ──
