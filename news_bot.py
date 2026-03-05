@@ -9,6 +9,18 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
+# Определяем текущий час по UTC и выбираем блок
+utc_hour = datetime.utcnow().hour
+
+if utc_hour == 6:
+    BLOCK = "morning"    # 08:00 Киев — 4 мировых + 3 Украина
+elif utc_hour == 12:
+    BLOCK = "midday"     # 14:00 Киев — 4 мировых
+else:
+    BLOCK = "evening"    # 19:00 Киев — 4 мировых + 3 Украина + прощание
+
+print(f"UTC час: {utc_hour}, блок: {BLOCK}")
+
 today_str = datetime.now().strftime("%d.%m.%Y")
 
 client = Groq(api_key=GROQ_KEY)
@@ -102,59 +114,108 @@ def analyze(title, description):
     return "Анализ временно недоступен."
 
 
-# 1. Получаем новости
-try:
-    news_resp = requests.get(
-        "https://newsapi.org/v2/top-headlines",
-        params={
-            "apiKey": NEWS_KEY,
-            "language": "en",
-            "pageSize": 20,
-            "category": "general"
-        },
-        timeout=15
-    )
-    result = news_resp.json()
-except Exception as e:
-    tg_text(f"Не удалось получить новости: {e}")
-    exit()
+def get_world_news(count):
+    """Получает мировые новости"""
+    try:
+        resp = requests.get(
+            "https://newsapi.org/v2/top-headlines",
+            params={
+                "apiKey": NEWS_KEY,
+                "language": "en",
+                "pageSize": 20,
+                "category": "general"
+            },
+            timeout=15
+        )
+        articles = resp.json().get("articles", [])
+        articles = [a for a in articles if is_relevant(a)]
+        return articles[:count]
+    except Exception as e:
+        print(f"Ошибка получения мировых новостей: {e}")
+        return []
 
-all_articles = result.get("articles", [])
-articles = [a for a in all_articles if is_relevant(a)]
 
-print(f"Всего: {len(all_articles)}, после фильтра: {len(articles)}")
+def get_ukraine_news(count):
+    """Получает новости по Украине"""
+    try:
+        resp = requests.get(
+            "https://newsapi.org/v2/everything",
+            params={
+                "apiKey": NEWS_KEY,
+                "q": "Ukraine",
+                "language": "en",
+                "pageSize": 20,
+                "sortBy": "publishedAt"
+            },
+            timeout=15
+        )
+        articles = resp.json().get("articles", [])
+        articles = [a for a in articles if is_relevant(a)]
+        return articles[:count]
+    except Exception as e:
+        print(f"Ошибка получения новостей по Украине: {e}")
+        return []
 
-if not articles:
-    tg_text("Нет подходящих новостей сегодня.")
-    exit()
 
-articles = articles[:7]
+def send_news_block(articles, start_index, total):
+    """Отправляет блок новостей"""
+    for i, article in enumerate(articles, start_index):
+        title       = article.get("title", "").split(" - ")[0].strip()
+        description = article.get("description", "")
+        image_url   = article.get("urlToImage")
 
-# 2. Заголовок
-tg_text(f"ОБЗОР МИРОВЫХ НОВОСТЕЙ\n{today_str}\n\nГотовлю топ-{len(articles)} событий дня...")
+        print(f"\nНовость {i}/{total}: {title[:60]}")
 
-# 3. Каждая новость
-for i, article in enumerate(articles, 1):
-    title       = article.get("title", "").split(" - ")[0].strip()
-    description = article.get("description", "")
-    image_url   = article.get("urlToImage")
+        analysis = analyze(title, description)
+        message  = f"Новость {i} из {total}\n\n{analysis}"
 
-    print(f"\nНовость {i}: {title[:60]}")
+        if image_url:
+            tg_photo(image_url)
 
-    analysis = analyze(title, description)
-    message  = f"Новость {i} из {len(articles)}\n\n{analysis}"
+        tg_text(message)
 
-    if image_url:
-        tg_photo(image_url)
+        if i < total:
+            print("Пауза 5 секунд...")
+            time.sleep(5)
 
-    tg_text(message)
 
-    if i < len(articles):
-        print("Пауза 5 секунд...")
-        time.sleep(5)
+# ── УТРЕННИЙ БЛОК 08:00 — 4 мировых + 3 Украина ──
+if BLOCK == "morning":
+    world   = get_world_news(4)
+    ukraine = get_ukraine_news(3)
+    total   = len(world) + len(ukraine)
 
-# 4. Финал
-tg_text("Это все главные события дня. Хорошего дня!")
+    tg_text(f"🌍 УТРЕННИЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\n🌐 Мировые события + 🇺🇦 Украина\nГотовлю {total} новостей...")
+
+    send_news_block(world, 1, total)
+    if ukraine:
+        tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
+        send_news_block(ukraine, len(world) + 1, total)
+
+# ── ДНЕВНОЙ БЛОК 14:00 — 4 мировых ──
+elif BLOCK == "midday":
+    world = get_world_news(4)
+    total = len(world)
+
+    tg_text(f"🌍 ДНЕВНОЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\nГотовлю {total} новости...")
+
+    send_news_block(world, 1, total)
+
+# ── ВЕЧЕРНИЙ БЛОК 19:00 — 4 мировых + 3 Украина + прощание ──
+elif BLOCK == "evening":
+    world   = get_world_news(4)
+    ukraine = get_ukraine_news(3)
+    total   = len(world) + len(ukraine)
+
+    tg_text(f"🌍 ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\n🌐 Мировые события + 🇺🇦 Украина\nГотовлю {total} новостей...")
+
+    send_news_block(world, 1, total)
+    if ukraine:
+        tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
+        send_news_block(ukraine, len(world) + 1, total)
+
+    tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
+
 print("Готово!")
 
 
