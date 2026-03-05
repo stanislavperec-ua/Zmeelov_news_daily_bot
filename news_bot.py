@@ -1,5 +1,4 @@
-Да, это сделать просто! Нужно вернуть текст обратно в подпись к фото (caption). Проблема раньше была в обрезке на 1024 символа — теперь добавим умную обрезку чтобы текст всегда влезал. Вот полный скрипт:
-pythonimport os
+import os
 import time
 import requests
 from groq import Groq
@@ -45,7 +44,6 @@ def tg_text(text):
 
 
 def tg_photo_with_caption(image_url, caption):
-    """Отправляет фото с текстом как одно сообщение"""
     try:
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
@@ -58,7 +56,6 @@ def tg_photo_with_caption(image_url, caption):
         )
         if resp.status_code == 200:
             return True
-        # Если фото не загрузилось — шлём только текст
         print(f"Фото не отправилось: {resp.status_code}")
         return False
     except Exception as e:
@@ -85,21 +82,21 @@ def is_relevant(article):
     return True
 
 
-def analyze(title, description):
+def analyze(title, description, source_name):
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 Описание: {description}
+Источник: {source_name}
 
-Напиши полный ответ на русском языке в таком формате:
+Напиши ответ на русском языке строго в таком формате:
 
-Заголовок: (переведи на русский)
+Заголовок: (переведи на русский — конкретно и точно)
 
-Суть: (напиши 2-3 полных предложения о том что произошло и почему важно)
+Суть: (2-3 предложения — называй конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США" или "кабинет министров Германии". Не пиши "компания" — пиши название компании. Не пиши "организация" — пиши её полное название.)
 
-Прогноз: (напиши 2-3 полных предложения о возможных последствиях для мира или России)
+Прогноз: (2-3 предложения — конкретные последствия для конкретных стран, людей, рынков.)
 
-Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек.
-Важно: весь ответ должен быть не длиннее 900 символов."""
+Весь ответ не длиннее 800 символов. Только чистый текст без звёздочек."""
 
     for attempt in range(1, 4):
         try:
@@ -172,17 +169,24 @@ def send_news_block(articles, start_index, total):
         title       = article.get("title", "").split(" - ")[0].strip()
         description = article.get("description", "")
         image_url   = article.get("urlToImage")
+        source_name = article.get("source", {}).get("name", "Unknown")
+        article_url = article.get("url", "")
 
         print(f"\nНовость {i}/{total}: {title[:60]}")
 
-        analysis = analyze(title, description)
-        message  = f"Новость {i} из {total}\n\n{analysis}"
+        analysis = analyze(title, description, source_name)
 
-        # Фото + текст одним сообщением
+        # Собираем сообщение со ссылкой на первоисточник
+        message = (
+            f"Новость {i} из {total}\n\n"
+            f"{analysis}\n\n"
+            f"🔗 Первоисточник ({source_name}):\n{article_url}"
+        )
+
         if image_url:
             sent = tg_photo_with_caption(image_url, message)
             if not sent:
-                tg_text(message)  # если фото не вышло — только текст
+                tg_text(message)
         else:
             tg_text(message)
 
@@ -229,7 +233,6 @@ elif BLOCK == "evening":
     tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
 
 print("Готово!")
-
 
 
 
