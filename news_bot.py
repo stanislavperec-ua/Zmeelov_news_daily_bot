@@ -9,21 +9,18 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
-# Киев = UTC+2 (зима) / UTC+3 (лето, с последнего воскресенья марта)
-# Определяем смещение автоматически
 utc_now   = datetime.utcnow()
 utc_hour  = utc_now.hour
+month     = utc_now.month
 
-# Проверяем летнее время Украины (последнее воскресенье марта — последнее воскресенье октября)
-month = utc_now.month
 if month > 3 and month < 10:
-    kyiv_offset = 3  # лето UTC+3
+    kyiv_offset = 3
 elif month == 3 and utc_now.day >= 25:
-    kyiv_offset = 3  # конец марта — уже лето
+    kyiv_offset = 3
 elif month == 10 and utc_now.day >= 25:
-    kyiv_offset = 2  # конец октября — уже зима
+    kyiv_offset = 2
 else:
-    kyiv_offset = 2  # зима UTC+2
+    kyiv_offset = 2
 
 kyiv_hour = (utc_hour + kyiv_offset) % 24
 
@@ -51,7 +48,11 @@ def tg_text(text):
     try:
         requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-            json={"chat_id": TG_CHAT_ID, "text": text[:4000]},
+            json={
+                "chat_id": TG_CHAT_ID,
+                "text": text[:4000],
+                "parse_mode": "Markdown"
+            },
             timeout=15
         )
     except Exception as e:
@@ -65,7 +66,8 @@ def tg_photo_with_caption(image_url, caption):
             json={
                 "chat_id": TG_CHAT_ID,
                 "photo": image_url,
-                "caption": caption[:1024]
+                "caption": caption[:1024],
+                "parse_mode": "Markdown"
             },
             timeout=15
         )
@@ -105,13 +107,13 @@ def analyze(title, description, source_name):
 
 Напиши ответ на русском языке строго в таком формате:
 
-Заголовок: (переведи на русский — конкретно и точно)
+*Жирным шрифтом напиши переведённый заголовок* (только сам заголовок, обёрнутый в звёздочки)
 
-Суть: (2-3 предложения — называй конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании. Не пиши "организация" — пиши полное название.)
+Суть: (2-3 предложения — называй конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании.)
 
 Прогноз: (2-3 предложения — конкретные последствия для конкретных стран, людей, рынков.)
 
-Весь ответ не длиннее 800 символов. Только чистый текст без звёздочек."""
+Весь ответ не длиннее 800 символов. Кроме заголовка никаких звёздочек."""
 
     for attempt in range(1, 4):
         try:
@@ -213,18 +215,18 @@ if BLOCK == "morning":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
 
-    tg_text(f"🌍 УТРЕННИЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
+    tg_text(f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
 
     send_news_block(world)
     if ukraine:
-        tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
+        tg_text("🇺🇦 *НОВОСТИ УКРАИНЫ*")
         send_news_block(ukraine)
 
 # ── ДНЕВНОЙ БЛОК 14:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
 
-    tg_text(f"🌍 ДНЕВНОЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
+    tg_text(f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
 
     send_news_block(world)
 
@@ -233,11 +235,11 @@ elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
 
-    tg_text(f"🌍 ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
+    tg_text(f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
 
     send_news_block(world)
     if ukraine:
-        tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
+        tg_text("🇺🇦 *НОВОСТИ УКРАИНЫ*")
         send_news_block(ukraine)
 
     tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
