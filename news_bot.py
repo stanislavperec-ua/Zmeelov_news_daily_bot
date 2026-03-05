@@ -9,8 +9,23 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
-utc_hour  = datetime.utcnow().hour
-kyiv_hour = (utc_hour + 2) % 24
+# Киев = UTC+2 (зима) / UTC+3 (лето, с последнего воскресенья марта)
+# Определяем смещение автоматически
+utc_now   = datetime.utcnow()
+utc_hour  = utc_now.hour
+
+# Проверяем летнее время Украины (последнее воскресенье марта — последнее воскресенье октября)
+month = utc_now.month
+if month > 3 and month < 10:
+    kyiv_offset = 3  # лето UTC+3
+elif month == 3 and utc_now.day >= 25:
+    kyiv_offset = 3  # конец марта — уже лето
+elif month == 10 and utc_now.day >= 25:
+    kyiv_offset = 2  # конец октября — уже зима
+else:
+    kyiv_offset = 2  # зима UTC+2
+
+kyiv_hour = (utc_hour + kyiv_offset) % 24
 
 if kyiv_hour < 12:
     BLOCK = "morning"
@@ -19,7 +34,7 @@ elif kyiv_hour < 17:
 else:
     BLOCK = "evening"
 
-print(f"UTC час: {utc_hour}, Киев час: {kyiv_hour}, блок: {BLOCK}")
+print(f"UTC: {utc_hour}, Киев: {kyiv_hour} (UTC+{kyiv_offset}), блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
@@ -92,7 +107,7 @@ def analyze(title, description, source_name):
 
 Заголовок: (переведи на русский — конкретно и точно)
 
-Суть: (2-3 предложения — называй конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США" или "кабинет министров Германии". Не пиши "компания" — пиши название компании. Не пиши "организация" — пиши её полное название.)
+Суть: (2-3 предложения — называй конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании. Не пиши "организация" — пиши полное название.)
 
 Прогноз: (2-3 предложения — конкретные последствия для конкретных стран, людей, рынков.)
 
@@ -164,23 +179,21 @@ def get_ukraine_news(count):
         return []
 
 
-def send_news_block(articles, start_index, total):
-    for i, article in enumerate(articles, start_index):
+def send_news_block(articles):
+    for i, article in enumerate(articles):
         title       = article.get("title", "").split(" - ")[0].strip()
         description = article.get("description", "")
         image_url   = article.get("urlToImage")
         source_name = article.get("source", {}).get("name", "Unknown")
         article_url = article.get("url", "")
 
-        print(f"\nНовость {i}/{total}: {title[:60]}")
+        print(f"\nОбрабатываю: {title[:60]}")
 
         analysis = analyze(title, description, source_name)
 
-        # Собираем сообщение со ссылкой на первоисточник
         message = (
-            f"Новость {i} из {total}\n\n"
             f"{analysis}\n\n"
-            f"🔗 Первоисточник ({source_name}):\n{article_url}"
+            f"🔗 {source_name}: {article_url}"
         )
 
         if image_url:
@@ -190,7 +203,7 @@ def send_news_block(articles, start_index, total):
         else:
             tg_text(message)
 
-        if i < total:
+        if i < len(articles) - 1:
             print("Пауза 60 секунд...")
             time.sleep(60)
 
@@ -199,36 +212,33 @@ def send_news_block(articles, start_index, total):
 if BLOCK == "morning":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
-    total   = len(world) + len(ukraine)
 
-    tg_text(f"🌍 УТРЕННИЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\n🌐 Мировые события + 🇺🇦 Украина\nГотовлю {total} новостей...")
+    tg_text(f"🌍 УТРЕННИЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
 
-    send_news_block(world, 1, total)
+    send_news_block(world)
     if ukraine:
         tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
-        send_news_block(ukraine, len(world) + 1, total)
+        send_news_block(ukraine)
 
 # ── ДНЕВНОЙ БЛОК 14:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
-    total = len(world)
 
-    tg_text(f"🌍 ДНЕВНОЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\nГотовлю {total} новости...")
+    tg_text(f"🌍 ДНЕВНОЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
 
-    send_news_block(world, 1, total)
+    send_news_block(world)
 
 # ── ВЕЧЕРНИЙ БЛОК 19:00 ──
 elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
-    total   = len(world) + len(ukraine)
 
-    tg_text(f"🌍 ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ\n{today_str}\n\n🌐 Мировые события + 🇺🇦 Украина\nГотовлю {total} новостей...")
+    tg_text(f"🌍 ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ\n{today_str}")
 
-    send_news_block(world, 1, total)
+    send_news_block(world)
     if ukraine:
         tg_text("🇺🇦 НОВОСТИ УКРАИНЫ")
-        send_news_block(ukraine, len(world) + 1, total)
+        send_news_block(ukraine)
 
     tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
 
