@@ -1,4 +1,4 @@
-nname: Daily News Bot
+name: Daily News Bot
 
 on:
   schedule:
