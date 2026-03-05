@@ -79,8 +79,7 @@ def gemini_analyze(title, description):
         f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
     )
 
-    # Пробуем до 5 раз с паузой при ошибке лимита
-    for attempt in range(1, 6):
+    for attempt in range(1, 4):
         try:
             print(f"Попытка {attempt}...")
             resp = requests.post(url, json={
@@ -99,24 +98,21 @@ def gemini_analyze(title, description):
                 return text
 
             error_msg = data.get("error", {}).get("message", "")
-            print(f"Ошибка Gemini: {error_msg[:100]}")
+            print(f"Ошибка Gemini: {error_msg[:150]}")
 
-            # Если превышен лимит — ждём и пробуем снова
             if "quota" in error_msg.lower() or "rate" in error_msg.lower():
-                wait = attempt * 20
-                print(f"Лимит превышен, ждём {wait} секунд...")
-                time.sleep(wait)
+                print("Лимит запросов, ждём 60 секунд...")
+                time.sleep(60)
                 continue
             else:
-                # Другая ошибка — нет смысла повторять
                 return f"Ошибка: {error_msg[:200]}"
 
         except Exception as e:
             print(f"Исключение: {e}")
-            time.sleep(10)
+            time.sleep(15)
             continue
 
-    return "Анализ недоступен — Gemini не отвечает."
+    return "Анализ недоступен."
 
 
 # 1. Получаем новости
@@ -166,10 +162,10 @@ for i, article in enumerate(articles, 1):
 
     tg_text(message)
 
-    # Пауза между новостями чтобы не превышать лимит
+    # Пауза 60 секунд между новостями
     if i < len(articles):
-        print("Пауза 15 секунд...")
-        time.sleep(15)
+        print("Пауза 60 секунд...")
+        time.sleep(60)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
