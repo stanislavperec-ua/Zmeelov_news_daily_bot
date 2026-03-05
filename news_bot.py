@@ -60,12 +60,6 @@ def is_relevant(article):
 
 
 def gemini_analyze(title, description):
-    models = [
-        "gemini-2.5-pro",
-        "gemini-2.5-flash",
-        "gemini-2.0-flash",
-    ]
-
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 Описание: {description}
@@ -80,12 +74,15 @@ def gemini_analyze(title, description):
 
 Каждый раздел должен быть полным и завершённым. Только чистый текст без звёздочек."""
 
-    for model in models:
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/"
+        f"models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    )
+
+    # Пробуем до 5 раз с паузой при ошибке лимита
+    for attempt in range(1, 6):
         try:
-            url = (
-                "https://generativelanguage.googleapis.com/v1beta/"
-                f"models/{model}:generateContent?key={GEMINI_KEY}"
-            )
+            print(f"Попытка {attempt}...")
             resp = requests.post(url, json={
                 "contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {
@@ -98,19 +95,28 @@ def gemini_analyze(title, description):
 
             if "candidates" in data:
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
-                print(f"Модель {model} вернула {len(text)} символов")
+                print(f"Успешно, получено {len(text)} символов")
                 return text
-            else:
-                error = data.get("error", {}).get("message", "")
-                print(f"Модель {model} не сработала: {error[:100]}")
-                time.sleep(3)
+
+            error_msg = data.get("error", {}).get("message", "")
+            print(f"Ошибка Gemini: {error_msg[:100]}")
+
+            # Если превышен лимит — ждём и пробуем снова
+            if "quota" in error_msg.lower() or "rate" in error_msg.lower():
+                wait = attempt * 20
+                print(f"Лимит превышен, ждём {wait} секунд...")
+                time.sleep(wait)
                 continue
+            else:
+                # Другая ошибка — нет смысла повторять
+                return f"Ошибка: {error_msg[:200]}"
 
         except Exception as e:
-            print(f"Ошибка с моделью {model}: {e}")
+            print(f"Исключение: {e}")
+            time.sleep(10)
             continue
 
-    return "Анализ временно недоступен."
+    return "Анализ недоступен — Gemini не отвечает."
 
 
 # 1. Получаем новости
@@ -160,9 +166,10 @@ for i, article in enumerate(articles, 1):
 
     tg_text(message)
 
+    # Пауза между новостями чтобы не превышать лимит
     if i < len(articles):
-        print("Пауза 10 секунд...")
-        time.sleep(10)
+        print("Пауза 15 секунд...")
+        time.sleep(15)
 
 # 4. Финал
 tg_text("Это все главные события дня. Хорошего дня!")
