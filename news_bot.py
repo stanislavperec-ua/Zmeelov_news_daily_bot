@@ -14,16 +14,16 @@ utc_hour    = utc_now.hour
 kyiv_offset = 2
 kyiv_hour   = (utc_hour + kyiv_offset) % 24
 
-if kyiv_hour == 8:
-    BLOCK = "morning"
-elif kyiv_hour == 10:
-    BLOCK = "ai_morning"
-elif kyiv_hour == 13:
-    BLOCK = "midday"
-elif kyiv_hour == 18:
-    BLOCK = "evening"
-elif kyiv_hour == 20:
-    BLOCK = "ai_evening"
+if 5 <= kyiv_hour < 10:
+    BLOCK = "morning"     # 05:00-09:59
+elif 10 <= kyiv_hour < 12:
+    BLOCK = "ai_morning"  # 10:00-11:59
+elif 12 <= kyiv_hour < 16:
+    BLOCK = "midday"      # 12:00-15:59
+elif 16 <= kyiv_hour < 19:
+    BLOCK = "evening"     # 16:00-18:59
+elif 19 <= kyiv_hour < 23:
+    BLOCK = "ai_evening"  # 19:00-22:59
 else:
     BLOCK = "morning"
 
@@ -43,26 +43,22 @@ SENT_URLS_FILE = "sent_urls.txt"
 
 
 def load_sent_urls():
-    """Загружаем уже отправленные URL из файла"""
     if not os.path.exists(SENT_URLS_FILE):
         return set()
     with open(SENT_URLS_FILE, "r") as f:
         urls = set(line.strip() for line in f if line.strip())
     print(f"Загружено {len(urls)} уже отправленных новостей")
-    # Оставляем только последние 200 URL чтобы файл не разрастался
     if len(urls) > 200:
         urls = set(list(urls)[-200:])
     return urls
 
 
 def save_sent_url(url, sent_urls):
-    """Добавляем URL в файл и в память"""
     sent_urls.add(url)
     with open(SENT_URLS_FILE, "a") as f:
         f.write(url + "\n")
 
 
-# Загружаем историю при старте
 sent_urls = load_sent_urls()
 
 
@@ -118,7 +114,6 @@ def is_relevant(article):
         if word in text:
             return False
 
-    # Пропускаем уже отправленные
     url = article.get("url", "")
     if url in sent_urls:
         print(f"Пропускаю уже отправленную: {article.get('title', '')[:50]}")
@@ -258,7 +253,6 @@ def send_news_block(articles):
         else:
             tg_text(message)
 
-        # Запоминаем как отправленную
         save_sent_url(article_url, sent_urls)
 
         if i < len(articles) - 1:
@@ -318,8 +312,3 @@ elif BLOCK == "ai_evening":
 
 print("Готово!")
 
-
-
-
-
-  
