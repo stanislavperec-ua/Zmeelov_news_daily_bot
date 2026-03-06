@@ -9,29 +9,25 @@ TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 
-utc_now   = datetime.utcnow()
-utc_hour  = utc_now.hour
-month     = utc_now.month
+utc_now     = datetime.utcnow()
+utc_hour    = utc_now.hour
+kyiv_offset = 2
+kyiv_hour   = (utc_hour + kyiv_offset) % 24
 
-if month > 3 and month < 10:
-    kyiv_offset = 3
-elif month == 3 and utc_now.day >= 25:
-    kyiv_offset = 3
-elif month == 10 and utc_now.day >= 25:
-    kyiv_offset = 2
-else:
-    kyiv_offset = 2
-
-kyiv_hour = (utc_hour + kyiv_offset) % 24
-
-if kyiv_hour < 12:
+if kyiv_hour == 8:
     BLOCK = "morning"
-elif kyiv_hour < 17:
+elif kyiv_hour == 10:
+    BLOCK = "ai_morning"
+elif kyiv_hour == 13:
     BLOCK = "midday"
-else:
+elif kyiv_hour == 18:
     BLOCK = "evening"
+elif kyiv_hour == 20:
+    BLOCK = "ai_evening"
+else:
+    BLOCK = "morning"
 
-print(f"UTC: {utc_hour}, Киев: {kyiv_hour} (UTC+{kyiv_offset}), блок: {BLOCK}")
+print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 
@@ -124,7 +120,6 @@ def analyze(title, description, source_name):
             )
             raw = response.choices[0].message.content.strip()
 
-            # Первая строка — заголовок, делаем жирным и добавляем красный шар
             lines = [l.strip() for l in raw.split("\n") if l.strip()]
             if lines:
                 lines[0] = f"🔴 *{lines[0]}*"
@@ -186,6 +181,27 @@ def get_ukraine_news(count):
         return []
 
 
+def get_ai_news(count):
+    try:
+        resp = requests.get(
+            "https://newsapi.org/v2/everything",
+            params={
+                "apiKey": NEWS_KEY,
+                "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Gemini OR neural network",
+                "language": "en",
+                "pageSize": 20,
+                "sortBy": "publishedAt"
+            },
+            timeout=15
+        )
+        articles = resp.json().get("articles", [])
+        articles = [a for a in articles if is_relevant(a)]
+        return articles[:count]
+    except Exception as e:
+        print(f"Ошибка получения AI новостей: {e}")
+        return []
+
+
 def send_news_block(articles):
     for i, article in enumerate(articles):
         title       = article.get("title", "").split(" - ")[0].strip()
@@ -227,7 +243,15 @@ if BLOCK == "morning":
         tg_text("🇺🇦 *НОВОСТИ УКРАИНЫ*")
         send_news_block(ukraine)
 
-# ── ДНЕВНОЙ БЛОК 14:00 ──
+# ── AI БЛОК 10:00 ──
+elif BLOCK == "ai_morning":
+    ai_news = get_ai_news(3)
+
+    tg_text(f"🤖 *AI NEWS*\n{today_str}")
+
+    send_news_block(ai_news)
+
+# ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
 
@@ -235,7 +259,7 @@ elif BLOCK == "midday":
 
     send_news_block(world)
 
-# ── ВЕЧЕРНИЙ БЛОК 19:00 ──
+# ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
@@ -248,6 +272,14 @@ elif BLOCK == "evening":
         send_news_block(ukraine)
 
     tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
+
+# ── AI БЛОК 20:00 ──
+elif BLOCK == "ai_evening":
+    ai_news = get_ai_news(3)
+
+    tg_text(f"🤖 *AI NEWS*\n{today_str}")
+
+    send_news_block(ai_news)
 
 print("Готово!")
 
