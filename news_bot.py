@@ -39,6 +39,32 @@ EXCLUDE_KEYWORDS = [
     "recipe", "horoscope", "zodiac"
 ]
 
+SENT_URLS_FILE = "sent_urls.txt"
+
+
+def load_sent_urls():
+    """Загружаем уже отправленные URL из файла"""
+    if not os.path.exists(SENT_URLS_FILE):
+        return set()
+    with open(SENT_URLS_FILE, "r") as f:
+        urls = set(line.strip() for line in f if line.strip())
+    print(f"Загружено {len(urls)} уже отправленных новостей")
+    # Оставляем только последние 200 URL чтобы файл не разрастался
+    if len(urls) > 200:
+        urls = set(list(urls)[-200:])
+    return urls
+
+
+def save_sent_url(url, sent_urls):
+    """Добавляем URL в файл и в память"""
+    sent_urls.add(url)
+    with open(SENT_URLS_FILE, "a") as f:
+        f.write(url + "\n")
+
+
+# Загружаем историю при старте
+sent_urls = load_sent_urls()
+
 
 def tg_text(text):
     try:
@@ -91,6 +117,12 @@ def is_relevant(article):
     for word in EXCLUDE_KEYWORDS:
         if word in text:
             return False
+
+    # Пропускаем уже отправленные
+    url = article.get("url", "")
+    if url in sent_urls:
+        print(f"Пропускаю уже отправленную: {article.get('title', '')[:50]}")
+        return False
 
     return True
 
@@ -147,7 +179,7 @@ def get_world_news(count):
             params={
                 "apiKey": NEWS_KEY,
                 "language": "en",
-                "pageSize": 20,
+                "pageSize": 40,
                 "category": "general"
             },
             timeout=15
@@ -168,7 +200,7 @@ def get_ukraine_news(count):
                 "apiKey": NEWS_KEY,
                 "q": "Ukraine",
                 "language": "en",
-                "pageSize": 20,
+                "pageSize": 40,
                 "sortBy": "publishedAt"
             },
             timeout=15
@@ -189,7 +221,7 @@ def get_ai_news(count):
                 "apiKey": NEWS_KEY,
                 "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Gemini OR neural network",
                 "language": "en",
-                "pageSize": 20,
+                "pageSize": 40,
                 "sortBy": "publishedAt"
             },
             timeout=15
@@ -225,6 +257,9 @@ def send_news_block(articles):
                 tg_text(message)
         else:
             tg_text(message)
+
+        # Запоминаем как отправленную
+        save_sent_url(article_url, sent_urls)
 
         if i < len(articles) - 1:
             print("Пауза 60 секунд...")
