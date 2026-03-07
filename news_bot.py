@@ -15,15 +15,15 @@ kyiv_offset = 2
 kyiv_hour   = (utc_hour + kyiv_offset) % 24
 
 if 5 <= kyiv_hour < 10:
-    BLOCK = "morning"     # 05:00-09:59
+    BLOCK = "morning"
 elif 10 <= kyiv_hour < 12:
-    BLOCK = "ai_morning"  # 10:00-11:59
+    BLOCK = "ai_morning"
 elif 12 <= kyiv_hour < 16:
-    BLOCK = "midday"      # 12:00-15:59
+    BLOCK = "midday"
 elif 16 <= kyiv_hour < 19:
-    BLOCK = "evening"     # 16:00-18:59
+    BLOCK = "evening"
 elif 19 <= kyiv_hour < 23:
-    BLOCK = "ai_evening"  # 19:00-22:59
+    BLOCK = "ai_evening"
 else:
     BLOCK = "morning"
 
@@ -98,7 +98,7 @@ def tg_photo_with_caption(image_url, caption):
         return False
 
 
-def is_relevant(article):
+def is_relevant(article, require_ukraine=False):
     title = (article.get("title") or "").lower()
     description = (article.get("description") or "").lower()
     text = title + " " + description
@@ -113,6 +113,9 @@ def is_relevant(article):
     for word in EXCLUDE_KEYWORDS:
         if word in text:
             return False
+
+    if require_ukraine and "ukraine" not in text:
+        return False
 
     url = article.get("url", "")
     if url in sent_urls:
@@ -188,6 +191,10 @@ def get_world_news(count):
 
 
 def get_ukraine_news(count):
+    EXCLUDE_RUSSIA_FOCUS = [
+        "russia", "kremlin", "putin", "russian army", "russian forces",
+        "moscow", "russian troops", "russian military"
+    ]
     try:
         resp = requests.get(
             "https://newsapi.org/v2/everything",
@@ -201,8 +208,19 @@ def get_ukraine_news(count):
             timeout=15
         )
         articles = resp.json().get("articles", [])
-        articles = [a for a in articles if is_relevant(a)]
-        return articles[:count]
+        filtered = []
+        for a in articles:
+            if not is_relevant(a, require_ukraine=True):
+                continue
+            title = (a.get("title") or "").lower()
+            description = (a.get("description") or "").lower()
+            text = title + " " + description
+            russia_count = sum(1 for w in EXCLUDE_RUSSIA_FOCUS if w in text)
+            if russia_count >= 2 and text.count("ukraine") < 2:
+                print(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
+                continue
+            filtered.append(a)
+        return filtered[:count]
     except Exception as e:
         print(f"Ошибка получения новостей по Украине: {e}")
         return []
@@ -229,7 +247,7 @@ def get_ai_news(count):
         return []
 
 
-def send_news_block(articles):
+def send_news_block(articles, header=None):
     for i, article in enumerate(articles):
         title       = article.get("title", "").split(" - ")[0].strip()
         description = article.get("description", "")
@@ -241,10 +259,10 @@ def send_news_block(articles):
 
         analysis = analyze(title, description, source_name)
 
-        message = (
-            f"{analysis}\n\n"
-            f"🔗 {source_name}: {article_url}"
-        )
+        if i == 0 and header:
+            message = f"{header}\n\n{analysis}\n\n🔗 {source_name}: {article_url}"
+        else:
+            message = f"{analysis}\n\n🔗 {source_name}: {article_url}"
 
         if image_url:
             sent = tg_photo_with_caption(image_url, message)
@@ -265,50 +283,34 @@ if BLOCK == "morning":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
 
-    tg_text(f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
-
-    send_news_block(world)
+    send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine:
-        tg_text("🇺🇦 *НОВОСТИ УКРАИНЫ*")
-        send_news_block(ukraine)
+        send_news_block(ukraine, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
     ai_news = get_ai_news(3)
-
-    tg_text(f"🤖 *AI NEWS*\n{today_str}")
-
-    send_news_block(ai_news)
+    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}")
 
 # ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
-
-    tg_text(f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
-
-    send_news_block(world)
+    send_news_block(world, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
 
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(3)
 
-    tg_text(f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
-
-    send_news_block(world)
+    send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine:
-        tg_text("🇺🇦 *НОВОСТИ УКРАИНЫ*")
-        send_news_block(ukraine)
+        send_news_block(ukraine, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
+    # Прощание убрано отсюда — теперь оно только после AI блока в 20:00
 
-    tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
-
-# ── AI БЛОК 20:00 ──
+# ── AI БЛОК 20:00 — последний блок дня ──
 elif BLOCK == "ai_evening":
     ai_news = get_ai_news(3)
-
-    tg_text(f"🤖 *AI NEWS*\n{today_str}")
-
-    send_news_block(ai_news)
+    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}")
+    tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
 
 print("Готово!")
-
