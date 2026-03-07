@@ -247,7 +247,12 @@ def get_ai_news(count):
         return []
 
 
-def send_news_block(articles, header=None):
+def send_news_block(articles, header=None, add_goodbye=False):
+    # Заголовок блока — отдельным сообщением перед новостями
+    if header:
+        tg_text(header)
+        time.sleep(2)
+
     for i, article in enumerate(articles):
         title       = article.get("title", "").split(" - ")[0].strip()
         description = article.get("description", "")
@@ -259,10 +264,11 @@ def send_news_block(articles, header=None):
 
         analysis = analyze(title, description, source_name)
 
-        if i == 0 and header:
-            message = f"{header}\n\n{analysis}\n\n🔗 {source_name}: {article_url}"
-        else:
-            message = f"{analysis}\n\n🔗 {source_name}: {article_url}"
+        # Прощание добавляем в последнее сообщение блока
+        is_last = (i == len(articles) - 1)
+        goodbye = "\n\n✅ Это все новости на сегодня. Хорошего вечера! 🙂" if (add_goodbye and is_last) else ""
+
+        message = f"{analysis}\n\n🔗 {source_name}: {article_url}{goodbye}"
 
         if image_url:
             sent = tg_photo_with_caption(image_url, message)
@@ -273,7 +279,7 @@ def send_news_block(articles, header=None):
 
         save_sent_url(article_url, sent_urls)
 
-        if i < len(articles) - 1:
+        if not is_last:
             print("Пауза 60 секунд...")
             time.sleep(60)
 
@@ -305,12 +311,10 @@ elif BLOCK == "evening":
     send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine:
         send_news_block(ukraine, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
-    # Прощание убрано отсюда — теперь оно только после AI блока в 20:00
 
 # ── AI БЛОК 20:00 — последний блок дня ──
 elif BLOCK == "ai_evening":
     ai_news = get_ai_news(3)
-    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}")
-    tg_text("✅ Это все новости на сегодня. Хорошего вечера! 🙂")
+    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True)
 
 print("Готово!")
