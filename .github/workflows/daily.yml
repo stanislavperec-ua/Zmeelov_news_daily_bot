@@ -2,11 +2,11 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # запуск в 7:00 Киев → придёт ~8:00
-    - cron: '0 7 * * *'   # запуск в 9:00 Киев → придёт ~10:00
-    - cron: '0 10 * * *'  # запуск в 12:00 Киев → придёт ~13:00
-    - cron: '0 15 * * *'  # запуск в 17:00 Киев → придёт ~18:00
-    - cron: '0 17 * * *'  # запуск в 19:00 Киев → придёт ~20:00
+    - cron: '0 5 * * *'   # ~08:00 Киев
+    - cron: '0 7 * * *'   # ~10:00 Киев
+    - cron: '0 10 * * *'  # ~13:00 Киев
+    - cron: '0 15 * * *'  # ~18:00 Киев
+    - cron: '0 17 * * *'  # ~20:00 Киев
   workflow_dispatch:
 
 permissions:
@@ -40,6 +40,6 @@ jobs:
           git config user.email "bot@github.com"
           git config user.name "News Bot"
           echo "Last run: $(date)" > last_run.txt
-          git add last_run.txt
+          git add last_run.txt sent_urls.txt
           git commit -m "keep alive $(date +%Y-%m-%d-%H%M)" || echo "ok"
           git push
