@@ -2,7 +2,7 @@ import os
 import time
 import requests
 from groq import Groq
-from datetime import datetime
+from datetime import datetime, timedelta
 
 GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
@@ -30,6 +30,9 @@ else:
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
+
+# Дата 48 часов назад для фильтрации старых новостей
+date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 client = Groq(api_key=GROQ_KEY)
 
@@ -98,6 +101,22 @@ def tg_photo_with_caption(image_url, caption):
         return False
 
 
+def is_fresh(article):
+    """Проверяем что новость не старше 48 часов"""
+    published = article.get("publishedAt", "")
+    if not published:
+        return False
+    try:
+        pub_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
+        age = datetime.utcnow() - pub_date
+        if age.total_seconds() > 48 * 3600:
+            print(f"Старая новость ({published}): {article.get('title', '')[:40]}")
+            return False
+        return True
+    except Exception:
+        return True
+
+
 def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     title = (article.get("title") or "").lower()
     description = (article.get("description") or "").lower()
@@ -110,12 +129,18 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     if not article.get("description"):
         return False
 
+    if not is_fresh(article):
+        return False
+
     for word in EXCLUDE_KEYWORDS:
         if word in text:
             return False
 
-    if require_ukraine and "ukraine" not in text:
-        return False
+    if require_ukraine:
+        # Украина должна быть главной темой — минимум 2 упоминания
+        ukraine_count = text.count("ukraine") + text.count("ukrainian")
+        if ukraine_count < 2:
+            return False
 
     if require_kharkiv and "kharkiv" not in text and "kharkov" not in text:
         return False
@@ -206,7 +231,8 @@ def get_ukraine_news(count):
                 "q": "Ukraine",
                 "language": "en",
                 "pageSize": 40,
-                "sortBy": "publishedAt"
+                "sortBy": "publishedAt",
+                "from": date_from
             },
             timeout=15
         )
@@ -238,7 +264,8 @@ def get_kharkiv_news():
                 "q": "Kharkiv OR Kharkov",
                 "language": "en",
                 "pageSize": 20,
-                "sortBy": "publishedAt"
+                "sortBy": "publishedAt",
+                "from": date_from
             },
             timeout=15
         )
@@ -261,7 +288,8 @@ def get_ai_news(count):
                 "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Gemini OR neural network",
                 "language": "en",
                 "pageSize": 40,
-                "sortBy": "publishedAt"
+                "sortBy": "publishedAt",
+                "from": date_from
             },
             timeout=15
         )
@@ -313,10 +341,7 @@ if BLOCK == "morning":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(2)
     kharkiv = get_kharkiv_news()
-    if kharkiv:
-        ukraine_block = ukraine + [kharkiv]
-    else:
-        ukraine_block = ukraine
+    ukraine_block = ukraine + ([kharkiv] if kharkiv else [])
 
     send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine_block:
@@ -337,10 +362,7 @@ elif BLOCK == "evening":
     world   = get_world_news(4)
     ukraine = get_ukraine_news(2)
     kharkiv = get_kharkiv_news()
-    if kharkiv:
-        ukraine_block = ukraine + [kharkiv]
-    else:
-        ukraine_block = ukraine
+    ukraine_block = ukraine + ([kharkiv] if kharkiv else [])
 
     send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine_block:
