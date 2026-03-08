@@ -98,7 +98,7 @@ def tg_photo_with_caption(image_url, caption):
         return False
 
 
-def is_relevant(article, require_ukraine=False):
+def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     title = (article.get("title") or "").lower()
     description = (article.get("description") or "").lower()
     text = title + " " + description
@@ -115,6 +115,9 @@ def is_relevant(article, require_ukraine=False):
             return False
 
     if require_ukraine and "ukraine" not in text:
+        return False
+
+    if require_kharkiv and "kharkiv" not in text and "kharkov" not in text:
         return False
 
     url = article.get("url", "")
@@ -134,7 +137,7 @@ def analyze(title, description, source_name):
 Напиши ответ на русском языке строго в таком формате — три блока, каждый с новой строки:
 
 Первая строка: только переведённый заголовок на русском
-Суть: (2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании.)
+Суть: (обязательно укажи дату события, затем 2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании.)
 Прогноз: (2-3 предложения — конкретные последствия для стран, людей, рынков.)
 
 Весь ответ не длиннее 800 символов. Никаких звёздочек."""
@@ -226,6 +229,29 @@ def get_ukraine_news(count):
         return []
 
 
+def get_kharkiv_news():
+    try:
+        resp = requests.get(
+            "https://newsapi.org/v2/everything",
+            params={
+                "apiKey": NEWS_KEY,
+                "q": "Kharkiv OR Kharkov",
+                "language": "en",
+                "pageSize": 20,
+                "sortBy": "publishedAt"
+            },
+            timeout=15
+        )
+        articles = resp.json().get("articles", [])
+        articles = [a for a in articles if is_relevant(a, require_kharkiv=True)]
+        if articles:
+            return articles[0]
+        return None
+    except Exception as e:
+        print(f"Ошибка получения новостей Харькова: {e}")
+        return None
+
+
 def get_ai_news(count):
     try:
         resp = requests.get(
@@ -248,7 +274,6 @@ def get_ai_news(count):
 
 
 def send_news_block(articles, header=None, add_goodbye=False):
-    # Заголовок блока — отдельным сообщением перед новостями
     if header:
         tg_text(header)
         time.sleep(2)
@@ -264,7 +289,6 @@ def send_news_block(articles, header=None, add_goodbye=False):
 
         analysis = analyze(title, description, source_name)
 
-        # Прощание добавляем в последнее сообщение блока
         is_last = (i == len(articles) - 1)
         goodbye = "\n\n✅ Это все новости на сегодня. Хорошего вечера! 🙂" if (add_goodbye and is_last) else ""
 
@@ -287,11 +311,16 @@ def send_news_block(articles, header=None, add_goodbye=False):
 # ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
     world   = get_world_news(4)
-    ukraine = get_ukraine_news(3)
+    ukraine = get_ukraine_news(2)
+    kharkiv = get_kharkiv_news()
+    if kharkiv:
+        ukraine_block = ukraine + [kharkiv]
+    else:
+        ukraine_block = ukraine
 
     send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
-    if ukraine:
-        send_news_block(ukraine, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
+    if ukraine_block:
+        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
@@ -306,13 +335,18 @@ elif BLOCK == "midday":
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
     world   = get_world_news(4)
-    ukraine = get_ukraine_news(3)
+    ukraine = get_ukraine_news(2)
+    kharkiv = get_kharkiv_news()
+    if kharkiv:
+        ukraine_block = ukraine + [kharkiv]
+    else:
+        ukraine_block = ukraine
 
     send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
-    if ukraine:
-        send_news_block(ukraine, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
+    if ukraine_block:
+        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
 
-# ── AI БЛОК 20:00 — последний блок дня ──
+# ── AI БЛОК 20:00 ──
 elif BLOCK == "ai_evening":
     ai_news = get_ai_news(3)
     send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True)
