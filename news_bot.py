@@ -31,7 +31,6 @@ print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 date_from = (datetime.utcnow() - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
-current_year = datetime.utcnow().year
 
 client = Groq(api_key=GROQ_KEY)
 
@@ -101,6 +100,7 @@ def tg_photo_with_caption(image_url, caption):
 
 
 def is_fresh(article):
+    """Только проверка даты публикации — самый надёжный способ"""
     published = article.get("publishedAt", "")
     if not published:
         return False
@@ -129,11 +129,6 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
 
     if not is_fresh(article):
         return False
-
-    for old_year in [str(y) for y in range(2020, current_year - 1)]:
-        if old_year in text:
-            print(f"Старый год ({old_year}) в тексте: {article.get('title', '')[:40]}")
-            return False
 
     for word in EXCLUDE_KEYWORDS:
         if word in text:
