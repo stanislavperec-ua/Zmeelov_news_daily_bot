@@ -30,8 +30,6 @@ else:
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
-
-# Дата 48 часов назад для фильтрации старых новостей
 date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 client = Groq(api_key=GROQ_KEY)
@@ -102,7 +100,6 @@ def tg_photo_with_caption(image_url, caption):
 
 
 def is_fresh(article):
-    """Проверяем что новость не старше 48 часов"""
     published = article.get("publishedAt", "")
     if not published:
         return False
@@ -137,7 +134,6 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
             return False
 
     if require_ukraine:
-        # Украина должна быть главной темой — минимум 2 упоминания
         ukraine_count = text.count("ukraine") + text.count("ukrainian")
         if ukraine_count < 2:
             return False
@@ -301,6 +297,15 @@ def get_ai_news(count):
         return []
 
 
+def build_ukraine_block(count):
+    ukraine = get_ukraine_news(count)
+    kharkiv = get_kharkiv_news()
+    ukraine_urls = [a.get("url") for a in ukraine]
+    if kharkiv and kharkiv.get("url") not in ukraine_urls:
+        return ukraine + [kharkiv]
+    return ukraine
+
+
 def send_news_block(articles, header=None, add_goodbye=False):
     if header:
         tg_text(header)
@@ -338,10 +343,8 @@ def send_news_block(articles, header=None, add_goodbye=False):
 
 # ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
-    world   = get_world_news(4)
-    ukraine = get_ukraine_news(2)
-    kharkiv = get_kharkiv_news()
-    ukraine_block = ukraine + ([kharkiv] if kharkiv else [])
+    world         = get_world_news(4)
+    ukraine_block = build_ukraine_block(2)
 
     send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine_block:
@@ -359,10 +362,8 @@ elif BLOCK == "midday":
 
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
-    world   = get_world_news(4)
-    ukraine = get_ukraine_news(2)
-    kharkiv = get_kharkiv_news()
-    ukraine_block = ukraine + ([kharkiv] if kharkiv else [])
+    world         = get_world_news(4)
+    ukraine_block = build_ukraine_block(2)
 
     send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
     if ukraine_block:
