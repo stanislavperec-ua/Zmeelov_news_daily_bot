@@ -29,6 +29,21 @@ else:
 
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
+# Защита от повторного запуска — проверяем last_run.txt
+LAST_RUN_FILE = "last_run.txt"
+current_run_key = f"{utc_now.strftime('%Y-%m-%d')}-{BLOCK}"
+
+if os.path.exists(LAST_RUN_FILE):
+    with open(LAST_RUN_FILE, "r") as f:
+        last_run = f.read().strip()
+    if last_run == current_run_key:
+        print(f"Блок {BLOCK} уже выполнялся сегодня, пропускаю.")
+        exit(0)
+
+# Записываем текущий запуск
+with open(LAST_RUN_FILE, "w") as f:
+    f.write(current_run_key)
+
 today_str = datetime.now().strftime("%d.%m.%Y")
 date_from = (datetime.utcnow() - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -100,7 +115,6 @@ def tg_photo_with_caption(image_url, caption):
 
 
 def is_fresh(article):
-    """Только проверка даты публикации — самый надёжный способ"""
     published = article.get("publishedAt", "")
     if not published:
         return False
@@ -308,6 +322,11 @@ def build_ukraine_block(count):
 
 
 def send_news_block(articles, header=None, add_goodbye=False):
+    # Заголовок только если есть новости!
+    if not articles:
+        print("Нет новостей для отправки, пропускаю блок.")
+        return
+
     if header:
         tg_text(header)
         time.sleep(2)
