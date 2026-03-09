@@ -30,7 +30,7 @@ else:
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
 today_str = datetime.now().strftime("%d.%m.%Y")
-date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
+date_from = (datetime.utcnow() - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
 current_year = datetime.utcnow().year
 
 client = Groq(api_key=GROQ_KEY)
@@ -107,7 +107,7 @@ def is_fresh(article):
     try:
         pub_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
         age = datetime.utcnow() - pub_date
-        if age.total_seconds() > 48 * 3600:
+        if age.total_seconds() > 24 * 3600:
             print(f"Старая новость ({published}): {article.get('title', '')[:40]}")
             return False
         return True
@@ -130,7 +130,6 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     if not is_fresh(article):
         return False
 
-    # Фильтруем статьи где в тексте упоминается год старше прошлого
     for old_year in [str(y) for y in range(2020, current_year - 1)]:
         if old_year in text:
             print(f"Старый год ({old_year}) в тексте: {article.get('title', '')[:40]}")
