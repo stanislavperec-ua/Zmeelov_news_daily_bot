@@ -9,7 +9,6 @@ GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
-# Добавь в GitHub Secrets свой личный Telegram ID
 MY_CHAT_ID = os.environ.get("MY_CHAT_ID", "")
 
 utc_now     = datetime.utcnow()
@@ -32,7 +31,6 @@ else:
 
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
-# Защита от повторного запуска
 LAST_RUN_FILE = "last_run.txt"
 current_run_key = f"{utc_now.strftime('%Y-%m-%d')}-{BLOCK}"
 
@@ -51,7 +49,6 @@ date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%
 
 client = Groq(api_key=GROQ_KEY)
 
-# ── Надёжные источники ──
 TRUSTED_SOURCES = {
     "reuters", "bbc news", "bbc sport", "associated press", "ap news",
     "bloomberg", "the guardian", "the new york times", "washington post",
@@ -66,7 +63,6 @@ TRUSTED_SOURCES = {
     "le monde", "der spiegel", "el pais"
 }
 
-# ── Ненадёжные источники ──
 BLOCKED_SOURCES = {
     "naturalnews", "breitbart", "infowars", "dailywire",
     "thegatewaypundit", "zerohedge", "rt.com", "sputnik",
@@ -79,11 +75,10 @@ EXCLUDE_KEYWORDS = [
     "recipe", "horoscope", "zodiac"
 ]
 
-SENT_URLS_FILE  = "sent_urls.txt"
-LOG_FILE        = "log.txt"
+SENT_URLS_FILE = "sent_urls.txt"
+LOG_FILE       = "log.txt"
 
 
-# ── Логирование ──
 def log(msg):
     timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{timestamp}] {msg}"
@@ -109,8 +104,7 @@ def save_sent_url(url, sent_urls):
         f.write(url + "\n")
 
 
-sent_urls = load_sent_urls()
-# Заголовки отправленных новостей для проверки дублей по смыслу
+sent_urls  = load_sent_urls()
 sent_titles = []
 
 
@@ -134,7 +128,6 @@ def tg_text(text):
 
 
 def tg_notify_me(text):
-    """Личное уведомление если что-то пошло не так"""
     if MY_CHAT_ID:
         tg_send(MY_CHAT_ID, text)
 
@@ -179,32 +172,26 @@ def is_trusted_source(article):
     source_name = (article.get("source", {}).get("name") or "").lower()
     url = (article.get("url") or "").lower()
 
-    # Проверяем заблокированные источники
     for blocked in BLOCKED_SOURCES:
         if blocked in source_name or blocked in url:
             log(f"Заблокированный источник ({source_name}): {article.get('title', '')[:40]}")
             return False
 
-    # Проверяем надёжные источники
     for trusted in TRUSTED_SOURCES:
         if trusted in source_name:
             return True
 
-    # Если источник не в списке — пропускаем
     log(f"Неизвестный источник ({source_name}): {article.get('title', '')[:40]}")
     return False
 
 
 def normalize_title(title):
-    """Нормализуем заголовок для сравнения дублей"""
     title = title.lower()
     title = re.sub(r'[^a-zа-я0-9\s]', '', title)
-    words = set(title.split())
-    return words
+    return set(title.split())
 
 
 def is_duplicate_by_title(title):
-    """Проверяем похожесть заголовка с уже отправленными"""
     new_words = normalize_title(title)
     if len(new_words) < 3:
         return False
@@ -212,7 +199,6 @@ def is_duplicate_by_title(title):
         sent_words = normalize_title(sent_title)
         if len(sent_words) < 3:
             continue
-        # Если больше 60% слов совпадают — дубль
         intersection = new_words & sent_words
         similarity = len(intersection) / max(len(new_words), len(sent_words))
         if similarity > 0.6:
@@ -233,7 +219,6 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     if not article.get("description"):
         return False
 
-    # Только статьи с фото
     if not article.get("urlToImage"):
         log(f"Нет фото: {article.get('title', '')[:40]}")
         return False
@@ -283,13 +268,15 @@ def analyze(title, description, source_name, published_at=None):
 Источник: {source_name}
 Дата публикации: {date_str}
 
-Напиши ответ на русском языке строго в таком формате — три блока, каждый с новой строки:
+Напиши ответ на русском языке строго в таком формате — три блока:
 
-Первая строка: переведи заголовок на русский язык точно передавая смысл. Если дословный перевод звучит абсурдно или вводит в заблуждение — перефразируй так чтобы было понятно о чём новость.
-Суть: обязательно начни с "Дата: {date_str}." затем 2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании. Описывай только то что реально написано в новости, не домысливай.
-Прогноз: только если в новости есть реальные факты для прогноза — напиши 2-3 конкретных последствия. Если это мнение аналитика или блогера без фактов — напиши "Прогноз: требует дополнительного подтверждения."
+Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания.
 
-Весь ответ не длиннее 800 символов. Никаких звёздочек."""
+Суть: начни с даты "{date_str}" затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком, как журналист качественного издания. Не домысливай — только то что есть в новости.
+
+Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами из новости и звучать профессионально.
+
+Весь ответ не длиннее 1000 символов. Никаких звёздочек."""
 
     for attempt in range(1, 4):
         try:
@@ -297,8 +284,8 @@ def analyze(title, description, source_name, published_at=None):
             response = client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
                 messages=[{"role": "user", "content": prompt}],
-                max_tokens=600,
-                temperature=0.5
+                max_tokens=700,
+                temperature=0.6
             )
             raw = response.choices[0].message.content.strip()
 
