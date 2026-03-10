@@ -1,4 +1,5 @@
 import os
+import re
 import time
 import requests
 from groq import Groq
@@ -8,6 +9,8 @@ GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
+# Добавь в GitHub Secrets свой личный Telegram ID
+MY_CHAT_ID = os.environ.get("MY_CHAT_ID", "")
 
 utc_now     = datetime.utcnow()
 utc_hour    = utc_now.hour
@@ -48,13 +51,45 @@ date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%
 
 client = Groq(api_key=GROQ_KEY)
 
+# ── Надёжные источники ──
+TRUSTED_SOURCES = {
+    "reuters", "bbc news", "bbc sport", "associated press", "ap news",
+    "bloomberg", "the guardian", "the new york times", "washington post",
+    "the wall street journal", "financial times", "al jazeera",
+    "cnn", "nbc news", "abc news", "cbs news", "npr",
+    "the economist", "time", "newsweek", "foreign policy",
+    "politico", "axios", "the hill", "the atlantic",
+    "wired", "techcrunch", "the verge", "ars technica", "mit technology review",
+    "science", "nature", "new scientist",
+    "kyiv independent", "ukrinform", "ukrainska pravda",
+    "detroit free press", "irish times", "globesecurity.org",
+    "le monde", "der spiegel", "el pais"
+}
+
+# ── Ненадёжные источники ──
+BLOCKED_SOURCES = {
+    "naturalnews", "breitbart", "infowars", "dailywire",
+    "thegatewaypundit", "zerohedge", "rt.com", "sputnik",
+    "tass", "ria novosti", "pravda"
+}
+
 EXCLUDE_KEYWORDS = [
     "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
     "kardashian", "taylor swift", "oscar", "grammy", "box office",
     "recipe", "horoscope", "zodiac"
 ]
 
-SENT_URLS_FILE = "sent_urls.txt"
+SENT_URLS_FILE  = "sent_urls.txt"
+LOG_FILE        = "log.txt"
+
+
+# ── Логирование ──
+def log(msg):
+    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{timestamp}] {msg}"
+    print(line)
+    with open(LOG_FILE, "a") as f:
+        f.write(line + "\n")
 
 
 def load_sent_urls():
@@ -62,7 +97,7 @@ def load_sent_urls():
         return set()
     with open(SENT_URLS_FILE, "r") as f:
         urls = set(line.strip() for line in f if line.strip())
-    print(f"Загружено {len(urls)} уже отправленных новостей")
+    log(f"Загружено {len(urls)} уже отправленных новостей")
     if len(urls) > 200:
         urls = set(list(urls)[-200:])
     return urls
@@ -75,21 +110,33 @@ def save_sent_url(url, sent_urls):
 
 
 sent_urls = load_sent_urls()
+# Заголовки отправленных новостей для проверки дублей по смыслу
+sent_titles = []
 
 
-def tg_text(text):
+def tg_send(chat_id, text):
     try:
         requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
             json={
-                "chat_id": TG_CHAT_ID,
+                "chat_id": chat_id,
                 "text": text[:4000],
                 "parse_mode": "Markdown"
             },
             timeout=15
         )
     except Exception as e:
-        print(f"Ошибка отправки текста: {e}")
+        log(f"Ошибка отправки текста: {e}")
+
+
+def tg_text(text):
+    tg_send(TG_CHAT_ID, text)
+
+
+def tg_notify_me(text):
+    """Личное уведомление если что-то пошло не так"""
+    if MY_CHAT_ID:
+        tg_send(MY_CHAT_ID, text)
 
 
 def tg_photo_with_caption(image_url, caption):
@@ -106,10 +153,10 @@ def tg_photo_with_caption(image_url, caption):
         )
         if resp.status_code == 200:
             return True
-        print(f"Фото не отправилось: {resp.status_code}")
+        log(f"Фото не отправилось: {resp.status_code}")
         return False
     except Exception as e:
-        print(f"Ошибка отправки фото: {e}")
+        log(f"Ошибка отправки фото: {e}")
         return False
 
 
@@ -121,11 +168,57 @@ def is_fresh(article):
         pub_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
         age = datetime.utcnow() - pub_date
         if age.total_seconds() > 48 * 3600:
-            print(f"Старая новость ({published}): {article.get('title', '')[:40]}")
+            log(f"Старая новость ({published}): {article.get('title', '')[:40]}")
             return False
         return True
     except Exception:
         return True
+
+
+def is_trusted_source(article):
+    source_name = (article.get("source", {}).get("name") or "").lower()
+    url = (article.get("url") or "").lower()
+
+    # Проверяем заблокированные источники
+    for blocked in BLOCKED_SOURCES:
+        if blocked in source_name or blocked in url:
+            log(f"Заблокированный источник ({source_name}): {article.get('title', '')[:40]}")
+            return False
+
+    # Проверяем надёжные источники
+    for trusted in TRUSTED_SOURCES:
+        if trusted in source_name:
+            return True
+
+    # Если источник не в списке — пропускаем
+    log(f"Неизвестный источник ({source_name}): {article.get('title', '')[:40]}")
+    return False
+
+
+def normalize_title(title):
+    """Нормализуем заголовок для сравнения дублей"""
+    title = title.lower()
+    title = re.sub(r'[^a-zа-я0-9\s]', '', title)
+    words = set(title.split())
+    return words
+
+
+def is_duplicate_by_title(title):
+    """Проверяем похожесть заголовка с уже отправленными"""
+    new_words = normalize_title(title)
+    if len(new_words) < 3:
+        return False
+    for sent_title in sent_titles:
+        sent_words = normalize_title(sent_title)
+        if len(sent_words) < 3:
+            continue
+        # Если больше 60% слов совпадают — дубль
+        intersection = new_words & sent_words
+        similarity = len(intersection) / max(len(new_words), len(sent_words))
+        if similarity > 0.6:
+            log(f"Дубль по смыслу: {title[:50]}")
+            return True
+    return False
 
 
 def is_relevant(article, require_ukraine=False, require_kharkiv=False):
@@ -140,7 +233,15 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     if not article.get("description"):
         return False
 
+    # Только статьи с фото
+    if not article.get("urlToImage"):
+        log(f"Нет фото: {article.get('title', '')[:40]}")
+        return False
+
     if not is_fresh(article):
+        return False
+
+    if not is_trusted_source(article):
         return False
 
     for word in EXCLUDE_KEYWORDS:
@@ -157,14 +258,16 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
 
     url = article.get("url", "")
     if url in sent_urls:
-        print(f"Пропускаю уже отправленную: {article.get('title', '')[:50]}")
+        log(f"Пропускаю уже отправленную: {article.get('title', '')[:50]}")
+        return False
+
+    if is_duplicate_by_title(article.get("title", "")):
         return False
 
     return True
 
 
 def analyze(title, description, source_name, published_at=None):
-    # Берём реальную дату публикации статьи
     if published_at:
         try:
             pub_date = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ")
@@ -184,13 +287,13 @@ def analyze(title, description, source_name, published_at=None):
 
 Первая строка: переведи заголовок на русский язык точно передавая смысл. Если дословный перевод звучит абсурдно или вводит в заблуждение — перефразируй так чтобы было понятно о чём новость.
 Суть: обязательно начни с "Дата: {date_str}." затем 2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании. Описывай только то что реально написано в новости, не домысливай.
-Прогноз: 2-3 предложения — конкретные последствия для стран, людей, рынков.
+Прогноз: только если в новости есть реальные факты для прогноза — напиши 2-3 конкретных последствия. Если это мнение аналитика или блогера без фактов — напиши "Прогноз: требует дополнительного подтверждения."
 
 Весь ответ не длиннее 800 символов. Никаких звёздочек."""
 
     for attempt in range(1, 4):
         try:
-            print(f"Попытка {attempt}...")
+            log(f"Попытка {attempt} для: {title[:40]}")
             response = client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
                 messages=[{"role": "user", "content": prompt}],
@@ -204,14 +307,14 @@ def analyze(title, description, source_name, published_at=None):
                 lines[0] = f"🔴 *{lines[0]}*"
             result = "\n\n".join(lines)
 
-            print(f"Успешно, получено {len(result)} символов")
+            log(f"Успешно, получено {len(result)} символов")
             return result
 
         except Exception as e:
             error = str(e)
-            print(f"Ошибка (попытка {attempt}): {error[:150]}")
+            log(f"Ошибка (попытка {attempt}): {error[:150]}")
             if "rate" in error.lower() or "429" in error:
-                print("Лимит запросов, ждём 60 секунд...")
+                log("Лимит запросов, ждём 60 секунд...")
                 time.sleep(60)
             else:
                 time.sleep(10)
@@ -233,9 +336,10 @@ def get_world_news(count):
         )
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a)]
+        log(f"Мировые новости: найдено {len(articles)} после фильтрации")
         return articles[:count]
     except Exception as e:
-        print(f"Ошибка получения мировых новостей: {e}")
+        log(f"Ошибка получения мировых новостей: {e}")
         return []
 
 
@@ -267,12 +371,13 @@ def get_ukraine_news(count):
             text = title + " " + description
             russia_count = sum(1 for w in EXCLUDE_RUSSIA_FOCUS if w in text)
             if russia_count >= 2 and text.count("ukraine") < 2:
-                print(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
+                log(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
                 continue
             filtered.append(a)
+        log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
         return filtered[:count]
     except Exception as e:
-        print(f"Ошибка получения новостей по Украине: {e}")
+        log(f"Ошибка получения новостей по Украине: {e}")
         return []
 
 
@@ -293,10 +398,12 @@ def get_kharkiv_news():
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a, require_kharkiv=True)]
         if articles:
+            log(f"Харьков: найдена новость — {articles[0].get('title', '')[:50]}")
             return articles[0]
+        log("Харьков: новостей не найдено")
         return None
     except Exception as e:
-        print(f"Ошибка получения новостей Харькова: {e}")
+        log(f"Ошибка получения новостей Харькова: {e}")
         return None
 
 
@@ -316,9 +423,10 @@ def get_ai_news(count):
         )
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a)]
+        log(f"AI новости: найдено {len(articles)} после фильтрации")
         return articles[:count]
     except Exception as e:
-        print(f"Ошибка получения AI новостей: {e}")
+        log(f"Ошибка получения AI новостей: {e}")
         return []
 
 
@@ -331,9 +439,11 @@ def build_ukraine_block(count):
     return ukraine
 
 
-def send_news_block(articles, header=None, add_goodbye=False):
+def send_news_block(articles, header=None, add_goodbye=False, block_name=""):
     if not articles:
-        print("Нет новостей для отправки, пропускаю блок.")
+        msg = f"⚠️ Блок *{block_name}* ({today_str}) — новостей не найдено!"
+        log(msg)
+        tg_notify_me(msg)
         return
 
     if header:
@@ -348,7 +458,7 @@ def send_news_block(articles, header=None, add_goodbye=False):
         article_url  = article.get("url", "")
         published_at = article.get("publishedAt")
 
-        print(f"\nОбрабатываю: {title[:60]}")
+        log(f"Обрабатываю: {title[:60]}")
 
         analysis = analyze(title, description, source_name, published_at)
 
@@ -365,43 +475,46 @@ def send_news_block(articles, header=None, add_goodbye=False):
             tg_text(message)
 
         save_sent_url(article_url, sent_urls)
+        sent_titles.append(title)
 
         if not is_last:
-            print("Пауза 60 секунд...")
+            log("Пауза 60 секунд...")
             time.sleep(60)
 
+
+log(f"=== Запуск блока: {BLOCK} ===")
 
 # ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
     world         = get_world_news(4)
     ukraine_block = build_ukraine_block(2)
 
-    send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
+    send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Утренний мир")
     if ukraine_block:
-        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
+        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Утренняя Украина")
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
     ai_news = get_ai_news(3)
-    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}")
+    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", block_name="AI утро")
 
 # ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4)
-    send_news_block(world, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
+    send_news_block(world, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Дневной мир")
 
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
     world         = get_world_news(4)
     ukraine_block = build_ukraine_block(2)
 
-    send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}")
+    send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Вечерний мир")
     if ukraine_block:
-        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*")
+        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Вечерняя Украина")
 
 # ── AI БЛОК 20:00 ──
 elif BLOCK == "ai_evening":
     ai_news = get_ai_news(3)
-    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True)
+    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True, block_name="AI вечер")
 
-print("Готово!")
+log(f"=== Блок {BLOCK} завершён ===")
