@@ -163,17 +163,28 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     return True
 
 
-def analyze(title, description, source_name):
+def analyze(title, description, source_name, published_at=None):
+    # Берём реальную дату публикации статьи
+    if published_at:
+        try:
+            pub_date = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ")
+            date_str = pub_date.strftime("%d.%m.%Y")
+        except Exception:
+            date_str = today_str
+    else:
+        date_str = today_str
+
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 Описание: {description}
 Источник: {source_name}
+Дата публикации: {date_str}
 
 Напиши ответ на русском языке строго в таком формате — три блока, каждый с новой строки:
 
-Первая строка: только переведённый заголовок на русском
-Суть: (обязательно укажи дату события, затем 2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании.)
-Прогноз: (2-3 предложения — конкретные последствия для стран, людей, рынков.)
+Первая строка: переведи заголовок на русский язык точно передавая смысл. Если дословный перевод звучит абсурдно или вводит в заблуждение — перефразируй так чтобы было понятно о чём новость.
+Суть: обязательно начни с "Дата: {date_str}." затем 2-3 предложения — конкретные имена, страны, организации, цифры. Не пиши "правительство" — пиши "правительство США". Не пиши "компания" — пиши название компании. Описывай только то что реально написано в новости, не домысливай.
+Прогноз: 2-3 предложения — конкретные последствия для стран, людей, рынков.
 
 Весь ответ не длиннее 800 символов. Никаких звёздочек."""
 
@@ -330,15 +341,16 @@ def send_news_block(articles, header=None, add_goodbye=False):
         time.sleep(2)
 
     for i, article in enumerate(articles):
-        title       = article.get("title", "").split(" - ")[0].strip()
-        description = article.get("description", "")
-        image_url   = article.get("urlToImage")
-        source_name = article.get("source", {}).get("name", "Unknown")
-        article_url = article.get("url", "")
+        title        = article.get("title", "").split(" - ")[0].strip()
+        description  = article.get("description", "")
+        image_url    = article.get("urlToImage")
+        source_name  = article.get("source", {}).get("name", "Unknown")
+        article_url  = article.get("url", "")
+        published_at = article.get("publishedAt")
 
         print(f"\nОбрабатываю: {title[:60]}")
 
-        analysis = analyze(title, description, source_name)
+        analysis = analyze(title, description, source_name, published_at)
 
         is_last = (i == len(articles) - 1)
         goodbye = "\n\n✅ Это все новости на сегодня. Хорошего вечера! 🙂" if (add_goodbye and is_last) else ""
