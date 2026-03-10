@@ -130,3 +130,49 @@
 [2026-03-10 18:09:18] Попытка 1 для: TCS launches Gemini experience centre in
 [2026-03-10 18:09:19] Успешно, получено 734 символов
 [2026-03-10 18:09:19] === Блок ai_evening завершён ===
+[2026-03-10 19:54:18] Загружено 46 уже отправленных новостей
+[2026-03-10 19:54:18] === Запуск блока: ai_evening ===
+[2026-03-10 19:54:18] Неизвестный источник (itnews): Anthropic sues to block Pentagon natsec 
+[2026-03-10 19:54:18] Неизвестный источник (itnews): Anthropic sues to block Pentagon natsec 
+[2026-03-10 19:54:18] Неизвестный источник (financial post): Constellation Software ‘well-positioned’
+[2026-03-10 19:54:18] Неизвестный источник (the conversation africa): Climate change may not end skiing. But i
+[2026-03-10 19:54:18] Неизвестный источник (the conversation africa): How ‘looksmaxxing’ self-improvement apps
+[2026-03-10 19:54:18] Неизвестный источник (crypto briefing): Qualcomm and Arduino unveil Ventuno Q si
+[2026-03-10 19:54:18] Нет фото: PhraseExpress 18.0.64
+[2026-03-10 19:54:18] Заблокированный источник (breitbart news): Britain May Not Deploy an Aircraft Carri
+[2026-03-10 19:54:18] Нет фото: brainsurgery 0.0.4
+[2026-03-10 19:54:18] Нет фото: NBC News poll: Dems more disliked than T
+[2026-03-10 19:54:18] Неизвестный источник (fortune): Iran’s attacks on Amazon data centers in
+[2026-03-10 19:54:18] Неизвестный источник (mit.edu): Neurons receive precisely tailored teach
+[2026-03-10 19:54:18] Неизвестный источник (siliconangle news): Fireworks AI bets on Hathora acquisition
+[2026-03-10 19:54:18] Неизвестный источник (livemint): Anthropic files lawsuit against Pentagon
+[2026-03-10 19:54:18] Неизвестный источник (rte): Anthropic sues to block Pentagon blackli
+[2026-03-10 19:54:18] Неизвестный источник (huffpost): Anthropic Sues To Block Pentagon Blackli
+[2026-03-10 19:54:18] Неизвестный источник (yale.edu): ‘The power of community’: rising climate
+[2026-03-10 19:54:18] Пропускаю уже отправленную: Anthropic sues to block Pentagon blacklisting over
+[2026-03-10 19:54:18] Неизвестный источник (the star online): Anthropic sues to block Pentagon blackli
+[2026-03-10 19:54:18] Неизвестный источник (computerweekly.com): UK to launch cyber fraud squad in April
+[2026-03-10 19:54:18] Неизвестный источник (globenewswire): Synagis Market Research Report 2026: Epi
+[2026-03-10 19:54:18] Пропускаю уже отправленную: Hasbro’s CEO has an AI Peppa Pig help design toys
+[2026-03-10 19:54:18] Неизвестный источник (plos.org): The integrated information Φ of an integ
+[2026-03-10 19:54:18] Неизвестный источник (plos.org): A GABAergic network from AVP- to VIP-neu
+[2026-03-10 19:54:18] Неизвестный источник (plos.org): Mutualism in disguise: A mosquito parasi
+[2026-03-10 19:54:18] Неизвестный источник (internet): ⚡ Weekly Recap: Qualcomm 0-Day, iOS Expl
+[2026-03-10 19:54:18] Неизвестный источник (computerweekly.com): Trump looks to power up post-quantum, AI
+[2026-03-10 19:54:18] Неизвестный источник (streamingmedia.com): Inside the CTV Contextual Advertising To
+[2026-03-10 19:54:18] Неизвестный источник (siliconangle news): Dataiku is evolving into the orchestrati
+[2026-03-10 19:54:18] Неизвестный источник (siliconangle news): Atlas rolls out multi-agent AI system to
+[2026-03-10 19:54:18] Неизвестный источник (pcmag.com): Apple iPhone 17e
+[2026-03-10 19:54:18] Неизвестный источник (pcmag.com): Apple iPhone 17e
+[2026-03-10 19:54:18] Неизвестный источник (the conversation africa): Abandoned Pennsylvania mines and waste-h
+[2026-03-10 19:54:18] Неизвестный источник (logisticsviewpoints.com): AI in the Supply Chain: Building Intelli
+[2026-03-10 19:54:18] Неизвестный источник (pyimagesearch.com): DeepSeek-V3 Model: Theory, Config, and R
+[2026-03-10 19:54:18] Неизвестный источник (computerweekly.com): Nvidia teams with global telecom leaders
+[2026-03-10 19:54:18] Неизвестный источник (siliconangle news): OneTrust expands platform with real-time
+[2026-03-10 19:54:18] Неизвестный источник (computerweekly.com): Qualcomm plots out 6G, Wi-Fi 8 future wi
+[2026-03-10 19:54:18] Неизвестный источник (globenewswire): Jeffs' Brands: KeepZone AI Enters into C
+[2026-03-10 19:54:18] AI новости: найдено 1 после фильтрации
+[2026-03-10 19:54:21] Обрабатываю: Epstein used his ties to Nobel laureate scientists to try to
+[2026-03-10 19:54:21] Попытка 1 для: Epstein used his ties to Nobel laureate 
+[2026-03-10 19:54:22] Успешно, получено 1022 символов
+[2026-03-10 19:54:22] === Блок ai_evening завершён ===
