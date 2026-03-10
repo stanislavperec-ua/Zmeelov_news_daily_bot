@@ -29,7 +29,7 @@ else:
 
 print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
 
-# Защита от повторного запуска — проверяем last_run.txt
+# Защита от повторного запуска
 LAST_RUN_FILE = "last_run.txt"
 current_run_key = f"{utc_now.strftime('%Y-%m-%d')}-{BLOCK}"
 
@@ -40,12 +40,11 @@ if os.path.exists(LAST_RUN_FILE):
         print(f"Блок {BLOCK} уже выполнялся сегодня, пропускаю.")
         exit(0)
 
-# Записываем текущий запуск
 with open(LAST_RUN_FILE, "w") as f:
     f.write(current_run_key)
 
 today_str = datetime.now().strftime("%d.%m.%Y")
-date_from = (datetime.utcnow() - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
+date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 client = Groq(api_key=GROQ_KEY)
 
@@ -121,7 +120,7 @@ def is_fresh(article):
     try:
         pub_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
         age = datetime.utcnow() - pub_date
-        if age.total_seconds() > 24 * 3600:
+        if age.total_seconds() > 48 * 3600:
             print(f"Старая новость ({published}): {article.get('title', '')[:40]}")
             return False
         return True
@@ -322,7 +321,6 @@ def build_ukraine_block(count):
 
 
 def send_news_block(articles, header=None, add_goodbye=False):
-    # Заголовок только если есть новости!
     if not articles:
         print("Нет новостей для отправки, пропускаю блок.")
         return
