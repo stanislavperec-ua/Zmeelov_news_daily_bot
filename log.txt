@@ -375,3 +375,48 @@
 [2026-03-11 18:11:09] Попытка 1 для: What is a Transformer in artificial inte
 [2026-03-11 18:11:10] Успешно, получено 1260 символов
 [2026-03-11 18:11:11] === Блок ai_evening завершён ===
+[2026-03-11 19:53:50] Загружено 60 уже отправленных новостей
+[2026-03-11 19:53:50] === Запуск блока: ai_evening ===
+[2026-03-11 19:53:50] Неизвестный источник (itnews): Meta acquires AI agent social network Mo
+[2026-03-11 19:53:50] Нет фото: Pomerantz Law Firm Announces the Filing 
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): What to expect during the RSAC 2026 Conf
+[2026-03-11 19:53:50] Заблокированный источник (breitbart news): Nvidia CEO Jensen Huang: AI Can Create M
+[2026-03-11 19:53:50] Неизвестный источник (coindesk): Investment firm Multicoin bets 'Internet
+[2026-03-11 19:53:50] Неизвестный источник (globenewswire): Rhizome Deploys AI-Powered Grid Planning
+[2026-03-11 19:53:50] Неизвестный источник (worldgov.org): Billion-Parameter Theories
+[2026-03-11 19:53:50] Неизвестный источник (the star online): Delegates at Kigali fintech forum urge s
+[2026-03-11 19:53:50] Неизвестный источник (financial post): Amazon looks to raise at least US$37 bil
+[2026-03-11 19:53:50] Неизвестный источник (globenewswire): SourcingGPT Expands Procurement Intellig
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Three insights you might have missed fro
+[2026-03-11 19:53:50] Нет фото: geoai-py 0.33.0
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Rhoda AI raises $450M to build foundatio
+[2026-03-11 19:53:50] Неизвестный источник (techtarget.com): Data center security compliance checklis
+[2026-03-11 19:53:50] Неизвестный источник (syllad.com): Guwahati residents to get land pattas so
+[2026-03-11 19:53:50] Неизвестный источник (cna): Meta acquires AI agent social network Mo
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Inverse game theory characterizes freque
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Accuracy and reproducibility of tumor si
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Multi-ACPNet: A multi-scale sequence-str
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Recognition of Japanese university stude
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Impacts of parental age and inbreeding o
+[2026-03-11 19:53:50] Неизвестный источник (plos.org): Expanding invasive species impact assess
+[2026-03-11 19:53:50] Нет фото: Nvidia to Invest in Thinking Machines La
+[2026-03-11 19:53:50] Пропускаю уже отправленную: What is a Transformer in artificial intelligence, 
+[2026-03-11 19:53:50] Неизвестный источник (financial post): Verifone and Thales Unlock Seamless Glob
+[2026-03-11 19:53:50] Неизвестный источник (c-sharpcorner.com): AI Agents + Crypto: $10 Trillion Agent E
+[2026-03-11 19:53:50] Нет фото: Zoom expands enterprise agentic AI platf
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): ColorTokens launches Xshield AI Agent to
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Exclusive: Virtana customizes its observ
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Darwinium launches agent intent intellig
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Zoom at Enterprise Connect 2026: From me
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Zoom introduces agentic AI capabilities 
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Google enhances Docs, Sheets, Slides and
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Quantro Security launches with AI-powere
+[2026-03-11 19:53:50] Неизвестный источник (siliconangle news): Secureframe unveils new platform to cut 
+[2026-03-11 19:53:50] Неизвестный источник (globenewswire): Green Truck Summit evolves into Future T
+[2026-03-11 19:53:50] Неизвестный источник (financial post): Oil’s Brief Surge Above $100 Exposes Inf
+[2026-03-11 19:53:50] Неизвестный источник (bleeding cool news): Cyberpunk 2077: Chrome #2 Preview: Trash
+[2026-03-11 19:53:50] AI новости: найдено 1 после фильтрации
+[2026-03-11 19:53:52] Обрабатываю: Meta acquires AI agent social network Moltbook
+[2026-03-11 19:53:52] Попытка 1 для: Meta acquires AI agent social network Mo
+[2026-03-11 19:53:53] Успешно, получено 604 символов
+[2026-03-11 19:53:54] === Блок ai_evening завершён ===
