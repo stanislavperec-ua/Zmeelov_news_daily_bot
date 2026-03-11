@@ -247,3 +247,43 @@
 [2026-03-11 08:01:08] Попытка 1 для: Alexander brothers, famous real estate b
 [2026-03-11 08:01:09] Успешно, получено 804 символов
 [2026-03-11 08:01:10] === Блок morning завершён ===
+[2026-03-11 10:07:50] Загружено 51 уже отправленных новостей
+[2026-03-11 10:07:50] === Запуск блока: midday ===
+[2026-03-11 10:07:50] Неизвестный источник (yahoo entertainment): World Baseball Classic news, live update
+[2026-03-11 10:07:50] Неизвестный источник (forbes): Heeseung Departs From ENHYPEN, Preparing
+[2026-03-11 10:07:50] Неизвестный источник (hollywood reporter): ‘Heated Rivalry’ Stars Hudson Williams a
+[2026-03-11 10:07:50] Неизвестный источник (the globe and mail): Your daily horoscope: March 10, 2026 - T
+[2026-03-11 10:07:50] Неизвестный источник (cbs sports): 2026 NFL free agency: Top 10 remaining f
+[2026-03-11 10:07:50] Пропускаю уже отправленную: 2 Bucks County, Pennsylvania, men charged in "ISIS
+[2026-03-11 10:07:50] Неизвестный источник (fox news): Tyler Linderbaum's $81M record-breaking 
+[2026-03-11 10:07:50] Заблокированный источник (sciencealert): Brain 'Stretching' Is The Secret to Prot
+[2026-03-11 10:07:50] Неизвестный источник (fox news): Trump says it’s an ‘honor’ to keep Strai
+[2026-03-11 10:07:50] Неизвестный источник (sun sentinel): Dave Hyde: Dolphins’ new regime bets on 
+[2026-03-11 10:07:50] Неизвестный источник (macrumors): Everything New in iOS 26.4 Beta 4 - MacR
+[2026-03-11 10:07:50] Неизвестный источник (rolling stone): Amy Klobuchar Slams Live Nation Settleme
+[2026-03-11 10:07:50] Неизвестный источник (9to5google.com): These smart glasses are similar Meta Ray
+[2026-03-11 10:07:50] Неизвестный источник (new york daily news): Death of ’90 Day Fiance’ star’s baby rul
+[2026-03-11 10:07:50] Неизвестный источник (droid life): Pixel 11 Pro Fold Already Looking Pretty
+[2026-03-11 10:07:50] Неизвестный источник (wlwt cincinnati): Ohio State University president to resig
+[2026-03-11 10:07:50] Неизвестный источник (scientific american): Exotic prime numbers could be hiding ins
+[2026-03-11 10:07:50] Неизвестный источник (the intercept): U.S. Military Refuses to Endorse Trump C
+[2026-03-11 10:07:50] Неизвестный источник (cnbc): Oil tankers transiting Strait of Hormuz 
+[2026-03-11 10:07:50] Пропускаю уже отправленную: The surprising way breast cancer screenings could 
+[2026-03-11 10:07:50] Старая новость (2026-03-09T10:02:53Z): Guest column | Reasons you should get a 
+[2026-03-11 10:07:50] Мировые новости: найдено 9 после фильтрации
+[2026-03-11 10:07:53] Обрабатываю: Oil prices seesaw as Trump sends mixed messages on what’s ne
+[2026-03-11 10:07:53] Попытка 1 для: Oil prices seesaw as Trump sends mixed m
+[2026-03-11 10:07:54] Успешно, получено 707 символов
+[2026-03-11 10:07:54] Пауза 60 секунд...
+[2026-03-11 10:08:54] Обрабатываю: Trump and Putin discuss end to Iran and Ukraine wars on call
+[2026-03-11 10:08:54] Попытка 1 для: Trump and Putin discuss end to Iran and 
+[2026-03-11 10:08:55] Успешно, получено 774 символов
+[2026-03-11 10:08:56] Пауза 60 секунд...
+[2026-03-11 10:09:56] Обрабатываю: FAA briefly grounds all JetBlue flights after request from a
+[2026-03-11 10:09:56] Попытка 1 для: FAA briefly grounds all JetBlue flights 
+[2026-03-11 10:09:57] Успешно, получено 806 символов
+[2026-03-11 10:09:57] Пауза 60 секунд...
+[2026-03-11 10:10:57] Обрабатываю: Alexander brothers convicted of sex trafficking in Manhattan
+[2026-03-11 10:10:57] Попытка 1 для: Alexander brothers convicted of sex traf
+[2026-03-11 10:10:58] Успешно, получено 677 символов
+[2026-03-11 10:10:59] === Блок midday завершён ===
