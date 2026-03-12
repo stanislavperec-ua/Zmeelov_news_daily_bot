@@ -499,3 +499,47 @@
 [2026-03-12 08:03:03] Попытка 1 для: Fire engulfs a bus in Switzerland, killi
 [2026-03-12 08:03:04] Успешно, получено 731 символов
 [2026-03-12 08:03:04] === Блок morning завершён ===
+[2026-03-12 10:07:30] Загружено 65 уже отправленных новостей
+[2026-03-12 10:07:30] === Запуск блока: midday ===
+[2026-03-12 10:07:30] Пропускаю уже отправленную: Trump and GOP plot strategy - Axios
+[2026-03-12 10:07:30] Пропускаю уже отправленную: Facebook owner Meta buys 'social media network for
+[2026-03-12 10:07:30] Неизвестный источник (usa today): Tornadoes hit Midwest, homes destroyed a
+[2026-03-12 10:07:30] Пропускаю уже отправленную: Trump’s pick advances in race to replace Marjorie 
+[2026-03-12 10:07:30] Пропускаю уже отправленную: Fire engulfs a bus in Switzerland, killing 6 peopl
+[2026-03-12 10:07:30] Неизвестный источник (deadline): Misty Copeland, Who Promoted 'Marty Supr
+[2026-03-12 10:07:30] Неизвестный источник (9to5google.com): Gemini in Chrome gets first internationa
+[2026-03-12 10:07:30] Неизвестный источник (nbcsports.com): Maxx Crosby’s agent say he’s on track to
+[2026-03-12 10:07:30] Неизвестный источник (zeteo.com): I Was a US Intelligence Analyst. Here's 
+[2026-03-12 10:07:30] Неизвестный источник (kabc-tv): LAUSD Superintendent Alberto Carvalho br
+[2026-03-12 10:07:30] Неизвестный источник (rolling stone): 'It Was Horrific': La Roux Backs Model W
+[2026-03-12 10:07:30] Неизвестный источник (nfl news): NFL free agency winners and losers: Jets
+[2026-03-12 10:07:30] Неизвестный источник (9to5toys): Mario Day 2026 hub: New LEGO reveal, Sup
+[2026-03-12 10:07:30] Неизвестный источник (9to5mac): Apple reveals MacBook Neo battery cycle 
+[2026-03-12 10:07:30] Неизвестный источник (variety): Tig Notaro and Cheryl Hines' Friendship 
+[2026-03-12 10:07:30] Неизвестный источник (tmz): Jenelle Evans’ Mom Barbara Desperately C
+[2026-03-12 10:07:30] Неизвестный источник (nbcsports.com): Travis Kelce: I still love playing, Chie
+[2026-03-12 10:07:30] Неизвестный источник (gizmodo.com): Simple Blood Test Can Predict Dementia 2
+[2026-03-12 10:07:30] Неизвестный источник (defensenews.com): Australian submariners have a brush with
+[2026-03-12 10:07:30] Старая новость (2026-03-10T03:05:11Z): ASUS Announces New-Gen NUC 16 Pro Mini P
+[2026-03-12 10:07:30] Старая новость (2026-03-09T20:50:01Z): Deep ocean microbes may already be prepa
+[2026-03-12 10:07:30] Старая новость (2026-03-09T16:01:41Z): One Daily Supplement Could Slow Your Bio
+[2026-03-12 10:07:30] Старая новость (2026-03-09T15:56:51Z): Single Workout Sparks Brain Ripples in H
+[2026-03-12 10:07:30] Старая новость (2026-03-09T10:02:53Z): Guest column | Reasons you should get a 
+[2026-03-12 10:07:30] Мировые новости: найдено 5 после фильтрации
+[2026-03-12 10:07:32] Обрабатываю: Israel launches new strikes at Iran and Lebanon, as US says 
+[2026-03-12 10:07:32] Попытка 1 для: Israel launches new strikes at Iran and 
+[2026-03-12 10:07:34] Успешно, получено 599 символов
+[2026-03-12 10:07:34] Пауза 60 секунд...
+[2026-03-12 10:08:34] Обрабатываю: Woman charged with attempted murder after shooting at Rihann
+[2026-03-12 10:08:34] Попытка 1 для: Woman charged with attempted murder afte
+[2026-03-12 10:08:35] Успешно, получено 745 символов
+[2026-03-12 10:08:35] Пауза 60 секунд...
+[2026-03-12 10:09:35] Обрабатываю: IEA Proposes Largest Ever Oil Stockpile Release, WSJ Says
+[2026-03-12 10:09:35] Попытка 1 для: IEA Proposes Largest Ever Oil Stockpile 
+[2026-03-12 10:09:36] Успешно, получено 641 символов
+[2026-03-12 10:09:37] Фото не отправилось: 400
+[2026-03-12 10:09:37] Пауза 60 секунд...
+[2026-03-12 10:10:37] Обрабатываю: A 1,300-pound Nasa spacecraft to re-enter Earth's atmosphere
+[2026-03-12 10:10:37] Попытка 1 для: A 1,300-pound Nasa spacecraft to re-ente
+[2026-03-12 10:10:38] Успешно, получено 626 символов
+[2026-03-12 10:10:38] === Блок midday завершён ===
