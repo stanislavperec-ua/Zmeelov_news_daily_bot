@@ -582,3 +582,48 @@
 [2026-03-12 11:56:21] Попытка 1 для: The White House isn’t panicking about oi
 [2026-03-12 11:56:22] Успешно, получено 880 символов
 [2026-03-12 11:56:23] === Блок midday завершён ===
+[2026-03-12 18:09:24] Загружено 73 уже отправленных новостей
+[2026-03-12 18:09:24] === Запуск блока: ai_evening ===
+[2026-03-12 18:09:24] Неизвестный источник (pymnts.com): Supply Chains Are Learning to Think and 
+[2026-03-12 18:09:24] Нет фото: brainsurgery 0.0.9
+[2026-03-12 18:09:24] Неизвестный источник (techradar): This 'fascinating' Microsoft Excel secur
+[2026-03-12 18:09:24] Неизвестный источник (pymnts.com): Google Completes $32 Billion Purchase of
+[2026-03-12 18:09:24] Неизвестный источник (wordpress.com): A Typed Language for Agent Coordination
+[2026-03-12 18:09:24] Неизвестный источник (internet): Researchers Trick Perplexity's Comet AI 
+[2026-03-12 18:09:24] Неизвестный источник (pharmaceutical technology): Tariffs, uncertainty and disruption: how
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): F5 announces platform-wide upgrades incl
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): Canva’s Magic Layers breathes new life i
+[2026-03-12 18:09:24] Неизвестный источник (business insider): Read the memo authorizing Senate offices
+[2026-03-12 18:09:24] Нет фото: Natural Gas Boom Will Spur a Shortage of
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): New memory architecture targets AI infer
+[2026-03-12 18:09:24] Нет фото: brainsurgery 0.0.8
+[2026-03-12 18:09:24] Нет фото: OBSI announces two new board members
+[2026-03-12 18:09:24] Неизвестный источник (financial post): Texas Stock Exchange (TXSE) Selects Opti
+[2026-03-12 18:09:24] Неизвестный источник (financial post): Wall Street is optimistic that worst of 
+[2026-03-12 18:09:24] Нет фото: Windows 12 could be the tipping point th
+[2026-03-12 18:09:24] Неизвестный источник (businessline): India, with 103 crore internet users, ha
+[2026-03-12 18:09:24] Неизвестный источник (telecomtv): UK underpins its ‘Plan for Space’ with £
+[2026-03-12 18:09:24] Нет фото: Esprit-ai, Perley Health and OBIO® Advan
+[2026-03-12 18:09:24] Неизвестный источник (plos.org): Using reinforcement algorithms to improv
+[2026-03-12 18:09:24] Неизвестный источник (plos.org): Decoding living systems: Reassessing cro
+[2026-03-12 18:09:24] Неизвестный источник (plos.org): Towards equitable and immersive outdoor 
+[2026-03-12 18:09:24] Неизвестный источник (plos.org): KGRec: A knowledge graph attention-based
+[2026-03-12 18:09:24] Неизвестный источник (plos.org): Large-scale paired chain BCR analysis re
+[2026-03-12 18:09:24] Неизвестный источник (fortune): Meta transformed social networking for h
+[2026-03-12 18:09:24] Неизвестный источник (the indian express): UPSC Key: Impeaching the CEC, Essential 
+[2026-03-12 18:09:24] Неизвестный источник (globenewswire): The $15 Billion Signal From the Pentagon
+[2026-03-12 18:09:24] Нет фото: alfie-cli 0.0.1
+[2026-03-12 18:09:24] Нет фото: alfie-cli added to PyPI
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): Xscape debuts its first laser-based opti
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): Zymtrace raises $12.2M to optimize AI wo
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): Netskope launches One AI Security suite 
+[2026-03-12 18:09:24] Неизвестный источник (siliconangle news): Fortanix expands Data Security Manager w
+[2026-03-12 18:09:24] Нет фото: Access Named by KMWorld for Fifth Consec
+[2026-03-12 18:09:24] Неизвестный источник (financial post): Behind many polished decks is a growing 
+[2026-03-12 18:09:24] Неизвестный источник (computerweekly.com): Mastercard bots target C-suite roles
+[2026-03-12 18:09:24] Неизвестный источник (financial post): US Futures Muted as Iran War Continues, 
+[2026-03-12 18:09:24] AI новости: найдено 1 после фильтрации
+[2026-03-12 18:09:26] Обрабатываю: U.S. military is using AI to help plan Iran air attacks, sou
+[2026-03-12 18:09:26] Попытка 1 для: U.S. military is using AI to help plan I
+[2026-03-12 18:09:28] Успешно, получено 711 символов
+[2026-03-12 18:09:28] === Блок ai_evening завершён ===
