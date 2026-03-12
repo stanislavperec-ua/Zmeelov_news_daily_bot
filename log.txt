@@ -627,3 +627,47 @@
 [2026-03-12 18:09:26] Попытка 1 для: U.S. military is using AI to help plan I
 [2026-03-12 18:09:28] Успешно, получено 711 символов
 [2026-03-12 18:09:28] === Блок ai_evening завершён ===
+[2026-03-12 19:55:46] Загружено 74 уже отправленных новостей
+[2026-03-12 19:55:46] === Запуск блока: ai_evening ===
+[2026-03-12 19:55:46] Нет фото: iaif-utils 0.0.2
+[2026-03-12 19:55:46] Нет фото: iaif-utils added to PyPI
+[2026-03-12 19:55:46] Неизвестный источник (national post): Liberals promise $10 million to fortify 
+[2026-03-12 19:55:46] Неизвестный источник (adweek): Netflix’s Warner Bros. Bid Failed. What 
+[2026-03-12 19:55:46] Неизвестный источник (sspnet.org): Emerald Publishing and PRME Announce Col
+[2026-03-12 19:55:46] Неизвестный источник (databricks.com): Mitigating The Risk of Prompt Injection 
+[2026-03-12 19:55:46] Неизвестный источник (digitalcommerce360): Mastercard introduces AI ‘virtual c-suit
+[2026-03-12 19:55:46] Неизвестный источник (pymnts.com): Supply Chains Are Learning to Think and 
+[2026-03-12 19:55:46] Нет фото: brainsurgery 0.0.9
+[2026-03-12 19:55:46] Неизвестный источник (techradar): This 'fascinating' Microsoft Excel secur
+[2026-03-12 19:55:46] Неизвестный источник (pymnts.com): Google Completes $32 Billion Purchase of
+[2026-03-12 19:55:46] Неизвестный источник (wordpress.com): A Typed Language for Agent Coordination
+[2026-03-12 19:55:46] Неизвестный источник (internet): Researchers Trick Perplexity's Comet AI 
+[2026-03-12 19:55:46] Неизвестный источник (pharmaceutical technology): Tariffs, uncertainty and disruption: how
+[2026-03-12 19:55:46] Неизвестный источник (siliconangle news): F5 announces platform-wide upgrades incl
+[2026-03-12 19:55:46] Пропускаю уже отправленную: U.S. military is using AI to help plan Iran air at
+[2026-03-12 19:55:46] Неизвестный источник (siliconangle news): Canva’s Magic Layers breathes new life i
+[2026-03-12 19:55:46] Неизвестный источник (business insider): Read the memo authorizing Senate offices
+[2026-03-12 19:55:46] Нет фото: Natural Gas Boom Will Spur a Shortage of
+[2026-03-12 19:55:46] Неизвестный источник (siliconangle news): New memory architecture targets AI infer
+[2026-03-12 19:55:46] Нет фото: brainsurgery 0.0.8
+[2026-03-12 19:55:46] Нет фото: OBSI announces two new board members
+[2026-03-12 19:55:46] Неизвестный источник (financial post): Texas Stock Exchange (TXSE) Selects Opti
+[2026-03-12 19:55:46] Неизвестный источник (financial post): Wall Street is optimistic that worst of 
+[2026-03-12 19:55:46] Нет фото: Windows 12 could be the tipping point th
+[2026-03-12 19:55:46] Неизвестный источник (businessline): India, with 103 crore internet users, ha
+[2026-03-12 19:55:46] Неизвестный источник (telecomtv): UK underpins its ‘Plan for Space’ with £
+[2026-03-12 19:55:46] Нет фото: Esprit-ai, Perley Health and OBIO® Advan
+[2026-03-12 19:55:46] Неизвестный источник (plos.org): Using reinforcement algorithms to improv
+[2026-03-12 19:55:46] Неизвестный источник (plos.org): Decoding living systems: Reassessing cro
+[2026-03-12 19:55:46] Неизвестный источник (plos.org): Towards equitable and immersive outdoor 
+[2026-03-12 19:55:46] Неизвестный источник (plos.org): KGRec: A knowledge graph attention-based
+[2026-03-12 19:55:46] Неизвестный источник (plos.org): Large-scale paired chain BCR analysis re
+[2026-03-12 19:55:46] Неизвестный источник (fortune): Meta transformed social networking for h
+[2026-03-12 19:55:46] Неизвестный источник (the indian express): UPSC Key: Impeaching the CEC, Essential 
+[2026-03-12 19:55:46] Неизвестный источник (globenewswire): The $15 Billion Signal From the Pentagon
+[2026-03-12 19:55:46] Нет фото: alfie-cli 0.0.1
+[2026-03-12 19:55:46] Нет фото: alfie-cli added to PyPI
+[2026-03-12 19:55:46] Неизвестный источник (siliconangle news): Xscape debuts its first laser-based opti
+[2026-03-12 19:55:46] AI новости: найдено 0 после фильтрации
+[2026-03-12 19:55:46] ⚠️ Блок *AI вечер* (12.03.2026) — новостей не найдено!
+[2026-03-12 19:55:47] === Блок ai_evening завершён ===
