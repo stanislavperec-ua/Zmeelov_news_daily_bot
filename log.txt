@@ -543,3 +543,42 @@
 [2026-03-12 10:10:37] Попытка 1 для: A 1,300-pound Nasa spacecraft to re-ente
 [2026-03-12 10:10:38] Успешно, получено 626 символов
 [2026-03-12 10:10:38] === Блок midday завершён ===
+[2026-03-12 11:53:14] Загружено 69 уже отправленных новостей
+[2026-03-12 11:53:14] === Запуск блока: midday ===
+[2026-03-12 11:53:14] Неизвестный источник (honolulu star-advertiser): U.S., Israel launch heaviest strikes on 
+[2026-03-12 11:53:14] Неизвестный источник (entertainment weekly): “Teen Mom” star Jenelle Evans' son check
+[2026-03-12 11:53:14] Пропускаю уже отправленную: Trump’s pick advances in race to replace Marjorie 
+[2026-03-12 11:53:14] Неизвестный источник (baseball america): Explaining All The World Baseball Classi
+[2026-03-12 11:53:14] Неизвестный источник (deadline): Misty Copeland, Who Promoted 'Marty Supr
+[2026-03-12 11:53:14] Неизвестный источник (the globe and mail): Your daily horoscope: March 11, 2026 - T
+[2026-03-12 11:53:14] Неизвестный источник (9to5mac): Photographer Tyler Stalman tests the Mac
+[2026-03-12 11:53:14] Неизвестный источник (newsnationnow.com): Harvey Weinstein says life inside Rikers
+[2026-03-12 11:53:14] Неизвестный источник (sfgate): National park evacuation underway due to
+[2026-03-12 11:53:14] Пропускаю уже отправленную: IEA Proposes Largest Ever Oil Stockpile Release, W
+[2026-03-12 11:53:14] Неизвестный источник (kabc-tv): LAUSD Superintendent Alberto Carvalho br
+[2026-03-12 11:53:14] Неизвестный источник (slashgear): Gas Just Hit $8 A Gallon In This Major U
+[2026-03-12 11:53:14] Неизвестный источник (nfl news): NFL free agency winners and losers: Jets
+[2026-03-12 11:53:14] Пропускаю уже отправленную: A 1,300-pound Nasa spacecraft to re-enter Earth's 
+[2026-03-12 11:53:14] Неизвестный источник (gameinformer.com): Crimson Desert Specs For PC, Console, An
+[2026-03-12 11:53:14] Неизвестный источник (hackaday): Blood Tests Could Provide Early Warning 
+[2026-03-12 11:53:14] Неизвестный источник (forbes): Meta Acquires Moltbook: Social Media Pla
+[2026-03-12 11:53:14] Неизвестный источник (medium): Q&A About 3I/ATLAS, a Week Before Its Cl
+[2026-03-12 11:53:14] Старая новость (2026-03-09T17:00:14Z): Guest column | Reasons you should get a 
+[2026-03-12 11:53:14] Старая новость (2026-03-09T10:32:00Z): The surprising way breast cancer screeni
+[2026-03-12 11:53:14] Мировые новости: найдено 10 после фильтрации
+[2026-03-12 11:53:17] Обрабатываю: Live updates: Attacks on ships in Strait of Hormuz escalate,
+[2026-03-12 11:53:17] Попытка 1 для: Live updates: Attacks on ships in Strait
+[2026-03-12 11:53:18] Успешно, получено 694 символов
+[2026-03-12 11:53:19] Пауза 60 секунд...
+[2026-03-12 11:54:19] Обрабатываю: Samsung Galaxy S26 and S26 Plus review: This again
+[2026-03-12 11:54:19] Попытка 1 для: Samsung Galaxy S26 and S26 Plus review: 
+[2026-03-12 11:54:19] Успешно, получено 479 символов
+[2026-03-12 11:54:20] Пауза 60 секунд...
+[2026-03-12 11:55:20] Обрабатываю: Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, 
+[2026-03-12 11:55:20] Попытка 1 для: Iran War Live Updates: Iran Lays Mines i
+[2026-03-12 11:55:21] Успешно, получено 561 символов
+[2026-03-12 11:55:21] Пауза 60 секунд...
+[2026-03-12 11:56:21] Обрабатываю: The White House isn’t panicking about oil prices. That may c
+[2026-03-12 11:56:21] Попытка 1 для: The White House isn’t panicking about oi
+[2026-03-12 11:56:22] Успешно, получено 880 символов
+[2026-03-12 11:56:23] === Блок midday завершён ===
