@@ -104,7 +104,7 @@ def save_sent_url(url, sent_urls):
         f.write(url + "\n")
 
 
-sent_urls  = load_sent_urls()
+sent_urls   = load_sent_urls()
 sent_titles = []
 
 
@@ -168,14 +168,23 @@ def is_fresh(article):
         return True
 
 
-def is_trusted_source(article):
+def is_blocked_source(article):
+    """Проверяем только заблокированные источники"""
     source_name = (article.get("source", {}).get("name") or "").lower()
     url = (article.get("url") or "").lower()
-
     for blocked in BLOCKED_SOURCES:
         if blocked in source_name or blocked in url:
             log(f"Заблокированный источник ({source_name}): {article.get('title', '')[:40]}")
-            return False
+            return True
+    return False
+
+
+def is_trusted_source(article):
+    """Проверяем надёжные источники — только для мировых и AI новостей"""
+    source_name = (article.get("source", {}).get("name") or "").lower()
+
+    if is_blocked_source(article):
+        return False
 
     for trusted in TRUSTED_SOURCES:
         if trusted in source_name:
@@ -207,7 +216,7 @@ def is_duplicate_by_title(title):
     return False
 
 
-def is_relevant(article, require_ukraine=False, require_kharkiv=False):
+def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_source_check=False):
     title = (article.get("title") or "").lower()
     description = (article.get("description") or "").lower()
     text = title + " " + description
@@ -226,8 +235,14 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False):
     if not is_fresh(article):
         return False
 
-    if not is_trusted_source(article):
-        return False
+    # Для украинских/харьковских новостей проверяем только заблокированные
+    # Для мировых и AI — проверяем полный список надёжных источников
+    if skip_source_check:
+        if is_blocked_source(article):
+            return False
+    else:
+        if not is_trusted_source(article):
+            return False
 
     for word in EXCLUDE_KEYWORDS:
         if word in text:
@@ -272,7 +287,7 @@ def analyze(title, description, source_name, published_at=None):
 
 Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания.
 
-Суть: начни с даты "{date_str}" затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком, как журналист качественного издания. Не домысливай — только то что есть в новости.
+Суть: начни с даты "{date_str}." затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай — только то что есть в новости.
 
 Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами из новости и звучать профессионально.
 
@@ -351,7 +366,8 @@ def get_ukraine_news(count):
         articles = resp.json().get("articles", [])
         filtered = []
         for a in articles:
-            if not is_relevant(a, require_ukraine=True):
+            # skip_source_check=True — для Украины не требуем trusted source
+            if not is_relevant(a, require_ukraine=True, skip_source_check=True):
                 continue
             title = (a.get("title") or "").lower()
             description = (a.get("description") or "").lower()
@@ -383,7 +399,8 @@ def get_kharkiv_news():
             timeout=15
         )
         articles = resp.json().get("articles", [])
-        articles = [a for a in articles if is_relevant(a, require_kharkiv=True)]
+        # skip_source_check=True — для Харькова не требуем trusted source
+        articles = [a for a in articles if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
         if articles:
             log(f"Харьков: найдена новость — {articles[0].get('title', '')[:50]}")
             return articles[0]
