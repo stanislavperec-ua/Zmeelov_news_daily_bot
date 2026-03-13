@@ -730,3 +730,54 @@
 [2026-03-13 08:04:33] Попытка 1 для: Ukraine updates: Four killed in Russian,
 [2026-03-13 08:04:34] Успешно, получено 819 символов
 [2026-03-13 08:04:35] === Блок morning завершён ===
+[2026-03-13 09:59:10] Загружено 81 уже отправленных новостей
+[2026-03-13 09:59:10] === Запуск блока: ai_morning ===
+[2026-03-13 09:59:10] Нет фото: brainsurgery 0.0.10
+[2026-03-13 09:59:10] Неизвестный источник (antaranews.com): Empyrean Sky Partners Achieves Fastest F
+[2026-03-13 09:59:10] Неизвестный источник (c21media.net): Revenue slumps at Fremantle as parent RT
+[2026-03-13 09:59:10] Нет фото: CNN Original Series "Kara Swisher Wants 
+[2026-03-13 09:59:10] Неизвестный источник (business insider): Social media giants have grand plans for
+[2026-03-13 09:59:10] Неизвестный источник (computerweekly.com): CES 2026: AI gets physical
+[2026-03-13 09:59:10] Неизвестный источник (computerweekly.com): CES 2026: Connected vehicles accelerate 
+[2026-03-13 09:59:10] Неизвестный источник (financial post): BDC expands support for defence sector b
+[2026-03-13 09:59:10] Нет фото: BDC boosts Defence Platform up to $6B af
+[2026-03-13 09:59:10] Неизвестный источник (globenewswire): BDC boosts Defence Platform up to $6B af
+[2026-03-13 09:59:10] Неизвестный источник (financial post): Indian Assets Crack as Energy Shock Brin
+[2026-03-13 09:59:10] Нет фото: Global Power Solutions Appoints Pete Med
+[2026-03-13 09:59:10] Неизвестный источник (fortune): Exclusive: Oro Labs, which uses AI to st
+[2026-03-13 09:59:10] Неизвестный источник (globenewswire): BioVersys Announces First Patient Dosed 
+[2026-03-13 09:59:10] Неизвестный источник (cointelegraph): AI agent payment volumes lower than repo
+[2026-03-13 09:59:10] Неизвестный источник (computerweekly.com): Is AI our agent, or are our governments 
+[2026-03-13 09:59:10] Неизвестный источник (antaranews.com): Huawei Elevates Financial AI Solutions t
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Grammarly shuts down “Expert Review” aft
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Anthropic launches Anthropic Institute t
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Nvidia’s Nemotron Super 3 model for agen
+[2026-03-13 09:59:10] Неизвестный источник (pymnts.com): Stitch Fix Clients Seek New Sizes as GLP
+[2026-03-13 09:59:10] Неизвестный источник (techradar): Meta buying social network for AI bots M
+[2026-03-13 09:59:10] Нет фото: Improving multi-variable weather forecas
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Despite beating expectations and posting
+[2026-03-13 09:59:10] Заблокированный источник (barchart.com): This Dividend Stock Yielding Almost 3% I
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Meta debuts internally developed AI chip
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Zendesk announces deal to acquire custom
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Cybersecurity startup Kai raises $125M t
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): The convergence crisis: Why AI adoption 
+[2026-03-13 09:59:10] Нет фото: A Typed Language for Agent Coordination
+[2026-03-13 09:59:10] Неизвестный источник (cnbc): FCC chair slams Amazon for slow satellit
+[2026-03-13 09:59:10] Неизвестный источник (thechalkboardmag.com): Living Well with Dr. Sarah Rahal, Founde
+[2026-03-13 09:59:10] Неизвестный источник (siliconangle news): Nvidia invests $2B in AI cloud operator 
+[2026-03-13 09:59:10] Нет фото: Descartes Announces Fiscal 2026 Fourth Q
+[2026-03-13 09:59:10] Неизвестный источник (globenewswire): Descartes Announces Fiscal 2026 Fourth Q
+[2026-03-13 09:59:10] AI новости: найдено 5 после фильтрации
+[2026-03-13 09:59:13] Обрабатываю: Skeptical Science New Research for Week #11 2026
+[2026-03-13 09:59:13] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-03-13 09:59:14] Успешно, получено 694 символов
+[2026-03-13 09:59:14] Фото не отправилось: 400
+[2026-03-13 09:59:14] Пауза 60 секунд...
+[2026-03-13 10:00:14] Обрабатываю: MWC 2026: The next generation of technology revealed
+[2026-03-13 10:00:14] Попытка 1 для: MWC 2026: The next generation of technol
+[2026-03-13 10:00:15] Успешно, получено 684 символов
+[2026-03-13 10:00:16] Пауза 60 секунд...
+[2026-03-13 10:01:16] Обрабатываю: How the Anthropic-Pentagon dispute over AI safeguards escala
+[2026-03-13 10:01:16] Попытка 1 для: How the Anthropic-Pentagon dispute over 
+[2026-03-13 10:01:17] Успешно, получено 659 символов
+[2026-03-13 10:01:17] === Блок ai_morning завершён ===
