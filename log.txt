@@ -781,3 +781,40 @@
 [2026-03-13 10:01:16] Попытка 1 для: How the Anthropic-Pentagon dispute over 
 [2026-03-13 10:01:17] Успешно, получено 659 символов
 [2026-03-13 10:01:17] === Блок ai_morning завершён ===
+[2026-03-13 11:57:18] Загружено 84 уже отправленных новостей
+[2026-03-13 11:57:18] === Запуск блока: midday ===
+[2026-03-13 11:57:18] Неизвестный источник (cnbc): Three more ships struck in the Persian G
+[2026-03-13 11:57:18] Неизвестный источник (insideevs ): Gas Prices Are Up, And So Are Searches F
+[2026-03-13 11:57:18] Неизвестный источник (deadline): 2026 Oscars Party Photos: See All the Bi
+[2026-03-13 11:57:18] Неизвестный источник (scitechdaily): Why Colon Cancer Is Rising in Young Adul
+[2026-03-13 11:57:18] Неизвестный источник (yahoo entertainment): The 5 most shocking allegations we learn
+[2026-03-13 11:57:18] Пропускаю уже отправленную: Iranian school was on U.S. target list, may have b
+[2026-03-13 11:57:18] Неизвестный источник (9to5mac): How well does the new MacBook Neo handle
+[2026-03-13 11:57:18] Неизвестный источник (just jared): Jack Osbourne & Wife Aree Welcome Baby G
+[2026-03-13 11:57:18] Неизвестный источник (wpvi-tv): Gracie Mansion plot: Pa. teens considere
+[2026-03-13 11:57:18] Неизвестный источник (ctinsider.com): Horoscope for Thursday, 3/12/26 by Georg
+[2026-03-13 11:57:18] Неизвестный источник (arizona sports): Kyler Murray weighing Vikings starting j
+[2026-03-13 11:57:18] Неизвестный источник (pbs): Why did U.S. bombings cause 'acid rain' 
+[2026-03-13 11:57:18] Неизвестный источник (space.com): Incoming! 1,300-pound NASA satellite cra
+[2026-03-13 11:57:18] Неизвестный источник (wccftech): M5 Max’s Fusion Architecture Allows For 
+[2026-03-13 11:57:18] Неизвестный источник (gizmodo.com): Musk and Bezos Moon Landers Could Leave 
+[2026-03-13 11:57:18] Старая новость (2026-03-11T10:32:14Z): Hurry! These five-star Sennheiser headph
+[2026-03-13 11:57:18] Старая новость (2026-03-10T17:00:00Z): Blood Tests Could Provide Early Warning 
+[2026-03-13 11:57:18] Мировые новости: найдено 11 после фильтрации
+[2026-03-13 11:57:21] Обрабатываю: What Americans sacrifice due to high health costs
+[2026-03-13 11:57:21] Попытка 1 для: What Americans sacrifice due to high hea
+[2026-03-13 11:57:22] Успешно, получено 831 символов
+[2026-03-13 11:57:22] Пауза 60 секунд...
+[2026-03-13 11:58:22] Обрабатываю: Trump says Democrats must cheat to win. What do his supporte
+[2026-03-13 11:58:22] Попытка 1 для: Trump says Democrats must cheat to win. 
+[2026-03-13 11:58:23] Успешно, получено 695 символов
+[2026-03-13 11:58:24] Пауза 60 секунд...
+[2026-03-13 11:59:24] Обрабатываю: Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts
+[2026-03-13 11:59:24] Попытка 1 для: Atlassian to Reduce 1,600 Jobs in the La
+[2026-03-13 11:59:25] Успешно, получено 870 символов
+[2026-03-13 11:59:25] Фото не отправилось: 400
+[2026-03-13 11:59:25] Пауза 60 секунд...
+[2026-03-13 12:00:25] Обрабатываю: Trump will tap oil reserve as Iran war drives up gas prices
+[2026-03-13 12:00:25] Попытка 1 для: Trump will tap oil reserve as Iran war d
+[2026-03-13 12:00:26] Успешно, получено 646 символов
+[2026-03-13 12:00:27] === Блок midday завершён ===
