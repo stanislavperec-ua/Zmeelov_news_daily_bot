@@ -818,3 +818,47 @@
 [2026-03-13 12:00:25] Попытка 1 для: Trump will tap oil reserve as Iran war d
 [2026-03-13 12:00:26] Успешно, получено 646 символов
 [2026-03-13 12:00:27] === Блок midday завершён ===
+[2026-03-13 17:53:17] Загружено 88 уже отправленных новостей
+[2026-03-13 17:53:17] === Запуск блока: ai_evening ===
+[2026-03-13 17:53:17] Нет фото: feagi 2.1.31
+[2026-03-13 17:53:17] Неизвестный источник (notebookcheck.net): Omoway unveils OMO-ROBOT architecture an
+[2026-03-13 17:53:17] Неизвестный источник (cointelegraph): Tether joins $5.2M round in stablecoin i
+[2026-03-13 17:53:17] Неизвестный источник (internet): Hive0163 Uses AI-Assisted Slopoly Malwar
+[2026-03-13 17:53:17] Неизвестный источник (siliconangle news): Genspark launches Claw AI assistant as s
+[2026-03-13 17:53:17] Неизвестный источник (deadline): ‘Virgin River’ Showrunner On Shocking Se
+[2026-03-13 17:53:17] Нет фото: aait 3.3.2
+[2026-03-13 17:53:17] Неизвестный источник (pymnts.com): Dollar General Logs 7 Million App Users 
+[2026-03-13 17:53:17] Неизвестный источник (new zealand herald): Why investors are jittery but not in ful
+[2026-03-13 17:53:17] Нет фото: ANSR Recognized for Workspace Design at 
+[2026-03-13 17:53:17] Неизвестный источник (rte): Chocolate smelling ad prompts complaints
+[2026-03-13 17:53:17] Неизвестный источник (hackaday): Controlling Vintage Mac OS With AI
+[2026-03-13 17:53:17] Неизвестный источник (siliconangle news): Thenvoi launches platform to help develo
+[2026-03-13 17:53:17] Неизвестный источник (protothema.gr): Kyriakos Mitsotakis: I categorically rej
+[2026-03-13 17:53:17] Неизвестный источник (landezine.com): 24-27 March / Urban Future Conference in
+[2026-03-13 17:53:17] Неизвестный источник (github.com): Show HN: LegalTech – A curated list of t
+[2026-03-13 17:53:17] Нет фото: aait 3.3.1
+[2026-03-13 17:53:17] Неизвестный источник (siliconangle news): Qdrant raises $50M to bring flexible vec
+[2026-03-13 17:53:17] Нет фото: aait 3.3.0
+[2026-03-13 17:53:17] Неизвестный источник (thestreet): Highlights from the SOA Retirement Risk 
+[2026-03-13 17:53:17] Нет фото: annpy-neopydev5454 0.1.2
+[2026-03-13 17:53:17] Неизвестный источник (pymnts.com): Santander and Visa Launch LatAm Agentic 
+[2026-03-13 17:53:17] Заблокированный источник (breitbart news): Mark Zuckerberg's Meta Buys Moltbook, th
+[2026-03-13 17:53:17] Нет фото: (GIST OF SCIENCE REPORTER) Moltbook Plat
+[2026-03-13 17:53:17] Нет фото: annpy-neopydev5454 0.1.1
+[2026-03-13 17:53:17] Неизвестный источник (zdnet): This $30 smart router with a built-in VP
+[2026-03-13 17:53:17] Неизвестный источник (plos.org): Efficient service mesh traffic managemen
+[2026-03-13 17:53:17] Неизвестный источник (plos.org): Lessons learned from manual curation of 
+[2026-03-13 17:53:17] Нет фото: annpy-neopydev5454 0.1.0
+[2026-03-13 17:53:17] Неизвестный источник (pypi.org): annpy-neopydev5454 added to PyPI
+[2026-03-13 17:53:17] Неизвестный источник (globenewswire): ONAR Completes Acquisition of Scale Part
+[2026-03-13 17:53:17] Неизвестный источник (globenewswire): EC-Council Establishes Global CISO Counc
+[2026-03-13 17:53:17] Неизвестный источник (internet): ThreatsDay Bulletin: OAuth Trap, EDR Kil
+[2026-03-13 17:53:17] Нет фото: Optical Scale-up Consortium Established 
+[2026-03-13 17:53:17] Неизвестный источник (siliconangle news): With its serverless infrastructure, Tens
+[2026-03-13 17:53:17] Неизвестный источник (practical ecommerce): Why OpenAI Acquired Promptfoo
+[2026-03-13 17:53:17] Неизвестный источник (financial post): US Stock Futures Drop With Oil Near $100
+[2026-03-13 17:53:17] AI новости: найдено 1 после фильтрации
+[2026-03-13 17:53:19] Обрабатываю: How corporations have collaborated with US military over the
+[2026-03-13 17:53:19] Попытка 1 для: How corporations have collaborated with 
+[2026-03-13 17:53:20] Успешно, получено 629 символов
+[2026-03-13 17:53:21] === Блок ai_evening завершён ===
