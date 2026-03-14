@@ -999,3 +999,43 @@
 [2026-03-14 09:06:16] Попытка 1 для: Anthropic invests $100 million into Clau
 [2026-03-14 09:06:17] Успешно, получено 681 символов
 [2026-03-14 09:06:17] === Блок ai_morning завершён ===
+[2026-03-14 11:48:10] Загружено 96 уже отправленных новостей
+[2026-03-14 11:48:10] === Запуск блока: midday ===
+[2026-03-14 11:48:10] Неизвестный источник (yahoo entertainment): The Senate passed its first major housin
+[2026-03-14 11:48:10] Пропускаю уже отправленную: Live Updates: Iran war paralyzes oil trade, U.S. m
+[2026-03-14 11:48:10] Неизвестный источник (cnbc): European stocks set to slide further as 
+[2026-03-14 11:48:10] Неизвестный источник (wtop): ROTC students at Old Dominion University
+[2026-03-14 11:48:10] Неизвестный источник (sfgate): Horoscope for Friday, 03/13/26 by Christ
+[2026-03-14 11:48:10] Пропускаю уже отправленную: Man rams car into synagogue in attack on Jewish co
+[2026-03-14 11:48:10] Неизвестный источник (wral.com): Duke shows its championship mettle in co
+[2026-03-14 11:48:10] Неизвестный источник (sfgate): California has no clear defense against 
+[2026-03-14 11:48:10] Неизвестный источник (nfl news): New-age Titans unveil new-look logo, uni
+[2026-03-14 11:48:10] Неизвестный источник (deadline): Boots Riley’s ‘I Love Boosters’ Kicks Up
+[2026-03-14 11:48:10] Неизвестный источник (kptv.com): Gresham grocery store identified as meas
+[2026-03-14 11:48:10] Неизвестный источник (9news.com kusa): Arvada sports bar linked to growing meas
+[2026-03-14 11:48:10] Неизвестный источник (fandomwire.com): Perfect SXSW Review: Dystopian Lesbian R
+[2026-03-14 11:48:10] Неизвестный источник (nbcsports.com): Ryan Poles confirms Bears had interest i
+[2026-03-14 11:48:10] Неизвестный источник (space.com): 'Completely bonkers': Astronomers find e
+[2026-03-14 11:48:10] Неизвестный источник (mortgage news daily): Mortgage Rates Spike to 2026 Highs - Mor
+[2026-03-14 11:48:10] Неизвестный источник (space.com): ISS astronauts take out the space trash 
+[2026-03-14 11:48:10] Неизвестный источник (the ringer): Oscar Predictions for an Unpredictable Y
+[2026-03-14 11:48:10] Старая новость (2026-03-12T10:01:02Z): Share on Your Terms with Galaxy S26 Ultr
+[2026-03-14 11:48:10] Старая новость (2026-03-11T21:37:27Z): Memory loss is fuelled by gut microbes i
+[2026-03-14 11:48:10] Старая новость (2026-03-11T20:21:50Z): Microsoft Teases "New Ways To Play" Clas
+[2026-03-14 11:48:10] Мировые новости: найдено 7 после фильтрации
+[2026-03-14 11:48:12] Обрабатываю: Vance was ‘skeptical’ voice in White House on Iran strikes
+[2026-03-14 11:48:12] Попытка 1 для: Vance was ‘skeptical’ voice in White Hou
+[2026-03-14 11:48:14] Успешно, получено 707 символов
+[2026-03-14 11:48:14] Пауза 60 секунд...
+[2026-03-14 11:49:14] Обрабатываю: China slams Trump's trade investigation, as it approves a 5-
+[2026-03-14 11:49:14] Попытка 1 для: China slams Trump's trade investigation,
+[2026-03-14 11:49:15] Успешно, получено 586 символов
+[2026-03-14 11:49:16] Пауза 60 секунд...
+[2026-03-14 11:50:16] Обрабатываю: NASA targets Artemis II crewed moon mission for April 1 laun
+[2026-03-14 11:50:16] Попытка 1 для: NASA targets Artemis II crewed moon miss
+[2026-03-14 11:50:17] Успешно, получено 805 символов
+[2026-03-14 11:50:18] Пауза 60 секунд...
+[2026-03-14 11:51:18] Обрабатываю: Tinder tries to lure people back to online dating with IRL e
+[2026-03-14 11:51:18] Попытка 1 для: Tinder tries to lure people back to onli
+[2026-03-14 11:51:19] Успешно, получено 829 символов
+[2026-03-14 11:51:19] === Блок midday завершён ===
