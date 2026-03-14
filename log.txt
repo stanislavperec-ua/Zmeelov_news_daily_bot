@@ -948,3 +948,54 @@
 [2026-03-14 07:54:19] Попытка 1 для: Man rams car into synagogue in attack on
 [2026-03-14 07:54:20] Успешно, получено 669 символов
 [2026-03-14 07:54:21] === Блок morning завершён ===
+[2026-03-14 09:04:10] Загружено 93 уже отправленных новостей
+[2026-03-14 09:04:10] === Запуск блока: ai_morning ===
+[2026-03-14 09:04:10] Нет фото: brainsurgery 0.1.2
+[2026-03-14 09:04:10] Неизвестный источник (computerweekly.com): Unreliable fleet connectivity driving em
+[2026-03-14 09:04:10] Неизвестный источник (protothema.gr): Konstantinopoulos hands back his parliam
+[2026-03-14 09:04:10] Неизвестный источник (phonearena): T-Mobile sees 40% efficiency gains in th
+[2026-03-14 09:04:10] Нет фото: brainsurgery 0.1.1
+[2026-03-14 09:04:10] Неизвестный источник (digital journal): AI agent ‘lobster fever’ grips China des
+[2026-03-14 09:04:10] Неизвестный источник (quantumfrontiers.com): The FeMo-cofactor and classical and quan
+[2026-03-14 09:04:10] Неизвестный источник (archdaily): Designing the Sensory City: Architecture
+[2026-03-14 09:04:10] Неизвестный источник (c-sharpcorner.com): How Can Developers Design Modular Archit
+[2026-03-14 09:04:10] Неизвестный источник (motley fool australia): Should I buy WiseTech shares? Yes or no
+[2026-03-14 09:04:10] Неизвестный источник (globenewswire): WeRide Robotaxi Launches on Tencent Mobi
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Verifiable AI startup Axiom raises $200M
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): AI agent development startup Wonderful r
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Rubrik shares slip after hours despite s
+[2026-03-14 09:04:10] Нет фото: A fuzzy time-series driven ensemble appr
+[2026-03-14 09:04:10] Нет фото: Uncertainty-aware feature-weighted ensem
+[2026-03-14 09:04:10] Нет фото: Comprehensive enhancement of blasting pe
+[2026-03-14 09:04:10] Нет фото: Improving elderly-oriented transportatio
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Bold Security and Onyx Security raise $4
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Vibe coding startup Replit closes $400M 
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Sunday raises $165M at $1.15B valuation 
+[2026-03-14 09:04:10] Неизвестный источник (computerweekly.com): Why real-time data is key for enterprise
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Adobe CEO Shantanu Narayen to step down 
+[2026-03-14 09:04:10] Неизвестный источник (opiniojuris.org): AWS in the Cross-Hairs: Data Centres as 
+[2026-03-14 09:04:10] Неизвестный источник (pymnts.com): Healthcare’s Billing Wars Are Becoming a
+[2026-03-14 09:04:10] Нет фото: GURU Organic Energy Announces Election o
+[2026-03-14 09:04:10] Неизвестный источник (globenewswire): GURU Organic Energy Announces Election o
+[2026-03-14 09:04:10] Неизвестный источник (siliconangle news): Microsoft launches Copilot Health to hel
+[2026-03-14 09:04:10] Нет фото: Mattr Announces Fourth Quarter & Full Ye
+[2026-03-14 09:04:10] Неизвестный источник (globenewswire): Mattr Announces Fourth Quarter & Full Ye
+[2026-03-14 09:04:10] Неизвестный источник (psychology today): The Importance of Watching the Watchers
+[2026-03-14 09:04:10] Нет фото: PhraseExpress 18.0.65
+[2026-03-14 09:04:10] Неизвестный источник (android central): 6G is coming, and these are 3 things you
+[2026-03-14 09:04:10] Нет фото: iSpecimen Launches AI Agent Revolutioniz
+[2026-03-14 09:04:10] Нет фото: Rakovina Therapeutics Announces Extensio
+[2026-03-14 09:04:10] Неизвестный источник (cointelegraph): Polychain backs VeryAI’s $10M raise to b
+[2026-03-14 09:04:10] AI новости: найдено 3 после фильтрации
+[2026-03-14 09:04:12] Обрабатываю: AI agent 'lobster fever' grips China despite risks
+[2026-03-14 09:04:12] Попытка 1 для: AI agent 'lobster fever' grips China des
+[2026-03-14 09:04:13] Успешно, получено 915 символов
+[2026-03-14 09:04:14] Пауза 60 секунд...
+[2026-03-14 09:05:14] Обрабатываю: At China's big political meeting, a rare debate about inequa
+[2026-03-14 09:05:14] Попытка 1 для: At China's big political meeting, a rare
+[2026-03-14 09:05:15] Успешно, получено 887 символов
+[2026-03-14 09:05:16] Пауза 60 секунд...
+[2026-03-14 09:06:16] Обрабатываю: Anthropic invests $100 million into Claude AI program
+[2026-03-14 09:06:16] Попытка 1 для: Anthropic invests $100 million into Clau
+[2026-03-14 09:06:17] Успешно, получено 681 символов
+[2026-03-14 09:06:17] === Блок ai_morning завершён ===
