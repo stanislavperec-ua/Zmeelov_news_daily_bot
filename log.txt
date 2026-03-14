@@ -1087,3 +1087,49 @@
 [2026-03-14 17:03:16] Попытка 1 для: US’s new scramble for Africa is biomedic
 [2026-03-14 17:03:17] Успешно, получено 788 символов
 [2026-03-14 17:03:17] === Блок ai_evening завершён ===
+[2026-03-14 19:17:26] Загружено 103 уже отправленных новостей
+[2026-03-14 19:17:26] === Запуск блока: ai_evening ===
+[2026-03-14 19:17:26] Неизвестный источник (cnbc): Elon Musk says xAI must be 'rebuilt' as 
+[2026-03-14 19:17:26] Нет фото: PhraseExpress 18.0.66
+[2026-03-14 19:17:26] Неизвестный источник (financial post): Musk pledges to rebuild xAI as another c
+[2026-03-14 19:17:26] Неизвестный источник (livemint): Trai plans extra fee, penalty on operato
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): Shekhar Natarajan Introduces ‘Trust Ecol
+[2026-03-14 19:17:26] Неизвестный источник (antaranews.com): APAIE 2026 Conference and Exhibition suc
+[2026-03-14 19:17:26] Пропускаю уже отправленную: Cúirt festival line-up revealed
+[2026-03-14 19:17:26] Пропускаю уже отправленную: Cathie Wood predicts oil could crash 50% even as S
+[2026-03-14 19:17:26] Нет фото: Major research infrastructure investment
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): Major research infrastructure investment
+[2026-03-14 19:17:26] Неизвестный источник (pymnts.com): FedEx Replaces Legacy Tech to Empower AI
+[2026-03-14 19:17:26] Неизвестный источник (gottabemobile.com): How Smart Devices Are Changing Everyday 
+[2026-03-14 19:17:26] Неизвестный источник (antaranews.com): Huawei Launches iFTTO Solution, Accelera
+[2026-03-14 19:17:26] Неизвестный источник (decrypt): PIP Labs Sheds Staff as Story Protocol L
+[2026-03-14 19:17:26] Неизвестный источник (siliconangle news): Twenty years after pioneering the cloud,
+[2026-03-14 19:17:26] Неизвестный источник (cisco.com): Empowering the Future: Celebrating the I
+[2026-03-14 19:17:26] Неизвестный источник (decrypt): Trump Meme Coin, Render and Pi See Doubl
+[2026-03-14 19:17:26] Нет фото: aait 3.3.3
+[2026-03-14 19:17:26] Пропускаю уже отправленную: US’s new scramble for Africa is biomedical imperia
+[2026-03-14 19:17:26] Неизвестный источник (marketingprofs.com): AI Update, March 13, 2026: AI News and V
+[2026-03-14 19:17:26] Неизвестный источник (deadline): Can Artifice Boost Authenticity? Why Doc
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): Lianhe Sowell International Group Ltd. A
+[2026-03-14 19:17:26] Неизвестный источник (pcworld): Will Apple’s MacBook Neo kill budget PC 
+[2026-03-14 19:17:26] Неизвестный источник (the indian express): BMC to deploy 75 hyperlocal sensors to t
+[2026-03-14 19:17:26] Неизвестный источник (bitrebels.com): IKKO MindOne Phone: Specs, Features, AI 
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): Duos Technologies Group Executes Definit
+[2026-03-14 19:17:26] Неизвестный источник (financial post): BofA’s Hartnett Warns Markets Are Starti
+[2026-03-14 19:17:26] Неизвестный источник (naftemporiki.gr): Data Centers: Investment interest up to 
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): SEALSQ and Parrot Expand Their Strategic
+[2026-03-14 19:17:26] Неизвестный источник (globenewswire): Foresight’s Eye-Net Achieves Positive Re
+[2026-03-14 19:17:26] Неизвестный источник (passo.uno): New habits for tech writers in the age o
+[2026-03-14 19:17:26] Неизвестный источник (gizmodo.com): Samsung Galaxy S26 Lineup Is Now Cheaper
+[2026-03-14 19:17:26] Неизвестный источник (coindesk): Bitcoin outperforms stocks, tops $72,000
+[2026-03-14 19:17:26] Нет фото: 10 Friday AM Reads
+[2026-03-14 19:17:26] Нет фото: brainsurgery 0.1.2
+[2026-03-14 19:17:26] AI новости: найдено 2 после фильтрации
+[2026-03-14 19:17:29] Обрабатываю: IT’s time to migrate to AI: Indian tech firms must stop bein
+[2026-03-14 19:17:29] Попытка 1 для: IT’s time to migrate to AI: Indian tech 
+[2026-03-14 19:17:30] Успешно, получено 768 символов
+[2026-03-14 19:17:30] Пауза 60 секунд...
+[2026-03-14 19:18:30] Обрабатываю: Maharashtra eyes five-fold expansion of data centre capacity
+[2026-03-14 19:18:30] Попытка 1 для: Maharashtra eyes five-fold expansion of 
+[2026-03-14 19:18:31] Успешно, получено 686 символов
+[2026-03-14 19:18:32] === Блок ai_evening завершён ===
