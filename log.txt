@@ -905,3 +905,46 @@
 [2026-03-13 19:48:48] AI новости: найдено 0 после фильтрации
 [2026-03-13 19:48:48] ⚠️ Блок *AI вечер* (13.03.2026) — новостей не найдено!
 [2026-03-13 19:48:49] === Блок ai_evening завершён ===
+[2026-03-14 07:51:07] Загружено 89 уже отправленных новостей
+[2026-03-14 07:51:07] === Запуск блока: morning ===
+[2026-03-14 07:51:07] Неизвестный источник (wtop): ROTC students at Old Dominion University
+[2026-03-14 07:51:07] Неизвестный источник (wral.com): Duke shows its championship mettle in co
+[2026-03-14 07:51:07] Неизвестный источник (sun sentinel): Florida Legislature passes citizen verif
+[2026-03-14 07:51:07] Неизвестный источник (tmz): 'Southern Hospitality' Star Grace Lilly 
+[2026-03-14 07:51:07] Неизвестный источник (deadline): 'I Love Boosters' Review: Boots Riley Fi
+[2026-03-14 07:51:07] Неизвестный источник (sfgate): Deadly virus outbreak at Bay Area state 
+[2026-03-14 07:51:07] Неизвестный источник (9news.com kusa): Arvada sports bar linked to growing meas
+[2026-03-14 07:51:07] Неизвестный источник (kabc-tv): Newsom says no imminent threat to Califo
+[2026-03-14 07:51:07] Неизвестный источник (nbcsports.com): Ryan Poles confirms Bears had interest i
+[2026-03-14 07:51:07] Неизвестный источник (nfl news): 2026 NFL free agency frenzy: Smartest/ri
+[2026-03-14 07:51:07] Неизвестный источник (hollywood reporter): Oscars 2026: Inside the A-List Parties a
+[2026-03-14 07:51:07] Неизвестный источник (mortgage news daily): Mortgage Rates Spike to 2026 Highs - Mor
+[2026-03-14 07:51:07] Неизвестный источник (mlive.com): Second measles case suspected in Washten
+[2026-03-14 07:51:07] Неизвестный источник (macrumors): Google Maps Adds Gemini AI-Powered 'Ask 
+[2026-03-14 07:51:07] Неизвестный источник (space.com): Northrop Grumman's 1st 'Cygnus XL' cargo
+[2026-03-14 07:51:07] Старая новость (2026-03-11T21:00:00Z): Black hole and neutron star mergers push
+[2026-03-14 07:51:07] Старая новость (2026-03-11T19:12:00Z): The Galaxy S26 series is now officially 
+[2026-03-14 07:51:07] Мировые новости: найдено 14 после фильтрации
+[2026-03-14 07:51:12] Заблокированный источник (naturalnews.com): The Paper Tiger Exposed: The U.S. Milita
+[2026-03-14 07:51:12] Нет фото: US Waiver Frees Up 19 Million Barrels of
+[2026-03-14 07:51:12] Нет фото: I Have Seen the Future of Anti-Drone War
+[2026-03-14 07:51:12] Нет фото: American prayer vigil, March 13, 2026
+[2026-03-14 07:51:12] Украинские новости: найдено 0 после фильтрации
+[2026-03-14 07:51:12] Заблокированный источник (sputnikglobe.com): Six Ukrainians Get Life Sentences in Abs
+[2026-03-14 07:51:12] Харьков: новостей не найдено
+[2026-03-14 07:51:15] Обрабатываю: Middle East war live: US to ease Russian oil sanctions as en
+[2026-03-14 07:51:15] Попытка 1 для: Middle East war live: US to ease Russian
+[2026-03-14 07:51:16] Успешно, получено 706 символов
+[2026-03-14 07:51:16] Пауза 60 секунд...
+[2026-03-14 07:52:16] Обрабатываю: Live Updates: Iran war paralyzes oil trade, U.S. military pl
+[2026-03-14 07:52:16] Попытка 1 для: Live Updates: Iran war paralyzes oil tra
+[2026-03-14 07:52:17] Успешно, получено 641 символов
+[2026-03-14 07:52:18] Пауза 60 секунд...
+[2026-03-14 07:53:18] Обрабатываю: What we know on the 14th day of the US and Israel’s war with
+[2026-03-14 07:53:18] Попытка 1 для: What we know on the 14th day of the US a
+[2026-03-14 07:53:19] Успешно, получено 717 символов
+[2026-03-14 07:53:19] Пауза 60 секунд...
+[2026-03-14 07:54:19] Обрабатываю: Man rams car into synagogue in attack on Jewish community, a
+[2026-03-14 07:54:19] Попытка 1 для: Man rams car into synagogue in attack on
+[2026-03-14 07:54:20] Успешно, получено 669 символов
+[2026-03-14 07:54:21] === Блок morning завершён ===
