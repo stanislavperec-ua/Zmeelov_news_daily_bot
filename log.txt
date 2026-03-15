@@ -1229,3 +1229,39 @@
 [2026-03-15 09:50:44] AI новости: найдено 0 после фильтрации
 [2026-03-15 09:50:44] ⚠️ Блок *AI утро* (15.03.2026) — новостей не найдено!
 [2026-03-15 09:50:45] === Блок ai_morning завершён ===
+[2026-03-15 11:49:40] Загружено 111 уже отправленных новостей
+[2026-03-15 11:49:40] === Запуск блока: midday ===
+[2026-03-15 11:49:41] Неизвестный источник (cnbc): A Paramount-Warner Bros. movie slate cou
+[2026-03-15 11:49:41] Неизвестный источник (the jerusalem post): Hamas asks Tehran to halt strikes on Gul
+[2026-03-15 11:49:41] Неизвестный источник (apple newsroom): Apple hosts 50th anniversary celebration
+[2026-03-15 11:49:41] Пропускаю уже отправленную: Veteran Army combat pilot mourned after shooting a
+[2026-03-15 11:49:41] Неизвестный источник (al.com): Ole Miss shocks Alabama, upsets Crimson 
+[2026-03-15 11:49:41] Неизвестный источник (rolling stone): Dolly Parton Makes First Major Appearanc
+[2026-03-15 11:49:41] Неизвестный источник (nbcsports.com): Jim Irsay’s Pink Floyd guitar sells for 
+[2026-03-15 11:49:41] Пропускаю уже отправленную: NASA officials sidestepped questions on Artemis II
+[2026-03-15 11:49:41] Неизвестный источник (gamedeveloper.com): Rebranded GDC Festival of Gaming attract
+[2026-03-15 11:49:41] Неизвестный источник (sacramento bee): Beale AFB tanker plane lands with damage
+[2026-03-15 11:49:41] Неизвестный источник (usa today): Cher's son Chaz Bono marries childhood s
+[2026-03-15 11:49:41] Неизвестный источник (hollywood reporter): Oscars Predictions via Feinberg Forecast
+[2026-03-15 11:49:41] Неизвестный источник (stat): Major changes to cardiovascular guidelin
+[2026-03-15 11:49:41] Неизвестный источник (gizmodo.com): Earth’s Spin Is Slowing at a Pace Not Se
+[2026-03-15 11:49:41] Неизвестный источник (sammyfans.com): Galaxy S26 Ultra display causing eye str
+[2026-03-15 11:49:41] Неизвестный источник (pbs): Lebanese official says man in Michigan s
+[2026-03-15 11:49:41] Старая новость (2026-03-13T11:02:55Z): As colon cancer rises in younger adults,
+[2026-03-15 11:49:41] Мировые новости: найдено 13 после фильтрации
+[2026-03-15 11:49:43] Обрабатываю: Trump turns to California offshore oil to help with Iran war
+[2026-03-15 11:49:43] Попытка 1 для: Trump turns to California offshore oil t
+[2026-03-15 11:49:44] Успешно, получено 730 символов
+[2026-03-15 11:49:44] Пауза 60 секунд...
+[2026-03-15 11:50:44] Обрабатываю: Trump urged uprising, but as bombs fall, Iranians are ‘too s
+[2026-03-15 11:50:44] Попытка 1 для: Trump urged uprising, but as bombs fall,
+[2026-03-15 11:50:45] Успешно, получено 648 символов
+[2026-03-15 11:50:46] Пауза 60 секунд...
+[2026-03-15 11:51:46] Обрабатываю: Trump snubs Zelenskyy’s offer of drone help
+[2026-03-15 11:51:46] Попытка 1 для: Trump snubs Zelenskyy’s offer of drone h
+[2026-03-15 11:51:47] Успешно, получено 821 символов
+[2026-03-15 11:51:47] Пауза 60 секунд...
+[2026-03-15 11:52:47] Обрабатываю: 'We’re constantly surprised': The strange deep-sea creatures
+[2026-03-15 11:52:47] Попытка 1 для: 'We’re constantly surprised': The strang
+[2026-03-15 11:52:48] Успешно, получено 694 символов
+[2026-03-15 11:52:49] === Блок midday завершён ===
