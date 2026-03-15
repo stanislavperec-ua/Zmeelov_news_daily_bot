@@ -1133,3 +1133,57 @@
 [2026-03-14 19:18:30] Попытка 1 для: Maharashtra eyes five-fold expansion of 
 [2026-03-14 19:18:31] Успешно, получено 686 символов
 [2026-03-14 19:18:32] === Блок ai_evening завершён ===
+[2026-03-15 07:57:02] Загружено 105 уже отправленных новостей
+[2026-03-15 07:57:02] === Запуск блока: morning ===
+[2026-03-15 07:57:02] Неизвестный источник (espn): Ducks' Radko Gudas slapped with 5-game b
+[2026-03-15 07:57:02] Неизвестный источник (cbs sports): Team USA Baseball vs. Canada score: Live
+[2026-03-15 07:57:02] Неизвестный источник (wbal tv baltimore): Ground stop impacted airports, including
+[2026-03-15 07:57:02] Неизвестный источник (france 24 english): Explosion shakes Tehran amid state-organ
+[2026-03-15 07:57:02] Неизвестный источник (entertainment weekly): Doja Cat reveals BPD diagnosis while def
+[2026-03-15 07:57:02] Неизвестный источник (space.com): Hubble and NASA space telescopes track '
+[2026-03-15 07:57:02] Неизвестный источник (hollywood reporter): Oscars Predictions via Feinberg Forecast
+[2026-03-15 07:57:02] Неизвестный источник (variety): Steven Spielberg Says Ballet and Opera A
+[2026-03-15 07:57:02] Неизвестный источник (investopedia): Markets News, March 13, 2026: Equities F
+[2026-03-15 07:57:02] Неизвестный источник (nfl news): Seven overlooked free-agent signings tha
+[2026-03-15 07:57:02] Неизвестный источник (macrumors): Apple Kicks Off 50th Anniversary With Su
+[2026-03-15 07:57:02] Неизвестный источник (usni.org): USS Tripoli, 31st MEU Heading to the Mid
+[2026-03-15 07:57:02] Неизвестный источник (mortgage news daily): Mortgage Rates Surge to 7-Month Highs - 
+[2026-03-15 07:57:02] Неизвестный источник (macrumors): iPhone Fold: 5 Things We Learned This We
+[2026-03-15 07:57:02] Неизвестный источник (windows central): Auto SR preview coming to Xbox Ally X in
+[2026-03-15 07:57:02] Неизвестный источник (the dallas morning news): As colon cancer rises in younger adults,
+[2026-03-15 07:57:02] Старая новость (2026-03-13T00:12:51Z): Colorado now has 10 recorded measles cas
+[2026-03-15 07:57:02] Старая новость (2026-03-12T17:54:29Z): Fossil discovered in New Mexico may belo
+[2026-03-15 07:57:02] Мировые новости: найдено 10 после фильтрации
+[2026-03-15 07:57:03] Нет фото: Ukraine Warns US Easing Of Russian Oil S
+[2026-03-15 07:57:03] Нет фото: North Korea fires about 10 missiles towa
+[2026-03-15 07:57:03] Нет фото: Trump Says Russia Might Be Helping Iran 
+[2026-03-15 07:57:03] Заблокированный источник (naturalnews.com): The invisible war: How a cyberattack cou
+[2026-03-15 07:57:03] Заблокированный источник (naturalnews.com): Saudi arms firm signs deal for Ukrainian
+[2026-03-15 07:57:03] Заблокированный источник (naturalnews.com): The Final War: How NATO’s arrogance is p
+[2026-03-15 07:57:03] Нет фото: Russia Says Major Oil Refinery, Key Port
+[2026-03-15 07:57:03] Нет фото: Iran's Internal Security Forces Are Bein
+[2026-03-15 07:57:03] Украинские новости: найдено 1 после фильтрации
+[2026-03-15 07:57:03] Харьков: найдена новость — Russia and Ukraine wage high-tech war in the 'deat
+[2026-03-15 07:57:05] Обрабатываю: Trump says U.S. bombed Kharg Island, striking core of Iran’s
+[2026-03-15 07:57:05] Попытка 1 для: Trump says U.S. bombed Kharg Island, str
+[2026-03-15 07:57:06] Успешно, получено 682 символов
+[2026-03-15 07:57:07] Пауза 60 секунд...
+[2026-03-15 07:58:07] Обрабатываю: Veteran Army combat pilot mourned after shooting at Old Domi
+[2026-03-15 07:58:07] Попытка 1 для: Veteran Army combat pilot mourned after 
+[2026-03-15 07:58:08] Успешно, получено 702 символов
+[2026-03-15 07:58:09] Пауза 60 секунд...
+[2026-03-15 07:59:09] Обрабатываю: 8 accused of antifa ties convicted on terrorism charges over
+[2026-03-15 07:59:09] Попытка 1 для: 8 accused of antifa ties convicted on te
+[2026-03-15 07:59:10] Успешно, получено 677 символов
+[2026-03-15 07:59:10] Пауза 60 секунд...
+[2026-03-15 08:00:10] Обрабатываю: NASA officials sidestepped questions on Artemis II risks—the
+[2026-03-15 08:00:10] Попытка 1 для: NASA officials sidestepped questions on 
+[2026-03-15 08:00:11] Успешно, получено 558 символов
+[2026-03-15 08:00:14] Обрабатываю: Ukraine says Russian strikes kill 4 in Kiev region
+[2026-03-15 08:00:14] Попытка 1 для: Ukraine says Russian strikes kill 4 in K
+[2026-03-15 08:00:15] Успешно, получено 597 символов
+[2026-03-15 08:00:16] Пауза 60 секунд...
+[2026-03-15 08:01:16] Обрабатываю: Russia and Ukraine wage high-tech war in the 'death zone'
+[2026-03-15 08:01:16] Попытка 1 для: Russia and Ukraine wage high-tech war in
+[2026-03-15 08:01:17] Успешно, получено 702 символов
+[2026-03-15 08:01:18] === Блок morning завершён ===
