@@ -1265,3 +1265,41 @@
 [2026-03-15 11:52:47] Попытка 1 для: 'We’re constantly surprised': The strang
 [2026-03-15 11:52:48] Успешно, получено 694 символов
 [2026-03-15 11:52:49] === Блок midday завершён ===
+[2026-03-15 17:00:35] Загружено 115 уже отправленных новостей
+[2026-03-15 17:00:35] === Запуск блока: ai_evening ===
+[2026-03-15 17:00:35] Неизвестный источник (internet): OpenClaw AI Agent Flaws Could Enable Pro
+[2026-03-15 17:00:35] Неизвестный источник (techradar): Deepfake worries hit a new high as one i
+[2026-03-15 17:00:35] Неизвестный источник (mother jones): The Trump Administration Will Somehow Ma
+[2026-03-15 17:00:35] Неизвестный источник (bleeding cool news): Absolute Flash #13 Preview: Wally's Spee
+[2026-03-15 17:00:35] Неизвестный источник (fortune): We need a new Turing test — and Moltbook
+[2026-03-15 17:00:35] Неизвестный источник (bleeding cool news): Black Panther: Intergalactic #4 Preview:
+[2026-03-15 17:00:35] Неизвестный источник (fortune): The 2026 farm bill quietly hands big tec
+[2026-03-15 17:00:35] Неизвестный источник (mypeoplesreview.com): UAE detains people filming Iranian missi
+[2026-03-15 17:00:35] Неизвестный источник (gossiplankanews.com): Meta acquires Moltbook - something new c
+[2026-03-15 17:00:35] Неизвестный источник (csis.org): Starlink Militarization and Its Impact o
+[2026-03-15 17:00:35] Нет фото: auditapp 0.1.2
+[2026-03-15 17:00:35] Неизвестный источник (tmonews): T-Mobile Mobilizes Network for Midwest W
+[2026-03-15 17:00:35] Неизвестный источник (bastillepost.com): Higgsfield Launches Similarity-Scoring T
+[2026-03-15 17:00:35] Неизвестный источник (serpzilla.com): Top 8 Link Building Mistakes to Avoid in
+[2026-03-15 17:00:35] Неизвестный источник (gottabemobile.com): Smart Technology Trends to Watch in the 
+[2026-03-15 17:00:35] Нет фото: Development and performance evaluation o
+[2026-03-15 17:00:35] Нет фото: Ultraflexible photoelectrical impedance 
+[2026-03-15 17:00:35] Нет фото: Electrostatically tunable moiré-mediated
+[2026-03-15 17:00:35] Нет фото: Accelerating supercritical pharmaceutica
+[2026-03-15 17:00:35] Неизвестный источник (siliconangle news): Gumloop reels in $50M for its AI automat
+[2026-03-15 17:00:35] Неизвестный источник (pymnts.com): FedEx Plans Agent Workforce in Over 50% 
+[2026-03-15 17:00:35] Неизвестный источник (siliconangle news): AWS will bring Cerebras’ wafer-size WSE-
+[2026-03-15 17:00:35] Нет фото: brainsurgery 0.1.3
+[2026-03-15 17:00:35] Неизвестный источник (pymnts.com): Alibaba App Widens Access to AI Agent Op
+[2026-03-15 17:00:35] Неизвестный источник (siliconangle news): The 6G horizon: Can AI finally solve the
+[2026-03-15 17:00:35] Неизвестный источник (mit.edu): Financial Times ranks MIT Sloan No. 1 in
+[2026-03-15 17:00:35] Неизвестный источник (cnbc): Elon Musk says xAI must be 'rebuilt' as 
+[2026-03-15 17:00:35] Нет фото: PhraseExpress 18.0.66
+[2026-03-15 17:00:35] Неизвестный источник (financial post): Musk pledges to rebuild xAI as another c
+[2026-03-15 17:00:35] Пропускаю уже отправленную: IT’s time to migrate to AI: Indian tech firms must
+[2026-03-15 17:00:35] Неизвестный источник (livemint): Trai plans extra fee, penalty on operato
+[2026-03-15 17:00:35] Неизвестный источник (globenewswire): Shekhar Natarajan Introduces ‘Trust Ecol
+[2026-03-15 17:00:35] Неизвестный источник (antaranews.com): APAIE 2026 Conference and Exhibition suc
+[2026-03-15 17:00:35] AI новости: найдено 0 после фильтрации
+[2026-03-15 17:00:35] ⚠️ Блок *AI вечер* (15.03.2026) — новостей не найдено!
+[2026-03-15 17:00:36] === Блок ai_evening завершён ===
