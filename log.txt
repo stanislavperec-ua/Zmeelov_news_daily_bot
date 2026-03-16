@@ -1506,3 +1506,32 @@
 [2026-03-16 14:51:49] Попытка 1 для: Ukraine does not want to lose US backing
 [2026-03-16 14:51:50] Успешно, получено 695 символов
 [2026-03-16 14:51:50] === Блок evening завершён ===
+[2026-03-16 19:36:14] Загружено 129 уже отправленных новостей
+[2026-03-16 19:36:14] === Запуск блока: ai_evening ===
+[2026-03-16 19:36:15] Неизвестный источник (motley fool australia): 3 of the best ASX stocks to buy in March
+[2026-03-16 19:36:15] Неизвестный источник (financial post): Bond Market in Oil’s Grip Ponders Shifti
+[2026-03-16 19:36:15] Неизвестный источник (fair observer): Guarding the Gates of the Global Fortres
+[2026-03-16 19:36:15] Неизвестный источник (new zealand herald): Bridgewest Ventures fund hits $55m first
+[2026-03-16 19:36:15] Неизвестный источник (eff): The Foilies 2026
+[2026-03-16 19:36:15] Неизвестный источник (ubergizmo): Tinder Unveils AI Matchmaking And New Fe
+[2026-03-16 19:36:15] Неизвестный источник (oilprice.com): Saudi Arabia’s Dream of a Futuristic Meg
+[2026-03-16 19:36:15] Неизвестный источник (khabarhub.com): Digital shadows over Tokyo: China-linked
+[2026-03-16 19:36:15] Неизвестный источник (coindesk): Visa is ready for AI agents. So is Coinb
+[2026-03-16 19:36:15] Неизвестный источник (wjxt news4jax): A media-rating company says a Trump agen
+[2026-03-16 19:36:15] Нет фото: brainsurgery 0.2.5
+[2026-03-16 19:36:15] Нет фото: annpy-neopydev5454 0.1.4
+[2026-03-16 19:36:15] Нет фото: annpy-neopydev5454 0.1.3
+[2026-03-16 19:36:15] Нет фото: What do squirrels do when their nest is 
+[2026-03-16 19:36:15] Нет фото: agixt 1.9.2
+[2026-03-16 19:36:15] Неизвестный источник (siliconangle news): GTC preview: Inside the AI factory — The
+[2026-03-16 19:36:15] Неизвестный источник (snopes.com): Watch out for false claim about Stephen 
+[2026-03-16 19:36:15] Неизвестный источник (news.com.au): Why millions of lovesick people are fall
+[2026-03-16 19:36:15] Нет фото: Embodying physical computing into soft r
+[2026-03-16 19:36:15] Нет фото: Learning data-efficient coarse-grained m
+[2026-03-16 19:36:15] Нет фото: Phosphorus-activated carboxyl small mole
+[2026-03-16 19:36:15] Неизвестный источник (electrek): Humanoid robots get to work at German BM
+[2026-03-16 19:36:15] Неизвестный источник (fstoppers): We Review the TerraMaster F2-425 Plus: A
+[2026-03-16 19:36:15] Неизвестный источник (propublica): DHS Official Responsible for Election Se
+[2026-03-16 19:36:15] AI новости: найдено 0 после фильтрации
+[2026-03-16 19:36:15] ⚠️ Блок *AI вечер* (16.03.2026) — новостей не найдено!
+[2026-03-16 19:36:15] === Блок ai_evening завершён ===
