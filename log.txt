@@ -1409,3 +1409,46 @@
 [2026-03-16 10:51:14] Попытка 1 для: The MacBook Neo is ‘the most repairable 
 [2026-03-16 10:51:16] Успешно, получено 858 символов
 [2026-03-16 10:51:16] === Блок midday завершён ===
+[2026-03-16 11:13:44] Загружено 119 уже отправленных новостей
+[2026-03-16 11:13:44] === Запуск блока: midday ===
+[2026-03-16 11:13:44] Неизвестный источник (espn): Chinese Grand Prix LIVE: Latest updates 
+[2026-03-16 11:13:44] Неизвестный источник (mlb.com): Venezuela, Italy set to battle for trip 
+[2026-03-16 11:13:44] Неизвестный источник (komo news): Covington Air Force Captain among six id
+[2026-03-16 11:13:44] Неизвестный источник (hollywood reporter): Harry Styles Address Queerbaiting Claims
+[2026-03-16 11:13:44] Неизвестный источник (figure four online): Result of Mega title match from AAA Rey 
+[2026-03-16 11:13:44] Неизвестный источник (the globe and mail): Your lookahead horoscope: March 15, 2026
+[2026-03-16 11:13:44] Неизвестный источник (mlive.com): Bomb Cyclone Breakdown: Which Michigan c
+[2026-03-16 11:13:44] Неизвестный источник (san francisco chronicle): Hawaii residents, visitors urged to stay
+[2026-03-16 11:13:44] Неизвестный источник (motley fool): Prediction: This Artificial Intelligence
+[2026-03-16 11:13:44] Неизвестный источник (minneapolis star tribune): Live: Snow emergencies declared ahead of
+[2026-03-16 11:13:44] Неизвестный источник (the official website of the ultimate fighting championship): Prelim Results | UFC Fight Night: Emmett
+[2026-03-16 11:13:44] Неизвестный источник (gsmarena.com): Deals: Galaxy S26 series now available, 
+[2026-03-16 11:13:44] Пропускаю уже отправленную: The MacBook Neo is ‘the most repairable MacBook’ i
+[2026-03-16 11:13:44] Неизвестный источник (pbs): Construction finishes on a major Massach
+[2026-03-16 11:13:44] Неизвестный источник (israelnationalnews.com): Study warns chatbot may cause hallucinat
+[2026-03-16 11:13:44] Неизвестный источник (pbs): North Korea fires about 10 ballistic mis
+[2026-03-16 11:13:44] Неизвестный источник (space.com): Two days, two coasts, two more SpaceX St
+[2026-03-16 11:13:44] Неизвестный источник (macrumors): Top Stories: Apple's 50th Anniversary, N
+[2026-03-16 11:13:44] Неизвестный источник (scitechdaily): New Pancreatic Cancer Treatment Strategy
+[2026-03-16 11:13:44] Старая новость (2026-03-14T09:02:30Z): How Bad is the Fear Factor in Markets? -
+[2026-03-16 11:13:44] Старая новость (2026-03-14T09:00:00Z): Exclusive: Iran Kurdish Leader Says Read
+[2026-03-16 11:13:44] Старая новость (2026-03-13T15:59:40Z): Magnetars drag spacetime to power superl
+[2026-03-16 11:13:44] Старая новость (2026-03-13T13:00:00Z): NASA begins building nuclear-powered Dra
+[2026-03-16 11:13:44] Старая новость (2026-03-13T11:02:55Z): As colon cancer rises in younger adults,
+[2026-03-16 11:13:44] Мировые новости: найдено 6 после фильтрации
+[2026-03-16 11:13:47] Обрабатываю: Trump claims international coalition will send war ships to 
+[2026-03-16 11:13:47] Попытка 1 для: Trump claims international coalition wil
+[2026-03-16 11:13:49] Успешно, получено 770 символов
+[2026-03-16 11:13:49] Пауза 60 секунд...
+[2026-03-16 11:14:49] Обрабатываю: 'Sinners' and 'One Battle After Another' poised for an all-W
+[2026-03-16 11:14:49] Попытка 1 для: 'Sinners' and 'One Battle After Another'
+[2026-03-16 11:14:50] Успешно, получено 530 символов
+[2026-03-16 11:14:51] Пауза 60 секунд...
+[2026-03-16 11:15:51] Обрабатываю: Trump says Iran is ready to negotiate a ceasefire but he's n
+[2026-03-16 11:15:51] Попытка 1 для: Trump says Iran is ready to negotiate a 
+[2026-03-16 11:15:52] Успешно, получено 554 символов
+[2026-03-16 11:15:52] Пауза 60 секунд...
+[2026-03-16 11:16:52] Обрабатываю: US oil groups in line for $63bn windfall from Gulf war disru
+[2026-03-16 11:16:52] Попытка 1 для: US oil groups in line for $63bn windfall
+[2026-03-16 11:16:53] Успешно, получено 890 символов
+[2026-03-16 11:16:54] === Блок midday завершён ===
