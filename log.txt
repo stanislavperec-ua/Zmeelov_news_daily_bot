@@ -1452,3 +1452,57 @@
 [2026-03-16 11:16:52] Попытка 1 для: US oil groups in line for $63bn windfall
 [2026-03-16 11:16:53] Успешно, получено 890 символов
 [2026-03-16 11:16:54] === Блок midday завершён ===
+[2026-03-16 14:47:35] Загружено 123 уже отправленных новостей
+[2026-03-16 14:47:35] === Запуск блока: evening ===
+[2026-03-16 14:47:36] Неизвестный источник (minnesota public radio news): Authorities advise no travel across sout
+[2026-03-16 14:47:36] Неизвестный источник (the daily galaxy --great discoveries channel): Astronomers Confirm a 'Mega-Laser' Beam 
+[2026-03-16 14:47:36] Неизвестный источник (business insider): The secret reason your delivery order co
+[2026-03-16 14:47:36] Неизвестный источник (formula 1): Antonelli beats Russell for maiden F1 vi
+[2026-03-16 14:47:36] Пропускаю уже отправленную: Trump claims international coalition will send war
+[2026-03-16 14:47:36] Неизвестный источник (hollywood reporter): Harry Styles Address Queerbaiting Claims
+[2026-03-16 14:47:36] Неизвестный источник (rolling stone): ‘SNL’ Cold Open: Pete Hegseth Has Some T
+[2026-03-16 14:47:36] Неизвестный источник (yahoo entertainment): UFC Vegas 114 results: Kevin Vallejos de
+[2026-03-16 14:47:36] Неизвестный источник (mlive.com): Bomb Cyclone Breakdown: Which Michigan c
+[2026-03-16 14:47:36] Неизвестный источник (gsmarena.com): Deals: Galaxy S26 series now available, 
+[2026-03-16 14:47:36] Пропускаю уже отправленную: The MacBook Neo is ‘the most repairable MacBook’ i
+[2026-03-16 14:47:36] Неизвестный источник (ktvi fox 2 st. louis): Jocelyn Peters: True-crime series ’48 Ho
+[2026-03-16 14:47:36] Неизвестный источник (space.com): Two days, two coasts, two more SpaceX St
+[2026-03-16 14:47:36] Неизвестный источник (usa today): Michelle Pfeiffer, Kurt Russell on 'The 
+[2026-03-16 14:47:36] Старая новость (2026-03-14T12:42:00Z): As the risk of measles grows, why are pa
+[2026-03-16 14:47:36] Старая новость (2026-03-14T03:13:57Z): Apple hosts 50th anniversary celebration
+[2026-03-16 14:47:36] Старая новость (2026-03-13T21:13:02Z): 10+ New Features Coming in iOS 27 - MacR
+[2026-03-16 14:47:36] Старая новость (2026-03-13T18:06:26Z): ACC/AHA Issue Updated Guideline for Mana
+[2026-03-16 14:47:36] Старая новость (2026-03-13T15:59:40Z): Magnetars drag spacetime to power superl
+[2026-03-16 14:47:36] Мировые новости: найдено 11 после фильтрации
+[2026-03-16 14:47:36] Заблокированный источник (breitbart news): Booker: 'Reckless, Out-of-Control' Trump
+[2026-03-16 14:47:36] Нет фото: Two weeks into war with Iran, Trump has 
+[2026-03-16 14:47:36] Пропускаю российский фокус: Ukraine waiting on U.S. and Russia to agree on nex
+[2026-03-16 14:47:36] Заблокированный источник (sputnikglobe.com): Talks on Ukraine on Hold as US Has Other
+[2026-03-16 14:47:36] Пропускаю российский фокус: Zelenskyy says Ukraine waiting on US and Russia to
+[2026-03-16 14:47:36] Нет фото: Orban and His Rival Amass Supporters for
+[2026-03-16 14:47:36] Украинские новости: найдено 2 после фильтрации
+[2026-03-16 14:47:36] Нет фото: Six killed in Russian air attacks on Ukr
+[2026-03-16 14:47:36] Харьков: новостей не найдено
+[2026-03-16 14:47:38] Обрабатываю: U.S. service members killed in refueling aircraft crash in I
+[2026-03-16 14:47:38] Попытка 1 для: U.S. service members killed in refueling
+[2026-03-16 14:47:40] Успешно, получено 751 символов
+[2026-03-16 14:47:40] Пауза 60 секунд...
+[2026-03-16 14:48:40] Обрабатываю: Can a groundbreaking cancer therapy help people with multipl
+[2026-03-16 14:48:40] Попытка 1 для: Can a groundbreaking cancer therapy help
+[2026-03-16 14:48:41] Успешно, получено 728 символов
+[2026-03-16 14:48:41] Пауза 60 секунд...
+[2026-03-16 14:49:41] Обрабатываю: A media-rating company says a Trump agency is threatening it
+[2026-03-16 14:49:41] Попытка 1 для: A media-rating company says a Trump agen
+[2026-03-16 14:49:42] Успешно, получено 703 символов
+[2026-03-16 14:49:43] Пауза 60 секунд...
+[2026-03-16 14:50:43] Обрабатываю: Israeli soldiers fire on family car in occupied West Bank, k
+[2026-03-16 14:50:43] Попытка 1 для: Israeli soldiers fire on family car in o
+[2026-03-16 14:50:44] Успешно, получено 657 символов
+[2026-03-16 14:50:47] Обрабатываю: Zelenskiy says Ukraine wants money, technology in return for
+[2026-03-16 14:50:47] Попытка 1 для: Zelenskiy says Ukraine wants money, tech
+[2026-03-16 14:50:48] Успешно, получено 1096 символов
+[2026-03-16 14:50:49] Пауза 60 секунд...
+[2026-03-16 14:51:49] Обрабатываю: Ukraine does not want to lose US backing: Zelensky
+[2026-03-16 14:51:49] Попытка 1 для: Ukraine does not want to lose US backing
+[2026-03-16 14:51:50] Успешно, получено 695 символов
+[2026-03-16 14:51:50] === Блок evening завершён ===
