@@ -1365,3 +1365,47 @@
 [2026-03-16 09:46:32] AI новости: найдено 0 после фильтрации
 [2026-03-16 09:46:32] ⚠️ Блок *AI утро* (16.03.2026) — новостей не найдено!
 [2026-03-16 09:46:32] === Блок ai_morning завершён ===
+[2026-03-16 10:48:07] Загружено 115 уже отправленных новостей
+[2026-03-16 10:48:07] === Запуск блока: midday ===
+[2026-03-16 10:48:07] Неизвестный источник (komo news): Covington Air Force Captain among six id
+[2026-03-16 10:48:07] Неизвестный источник (espn): Italy tops Puerto Rico, rides magical WB
+[2026-03-16 10:48:07] Неизвестный источник (new york post): St. John’s repeats as Big East Tournamen
+[2026-03-16 10:48:07] Неизвестный источник (yahoo entertainment): How to watch the 2026 Oscars: Where to s
+[2026-03-16 10:48:07] Неизвестный источник (san francisco chronicle): Hawaii residents, visitors urged to stay
+[2026-03-16 10:48:07] Неизвестный источник (motley fool): Prediction: This Artificial Intelligence
+[2026-03-16 10:48:07] Неизвестный источник (minneapolis star tribune): Live: Snow emergencies declared ahead of
+[2026-03-16 10:48:07] Неизвестный источник (the official website of the ultimate fighting championship): Prelim Results | UFC Fight Night: Emmett
+[2026-03-16 10:48:07] Неизвестный источник (dw (english)): Cuba: Protesters attack ruling party's o
+[2026-03-16 10:48:07] Неизвестный источник (gsmarena.com): Deals: Galaxy S26 series now available, 
+[2026-03-16 10:48:07] Неизвестный источник (thestreet): Goldman Sachs revamps Brent crude foreca
+[2026-03-16 10:48:07] Неизвестный источник (hollywood reporter): ‘Buffy the Vampire Slayer’ Reboot Not Mo
+[2026-03-16 10:48:07] Неизвестный источник (louder): "I was a single guy on tour, in a band, 
+[2026-03-16 10:48:07] Неизвестный источник (pbs): North Korea fires about 10 ballistic mis
+[2026-03-16 10:48:07] Неизвестный источник (space.com): Two days, two coasts, two more SpaceX St
+[2026-03-16 10:48:07] Неизвестный источник (macrumors): Top Stories: Apple's 50th Anniversary, N
+[2026-03-16 10:48:07] Неизвестный источник (seeking alpha): If I Were Retired Today, These 3 Income 
+[2026-03-16 10:48:07] Неизвестный источник (nbc.com): Is SNL New Tonight, March 14, 2026? What
+[2026-03-16 10:48:07] Старая новость (2026-03-13T20:18:00Z): Planned release of strategic reserve wou
+[2026-03-16 10:48:07] Старая новость (2026-03-13T18:46:19Z): New Lipid Guidelines Redefine Risk Categ
+[2026-03-16 10:48:07] Старая новость (2026-03-13T15:59:40Z): Magnetars drag spacetime to power superl
+[2026-03-16 10:48:07] Старая новость (2026-03-13T13:49:49Z): Hormone therapy and dementia risk: what 
+[2026-03-16 10:48:07] Старая новость (2026-03-13T13:00:00Z): NASA begins building nuclear-powered Dra
+[2026-03-16 10:48:07] Старая новость (2026-03-13T11:14:41Z): Gorgeous PS5 RPG In Legendary Series Out
+[2026-03-16 10:48:07] Старая новость (2026-03-13T11:02:55Z): As colon cancer rises in younger adults,
+[2026-03-16 10:48:07] Мировые новости: найдено 6 после фильтрации
+[2026-03-16 10:48:10] Обрабатываю: Trump urges world to help open Strait of Hormuz; U.S. Embass
+[2026-03-16 10:48:10] Попытка 1 для: Trump urges world to help open Strait of
+[2026-03-16 10:48:11] Успешно, получено 643 символов
+[2026-03-16 10:48:11] Пауза 60 секунд...
+[2026-03-16 10:49:11] Обрабатываю: Man facing questions about Missouri teacher's murder caught 
+[2026-03-16 10:49:11] Попытка 1 для: Man facing questions about Missouri teac
+[2026-03-16 10:49:12] Успешно, получено 694 символов
+[2026-03-16 10:49:13] Пауза 60 секунд...
+[2026-03-16 10:50:13] Обрабатываю: More Iranian Women Soccer Players Reverse Australia Asylum C
+[2026-03-16 10:50:13] Попытка 1 для: More Iranian Women Soccer Players Revers
+[2026-03-16 10:50:14] Успешно, получено 864 символов
+[2026-03-16 10:50:14] Пауза 60 секунд...
+[2026-03-16 10:51:14] Обрабатываю: The MacBook Neo is ‘the most repairable MacBook’ in years, a
+[2026-03-16 10:51:14] Попытка 1 для: The MacBook Neo is ‘the most repairable 
+[2026-03-16 10:51:16] Успешно, получено 858 символов
+[2026-03-16 10:51:16] === Блок midday завершён ===
