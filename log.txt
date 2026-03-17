@@ -1611,3 +1611,44 @@
 [2026-03-17 08:08:35] Попытка 1 для: Muted response as Trump urges nations to
 [2026-03-17 08:08:37] Успешно, получено 796 символов
 [2026-03-17 08:08:37] === Блок ai_morning завершён ===
+[2026-03-17 10:36:25] Загружено 131 уже отправленных новостей
+[2026-03-17 10:36:25] === Запуск блока: midday ===
+[2026-03-17 10:36:25] Неизвестный источник (the jerusalem post): IDF strikes aircraft used by Ali Khamene
+[2026-03-17 10:36:25] Неизвестный источник (sports illustrated): March Madness Brackets: Expert Predictio
+[2026-03-17 10:36:25] Неизвестный источник (business insider): CEOs of America's biggest airlines say $
+[2026-03-17 10:36:25] Неизвестный источник (variety): Michael B. Jordan Wins the Oscar and Sho
+[2026-03-17 10:36:25] Неизвестный источник (wion): 'Lost one leg': Iran's new leader Mojtab
+[2026-03-17 10:36:25] Неизвестный источник (variety): Javier Bardem Declares ‘No to War and Fr
+[2026-03-17 10:36:25] Неизвестный источник (deadline): Vanity Fair Oscar Party Photos: Best Loo
+[2026-03-17 10:36:25] Неизвестный источник (espn): 2026 printable March Madness women's bra
+[2026-03-17 10:36:25] Неизвестный источник (wect): ‘Very rare’ severe weather threat prompt
+[2026-03-17 10:36:25] Неизвестный источник (pbs): Fifth member of Iranian women's soccer t
+[2026-03-17 10:36:25] Неизвестный источник (spacenews): Starcloud files plans for 88,000-satelli
+[2026-03-17 10:36:25] Неизвестный источник (seeking alpha): S&P 500: An End In Sight (Technical Anal
+[2026-03-17 10:36:25] Неизвестный источник (macrumors): iOS 27 Will Reportedly Be Like Mac OS X 
+[2026-03-17 10:36:25] Неизвестный источник (techspot): AMD unveils OpenClaw to run AI agents lo
+[2026-03-17 10:36:25] Неизвестный источник (wkbn.com): Ways to prevent a common cancer for both
+[2026-03-17 10:36:25] Неизвестный источник (marketwatch): Nvidia’s big GTC event is on deck, and t
+[2026-03-17 10:36:25] Старая новость (2026-03-15T09:06:00Z): MacBook launch week deals: Up to $320 of
+[2026-03-17 10:36:25] Старая новость (2026-03-15T08:20:20Z): Foldable iPhone prices are almost imposs
+[2026-03-17 10:36:25] Старая новость (2026-03-14T17:11:43Z): Two days, two coasts, two more SpaceX St
+[2026-03-17 10:36:25] Старая новость (2026-03-14T13:15:00Z): Is Artemis 2 Too Risky for Astronauts? N
+[2026-03-17 10:36:25] Мировые новости: найдено 7 после фильтрации
+[2026-03-17 10:36:28] Обрабатываю: Column | Asking Eric: Mother refuses to accept the facts of 
+[2026-03-17 10:36:28] Попытка 1 для: Column | Asking Eric: Mother refuses to 
+[2026-03-17 10:36:29] Успешно, получено 446 символов
+[2026-03-17 10:36:29] Пауза 60 секунд...
+[2026-03-17 10:37:29] Обрабатываю: Trump Threatens Xi Summit Delay If China Doesn’t Help in Hor
+[2026-03-17 10:37:29] Попытка 1 для: Trump Threatens Xi Summit Delay If China
+[2026-03-17 10:37:30] Успешно, получено 783 символов
+[2026-03-17 10:37:31] Фото не отправилось: 400
+[2026-03-17 10:37:31] Пауза 60 секунд...
+[2026-03-17 10:38:31] Обрабатываю: Trump Leaves Allies and Foes Guessing on Endgame for Iran
+[2026-03-17 10:38:31] Попытка 1 для: Trump Leaves Allies and Foes Guessing on
+[2026-03-17 10:38:32] Успешно, получено 724 символов
+[2026-03-17 10:38:33] Фото не отправилось: 400
+[2026-03-17 10:38:33] Пауза 60 секунд...
+[2026-03-17 10:39:33] Обрабатываю: Selection Sunday: Duke No. 1 overall in men's tournament, UC
+[2026-03-17 10:39:33] Попытка 1 для: Selection Sunday: Duke No. 1 overall in 
+[2026-03-17 10:39:34] Успешно, получено 727 символов
+[2026-03-17 10:39:35] === Блок midday завершён ===
