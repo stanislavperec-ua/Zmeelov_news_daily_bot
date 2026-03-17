@@ -1704,3 +1704,50 @@
 [2026-03-17 14:45:53] Попытка 1 для: In Ukraine’s Kharkiv, 20,000 children go
 [2026-03-17 14:45:54] Успешно, получено 770 символов
 [2026-03-17 14:45:55] === Блок evening завершён ===
+[2026-03-17 19:38:24] Загружено 141 уже отправленных новостей
+[2026-03-17 19:38:24] === Запуск блока: ai_evening ===
+[2026-03-17 19:38:24] Неизвестный источник (nvidia.com): NVIDIA Vera Rubin POD: Seven Chips, Five
+[2026-03-17 19:38:24] Неизвестный источник (financial post): CyberAI Group Executes Investment Bankin
+[2026-03-17 19:38:24] Неизвестный источник (globenewswire): Elevate 2030: How PWCS is Building on Pr
+[2026-03-17 19:38:24] Неизвестный источник (cointelegraph): Ironlight raises $21M to scale marketpla
+[2026-03-17 19:38:24] Неизвестный источник (globenewswire): What Happens When Insurance Coverage Bre
+[2026-03-17 19:38:24] Нет фото: Ripple Pushes XRP Global With Multi-Cont
+[2026-03-17 19:38:24] Нет фото: Grindr Unveils New AI Features, Details 
+[2026-03-17 19:38:24] Нет фото: Advanced Generative AI Course for Engine
+[2026-03-17 19:38:24] Нет фото: brainsurgery 0.2.8
+[2026-03-17 19:38:24] Неизвестный источник (ponoko.com): OpenAI Robotics Lead Quits Citing Ethics
+[2026-03-17 19:38:24] Неизвестный источник (globenewswire): SATA HDD Connector Market Trends and Opp
+[2026-03-17 19:38:24] Неизвестный источник (internet): ⚡ Weekly Recap: Chrome 0-Days, Router Bo
+[2026-03-17 19:38:24] Неизвестный источник (infoq.com): Presentation: Image Processing for Autom
+[2026-03-17 19:38:24] Неизвестный источник (plos.org): Development of a collaborative chronic c
+[2026-03-17 19:38:24] Неизвестный источник (plos.org): Unveiling the ecology and spatial dynami
+[2026-03-17 19:38:24] Неизвестный источник (plos.org): Bafilomycin A1 is a promising therapeuti
+[2026-03-17 19:38:24] Неизвестный источник (the big lead): 10 most controversial Oscar wins of all 
+[2026-03-17 19:38:24] Неизвестный источник (plos.org): Understanding climate refugees from educ
+[2026-03-17 19:38:24] Неизвестный источник (plos.org): Bayesian-calibrated global sensitivity a
+[2026-03-17 19:38:24] Нет фото: Carahsoft and ServiceNow Expand Partners
+[2026-03-17 19:38:24] Неизвестный источник (siliconangle news): NinjaOne launches AI-driven vulnerabilit
+[2026-03-17 19:38:24] Неизвестный источник (globalresearch.ca): The USA on the Path to World Domination 
+[2026-03-17 19:38:24] Неизвестный источник (financial post): US Stock Futures Rise as Tankers Travers
+[2026-03-17 19:38:24] Неизвестный источник (bleeding cool news): X-Men #27 Preview: Mutant Mayhem on the 
+[2026-03-17 19:38:24] Неизвестный источник (siliconangle news): Okta unveils new framework to manage AI 
+[2026-03-17 19:38:24] Нет фото: Artemis via the ISS? A breakout opportun
+[2026-03-17 19:38:24] Нет фото: Golden domes, fragile firms: the busines
+[2026-03-17 19:38:24] Нет фото: US Data Center Boom Slows Due to Power G
+[2026-03-17 19:38:24] Нет фото: CoreWeave, BCE to Back Large Data Center
+[2026-03-17 19:38:24] Нет фото: CI Global Asset Management Announces Mar
+[2026-03-17 19:38:24] Неизвестный источник (mit.edu): How Schneider Electric Scales AI in Both
+[2026-03-17 19:38:24] Нет фото: brainsurgery 0.2.7
+[2026-03-17 19:38:24] AI новости: найдено 6 после фильтрации
+[2026-03-17 19:38:27] Обрабатываю: Even America's critics often speak its strategic language
+[2026-03-17 19:38:27] Попытка 1 для: Even America's critics often speak its s
+[2026-03-17 19:38:28] Успешно, получено 638 символов
+[2026-03-17 19:38:28] Пауза 60 секунд...
+[2026-03-17 19:39:28] Обрабатываю: How AI is helping banks detect payment system failures befor
+[2026-03-17 19:39:28] Попытка 1 для: How AI is helping banks detect payment s
+[2026-03-17 19:39:29] Успешно, получено 573 символов
+[2026-03-17 19:39:29] Пауза 60 секунд...
+[2026-03-17 19:40:29] Обрабатываю: India investing in next-gen tech, transforming how defence s
+[2026-03-17 19:40:29] Попытка 1 для: India investing in next-gen tech, transf
+[2026-03-17 19:40:30] Успешно, получено 930 символов
+[2026-03-17 19:40:31] === Блок ai_evening завершён ===
