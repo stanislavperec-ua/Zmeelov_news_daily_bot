@@ -1652,3 +1652,55 @@
 [2026-03-17 10:39:33] Попытка 1 для: Selection Sunday: Duke No. 1 overall in 
 [2026-03-17 10:39:34] Успешно, получено 727 символов
 [2026-03-17 10:39:35] === Блок midday завершён ===
+[2026-03-17 14:41:39] Загружено 135 уже отправленных новостей
+[2026-03-17 14:41:39] === Запуск блока: evening ===
+[2026-03-17 14:41:39] Неизвестный источник (yahoo entertainment): Oscars 2026 winners and recap: 'One Batt
+[2026-03-17 14:41:39] Неизвестный источник (nfl news): Ex-Falcons OT Elijah Wilkinson blasts fo
+[2026-03-17 14:41:39] Неизвестный источник (marketwatch): Risks of a bear market are growing, says
+[2026-03-17 14:41:39] Неизвестный источник (foxweather.com): Live updates: Rare severe storm outbreak
+[2026-03-17 14:41:39] Пропускаю уже отправленную: Column | Asking Eric: Mother refuses to accept the
+[2026-03-17 14:41:39] Неизвестный источник (pff.com): 2026 NFL free agency grades for all 32 t
+[2026-03-17 14:41:39] Неизвестный источник (android authority): Spotify's mobile app may soon get a feat
+[2026-03-17 14:41:39] Неизвестный источник (abcnews.com): 3,800 workers are on strike at one of th
+[2026-03-17 14:41:39] Неизвестный источник (hollywood reporter): Oscars Snubs and Surprises: ‘Marty Supre
+[2026-03-17 14:41:39] Неизвестный источник (sammobile): Galaxy Z Fold 8's widescreen version rep
+[2026-03-17 14:41:39] Неизвестный источник (deadline): 'KPop Demon Hunters' "Golden" Team Cut O
+[2026-03-17 14:41:39] Неизвестный источник (cnbc): Stock futures rise slightly as oil hover
+[2026-03-17 14:41:39] Неизвестный источник (spacenews): Starcloud files plans for 88,000-satelli
+[2026-03-17 14:41:39] Неизвестный источник (deadline): Jane Fonda's Committee For The First Ame
+[2026-03-17 14:41:39] Неизвестный источник (thestreet): Meta weighs drastic workforce decision a
+[2026-03-17 14:41:39] Неизвестный источник (macrumors): iOS 27 Will Reportedly Be Like Mac OS X 
+[2026-03-17 14:41:39] Старая новость (2026-03-15T14:01:23Z): Ways to prevent a common cancer for both
+[2026-03-17 14:41:39] Старая новость (2026-03-15T08:20:20Z): Foldable iPhone prices are almost imposs
+[2026-03-17 14:41:39] Старая новость (2026-03-14T17:11:43Z): Two days, two coasts, two more SpaceX St
+[2026-03-17 14:41:39] Мировые новости: найдено 10 после фильтрации
+[2026-03-17 14:41:40] Заблокированный источник (rt): Hungary rules out compromises on Ukraine
+[2026-03-17 14:41:40] Заблокированный источник (rt): Hungary announces oil pipeline deal amid
+[2026-03-17 14:41:40] Нет фото: Banksy Unmasked? Judge Granted Democrati
+[2026-03-17 14:41:40] Нет фото: Trump warns NATO of 'very bad' future if
+[2026-03-17 14:41:40] Заблокированный источник (rt): Zelensky accuses EU backers of ‘blackmai
+[2026-03-17 14:41:40] Украинские новости: найдено 1 после фильтрации
+[2026-03-17 14:41:40] Харьков: найдена новость — In Ukraine’s Kharkiv, 20,000 children go undergrou
+[2026-03-17 14:41:42] Обрабатываю: Israel steps up campaign in Lebanon, as Iran keeps strangleh
+[2026-03-17 14:41:42] Попытка 1 для: Israel steps up campaign in Lebanon, as 
+[2026-03-17 14:41:44] Успешно, получено 819 символов
+[2026-03-17 14:41:44] Пауза 60 секунд...
+[2026-03-17 14:42:44] Обрабатываю: Here are Minnesota snowfall totals as big storm exits state
+[2026-03-17 14:42:44] Попытка 1 для: Here are Minnesota snowfall totals as bi
+[2026-03-17 14:42:45] Успешно, получено 388 символов
+[2026-03-17 14:42:46] Пауза 60 секунд...
+[2026-03-17 14:43:46] Обрабатываю: Drone hits Dubai airport as Iran targets commerce; Israel sa
+[2026-03-17 14:43:46] Попытка 1 для: Drone hits Dubai airport as Iran targets
+[2026-03-17 14:43:47] Успешно, получено 610 символов
+[2026-03-17 14:43:47] Пауза 60 секунд...
+[2026-03-17 14:44:47] Обрабатываю: Capitol agenda: Thune kicks off SAVE showdown
+[2026-03-17 14:44:47] Попытка 1 для: Capitol agenda: Thune kicks off SAVE sho
+[2026-03-17 14:44:48] Успешно, получено 575 символов
+[2026-03-17 14:44:51] Обрабатываю: Kenya and Russia agree no Kenyans will be recruited for Ukra
+[2026-03-17 14:44:51] Попытка 1 для: Kenya and Russia agree no Kenyans will b
+[2026-03-17 14:44:52] Успешно, получено 791 символов
+[2026-03-17 14:44:53] Пауза 60 секунд...
+[2026-03-17 14:45:53] Обрабатываю: In Ukraine’s Kharkiv, 20,000 children go underground to stud
+[2026-03-17 14:45:53] Попытка 1 для: In Ukraine’s Kharkiv, 20,000 children go
+[2026-03-17 14:45:54] Успешно, получено 770 символов
+[2026-03-17 14:45:55] === Блок evening завершён ===
