@@ -1801,3 +1801,49 @@
 [2026-03-17 20:04:02] Попытка 1 для: Plumber’s Rs 18 LPA income is making off
 [2026-03-17 20:04:03] Успешно, получено 849 символов
 [2026-03-17 20:04:04] === Блок ai_evening завершён ===
+[2026-03-18 08:04:52] Загружено 147 уже отправленных новостей
+[2026-03-18 08:04:52] === Запуск блока: ai_morning ===
+[2026-03-18 08:04:53] Неизвестный источник (pymnts.com): AI Finds the Cracks Between Login and Pa
+[2026-03-18 08:04:53] Нет фото: Larijani mocks Trump's claims on Iran ra
+[2026-03-18 08:04:53] Неизвестный источник (globenewswire): Tecan to create Data-Driven Labs with NV
+[2026-03-18 08:04:53] Нет фото: Setting Up IBM Storage Scale with NVIDIA
+[2026-03-18 08:04:53] Неизвестный источник (motley fool australia): 3 ASX 200 shares at 52-week lows: Buy, h
+[2026-03-18 08:04:53] Неизвестный источник (financial post): Asian Stocks Rise Led by Technology, Oil
+[2026-03-18 08:04:53] Неизвестный источник (livejournal.com): Here's to some 2027 early Oscars predict
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nebius secures $27B AI infrastructure co
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia introduces BlueField-4 STX refere
+[2026-03-18 08:04:53] Нет фото: Miro Announces Asia Hub in Singapore to 
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia debuts the Groq 3 language proces
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): AI inflection point: As Nvidia’s Jensen 
+[2026-03-18 08:04:53] Неизвестный источник (motley fool australia): Why this beaten down $9 billion ASX 200 
+[2026-03-18 08:04:53] Неизвестный источник (livemint): Data centre boom brightens engineering j
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Frore Systems scores $143M in funding at
+[2026-03-18 08:04:53] Нет фото: Local lateral connectivity is sufficient
+[2026-03-18 08:04:53] Неизвестный источник (royal society of chemistry): Green manufacturing of amoxicillin trihy
+[2026-03-18 08:04:53] Нет фото: Quantum-enhanced privacy aggregation for
+[2026-03-18 08:04:53] Неизвестный источник (motley fool australia): 3 ASX shares tipped to race up to 188% h
+[2026-03-18 08:04:53] Неизвестный источник (globenewswire): UPDATE - Bakkt Releases Shareholder Lett
+[2026-03-18 08:04:53] Неизвестный источник (coindesk): AI-linked crypto tokens surge as Nvidia'
+[2026-03-18 08:04:53] Неизвестный источник (the next web): Gateway Global AI and the vision behind 
+[2026-03-18 08:04:53] Неизвестный источник (ewtnnews.com): Leo XIV to journalists: War is not a vid
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia launches NemoClaw, Agent Toolkit 
+[2026-03-18 08:04:53] Неизвестный источник (computerweekly.com): Nvidia expands Vera Rubin platform, deta
+[2026-03-18 08:04:53] Неизвестный источник (financial post): Nvidia expects to make US$1 trillion fro
+[2026-03-18 08:04:53] Нет фото: Kepler Deploys First Space-Based, Scalab
+[2026-03-18 08:04:53] Неизвестный источник (globenewswire): Kepler Deploys First Space-Based, Scalab
+[2026-03-18 08:04:53] Неизвестный источник (cointelegraph): Bitmine speeds pace of Ethereum buys, bo
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Dell workstations get major AI-focused u
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Beyond the plumbing: How Cisco and Nvidi
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): RoboForce raises $52M to develop physica
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nutanix rolls out software solution to s
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Dell expands AI Factory with new data pl
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia expands physical AI with communic
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): HPE broadens AI factory with new Blackwe
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia ups the stakes for AI infra with 
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia introduces platform for large-sca
+[2026-03-18 08:04:53] Неизвестный источник (siliconangle news): Nvidia reinvents the CPU for the age of 
+[2026-03-18 08:04:53] AI новости: найдено 1 после фильтрации
+[2026-03-18 08:04:55] Обрабатываю: AI is programmed to hijack human empathy — we must resist th
+[2026-03-18 08:04:55] Попытка 1 для: AI is programmed to hijack human empathy
+[2026-03-18 08:04:56] Успешно, получено 924 символов
+[2026-03-18 08:04:57] === Блок ai_morning завершён ===
