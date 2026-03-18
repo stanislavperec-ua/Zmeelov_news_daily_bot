@@ -1938,3 +1938,47 @@
 [2026-03-18 14:54:54] Попытка 1 для: Zelenskyy will discuss Russia-Ukraine wa
 [2026-03-18 14:54:55] Успешно, получено 856 символов
 [2026-03-18 14:54:56] === Блок evening завершён ===
+[2026-03-18 18:39:33] Загружено 158 уже отправленных новостей
+[2026-03-18 18:39:33] === Запуск блока: ai_evening ===
+[2026-03-18 18:39:34] Неизвестный источник (pymnts.com): Visa Launches Agentic Ready Program to H
+[2026-03-18 18:39:34] Неизвестный источник (the daily caller): American Small Business Owners, Manufact
+[2026-03-18 18:39:34] Неизвестный источник (financial post): Cyber startup Tailscale turns to mergers
+[2026-03-18 18:39:34] Неизвестный источник (siliconangle news): The intelligent green: How AWS and the P
+[2026-03-18 18:39:34] Нет фото: 2026 Full Stack Engineer Course - Interv
+[2026-03-18 18:39:34] Неизвестный источник (internet): AI Flaws in Amazon Bedrock, LangSmith, a
+[2026-03-18 18:39:34] Неизвестный источник (crypto briefing): Sam Altman’s World and Coinbase roll out
+[2026-03-18 18:39:34] Нет фото: UPDATED — ZenaTech Develops Low-Cost, Si
+[2026-03-18 18:39:34] Неизвестный источник (boston herald): Amazon offers 1-hour, 3-hour deliveries 
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): UPDATED -- ZenaTech Develops Low-Cost, S
+[2026-03-18 18:39:34] Нет фото: Reeves Floats Plan to Give UK Regions Sa
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): Lightspeed Deploys AI to Transform $156B
+[2026-03-18 18:39:34] Неизвестный источник (siliconangle news): Hammerspace storage platform feeds distr
+[2026-03-18 18:39:34] Нет фото: ANSR 2026 Forecast Reveals Global Capabi
+[2026-03-18 18:39:34] Неизвестный источник (siliconangle news): Workday introduces Sana: an AI knowledge
+[2026-03-18 18:39:34] Неизвестный источник (techradar): The evolution of cyber deception: Does i
+[2026-03-18 18:39:34] Неизвестный источник (wwd): Amid Challenges, High-end Furniture Firm
+[2026-03-18 18:39:34] Неизвестный источник (salon): Trump wants to punish media for his unpo
+[2026-03-18 18:39:34] Неизвестный источник (new york post): Amazon launches 1-hour, 3-hour delivery 
+[2026-03-18 18:39:34] Нет фото: Comcast and NVIDIA partnering for edge c
+[2026-03-18 18:39:34] Неизвестный источник (github.com): Show HN: On-device embedding and vector 
+[2026-03-18 18:39:34] Неизвестный источник (hootsuite.com): G2 2026 best software product: Hootsuite
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): Tianrong Internet Products and Services 
+[2026-03-18 18:39:34] Нет фото: Leading Outdoor Lifestyle Retailer Selec
+[2026-03-18 18:39:34] Нет фото: feagi 2.1.32
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): The American Journal of Managed Care® ca
+[2026-03-18 18:39:34] Неизвестный источник (plos.org): Explaining urban street perception inequ
+[2026-03-18 18:39:34] Нет фото: GHD appoints David McLaren to lead data 
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): NetLib Security Announces Winter 2026 Re
+[2026-03-18 18:39:34] Неизвестный источник (databricks.com): Uncovering Data Science: Skills, Careers
+[2026-03-18 18:39:34] Неизвестный источник (siliconangle news): 1Password introduces Unified Access plat
+[2026-03-18 18:39:34] Неизвестный источник (un news): Press Release | UN Appoints Joseph Gordo
+[2026-03-18 18:39:34] Неизвестный источник (governance.fyi): Silicon Valley's "Pronatalists" Killed W
+[2026-03-18 18:39:34] Нет фото: Internationally Acclaimed Artist Krista 
+[2026-03-18 18:39:34] Неизвестный источник (siliconangle news): Cato Networks rolls out Neural Edge and 
+[2026-03-18 18:39:34] Неизвестный источник (globenewswire): Duos Edge AI and Seimitsu Partner to Str
+[2026-03-18 18:39:34] Неизвестный источник (fortune): Amazon goes from free fast delivery to $
+[2026-03-18 18:39:34] AI новости: найдено 1 после фильтрации
+[2026-03-18 18:39:36] Обрабатываю: What the world can learn from Ireland’s battle to power data
+[2026-03-18 18:39:36] Попытка 1 для: What the world can learn from Ireland’s 
+[2026-03-18 18:39:38] Успешно, получено 746 символов
+[2026-03-18 18:39:39] === Блок ai_evening завершён ===
