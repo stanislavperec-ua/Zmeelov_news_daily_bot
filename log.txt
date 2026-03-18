@@ -1884,3 +1884,57 @@
 [2026-03-18 10:40:43] Попытка 1 для: Illinois Senate primary race is test of 
 [2026-03-18 10:40:44] Успешно, получено 666 символов
 [2026-03-18 10:40:45] === Блок midday завершён ===
+[2026-03-18 14:50:40] Загружено 152 уже отправленных новостей
+[2026-03-18 14:50:40] === Запуск блока: evening ===
+[2026-03-18 14:50:40] Неизвестный источник (barron's): Stock Market Today: Dow, S&P 500, Nasdaq
+[2026-03-18 14:50:40] Неизвестный источник (profootballrumors.com): Jets To Trade QB Justin Fields To Chiefs
+[2026-03-18 14:50:40] Неизвестный источник (dw (english)): Iran war: Germany's Merz distances himse
+[2026-03-18 14:50:40] Неизвестный источник (hollywood reporter): Jane Fonda Wishes She Delivered Robert R
+[2026-03-18 14:50:40] Неизвестный источник (mlb.com): The prospects with the most interesting 
+[2026-03-18 14:50:40] Неизвестный источник (sports illustrated): Team USA vs. Venezuela: Full Preview of 
+[2026-03-18 14:50:40] Неизвестный источник (ksl.com): Cannabis shows little benefit for most m
+[2026-03-18 14:50:40] Неизвестный источник (variety): David Zaslav to Receive More Than $550 M
+[2026-03-18 14:50:40] Неизвестный источник (deadline): Teyana Taylor Incident With Oscars Secur
+[2026-03-18 14:50:40] Неизвестный источник (9to5mac): WhatsApp is working on ‘guest chats’ for
+[2026-03-18 14:50:40] Неизвестный источник (gizmodo.com): Asteroid Ryugu Contains All 5 DNA and RN
+[2026-03-18 14:50:40] Неизвестный источник (retrohandhelds.gg): Anbernic’s Next Handheld Might Flip the 
+[2026-03-18 14:50:40] Неизвестный источник (space.com): Astronomers discover a new type of plane
+[2026-03-18 14:50:40] Неизвестный источник (247sports): 2026 March Madness Bracket Predictions: 
+[2026-03-18 14:50:40] Неизвестный источник (9to5google.com): Samsung is reportedly ending Galaxy Z Tr
+[2026-03-18 14:50:40] Старая новость (2026-03-16T11:02:39Z): Illinois Senate primary tests Democrats'
+[2026-03-18 14:50:40] Мировые новости: найдено 14 после фильтрации
+[2026-03-18 14:50:41] Заблокированный источник (rt): Senior EU official rebukes Zelensky over
+[2026-03-18 14:50:41] Заблокированный источник (rt): US general overseeing Ukraine lost secre
+[2026-03-18 14:50:41] Нет фото: Performance Shipping Inc. Secures Sale a
+[2026-03-18 14:50:41] Нет фото: Moldova Summons Russian Envoy as Hit on 
+[2026-03-18 14:50:41] Нет фото: 60 Years Ago Today, A 1966 No. 1 Hit Bec
+[2026-03-18 14:50:41] Заблокированный источник (rt): EU will ‘inevitably beg for more Russian
+[2026-03-18 14:50:41] Заблокированный источник (techdirt): Brendan Carr Pretends To Be Tough, Deman
+[2026-03-18 14:50:41] Нет фото: ZenaTech Develops Low-Cost, Single-Use A
+[2026-03-18 14:50:41] Заблокированный источник (breitbart news): Top E.U. Diplomat on Middle East Conflic
+[2026-03-18 14:50:41] Украинские новости: найдено 2 после фильтрации
+[2026-03-18 14:50:41] Нет фото: Daily Press Briefing by the Office of th
+[2026-03-18 14:50:41] Харьков: новостей не найдено
+[2026-03-18 14:50:43] Обрабатываю: Live Updates: Israel kills 2 senior Iran leaders as allies r
+[2026-03-18 14:50:43] Попытка 1 для: Live Updates: Israel kills 2 senior Iran
+[2026-03-18 14:50:45] Успешно, получено 945 символов
+[2026-03-18 14:50:45] Пауза 60 секунд...
+[2026-03-18 14:51:45] Обрабатываю: I'm concerned about my blood pressure. Can I check it at hom
+[2026-03-18 14:51:45] Попытка 1 для: I'm concerned about my blood pressure. C
+[2026-03-18 14:51:46] Успешно, получено 758 символов
+[2026-03-18 14:51:47] Пауза 60 секунд...
+[2026-03-18 14:52:47] Обрабатываю: ‘They hold the cards now’: Trump allies fear Iran is slippin
+[2026-03-18 14:52:47] Попытка 1 для: ‘They hold the cards now’: Trump allies 
+[2026-03-18 14:52:48] Успешно, получено 849 символов
+[2026-03-18 14:52:49] Пауза 60 секунд...
+[2026-03-18 14:53:49] Обрабатываю: How the Iran war is an economic world war
+[2026-03-18 14:53:49] Попытка 1 для: How the Iran war is an economic world wa
+[2026-03-18 14:53:50] Успешно, получено 690 символов
+[2026-03-18 14:53:53] Обрабатываю: Who is buying Payán Hermanos? #food
+[2026-03-18 14:53:53] Попытка 1 для: Who is buying Payán Hermanos? #food
+[2026-03-18 14:53:54] Успешно, получено 576 символов
+[2026-03-18 14:53:54] Пауза 60 секунд...
+[2026-03-18 14:54:54] Обрабатываю: Zelenskyy will discuss Russia-Ukraine war with British leade
+[2026-03-18 14:54:54] Попытка 1 для: Zelenskyy will discuss Russia-Ukraine wa
+[2026-03-18 14:54:55] Успешно, получено 856 символов
+[2026-03-18 14:54:56] === Блок evening завершён ===
