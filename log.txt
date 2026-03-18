@@ -1847,3 +1847,40 @@
 [2026-03-18 08:04:55] Попытка 1 для: AI is programmed to hijack human empathy
 [2026-03-18 08:04:56] Успешно, получено 924 символов
 [2026-03-18 08:04:57] === Блок ai_morning завершён ===
+[2026-03-18 10:37:35] Загружено 148 уже отправленных новостей
+[2026-03-18 10:37:35] === Запуск блока: midday ===
+[2026-03-18 10:37:35] Неизвестный источник (silver screen and roll ): Lakers grind out victory over Rockets fo
+[2026-03-18 10:37:35] Неизвестный источник (investing.com): Asia stocks advance tracking US tech gai
+[2026-03-18 10:37:35] Неизвестный источник (mlb.com): 3 big lineup decisions facing Team USA i
+[2026-03-18 10:37:35] Неизвестный источник (foxweather.com): Live updates: Severe storms slam East Co
+[2026-03-18 10:37:35] Неизвестный источник (ksl.com): Cannabis shows little benefit for most m
+[2026-03-18 10:37:35] Неизвестный источник (variety): David Zaslav to Receive More Than $550 M
+[2026-03-18 10:37:35] Неизвестный источник (macrumors): 10 Audio Improvements in Apple's New Air
+[2026-03-18 10:37:35] Неизвестный источник (gulte): UAE Holds 19 Indians Over Fake Social Me
+[2026-03-18 10:37:35] Пропускаю уже отправленную: Insulin resistance prediction from wearables and r
+[2026-03-18 10:37:35] Неизвестный источник (9to5mac): WhatsApp is working on ‘guest chats’ for
+[2026-03-18 10:37:35] Неизвестный источник (gizmodo.com): Asteroid Ryugu Contains All 5 DNA and RN
+[2026-03-18 10:37:35] Неизвестный источник (variety): ‘Secret Lives of Mormon Wives’ Pauses Se
+[2026-03-18 10:37:35] Неизвестный источник (space.com): Astronomers discover a new type of plane
+[2026-03-18 10:37:35] Неизвестный источник (247sports): 2026 March Madness Bracket Predictions: 
+[2026-03-18 10:37:35] Неизвестный источник (rolling stone): Oscars 2026: Conan, Barbra, ‘Sinners,’ a
+[2026-03-18 10:37:35] Пропускаю уже отправленную: Capitol agenda: Thune kicks off SAVE showdown - Po
+[2026-03-18 10:37:35] Неизвестный источник (the mercury news): ‘Nobody told us it was dangerous’: Quart
+[2026-03-18 10:37:35] Старая новость (2026-03-15T14:00:00Z): AI companies want to harvest improv acto
+[2026-03-18 10:37:35] Мировые новости: найдено 9 после фильтрации
+[2026-03-18 10:37:38] Обрабатываю: Israel says Ali Larijani, top Iranian security official, kil
+[2026-03-18 10:37:38] Попытка 1 для: Israel says Ali Larijani, top Iranian se
+[2026-03-18 10:37:39] Успешно, получено 589 символов
+[2026-03-18 10:37:40] Пауза 60 секунд...
+[2026-03-18 10:38:40] Обрабатываю: Trump says he’ll have the ‘honor’ of ‘taking’ Cuba: ‘I can d
+[2026-03-18 10:38:40] Попытка 1 для: Trump says he’ll have the ‘honor’ of ‘ta
+[2026-03-18 10:38:41] Успешно, получено 545 символов
+[2026-03-18 10:38:41] Пауза 60 секунд...
+[2026-03-18 10:39:41] Обрабатываю: Supreme Court to consider whether Trump can end protected st
+[2026-03-18 10:39:41] Попытка 1 для: Supreme Court to consider whether Trump 
+[2026-03-18 10:39:42] Успешно, получено 763 символов
+[2026-03-18 10:39:43] Пауза 60 секунд...
+[2026-03-18 10:40:43] Обрабатываю: Illinois Senate primary race is test of Pritzker's sway, Dem
+[2026-03-18 10:40:43] Попытка 1 для: Illinois Senate primary race is test of 
+[2026-03-18 10:40:44] Успешно, получено 666 символов
+[2026-03-18 10:40:45] === Блок midday завершён ===
