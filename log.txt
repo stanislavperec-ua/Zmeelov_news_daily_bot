@@ -2198,3 +2198,48 @@
 [2026-03-19 18:09:57] Попытка 1 для: How the military is using AI in war
 [2026-03-19 18:09:58] Успешно, получено 691 символов
 [2026-03-19 18:09:58] === Блок ai_evening завершён ===
+[2026-03-19 19:56:31] Загружено 172 уже отправленных новостей
+[2026-03-19 19:56:31] === Запуск блока: ai_evening ===
+[2026-03-19 19:56:31] Неизвестный источник (fortune): Every Fortune 500 CEO’s nightmare: the I
+[2026-03-19 19:56:31] Нет фото: Edge AI partnership news from NVIDIA, AT
+[2026-03-19 19:56:31] Неизвестный источник (globenewswire): QCI and IWP Complete Live Entertainment 
+[2026-03-19 19:56:31] Неизвестный источник (researchbuzz.me): Peasants’ Revolt of 1381, GTC 2026, Open
+[2026-03-19 19:56:31] Неизвестный источник (adweek): 14 Things I Learned at SXSW
+[2026-03-19 19:56:31] Нет фото: New Mexico seeks release of its original
+[2026-03-19 19:56:31] Неизвестный источник (globenewswire): Allsup Supports Cancer And Careers’ Free
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): 6 signals defining healthcare’s agentic 
+[2026-03-19 19:56:31] Неизвестный источник (internet): OFAC Sanctions DPRK IT Worker Network Fu
+[2026-03-19 19:56:31] Неизвестный источник (financial post): Autoscience Raises $14M to Build the Wor
+[2026-03-19 19:56:31] Пропускаю уже отправленную: Claude Dispatch: Anthropic rolls out task delegati
+[2026-03-19 19:56:31] Неизвестный источник (comicbook.com): 5 Great Sci-Fi TV Shows For If You Miss 
+[2026-03-19 19:56:31] Нет фото: deep-learning-toolkit added to PyPI
+[2026-03-19 19:56:31] Неизвестный источник (decrypt): Stripe-Backed Tempo Network Launches Wit
+[2026-03-19 19:56:31] Нет фото: Goldman Tells Dealmakers Not to Wait for
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): The AI workforce is now ‘hirable’: How N
+[2026-03-19 19:56:31] Неизвестный источник (rolling stone): The Military Is Ramping Up AI. Experts S
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): Multiply raises $9.5M to launch ‘self-le
+[2026-03-19 19:56:31] Нет фото: 2026 Data Scientist to Machine Learning 
+[2026-03-19 19:56:31] Неизвестный источник (financial post): Investors are wondering if stocks have s
+[2026-03-19 19:56:31] Неизвестный источник (pymnts.com): How Healthcare CFOs Are Turning Operatio
+[2026-03-19 19:56:31] Неизвестный источник (cnbc): Meta is shutting down VR social platform
+[2026-03-19 19:56:31] Пропускаю уже отправленную: How the military is using AI in war
+[2026-03-19 19:56:31] Неизвестный источник (business insider): How ServiceNow uses internal AI pilots t
+[2026-03-19 19:56:31] Неизвестный источник (businessline): Simplilearn and Saïd Business School, Un
+[2026-03-19 19:56:31] Неизвестный источник (brobible): iShowSpeed’s Team Vows To Take Legal Act
+[2026-03-19 19:56:31] Неизвестный источник (coindesk): Stripe-led payments blockchain Tempo goe
+[2026-03-19 19:56:31] Неизвестный источник (globenewswire): Iteris Significantly Expands Alabama DOT
+[2026-03-19 19:56:31] Неизвестный источник (plos.org): Data-driven p-norms for estimating trans
+[2026-03-19 19:56:31] Неизвестный источник (plos.org): An artificial intelligence-powered digit
+[2026-03-19 19:56:31] Неизвестный источник (plos.org): Zero-shot prediction of drug responses u
+[2026-03-19 19:56:31] Неизвестный источник (plos.org): Application of seasonal-adjusted hybrid 
+[2026-03-19 19:56:31] Неизвестный источник (plos.org): Effect of rhythmic auditory stimulation 
+[2026-03-19 19:56:31] Неизвестный источник (globenewswire): NowSecure Launches AI Data Partner Progr
+[2026-03-19 19:56:31] Неизвестный источник (antaranews.com): The Executive Centre (TEC) Advances Digi
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): Torq unveils Agentic Builder to automate
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): Qualtrics adds AI-powered synthetic data
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): Snowflake previews project to automate w
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): BusRight bags $30M to ensure school buse
+[2026-03-19 19:56:31] Неизвестный источник (siliconangle news): Manifold raises $8M to secure autonomous
+[2026-03-19 19:56:31] AI новости: найдено 0 после фильтрации
+[2026-03-19 19:56:31] ⚠️ Блок *AI вечер* (19.03.2026) — новостей не найдено!
+[2026-03-19 19:56:32] === Блок ai_evening завершён ===
