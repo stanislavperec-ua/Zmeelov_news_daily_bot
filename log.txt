@@ -2113,3 +2113,39 @@
 [2026-03-19 10:11:30] Попытка 1 для: The top Iranian officials killed since I
 [2026-03-19 10:11:31] Успешно, получено 498 символов
 [2026-03-19 10:11:32] === Блок midday завершён ===
+[2026-03-19 12:02:10] Загружено 166 уже отправленных новостей
+[2026-03-19 12:02:10] === Запуск блока: midday ===
+[2026-03-19 12:02:11] Неизвестный источник (variety): ‘Spider-Man: Brand New Day’ Trailer: Tom
+[2026-03-19 12:02:11] Неизвестный источник (cnbc): Macy's expects sales to fall this year, 
+[2026-03-19 12:02:11] Неизвестный источник (gamesindustry.biz): Nvidia CEO says critics are "completely 
+[2026-03-19 12:02:11] Пропускаю уже отправленную: The Senate’s marathon elections debate is dividing
+[2026-03-19 12:02:11] Неизвестный источник (19thnews.org): Kat Abughazaleh loses primary election b
+[2026-03-19 12:02:11] Неизвестный источник (videocardz.com): Intel enables Precompiled Shader Deliver
+[2026-03-19 12:02:11] Неизвестный источник (wral.com): Tramon Mark's late jumper gives Texas a 
+[2026-03-19 12:02:11] Неизвестный источник (variety): Zendaya Stuns ‘The Drama’ Premiere by We
+[2026-03-19 12:02:11] Неизвестный источник (9to5mac): Benchmarks show MacBook Neo rivaling mor
+[2026-03-19 12:02:11] Неизвестный источник (deadline): ‘The Bachelorette’ Star Taylor Frankie P
+[2026-03-19 12:02:11] Неизвестный источник (jetsxfactor.com): How the Jaylen Waddle trade creates pote
+[2026-03-19 12:02:11] Неизвестный источник (cnet): Samsung Halts Sale of Galaxy Z TriFold A
+[2026-03-19 12:02:11] Неизвестный источник (hollywood reporter): The Style Winners and Sinners of the Osc
+[2026-03-19 12:02:11] Неизвестный источник (space.com): Ryugu asteroid sample contains all five 
+[2026-03-19 12:02:11] Неизвестный источник (space.com): SpaceX launches 10,000th active Starlink
+[2026-03-19 12:02:11] Неизвестный источник (health.com): 5 Must-Know Updates in the New Cholester
+[2026-03-19 12:02:11] Неизвестный источник (variety): Bob Iger Legacy as Disney CEO: Transform
+[2026-03-19 12:02:11] Мировые новости: найдено 13 после фильтрации
+[2026-03-19 12:02:13] Обрабатываю: Fed Meeting Today: Dow Futures Rise, Brent Crude Remains Abo
+[2026-03-19 12:02:13] Попытка 1 для: Fed Meeting Today: Dow Futures Rise, Bre
+[2026-03-19 12:02:14] Успешно, получено 830 символов
+[2026-03-19 12:02:15] Пауза 60 секунд...
+[2026-03-19 12:03:15] Обрабатываю: Trump’s withheld endorsement hangs over Senate primary in Te
+[2026-03-19 12:03:15] Попытка 1 для: Trump’s withheld endorsement hangs over 
+[2026-03-19 12:03:16] Успешно, получено 756 символов
+[2026-03-19 12:03:17] Пауза 60 секунд...
+[2026-03-19 12:04:17] Обрабатываю: Israel says it killed Iran’s intelligence chief in overnight
+[2026-03-19 12:04:17] Попытка 1 для: Israel says it killed Iran’s intelligenc
+[2026-03-19 12:04:18] Успешно, получено 842 символов
+[2026-03-19 12:04:18] Пауза 60 секунд...
+[2026-03-19 12:05:18] Обрабатываю: Cheap drones are reshaping modern warfare — and catching the
+[2026-03-19 12:05:18] Попытка 1 для: Cheap drones are reshaping modern warfar
+[2026-03-19 12:05:19] Успешно, получено 458 символов
+[2026-03-19 12:05:20] === Блок midday завершён ===
