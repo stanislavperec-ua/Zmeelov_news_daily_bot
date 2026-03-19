@@ -2075,3 +2075,41 @@
 [2026-03-19 08:02:46] Попытка 1 для: Integrated photonic neural network with 
 [2026-03-19 08:02:47] Успешно, получено 879 символов
 [2026-03-19 08:02:48] === Блок ai_morning завершён ===
+[2026-03-19 10:08:24] Загружено 162 уже отправленных новостей
+[2026-03-19 10:08:24] === Запуск блока: midday ===
+[2026-03-19 10:08:24] Неизвестный источник (cnbc): Stock futures rise as traders look ahead
+[2026-03-19 10:08:24] Неизвестный источник (cbs sports): Texas, Howard advance in 2026 NCAA Tourn
+[2026-03-19 10:08:24] Неизвестный источник (yahoo entertainment): Top US intelligence officials set to tes
+[2026-03-19 10:08:24] Неизвестный источник (the globe and mail): Your daily horoscope: March 18, 2026 - T
+[2026-03-19 10:08:24] Неизвестный источник (investing.com): Asia stocks: Nikkei, KOSPI lead gains on
+[2026-03-19 10:08:24] Неизвестный источник (variety): Cinnabon Cuts Ties With 'Bachelorette' A
+[2026-03-19 10:08:24] Неизвестный источник (hollywood reporter): The Style Winners and Sinners of the Osc
+[2026-03-19 10:08:24] Неизвестный источник (9to5mac): WhatsApp update brings the new profile t
+[2026-03-19 10:08:24] Неизвестный источник (space.com): Dune: Part Three teaser: Five talking po
+[2026-03-19 10:08:24] Неизвестный источник (thescore): Picking the winner of every game in the 
+[2026-03-19 10:08:24] Неизвестный источник (9to5google.com): The Gemini for Home voice assistant is n
+[2026-03-19 10:08:24] Неизвестный источник (fox sports): 2026 NFL Power Rankings: Rams, Vikings S
+[2026-03-19 10:08:24] Неизвестный источник (marketwatch): Nebius’s stock falls as investors get a 
+[2026-03-19 10:08:24] Неизвестный источник (space.com): Ryugu asteroid sample contains all five 
+[2026-03-19 10:08:24] Неизвестный источник (9to5google.com): Fitbit improves sleep tracking, new Slee
+[2026-03-19 10:08:24] Неизвестный источник (forbes): Nvidia’s AI-Powered Photorealistic Gamin
+[2026-03-19 10:08:24] Неизвестный источник (space.com): SpaceX launches 10,000th active Starlink
+[2026-03-19 10:08:24] Неизвестный источник (health.com): 5 Must-Know Updates in the New Cholester
+[2026-03-19 10:08:24] Старая новость (2026-03-16T17:20:05Z): Ocean bacteria team up to break down bio
+[2026-03-19 10:08:24] Мировые новости: найдено 11 после фильтрации
+[2026-03-19 10:08:26] Обрабатываю: The Senate’s marathon elections debate is dividing Republica
+[2026-03-19 10:08:26] Попытка 1 для: The Senate’s marathon elections debate i
+[2026-03-19 10:08:27] Успешно, получено 721 символов
+[2026-03-19 10:08:28] Пауза 60 секунд...
+[2026-03-19 10:09:28] Обрабатываю: Live updates: Iranian Intelligence Minister Esmail Khatib ki
+[2026-03-19 10:09:28] Попытка 1 для: Live updates: Iranian Intelligence Minis
+[2026-03-19 10:09:29] Успешно, получено 786 символов
+[2026-03-19 10:09:29] Пауза 60 секунд...
+[2026-03-19 10:10:29] Обрабатываю: Venezuela beats Team USA to claim World Baseball Classic
+[2026-03-19 10:10:29] Попытка 1 для: Venezuela beats Team USA to claim World 
+[2026-03-19 10:10:30] Успешно, получено 660 символов
+[2026-03-19 10:10:30] Пауза 60 секунд...
+[2026-03-19 10:11:30] Обрабатываю: The top Iranian officials killed since Iran war's start
+[2026-03-19 10:11:30] Попытка 1 для: The top Iranian officials killed since I
+[2026-03-19 10:11:31] Успешно, получено 498 символов
+[2026-03-19 10:11:32] === Блок midday завершён ===
