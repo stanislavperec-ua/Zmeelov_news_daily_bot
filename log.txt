@@ -2025,3 +2025,53 @@
 [2026-03-18 19:56:12] AI новости: найдено 0 после фильтрации
 [2026-03-18 19:56:12] ⚠️ Блок *AI вечер* (18.03.2026) — новостей не найдено!
 [2026-03-18 19:56:12] === Блок ai_evening завершён ===
+[2026-03-19 08:00:40] Загружено 159 уже отправленных новостей
+[2026-03-19 08:00:40] === Запуск блока: ai_morning ===
+[2026-03-19 08:00:40] Неизвестный источник (war on the rocks): Military Operational Thinking in an Age 
+[2026-03-19 08:00:40] Неизвестный источник (globenewswire): Agentic AI Will Make Uplink the Next Mob
+[2026-03-19 08:00:40] Неизвестный источник (motley fool australia): 2 amazing AI stocks to buy in the ASX 20
+[2026-03-19 08:00:40] Неизвестный источник (c-sharpcorner.com): What Are the Best Practices to Secure AI
+[2026-03-19 08:00:40] Неизвестный источник (siliconangle news): Google expands the availability of its P
+[2026-03-19 08:00:40] Неизвестный источник (siliconangle news): Turquoise vows to bring transparent pric
+[2026-03-19 08:00:40] Неизвестный источник (bleeding cool news): Leonide the Vampyr: House of Yonda #1 Pr
+[2026-03-19 08:00:40] Неизвестный источник (khabarhub.com): Can Nepal’s Political Wave Deliver Refor
+[2026-03-19 08:00:40] Нет фото: Canine gait analysis using inertial sens
+[2026-03-19 08:00:40] Нет фото: SmartSport: crowd counting meets large l
+[2026-03-19 08:00:40] Нет фото: Stabilizing updates in differentially pr
+[2026-03-19 08:00:40] Нет фото: Multimodal ion-gated transistor based on
+[2026-03-19 08:00:40] Нет фото: Self-polymerized polyphenol-based platfo
+[2026-03-19 08:00:40] Нет фото: Sub-second spin and lifetime-limited opt
+[2026-03-19 08:00:40] Нет фото: Efficient control of enterochromaffin ve
+[2026-03-19 08:00:40] Неизвестный источник (siliconangle news): Amazon CEO Andy Jassy forecasts cloud re
+[2026-03-19 08:00:40] Неизвестный источник (siliconangle news): IT automation startup Standard Template 
+[2026-03-19 08:00:40] Неизвестный источник (the conversation africa): Australia was once a world leader in inn
+[2026-03-19 08:00:40] Неизвестный источник (bitcoinist): Saylor Says Bitcoin Could Win Big If AI 
+[2026-03-19 08:00:40] Неизвестный источник (human rights watch): China: Cybercrime Bill Entrenches Censor
+[2026-03-19 08:00:40] Неизвестный источник (bleeding cool news): The Darkness #4 Preview: Surrounded by E
+[2026-03-19 08:00:40] Неизвестный источник (techradar): 'No one asked them to': Security experts
+[2026-03-19 08:00:40] Неизвестный источник (new zealand herald): Datagrid’s $5.1b Southland data centre: 
+[2026-03-19 08:00:40] Неизвестный источник (financial post): Rimini Street Announces Participation in
+[2026-03-19 08:00:40] Нет фото: Deep Sea Minerals Corp. Clarifies Disclo
+[2026-03-19 08:00:40] Неизвестный источник (siliconangle news): OpenAI, Mistral AI release new hardware-
+[2026-03-19 08:00:40] Неизвестный источник (business insider): I spent 30 years building a fertility be
+[2026-03-19 08:00:40] Нет фото: ainpp-pb-latam 1.0.0b2
+[2026-03-19 08:00:40] Нет фото: ainpp-pb-latam added to PyPI
+[2026-03-19 08:00:40] Неизвестный источник (researchbuzz.me): Female Comedians, Myrient Video Game Arc
+[2026-03-19 08:00:40] Неизвестный источник (financial post): Microsoft shakes up AI operation in bid 
+[2026-03-19 08:00:40] Неизвестный источник (pymnts.com): Mastercard Unveils Gen AI Model as Insig
+[2026-03-19 08:00:40] Неизвестный источник (millo.co): How to Embrace the AI Revolution in Solo
+[2026-03-19 08:00:40] Неизвестный источник (business insider): Proton VPN review: Swiss-based security 
+[2026-03-19 08:00:40] Неизвестный источник (cisco.com): Orchestrate AI-Driven Solutions with the
+[2026-03-19 08:00:40] AI новости: найдено 5 после фильтрации
+[2026-03-19 08:00:42] Обрабатываю: NPCI eyes greener pastures; Udaan preps reverse flip
+[2026-03-19 08:00:42] Попытка 1 для: NPCI eyes greener pastures; Udaan preps 
+[2026-03-19 08:00:44] Успешно, получено 497 символов
+[2026-03-19 08:00:44] Пауза 60 секунд...
+[2026-03-19 08:01:44] Обрабатываю: Adaptive evolution of gene regulatory networks in mammalian 
+[2026-03-19 08:01:44] Попытка 1 для: Adaptive evolution of gene regulatory ne
+[2026-03-19 08:01:45] Успешно, получено 1014 символов
+[2026-03-19 08:01:46] Пауза 60 секунд...
+[2026-03-19 08:02:46] Обрабатываю: Integrated photonic neural network with on-chip backpropagat
+[2026-03-19 08:02:46] Попытка 1 для: Integrated photonic neural network with 
+[2026-03-19 08:02:47] Успешно, получено 879 символов
+[2026-03-19 08:02:48] === Блок ai_morning завершён ===
