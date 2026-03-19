@@ -2149,3 +2149,52 @@
 [2026-03-19 12:05:18] Попытка 1 для: Cheap drones are reshaping modern warfar
 [2026-03-19 12:05:19] Успешно, получено 458 символов
 [2026-03-19 12:05:20] === Блок midday завершён ===
+[2026-03-19 18:08:53] Загружено 170 уже отправленных новостей
+[2026-03-19 18:08:53] === Запуск блока: ai_evening ===
+[2026-03-19 18:08:53] Неизвестный источник (internet): OFAC Sanctions DPRK IT Worker Network Fu
+[2026-03-19 18:08:53] Неизвестный источник (financial post): Autoscience Raises $14M to Build the Wor
+[2026-03-19 18:08:53] Неизвестный источник (comicbook.com): 5 Great Sci-Fi TV Shows For If You Miss 
+[2026-03-19 18:08:53] Нет фото: deep-learning-toolkit added to PyPI
+[2026-03-19 18:08:53] Неизвестный источник (decrypt): Stripe-Backed Tempo Network Launches Wit
+[2026-03-19 18:08:53] Нет фото: Goldman Tells Dealmakers Not to Wait for
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): The AI workforce is now ‘hirable’: How N
+[2026-03-19 18:08:53] Неизвестный источник (rolling stone): The Military Is Ramping Up AI. Experts S
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Multiply raises $9.5M to launch ‘self-le
+[2026-03-19 18:08:53] Нет фото: 2026 Data Scientist to Machine Learning 
+[2026-03-19 18:08:53] Неизвестный источник (financial post): Investors are wondering if stocks have s
+[2026-03-19 18:08:53] Неизвестный источник (pymnts.com): How Healthcare CFOs Are Turning Operatio
+[2026-03-19 18:08:53] Неизвестный источник (cnbc): Meta is shutting down VR social platform
+[2026-03-19 18:08:53] Неизвестный источник (business insider): How ServiceNow uses internal AI pilots t
+[2026-03-19 18:08:53] Неизвестный источник (businessline): Simplilearn and Saïd Business School, Un
+[2026-03-19 18:08:53] Неизвестный источник (brobible): iShowSpeed’s Team Vows To Take Legal Act
+[2026-03-19 18:08:53] Неизвестный источник (coindesk): Stripe-led payments blockchain Tempo goe
+[2026-03-19 18:08:53] Неизвестный источник (globenewswire): Iteris Significantly Expands Alabama DOT
+[2026-03-19 18:08:53] Неизвестный источник (plos.org): Data-driven p-norms for estimating trans
+[2026-03-19 18:08:53] Неизвестный источник (plos.org): An artificial intelligence-powered digit
+[2026-03-19 18:08:53] Неизвестный источник (plos.org): Zero-shot prediction of drug responses u
+[2026-03-19 18:08:53] Неизвестный источник (plos.org): Application of seasonal-adjusted hybrid 
+[2026-03-19 18:08:53] Неизвестный источник (plos.org): Effect of rhythmic auditory stimulation 
+[2026-03-19 18:08:53] Неизвестный источник (globenewswire): NowSecure Launches AI Data Partner Progr
+[2026-03-19 18:08:53] Неизвестный источник (antaranews.com): The Executive Centre (TEC) Advances Digi
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Torq unveils Agentic Builder to automate
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Qualtrics adds AI-powered synthetic data
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Snowflake previews project to automate w
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): BusRight bags $30M to ensure school buse
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Manifold raises $8M to secure autonomous
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Respan raises $5M to bring proactive obs
+[2026-03-19 18:08:53] Нет фото: Vendors introduce tools for the AI + bro
+[2026-03-19 18:08:53] Неизвестный источник (hollywood reporter): Lisa Kudrow's Final 'Comeback': Star on 
+[2026-03-19 18:08:53] Неизвестный источник (globenewswire): Gilat Defense, AWS, SES Space & Defense 
+[2026-03-19 18:08:53] Неизвестный источник (siliconangle news): Menlo Security takes on AI agent risk wi
+[2026-03-19 18:08:53] Неизвестный источник (computerweekly.com): Fast followers will fall behind in the A
+[2026-03-19 18:08:53] Неизвестный источник (globenewswire): Xage Security Hits Record Growth by Arch
+[2026-03-19 18:08:53] Неизвестный источник (crypto coins news): Has Satoshi Nakamoto Been Found? Coinbas
+[2026-03-19 18:08:53] AI новости: найдено 2 после фильтрации
+[2026-03-19 18:08:55] Обрабатываю: Claude Dispatch: Anthropic rolls out task delegation feature
+[2026-03-19 18:08:55] Попытка 1 для: Claude Dispatch: Anthropic rolls out tas
+[2026-03-19 18:08:56] Успешно, получено 850 символов
+[2026-03-19 18:08:57] Пауза 60 секунд...
+[2026-03-19 18:09:57] Обрабатываю: How the military is using AI in war
+[2026-03-19 18:09:57] Попытка 1 для: How the military is using AI in war
+[2026-03-19 18:09:58] Успешно, получено 691 символов
+[2026-03-19 18:09:58] === Блок ai_evening завершён ===
