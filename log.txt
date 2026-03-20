@@ -2337,3 +2337,38 @@
 [2026-03-20 10:05:50] Попытка 1 для: Compass drops lawsuit against Zillow ove
 [2026-03-20 10:05:51] Успешно, получено 821 символов
 [2026-03-20 10:05:52] === Блок midday завершён ===
+[2026-03-20 11:57:36] Загружено 182 уже отправленных новостей
+[2026-03-20 11:57:36] === Запуск блока: midday ===
+[2026-03-20 11:57:36] Неизвестный источник (cnbc): Eli Lilly’s next-generation obesity drug
+[2026-03-20 11:57:36] Неизвестный источник (deadline): Kevin Spacey Settles With Sexual Assault
+[2026-03-20 11:57:36] Пропускаю уже отправленную: Drones over base where Rubio, Hegseth live raise s
+[2026-03-20 11:57:36] Неизвестный источник (nwaonline): Tontitown police arrest former reality T
+[2026-03-20 11:57:36] Неизвестный источник (macrumors): Tim Cook on iPhone's Future: 'There's So
+[2026-03-20 11:57:36] Неизвестный источник (the action network): March Madness Picks: 2 ‘Tickle the Twine
+[2026-03-20 11:57:36] Неизвестный источник (opb news): Oregon institutions reckon with removing
+[2026-03-20 11:57:36] Неизвестный источник (yahoo entertainment): Taylor Frankie Paul investigation: What 
+[2026-03-20 11:57:36] Неизвестный источник (techpowerup.com): Game Developers "Found Out At the Same T
+[2026-03-20 11:57:36] Неизвестный источник (cleveland.com): Hunting space rocks, finding memories af
+[2026-03-20 11:57:36] Неизвестный источник (9to5mac): iOS 26.4 to finally let Family Sharing m
+[2026-03-20 11:57:36] Неизвестный источник (cnbc): Healthy Returns: Stopping GLP-1s raises 
+[2026-03-20 11:57:36] Неизвестный источник (forbes): Markwayne Mullin Confirmation Hearing: D
+[2026-03-20 11:57:36] Старая новость (2026-03-18T04:06:20Z): Watch live today: NASA astronauts conduc
+[2026-03-20 11:57:36] Старая новость (2026-03-17T15:39:37Z): You May Not Need as Much Strength Traini
+[2026-03-20 11:57:36] Старая новость (2026-03-17T14:12:12Z): NASA will roll Artemis 2 moon rocket bac
+[2026-03-20 11:57:36] Мировые новости: найдено 12 после фильтрации
+[2026-03-20 11:57:39] Обрабатываю: Here are 4 things to know for the start of the March Madness
+[2026-03-20 11:57:39] Попытка 1 для: Here are 4 things to know for the start 
+[2026-03-20 11:57:40] Успешно, получено 518 символов
+[2026-03-20 11:57:41] Пауза 60 секунд...
+[2026-03-20 11:58:41] Обрабатываю: ‘He has to justify what he did’: Black leaders slam JB Pritz
+[2026-03-20 11:58:41] Попытка 1 для: ‘He has to justify what he did’: Black l
+[2026-03-20 11:58:42] Успешно, получено 704 символов
+[2026-03-20 11:58:42] Пауза 60 секунд...
+[2026-03-20 11:59:42] Обрабатываю: This tax season, there's a new deduction for interest on car
+[2026-03-20 11:59:42] Попытка 1 для: This tax season, there's a new deduction
+[2026-03-20 11:59:44] Успешно, получено 1074 символов
+[2026-03-20 11:59:44] Пауза 60 секунд...
+[2026-03-20 12:00:44] Обрабатываю: It's called 'private credit' — and it could lead to big trou
+[2026-03-20 12:00:44] Попытка 1 для: It's called 'private credit' — and it co
+[2026-03-20 12:00:45] Успешно, получено 703 символов
+[2026-03-20 12:00:46] === Блок midday завершён ===
