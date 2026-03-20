@@ -2243,3 +2243,54 @@
 [2026-03-19 19:56:31] AI новости: найдено 0 после фильтрации
 [2026-03-19 19:56:31] ⚠️ Блок *AI вечер* (19.03.2026) — новостей не найдено!
 [2026-03-19 19:56:32] === Блок ai_evening завершён ===
+[2026-03-20 07:58:53] Загружено 172 уже отправленных новостей
+[2026-03-20 07:58:53] === Запуск блока: morning ===
+[2026-03-20 07:58:54] Неизвестный источник (fox news): Iranian intelligence minister killed in 
+[2026-03-20 07:58:54] Неизвестный источник (cbs sports): Prairie View A&M Panthers vs. Lehigh Mou
+[2026-03-20 07:58:54] Неизвестный источник (medical news today): New guidelines on cholesterol management
+[2026-03-20 07:58:54] Неизвестный источник (nintendo.com): By Director Mr. Sakurai, Kirby Air Rider
+[2026-03-20 07:58:54] Неизвестный источник (minneapolis star tribune): Report: Family of Columbia Heights 5-yea
+[2026-03-20 07:58:54] Неизвестный источник (hollywood reporter): ‘Dune 3’ and ‘Avengers: Doomsday’ in Sta
+[2026-03-20 07:58:54] Неизвестный источник (nbcsports.com): 2026 Men’s March Madness brackets: NBC S
+[2026-03-20 07:58:54] Неизвестный источник (seeking alpha): Micron Just Smashed Estimates - Buy The 
+[2026-03-20 07:58:54] Неизвестный источник (yahoo entertainment): Taylor Frankie Paul investigation: What 
+[2026-03-20 07:58:54] Неизвестный источник (ksl.com): Measles spread: Theaters, schools, Kanga
+[2026-03-20 07:58:54] Неизвестный источник (cleveland.com): Hunting space rocks, finding memories af
+[2026-03-20 07:58:54] Неизвестный источник (hollywood reporter): Bela Bajaria Responds to Report of Netfl
+[2026-03-20 07:58:54] Неизвестный источник (cnbc): Healthy Returns: Stopping GLP-1s raises 
+[2026-03-20 07:58:54] Неизвестный источник (ign): Don't Expect Crimson Desert Xbox Series 
+[2026-03-20 07:58:54] Неизвестный источник (nfl news): Best NFL team fits for notable remaining
+[2026-03-20 07:58:54] Неизвестный источник (pbs): Illinois Lt. Gov. Juliana Stratton wins 
+[2026-03-20 07:58:54] Неизвестный источник (9to5mac): MacBook Neo is just fine with 4K video e
+[2026-03-20 07:58:54] Пропускаю уже отправленную: Fed Meeting Today: Dow Futures Rise, Brent Crude R
+[2026-03-20 07:58:54] Пропускаю уже отправленную: Cheap drones are reshaping modern warfare — and ca
+[2026-03-20 07:58:54] Старая новость (2026-03-18T04:06:20Z): Watch live today: NASA astronauts conduc
+[2026-03-20 07:58:54] Старая новость (2026-03-17T14:12:12Z): NASA will roll Artemis 2 moon rocket bac
+[2026-03-20 07:58:54] Мировые новости: найдено 9 после фильтрации
+[2026-03-20 07:58:54] Заблокированный источник (sputnikglobe.com): Ukrainian Soldiers Fainting From Hunger 
+[2026-03-20 07:58:54] Заблокированный источник (rt): EU state’s leader urges return to ‘harmo
+[2026-03-20 07:58:54] Украинские новости: найдено 4 после фильтрации
+[2026-03-20 07:58:54] Харьков: новостей не найдено
+[2026-03-20 07:58:56] Обрабатываю: Live Updates: Trump threatens to "massively blow up" Iranian
+[2026-03-20 07:58:56] Попытка 1 для: Live Updates: Trump threatens to "massiv
+[2026-03-20 07:58:58] Успешно, получено 740 символов
+[2026-03-20 07:58:58] Пауза 60 секунд...
+[2026-03-20 07:59:58] Обрабатываю: Drones over base where Rubio, Hegseth live raise security co
+[2026-03-20 07:59:58] Попытка 1 для: Drones over base where Rubio, Hegseth li
+[2026-03-20 07:59:59] Успешно, получено 756 символов
+[2026-03-20 07:59:59] Пауза 60 секунд...
+[2026-03-20 08:00:59] Обрабатываю: Gabbard tells senators Iranian regime is degraded but still 
+[2026-03-20 08:00:59] Попытка 1 для: Gabbard tells senators Iranian regime is
+[2026-03-20 08:01:00] Успешно, получено 683 символов
+[2026-03-20 08:01:01] Пауза 60 секунд...
+[2026-03-20 08:02:01] Обрабатываю: Markwayne Mullin’s DHS nomination not at risk from Rand Paul
+[2026-03-20 08:02:01] Попытка 1 для: Markwayne Mullin’s DHS nomination not at
+[2026-03-20 08:02:02] Успешно, получено 836 символов
+[2026-03-20 08:02:05] Обрабатываю: Thousands of Moldovans cut off from water after Russian stri
+[2026-03-20 08:02:05] Попытка 1 для: Thousands of Moldovans cut off from wate
+[2026-03-20 08:02:06] Успешно, получено 742 символов
+[2026-03-20 08:02:06] Пауза 60 секунд...
+[2026-03-20 08:03:06] Обрабатываю: European Union summit will focus on Iran war and a loan to U
+[2026-03-20 08:03:06] Попытка 1 для: European Union summit will focus on Iran
+[2026-03-20 08:03:07] Успешно, получено 876 символов
+[2026-03-20 08:03:08] === Блок morning завершён ===
