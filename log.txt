@@ -2420,3 +2420,52 @@
 [2026-03-20 17:56:35] Попытка 1 для: Predictiv AI Appoints Multi-Agent System
 [2026-03-20 17:56:36] Успешно, получено 759 символов
 [2026-03-20 17:56:37] === Блок ai_evening завершён ===
+[2026-03-20 19:50:36] Загружено 188 уже отправленных новостей
+[2026-03-20 19:50:36] === Запуск блока: ai_evening ===
+[2026-03-20 19:50:36] Неизвестный источник (fox news): Bloody NYC Khamenei vigil reveals anti-U
+[2026-03-20 19:50:36] Неизвестный источник (globenewswire): Next-Level Creators, Top Media Leaders, 
+[2026-03-20 19:50:36] Нет фото: Amazon EC2 C8gn instances are now availa
+[2026-03-20 19:50:36] Неизвестный источник (thestreet): Layoffs hit crypto industry twice in 2 d
+[2026-03-20 19:50:36] Неизвестный источник (globenewswire): Cosmos Health Provides Update; Evaluates
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Hosted.ai raises $19M to pool GPU capaci
+[2026-03-20 19:50:36] Неизвестный источник (new zealand herald): Sir Rod Drury named 2026 Kiwibank New Ze
+[2026-03-20 19:50:36] Неизвестный источник (new york post): Two NYC attractions land on World’s Grea
+[2026-03-20 19:50:36] Неизвестный источник (ubergizmo): NVIDIA DLSS 5: AI-Powered Graphics Set T
+[2026-03-20 19:50:36] Неизвестный источник (variety): Oscars 2027: First Blind Predictions Inc
+[2026-03-20 19:50:36] Неизвестный источник (telecomtv): Cassava gives its AI factories a local f
+[2026-03-20 19:50:36] Неизвестный источник (internet): ThreatsDay Bulletin: FortiGate RaaS, Cit
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Autoscience builds automated research la
+[2026-03-20 19:50:36] Неизвестный источник (globenewswire): Gentherm Announces Entry into Home Furni
+[2026-03-20 19:50:36] Нет фото: iA Financial Group Donates $1 Million to
+[2026-03-20 19:50:36] Неизвестный источник (plos.org): SAMHD1 depletion restricts SARS-CoV-2 in
+[2026-03-20 19:50:36] Неизвестный источник (plos.org): Anatid herpesvirus 1 UL51 protein is pal
+[2026-03-20 19:50:36] Неизвестный источник (globenewswire): CallRevu Launches its Partner Code of Et
+[2026-03-20 19:50:36] Пропускаю уже отправленную: BIRAC fuels innovation with Rs 4,200 crore funding
+[2026-03-20 19:50:36] Пропускаю уже отправленную: Predictiv AI Appoints Multi-Agent Systems Pioneer 
+[2026-03-20 19:50:36] Неизвестный источник (financial post): US Stock Futures Dip as Iran War, High I
+[2026-03-20 19:50:36] Нет фото: Trump, Takaichi Set to Announce $40 Bill
+[2026-03-20 19:50:36] Неизвестный источник (ieee.org): Over-the-Air Edge Inference via End-to-E
+[2026-03-20 19:50:36] Нет фото: HPRA and Bernardi Human Resource Law Exp
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Swa launches multi-agent generative AI o
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Panther rolls out AI SOC Platform with a
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Vanta unveils agents and enterprise feat
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Exclusive: Snowflake invests in Bedrock 
+[2026-03-20 19:50:36] Нет фото: ZenaTech’s ZenaDrone Interceptor P-1, Si
+[2026-03-20 19:50:36] Неизвестный источник (siliconangle news): Rubrik unveils Google Workspace protecti
+[2026-03-20 19:50:36] Неизвестный источник (computerweekly.com): HPE taps Nvidia to transform distributed
+[2026-03-20 19:50:36] Неизвестный источник (coinjournal.net): Bittensor price outlook: consolidation o
+[2026-03-20 19:50:36] Неизвестный источник (businessline): Pune Startup CureMeAbroad targets Wester
+[2026-03-20 19:50:36] Неизвестный источник (tmonews): T-Mobile Pilots New AI Technology That C
+[2026-03-20 19:50:36] Неизвестный источник (globenewswire): Intuitive Machines Reports Fourth Quarte
+[2026-03-20 19:50:36] Неизвестный источник (computerweekly.com): AI makes debut in Bridewell cyber securi
+[2026-03-20 19:50:36] Нет фото: Adastra Achieves AWS Consumer Goods Comp
+[2026-03-20 19:50:36] Неизвестный источник (computerweekly.com): HSS ProService ‘Uber-ifies’ with functio
+[2026-03-20 19:50:36] AI новости: найдено 2 после фильтрации
+[2026-03-20 19:50:39] Обрабатываю: MAGA and leftists unite to push back on AI, drawing scrutiny
+[2026-03-20 19:50:39] Попытка 1 для: MAGA and leftists unite to push back on 
+[2026-03-20 19:50:40] Успешно, получено 632 символов
+[2026-03-20 19:50:41] Пауза 60 секунд...
+[2026-03-20 19:51:41] Обрабатываю: Online bot traffic will exceed human traffic by 2027, Cloudf
+[2026-03-20 19:51:41] Попытка 1 для: Online bot traffic will exceed human tra
+[2026-03-20 19:51:42] Успешно, получено 894 символов
+[2026-03-20 19:51:43] === Блок ai_evening завершён ===
