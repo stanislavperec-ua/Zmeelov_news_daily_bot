@@ -2529,3 +2529,52 @@
 [2026-03-21 07:50:45] Попытка 1 для: Drone defense in the Iran war: What can 
 [2026-03-21 07:50:46] Успешно, получено 672 символов
 [2026-03-21 07:50:47] === Блок morning завершён ===
+[2026-03-21 09:02:39] Загружено 196 уже отправленных новостей
+[2026-03-21 09:02:39] === Запуск блока: ai_morning ===
+[2026-03-21 09:02:40] Неизвестный источник (naftemporiki.gr): 1st Blue Heritage Summit Thessaloniki: T
+[2026-03-21 09:02:40] Неизвестный источник (the next web): VC Montis raises €50M to back Europe’s e
+[2026-03-21 09:02:40] Неизвестный источник (pymnts.com): Fraud Gets Cheaper, Merchants Push Back
+[2026-03-21 09:02:40] Неизвестный источник (capjournal.com): The New Frontier Medicine: How Avera use
+[2026-03-21 09:02:40] Неизвестный источник (globenewswire): Burn Slim Safeness Issues Arise Do NOT B
+[2026-03-21 09:02:40] Неизвестный источник (financial post): Bitcoin Holding at $70,000 as Iran War S
+[2026-03-21 09:02:40] Неизвестный источник (computerweekly.com): Ericsson, SK Telecom ink memorandum of u
+[2026-03-21 09:02:40] Неизвестный источник (cnbc): Alibaba workforce shrinks 34% in 2025 as
+[2026-03-21 09:02:40] Неизвестный источник (cointelegraph): Super Micro co-founder arrested over all
+[2026-03-21 09:02:40] Заблокированный источник (naturalnews.com): Leaked order shows why the Pentagon is r
+[2026-03-21 09:02:40] Заблокированный источник (naturalnews.com): From ham radio to satellite: Building yo
+[2026-03-21 09:02:40] Заблокированный источник (naturalnews.com): The Everyday Superfood Revolution: Nutri
+[2026-03-21 09:02:40] Нет фото: Galderma Publishes Invitation and Agenda
+[2026-03-21 09:02:40] Неизвестный источник (theonion.com): The Onion's Exclusive Interview With Sam
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Jeff Bezos is planning to raise $100 bil
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Vibe coding startup Cursor launches prog
+[2026-03-21 09:02:40] Неизвестный источник (nasdaq): Encompass Health Expands in Delaware Wit
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Verily steps out from under Alphabet’s s
+[2026-03-21 09:02:40] Неизвестный источник (variety): Peter Chan Says AI Will Replace ‘Any Blo
+[2026-03-21 09:02:40] Неизвестный источник (royal society of chemistry): Dielectric shells as resonant mode tuner
+[2026-03-21 09:02:40] Нет фото: Confined-hydrogel fluidic memristor cros
+[2026-03-21 09:02:40] Нет фото: Lightweight model LMW-YOLO for small obj
+[2026-03-21 09:02:40] Нет фото: One-step fabrication of superhydrophobic
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Google upgrades its Stitch AI interface 
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Deeptune raises $43M to accelerate AI le
+[2026-03-21 09:02:40] Неизвестный источник (fox news): Nuclear fusion advances, but challenges 
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): Oasis Security raises $120M to secure no
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): The new control plane: How the cloud-nat
+[2026-03-21 09:02:40] Неизвестный источник (financial post): News of the day: Canadian tech, tax tips
+[2026-03-21 09:02:40] Неизвестный источник (siliconangle news): OpenAI acquires open-source Python tooli
+[2026-03-21 09:02:40] Неизвестный источник (pymnts.com): Telecom and Energy Networks Embed AI to 
+[2026-03-21 09:02:40] Нет фото: deep-learning-toolkit 0.3.1
+[2026-03-21 09:02:40] Неизвестный источник (globenewswire): Credit Acceptance Appoints Steffen Schum
+[2026-03-21 09:02:40] Пропускаю уже отправленную: MAGA and leftists unite to push back on AI, drawin
+[2026-03-21 09:02:40] AI новости: найдено 4 после фильтрации
+[2026-03-21 09:02:42] Обрабатываю: ​​What the EU Biotech Act delivers for Europe
+[2026-03-21 09:02:42] Попытка 1 для: ​​What the EU Biotech Act delivers for E
+[2026-03-21 09:02:43] Успешно, получено 988 символов
+[2026-03-21 09:02:44] Пауза 60 секунд...
+[2026-03-21 09:03:44] Обрабатываю: Clarifying the conceptual dimensions of representation in ne
+[2026-03-21 09:03:44] Попытка 1 для: Clarifying the conceptual dimensions of 
+[2026-03-21 09:03:45] Успешно, получено 823 символов
+[2026-03-21 09:03:46] Пауза 60 секунд...
+[2026-03-21 09:04:46] Обрабатываю: Generalist biological artificial intelligence in modeling th
+[2026-03-21 09:04:46] Попытка 1 для: Generalist biological artificial intelli
+[2026-03-21 09:04:47] Успешно, получено 837 символов
+[2026-03-21 09:04:48] === Блок ai_morning завершён ===
