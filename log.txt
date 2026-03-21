@@ -2578,3 +2578,42 @@
 [2026-03-21 09:04:46] Попытка 1 для: Generalist biological artificial intelli
 [2026-03-21 09:04:47] Успешно, получено 837 символов
 [2026-03-21 09:04:48] === Блок ai_morning завершён ===
+[2026-03-21 11:44:54] Загружено 199 уже отправленных новостей
+[2026-03-21 11:44:54] === Запуск блока: midday ===
+[2026-03-21 11:44:55] Неизвестный источник (deadline): ‘Project Hail Mary’ Blasts Off To $11M+ 
+[2026-03-21 11:44:55] Неизвестный источник (syracuse.com): Gerry McNamara breathed fire into Siena 
+[2026-03-21 11:44:55] Пропускаю уже отправленную: RFK Jr. went too far with comments about gender ca
+[2026-03-21 11:44:55] Неизвестный источник (sports illustrated): Tar Heels’ March Madness Meltdown Caps a
+[2026-03-21 11:44:55] Неизвестный источник (rolling stone): BTS’ New Album ‘Arirang’ Is Finally Here
+[2026-03-21 11:44:55] Пропускаю уже отправленную: High Point's upset starts run of 4 wins by double-
+[2026-03-21 11:44:55] Неизвестный источник (venturebeat): Anthropic just shipped an OpenClaw kille
+[2026-03-21 11:44:55] Неизвестный источник (ksl.com): Meteorite hunters scour Ohio for fragmen
+[2026-03-21 11:44:55] Заблокированный источник (sciencealert): 'Unprecedented' Meningitis Outbreak in U
+[2026-03-21 11:44:55] Пропускаю уже отправленную: Bachelorette's new season pulled after Taylor Fran
+[2026-03-21 11:44:55] Заблокированный источник (sciencealert): FDA Approves New High-Dose Wegovy in US 
+[2026-03-21 11:44:55] Неизвестный источник (hollywood reporter): Nexstar Closes $6.2 Billion Tegna Merger
+[2026-03-21 11:44:55] Неизвестный источник (kabc-tv): Cesar Chavez abuse allegations: Dolores 
+[2026-03-21 11:44:55] Неизвестный источник (cnet): Firefox Is Adding a Free Built-In VPN. H
+[2026-03-21 11:44:55] Неизвестный источник (9to5mac): Apple Health integrates with newly annou
+[2026-03-21 11:44:55] Неизвестный источник (notebookcheck.net): Xiaomi releases new lightweight laptop w
+[2026-03-21 11:44:55] Старая новость (2026-03-19T10:00:00Z): Watch NASA roll out Artemis 2 moon rocke
+[2026-03-21 11:44:55] Старая новость (2026-03-18T21:07:44Z): Thymus May Be Critical for Longevity and
+[2026-03-21 11:44:55] Старая новость (2026-03-18T19:49:29Z): Expect Sonic Booms As SpaceX Prepares To
+[2026-03-21 11:44:55] Старая новость (2026-03-18T17:05:22Z): Cholesterol: Updated guidelines advise m
+[2026-03-21 11:44:55] Мировые новости: найдено 8 после фильтрации
+[2026-03-21 11:44:57] Обрабатываю: Trump mulls risky Kharg Island takeover to force Iran to ope
+[2026-03-21 11:44:57] Попытка 1 для: Trump mulls risky Kharg Island takeover 
+[2026-03-21 11:44:58] Успешно, получено 732 символов
+[2026-03-21 11:44:59] Пауза 60 секунд...
+[2026-03-21 11:45:59] Обрабатываю: Trump stretches ‘America First’ on Iran. His voters are goin
+[2026-03-21 11:45:59] Попытка 1 для: Trump stretches ‘America First’ on Iran.
+[2026-03-21 11:45:59] Успешно, получено 633 символов
+[2026-03-21 11:46:00] Пауза 60 секунд...
+[2026-03-21 11:47:00] Обрабатываю: U.S. Mint can begin to produce Trump commemorative gold coin
+[2026-03-21 11:47:00] Попытка 1 для: U.S. Mint can begin to produce Trump com
+[2026-03-21 11:47:01] Успешно, получено 756 символов
+[2026-03-21 11:47:01] Пауза 60 секунд...
+[2026-03-21 11:48:01] Обрабатываю: Trump is dismantling democracy at 'unprecedented' speed, glo
+[2026-03-21 11:48:01] Попытка 1 для: Trump is dismantling democracy at 'unpre
+[2026-03-21 11:48:02] Успешно, получено 797 символов
+[2026-03-21 11:48:03] === Блок midday завершён ===
