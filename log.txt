@@ -2673,3 +2673,49 @@
 [2026-03-21 17:02:04] Попытка 1 для: Ukraine says its 'red' team forces beat 
 [2026-03-21 17:02:06] Успешно, получено 899 символов
 [2026-03-21 17:02:06] === Блок evening завершён ===
+[2026-03-21 19:04:03] Загружено 209 уже отправленных новостей
+[2026-03-21 19:04:03] === Запуск блока: ai_evening ===
+[2026-03-21 19:04:03] Неизвестный источник (finovate.com): Finovate Global Canada: Mortgagetech, Re
+[2026-03-21 19:04:03] Неизвестный источник (next big future): Andrej Karpathy on Code Agents, AutoRese
+[2026-03-21 19:04:03] Неизвестный источник (android headlines): Forget Wi-Fi 7: Nokia Is Already Buildin
+[2026-03-21 19:04:03] Неизвестный источник (android headlines): From Food to Data: DoorDash’s New App Le
+[2026-03-21 19:04:03] Неизвестный источник (screen rant): HBO's Returning Comedy Series With Frien
+[2026-03-21 19:04:03] Неизвестный источник (siliconangle news): Nvidia and Adobe team up to bring digita
+[2026-03-21 19:04:03] Нет фото: aait 3.3.5
+[2026-03-21 19:04:03] Неизвестный источник (sherwood.news): In Elon Musk’s mind, Tesla and SpaceX ha
+[2026-03-21 19:04:03] Неизвестный источник (telecomtv): What’s up with… Telefónica’s AI agent, H
+[2026-03-21 19:04:03] Нет фото: New Report “How To Transition from Softw
+[2026-03-21 19:04:03] Неизвестный источник (internet): Critical Langflow Flaw CVE-2026-33017 Tr
+[2026-03-21 19:04:03] Неизвестный источник (financial post): BMO accelerates U.S. growth, seeing path
+[2026-03-21 19:04:03] Неизвестный источник (hot hardware): Blue Origin To Challenge SpaceX In High-
+[2026-03-21 19:04:03] Неизвестный источник (my modern met): HumanX 2026: What To Expect at the AI Co
+[2026-03-21 19:04:03] Неизвестный источник (globenewswire): Cearvol Launches Wave: An Award-Winning 
+[2026-03-21 19:04:03] Неизвестный источник (the punch): Elumelu Foundation unveils 12th entrepre
+[2026-03-21 19:04:03] Неизвестный источник (argmin.net): Cosma Shalizi Is Aware of All Internet T
+[2026-03-21 19:04:03] Неизвестный источник (siliconangle news): Nvidia CEO Jensen Huang bids to own the 
+[2026-03-21 19:04:03] Неизвестный источник (plos.org): A time-varying geospatial model of habit
+[2026-03-21 19:04:04] Неизвестный источник (fortune): The 19th century banking problem that AI
+[2026-03-21 19:04:04] Неизвестный источник (cointelegraph): Stablecoin issuers and fintechs race to 
+[2026-03-21 19:04:04] Нет фото: White House Univeils AI Legislative Plan
+[2026-03-21 19:04:04] Неизвестный источник (dw (english)): Japan's Takaichi emerges buoyed from Tru
+[2026-03-21 19:04:04] Неизвестный источник (dw (english)): Japan's prime minister emerges buoyed fr
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Drone Tech Maker’s 1,000% Surge Shows La
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Feast-or-Famine Credit Markets Lure Barg
+[2026-03-21 19:04:04] Неизвестный источник (the conversation africa): HBO’s ‘The Pitt’ nails how hospital cybe
+[2026-03-21 19:04:04] Неизвестный источник (computerweekly.com): Agentic AI to make data uplink the next 
+[2026-03-21 19:04:04] Нет фото: DEEP SEA MINERALS CORP. SUBMITS RESPONSE
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Xpeng Revenue Forecast Falls Short as Ch
+[2026-03-21 19:04:04] Неизвестный источник (computerweekly.com): Channel catch-up: News in brief
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Complacency Is Cracking as Goldman Clien
+[2026-03-21 19:04:04] Неизвестный источник (computerweekly.com): Everywoman announces 2026 Women in Techn
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Opinion: No matter how good AI gets, it 
+[2026-03-21 19:04:04] Неизвестный источник (financial post): Canadian housing bears now have nine rea
+[2026-03-21 19:04:04] Неизвестный источник (the new republic): What’s Behind MAGA’s Strange New Crush o
+[2026-03-21 19:04:04] Неизвестный источник (techradar): What does helpdesk software actually do
+[2026-03-21 19:04:04] Неизвестный источник (the intercept): Data Centers Are Military Targets Now
+[2026-03-21 19:04:04] Неизвестный источник (naftemporiki.gr): 1st Blue Heritage Summit Thessaloniki: T
+[2026-03-21 19:04:04] AI новости: найдено 1 после фильтрации
+[2026-03-21 19:04:06] Обрабатываю: What Trump May Do if He Loses in Iran
+[2026-03-21 19:04:06] Попытка 1 для: What Trump May Do if He Loses in Iran
+[2026-03-21 19:04:07] Успешно, получено 561 символов
+[2026-03-21 19:04:08] === Блок ai_evening завершён ===
