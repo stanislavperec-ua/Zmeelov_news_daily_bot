@@ -2469,3 +2469,63 @@
 [2026-03-20 19:51:41] Попытка 1 для: Online bot traffic will exceed human tra
 [2026-03-20 19:51:42] Успешно, получено 894 символов
 [2026-03-20 19:51:43] === Блок ai_evening завершён ===
+[2026-03-21 07:46:32] Загружено 190 уже отправленных новостей
+[2026-03-21 07:46:32] === Запуск блока: morning ===
+[2026-03-21 07:46:33] Неизвестный источник (deadline): ‘Project Hail Mary’ Blasts Off To $11M+ 
+[2026-03-21 07:46:33] Неизвестный источник (fortune): Supermicro’s co-founder was just arreste
+[2026-03-21 07:46:33] Неизвестный источник (rolling stone): BTS’ New Album ‘Arirang’ Is Finally Here
+[2026-03-21 07:46:33] Неизвестный источник (on3.com): Hubert Davis Reacts to UNC's NCAA Tourna
+[2026-03-21 07:46:33] Неизвестный источник (ksl.com): Meteorite hunters scour Ohio for fragmen
+[2026-03-21 07:46:33] Заблокированный источник (sciencealert): 'Unprecedented' Meningitis Outbreak in U
+[2026-03-21 07:46:33] Неизвестный источник (cnbc): Trump invokes Pearl Harbor in front of J
+[2026-03-21 07:46:33] Заблокированный источник (sciencealert): FDA Approves New High-Dose Wegovy in US 
+[2026-03-21 07:46:33] Неизвестный источник (hollywood reporter): Nexstar Closes $6.2 Billion Tegna Merger
+[2026-03-21 07:46:33] Неизвестный источник (kabc-tv): Cesar Chavez abuse allegations: Dolores 
+[2026-03-21 07:46:33] Неизвестный источник (kotaku): Switch 2 Handheld Boost Mode Battery Lif
+[2026-03-21 07:46:33] Неизвестный источник (cnet): Firefox Is Adding a Free Built-In VPN. H
+[2026-03-21 07:46:33] Неизвестный источник (pbs): Joe Kent's resignation over Iran war rei
+[2026-03-21 07:46:33] Неизвестный источник (9to5mac): Apple Health integrates with newly annou
+[2026-03-21 07:46:33] Неизвестный источник (phys.org): The discovery of a buried delta on Mars 
+[2026-03-21 07:46:33] Неизвестный источник (9to5google.com): I’ve been using the Nothing Phone (4a) P
+[2026-03-21 07:46:33] Неизвестный источник (nbcsports.com): 2026 NFL Draft Big Board: Jeremiyah Love
+[2026-03-21 07:46:33] Неизвестный источник (space.com): Watch NASA roll out Artemis 2 moon rocke
+[2026-03-21 07:46:33] Старая новость (2026-03-18T21:07:44Z): Thymus May Be Critical for Longevity and
+[2026-03-21 07:46:33] Старая новость (2026-03-18T19:49:29Z): Expect Sonic Booms As SpaceX Prepares To
+[2026-03-21 07:46:33] Старая новость (2026-03-18T17:05:22Z): Cholesterol: Updated guidelines advise m
+[2026-03-21 07:46:33] Мировые новости: найдено 7 после фильтрации
+[2026-03-21 07:46:33] Заблокированный источник (sputnikglobe.com): Europe to Not Survive Without Russia Oil
+[2026-03-21 07:46:33] Нет фото: EU Vows To Get $90 Billion Loan To Kyiv 
+[2026-03-21 07:46:33] Нет фото: A Kremlin Cheerleader Rips Into Putin. A
+[2026-03-21 07:46:33] Нет фото: Washington Eases Sanctions On Minsk As B
+[2026-03-21 07:46:33] Нет фото: How ‘unacceptable’ Orbán defeated the EU
+[2026-03-21 07:46:33] Заблокированный источник (naturalnews.com): Russia and Iran deepen military alliance
+[2026-03-21 07:46:33] Заблокированный источник (naturalnews.com): Silver Tsunami: Why precious metals are 
+[2026-03-21 07:46:33] Заблокированный источник (naturalnews.com): The Collapse of Empire: How the West’s G
+[2026-03-21 07:46:33] Нет фото: In the News
+[2026-03-21 07:46:33] Заблокированный источник (sputnikglobe.com): Pentagon Exposes False Claims on Combat 
+[2026-03-21 07:46:33] Украинские новости: найдено 3 после фильтрации
+[2026-03-21 07:46:33] Нет фото: Andrei Belousov inspects Sever Group of 
+[2026-03-21 07:46:33] Харьков: новостей не найдено
+[2026-03-21 07:46:35] Обрабатываю: Iran hits Gulf energy sites, escalating war, as U.S. mulls s
+[2026-03-21 07:46:35] Попытка 1 для: Iran hits Gulf energy sites, escalating 
+[2026-03-21 07:46:36] Успешно, получено 919 символов
+[2026-03-21 07:46:37] Пауза 60 секунд...
+[2026-03-21 07:47:37] Обрабатываю: RFK Jr. went too far with comments about gender care for min
+[2026-03-21 07:47:37] Попытка 1 для: RFK Jr. went too far with comments about
+[2026-03-21 07:47:38] Успешно, получено 826 символов
+[2026-03-21 07:47:38] Пауза 60 секунд...
+[2026-03-21 07:48:38] Обрабатываю: High Point's upset starts run of 4 wins by double-digit seed
+[2026-03-21 07:48:38] Попытка 1 для: High Point's upset starts run of 4 wins 
+[2026-03-21 07:48:40] Успешно, получено 910 символов
+[2026-03-21 07:48:40] Пауза 60 секунд...
+[2026-03-21 07:49:40] Обрабатываю: Bachelorette's new season pulled after Taylor Frankie Paul a
+[2026-03-21 07:49:40] Попытка 1 для: Bachelorette's new season pulled after T
+[2026-03-21 07:49:41] Успешно, получено 675 символов
+[2026-03-21 07:49:44] Обрабатываю: The war in Iran raises pressure on Ukraine while Russia prep
+[2026-03-21 07:49:44] Попытка 1 для: The war in Iran raises pressure on Ukrai
+[2026-03-21 07:49:45] Успешно, получено 831 символов
+[2026-03-21 07:49:45] Пауза 60 секунд...
+[2026-03-21 07:50:45] Обрабатываю: Drone defense in the Iran war: What can Ukraine offer?
+[2026-03-21 07:50:45] Попытка 1 для: Drone defense in the Iran war: What can 
+[2026-03-21 07:50:46] Успешно, получено 672 символов
+[2026-03-21 07:50:47] === Блок morning завершён ===
