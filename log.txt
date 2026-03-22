@@ -2911,3 +2911,41 @@
 [2026-03-22 17:02:55] Попытка 1 для: The Aging Convicts And Female Prisoners 
 [2026-03-22 17:02:56] Успешно, получено 739 символов
 [2026-03-22 17:02:56] === Блок evening завершён ===
+[2026-03-22 19:15:55] Загружено 227 уже отправленных новостей
+[2026-03-22 19:15:55] === Запуск блока: ai_evening ===
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): RSAC 2026 preview: AI hype meets operati
+[2026-03-22 19:15:55] Неизвестный источник (winter is coming): 8 sci-fi movies better than the books (a
+[2026-03-22 19:15:55] Неизвестный источник (crypto briefing): Worldcoin reportedly sells 117 million W
+[2026-03-22 19:15:55] Неизвестный источник (the punch): Tony Elumelu Foundation picks 3,200 Afri
+[2026-03-22 19:15:55] Неизвестный источник (mother jones): “I Believe in one God, and It’s Not a Co
+[2026-03-22 19:15:55] Неизвестный источник (businessline): Infosys and Formula E Launch AI-Powered 
+[2026-03-22 19:15:55] Неизвестный источник (landezine.com): Designing by Numbers: Greening Factors a
+[2026-03-22 19:15:55] Неизвестный источник (venturebeat): New MiniMax M2.7 proprietary AI model is
+[2026-03-22 19:15:55] Пропускаю уже отправленную: India expected to bypass middle-income trap: Repor
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): The convergence of context: Why Nvidia’s
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): White House releases AI policy framework
+[2026-03-22 19:15:55] Нет фото: Organizational Digital Exhaust Analysis
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): Amazon acquires last-mile delivery robot
+[2026-03-22 19:15:55] Нет фото: AI-based detection of Certas Plus shunt 
+[2026-03-22 19:15:55] Нет фото: Leveraging Industry 4.0 technologies for
+[2026-03-22 19:15:55] Нет фото: New Video From Former Pentagon and White
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): OpenAI to launch ChatGPT superapp, ‘AI r
+[2026-03-22 19:15:55] Неизвестный источник (pymnts.com): Starbucks Rewards Backlash Highlights Re
+[2026-03-22 19:15:55] Неизвестный источник (siliconangle news): Dassault’s pricing overhaul weighs on sh
+[2026-03-22 19:15:55] Неизвестный источник (coindesk): Sam Bankman-Fried's past political cash 
+[2026-03-22 19:15:55] Неизвестный источник (yahoo entertainment): Citigroup Reportedly Lowers 2026 Bitcoin
+[2026-03-22 19:15:55] Неизвестный источник (protothema.gr): MIT study: Every time you ask ChatGPT it
+[2026-03-22 19:15:55] Неизвестный источник (financial post): Yanik Guillemette Warns of ‘Innovation C
+[2026-03-22 19:15:55] AI новости: найдено 3 после фильтрации
+[2026-03-22 19:15:58] Обрабатываю: Gujarat-based company develops 'AI Action Firewall' to make 
+[2026-03-22 19:15:58] Попытка 1 для: Gujarat-based company develops 'AI Actio
+[2026-03-22 19:15:59] Успешно, получено 889 символов
+[2026-03-22 19:15:59] Пауза 60 секунд...
+[2026-03-22 19:16:59] Обрабатываю: Jeff Bezos’ Blue Origin seeks approval for space-based data 
+[2026-03-22 19:16:59] Попытка 1 для: Jeff Bezos’ Blue Origin seeks approval f
+[2026-03-22 19:17:00] Успешно, получено 741 символов
+[2026-03-22 19:17:01] Пауза 60 секунд...
+[2026-03-22 19:18:01] Обрабатываю: NHAI to deploy AI-enabled cameras on 40,000 km of NHs for mo
+[2026-03-22 19:18:01] Попытка 1 для: NHAI to deploy AI-enabled cameras on 40,
+[2026-03-22 19:18:02] Успешно, получено 825 символов
+[2026-03-22 19:18:03] === Блок ai_evening завершён ===
