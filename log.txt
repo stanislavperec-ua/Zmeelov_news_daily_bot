@@ -2820,3 +2820,39 @@
 [2026-03-22 09:05:08] Попытка 1 для: India expected to bypass middle-income t
 [2026-03-22 09:05:09] Успешно, получено 575 символов
 [2026-03-22 09:05:10] === Блок ai_morning завершён ===
+[2026-03-22 11:46:38] Загружено 217 уже отправленных новостей
+[2026-03-22 11:46:38] === Запуск блока: midday ===
+[2026-03-22 11:46:38] Неизвестный источник (people): College Student Fell Down Steps at Schoo
+[2026-03-22 11:46:38] Пропускаю уже отправленную: Iran war latest: Trump says US considering 'windin
+[2026-03-22 11:46:38] Пропускаю уже отправленную: Trump administration lifts sanctions on millions o
+[2026-03-22 11:46:38] Неизвестный источник (sherdog.com): PFL Madrid ‘Van Steenis vs. Edwards 2’ p
+[2026-03-22 11:46:38] Неизвестный источник (investor's business daily): Dow Jones Jumps Late After Sell-Off As T
+[2026-03-22 11:46:38] Неизвестный источник (cbs sports): Miami (Ohio)'s storybook season comes to
+[2026-03-22 11:46:38] Неизвестный источник (nwaonline): Kendra Duggar arrested on Arkansas child
+[2026-03-22 11:46:38] Неизвестный источник (hollywood reporter): Rachel Lindsay Says Bachelor Franchise O
+[2026-03-22 11:46:38] Неизвестный источник (gizmodo.com): Microsoft Is Finally Ready to Make Windo
+[2026-03-22 11:46:38] Неизвестный источник (13newsnow.com wvec): 'I want to see my boys grow up' | Virgin
+[2026-03-22 11:46:38] Неизвестный источник (9to5mac): iOS 26.4 will automatically turn on stri
+[2026-03-22 11:46:38] Неизвестный источник (espn): Two bets and an Eliminator pick for the 
+[2026-03-22 11:46:38] Неизвестный источник (247sports): Is something missing for UNC and Hubert 
+[2026-03-22 11:46:38] Неизвестный источник (space.com): NASA's Artemis 2 moon rocket arrives bac
+[2026-03-22 11:46:38] Старая новость (2026-03-20T11:00:00Z): Google Unveils New Process For Installin
+[2026-03-22 11:46:38] Старая новость (2026-03-20T06:45:00Z): The iPhone Fold could blow away the Gala
+[2026-03-22 11:46:38] Старая новость (2026-03-19T20:57:43Z): Measles outbreak in Michigan county as c
+[2026-03-22 11:46:38] Мировые новости: найдено 13 после фильтрации
+[2026-03-22 11:46:41] Обрабатываю: It’s not just vaccines — parents are refusing other routine 
+[2026-03-22 11:46:41] Попытка 1 для: It’s not just vaccines — parents are ref
+[2026-03-22 11:46:42] Успешно, получено 769 символов
+[2026-03-22 11:46:43] Пауза 60 секунд...
+[2026-03-22 11:47:43] Обрабатываю: The Oil Prices You See Don’t Tell the Market’s Real Story
+[2026-03-22 11:47:43] Попытка 1 для: The Oil Prices You See Don’t Tell the Ma
+[2026-03-22 11:47:43] Успешно, получено 573 символов
+[2026-03-22 11:47:44] Пауза 60 секунд...
+[2026-03-22 11:48:44] Обрабатываю: 'This is about attention': Mike Lee's MAGA crusade is drivin
+[2026-03-22 11:48:44] Попытка 1 для: 'This is about attention': Mike Lee's MA
+[2026-03-22 11:48:45] Успешно, получено 928 символов
+[2026-03-22 11:48:46] Пауза 60 секунд...
+[2026-03-22 11:49:46] Обрабатываю: Iran war enters its fourth week with no clear end in sight
+[2026-03-22 11:49:46] Попытка 1 для: Iran war enters its fourth week with no 
+[2026-03-22 11:49:47] Успешно, получено 614 символов
+[2026-03-22 11:49:47] === Блок midday завершён ===
