@@ -2719,3 +2719,55 @@
 [2026-03-21 19:04:06] Попытка 1 для: What Trump May Do if He Loses in Iran
 [2026-03-21 19:04:07] Успешно, получено 561 символов
 [2026-03-21 19:04:08] === Блок ai_evening завершён ===
+[2026-03-22 07:52:01] Загружено 210 уже отправленных новостей
+[2026-03-22 07:52:01] === Запуск блока: morning ===
+[2026-03-22 07:52:01] Неизвестный источник (san francisco chronicle): West Portal crash: S.F. judge sentences 
+[2026-03-22 07:52:01] Неизвестный источник (espn): Kansas 68-60 California Baptist (Mar 20,
+[2026-03-22 07:52:01] Неизвестный источник (sherdog.com): PFL Madrid ‘Van Steenis vs. Edwards 2’ p
+[2026-03-22 07:52:01] Неизвестный источник (variety): Bringing Rocky to Life: How ‘Project Hai
+[2026-03-22 07:52:01] Неизвестный источник (kabc-tv): Cesar Chavez mural replaced with Dolores
+[2026-03-22 07:52:01] Неизвестный источник (hollywood reporter): Rachel Lindsay Says Bachelor Franchise O
+[2026-03-22 07:52:01] Неизвестный источник (gizmodo.com): Microsoft Is Finally Ready to Make Windo
+[2026-03-22 07:52:01] Неизвестный источник (nfl news): Four-round 2026 NFL mock draft: Four tra
+[2026-03-22 07:52:01] Неизвестный источник (block club chicago): Murder, Arson Charges Filed In Chicago F
+[2026-03-22 07:52:01] Неизвестный источник (13newsnow.com wvec): 'I want to see my boys grow up' | Virgin
+[2026-03-22 07:52:01] Неизвестный источник (macrumors): iOS 26.4: Top 10 New Features Coming to 
+[2026-03-22 07:52:01] Неизвестный источник (barron's): Oil Prices Today: After Spiking to $119,
+[2026-03-22 07:52:01] Неизвестный источник (rolling stone): Sylvester Stallone, Jean-Claude Van Damm
+[2026-03-22 07:52:01] Неизвестный источник (vox): Why the US wants to protect Iran’s oil a
+[2026-03-22 07:52:01] Неизвестный источник (theregister.com): Amazon's smartphone would be ill-timed: 
+[2026-03-22 07:52:01] Неизвестный источник (space.com): Hubble Space Telescope accidentally witn
+[2026-03-22 07:52:01] Неизвестный источник (space.com): NASA's Artemis 2 moon rocket arrives bac
+[2026-03-22 07:52:01] Старая новость (2026-03-19T20:57:43Z): Measles outbreak in Michigan county as c
+[2026-03-22 07:52:01] Мировые новости: найдено 11 после фильтрации
+[2026-03-22 07:52:02] Заблокированный источник (naturalnews.com): U.S. Treasury Secretary Suggests Potenti
+[2026-03-22 07:52:02] Заблокированный источник (naturalnews.com): Cabinet Secretaries Rule Out Export Rest
+[2026-03-22 07:52:02] Нет фото: Why 2026 Could Be the Most Dangerous and
+[2026-03-22 07:52:02] Нет фото: As the World Burns...
+[2026-03-22 07:52:02] Нет фото: Ukraine Is Suddenly on the Offensive, Wi
+[2026-03-22 07:52:02] Нет фото: Putin sends childless Russian women to p
+[2026-03-22 07:52:02] Нет фото: The Great Russian Lockdown — Putin Turns
+[2026-03-22 07:52:02] Нет фото: US, Ukraine to Hold Miami Talks on Drone
+[2026-03-22 07:52:02] Нет фото: In Ukraine’s drone-dominated battlefield
+[2026-03-22 07:52:02] Украинские новости: найдено 1 после фильтрации
+[2026-03-22 07:52:02] Нет фото: Update 344 - IAEA Director General State
+[2026-03-22 07:52:02] Харьков: новостей не найдено
+[2026-03-22 07:52:04] Обрабатываю: Iran war latest: Trump says US considering 'winding down' wa
+[2026-03-22 07:52:04] Попытка 1 для: Iran war latest: Trump says US consideri
+[2026-03-22 07:52:06] Успешно, получено 924 символов
+[2026-03-22 07:52:06] Пауза 60 секунд...
+[2026-03-22 07:53:06] Обрабатываю: Trump administration lifts sanctions on millions of barrels 
+[2026-03-22 07:53:06] Попытка 1 для: Trump administration lifts sanctions on 
+[2026-03-22 07:53:07] Успешно, получено 659 символов
+[2026-03-22 07:53:08] Пауза 60 секунд...
+[2026-03-22 07:54:08] Обрабатываю: Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54
+[2026-03-22 07:54:08] Попытка 1 для: Buffy the Vampire Slayer actor Nicholas 
+[2026-03-22 07:54:09] Успешно, получено 685 символов
+[2026-03-22 07:54:09] Пауза 60 секунд...
+[2026-03-22 07:55:09] Обрабатываю: UN secretary general says he’s cooperating with Trump’s Boar
+[2026-03-22 07:55:09] Попытка 1 для: UN secretary general says he’s cooperati
+[2026-03-22 07:55:10] Успешно, получено 672 символов
+[2026-03-22 07:55:13] Обрабатываю: Ukraine still expects to receive €90bn EU loan – despite Hun
+[2026-03-22 07:55:13] Попытка 1 для: Ukraine still expects to receive €90bn E
+[2026-03-22 07:55:14] Успешно, получено 954 символов
+[2026-03-22 07:55:15] === Блок morning завершён ===
