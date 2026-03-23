@@ -3087,3 +3087,24 @@
 [2026-03-23 18:10:29] Попытка 1 для: Why Some AI Agents Start Acting Like Fam
 [2026-03-23 18:10:30] Успешно, получено 759 символов
 [2026-03-23 18:10:32] === Блок ai_evening завершён ===
+[2026-03-23 20:00:45] Загружено 241 уже отправленных новостей
+[2026-03-23 20:00:45] === Запуск блока: ai_evening ===
+[2026-03-23 20:00:45] Неизвестный источник (coindesk): Ethereum faces make-or-break moment in h
+[2026-03-23 20:00:45] Неизвестный источник (fox news): Amazon Health AI brings a doctor to your
+[2026-03-23 20:00:45] Неизвестный источник (new york post): As AI takes over, consumers face a hard 
+[2026-03-23 20:00:45] Неизвестный источник (pypi.org): hn-tech-signal-mcp added to PyPI
+[2026-03-23 20:00:45] Неизвестный источник (variety): ‘The Comeback’ Season 3 Is a Bittersweet
+[2026-03-23 20:00:45] Нет фото: aidk-framework 1.0.7
+[2026-03-23 20:00:45] Неизвестный источник (express-press-release.net): CSG Technosol Pvt Ltd Announces Next-Gen
+[2026-03-23 20:00:45] Неизвестный источник (moneycontrol): Elon Musk's Terafab project: The $25B pl
+[2026-03-23 20:00:45] Неизвестный источник (opiniojuris.org): Events and Announcements: 22 March 2026
+[2026-03-23 20:00:45] Неизвестный источник (autocar): Inside Hams Hall - the UK factory buildi
+[2026-03-23 20:00:45] Пропускаю уже отправленную: NHAI turns on AI dashcams for smarter highway moni
+[2026-03-23 20:00:45] Неизвестный источник (antaranews.com): AI-Native, Beyond the Concept: openKylin
+[2026-03-23 20:00:45] Нет фото: Mechanical properties analysis of geopol
+[2026-03-23 20:00:45] Неизвестный источник (plos.org): Prevalence of GenAI sexualized image usa
+[2026-03-23 20:00:45] AI новости: найдено 1 после фильтрации
+[2026-03-23 20:00:48] Обрабатываю: Why Some AI Agents Start Acting Like Family, and What That R
+[2026-03-23 20:00:48] Попытка 1 для: Why Some AI Agents Start Acting Like Fam
+[2026-03-23 20:00:49] Успешно, получено 717 символов
+[2026-03-23 20:00:49] === Блок ai_evening завершён ===
