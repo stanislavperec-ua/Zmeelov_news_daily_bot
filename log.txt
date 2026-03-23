@@ -2970,3 +2970,43 @@
 [2026-03-23 08:39:04] Попытка 1 для: NHAI turns on AI dashcams for smarter hi
 [2026-03-23 08:39:05] Успешно, получено 658 символов
 [2026-03-23 08:39:05] === Блок ai_morning завершён ===
+[2026-03-23 11:10:29] Загружено 230 уже отправленных новостей
+[2026-03-23 11:10:29] === Запуск блока: midday ===
+[2026-03-23 11:10:29] Неизвестный источник (the action network): High Point vs Arkansas Predictions, 2026
+[2026-03-23 11:10:29] Неизвестный источник (nbcsports.com): Texas goes from First Four to Sweet 16, 
+[2026-03-23 11:10:29] Неизвестный источник (gsmarena.com): Deals: Galaxy S26 series gets its first 
+[2026-03-23 11:10:29] Неизвестный источник (nascar): Sunday Setup: ‘Game of risk’ ahead for C
+[2026-03-23 11:10:29] Неизвестный источник (new york daily news): ‘Bachelorette’ suitors could file ‘monst
+[2026-03-23 11:10:29] Неизвестный источник (pbs): Trump says he will order federal immigra
+[2026-03-23 11:10:29] Неизвестный источник (ksl.com): It's not just vaccines — parents are ref
+[2026-03-23 11:10:29] Неизвестный источник (deadline): Elon Musk Found Liable For Misleading Tw
+[2026-03-23 11:10:29] Неизвестный источник (mlb trade rumors): Pirates Assign Konnor Griffin To Minor L
+[2026-03-23 11:10:29] Неизвестный источник (pbs): K-pop sensation BTS returns with a free 
+[2026-03-23 11:10:29] Неизвестный источник (variety): Box Office: ‘Project Hail Mary’ Rockets 
+[2026-03-23 11:10:29] Неизвестный источник (cleveland.com): Inside the tedious search for meteorites
+[2026-03-23 11:10:29] Старая новость (2026-03-21T10:49:12Z): Colon cancer is getting younger. Watch o
+[2026-03-23 11:10:29] Старая новость (2026-03-21T10:09:14Z): Meningitis cases rise as vaccine queues 
+[2026-03-23 11:10:29] Старая новость (2026-03-21T06:26:31Z): Microsoft Promises Slew of Windows 11 Ch
+[2026-03-23 11:10:29] Старая новость (2026-03-20T21:00:47Z): 8 states file emergency motion to block 
+[2026-03-23 11:10:29] Старая новость (2026-03-20T16:20:00Z): Iran War Puts Global Energy Markets on t
+[2026-03-23 11:10:29] Старая новость (2026-03-20T14:40:04Z): The deep freshwater reservoir hidden ben
+[2026-03-23 11:10:29] Старая новость (2026-03-20T14:01:04Z): NASA's Artemis 2 moon rocket arrives bac
+[2026-03-23 11:10:29] Старая новость (2026-03-20T11:09:45Z): iPhone 18 Pro set to arrive this year, a
+[2026-03-23 11:10:29] Мировые новости: найдено 10 после фильтрации
+[2026-03-23 11:10:32] Обрабатываю: Column | I want to avoid the ‘aging mistakes’ my parents mad
+[2026-03-23 11:10:32] Попытка 1 для: Column | I want to avoid the ‘aging mist
+[2026-03-23 11:10:33] Успешно, получено 628 символов
+[2026-03-23 11:10:33] Фото не отправилось: 400
+[2026-03-23 11:10:34] Пауза 60 секунд...
+[2026-03-23 11:11:34] Обрабатываю: Nonprofits, unions and airports rally to feed TSA officers a
+[2026-03-23 11:11:34] Попытка 1 для: Nonprofits, unions and airports rally to
+[2026-03-23 11:11:35] Успешно, получено 1063 символов
+[2026-03-23 11:11:35] Пауза 60 секунд...
+[2026-03-23 11:12:35] Обрабатываю: After 25 years of socialist rule, where does Paris go now?
+[2026-03-23 11:12:35] Попытка 1 для: After 25 years of socialist rule, where 
+[2026-03-23 11:12:36] Успешно, получено 629 символов
+[2026-03-23 11:12:37] Пауза 60 секунд...
+[2026-03-23 11:13:37] Обрабатываю: World faces gas supply cliff edge as Gulf’s final LNG shipme
+[2026-03-23 11:13:37] Попытка 1 для: World faces gas supply cliff edge as Gul
+[2026-03-23 11:13:37] Успешно, получено 750 символов
+[2026-03-23 11:13:38] === Блок midday завершён ===
