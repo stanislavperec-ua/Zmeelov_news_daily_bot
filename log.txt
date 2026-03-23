@@ -2949,3 +2949,24 @@
 [2026-03-22 19:18:01] Попытка 1 для: NHAI to deploy AI-enabled cameras on 40,
 [2026-03-22 19:18:02] Успешно, получено 825 символов
 [2026-03-22 19:18:03] === Блок ai_evening завершён ===
+[2026-03-23 08:39:01] Загружено 229 уже отправленных новостей
+[2026-03-23 08:39:01] === Запуск блока: ai_morning ===
+[2026-03-23 08:39:01] Неизвестный источник (opiniojuris.org): Events and Announcements: 22 March 2026
+[2026-03-23 08:39:01] Неизвестный источник (autocar): Inside Hams Hall - the UK factory buildi
+[2026-03-23 08:39:01] Неизвестный источник (antaranews.com): AI-Native, Beyond the Concept: openKylin
+[2026-03-23 08:39:01] Нет фото: Mechanical properties analysis of geopol
+[2026-03-23 08:39:01] Неизвестный источник (plos.org): Prevalence of GenAI sexualized image usa
+[2026-03-23 08:39:01] Неизвестный источник (siliconangle news): RSAC 2026 preview: AI hype meets operati
+[2026-03-23 08:39:01] Неизвестный источник (winter is coming): 8 sci-fi movies better than the books (a
+[2026-03-23 08:39:01] Неизвестный источник (crypto briefing): Worldcoin reportedly sells 117 million W
+[2026-03-23 08:39:01] Пропускаю уже отправленную: Gujarat-based company develops 'AI Action Firewall
+[2026-03-23 08:39:01] Неизвестный источник (the punch): Tony Elumelu Foundation picks 3,200 Afri
+[2026-03-23 08:39:01] Пропускаю уже отправленную: Jeff Bezos’ Blue Origin seeks approval for space-b
+[2026-03-23 08:39:01] Неизвестный источник (mother jones): “I Believe in one God, and It’s Not a Co
+[2026-03-23 08:39:01] Неизвестный источник (businessline): Infosys and Formula E Launch AI-Powered 
+[2026-03-23 08:39:01] Пропускаю уже отправленную: NHAI to deploy AI-enabled cameras on 40,000 km of 
+[2026-03-23 08:39:01] AI новости: найдено 1 после фильтрации
+[2026-03-23 08:39:04] Обрабатываю: NHAI turns on AI dashcams for smarter highway monitoring
+[2026-03-23 08:39:04] Попытка 1 для: NHAI turns on AI dashcams for smarter hi
+[2026-03-23 08:39:05] Успешно, получено 658 символов
+[2026-03-23 08:39:05] === Блок ai_morning завершён ===
