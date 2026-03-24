@@ -3236,3 +3236,50 @@
 [2026-03-24 14:47:38] Попытка 1 для: Swedish Saab 340 seen over Ukraine? ‘Eye
 [2026-03-24 14:47:39] Успешно, получено 738 символов
 [2026-03-24 14:47:40] === Блок evening завершён ===
+[2026-03-24 19:36:09] Загружено 251 уже отправленных новостей
+[2026-03-24 19:36:09] === Запуск блока: ai_evening ===
+[2026-03-24 19:36:09] Неизвестный источник (niemanlab.org): Colombian college student Gabriela Alons
+[2026-03-24 19:36:09] Неизвестный источник (livemint): Meta Hires Former Google, Stripe Executi
+[2026-03-24 19:36:09] Неизвестный источник (nasa): See NASA’s GUARDIAN Catch a Tsunami
+[2026-03-24 19:36:09] Нет фото: Sheryl Sandberg Says Nscale and Its CEO 
+[2026-03-24 19:36:09] Неизвестный источник (laineygossip): Andrew Garfield: Lambs and shaggy hair
+[2026-03-24 19:36:09] Неизвестный источник (techradar): “Likely created with AI-generated code”:
+[2026-03-24 19:36:09] Неизвестный источник (financial post): ECB’s Lane Says AI Is Another Reason to 
+[2026-03-24 19:36:09] Нет фото: JPMorgan Kicks Off $8 Billion Junk-Bond 
+[2026-03-24 19:36:09] Неизвестный источник (gnome.org): Using AI to create some hardware tools a
+[2026-03-24 19:36:09] Неизвестный источник (europa.eu): Philip R. Lane: AI and the euro area eco
+[2026-03-24 19:36:09] Неизвестный источник (telecomtv): What’s up with… Conecta Infra, Digi, Ama
+[2026-03-24 19:36:09] Неизвестный источник (siliconangle news): Dash0 raises $110M at $1B valuation to c
+[2026-03-24 19:36:09] Неизвестный источник (siliconangle news): Google Cloud unveils agentic AI security
+[2026-03-24 19:36:09] Нет фото: geoai-py 0.36.0
+[2026-03-24 19:36:09] Неизвестный источник (the punch): AI-driven security critical in tackling 
+[2026-03-24 19:36:09] Неизвестный источник (cleantechnica): NOAA Is Restoring A Pristine Estuary — W
+[2026-03-24 19:36:09] Неизвестный источник (plos.org): Correlation analysis and prediction mode
+[2026-03-24 19:36:09] Неизвестный источник (plos.org): D-LIM: A neural network for interpretabl
+[2026-03-24 19:36:09] Неизвестный источник (plos.org): Interactions among weather and landscape
+[2026-03-24 19:36:09] Нет фото: Reconfigurable intelligent surface and U
+[2026-03-24 19:36:09] Неизвестный источник (plos.org): Dengue transmission dynamics in an urban
+[2026-03-24 19:36:09] Неизвестный источник (fair observer): Why the US Trade Deficit Persists
+[2026-03-24 19:36:09] Нет фото: New Report Suggests AI is Widely Used in
+[2026-03-24 19:36:09] Неизвестный источник (siliconangle news): SecurityScorecard debuts TITAN AI to red
+[2026-03-24 19:36:09] Неизвестный источник (pyimagesearch.com): DeepSeek-V3 from Scratch: Mixture of Exp
+[2026-03-24 19:36:09] Неизвестный источник (pymnts.com): OpenAI Hires Meta Vet as It Preps ChatGP
+[2026-03-24 19:36:09] Неизвестный источник (siliconangle news): CrowdStrike targets AI security gap with
+[2026-03-24 19:36:09] Неизвестный источник (globenewswire): Off The Hook to Launch NextBoat AI, an I
+[2026-03-24 19:36:09] Неизвестный источник (globenewswire): YSX TECH. CO., LTD Announces Two Partner
+[2026-03-24 19:36:09] Неизвестный источник (abcnews.com): Iran built a vast camera network to cont
+[2026-03-24 19:36:09] Неизвестный источник (globenewswire): Core AI Enters Strategic Joint Venture w
+[2026-03-24 19:36:09] Неизвестный источник (kdnuggets.com): 5 Tips to Turn OpenAI Codex Into a Power
+[2026-03-24 19:36:09] Неизвестный источник (cbc news): Fort McMurray college prepares for secon
+[2026-03-24 19:36:09] Нет фото: DEEP SEA MINERALS CORP. SUBMITS APPLICAT
+[2026-03-24 19:36:09] Неизвестный источник (financial post): Fink says AI threatens to leave masses b
+[2026-03-24 19:36:09] Нет фото: Fink Says AI Threatens to Leave Masses B
+[2026-03-24 19:36:09] AI новости: найдено 2 после фильтрации
+[2026-03-24 19:36:12] Обрабатываю: AI becoming integral to how networks are designed, experienc
+[2026-03-24 19:36:12] Попытка 1 для: AI becoming integral to how networks are
+[2026-03-24 19:36:13] Успешно, получено 728 символов
+[2026-03-24 19:36:13] Пауза 60 секунд...
+[2026-03-24 19:37:13] Обрабатываю: Iran’s Biggest Wartime Advantage Is Geography
+[2026-03-24 19:37:13] Попытка 1 для: Iran’s Biggest Wartime Advantage Is Geog
+[2026-03-24 19:37:14] Успешно, получено 689 символов
+[2026-03-24 19:37:15] === Блок ai_evening завершён ===
