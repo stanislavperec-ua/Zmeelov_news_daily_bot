@@ -3108,3 +3108,40 @@
 [2026-03-23 20:00:48] Попытка 1 для: Why Some AI Agents Start Acting Like Fam
 [2026-03-23 20:00:49] Успешно, получено 717 символов
 [2026-03-23 20:00:49] === Блок ai_evening завершён ===
+[2026-03-24 08:07:42] Загружено 241 уже отправленных новостей
+[2026-03-24 08:07:42] === Запуск блока: ai_morning ===
+[2026-03-24 08:07:42] Неизвестный источник (pymnts.com): Visa Says AI Can Shop but Trust Still Ha
+[2026-03-24 08:07:42] Неизвестный источник (antaranews.com): AEM and ASE Enter Strategic Partnership 
+[2026-03-24 08:07:42] Неизвестный источник (siliconangle news): Broadcom expands Kubernetes support with
+[2026-03-24 08:07:42] Неизвестный источник (businessline): Paytm's merchant platform to be largest 
+[2026-03-24 08:07:42] Неизвестный источник (wwd): Ba&sh Bets on ‘Less but Better’ Strategy
+[2026-03-24 08:07:42] Неизвестный источник (financial post): Wall Street Banks Push Back Calls for Ch
+[2026-03-24 08:07:42] Неизвестный источник (siliconangle news): Navi AI debuts flight training AI platfo
+[2026-03-24 08:07:42] Неизвестный источник (archdaily): Energy Landscapes: How Infrastructure Re
+[2026-03-24 08:07:42] Неизвестный источник (designboom): from capsule towers to circular cities: 
+[2026-03-24 08:07:42] Неизвестный источник (financial post): Pop Mart, Laopu Gold See Strong 2025 Ear
+[2026-03-24 08:07:42] Неизвестный источник (pymnts.com): Google and American Airlines Use AI to R
+[2026-03-24 08:07:42] Неизвестный источник (bleeding cool news): The Comeback S03E01: "Valerie Gets a New
+[2026-03-24 08:07:42] Неизвестный источник (siliconangle news): Elon Musk announces ambitious $20B Teraf
+[2026-03-24 08:07:42] Нет фото: South Korea’s Early Exports Show Resilie
+[2026-03-24 08:07:42] Неизвестный источник (llllitl.fr): Interview – Thierry Albert: “Independenc
+[2026-03-24 08:07:42] Нет фото: Sensor fusion of touch & vision in soft 
+[2026-03-24 08:07:42] Нет фото: AI-enhanced techno-economic and environm
+[2026-03-24 08:07:42] Нет фото: Machine learning modelling of a nonlinea
+[2026-03-24 08:07:42] Неизвестный источник (financial post): Tech Entrepreneur Yanik Guillemette Publ
+[2026-03-24 08:07:42] Неизвестный источник (siliconangle news): Microsoft outlines agentic AI security s
+[2026-03-24 08:07:42] Неизвестный источник (decider): Stream It Or Skip It: ‘The Comeback’ Sea
+[2026-03-24 08:07:42] Неизвестный источник (globalresearch.ca): The Pentagon’s “Star Wars”, “Space-Based
+[2026-03-24 08:07:42] Неизвестный источник (globalresearch.ca): The Pentagon’s Space-Based Capabilities”
+[2026-03-24 08:07:42] Неизвестный источник (coindesk): Ethereum faces make-or-break moment in h
+[2026-03-24 08:07:42] Неизвестный источник (fox news): Amazon Health AI brings a doctor to your
+[2026-03-24 08:07:42] Неизвестный источник (new york post): As AI takes over, consumers face a hard 
+[2026-03-24 08:07:42] Неизвестный источник (pypi.org): hn-tech-signal-mcp added to PyPI
+[2026-03-24 08:07:42] Неизвестный источник (variety): ‘The Comeback’ Season 3 Is a Bittersweet
+[2026-03-24 08:07:42] Нет фото: aidk-framework 1.0.7
+[2026-03-24 08:07:42] Неизвестный источник (express-press-release.net): CSG Technosol Pvt Ltd Announces Next-Gen
+[2026-03-24 08:07:42] Пропускаю уже отправленную: Why Some AI Agents Start Acting Like Family, and W
+[2026-03-24 08:07:42] Неизвестный источник (moneycontrol): Elon Musk's Terafab project: The $25B pl
+[2026-03-24 08:07:42] AI новости: найдено 0 после фильтрации
+[2026-03-24 08:07:42] ⚠️ Блок *AI утро* (24.03.2026) — новостей не найдено!
+[2026-03-24 08:07:43] === Блок ai_morning завершён ===
