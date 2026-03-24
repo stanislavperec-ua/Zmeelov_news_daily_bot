@@ -3145,3 +3145,40 @@
 [2026-03-24 08:07:42] AI новости: найдено 0 после фильтрации
 [2026-03-24 08:07:42] ⚠️ Блок *AI утро* (24.03.2026) — новостей не найдено!
 [2026-03-24 08:07:43] === Блок ai_morning завершён ===
+[2026-03-24 10:36:55] Загружено 241 уже отправленных новостей
+[2026-03-24 10:36:55] === Запуск блока: midday ===
+[2026-03-24 10:36:55] Неизвестный источник (oilprice.com): Goldman Boosts Oil Price Forecast by $8 
+[2026-03-24 10:36:55] Неизвестный источник (whereisthebuzz.com): Alan Ritchson Caught on Video in Neighbo
+[2026-03-24 10:36:55] Неизвестный источник (on3.com): 2026 NCAA Tournament: Tip-off times, TV 
+[2026-03-24 10:36:55] Неизвестный источник (hollywood reporter): NHL Reporter Jessi Pierce and Her Three 
+[2026-03-24 10:36:55] Неизвестный источник (dsogaming): Crimson Desert March 23 Update 1.00.03 R
+[2026-03-24 10:36:55] Неизвестный источник (nj.com): Charles Barkley reacts to final play of 
+[2026-03-24 10:36:55] Заблокированный источник (sciencealert): Scientists Identified a Speech Trait Tha
+[2026-03-24 10:36:55] Неизвестный источник (business insider): Oil prices dip despite the US and Iran t
+[2026-03-24 10:36:55] Неизвестный источник (samsung.com): Samsung Brings AirDrop Support to Quick 
+[2026-03-24 10:36:55] Неизвестный источник (hackaday): Hackaday Links: March 22, 2026 - Hackada
+[2026-03-24 10:36:55] Неизвестный источник (fortune): ‘Project Hail Mary’ becomes Amazon’s hig
+[2026-03-24 10:36:55] Неизвестный источник (us weekly): Joe Amabile ‘Would Bet a Lot of Money’ o
+[2026-03-24 10:36:55] Неизвестный источник (espn): Jorginho slams singer Chappell Roan afte
+[2026-03-24 10:36:55] Неизвестный источник (futurism): SpaceX's One Million Orbital Data Center
+[2026-03-24 10:36:55] Неизвестный источник (eurogamer.net): Capcom celebrates Resident Evil's 30th a
+[2026-03-24 10:36:55] Старая новость (2026-03-22T02:18:00Z): Meteor explosion fuels rush to Medina Co
+[2026-03-24 10:36:55] Старая новость (2026-03-21T22:17:39Z): It's not just vaccines — parents are ref
+[2026-03-24 10:36:55] Старая новость (2026-03-21T15:14:03Z): Artemis 2 returns to the pad for April l
+[2026-03-24 10:36:55] Мировые новости: найдено 15 после фильтрации
+[2026-03-24 10:36:58] Обрабатываю: Pressure builds on Congress as DHS shutdown threatens to dra
+[2026-03-24 10:36:58] Попытка 1 для: Pressure builds on Congress as DHS shutd
+[2026-03-24 10:36:59] Успешно, получено 825 символов
+[2026-03-24 10:36:59] Пауза 60 секунд...
+[2026-03-24 10:37:59] Обрабатываю: International Energy Agency head says global economy faces ‘
+[2026-03-24 10:37:59] Попытка 1 для: International Energy Agency head says gl
+[2026-03-24 10:38:00] Успешно, получено 799 символов
+[2026-03-24 10:38:01] Пауза 60 секунд...
+[2026-03-24 10:39:01] Обрабатываю: Air Canada jet collides with ground vehicle at New York airp
+[2026-03-24 10:39:01] Попытка 1 для: Air Canada jet collides with ground vehi
+[2026-03-24 10:39:02] Успешно, получено 658 символов
+[2026-03-24 10:39:02] Пауза 60 секунд...
+[2026-03-24 10:40:02] Обрабатываю: Iran threatens to start hitting Gulf power plants and mine w
+[2026-03-24 10:40:02] Попытка 1 для: Iran threatens to start hitting Gulf pow
+[2026-03-24 10:40:03] Успешно, получено 780 символов
+[2026-03-24 10:40:04] === Блок midday завершён ===
