@@ -3377,3 +3377,39 @@
 [2026-03-25 08:08:46] Попытка 1 для: Meta hires former Google, Stripe executi
 [2026-03-25 08:08:47] Успешно, получено 609 символов
 [2026-03-25 08:08:47] === Блок ai_morning завершён ===
+[2026-03-25 10:34:48] Загружено 257 уже отправленных новостей
+[2026-03-25 10:34:48] === Запуск блока: midday ===
+[2026-03-25 10:34:48] Пропускаю уже отправленную: Live Updates: Trump calls off Strait of Hormuz ult
+[2026-03-25 10:34:48] Неизвестный источник (page six): 'Hannah Montana 20th Anniversary Special
+[2026-03-25 10:34:48] Неизвестный источник (mlb.com): 10 players who could reach career milest
+[2026-03-25 10:34:48] Неизвестный источник (ksl.com): 2 Utah companies are quietly changing ho
+[2026-03-25 10:34:48] Неизвестный источник (hollywood reporter): ‘Moana’: New Trailer Shows Dwayne Johnso
+[2026-03-25 10:34:48] Неизвестный источник (cbs sports): 2026 Women's March Madness live updates:
+[2026-03-25 10:34:48] Неизвестный источник (minneapolis star tribune): No evidence of arson found in White Bear
+[2026-03-25 10:34:48] Неизвестный источник (people): 6-Week-Old Baby Suffered a Stroke — 16 Y
+[2026-03-25 10:34:48] Неизвестный источник (deseret news): This city ranks worst in the U.S. for al
+[2026-03-25 10:34:48] Неизвестный источник (mlive.com): Tom Izzo says Big Ten ‘flexing its muscl
+[2026-03-25 10:34:48] Неизвестный источник (wccftech): While Intel Skipped Core Ultra 9 290K Pl
+[2026-03-25 10:34:48] Неизвестный источник (katu): Bright green fireball flashes across Por
+[2026-03-25 10:34:48] Неизвестный источник (wusa9.com): Quadruple amputee cornhole player accuse
+[2026-03-25 10:34:48] Неизвестный источник (nasa): NASA’s Hubble Revisits Crab Nebula to Tr
+[2026-03-25 10:34:48] Старая новость (2026-03-23T09:47:27Z): Samsung adds native AirDrop support to G
+[2026-03-25 10:34:48] Старая новость (2026-03-22T23:45:11Z): Research to help dogs live longer, healt
+[2026-03-25 10:34:48] Старая новость (2026-03-22T23:44:35Z): Google Tested AI Headlines In Discover. 
+[2026-03-25 10:34:48] Мировые новости: найдено 11 после фильтрации
+[2026-03-25 10:34:51] Обрабатываю: Estée Lauder in Talks to Acquire Spain’s Puig to Create Glob
+[2026-03-25 10:34:51] Попытка 1 для: Estée Lauder in Talks to Acquire Spain’s
+[2026-03-25 10:34:52] Успешно, получено 907 символов
+[2026-03-25 10:34:52] Пауза 60 секунд...
+[2026-03-25 10:35:52] Обрабатываю: Amid muted Eid celebrations, violence surges across the West
+[2026-03-25 10:35:52] Попытка 1 для: Amid muted Eid celebrations, violence su
+[2026-03-25 10:35:53] Успешно, получено 732 символов
+[2026-03-25 10:35:54] Пауза 60 секунд...
+[2026-03-25 10:36:54] Обрабатываю: Pentagon revises rules for journalists after lawsuit loss, r
+[2026-03-25 10:36:54] Попытка 1 для: Pentagon revises rules for journalists a
+[2026-03-25 10:36:55] Успешно, получено 795 символов
+[2026-03-25 10:36:56] Пауза 60 секунд...
+[2026-03-25 10:37:56] Обрабатываю: FCC Bans Wireless Router Imports, Citing Security Concerns
+[2026-03-25 10:37:56] Попытка 1 для: FCC Bans Wireless Router Imports, Citing
+[2026-03-25 10:37:57] Успешно, получено 920 символов
+[2026-03-25 10:37:57] === Блок midday завершён ===
