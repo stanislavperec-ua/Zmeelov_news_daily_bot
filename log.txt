@@ -3327,3 +3327,53 @@
 [2026-03-24 20:01:00] Попытка 1 для: Iran built a vast camera network to cont
 [2026-03-24 20:01:01] Успешно, получено 967 символов
 [2026-03-24 20:01:02] === Блок ai_evening завершён ===
+[2026-03-25 08:06:39] Загружено 254 уже отправленных новостей
+[2026-03-25 08:06:39] === Запуск блока: ai_morning ===
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Oracle Fusion agentic applications signa
+[2026-03-25 08:06:40] Неизвестный источник (financial post): Siemens Says Industry’s Demands Keep It 
+[2026-03-25 08:06:40] Неизвестный источник (designboom): in new babylon, constant imagines a worl
+[2026-03-25 08:06:40] Нет фото: AAD 2026: Galderma Showcases Latest Evid
+[2026-03-25 08:06:40] Неизвестный источник (globenewswire): Phonak AI-Powered Hearing Aids Recognize
+[2026-03-25 08:06:40] Неизвестный источник (bleeding cool news): Rogue #3 Preview: Rogue's Budget Blown o
+[2026-03-25 08:06:40] Неизвестный источник (financial post): Global Air Quality Worsened in 2025 and 
+[2026-03-25 08:06:40] Неизвестный источник (c-sharpcorner.com): How to Build a Local AI Chatbot Using Op
+[2026-03-25 08:06:40] Неизвестный источник (archdaily): Unearthing the Ground: Architecture and 
+[2026-03-25 08:06:40] Неизвестный источник (connectedpakistan.pk): Salman Sarwar: 11-Year Journey in Digita
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Multi-chip inference cloud startup Gimle
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): SentinelOne, Snyk introduce new tools fo
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Anthropic’s Claude gets computer use cap
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Meta acqui-hires the co-founders of agen
+[2026-03-25 08:06:40] Нет фото: Nanoscale exchange-bias magnetic tunnel 
+[2026-03-25 08:06:40] Нет фото: Continuous evolution of a halogenase enz
+[2026-03-25 08:06:40] Неизвестный источник (redhat.com): NAIRR, Red Hat, and open source help pro
+[2026-03-25 08:06:40] Нет фото: Concurrent validation of OpenCap for ide
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Chip interconnect startup Kandou AI rais
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): The agentic era: How Palo Alto Networks 
+[2026-03-25 08:06:40] Неизвестный источник (pbs): Iran built a vast camera network to cont
+[2026-03-25 08:06:40] Неизвестный источник (siliconangle news): Cisco debuts new AI agent security featu
+[2026-03-25 08:06:40] Неизвестный источник (theregister.com): Lightning-fast exploits make it essentia
+[2026-03-25 08:06:40] Неизвестный источник (motley fool australia): One ASX growth stock down over 50% to bu
+[2026-03-25 08:06:40] Неизвестный источник (israelnationalnews.com): “No Imminent Threat" Is the most dangero
+[2026-03-25 08:06:40] Неизвестный источник (crypto briefing): Keone Hon: Monad’s successful blockchain
+[2026-03-25 08:06:40] Пропускаю уже отправленную: Iran built a vast camera network to control dissen
+[2026-03-25 08:06:40] Неизвестный источник (financial post): Apple to make AI comeback bid at annual 
+[2026-03-25 08:06:40] Неизвестный источник (niemanlab.org): Colombian college student Gabriela Alons
+[2026-03-25 08:06:40] Неизвестный источник (livemint): Meta Hires Former Google, Stripe Executi
+[2026-03-25 08:06:40] Неизвестный источник (nasa): See NASA’s GUARDIAN Catch a Tsunami
+[2026-03-25 08:06:40] Нет фото: Sheryl Sandberg Says Nscale and Its CEO 
+[2026-03-25 08:06:40] Неизвестный источник (laineygossip): Andrew Garfield: Lambs and shaggy hair
+[2026-03-25 08:06:40] Неизвестный источник (techradar): “Likely created with AI-generated code”:
+[2026-03-25 08:06:40] Неизвестный источник (financial post): ECB’s Lane Says AI Is Another Reason to 
+[2026-03-25 08:06:40] AI новости: найдено 4 после фильтрации
+[2026-03-25 08:06:42] Обрабатываю: What to consider when deciding on a postgraduate course in I
+[2026-03-25 08:06:42] Попытка 1 для: What to consider when deciding on a post
+[2026-03-25 08:06:44] Успешно, получено 718 символов
+[2026-03-25 08:06:44] Пауза 60 секунд...
+[2026-03-25 08:07:44] Обрабатываю: Sony Confirms AI-Powered Frame Generation Coming to PlayStat
+[2026-03-25 08:07:44] Попытка 1 для: Sony Confirms AI-Powered Frame Generatio
+[2026-03-25 08:07:45] Успешно, получено 796 символов
+[2026-03-25 08:07:46] Пауза 60 секунд...
+[2026-03-25 08:08:46] Обрабатываю: Meta hires former Google, Stripe executives behind AI startu
+[2026-03-25 08:08:46] Попытка 1 для: Meta hires former Google, Stripe executi
+[2026-03-25 08:08:47] Успешно, получено 609 символов
+[2026-03-25 08:08:47] === Блок ai_morning завершён ===
