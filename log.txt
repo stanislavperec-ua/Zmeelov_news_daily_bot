@@ -3471,3 +3471,52 @@
 [2026-03-25 14:48:24] Попытка 1 для: Why has India arrested US, Ukrainian nat
 [2026-03-25 14:48:25] Успешно, получено 705 символов
 [2026-03-25 14:48:26] === Блок evening завершён ===
+[2026-03-25 18:37:53] Загружено 267 уже отправленных новостей
+[2026-03-25 18:37:53] === Запуск блока: ai_evening ===
+[2026-03-25 18:37:57] Неизвестный источник (the-independent.com): AI ‘neuron freezing’ offers safety break
+[2026-03-25 18:37:57] Неизвестный источник (hootsuite.com): 18 AI-powered content creation tools to 
+[2026-03-25 18:37:57] Неизвестный источник (amazon.com): Accelerating custom entity recognition w
+[2026-03-25 18:37:57] Нет фото: C.H. Robinson named to Fast Company’s an
+[2026-03-25 18:37:57] Неизвестный источник (pymnts.com): FedEx Teams With OneRail to Offer Same-D
+[2026-03-25 18:37:57] Неизвестный источник (pymnts.com): Gap Teams With Google for Agentic Clothi
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): AMS Partners with Agri-Sure to Bring Rea
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): Pacers Sports & Entertainment Launches F
+[2026-03-25 18:37:57] Неизвестный источник (bitcoinist): TRON Expands AI Fund to $1B, Targeting C
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): KubeCon Europe 2026: The AI execution ga
+[2026-03-25 18:37:57] Неизвестный источник (frontiersin.org): Frontiers | Development and validation o
+[2026-03-25 18:37:57] Неизвестный источник (techradar): How AI is reshaping compliance: Why gove
+[2026-03-25 18:37:57] Неизвестный источник (telecomtv): What’s up with… Iliad, Claro Brasil, Vod
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): Ai2 releases open-source visual AI agent
+[2026-03-25 18:37:57] Неизвестный источник (github.com): Show HN: Private Corporate AI – self-hos
+[2026-03-25 18:37:57] Неизвестный источник (marketbeat): Smithfield Foods Q4 Earnings Call Highli
+[2026-03-25 18:37:57] Неизвестный источник (elearningindustry.com): Tech Giants Today: How Big Tech Companie
+[2026-03-25 18:37:57] Неизвестный источник (plos.org): Factors associated with Turkish individu
+[2026-03-25 18:37:57] Неизвестный источник (plos.org): 28-day cement strength prediction via tr
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): Veritext Legal Solutions Receives First 
+[2026-03-25 18:37:57] Неизвестный источник (plos.org): Accounting for sensitivity of latent lea
+[2026-03-25 18:37:57] Неизвестный источник (plos.org): Blocking heterochromatin spreading const
+[2026-03-25 18:37:57] Неизвестный источник (danielhomola.com): Your bridge to wealth is being pulled up
+[2026-03-25 18:37:57] Нет фото: Dell Family Office Hunts Private Credit 
+[2026-03-25 18:37:57] Неизвестный источник (europa.eu): Piero Cipollone: The digital euro: prepa
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): HP Imagine 2026: HP Introduces LaserJet 
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): HP Imagine 2026: HP Enables People’s Bes
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): HP Reimagines the Future of Work
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): Mushrooms Inc. (OTC: MSRM) Achieves Proo
+[2026-03-25 18:37:57] Нет фото: MariaDB Completes GridGain Acquisition t
+[2026-03-25 18:37:57] Неизвестный источник (publicknowledge.org): Preemption Isn’t Governance. We Need a F
+[2026-03-25 18:37:57] Неизвестный источник (pymnts.com): Solana Simplifies Blockchain for Enterpr
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): Barracuda expands BarracudaONE platform 
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): With $90M in funding, NoTraffic will use
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): F5 and Forcepoint partner to secure AI a
+[2026-03-25 18:37:57] Неизвестный источник (siliconangle news): Exclusive: HG Insights expands revenue g
+[2026-03-25 18:37:57] Неизвестный источник (computerweekly.com): Tata Communications unveils self-healing
+[2026-03-25 18:37:57] Неизвестный источник (globenewswire): Helport AI Showcases Its AI Solutions at
+[2026-03-25 18:37:57] AI новости: найдено 2 после фильтрации
+[2026-03-25 18:37:59] Обрабатываю: Is Grok Down? Users Report Major Outage for Elon Musk's AI o
+[2026-03-25 18:37:59] Попытка 1 для: Is Grok Down? Users Report Major Outage 
+[2026-03-25 18:38:01] Успешно, получено 718 символов
+[2026-03-25 18:38:01] Пауза 60 секунд...
+[2026-03-25 18:39:01] Обрабатываю: Sam Altman Navigates OpenAI's Explosive Growth Amid Rival Bi
+[2026-03-25 18:39:01] Попытка 1 для: Sam Altman Navigates OpenAI's Explosive 
+[2026-03-25 18:39:02] Успешно, получено 407 символов
+[2026-03-25 18:39:02] === Блок ai_evening завершён ===
