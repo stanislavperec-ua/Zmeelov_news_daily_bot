@@ -3565,3 +3565,52 @@
 [2026-03-25 19:57:42] AI новости: найдено 0 после фильтрации
 [2026-03-25 19:57:42] ⚠️ Блок *AI вечер* (25.03.2026) — новостей не найдено!
 [2026-03-25 19:57:43] === Блок ai_evening завершён ===
+[2026-03-26 08:37:11] Загружено 269 уже отправленных новостей
+[2026-03-26 08:37:11] === Запуск блока: ai_morning ===
+[2026-03-26 08:37:12] Неизвестный источник (computerweekly.com): Why AI agents are one prompt away from r
+[2026-03-26 08:37:12] Нет фото: EU and Australia strengthen relations wi
+[2026-03-26 08:37:12] Неизвестный источник (pymnts.com): Banks Turn to Real-Time Payments to Win 
+[2026-03-26 08:37:12] Неизвестный источник (thechronicle.com.gh): Mastercard on Ghana’s Digital Payments G
+[2026-03-26 08:37:12] Неизвестный источник (computerweekly.com): Designing water‐smart AI datacentres in 
+[2026-03-26 08:37:12] Неизвестный источник (computerweekly.com): Ciena upgrades subsea cable throughput f
+[2026-03-26 08:37:12] Неизвестный источник (bitcoinist): Solana Foundation Launches Developer Pla
+[2026-03-26 08:37:12] Неизвестный источник (computerweekly.com): Cambridge MC boosts comms procurement wi
+[2026-03-26 08:37:12] Неизвестный источник (insurance journal): Tech Update: Renaissance Unveils AI Upgr
+[2026-03-26 08:37:12] Нет фото: kymnasium 1.1.2
+[2026-03-26 08:37:12] Нет фото: German Nuclear Fusion Startup Plans Lase
+[2026-03-26 08:37:12] Заблокированный источник (naturalnews.com): The Global Energy Collapse: How Trump’s 
+[2026-03-26 08:37:12] Заблокированный источник (naturalnews.com): The Price of War: How Trump’s Aggression
+[2026-03-26 08:37:12] Неизвестный источник (financial post): AI Demand Is Shielding China’s Booming T
+[2026-03-26 08:37:12] Неизвестный источник (bluegrasslive.com): Elmhurst 1925 Launches Clean Protein™ to
+[2026-03-26 08:37:12] Неизвестный источник (hurriyet daily news): Türkiye navigating Mideast conflict caut
+[2026-03-26 08:37:12] Нет фото: John Goerzen: Artificial Intelligence: S
+[2026-03-26 08:37:12] Неизвестный источник (financial post): Iran War Risks Prying Asia’s Tech, Consu
+[2026-03-26 08:37:12] Неизвестный источник (mssqltips.com): Getting Started with Amazon Quick Suite
+[2026-03-26 08:37:12] Неизвестный источник (the conversation africa): Fake news on everything from whales to w
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): Insurance tech startup Shepherd raises $
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): Arm launches 136-core AGI CPU for data c
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): The agentic workforce is here: Why Cisco
+[2026-03-26 08:37:12] Неизвестный источник (pymnts.com): Worth Raises $30 Million to Streamline S
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): Anthropic unchains Claude Code with auto
+[2026-03-26 08:37:12] Неизвестный источник (smallwarsjournal.com): 2026 Worldwide Threats Hearing
+[2026-03-26 08:37:12] Неизвестный источник (yanko design): OMO X self-balancing electric scooter em
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): OpenAI says it’s pulling the plug on Sor
+[2026-03-26 08:37:12] Неизвестный источник (globenewswire): Digital Realty Delivers Colocation Infra
+[2026-03-26 08:37:12] Нет фото: Automated detection of physical contact 
+[2026-03-26 08:37:12] Нет фото: TrialMatchAI: an end-to-end AI-powered c
+[2026-03-26 08:37:12] Нет фото: Combining graphlets and random walks for
+[2026-03-26 08:37:12] Нет фото: A highly energy-efficient multi-core neu
+[2026-03-26 08:37:12] Неизвестный источник (siliconangle news): AI productivity startup Highlight AI rai
+[2026-03-26 08:37:12] AI новости: найдено 6 после фильтрации
+[2026-03-26 08:37:14] Обрабатываю: (VIDEO) More Than 2,000 ABC Staff Walk Off Job in 24-Hour St
+[2026-03-26 08:37:14] Попытка 1 для: (VIDEO) More Than 2,000 ABC Staff Walk O
+[2026-03-26 08:37:15] Успешно, получено 726 символов
+[2026-03-26 08:37:15] Пауза 60 секунд...
+[2026-03-26 08:38:15] Обрабатываю: Indian AI cos navigate tricky waters of war impact and rupee
+[2026-03-26 08:38:15] Попытка 1 для: Indian AI cos navigate tricky waters of 
+[2026-03-26 08:38:17] Успешно, получено 672 символов
+[2026-03-26 08:38:17] Пауза 60 секунд...
+[2026-03-26 08:39:17] Обрабатываю: Rapid concerted switching of the neural code in the inferote
+[2026-03-26 08:39:17] Попытка 1 для: Rapid concerted switching of the neural 
+[2026-03-26 08:39:18] Успешно, получено 732 символов
+[2026-03-26 08:39:18] === Блок ai_morning завершён ===
