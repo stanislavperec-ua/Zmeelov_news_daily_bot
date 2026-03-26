@@ -3614,3 +3614,39 @@
 [2026-03-26 08:39:17] Попытка 1 для: Rapid concerted switching of the neural 
 [2026-03-26 08:39:18] Успешно, получено 732 символов
 [2026-03-26 08:39:18] === Блок ai_morning завершён ===
+[2026-03-26 10:39:05] Загружено 272 уже отправленных новостей
+[2026-03-26 10:39:05] === Запуск блока: midday ===
+[2026-03-26 10:39:05] Неизвестный источник (business insider): Some Meta employees were told to work re
+[2026-03-26 10:39:05] Неизвестный источник (wral.com): UNC fires Hubert Davis: Here are some co
+[2026-03-26 10:39:05] Неизвестный источник (variety): New ‘Lord of the Rings’ Movie From Steph
+[2026-03-26 10:39:05] Неизвестный источник (cnbc): Stock futures rise on report that the U.
+[2026-03-26 10:39:05] Неизвестный источник (the globe and mail): Your daily horoscope: March 25, 2026 - T
+[2026-03-26 10:39:05] Неизвестный источник (mlb.com): MLB.com experts pick 2026 division winne
+[2026-03-26 10:39:05] Неизвестный источник (usa today): 8 new emojis arrive in Apple iOS 26.4 up
+[2026-03-26 10:39:05] Неизвестный источник (deadline): Emily Osment Addresses Absence From ‘Han
+[2026-03-26 10:39:05] Неизвестный источник (usa today): Trump sinks to record low approval ratin
+[2026-03-26 10:39:05] Неизвестный источник (cbs sports): March Madness 2026: One reason to root f
+[2026-03-26 10:39:05] Неизвестный источник (wkmg news 6 & clickorlando): Artemis II’s launch may be heard from mi
+[2026-03-26 10:39:05] Неизвестный источник (variety): Epic Games to Lay Off 1,000 Staffers and
+[2026-03-26 10:39:05] Неизвестный источник (new york post): Scientists warn that a modern supermarke
+[2026-03-26 10:39:05] Неизвестный источник (pbs): Strikes hit Iran while Tehran targets Is
+[2026-03-26 10:39:05] Заблокированный источник (sciencealert): Giant Star's Mysterious X-Rays Finally E
+[2026-03-26 10:39:05] Старая новость (2026-03-24T10:30:00Z): The world’s deadliest infectious disease
+[2026-03-26 10:39:05] Старая новость (2026-03-24T08:33:07Z): WHO recommends new diagnostic tools to h
+[2026-03-26 10:39:05] Мировые новости: найдено 14 после фильтрации
+[2026-03-26 10:39:08] Обрабатываю: Live updates: Iran receives 15-point US ceasefire proposal f
+[2026-03-26 10:39:08] Попытка 1 для: Live updates: Iran receives 15-point US 
+[2026-03-26 10:39:09] Успешно, получено 742 символов
+[2026-03-26 10:39:09] Пауза 60 секунд...
+[2026-03-26 10:40:09] Обрабатываю: Deal to fund DHS falters amid bipartisan pushback
+[2026-03-26 10:40:09] Попытка 1 для: Deal to fund DHS falters amid bipartisan
+[2026-03-26 10:40:10] Успешно, получено 880 символов
+[2026-03-26 10:40:11] Пауза 60 секунд...
+[2026-03-26 10:41:11] Обрабатываю: OpenAI pulls the plug on Sora, the viral AI video app that s
+[2026-03-26 10:41:11] Попытка 1 для: OpenAI pulls the plug on Sora, the viral
+[2026-03-26 10:41:12] Успешно, получено 828 символов
+[2026-03-26 10:41:13] Пауза 60 секунд...
+[2026-03-26 10:42:13] Обрабатываю: Iran says ‘non-hostile’ ships can pass safely through Strait
+[2026-03-26 10:42:13] Попытка 1 для: Iran says ‘non-hostile’ ships can pass s
+[2026-03-26 10:42:14] Успешно, получено 519 символов
+[2026-03-26 10:42:14] === Блок midday завершён ===
