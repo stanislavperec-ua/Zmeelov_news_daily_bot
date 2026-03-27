@@ -3833,3 +3833,35 @@
 [2026-03-27 08:11:21] Попытка 1 для: Bay the 'greatest risk and biggest asset
 [2026-03-27 08:11:22] Успешно, получено 639 символов
 [2026-03-27 08:11:23] === Блок ai_morning завершён ===
+[2026-03-27 10:34:08] Загружено 285 уже отправленных новостей
+[2026-03-27 10:34:08] === Запуск блока: midday ===
+[2026-03-27 10:34:09] Неизвестный источник (haaretz): Five Iranian Missile Barrages Since Morn
+[2026-03-27 10:34:09] Неизвестный источник (hollywood reporter): ‘Project Hail Mary’ Sequel Not Out of th
+[2026-03-27 10:34:09] Неизвестный источник (the sportsrush): Shaquille O’Neal Denies Sending Viral Ex
+[2026-03-27 10:34:09] Неизвестный источник (warhammer-community.com): AdeptiCon Preview 2026 – The Red Terror 
+[2026-03-27 10:34:09] Неизвестный источник (sfgate): First SF Giants at-bats ruined by Netfli
+[2026-03-27 10:34:09] Неизвестный источник (ksl.com): OpenAI drops AI video tool Sora, startli
+[2026-03-27 10:34:09] Неизвестный источник (the conversation africa): Meta and Google just lost a landmark soc
+[2026-03-27 10:34:09] Неизвестный источник (nasa): NASA Sets Coverage for First Artemis Cre
+[2026-03-27 10:34:09] Неизвестный источник (49ers.com): 49ers to Open 2026 Season vs. Rams in Me
+[2026-03-27 10:34:09] Неизвестный источник (sports illustrated): March Madness Brackets: Expert Predictio
+[2026-03-27 10:34:09] Неизвестный источник (yahoo entertainment): 2026 MLB Season Predictions: Who will wi
+[2026-03-27 10:34:09] Неизвестный источник (wsb atlanta): COVID variant emerges: What you need to 
+[2026-03-27 10:34:09] Старая новость (2026-03-25T10:33:00Z): Bright green fireball captured on video 
+[2026-03-27 10:34:09] Мировые новости: найдено 17 после фильтрации
+[2026-03-27 10:34:11] Обрабатываю: Melania Trump shares the spotlight with a robot at an educat
+[2026-03-27 10:34:11] Попытка 1 для: Melania Trump shares the spotlight with 
+[2026-03-27 10:34:12] Успешно, получено 844 символов
+[2026-03-27 10:34:13] Пауза 60 секунд...
+[2026-03-27 10:35:13] Обрабатываю: Senate locked in staring contest on DHS as insults fly
+[2026-03-27 10:35:13] Попытка 1 для: Senate locked in staring contest on DHS 
+[2026-03-27 10:35:14] Успешно, получено 870 символов
+[2026-03-27 10:35:14] Пауза 60 секунд...
+[2026-03-27 10:36:14] Обрабатываю: White House holds off on CDC pick as search for permanent ch
+[2026-03-27 10:36:14] Попытка 1 для: White House holds off on CDC pick as sea
+[2026-03-27 10:36:15] Успешно, получено 874 символов
+[2026-03-27 10:36:16] Пауза 60 секунд...
+[2026-03-27 10:37:16] Обрабатываю: Trump confirms landmark China visit for May, as war forces p
+[2026-03-27 10:37:16] Попытка 1 для: Trump confirms landmark China visit for 
+[2026-03-27 10:37:17] Успешно, получено 650 символов
+[2026-03-27 10:37:17] === Блок midday завершён ===
