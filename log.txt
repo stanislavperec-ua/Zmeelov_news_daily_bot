@@ -3785,3 +3785,51 @@
 [2026-03-26 20:00:12] Попытка 1 для: Supreme Court says internet service prov
 [2026-03-26 20:00:13] Успешно, получено 783 символов
 [2026-03-26 20:00:14] === Блок ai_evening завершён ===
+[2026-03-27 08:09:15] Загружено 282 уже отправленных новостей
+[2026-03-27 08:09:15] === Запуск блока: ai_morning ===
+[2026-03-27 08:09:16] Неизвестный источник (coingeek): WHO launches initiative for digital heal
+[2026-03-27 08:09:16] Нет фото: Southeast Asia revisits nuclear power pl
+[2026-03-27 08:09:16] Неизвестный источник (c-sharpcorner.com): What is Edge Computing and How is it Rel
+[2026-03-27 08:09:16] Нет фото: Inflation Pulse From AI and Energy Will 
+[2026-03-27 08:09:16] Неизвестный источник (mit.edu): AI system learns to keep warehouse robot
+[2026-03-27 08:09:16] Неизвестный источник (thenewatlantis.com): The Cassandra of 'The Machine'
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Meta is laying off hundreds of staff acr
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Google develops TurboQuant compression t
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Agentic retail dispute resolution startu
+[2026-03-27 08:09:16] Нет фото: Effects of immersive training on motor c
+[2026-03-27 08:09:16] Нет фото: Leveraging weighted embedding and Transf
+[2026-03-27 08:09:16] Нет фото: NEOSTI - a neuromorphic electronic-opto 
+[2026-03-27 08:09:16] Нет фото: An adaptive multi-scale spatio-temporal 
+[2026-03-27 08:09:16] Нет фото: Secure and intelligent SDN-IoV framework
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Krane raises $9M to expand AI-driven con
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Normal Computing raises $50M to tackle t
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Granola raises $125M at $1.5B valuation 
+[2026-03-27 08:09:16] Неизвестный источник (computerweekly.com): MWC 2026: To monetise AI, telcos must se
+[2026-03-27 08:09:16] Неизвестный источник (landezine.com): Landscape Architecture and the Distant L
+[2026-03-27 08:09:16] Неизвестный источник (financial post): Dominican Republic Drives Modernization 
+[2026-03-27 08:09:16] Неизвестный источник (gizmodo.com): Palantir CEO Says Only the Neurodivergen
+[2026-03-27 08:09:16] Неизвестный источник (databricks.com): What is a Cloud-Based Database Managemen
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Legal AI startup Harvey valued at $11B i
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Legal AI startup Harvey valued at $11B i
+[2026-03-27 08:09:16] Неизвестный источник (cnbc): Elon Musk calls for Delaware judge to re
+[2026-03-27 08:09:16] Заблокированный источник (rt): The Gulf after the storm: Why the UAE is
+[2026-03-27 08:09:16] Неизвестный источник (financial post): Musk’s xAI ‘doubling down’ on AI videos 
+[2026-03-27 08:09:16] Нет фото: AT&T and Ericsson flag AI/ML threats to 
+[2026-03-27 08:09:16] Неизвестный источник (siliconangle news): Adversaries log in: Speed and strength o
+[2026-03-27 08:09:16] Нет фото: Melania Trump shares the spotlight with 
+[2026-03-27 08:09:16] Неизвестный источник (ingame.com): PBS Examination Of Sports Betting Provid
+[2026-03-27 08:09:16] Нет фото: Teens get probation after using AI to cr
+[2026-03-27 08:09:16] Неизвестный источник (computerweekly.com): US government launches Bureau of Emergin
+[2026-03-27 08:09:16] AI новости: найдено 4 после фильтрации
+[2026-03-27 08:09:18] Обрабатываю: 10 Japanese Stocks Australian Investors Should Consider in 2
+[2026-03-27 08:09:18] Попытка 1 для: 10 Japanese Stocks Australian Investors 
+[2026-03-27 08:09:19] Успешно, получено 653 символов
+[2026-03-27 08:09:20] Пауза 60 секунд...
+[2026-03-27 08:10:20] Обрабатываю: Why labs need a napping room to help you work, rest and play
+[2026-03-27 08:10:20] Попытка 1 для: Why labs need a napping room to help you
+[2026-03-27 08:10:21] Успешно, получено 842 символов
+[2026-03-27 08:10:21] Пауза 60 секунд...
+[2026-03-27 08:11:21] Обрабатываю: Bay the 'greatest risk and biggest asset' for beachside resi
+[2026-03-27 08:11:21] Попытка 1 для: Bay the 'greatest risk and biggest asset
+[2026-03-27 08:11:22] Успешно, получено 639 символов
+[2026-03-27 08:11:23] === Блок ai_morning завершён ===
