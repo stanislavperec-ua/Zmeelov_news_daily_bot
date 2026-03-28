@@ -4100,3 +4100,37 @@
 [2026-03-28 09:56:47] Попытка 1 для: CIÉ’s new CEO Stephen Kent: We face ‘an 
 [2026-03-28 09:56:48] Успешно, получено 785 символов
 [2026-03-28 09:56:48] === Блок ai_morning завершён ===
+[2026-03-28 11:54:32] Загружено 302 уже отправленных новостей
+[2026-03-28 11:54:32] === Запуск блока: midday ===
+[2026-03-28 11:54:33] Неизвестный источник (billboard): Taylor Swift Takes Home 2026 iHeartRadio
+[2026-03-28 11:54:33] Неизвестный источник (cnbc): Stock futures rise as Trump extends Iran
+[2026-03-28 11:54:33] Неизвестный источник (heat.com): Live Updates: March Madness Sweet 16 | T
+[2026-03-28 11:54:33] Неизвестный источник (the conversation africa): Why hasn’t the US military used force to
+[2026-03-28 11:54:33] Неизвестный источник (cleveland.com): Chase DeLauter homers twice as Guardians
+[2026-03-28 11:54:33] Неизвестный источник (cbs sports): Arizona Diamondbacks vs. Los Angeles Dod
+[2026-03-28 11:54:33] Пропускаю уже отправленную: Trump administration opens investigations into rac
+[2026-03-28 11:54:33] Неизвестный источник (hollywood reporter): How ‘Love Story: John F. Kennedy Jr. & C
+[2026-03-28 11:54:33] Неизвестный источник (9to5google.com): Android 17 Beta 3 starts adding more blu
+[2026-03-28 11:54:33] Неизвестный источник (macrumors): Google Translate Gets Gemini AI for Smar
+[2026-03-28 11:54:33] Неизвестный источник (oregonlive): Multnomah County’s first measles case of
+[2026-03-28 11:54:33] Неизвестный источник (investor's business daily): Meta Stock Slides As Court Losses Bring 
+[2026-03-28 11:54:33] Старая новость (2026-03-26T11:30:20Z): When it comes to aging well, attitude is
+[2026-03-28 11:54:33] Старая новость (2026-03-25T17:44:14Z): After Hopes Of Eradication, The World's 
+[2026-03-28 11:54:33] Старая новость (2026-03-25T17:00:35Z): 5 things you need to know about meningit
+[2026-03-28 11:54:33] Мировые новости: найдено 10 после фильтрации
+[2026-03-28 11:54:35] Обрабатываю: Ukraine signs deal with Saudi Arabia offering drone expertis
+[2026-03-28 11:54:35] Попытка 1 для: Ukraine signs deal with Saudi Arabia off
+[2026-03-28 11:54:36] Успешно, получено 954 символов
+[2026-03-28 11:54:37] Пауза 60 секунд...
+[2026-03-28 11:55:37] Обрабатываю: Senate passes bill to reopen much of DHS after Trump moves t
+[2026-03-28 11:55:37] Попытка 1 для: Senate passes bill to reopen much of DHS
+[2026-03-28 11:55:37] Успешно, получено 841 символов
+[2026-03-28 11:55:38] Пауза 60 секунд...
+[2026-03-28 11:56:38] Обрабатываю: 3 killed in helicopter crash on the Hawaiian island of Kauai
+[2026-03-28 11:56:38] Попытка 1 для: 3 killed in helicopter crash on the Hawa
+[2026-03-28 11:56:39] Успешно, получено 769 символов
+[2026-03-28 11:56:40] Пауза 60 секунд...
+[2026-03-28 11:57:40] Обрабатываю: Trump’s signature to appear on US currency in first for sitt
+[2026-03-28 11:57:40] Попытка 1 для: Trump’s signature to appear on US curren
+[2026-03-28 11:57:41] Успешно, получено 746 символов
+[2026-03-28 11:57:42] === Блок midday завершён ===
