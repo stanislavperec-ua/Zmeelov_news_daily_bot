@@ -4317,3 +4317,41 @@
 [2026-03-29 09:55:49] Попытка 1 для: After the Nation-State
 [2026-03-29 09:55:50] Успешно, получено 402 символов
 [2026-03-29 09:55:50] === Блок ai_morning завершён ===
+[2026-03-29 11:55:23] Загружено 306 уже отправленных новостей
+[2026-03-29 11:55:23] === Запуск блока: midday ===
+[2026-03-29 11:55:24] Неизвестный источник (dailykos.com): ICE's airport agents - dailykos.com
+[2026-03-29 11:55:24] Неизвестный источник (womansworld.com): New Cholesterol Guidelines Are Here: Doc
+[2026-03-29 11:55:24] Неизвестный источник (247sports): Everything Tom Izzo said after Michigan 
+[2026-03-29 11:55:24] Неизвестный источник (yahoo entertainment): March Madness Elite Eight schedule, how 
+[2026-03-29 11:55:24] Неизвестный источник (deadline): Tiger Woods Mugshot Released As DUI Char
+[2026-03-29 11:55:24] Неизвестный источник (investor's business daily): Stocks Dive, Oil Hits $100; What To Do N
+[2026-03-29 11:55:24] Неизвестный источник (cnbc): Epstein victims to get $72.5M from Bank 
+[2026-03-29 11:55:24] Неизвестный источник (entertainment weekly): Joseph Duggar being held in solitary con
+[2026-03-29 11:55:24] Неизвестный источник (macrumors): 5+ Things to Know About the Siri Chatbot
+[2026-03-29 11:55:24] Неизвестный источник (boston.com): What to know about the highly mutated ne
+[2026-03-29 11:55:24] Неизвестный источник (pbs): Pro-Iranian group claims credit for hack
+[2026-03-29 11:55:24] Неизвестный источник (space.com): Can humans have babies in space? It may 
+[2026-03-29 11:55:24] Неизвестный источник (hollywood reporter): ‘Love Story’ Finale: Ryan Murphy Deliver
+[2026-03-29 11:55:24] Неизвестный источник (phonearena): The Galaxy S26 is a lazy product, but it
+[2026-03-29 11:55:24] Неизвестный источник (9to5google.com): Android 17 Beta 3 finally restores the s
+[2026-03-29 11:55:24] Неизвестный источник (the daily galaxy --great discoveries channel): Stunning NASA Images Reveal Saturn’s Hid
+[2026-03-29 11:55:24] Старая новость (2026-03-26T18:00:00Z): 18 million-year-old fossils of ape found
+[2026-03-29 11:55:24] Старая новость (2026-03-26T13:02:08Z): Eating The Same Meals Every Day May Have
+[2026-03-29 11:55:24] Старая новость (2026-03-26T12:52:26Z): ‘Treatable, but not curable’: Mother war
+[2026-03-29 11:55:24] Мировые новости: найдено 10 после фильтрации
+[2026-03-29 11:55:26] Обрабатываю: Rifts over Iran, but unity for Trump: Takeaways from CPAC 20
+[2026-03-29 11:55:26] Попытка 1 для: Rifts over Iran, but unity for Trump: Ta
+[2026-03-29 11:55:27] Успешно, получено 740 символов
+[2026-03-29 11:55:28] Пауза 60 секунд...
+[2026-03-29 11:56:28] Обрабатываю: Stuck in a long TSA line? Here are some strategies if you ne
+[2026-03-29 11:56:28] Попытка 1 для: Stuck in a long TSA line? Here are some 
+[2026-03-29 11:56:29] Успешно, получено 771 символов
+[2026-03-29 11:56:29] Пауза 60 секунд...
+[2026-03-29 11:57:29] Обрабатываю: The nerve centre running a new mission to the Moon
+[2026-03-29 11:57:29] Попытка 1 для: The nerve centre running a new mission t
+[2026-03-29 11:57:30] Успешно, получено 560 символов
+[2026-03-29 11:57:31] Пауза 60 секунд...
+[2026-03-29 11:58:31] Обрабатываю: Pope Leo visits a tiny, wealthy, devoutly Catholic nation in
+[2026-03-29 11:58:31] Попытка 1 для: Pope Leo visits a tiny, wealthy, devoutl
+[2026-03-29 11:58:32] Успешно, получено 780 символов
+[2026-03-29 11:58:32] === Блок midday завершён ===
