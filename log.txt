@@ -4388,3 +4388,28 @@
 [2026-03-29 17:05:25] Попытка 1 для: Nokia trims 20% global workforce; 75,000
 [2026-03-29 17:05:26] Успешно, получено 943 символов
 [2026-03-29 17:05:26] === Блок ai_evening завершён ===
+[2026-03-29 19:48:37] Загружено 312 уже отправленных новостей
+[2026-03-29 19:48:37] === Запуск блока: ai_evening ===
+[2026-03-29 19:48:38] Неизвестный источник (siliconangle news): The agentic AI gap: Vendors sprint, ente
+[2026-03-29 19:48:38] Неизвестный источник (businessline): Stock markets and AI: How to use artific
+[2026-03-29 19:48:38] Неизвестный источник (the next web): Kandou AI raises $225 million to bet tha
+[2026-03-29 19:48:38] Пропускаю уже отправленную: Jeff Bezos Pushes Blue Origin Into Orbital Data Ce
+[2026-03-29 19:48:38] Неизвестный источник (thechronicle.com.gh): Cost of Data Hampering Internet Inclusiv
+[2026-03-29 19:48:38] Неизвестный источник (thechronicle.com.gh): Africa Cannot Afford to Miss the Fourth 
+[2026-03-29 19:48:38] Неизвестный источник (audreywatters.com): You Do Not, in Fact, Have to Hand It to 
+[2026-03-29 19:48:38] Неизвестный источник (techradar): 'A huge amount of network traffic now co
+[2026-03-29 19:48:38] Пропускаю уже отправленную: Nokia trims 20% global workforce; 75,000 employees
+[2026-03-29 19:48:38] Неизвестный источник (antaranews.com): Global Technology Leaders to Convene at 
+[2026-03-29 19:48:38] Неизвестный источник (coindesk): Bitcoin miners are becoming AI companies
+[2026-03-29 19:48:38] Неизвестный источник (siliconangle news): Iran-linked hackers breach personal emai
+[2026-03-29 19:48:38] Нет фото: Neo-Feudalism and Innovation Impact
+[2026-03-29 19:48:38] Нет фото: Metal-dependent and metal-free mechanism
+[2026-03-29 19:48:38] Нет фото: A hybrid machine learning approach for p
+[2026-03-29 19:48:38] Нет фото: An optimized EfficientNetB0 framework wi
+[2026-03-29 19:48:38] Нет фото: RGB-conditioned frequency domain refinem
+[2026-03-29 19:48:38] Нет фото: Scenario based traffic optimization in E
+[2026-03-29 19:48:38] Неизвестный источник (financial post): Quantum firm Xanadu jumps after rollerco
+[2026-03-29 19:48:38] Нет фото: Ontario budget continues to leave studen
+[2026-03-29 19:48:38] AI новости: найдено 0 после фильтрации
+[2026-03-29 19:48:38] ⚠️ Блок *AI вечер* (29.03.2026) — новостей не найдено!
+[2026-03-29 19:48:38] === Блок ai_evening завершён ===
