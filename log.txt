@@ -4355,3 +4355,36 @@
 [2026-03-29 11:58:31] Попытка 1 для: Pope Leo visits a tiny, wealthy, devoutl
 [2026-03-29 11:58:32] Успешно, получено 780 символов
 [2026-03-29 11:58:32] === Блок midday завершён ===
+[2026-03-29 17:04:21] Загружено 310 уже отправленных новостей
+[2026-03-29 17:04:21] === Запуск блока: ai_evening ===
+[2026-03-29 17:04:21] Неизвестный источник (the next web): Kandou AI raises $225 million to bet tha
+[2026-03-29 17:04:21] Неизвестный источник (thechronicle.com.gh): Cost of Data Hampering Internet Inclusiv
+[2026-03-29 17:04:21] Неизвестный источник (thechronicle.com.gh): Africa Cannot Afford to Miss the Fourth 
+[2026-03-29 17:04:21] Неизвестный источник (audreywatters.com): You Do Not, in Fact, Have to Hand It to 
+[2026-03-29 17:04:21] Неизвестный источник (techradar): 'A huge amount of network traffic now co
+[2026-03-29 17:04:21] Неизвестный источник (antaranews.com): Global Technology Leaders to Convene at 
+[2026-03-29 17:04:21] Неизвестный источник (coindesk): Bitcoin miners are becoming AI companies
+[2026-03-29 17:04:21] Неизвестный источник (siliconangle news): Iran-linked hackers breach personal emai
+[2026-03-29 17:04:21] Нет фото: Neo-Feudalism and Innovation Impact
+[2026-03-29 17:04:21] Нет фото: RGB-conditioned frequency domain refinem
+[2026-03-29 17:04:21] Нет фото: An optimized EfficientNetB0 framework wi
+[2026-03-29 17:04:21] Нет фото: A hybrid machine learning approach for p
+[2026-03-29 17:04:21] Нет фото: Metal-dependent and metal-free mechanism
+[2026-03-29 17:04:21] Нет фото: Scenario based traffic optimization in E
+[2026-03-29 17:04:21] Неизвестный источник (financial post): Quantum firm Xanadu jumps after rollerco
+[2026-03-29 17:04:21] Нет фото: Ontario budget continues to leave studen
+[2026-03-29 17:04:21] Неизвестный источник (cleantechnica): 28 New Fast EV Charging Stalls Launched 
+[2026-03-29 17:04:21] Пропускаю уже отправленную: After the Nation-State
+[2026-03-29 17:04:21] Нет фото: Microsoft takes over a Texas AI data cen
+[2026-03-29 17:04:21] Неизвестный источник (ieee.org): IEEE Professional Development Suite Teac
+[2026-03-29 17:04:21] Неизвестный источник (financial post): Tech Entrepreneur Yanik Guillemette Publ
+[2026-03-29 17:04:21] Неизвестный источник (motley fool australia): 3 high-quality Australian stocks I would
+[2026-03-29 17:04:21] AI новости: найдено 2 после фильтрации
+[2026-03-29 17:04:23] Обрабатываю: Jeff Bezos Pushes Blue Origin Into Orbital Data Centers With
+[2026-03-29 17:04:23] Попытка 1 для: Jeff Bezos Pushes Blue Origin Into Orbit
+[2026-03-29 17:04:24] Успешно, получено 838 символов
+[2026-03-29 17:04:25] Пауза 60 секунд...
+[2026-03-29 17:05:25] Обрабатываю: Nokia trims 20% global workforce; 75,000 employees impacted:
+[2026-03-29 17:05:25] Попытка 1 для: Nokia trims 20% global workforce; 75,000
+[2026-03-29 17:05:26] Успешно, получено 943 символов
+[2026-03-29 17:05:26] === Блок ai_evening завершён ===
