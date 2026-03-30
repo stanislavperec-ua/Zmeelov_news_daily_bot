@@ -4553,3 +4553,32 @@
 [2026-03-30 14:58:22] Попытка 1 для: Stunning Traditional Tempera Paintings B
 [2026-03-30 14:58:23] Успешно, получено 810 символов
 [2026-03-30 14:58:24] === Блок evening завершён ===
+[2026-03-30 19:36:04] Загружено 325 уже отправленных новостей
+[2026-03-30 19:36:04] === Запуск блока: ai_evening ===
+[2026-03-30 19:36:04] Неизвестный источник (financial post): JPMorgan, Pimco Say Bond Market Is Under
+[2026-03-30 19:36:04] Нет фото: aait 3.3.9
+[2026-03-30 19:36:04] Неизвестный источник (mma mania): Dana White tells anti-AI UFC fans to ‘sh
+[2026-03-30 19:36:04] Неизвестный источник (fortune): ‘There are a lot more attacks happening 
+[2026-03-30 19:36:04] Неизвестный источник (reason): Former Fox Anchor Andrea Tantaros's Cour
+[2026-03-30 19:36:04] Неизвестный источник (financial post): These Private Capital Funds Are Defying 
+[2026-03-30 19:36:04] Неизвестный источник (coindesk): Bittensor ecosystem tokens' value hit $1
+[2026-03-30 19:36:04] Неизвестный источник (elearningindustry.com): Why An LMS Alone Is Not Enough: The Need
+[2026-03-30 19:36:04] Неизвестный источник (researchbuzz.me): AuraFonts, Twitter, Sherman Austin, More
+[2026-03-30 19:36:04] Неизвестный источник (new york post): A new wave of AI schools is balancing li
+[2026-03-30 19:36:04] Неизвестный источник (pypi.org): nepal-gov-agent 0.1.0
+[2026-03-30 19:36:04] Неизвестный источник (post magazine): Lisa Kudrow’s The Comeback tackles the u
+[2026-03-30 19:36:04] Неизвестный источник (soyacincau.com): Luno Malaysia now supports 51 crypto ass
+[2026-03-30 19:36:04] Неизвестный источник (business insider): Iran's drone war is exposing deep cracks
+[2026-03-30 19:36:04] Неизвестный источник (thejournal.ie): Relationship hacking: The internet's lat
+[2026-03-30 19:36:04] Неизвестный источник (abcnews.com): Hacked hospitals, hidden spyware: Iran c
+[2026-03-30 19:36:04] Неизвестный источник (wolfram.com): design for an agentic AI
+[2026-03-30 19:36:04] Нет фото: What to expect from SAS Innovate 2026
+[2026-03-30 19:36:04] Нет фото: Hacked hospitals, hidden spyware: Iran c
+[2026-03-30 19:36:04] Нет фото: Diamond-DETR: lightweight real-time qual
+[2026-03-30 19:36:04] Неизвестный источник (bleeding cool news): Batman/Superman: World's Finest #50 Prev
+[2026-03-30 19:36:04] Неизвестный источник (researchbuzz.me): 1980s Greenwich Village Halloween, Masto
+[2026-03-30 19:36:04] AI новости: найдено 1 после фильтрации
+[2026-03-30 19:36:06] Обрабатываю: Stroke triggers a hidden brain change that looks like rejuve
+[2026-03-30 19:36:06] Попытка 1 для: Stroke triggers a hidden brain change th
+[2026-03-30 19:36:08] Успешно, получено 733 символов
+[2026-03-30 19:36:08] === Блок ai_evening завершён ===
