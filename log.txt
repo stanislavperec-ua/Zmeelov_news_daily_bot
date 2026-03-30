@@ -4413,3 +4413,46 @@
 [2026-03-29 19:48:38] AI новости: найдено 0 после фильтрации
 [2026-03-29 19:48:38] ⚠️ Блок *AI вечер* (29.03.2026) — новостей не найдено!
 [2026-03-29 19:48:38] === Блок ai_evening завершён ===
+[2026-03-30 10:44:02] Загружено 312 уже отправленных новостей
+[2026-03-30 10:44:02] === Запуск блока: midday ===
+[2026-03-30 10:44:03] Неизвестный источник (tmz): 'RHOA's Kim Zolciak to Be Grilled by BF’
+[2026-03-30 10:44:03] Неизвестный источник (espn): DeLauter hits 4th home run in 3rd career
+[2026-03-30 10:44:03] Неизвестный источник (nintendo life): Avatar Legends: The Fighting Game Hits S
+[2026-03-30 10:44:03] Неизвестный источник (kabc-tv): 'No Kings' protests 2026: Chaotic scene 
+[2026-03-30 10:44:03] Неизвестный источник (dw (english)): Missing Cuba-bound aid boats arrive safe
+[2026-03-30 10:44:03] Неизвестный источник (seeking alpha): Oil industry executives paint grim pictu
+[2026-03-30 10:44:03] Неизвестный источник (business insider): What Smart People Are Saying About the M
+[2026-03-30 10:44:03] Неизвестный источник (understandingwar.org): Iran Update Special Report, March 28, 20
+[2026-03-30 10:44:03] Неизвестный источник (247sports): Everything Ben McCollum, Bennett Stirtz,
+[2026-03-30 10:44:03] Неизвестный источник (dw (english)): Nestle says thieves stole 12 tons of Kit
+[2026-03-30 10:44:03] Неизвестный источник (yourtango): 5 Zodiac Signs Have Powerful Horoscopes 
+[2026-03-30 10:44:03] Неизвестный источник (entertainment weekly): Kim Novak says Sydney Sweeney is 'totall
+[2026-03-30 10:44:03] Неизвестный источник (france 24 english): Yemen’s Houthis launch ballistic missile
+[2026-03-30 10:44:03] Неизвестный источник (pbs): Iranian attack on Saudi base injures U.S
+[2026-03-30 10:44:03] Неизвестный источник (seeking alpha): SA Asks: What's the best data center inf
+[2026-03-30 10:44:03] Неизвестный источник (hollywood reporter): Box Office: ‘Project Hail Mary’ Enjoys E
+[2026-03-30 10:44:03] Неизвестный источник (forbes): Iran Allows 20 More Ships To Pass Throug
+[2026-03-30 10:44:03] Неизвестный источник (eurogamer.net): Former Valve writer hits out at Epic Gam
+[2026-03-30 10:44:03] Неизвестный источник (forbes): Hours Of Delays At Some Major Airports D
+[2026-03-30 10:44:03] Неизвестный источник (pbs): What we know about the new 'cicada' COVI
+[2026-03-30 10:44:03] Неизвестный источник (tctmd): CHAMPION-AF: A Win for Watchman FLX, but
+[2026-03-30 10:44:03] Неизвестный источник (komo news): PlayStation prices surge worldwide amid 
+[2026-03-30 10:44:03] Старая новость (2026-03-28T00:38:28Z): New Cholesterol Guidelines Are Here: Doc
+[2026-03-30 10:44:03] Старая новость (2026-03-27T13:23:25Z): The Pokémon TCG: Mega Evolution—Perfect 
+[2026-03-30 10:44:03] Мировые новости: найдено 9 после фильтрации
+[2026-03-30 10:44:05] Обрабатываю: Looking to limit birthright citizenship, Trump turns to an 1
+[2026-03-30 10:44:05] Попытка 1 для: Looking to limit birthright citizenship,
+[2026-03-30 10:44:06] Успешно, получено 1153 символов
+[2026-03-30 10:44:07] Пауза 60 секунд...
+[2026-03-30 10:45:07] Обрабатываю: Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night 
+[2026-03-30 10:45:07] Попытка 1 для: Israel Adesanya knocked out by Joe Pyfer
+[2026-03-30 10:45:08] Успешно, получено 525 символов
+[2026-03-30 10:45:08] Пауза 60 секунд...
+[2026-03-30 10:46:08] Обрабатываю: Pentagon prepares for weeks of ground operations in Iran
+[2026-03-30 10:46:08] Попытка 1 для: Pentagon prepares for weeks of ground op
+[2026-03-30 10:46:09] Успешно, получено 606 символов
+[2026-03-30 10:46:09] Пауза 60 секунд...
+[2026-03-30 10:47:09] Обрабатываю: Bills to pay FAA and TSA workers during shutdowns get introd
+[2026-03-30 10:47:09] Попытка 1 для: Bills to pay FAA and TSA workers during 
+[2026-03-30 10:47:11] Успешно, получено 1022 символов
+[2026-03-30 10:47:11] === Блок midday завершён ===
