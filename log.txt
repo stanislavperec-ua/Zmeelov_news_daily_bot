@@ -4456,3 +4456,43 @@
 [2026-03-30 10:47:09] Попытка 1 для: Bills to pay FAA and TSA workers during 
 [2026-03-30 10:47:11] Успешно, получено 1022 символов
 [2026-03-30 10:47:11] === Блок midday завершён ===
+[2026-03-30 11:37:19] Загружено 316 уже отправленных новостей
+[2026-03-30 11:37:19] === Запуск блока: midday ===
+[2026-03-30 11:37:19] Заблокированный источник (motorsport.com): Winners and losers from F1's fraught Jap
+[2026-03-30 11:37:19] Неизвестный источник (tmz): 'RHOA's Kim Zolciak to Be Grilled by BF’
+[2026-03-30 11:37:19] Пропускаю уже отправленную: Looking to limit birthright citizenship, Trump tur
+[2026-03-30 11:37:19] Неизвестный источник (kabc-tv): Orange County couple with dual cancer ba
+[2026-03-30 11:37:19] Пропускаю уже отправленную: Israel Adesanya knocked out by Joe Pyfer at UFC Fi
+[2026-03-30 11:37:19] Неизвестный источник (nintendo life): Avatar Legends: The Fighting Game Hits S
+[2026-03-30 11:37:19] Неизвестный источник (seeking alpha): Oil industry executives paint grim pictu
+[2026-03-30 11:37:19] Неизвестный источник (business insider): What Smart People Are Saying About the M
+[2026-03-30 11:37:19] Неизвестный источник (yahoo entertainment): Jeff Bezos Says 'I Would Love To See A T
+[2026-03-30 11:37:19] Неизвестный источник (247sports): Quick hits: Illini advance to Final Four
+[2026-03-30 11:37:19] Неизвестный источник (yourtango): 5 Zodiac Signs Have Powerful Horoscopes 
+[2026-03-30 11:37:19] Неизвестный источник (france 24 english): Yemen’s Houthis launch ballistic missile
+[2026-03-30 11:37:19] Неизвестный источник (seeking alpha): SA Asks: What's the best data center inf
+[2026-03-30 11:37:19] Неизвестный источник (hollywood reporter): Box Office: ‘Project Hail Mary’ Enjoys E
+[2026-03-30 11:37:19] Неизвестный источник (eurogamer.net): Former Valve writer hits out at Epic Gam
+[2026-03-30 11:37:19] Неизвестный источник (the jerusalem post): IDF says up to 90% of Iran’s weapons ind
+[2026-03-30 11:37:19] Неизвестный источник (pbs): What we know about the new 'cicada' COVI
+[2026-03-30 11:37:19] Неизвестный источник (tctmd): CHAMPION-AF: A Win for Watchman FLX, but
+[2026-03-30 11:37:19] Неизвестный источник (komo news): PlayStation prices surge worldwide amid 
+[2026-03-30 11:37:19] Старая новость (2026-03-28T11:00:00Z): Science news this week: NASA announces n
+[2026-03-30 11:37:19] Старая новость (2026-03-27T14:09:33Z): Arnold Schwarzenegger’s Son Is Making Hi
+[2026-03-30 11:37:19] Мировые новости: найдено 6 после фильтрации
+[2026-03-30 11:37:21] Обрабатываю: Chevron Says Damage to Wheatstone Gas Facility to Affect Res
+[2026-03-30 11:37:21] Попытка 1 для: Chevron Says Damage to Wheatstone Gas Fa
+[2026-03-30 11:37:22] Успешно, получено 604 символов
+[2026-03-30 11:37:23] Пауза 60 секунд...
+[2026-03-30 11:38:23] Обрабатываю: Live updates: Iran ‘waiting’ for ground invasion, as US move
+[2026-03-30 11:38:23] Попытка 1 для: Live updates: Iran ‘waiting’ for ground 
+[2026-03-30 11:38:24] Успешно, получено 815 символов
+[2026-03-30 11:38:24] Пауза 60 секунд...
+[2026-03-30 11:39:24] Обрабатываю: A month into Iran, the GOP’s political reality sinks in
+[2026-03-30 11:39:24] Попытка 1 для: A month into Iran, the GOP’s political r
+[2026-03-30 11:39:25] Успешно, получено 596 символов
+[2026-03-30 11:39:25] Пауза 60 секунд...
+[2026-03-30 11:40:25] Обрабатываю: North Korea conducts engine test for missile capable of targ
+[2026-03-30 11:40:25] Попытка 1 для: North Korea conducts engine test for mis
+[2026-03-30 11:40:26] Успешно, получено 579 символов
+[2026-03-30 11:40:26] === Блок midday завершён ===
