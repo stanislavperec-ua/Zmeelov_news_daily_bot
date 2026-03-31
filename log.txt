@@ -4610,3 +4610,51 @@
 [2026-03-30 20:04:57] AI новости: найдено 0 после фильтрации
 [2026-03-30 20:04:57] ⚠️ Блок *AI вечер* (30.03.2026) — новостей не найдено!
 [2026-03-30 20:04:58] === Блок ai_evening завершён ===
+[2026-03-31 09:45:58] Загружено 326 уже отправленных новостей
+[2026-03-31 09:45:58] === Запуск блока: ai_morning ===
+[2026-03-31 09:45:58] Неизвестный источник (financial post): Morgan Stanley’s Wilson Says S&P 500 Cor
+[2026-03-31 09:45:58] Нет фото: Van Lang Global School aims to bridge Vi
+[2026-03-31 09:45:58] Неизвестный источник (civil eats): How a Tiny Farm County Fought a Data Cen
+[2026-03-31 09:45:58] Неизвестный источник (landezine.com): Stephen Buckle: Bold Break from the Mund
+[2026-03-31 09:45:58] Неизвестный источник (antaranews.com): Art Central Commences Discovery-Led Elev
+[2026-03-31 09:45:58] Неизвестный источник (antaranews.com): Digital infrastructure powers Xiong'an, 
+[2026-03-31 09:45:58] Неизвестный источник (hurriyet daily news): Istanbul launches Türkiye’s first 5G-pow
+[2026-03-31 09:45:58] Неизвестный источник (cna): One man, his dog, and ChatGPT: Australia
+[2026-03-31 09:45:58] Неизвестный источник (c-sharpcorner.com): What is Small Language Model Fine-Tuning
+[2026-03-31 09:45:58] Неизвестный источник (antaranews.com): UnionPay's Voice at Boao: Exploring Dive
+[2026-03-31 09:45:58] Неизвестный источник (bleeding cool news): Captain Marvel: Dark Past #1 Preview: DN
+[2026-03-31 09:45:58] Неизвестный источник (wwd): EXCLUSIVE: Chanel’s Le19M Heads to Shang
+[2026-03-31 09:45:58] Неизвестный источник (antaranews.com): Hong Kong's Largest Standalone Intellige
+[2026-03-31 09:45:58] Неизвестный источник (financial post): Won Fall May Prompt Action, Korea’s $1 T
+[2026-03-31 09:45:58] Неизвестный источник (pymnts.com): AI Takes On the Spam Call Epidemic
+[2026-03-31 09:45:58] Неизвестный источник (marca): Dana White takes aim at UFC fans who are
+[2026-03-31 09:45:58] Нет фото: AI-guided multi-omics analysis identifie
+[2026-03-31 09:45:58] Нет фото: Deep homology and design of proteasome c
+[2026-03-31 09:45:58] Неизвестный источник (siliconangle news): Scaling industrial AI is more a human th
+[2026-03-31 09:45:58] Нет фото: aait 3.3.10
+[2026-03-31 09:45:58] Неизвестный источник (bleeding cool news): Logan: Black White and Blood #4 Preview:
+[2026-03-31 09:45:58] Неизвестный источник (financial post): JPMorgan, Pimco Say Bond Market Is Under
+[2026-03-31 09:45:58] Нет фото: aait 3.3.9
+[2026-03-31 09:45:58] Неизвестный источник (mma mania): Dana White tells anti-AI UFC fans to ‘sh
+[2026-03-31 09:45:58] Неизвестный источник (fortune): ‘There are a lot more attacks happening 
+[2026-03-31 09:45:58] Неизвестный источник (reason): Former Fox Anchor Andrea Tantaros's Cour
+[2026-03-31 09:45:58] Неизвестный источник (financial post): These Private Capital Funds Are Defying 
+[2026-03-31 09:45:58] Неизвестный источник (coindesk): Bittensor ecosystem tokens' value hit $1
+[2026-03-31 09:45:58] Неизвестный источник (elearningindustry.com): Why An LMS Alone Is Not Enough: The Need
+[2026-03-31 09:45:58] Неизвестный источник (researchbuzz.me): AuraFonts, Twitter, Sherman Austin, More
+[2026-03-31 09:45:58] Неизвестный источник (new york post): A new wave of AI schools is balancing li
+[2026-03-31 09:45:58] Неизвестный источник (pypi.org): nepal-gov-agent 0.1.0
+[2026-03-31 09:45:58] Неизвестный источник (post magazine): Lisa Kudrow’s The Comeback tackles the u
+[2026-03-31 09:45:58] AI новости: найдено 4 после фильтрации
+[2026-03-31 09:46:01] Обрабатываю: Meet Attie: Bluesky's AI assistant can customise your social
+[2026-03-31 09:46:01] Попытка 1 для: Meet Attie: Bluesky's AI assistant can c
+[2026-03-31 09:46:03] Успешно, получено 916 символов
+[2026-03-31 09:46:03] Пауза 60 секунд...
+[2026-03-31 09:47:03] Обрабатываю: Superspreading and ultra-infiltrative coacervate mediates st
+[2026-03-31 09:47:03] Попытка 1 для: Superspreading and ultra-infiltrative co
+[2026-03-31 09:47:04] Успешно, получено 766 символов
+[2026-03-31 09:47:05] Пауза 60 секунд...
+[2026-03-31 09:48:05] Обрабатываю: Global, regional and national burden of ischemic heart disea
+[2026-03-31 09:48:05] Попытка 1 для: Global, regional and national burden of 
+[2026-03-31 09:48:07] Успешно, получено 995 символов
+[2026-03-31 09:48:08] === Блок ai_morning завершён ===
