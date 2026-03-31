@@ -4744,3 +4744,53 @@
 [2026-03-31 14:53:48] Попытка 1 для: Bali Police name 7 foreign nationals as 
 [2026-03-31 14:53:49] Успешно, получено 744 символов
 [2026-03-31 14:53:50] === Блок evening завершён ===
+[2026-03-31 19:35:26] Загружено 338 уже отправленных новостей
+[2026-03-31 19:35:26] === Запуск блока: ai_evening ===
+[2026-03-31 19:35:26] Неизвестный источник (globenewswire): TierPoint Initiates Search for Next CEO
+[2026-03-31 19:35:26] Неизвестный источник (siliconangle news): Bringing the cyber community into the ba
+[2026-03-31 19:35:26] Нет фото: Office of His Highness Sheikh Hamdan Bin
+[2026-03-31 19:35:26] Неизвестный источник (financial post): 55% of U.S. says AI likely to harm them,
+[2026-03-31 19:35:26] Неизвестный источник (commercial observer): Digital Realty Closes $3.25B Data Center
+[2026-03-31 19:35:26] Неизвестный источник (internet): OpenAI Patches ChatGPT Data Exfiltration
+[2026-03-31 19:35:26] Неизвестный источник (ieee.org): Invences Empowers Small Businesses With 
+[2026-03-31 19:35:26] Неизвестный источник (theregister.com): Telnyx joins LiteLLM in latest PyPI pack
+[2026-03-31 19:35:26] Нет фото: aait 3.3.13
+[2026-03-31 19:35:26] Неизвестный источник (amazon.com): Accelerate CPU-based AI inference worklo
+[2026-03-31 19:35:26] Неизвестный источник (hackread): 24/7 Payments for 24/7 Agents: The Case 
+[2026-03-31 19:35:26] Неизвестный источник (bleeding cool news): Batman Gets A Comic For Free Comic Book 
+[2026-03-31 19:35:26] Неизвестный источник (financial post): Meta faces US$310 billion market value d
+[2026-03-31 19:35:26] Неизвестный источник (the conversation africa): Water flow in prairie watersheds is incr
+[2026-03-31 19:35:26] Неизвестный источник (financial post): Big Tech stocks rout is flashing signals
+[2026-03-31 19:35:26] Неизвестный источник (protothema.gr): Hellenic Armed Forces: The weapons & sys
+[2026-03-31 19:35:26] Неизвестный источник (pymnts.com): Plaid CFO Says IPO Can Wait as Revenues 
+[2026-03-31 19:35:26] Неизвестный источник (coindesk): Bitcoin hashrate posts first-quarter dro
+[2026-03-31 19:35:26] Неизвестный источник (siliconangle news): Sycamore raises $65M from Silicon Valley
+[2026-03-31 19:35:26] Неизвестный источник (financial post): US Stocks Edge Up After Longest Losing S
+[2026-03-31 19:35:26] Неизвестный источник (globenewswire): Researchers Identify the Most Common Rec
+[2026-03-31 19:35:26] Неизвестный источник (plos.org): Multidimensional factors influencing con
+[2026-03-31 19:35:26] Неизвестный источник (plos.org): Vibration-based bearing fault diagnosis 
+[2026-03-31 19:35:26] Неизвестный источник (plos.org): From reductionism to complex systems: Pa
+[2026-03-31 19:35:26] Неизвестный источник (digital journal): AI agent future is coming, OpenClaw crea
+[2026-03-31 19:35:26] Неизвестный источник (haaretz): Underground lies a hidden world we're on
+[2026-03-31 19:35:26] Неизвестный источник (macdailynews.com): Apple shifts AI strategy toward App Stor
+[2026-03-31 19:35:26] Нет фото: Wheels Honored with Two AI Excellence Aw
+[2026-03-31 19:35:26] Неизвестный источник (siliconangle news): Microsoft accelerates agentic automation
+[2026-03-31 19:35:26] Неизвестный источник (siliconangle news): Rebellions lands $400M in funding to lea
+[2026-03-31 19:35:26] Неизвестный источник (the conversation africa): We analyzed Philly street scenes and ide
+[2026-03-31 19:35:26] Неизвестный источник (globenewswire): JFB Announces XTEND Becomes First U.S. C
+[2026-03-31 19:35:26] Нет фото: Susan Pirzchalski Appointed Head of Robo
+[2026-03-31 19:35:26] Нет фото: NowVertical Signs $3.8 Million 2026 Expa
+[2026-03-31 19:35:26] Неизвестный источник (siliconangle news): Huskeys launches with $8M to modernize W
+[2026-03-31 19:35:26] AI новости: найдено 4 после фильтрации
+[2026-03-31 19:35:29] Обрабатываю: Insiders profit as pressure points build on global economy
+[2026-03-31 19:35:29] Попытка 1 для: Insiders profit as pressure points build
+[2026-03-31 19:35:30] Успешно, получено 766 символов
+[2026-03-31 19:35:30] Пауза 60 секунд...
+[2026-03-31 19:36:30] Обрабатываю: US pressures Brussels to join AI chips club
+[2026-03-31 19:36:30] Попытка 1 для: US pressures Brussels to join AI chips c
+[2026-03-31 19:36:31] Успешно, получено 747 символов
+[2026-03-31 19:36:32] Пауза 60 секунд...
+[2026-03-31 19:37:32] Обрабатываю: AI agent future is coming: OpenClaw creator
+[2026-03-31 19:37:32] Попытка 1 для: AI agent future is coming: OpenClaw crea
+[2026-03-31 19:37:33] Успешно, получено 916 символов
+[2026-03-31 19:37:33] === Блок ai_evening завершён ===
