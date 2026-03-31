@@ -4694,3 +4694,53 @@
 [2026-03-31 11:15:58] Попытка 1 для: Israeli police block Catholic figures fr
 [2026-03-31 11:16:00] Успешно, получено 776 символов
 [2026-03-31 11:16:00] === Блок midday завершён ===
+[2026-03-31 14:49:33] Загружено 333 уже отправленных новостей
+[2026-03-31 14:49:33] === Запуск блока: evening ===
+[2026-03-31 14:49:34] Неизвестный источник (fox news): Trump floats siege on Iran stronghold as
+[2026-03-31 14:49:34] Неизвестный источник (nbcsports.com): NFL Referees Association accuses NFL of 
+[2026-03-31 14:49:34] Неизвестный источник (deadline): ‘Tomb Raider’ Star Sophie Turner Injured
+[2026-03-31 14:49:34] Неизвестный источник (hollywood reporter): Joni Mitchell Calls Canadian Leader Mark
+[2026-03-31 14:49:34] Неизвестный источник (oregonlive): A formerly low-profile COVID variant is 
+[2026-03-31 14:49:34] Заблокированный источник (sciencealert): Cheap Daily Supplement Appears to Boost 
+[2026-03-31 14:49:34] Неизвестный источник (fortune): Dow futures fall 300 points as Wall Stre
+[2026-03-31 14:49:34] Неизвестный источник (space.com): 'We are ready': NASA still on track to l
+[2026-03-31 14:49:34] Неизвестный источник (ksby san luis obispo news): SpaceX plans early morning rocket launch
+[2026-03-31 14:49:34] Неизвестный источник (macrumors): Apple's 50th Anniversary Finale Revealed
+[2026-03-31 14:49:34] Старая новость (2026-03-29T13:01:00Z): Protesters turn out for local 'No Kings'
+[2026-03-31 14:49:34] Старая новость (2026-03-28T18:23:42Z): PUBG Spin-Off Barely Survived Two Months
+[2026-03-31 14:49:34] Старая новость (2026-03-28T16:15:10Z): 6 Android 17 features in development I c
+[2026-03-31 14:49:34] Старая новость (2026-03-28T14:30:00Z): Mechanical Circulatory Support Doesn’t R
+[2026-03-31 14:49:34] Мировые новости: найдено 13 после фильтрации
+[2026-03-31 14:49:34] Заблокированный источник (breitbart news): Starmer on Iran: 'Not Our War and We're 
+[2026-03-31 14:49:34] Заблокированный источник (thegatewaypundit.com): WATCH: Australian Skies Turn Fiery Red a
+[2026-03-31 14:49:34] Нет фото: Why Ukraine Wants So Badly To Be Indepen
+[2026-03-31 14:49:34] Нет фото: BiomX Adds Former Mossad Deputy to Advis
+[2026-03-31 14:49:34] Украинские новости: найдено 4 после фильтрации
+[2026-03-31 14:49:34] Заблокированный источник (sputnikglobe.com): Russian Forces Take Control of Novoosino
+[2026-03-31 14:49:34] Нет фото: Russian Armed Forces Liberate Kovsharovk
+[2026-03-31 14:49:34] Нет фото: Key Russian Oil Terminal Hit Again By Dr
+[2026-03-31 14:49:34] Заблокированный источник (sputnikglobe.com): Russian Air Defenses Shoot Down 102 Ukra
+[2026-03-31 14:49:34] Харьков: новостей не найдено
+[2026-03-31 14:49:37] Обрабатываю: Fighter jets scrambled, flares deployed after plane spotted 
+[2026-03-31 14:49:37] Попытка 1 для: Fighter jets scrambled, flares deployed 
+[2026-03-31 14:49:38] Успешно, получено 761 символов
+[2026-03-31 14:49:39] Пауза 60 секунд...
+[2026-03-31 14:50:39] Обрабатываю: Trump says he has "no problem" with Russian tanker bringing 
+[2026-03-31 14:50:39] Попытка 1 для: Trump says he has "no problem" with Russ
+[2026-03-31 14:50:40] Успешно, получено 887 символов
+[2026-03-31 14:50:40] Пауза 60 секунд...
+[2026-03-31 14:51:40] Обрабатываю: How a SCOTUS decision on birthright citizenship could impact
+[2026-03-31 14:51:40] Попытка 1 для: How a SCOTUS decision on birthright citi
+[2026-03-31 14:51:41] Успешно, получено 674 символов
+[2026-03-31 14:51:42] Пауза 60 секунд...
+[2026-03-31 14:52:42] Обрабатываю: Poll: MAHA wants more. They may turn to Democrats to get it.
+[2026-03-31 14:52:42] Попытка 1 для: Poll: MAHA wants more. They may turn to 
+[2026-03-31 14:52:43] Успешно, получено 749 символов
+[2026-03-31 14:52:46] Обрабатываю: Finnish police say stray Ukrainian drone carried warhead
+[2026-03-31 14:52:46] Попытка 1 для: Finnish police say stray Ukrainian drone
+[2026-03-31 14:52:47] Успешно, получено 908 символов
+[2026-03-31 14:52:48] Пауза 60 секунд...
+[2026-03-31 14:53:48] Обрабатываю: Bali Police name 7 foreign nationals as suspects in Ukrainia
+[2026-03-31 14:53:48] Попытка 1 для: Bali Police name 7 foreign nationals as 
+[2026-03-31 14:53:49] Успешно, получено 744 символов
+[2026-03-31 14:53:50] === Блок evening завершён ===
