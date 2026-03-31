@@ -4658,3 +4658,39 @@
 [2026-03-31 09:48:05] Попытка 1 для: Global, regional and national burden of 
 [2026-03-31 09:48:07] Успешно, получено 995 символов
 [2026-03-31 09:48:08] === Блок ai_morning завершён ===
+[2026-03-31 11:12:51] Загружено 329 уже отправленных новостей
+[2026-03-31 11:12:51] === Запуск блока: midday ===
+[2026-03-31 11:12:51] Неизвестный источник (cnbc): Stock futures inch higher ahead of a hol
+[2026-03-31 11:12:51] Неизвестный источник (mma fighting): Maycee Barber releases first statement a
+[2026-03-31 11:12:51] Неизвестный источник (tmz): Britney Spears Hangs With Sons On a Yach
+[2026-03-31 11:12:51] Неизвестный источник (oregonlive): A formerly low-profile COVID variant is 
+[2026-03-31 11:12:51] Неизвестный источник (variety): Alex Duong, Stand-Up Comedian and ‘Blue 
+[2026-03-31 11:12:51] Заблокированный источник (sciencealert): Cheap Daily Supplement Appears to Boost 
+[2026-03-31 11:12:51] Неизвестный источник (fortune): Dow futures fall 300 points as Wall Stre
+[2026-03-31 11:12:51] Неизвестный источник (space.com): 'We are ready': NASA still on track to l
+[2026-03-31 11:12:51] Неизвестный источник (gizmodo.com): Bluesky Has a New App, and It’s All Abou
+[2026-03-31 11:12:51] Неизвестный источник (ksby san luis obispo news): SpaceX plans early morning rocket launch
+[2026-03-31 11:12:51] Неизвестный источник (macrumors): Apple's 50th Anniversary Finale Revealed
+[2026-03-31 11:12:51] Неизвестный источник (wyff4 greenville): Protesters turn out for local 'No Kings'
+[2026-03-31 11:12:51] Старая новость (2026-03-29T08:47:48Z): Xbox gets over 20 new games next week - 
+[2026-03-31 11:12:51] Старая новость (2026-03-29T07:13:29Z): Houthi attacks on Israel open new front 
+[2026-03-31 11:12:51] Старая новость (2026-03-28T14:30:00Z): Mechanical Circulatory Support Doesn’t R
+[2026-03-31 11:12:51] Старая новость (2026-03-28T10:33:51Z): Samsung’s 2nm GAA efficiency disappoints
+[2026-03-31 11:12:51] Мировые новости: найдено 15 после фильтрации
+[2026-03-31 11:12:53] Обрабатываю: US Plans to Allow Russian Oil Tanker Into Cuba, Easing Crisi
+[2026-03-31 11:12:53] Попытка 1 для: US Plans to Allow Russian Oil Tanker Int
+[2026-03-31 11:12:54] Успешно, получено 790 символов
+[2026-03-31 11:12:55] Фото не отправилось: 400
+[2026-03-31 11:12:55] Пауза 60 секунд...
+[2026-03-31 11:13:55] Обрабатываю: As birthright citizenship goes to Supreme Court, here's how 
+[2026-03-31 11:13:55] Попытка 1 для: As birthright citizenship goes to Suprem
+[2026-03-31 11:13:57] Успешно, получено 846 символов
+[2026-03-31 11:13:57] Пауза 60 секунд...
+[2026-03-31 11:14:57] Обрабатываю: Poll: MAHA wants more. They may turn to Democrats to get it.
+[2026-03-31 11:14:57] Попытка 1 для: Poll: MAHA wants more. They may turn to 
+[2026-03-31 11:14:58] Успешно, получено 656 символов
+[2026-03-31 11:14:58] Пауза 60 секунд...
+[2026-03-31 11:15:58] Обрабатываю: Israeli police block Catholic figures from Palm Sunday Mass 
+[2026-03-31 11:15:58] Попытка 1 для: Israeli police block Catholic figures fr
+[2026-03-31 11:16:00] Успешно, получено 776 символов
+[2026-03-31 11:16:00] === Блок midday завершён ===
