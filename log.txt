@@ -5170,3 +5170,55 @@
 [2026-04-01 16:04:02] Попытка 1 для: Stock Market Today: Oil Pauses, Dow Futu
 [2026-04-01 16:04:03] Успешно, получено 852 символов
 [2026-04-01 16:04:04] === Блок evening завершён ===
+[2026-04-01 18:00:56] Загружено 364 уже отправленных новостей
+[2026-04-01 18:00:56] === Запуск блока: ai_evening ===
+[2026-04-01 18:00:56] Неизвестный источник (globenewswire): Schellman CEO Avani Desai Named to 2026 
+[2026-04-01 18:00:56] Нет фото: laiser 0.4.3
+[2026-04-01 18:00:56] Нет фото: laiser 0.4.2
+[2026-04-01 18:00:56] Нет фото: INOVAIT and DIGITAL Unite to Strengthen 
+[2026-04-01 18:00:56] Неизвестный источник (github.com): Show HN: Solitaire – identity layer for 
+[2026-04-01 18:00:56] Неизвестный источник (pymnts.com): Global Payments Are Fast. Why Is Data Sl
+[2026-04-01 18:00:56] Неизвестный источник (pymnts.com): Cross River Bank Raises $50 Million to E
+[2026-04-01 18:00:56] Неизвестный источник (colossus.com): Project Mario: the inside story of DeepM
+[2026-04-01 18:00:56] Нет фото: NGen Announces $79.5 Million in New AI P
+[2026-04-01 18:00:56] Неизвестный источник (globenewswire): The Global Photonics Packaging Market 20
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Harness launches features to help dev te
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Oumi aims to simplify and automate custo
+[2026-04-01 18:00:56] Неизвестный источник (thestreet): Selecting the Right Technology Partner(s
+[2026-04-01 18:00:56] Неизвестный источник (livemint): Nvidia deal spree continues; Jensen Huan
+[2026-04-01 18:00:56] Неизвестный источник (bleeding cool news): Ghost Machine: The Official Guidebook #1
+[2026-04-01 18:00:56] Неизвестный источник (plos.org): Exploring climate smart agriculture in T
+[2026-04-01 18:00:56] Неизвестный источник (plos.org): Kernel-DMD for multiome data integration
+[2026-04-01 18:00:56] Неизвестный источник (plos.org): CAPG serves as a prognostic biomarker an
+[2026-04-01 18:00:56] Неизвестный источник (plos.org): Network-based exploration of 4-(phenylsu
+[2026-04-01 18:00:56] Неизвестный источник (plos.org): Predicted antiviral potential of phytoch
+[2026-04-01 18:00:56] Неизвестный источник (globenewswire): NextNRG to Launch the EzShop, Powered by
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Acre Security launches Acre Via AI assis
+[2026-04-01 18:00:56] Неизвестный источник (financial post): AIMCo has no plans to reduce U.S. exposu
+[2026-04-01 18:00:56] Неизвестный источник (commercial observer): More Women Than Ever Are Assuming Leader
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Axonis launches community-led growth net
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Softr launches AI-native no-code busines
+[2026-04-01 18:00:56] Неизвестный источник (siliconangle news): Lazarus AI debuts its Applied Intelligen
+[2026-04-01 18:00:56] Неизвестный источник (financial post): Emerging-Market Stocks Give Up 2026 Gain
+[2026-04-01 18:00:56] Нет фото: Arch Insurance North America Expands Pri
+[2026-04-01 18:00:56] Неизвестный источник (financial post): Europe’s ECM Bankers Ride Messy Markets 
+[2026-04-01 18:00:56] Неизвестный источник (new atlas): This desert-proof laptop is a self-conta
+[2026-04-01 18:00:56] Неизвестный источник (cna): Nvidia bets $2 billion on Marvell as ris
+[2026-04-01 18:00:56] Неизвестный источник (globenewswire): Neural Network Software Market Trends an
+[2026-04-01 18:00:56] Неизвестный источник (financial post): Wild Charts Show Pain Points in S&P 500’
+[2026-04-01 18:00:56] Нет фото: ZenaTech’s ZenaDrone Develops the IQ Aqu
+[2026-04-01 18:00:56] Нет фото: CPAB publishes 2025 Annual Report
+[2026-04-01 18:00:56] Неизвестный источник (financial post): Canadian Tech Stocks Set For Worst Quart
+[2026-04-01 18:00:56] AI новости: найдено 3 после фильтрации
+[2026-04-01 18:00:59] Обрабатываю: US Stocks: Nvidia bets $2 billion on Marvell as rising AI ad
+[2026-04-01 18:00:59] Попытка 1 для: US Stocks: Nvidia bets $2 billion on Mar
+[2026-04-01 18:01:00] Успешно, получено 732 символов
+[2026-04-01 18:01:00] Пауза 60 секунд...
+[2026-04-01 18:02:00] Обрабатываю: Transform
+[2026-04-01 18:02:00] Попытка 1 для: Transform
+[2026-04-01 18:02:01] Успешно, получено 472 символов
+[2026-04-01 18:02:02] Пауза 60 секунд...
+[2026-04-01 18:03:02] Обрабатываю: Personal data isn't collected: MHA on security agencies usin
+[2026-04-01 18:03:02] Попытка 1 для: Personal data isn't collected: MHA on se
+[2026-04-01 18:03:03] Успешно, получено 693 символов
+[2026-04-01 18:03:04] === Блок ai_evening завершён ===
