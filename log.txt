@@ -4995,3 +4995,37 @@
 [2026-04-01 09:53:23] Попытка 1 для: Sammaan Capital becomes IHC Group compan
 [2026-04-01 09:53:24] Успешно, получено 691 символов
 [2026-04-01 09:53:25] === Блок ai_morning завершён ===
+[2026-04-01 11:00:47] Загружено 350 уже отправленных новостей
+[2026-04-01 11:00:47] === Запуск блока: midday ===
+[2026-04-01 11:00:47] Неизвестный источник (cnbc): Euro zone inflation smashes through ECB 
+[2026-04-01 11:00:47] Неизвестный источник (tmz): Rapper Future’s Ex Brittni Mealy Demands
+[2026-04-01 11:00:47] Пропускаю уже отправленную: Live Updates: Trump renews threat to Iran's power 
+[2026-04-01 11:00:47] Неизвестный источник (sherdog.com): Dana White ranks Alex Grasso’s finish as
+[2026-04-01 11:00:47] Неизвестный источник (android police): Google Drive just got a powerful new sec
+[2026-04-01 11:00:47] Неизвестный источник (foxweather.com): Live updates: Artemis II countdown begin
+[2026-04-01 11:00:47] Неизвестный источник (hollywood reporter): Paul Schrader Makes First Comment Follow
+[2026-04-01 11:00:47] Неизвестный источник (macrumors): Apple Intelligence Accidentally Goes Liv
+[2026-04-01 11:00:47] Неизвестный источник (pbs): Kharg Island is key to Iran's oil export
+[2026-04-01 11:00:47] Неизвестный источник (dawn.com): War Diary Day 31: Economic shockwaves de
+[2026-04-01 11:00:47] Неизвестный источник (complex): Zendaya’s ‘The Drama’ Sparks Backlash Ov
+[2026-04-01 11:00:47] Неизвестный источник (popular mechanics): Scientists Just Found a Massive Freshwat
+[2026-04-01 11:00:47] Старая новость (2026-03-30T07:31:03Z): Powerful cholesterol drug cuts heart att
+[2026-04-01 11:00:47] Старая новость (2026-03-30T06:43:26Z): Older Galaxy phones are now getting AirD
+[2026-04-01 11:00:47] Старая новость (2026-03-30T05:19:00Z): Full Moon April 2026: Exactly When To Se
+[2026-04-01 11:00:47] Мировые новости: найдено 16 после фильтрации
+[2026-04-01 11:00:50] Обрабатываю: Babies are an afterthought in the birthright citizenship cas
+[2026-04-01 11:00:50] Попытка 1 для: Babies are an afterthought in the birthr
+[2026-04-01 11:00:51] Успешно, получено 798 символов
+[2026-04-01 11:00:51] Пауза 60 секунд...
+[2026-04-01 11:01:51] Обрабатываю: Do you have the new Covid variant, flu or other virus? Look 
+[2026-04-01 11:01:51] Попытка 1 для: Do you have the new Covid variant, flu o
+[2026-04-01 11:01:52] Успешно, получено 640 символов
+[2026-04-01 11:01:53] Пауза 60 секунд...
+[2026-04-01 11:02:53] Обрабатываю: The DHS shutdown might never end
+[2026-04-01 11:02:53] Попытка 1 для: The DHS shutdown might never end
+[2026-04-01 11:02:54] Успешно, получено 620 символов
+[2026-04-01 11:02:54] Пауза 60 секунд...
+[2026-04-01 11:03:54] Обрабатываю: Another Starlink satellite has inexplicably exploded
+[2026-04-01 11:03:54] Попытка 1 для: Another Starlink satellite has inexplica
+[2026-04-01 11:03:55] Успешно, получено 534 символов
+[2026-04-01 11:03:55] === Блок midday завершён ===
