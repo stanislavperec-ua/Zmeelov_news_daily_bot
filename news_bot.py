@@ -169,7 +169,6 @@ def is_fresh(article):
 
 
 def is_blocked_source(article):
-    """Проверяем только заблокированные источники"""
     source_name = (article.get("source", {}).get("name") or "").lower()
     url = (article.get("url") or "").lower()
     for blocked in BLOCKED_SOURCES:
@@ -180,16 +179,12 @@ def is_blocked_source(article):
 
 
 def is_trusted_source(article):
-    """Проверяем надёжные источники — только для мировых и AI новостей"""
     source_name = (article.get("source", {}).get("name") or "").lower()
-
     if is_blocked_source(article):
         return False
-
     for trusted in TRUSTED_SOURCES:
         if trusted in source_name:
             return True
-
     log(f"Неизвестный источник ({source_name}): {article.get('title', '')[:40]}")
     return False
 
@@ -200,20 +195,40 @@ def normalize_title(title):
     return set(title.split())
 
 
-def is_duplicate_by_title(title):
-    new_words = normalize_title(title)
-    if len(new_words) < 3:
+def is_similar_title(title1, title2):
+    """Проверяем похожесть двух заголовков"""
+    words1 = normalize_title(title1)
+    words2 = normalize_title(title2)
+    if len(words1) < 3 or len(words2) < 3:
         return False
+    intersection = words1 & words2
+    similarity = len(intersection) / max(len(words1), len(words2))
+    return similarity > 0.6
+
+
+def is_duplicate_by_title(title):
+    """Проверяем против уже отправленных"""
     for sent_title in sent_titles:
-        sent_words = normalize_title(sent_title)
-        if len(sent_words) < 3:
-            continue
-        intersection = new_words & sent_words
-        similarity = len(intersection) / max(len(new_words), len(sent_words))
-        if similarity > 0.6:
+        if is_similar_title(title, sent_title):
             log(f"Дубль по смыслу: {title[:50]}")
             return True
     return False
+
+
+def deduplicate_articles(articles):
+    """Убираем дубли внутри одного списка статей"""
+    unique = []
+    for article in articles:
+        title = article.get("title", "")
+        is_dup = False
+        for u in unique:
+            if is_similar_title(title, u.get("title", "")):
+                log(f"Внутренний дубль: {title[:50]}")
+                is_dup = True
+                break
+        if not is_dup:
+            unique.append(article)
+    return unique
 
 
 def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_source_check=False):
@@ -235,8 +250,6 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
     if not is_fresh(article):
         return False
 
-    # Для украинских/харьковских новостей проверяем только заблокированные
-    # Для мировых и AI — проверяем полный список надёжных источников
     if skip_source_check:
         if is_blocked_source(article):
             return False
@@ -338,6 +351,7 @@ def get_world_news(count):
         )
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a)]
+        articles = deduplicate_articles(articles)
         log(f"Мировые новости: найдено {len(articles)} после фильтрации")
         return articles[:count]
     except Exception as e:
@@ -366,7 +380,6 @@ def get_ukraine_news(count):
         articles = resp.json().get("articles", [])
         filtered = []
         for a in articles:
-            # skip_source_check=True — для Украины не требуем trusted source
             if not is_relevant(a, require_ukraine=True, skip_source_check=True):
                 continue
             title = (a.get("title") or "").lower()
@@ -377,6 +390,7 @@ def get_ukraine_news(count):
                 log(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
                 continue
             filtered.append(a)
+        filtered = deduplicate_articles(filtered)
         log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
         return filtered[:count]
     except Exception as e:
@@ -399,7 +413,6 @@ def get_kharkiv_news():
             timeout=15
         )
         articles = resp.json().get("articles", [])
-        # skip_source_check=True — для Харькова не требуем trusted source
         articles = [a for a in articles if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
         if articles:
             log(f"Харьков: найдена новость — {articles[0].get('title', '')[:50]}")
@@ -427,6 +440,7 @@ def get_ai_news(count):
         )
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a)]
+        articles = deduplicate_articles(articles)
         log(f"AI новости: найдено {len(articles)} после фильтрации")
         return articles[:count]
     except Exception as e:
@@ -439,7 +453,11 @@ def build_ukraine_block(count):
     kharkiv = get_kharkiv_news()
     ukraine_urls = [a.get("url") for a in ukraine]
     if kharkiv and kharkiv.get("url") not in ukraine_urls:
-        return ukraine + [kharkiv]
+        # Проверяем что харьковская новость не дубль по смыслу
+        kharkiv_title = kharkiv.get("title", "")
+        is_dup = any(is_similar_title(kharkiv_title, a.get("title", "")) for a in ukraine)
+        if not is_dup:
+            return ukraine + [kharkiv]
     return ukraine
 
 
