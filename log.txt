@@ -4903,3 +4903,49 @@
 [2026-04-01 07:03:01] Попытка 1 для: Kimberly Guilfoyle: Increasing US LNG fl
 [2026-04-01 07:03:02] Успешно, получено 754 символов
 [2026-04-01 07:03:03] === Блок morning завершён ===
+[2026-04-01 08:00:47] Загружено 348 уже отправленных новостей
+[2026-04-01 08:00:47] === Запуск блока: ai_morning ===
+[2026-04-01 08:00:48] Неизвестный источник (medianama.com): Cloudflare’s legal chief on AI, copyrigh
+[2026-04-01 08:00:48] Неизвестный источник (computerweekly.com): Virgin Media O2 accelerates UK 5G upgrad
+[2026-04-01 08:00:48] Неизвестный источник (financial post): High-Flying Chip Stocks Bear Brunt of Ir
+[2026-04-01 08:00:48] Неизвестный источник (geeky gadgets): Your iPhone Just Got Smarter: Everything
+[2026-04-01 08:00:48] Неизвестный источник (c-sharpcorner.com): What Are AI Agents and How Do They Work?
+[2026-04-01 08:00:48] Неизвестный источник (insurance journal): Hacked Hospitals, Hidden Spyware: Iran C
+[2026-04-01 08:00:48] Неизвестный источник (financial post): China Factory Activity Returns to Growth
+[2026-04-01 08:00:48] Неизвестный источник (computerweekly.com): Agoda scales AI strategy, opens new APAC
+[2026-04-01 08:00:48] Нет фото: laiser 0.4.1
+[2026-04-01 08:00:48] Неизвестный источник (bleeding cool news): Royals #1 Preview: Telepathic Twins Gamb
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): AI-generated code verification startup Q
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): Space data center startup Starcloud rais
+[2026-04-01 08:00:48] Неизвестный источник (bleeding cool news): Avatar: The Gap Year – Tipping Point #6 
+[2026-04-01 08:00:48] Нет фото: Single-molecule neuromorphic device with
+[2026-04-01 08:00:48] Неизвестный источник (soldiersystems.net): Two Divisions Team Up to Transform the A
+[2026-04-01 08:00:48] Нет фото: Cloud assisted blockchain-enabled split 
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): SAP buys Reltio to pull in more outside 
+[2026-04-01 08:00:48] Нет фото: Nanowire photodetectors: Path to single 
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): Sett raises $30M to grow agent-based AI 
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): ScaleOps reels in $130M to make cloud en
+[2026-04-01 08:00:48] Неизвестный источник (cnbc): Jim Cramer says this sell-off is creatin
+[2026-04-01 08:00:48] Нет фото: AI agent future is coming, OpenClaw crea
+[2026-04-01 08:00:48] Неизвестный источник (decrypt): Senators Reveal 'Mined in America' Bill 
+[2026-04-01 08:00:48] Неизвестный источник (zdnet): What Google's TurboQuant can and can't d
+[2026-04-01 08:00:48] Неизвестный источник (protothema.gr): The first AI camera “tickets” have been 
+[2026-04-01 08:00:48] Неизвестный источник (globenewswire): TierPoint Initiates Search for Next CEO
+[2026-04-01 08:00:48] Неизвестный источник (siliconangle news): Bringing the cyber community into the ba
+[2026-04-01 08:00:48] Пропускаю уже отправленную: Insiders profit as pressure points build on global
+[2026-04-01 08:00:48] Нет фото: Office of His Highness Sheikh Hamdan Bin
+[2026-04-01 08:00:48] Неизвестный источник (financial post): 55% of U.S. says AI likely to harm them,
+[2026-04-01 08:00:48] Неизвестный источник (commercial observer): Digital Realty Closes $3.25B Data Center
+[2026-04-01 08:00:48] Неизвестный источник (internet): OpenAI Patches ChatGPT Data Exfiltration
+[2026-04-01 08:00:48] Неизвестный источник (yahoo entertainment): MARA Sells $1B In Bitcoin At A Loss To P
+[2026-04-01 08:00:48] Неизвестный источник (ieee.org): Invences Empowers Small Businesses With 
+[2026-04-01 08:00:48] Неизвестный источник (theregister.com): Telnyx joins LiteLLM in latest PyPI pack
+[2026-04-01 08:00:48] Нет фото: aait 3.3.13
+[2026-04-01 08:00:48] Неизвестный источник (amazon.com): Accelerate CPU-based AI inference worklo
+[2026-04-01 08:00:48] Неизвестный источник (hackread): 24/7 Payments for 24/7 Agents: The Case 
+[2026-04-01 08:00:48] Неизвестный источник (bleeding cool news): Batman Gets A Comic For Free Comic Book 
+[2026-04-01 08:00:48] AI новости: найдено 1 после фильтрации
+[2026-04-01 08:00:50] Обрабатываю: Butterfly Network gets FDA clearance for AI ultrasound pregn
+[2026-04-01 08:00:50] Попытка 1 для: Butterfly Network gets FDA clearance for
+[2026-04-01 08:00:51] Успешно, получено 818 символов
+[2026-04-01 08:00:52] === Блок ai_morning завершён ===
