@@ -4845,3 +4845,61 @@
 [2026-03-31 20:05:55] Попытка 1 для: Bajaj Finserv's AI push; Govt's UPI fix
 [2026-03-31 20:05:56] Успешно, получено 927 символов
 [2026-03-31 20:05:57] === Блок ai_evening завершён ===
+[2026-04-01 06:58:45] Загружено 342 уже отправленных новостей
+[2026-04-01 06:58:45] === Запуск блока: morning ===
+[2026-04-01 06:58:46] Неизвестный источник (espn): South Carolina routs TCU to reach sixth 
+[2026-04-01 06:58:46] Неизвестный источник (cbs sports): Chicago Bulls vs. San Antonio Spurs Live
+[2026-04-01 06:58:46] Неизвестный источник (cnbc): China's factory activity returns to grow
+[2026-04-01 06:58:46] Неизвестный источник (federal news network): TSA agents see partial paychecks - Feder
+[2026-04-01 06:58:46] Неизвестный источник (9to5mac): iOS 26.5 beta 1: Here are all the new fe
+[2026-04-01 06:58:46] Неизвестный источник (cnbc): South Korea's Kospi leads losses in Asia
+[2026-04-01 06:58:46] Неизвестный источник (abcnews.com): Air Canada CEO will retire this year aft
+[2026-04-01 06:58:46] Неизвестный источник (foxweather.com): Live updates: Artemis II countdown begin
+[2026-04-01 06:58:46] Неизвестный источник (ktla los angeles): How to watch upcoming SpaceX launches in
+[2026-04-01 06:58:46] Неизвестный источник (the cut): Kylie Jenner and Timothée Chalamet Are P
+[2026-04-01 06:58:46] Неизвестный источник (espn): Bulls waive guard Jaden Ivey after anti-
+[2026-04-01 06:58:46] Неизвестный источник (komo news): Survey: More than half of Washington cli
+[2026-04-01 06:58:46] Неизвестный источник (rolling stone): Showgirl Showdown: Vegas Performer Sues 
+[2026-04-01 06:58:46] Неизвестный источник (gizmodo.com): Your Wimpy Workouts Aren’t Cutting It, S
+[2026-04-01 06:58:46] Неизвестный источник (9to5google.com): Samsung built a motion sickness app for 
+[2026-04-01 06:58:46] Старая новость (2026-03-30T06:43:26Z): Older Galaxy phones are now getting AirD
+[2026-04-01 06:58:46] Старая новость (2026-03-30T06:12:27Z): Astrophotography in April 2026: get your
+[2026-04-01 06:58:46] Старая новость (2026-03-30T00:04:00Z): A formerly low-profile COVID variant is 
+[2026-04-01 06:58:46] Старая новость (2026-03-29T13:00:12Z): Quadratic gravity theory reshapes quantu
+[2026-04-01 06:58:46] Мировые новости: найдено 13 после фильтрации
+[2026-04-01 06:58:46] Нет фото: Guest Contribution: “Oil Shocks Raise Re
+[2026-04-01 06:58:46] Заблокированный источник (naturalnews.com): Oil Prices Hit Multi-Year High Amid Pers
+[2026-04-01 06:58:46] Нет фото: What was the 1970s oil crisis, and are w
+[2026-04-01 06:58:46] Нет фото: Mark Sanford makes a last-minute bid to 
+[2026-04-01 06:58:46] Нет фото: PyroGenesis Announces Fourth Quarter and
+[2026-04-01 06:58:46] Нет фото: CA Democrats Want to Ban ICE Officers Fr
+[2026-04-01 06:58:46] Нет фото: Trump tells aides he’s willing to end Ir
+[2026-04-01 06:58:46] Украинские новости: найдено 3 после фильтрации
+[2026-04-01 06:58:46] Заблокированный источник (sputnikglobe.com): Russian Forces Take Control of Novoosino
+[2026-04-01 06:58:46] Нет фото: Russian Armed Forces Liberate Kovsharovk
+[2026-04-01 06:58:46] Нет фото: Key Russian Oil Terminal Hit Again By Dr
+[2026-04-01 06:58:46] Харьков: новостей не найдено
+[2026-04-01 06:58:48] Обрабатываю: Celine Dion announces comeback shows 4 years after diagnosis
+[2026-04-01 06:58:48] Попытка 1 для: Celine Dion announces comeback shows 4 y
+[2026-04-01 06:58:50] Успешно, получено 703 символов
+[2026-04-01 06:58:50] Фото не отправилось: 400
+[2026-04-01 06:58:51] Пауза 60 секунд...
+[2026-04-01 06:59:51] Обрабатываю: Live Updates: Trump renews threat to Iran's power plants as 
+[2026-04-01 06:59:51] Попытка 1 для: Live Updates: Trump renews threat to Ira
+[2026-04-01 06:59:52] Успешно, получено 721 символов
+[2026-04-01 06:59:53] Пауза 60 секунд...
+[2026-04-01 07:00:53] Обрабатываю: Trump’s skyscraper presidential library looms over Miami in 
+[2026-04-01 07:00:53] Попытка 1 для: Trump’s skyscraper presidential library 
+[2026-04-01 07:00:54] Успешно, получено 879 символов
+[2026-04-01 07:00:55] Пауза 60 секунд...
+[2026-04-01 07:01:55] Обрабатываю: Israel suspends battalion that detained CNN crew in West Ban
+[2026-04-01 07:01:55] Попытка 1 для: Israel suspends battalion that detained 
+[2026-04-01 07:01:56] Успешно, получено 780 символов
+[2026-04-01 07:01:59] Обрабатываю: EU diplomats in Ukraine for Bucha massacre anniversary
+[2026-04-01 07:01:59] Попытка 1 для: EU diplomats in Ukraine for Bucha massac
+[2026-04-01 07:02:00] Успешно, получено 896 символов
+[2026-04-01 07:02:01] Пауза 60 секунд...
+[2026-04-01 07:03:01] Обрабатываю: Kimberly Guilfoyle: Increasing US LNG flows through Greece t
+[2026-04-01 07:03:01] Попытка 1 для: Kimberly Guilfoyle: Increasing US LNG fl
+[2026-04-01 07:03:02] Успешно, получено 754 символов
+[2026-04-01 07:03:03] === Блок morning завершён ===
