@@ -5029,3 +5029,42 @@
 [2026-04-01 11:03:54] Попытка 1 для: Another Starlink satellite has inexplica
 [2026-04-01 11:03:55] Успешно, получено 534 символов
 [2026-04-01 11:03:55] === Блок midday завершён ===
+[2026-04-01 11:30:44] Загружено 354 уже отправленных новостей
+[2026-04-01 11:30:44] === Запуск блока: midday ===
+[2026-04-01 11:30:44] Неизвестный источник (fox news): Trump floats siege on Iran stronghold as
+[2026-04-01 11:30:44] Неизвестный источник (cnbc): Euro zone inflation smashes through ECB 
+[2026-04-01 11:30:44] Пропускаю уже отправленную: Babies are an afterthought in the birthright citiz
+[2026-04-01 11:30:44] Пропускаю уже отправленную: Do you have the new Covid variant, flu or other vi
+[2026-04-01 11:30:44] Неизвестный источник (dw (english)): Haiti: At least 70 killed in 'massacre,'
+[2026-04-01 11:30:44] Пропускаю уже отправленную: The DHS shutdown might never end - Politico
+[2026-04-01 11:30:44] Пропускаю уже отправленную: Another Starlink satellite has inexplicably explod
+[2026-04-01 11:30:44] Неизвестный источник (tmz): Rapper Future’s Ex Brittni Mealy Demands
+[2026-04-01 11:30:44] Неизвестный источник (new york post): Yankees execute perfect and aggressive A
+[2026-04-01 11:30:44] Неизвестный источник (9to5mac): Apple introduces privacy rules for third
+[2026-04-01 11:30:44] Неизвестный источник (federal news network): TSA agents see partial paychecks - Feder
+[2026-04-01 11:30:44] Неизвестный источник (9to5mac): iOS 26.5 beta 1: Here are all the new fe
+[2026-04-01 11:30:44] Неизвестный источник (9to5mac): WhatsApp is working on a dedicated CarPl
+[2026-04-01 11:30:44] Неизвестный источник (foxweather.com): Live updates: Artemis II countdown begin
+[2026-04-01 11:30:44] Неизвестный источник (oregonlive): NBA approves Portland Trail Blazers sale
+[2026-04-01 11:30:44] Неизвестный источник (deadline): Céline Dion Confirms Paris Concerts & Da
+[2026-04-01 11:30:44] Неизвестный источник (entertainment weekly): 'Paradise' star Julianne Nicholson finds
+[2026-04-01 11:30:44] Неизвестный источник (popular mechanics): Scientists Just Found a Massive Freshwat
+[2026-04-01 11:30:44] Старая новость (2026-03-30T07:31:03Z): Powerful cholesterol drug cuts heart att
+[2026-04-01 11:30:44] Старая новость (2026-03-30T05:19:00Z): Full Moon April 2026: Exactly When To Se
+[2026-04-01 11:30:44] Мировые новости: найдено 9 после фильтрации
+[2026-04-01 11:30:46] Обрабатываю: Trump tells the UK and other countries 'go get your own oil'
+[2026-04-01 11:30:46] Попытка 1 для: Trump tells the UK and other countries '
+[2026-04-01 11:30:48] Успешно, получено 799 символов
+[2026-04-01 11:30:48] Пауза 60 секунд...
+[2026-04-01 11:31:48] Обрабатываю: Stock Market Today: Oil Pauses, Dow Futures Rise — Live Upda
+[2026-04-01 11:31:48] Попытка 1 для: Stock Market Today: Oil Pauses, Dow Futu
+[2026-04-01 11:31:49] Успешно, получено 583 символов
+[2026-04-01 11:31:50] Пауза 60 секунд...
+[2026-04-01 11:32:50] Обрабатываю: Iran Attacks Oil Tanker After Trump Wavers on War Escalation
+[2026-04-01 11:32:50] Попытка 1 для: Iran Attacks Oil Tanker After Trump Wave
+[2026-04-01 11:32:51] Успешно, получено 964 символов
+[2026-04-01 11:32:52] Пауза 60 секунд...
+[2026-04-01 11:33:52] Обрабатываю: Get ready for kitsch and drama, Asia. Pop extravaganza Eurov
+[2026-04-01 11:33:52] Попытка 1 для: Get ready for kitsch and drama, Asia. Po
+[2026-04-01 11:33:53] Успешно, получено 752 символов
+[2026-04-01 11:33:54] === Блок midday завершён ===
