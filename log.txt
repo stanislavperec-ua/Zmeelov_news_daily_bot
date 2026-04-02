@@ -5456,3 +5456,51 @@
 [2026-04-02 11:04:02] Попытка 1 для: Suspension lifted for helicopter pilots 
 [2026-04-02 11:04:04] Успешно, получено 867 символов
 [2026-04-02 11:04:04] === Блок midday завершён ===
+[2026-04-02 16:00:55] Загружено 379 уже отправленных новостей
+[2026-04-02 16:00:55] === Запуск блока: evening ===
+[2026-04-02 16:00:55] Неизвестный источник (investopedia): Stock Market Today: Stocks Jump to Begin
+[2026-04-02 16:00:55] Неизвестный источник (yahoo entertainment): Nvidia, Apple, Tesla on Iran's Hit List 
+[2026-04-02 16:00:55] Неизвестный источник (slate magazine): The Actual Danger of Trump’s Phony Vote-
+[2026-04-02 16:00:55] Неизвестный источник (deadline): BBC Pushing On With ‘Race Across The Wor
+[2026-04-02 16:00:55] Пропускаю уже отправленную: Suspension lifted for helicopter pilots who hovere
+[2026-04-02 16:00:55] Неизвестный источник (sporting news): C. B. Bucknor missed call at first: MLB 
+[2026-04-02 16:00:55] Неизвестный источник (honolulu star-advertiser): Health officials warn of leptospirosis r
+[2026-04-02 16:00:55] Неизвестный источник (macrumors): Apple Releases New Firmware for AirPods 
+[2026-04-02 16:00:55] Неизвестный источник (9to5google.com): Google Home’s latest updates include Gem
+[2026-04-02 16:00:55] Старая новость (2026-03-31T15:22:55Z): New COVID 'cicada' variant spreads to 25
+[2026-04-02 16:00:55] Старая новость (2026-03-31T12:30:26Z): Google is now letting users in the US ch
+[2026-04-02 16:00:55] Старая новость (2026-03-31T12:01:00Z): King Charles III to visit U.S. in late A
+[2026-04-02 16:00:55] Старая новость (2026-03-31T02:59:57Z): LIGO May Have Detected The First Primord
+[2026-04-02 16:00:55] Мировые новости: найдено 14 после фильтрации
+[2026-04-02 16:00:56] Заблокированный источник (breitbart news): Grand Jury: Chicago Woman Indicted for C
+[2026-04-02 16:00:56] Нет фото: Live updates: Trump says he is strongly 
+[2026-04-02 16:00:56] Заблокированный источник (rt): Ukrainian press gangs change tactics – m
+[2026-04-02 16:00:56] Нет фото: 10 Ukrainian Operators Destroyed Two NAT
+[2026-04-02 16:00:56] Нет фото: "Carry on, patriots": Hegseth drops inve
+[2026-04-02 16:00:56] Украинские новости: найдено 3 после фильтрации
+[2026-04-02 16:00:56] Заблокированный источник (sputnikglobe.com): Russian Forces Take Full Control of Luga
+[2026-04-02 16:00:56] Харьков: новостей не найдено
+[2026-04-02 16:00:58] Обрабатываю: Megan Thee Stallion hospitalized after exiting ‘Moulin Rouge
+[2026-04-02 16:00:58] Попытка 1 для: Megan Thee Stallion hospitalized after e
+[2026-04-02 16:01:00] Успешно, получено 801 символов
+[2026-04-02 16:01:00] Пауза 60 секунд...
+[2026-04-02 16:02:00] Обрабатываю: Listen Live: Supreme Court hears arguments in birthright cit
+[2026-04-02 16:02:00] Попытка 1 для: Listen Live: Supreme Court hears argumen
+[2026-04-02 16:02:02] Успешно, получено 790 символов
+[2026-04-02 16:02:02] Пауза 60 секунд...
+[2026-04-02 16:03:02] Обрабатываю: Launch day has arrived for NASA’s Artemis II mission—here’s 
+[2026-04-02 16:03:02] Попытка 1 для: Launch day has arrived for NASA’s Artemi
+[2026-04-02 16:03:03] Успешно, получено 572 символов
+[2026-04-02 16:03:04] Пауза 60 секунд...
+[2026-04-02 16:04:04] Обрабатываю: Retail sales rose more than expected in February
+[2026-04-02 16:04:04] Попытка 1 для: Retail sales rose more than expected in 
+[2026-04-02 16:04:04] Успешно, получено 623 символов
+[2026-04-02 16:04:07] Обрабатываю: Four killed in daytime Russian drone strikes across Ukraine
+[2026-04-02 16:04:07] Попытка 1 для: Four killed in daytime Russian drone str
+[2026-04-02 16:04:09] Успешно, получено 610 символов
+[2026-04-02 16:04:09] Пауза 60 секунд...
+[2026-04-02 16:05:09] Обрабатываю: Ukraine’s Strikes Against Russian Oil Refineries Risk Worsen
+[2026-04-02 16:05:09] Попытка 1 для: Ukraine’s Strikes Against Russian Oil Re
+[2026-04-02 16:05:10] Успешно, получено 810 символов
+[2026-04-02 16:05:11] Фото не отправилось: 400
+[2026-04-02 16:05:11] === Блок evening завершён ===
