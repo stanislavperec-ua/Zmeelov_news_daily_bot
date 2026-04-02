@@ -5421,3 +5421,38 @@
 [2026-04-02 08:03:07] Попытка 1 для: AI videos, WhatsApp networks reshape cam
 [2026-04-02 08:03:08] Успешно, получено 729 символов
 [2026-04-02 08:03:08] === Блок ai_morning завершён ===
+[2026-04-02 11:00:55] Загружено 375 уже отправленных новостей
+[2026-04-02 11:00:55] === Запуск блока: midday ===
+[2026-04-02 11:00:55] Неизвестный источник (cnbc): S&P 500 futures rise after major average
+[2026-04-02 11:00:55] Неизвестный источник (space.com): Artemis 2 livestream: Watch 4 astronauts
+[2026-04-02 11:00:55] Неизвестный источник (on3.com): 2026 McDonald's All American Games: Live
+[2026-04-02 11:00:55] Неизвестный источник (espn): Sabres 4-3 Islanders (Mar 31, 2026) Game
+[2026-04-02 11:00:55] Неизвестный источник (variety): Megan Thee Stallion Hospitalized in New 
+[2026-04-02 11:00:55] Неизвестный источник (deadline): 'Summer House': Amanda Batula & West Wil
+[2026-04-02 11:00:55] Неизвестный источник (forbes): Oracle Layoffs Lead To Heartbreaking Pos
+[2026-04-02 11:00:55] Неизвестный источник (honolulu star-advertiser): Health officials warn of leptospirosis r
+[2026-04-02 11:00:55] Неизвестный источник (block club chicago): Possible Measles Exposure Reported At O’
+[2026-04-02 11:00:55] Неизвестный источник (vox): If these whales go extinct, we’ll know w
+[2026-04-02 11:00:55] Неизвестный источник (kstp.com): Supreme Court rules against Colorado ban
+[2026-04-02 11:00:55] Неизвестный источник (gizmodo.com): ‘The Super Mario Galaxy Movie’ Stinks - 
+[2026-04-02 11:00:55] Неизвестный источник (nfl news): Lance Zierlein 2026 NFL mock draft 3.0: 
+[2026-04-02 11:00:55] Неизвестный источник (9to5mac): New Siri multitasking upgrade detailed i
+[2026-04-02 11:00:55] Неизвестный источник (wpde.com): New COVID 'cicada' variant spreads to 25
+[2026-04-02 11:00:55] Старая новость (2026-03-30T19:00:01Z): NASA Just Found Something Strange Inside
+[2026-04-02 11:00:55] Мировые новости: найдено 13 после фильтрации
+[2026-04-02 11:00:58] Обрабатываю: Russian military plane crash in Crimea kills 29 people
+[2026-04-02 11:00:58] Попытка 1 для: Russian military plane crash in Crimea k
+[2026-04-02 11:00:59] Успешно, получено 748 символов
+[2026-04-02 11:00:59] Пауза 60 секунд...
+[2026-04-02 11:01:59] Обрабатываю: Apple’s biggest product in its 50-year history surprised the
+[2026-04-02 11:01:59] Попытка 1 для: Apple’s biggest product in its 50-year h
+[2026-04-02 11:02:00] Успешно, получено 478 символов
+[2026-04-02 11:02:01] Пауза 60 секунд...
+[2026-04-02 11:03:01] Обрабатываю: Walking away from the Strait of Hormuz won’t make gas cheap 
+[2026-04-02 11:03:01] Попытка 1 для: Walking away from the Strait of Hormuz w
+[2026-04-02 11:03:02] Успешно, получено 875 символов
+[2026-04-02 11:03:02] Пауза 60 секунд...
+[2026-04-02 11:04:02] Обрабатываю: Suspension lifted for helicopter pilots who hovered near Kid
+[2026-04-02 11:04:02] Попытка 1 для: Suspension lifted for helicopter pilots 
+[2026-04-02 11:04:04] Успешно, получено 867 символов
+[2026-04-02 11:04:04] === Блок midday завершён ===
