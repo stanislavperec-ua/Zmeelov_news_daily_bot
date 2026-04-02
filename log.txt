@@ -5317,3 +5317,55 @@
 [2026-04-01 20:08:49] Попытка 1 для: Transform
 [2026-04-01 20:08:50] Успешно, получено 592 символов
 [2026-04-01 20:08:50] === Блок ai_evening завершён ===
+[2026-04-02 06:00:51] Загружено 367 уже отправленных новостей
+[2026-04-02 06:00:51] === Запуск блока: morning ===
+[2026-04-02 06:00:52] Неизвестный источник (on3.com): 2026 McDonald's All American Games: Live
+[2026-04-02 06:00:52] Неизвестный источник (hollywood reporter): Megan Thee Stallion Hospitalized in New 
+[2026-04-02 06:00:52] Неизвестный источник (deadline): 'Summer House': Amanda Batula & West Wil
+[2026-04-02 06:00:52] Неизвестный источник (honolulu star-advertiser): Health officials warn of leptospirosis r
+[2026-04-02 06:00:52] Неизвестный источник (block club chicago): Possible Measles Exposure Reported At O’
+[2026-04-02 06:00:52] Неизвестный источник (houston chronicle): 6 Houston restaurants, chefs are James B
+[2026-04-02 06:00:52] Неизвестный источник (kstp.com): Supreme Court rules against Colorado ban
+[2026-04-02 06:00:52] Заблокированный источник (rogerebert.com): The Super Mario Galaxy Movie review: It'
+[2026-04-02 06:00:52] Неизвестный источник (sports illustrated): Ian Eagle Shares a Tremendous Nugget on 
+[2026-04-02 06:00:52] Старая новость (2026-03-30T23:58:33Z): Google Drive just got a powerful new sec
+[2026-04-02 06:00:52] Старая новость (2026-03-30T19:00:01Z): NASA Just Found Something Strange Inside
+[2026-04-02 06:00:52] Мировые новости: найдено 13 после фильтрации
+[2026-04-02 06:00:52] Заблокированный источник (naturalnews.com): âGo get your own oil!â: Trump demand
+[2026-04-02 06:00:52] Нет фото: Commission adopts €1.5 billion work prog
+[2026-04-02 06:00:52] Нет фото: EU-Egypt Security and Defence Dialogue
+[2026-04-02 06:00:52] Нет фото: Council of Europe Congress: Ukrainian lo
+[2026-04-02 06:00:52] Нет фото: The air threat in Estonia has ended
+[2026-04-02 06:00:52] Нет фото: Ministry of Foreign Affairs expresses pr
+[2026-04-02 06:00:52] Нет фото: One of the most effective interceptors a
+[2026-04-02 06:00:52] Нет фото: Ukraine and Bulgaria expand cooperation 
+[2026-04-02 06:00:52] Нет фото: The French Straw Just Broke NATO's Back
+[2026-04-02 06:00:52] Нет фото: Ukrainian Warfare Gostomel Heroes-TENOKE
+[2026-04-02 06:00:52] Заблокированный источник (rt): Lebanon accuses Ukrainian embassy of she
+[2026-04-02 06:00:52] Нет фото: Russian military transport plane crashes
+[2026-04-02 06:00:52] Украинские новости: найдено 3 после фильтрации
+[2026-04-02 06:00:52] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Malaya Korchakov
+[2026-04-02 06:00:52] Харьков: новостей не найдено
+[2026-04-02 06:00:55] Обрабатываю: Trump says US will 'leave' Iran in two or three weeks whethe
+[2026-04-02 06:00:55] Попытка 1 для: Trump says US will 'leave' Iran in two o
+[2026-04-02 06:00:56] Успешно, получено 869 символов
+[2026-04-02 06:00:57] Пауза 60 секунд...
+[2026-04-02 06:01:57] Обрабатываю: Stock Market Today: Nasdaq Leads Rally Built on Hope the Ira
+[2026-04-02 06:01:57] Попытка 1 для: Stock Market Today: Nasdaq Leads Rally B
+[2026-04-02 06:01:57] Успешно, получено 616 символов
+[2026-04-02 06:01:58] Пауза 60 секунд...
+[2026-04-02 06:02:58] Обрабатываю: Gas hits $4 a gallon for first time since 2022, and costs ma
+[2026-04-02 06:02:58] Попытка 1 для: Gas hits $4 a gallon for first time sinc
+[2026-04-02 06:02:59] Успешно, получено 918 символов
+[2026-04-02 06:03:00] Пауза 60 секунд...
+[2026-04-02 06:04:00] Обрабатываю: Trump issues order attempting to change rules for mail-in vo
+[2026-04-02 06:04:00] Попытка 1 для: Trump issues order attempting to change 
+[2026-04-02 06:04:01] Успешно, получено 593 символов
+[2026-04-02 06:04:04] Обрабатываю: Ukraine is having a surprisingly good Iran war
+[2026-04-02 06:04:04] Попытка 1 для: Ukraine is having a surprisingly good Ir
+[2026-04-02 06:04:05] Успешно, получено 836 символов
+[2026-04-02 06:04:06] Пауза 60 секунд...
+[2026-04-02 06:05:06] Обрабатываю: European foreign ministers say Ukraine talks can’t ‘slip off
+[2026-04-02 06:05:06] Попытка 1 для: European foreign ministers say Ukraine t
+[2026-04-02 06:05:07] Успешно, получено 742 символов
+[2026-04-02 06:05:08] === Блок morning завершён ===
