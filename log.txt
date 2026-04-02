@@ -5504,3 +5504,52 @@
 [2026-04-02 16:05:10] Успешно, получено 810 символов
 [2026-04-02 16:05:11] Фото не отправилось: 400
 [2026-04-02 16:05:11] === Блок evening завершён ===
+[2026-04-02 18:00:55] Загружено 385 уже отправленных новостей
+[2026-04-02 18:00:55] === Запуск блока: ai_evening ===
+[2026-04-02 18:00:55] Неизвестный источник (digitalcommerce360): Visa adds AI tools for dispute resolutio
+[2026-04-02 18:00:55] Неизвестный источник (github.com): Show HN: AirplaneMode – Simulate realist
+[2026-04-02 18:00:55] Неизвестный источник (financial post): SpaceX has filed confidentially for IPO 
+[2026-04-02 18:00:55] Неизвестный источник (rte): SpaceX has confidentially filed for larg
+[2026-04-02 18:00:55] Неизвестный источник (siliconangle news): Alien raises $7.1M to build identity inf
+[2026-04-02 18:00:55] Неизвестный источник (coindesk): The Protocol: Quantum computing could br
+[2026-04-02 18:00:55] Неизвестный источник (the conversation africa): Where is transatlantic intelligence-shar
+[2026-04-02 18:00:55] Нет фото: DIAGNOS Successfully Completes the Renew
+[2026-04-02 18:00:55] Нет фото: Bureau Veritas Launches an Independent A
+[2026-04-02 18:00:55] Неизвестный источник (new york post): Elon Musk’s SpaceX registers to take roc
+[2026-04-02 18:00:55] Неизвестный источник (the conversation africa): How to build a digital ‘twin’ of the hum
+[2026-04-02 18:00:55] Неизвестный источник (ai-cio.com): How to Responsibly Address AI in Your Po
+[2026-04-02 18:00:55] Неизвестный источник (cna): SpaceX files for IPO, sources say, offer
+[2026-04-02 18:00:55] Неизвестный источник (cna): SpaceX files for IPO, sources say, offer
+[2026-04-02 18:00:55] Неизвестный источник (cna): SpaceX registers to take rocket maker pu
+[2026-04-02 18:00:55] Неизвестный источник (cna): SpaceX registers to take rocket maker pu
+[2026-04-02 18:00:55] Неизвестный источник (siliconangle news): Sona raises $45M to help businesses mana
+[2026-04-02 18:00:55] Неизвестный источник (globenewswire): Only One Week Away. C-Level Technology L
+[2026-04-02 18:00:55] Неизвестный источник (ponoko.com): World’s Biggest Humanoid Robotics Maker 
+[2026-04-02 18:00:55] Неизвестный источник (plos.org): Oropouche virus outbreaks in northeast B
+[2026-04-02 18:00:55] Неизвестный источник (plos.org): Evolution of a truncated nucleocapsid pr
+[2026-04-02 18:00:55] Неизвестный источник (plos.org): Multidimensional scaling informed by F-s
+[2026-04-02 18:00:55] Неизвестный источник (plos.org): Impact of inactivation methods on biosaf
+[2026-04-02 18:00:55] Неизвестный источник (plos.org): Effect of ALA on preventing diabetic per
+[2026-04-02 18:00:55] Нет фото: mex-artificial 1.4.1
+[2026-04-02 18:00:55] Неизвестный источник (financial post): Billionaire Nelson Peltz Plans AI Makeov
+[2026-04-02 18:00:55] Нет фото: Why Iran targeted Amazon data centers an
+[2026-04-02 18:00:55] Неизвестный источник (globenewswire): LINK FOREX Builds a Global Equity Resear
+[2026-04-02 18:00:55] Неизвестный источник (financial post): Rimini Street Announces Debt Reduction a
+[2026-04-02 18:00:55] Неизвестный источник (siliconangle news): Exabeam expands Agent Behavior Analytics
+[2026-04-02 18:00:55] Неизвестный источник (researchbuzz.me): North Carolina Newspapers, Local News Fi
+[2026-04-02 18:00:55] Нет фото: Microsoft in Talks With Chevron, Engine 
+[2026-04-02 18:00:55] Нет фото: DEEP SEA MINERALS CORP. ANNOUNCES MARKET
+[2026-04-02 18:00:55] Внутренний дубль: SpaceX registers to take rocket maker public in bl
+[2026-04-02 18:00:55] AI новости: найдено 6 после фильтрации
+[2026-04-02 18:00:58] Обрабатываю: What is Muskonomy, and why is SpaceX IPO the largest ever in
+[2026-04-02 18:00:58] Попытка 1 для: What is Muskonomy, and why is SpaceX IPO
+[2026-04-02 18:00:59] Успешно, получено 684 символов
+[2026-04-02 18:00:59] Пауза 60 секунд...
+[2026-04-02 18:01:59] Обрабатываю: SpaceX's business and finances: rockets, satellite communica
+[2026-04-02 18:01:59] Попытка 1 для: SpaceX's business and finances: rockets,
+[2026-04-02 18:02:00] Успешно, получено 576 символов
+[2026-04-02 18:02:01] Пауза 60 секунд...
+[2026-04-02 18:03:01] Обрабатываю: SpaceX reportedly files plans for massive IPO | CNN Business
+[2026-04-02 18:03:01] Попытка 1 для: SpaceX reportedly files plans for massiv
+[2026-04-02 18:03:02] Успешно, получено 592 символов
+[2026-04-02 18:03:03] === Блок ai_evening завершён ===
