@@ -5369,3 +5369,55 @@
 [2026-04-02 06:05:06] Попытка 1 для: European foreign ministers say Ukraine t
 [2026-04-02 06:05:07] Успешно, получено 742 символов
 [2026-04-02 06:05:08] === Блок morning завершён ===
+[2026-04-02 08:01:00] Загружено 372 уже отправленных новостей
+[2026-04-02 08:01:00] === Запуск блока: ai_morning ===
+[2026-04-02 08:01:00] Нет фото: FM says Iran has 'zero' trust in US, dis
+[2026-04-02 08:01:00] Нет фото: True Promise 4: Iran and resistance axis
+[2026-04-02 08:01:00] Неизвестный источник (www.gov.uk): Future RAN: Diversifying the 5G Supply C
+[2026-04-02 08:01:00] Неизвестный источник (www.gov.uk): Open Networks Ecosystem Competition
+[2026-04-02 08:01:00] Нет фото: Energy Shock Clouds $800 Billion of Asia
+[2026-04-02 08:01:00] Неизвестный источник (letlifehappen.com): AI and Your Health: What New Studies Rev
+[2026-04-02 08:01:00] Неизвестный источник (android headlines): The New Mobile Stack: How AI and Advance
+[2026-04-02 08:01:00] Неизвестный источник (rte): Oracle begins layoffs affecting thousand
+[2026-04-02 08:01:00] Неизвестный источник (financial post): Samsung, SK Hynix Jump More Than 11% to 
+[2026-04-02 08:01:00] Неизвестный источник (medianama.com): Bharti Airtel’s Nxtra to raise $1 billio
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Nomadic is making video data searchable 
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Salesforce transforms Slackbot into the 
+[2026-04-02 08:01:00] Неизвестный источник (golf.com): A nature lover's field guide to Augusta 
+[2026-04-02 08:01:00] Нет фото: Legendre neural network-based computatio
+[2026-04-02 08:01:00] Нет фото: Manifold topological deep learning for b
+[2026-04-02 08:01:00] Нет фото: Pose error real-time prediction and comp
+[2026-04-02 08:01:00] Нет фото: An evaluation of a Bayesian method to tr
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): OpenAI just closed on a record-breaking 
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Depthfirst raises $80M to expand AI-nati
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Linx Security raises $50M in new funding
+[2026-04-02 08:01:00] Нет фото: kymnasium 1.1.3
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Cybersecurity services startup Tenex rai
+[2026-04-02 08:01:00] Неизвестный источник (siliconangle news): Anthropic accidentally exposes Claude Co
+[2026-04-02 08:01:00] Нет фото: aait 3.3.14
+[2026-04-02 08:01:00] Нет фото: Brown & Brown, Inc. announces 2026 first
+[2026-04-02 08:01:00] Неизвестный источник (globenewswire): POET Technologies Reports Fourth Quarter
+[2026-04-02 08:01:00] Неизвестный источник (globenewswire): Axe Compute Inc. Reports Full-Year 2025 
+[2026-04-02 08:01:00] Нет фото: Comcast Business introduces two services
+[2026-04-02 08:01:00] Нет фото: News 4/1/26
+[2026-04-02 08:01:00] Нет фото: nCino Appoints Keith Kettell as Chief Re
+[2026-04-02 08:01:00] Неизвестный источник (pymnts.com): Visa and Ramp Develop AI Agents for Corp
+[2026-04-02 08:01:00] Неизвестный источник (futurity: research news): Brain activity reveals how well people a
+[2026-04-02 08:01:00] Неизвестный источник (fortune): More parents are done pushing college. 1
+[2026-04-02 08:01:00] Нет фото: OBIO® Celebrates Women Leaders in Life S
+[2026-04-02 08:01:00] Неизвестный источник (globenewswire): Schellman CEO Avani Desai Named to 2026 
+[2026-04-02 08:01:00] Нет фото: laiser 0.4.3
+[2026-04-02 08:01:00] Нет фото: laiser 0.4.2
+[2026-04-02 08:01:00] AI новости: найдено 3 после фильтрации
+[2026-04-02 08:01:03] Обрабатываю: Amid Oracle layoffs, corporate recruiter's message: 'Good wo
+[2026-04-02 08:01:03] Попытка 1 для: Amid Oracle layoffs, corporate recruiter
+[2026-04-02 08:01:04] Успешно, получено 776 символов
+[2026-04-02 08:01:05] Пауза 60 секунд...
+[2026-04-02 08:02:05] Обрабатываю: India’s gas shortage will make Dal compete with data
+[2026-04-02 08:02:05] Попытка 1 для: India’s gas shortage will make Dal compe
+[2026-04-02 08:02:06] Успешно, получено 553 символов
+[2026-04-02 08:02:07] Пауза 60 секунд...
+[2026-04-02 08:03:07] Обрабатываю: AI videos, WhatsApp networks reshape campaign playbook in po
+[2026-04-02 08:03:07] Попытка 1 для: AI videos, WhatsApp networks reshape cam
+[2026-04-02 08:03:08] Успешно, получено 729 символов
+[2026-04-02 08:03:08] === Блок ai_morning завершён ===
