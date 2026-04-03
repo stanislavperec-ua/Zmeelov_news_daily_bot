@@ -5695,3 +5695,53 @@
 [2026-04-03 11:03:58] Попытка 1 для: US-Europe rift widens as Trump lashes ou
 [2026-04-03 11:03:59] Успешно, получено 831 символов
 [2026-04-03 11:04:00] === Блок midday завершён ===
+[2026-04-03 16:00:46] Загружено 398 уже отправленных новостей
+[2026-04-03 16:00:46] === Запуск блока: evening ===
+[2026-04-03 16:00:46] Неизвестный источник (investor's business daily): Tesla Deliveries Due. Here's What To Exp
+[2026-04-03 16:00:46] Неизвестный источник (espn): Kirk Cousins agrees to sign contract wit
+[2026-04-03 16:00:46] Неизвестный источник (pitchfork): Kanye Wades Through the Fog at SoFi Stad
+[2026-04-03 16:00:46] Неизвестный источник (nbcsports.com): Fernando Mendoza on his Pro Day: I wante
+[2026-04-03 16:00:46] Неизвестный источник (sfgate): Strong earthquake jolts Bay Area in earl
+[2026-04-03 16:00:46] Неизвестный источник (eurogamer.net): The Super Mario Galaxy Movie breaks reco
+[2026-04-03 16:00:46] Неизвестный источник (sammyfans.com): Will your Samsung Galaxy device get stab
+[2026-04-03 16:00:46] Неизвестный источник (on3.com): 2026 NFL Draft: Lance Zierlein releases 
+[2026-04-03 16:00:46] Неизвестный источник (space.com): There was a bit of toilet trouble on NAS
+[2026-04-03 16:00:46] Неизвестный источник (sportslogos.net): Taking A Look At The Atlanta Falcons’ Lo
+[2026-04-03 16:00:46] Пропускаю уже отправленную: US-Europe rift widens as Trump lashes out at NATO 
+[2026-04-03 16:00:46] Неизвестный источник (hollywood reporter): Lindsey Buckingham Attacked by Woman in 
+[2026-04-03 16:00:46] Неизвестный источник (phoronix): Steam On Linux Use Skyrocketed In March 
+[2026-04-03 16:00:46] Неизвестный источник (beatofhawaii.com): Hawaii Visitors Are Swimming In Contamin
+[2026-04-03 16:00:46] Неизвестный источник (pcmag.com): Amazon's Big Spring Sale is Over, But Th
+[2026-04-03 16:00:46] Старая новость (2026-04-01T15:21:31Z): iPhone 17e vs. iPhone 17 Buyer's Guide: 
+[2026-04-03 16:00:46] Старая новость (2026-04-01T13:45:00Z): James Webb Telescope Unveils Hidden Star
+[2026-04-03 16:00:46] Старая новость (2026-03-31T19:00:56Z): April’s full pink moon may coincide with
+[2026-04-03 16:00:46] Мировые новости: найдено 12 после фильтрации
+[2026-04-03 16:00:46] Заблокированный источник (breitbart news): Iranian President Pezeshkian Asserts Him
+[2026-04-03 16:00:46] Заблокированный источник (breitbart news): Exclusive: Melania Trump Facilitates Fou
+[2026-04-03 16:00:46] Заблокированный источник (rt): Trump derides NATO over no-show in Iran 
+[2026-04-03 16:00:46] Нет фото: The Digital Leviathan
+[2026-04-03 16:00:46] Заблокированный источник (rt): Desperate conscription target fights off
+[2026-04-03 16:00:46] Заблокированный источник (rt): EU will end up in ‘debt hole’ – Moscow
+[2026-04-03 16:00:46] Украинские новости: найдено 1 после фильтрации
+[2026-04-03 16:00:47] Нет фото: Russian Forces Take Full Control of Luga
+[2026-04-03 16:00:47] Нет фото: Russia says its troops have taken full c
+[2026-04-03 16:00:47] Харьков: новостей не найдено
+[2026-04-03 16:00:49] Обрабатываю: Congress is in no rush to authorize Trump’s ballroom after j
+[2026-04-03 16:00:49] Попытка 1 для: Congress is in no rush to authorize Trum
+[2026-04-03 16:00:50] Успешно, получено 749 символов
+[2026-04-03 16:00:51] Пауза 60 секунд...
+[2026-04-03 16:01:51] Обрабатываю: Trump warns US will hit Iran ‘extremely hard’ over next two 
+[2026-04-03 16:01:51] Попытка 1 для: Trump warns US will hit Iran ‘extremely 
+[2026-04-03 16:01:52] Успешно, получено 672 символов
+[2026-04-03 16:01:52] Пауза 60 секунд...
+[2026-04-03 16:02:52] Обрабатываю: Senate gives House a second chance to deliver DHS funding
+[2026-04-03 16:02:52] Попытка 1 для: Senate gives House a second chance to de
+[2026-04-03 16:02:54] Успешно, получено 869 символов
+[2026-04-03 16:02:54] Пауза 60 секунд...
+[2026-04-03 16:03:54] Обрабатываю: Live Updates: Trump says Iran war will still take weeks, oil
+[2026-04-03 16:03:54] Попытка 1 для: Live Updates: Trump says Iran war will s
+[2026-04-03 16:03:55] Успешно, получено 692 символов
+[2026-04-03 16:03:58] Обрабатываю: World Central Kitchen Has Served Its 300 Millionth Meal in U
+[2026-04-03 16:03:58] Попытка 1 для: World Central Kitchen Has Served Its 300
+[2026-04-03 16:03:59] Успешно, получено 1110 символов
+[2026-04-03 16:04:00] === Блок evening завершён ===
