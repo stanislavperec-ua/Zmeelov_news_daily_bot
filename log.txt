@@ -5604,3 +5604,55 @@
 [2026-04-03 06:03:56] Попытка 1 для: Magnitude 7.4 quake hits off Indonesia’s
 [2026-04-03 06:03:57] Успешно, получено 693 символов
 [2026-04-03 06:03:58] === Блок morning завершён ===
+[2026-04-03 08:00:47] Загружено 392 уже отправленных новостей
+[2026-04-03 08:00:47] === Запуск блока: ai_morning ===
+[2026-04-03 08:00:47] Неизвестный источник (cbc news): East Toronto hospital using office space
+[2026-04-03 08:00:47] Неизвестный источник (financial post): Stocks and Bonds Tumble as War Anxiety L
+[2026-04-03 08:00:47] Неизвестный источник (rte): SpaceX makes first step towards public l
+[2026-04-03 08:00:47] Неизвестный источник (computerweekly.com): Wireless AI paradox emerges as Wi-Fi evo
+[2026-04-03 08:00:47] Нет фото: CallTower Announces Strategic Investment
+[2026-04-03 08:00:47] Неизвестный источник (inside higher ed): Rethinking Aging on College Campuses
+[2026-04-03 08:00:47] Нет фото: nexusagi 1.0.0
+[2026-04-03 08:00:47] Нет фото: nexusagi added to PyPI
+[2026-04-03 08:00:47] Неизвестный источник (computerweekly.com): UAE advances sovereign AI ambitions with
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): Generare raises $23.2M to discover unkno
+[2026-04-03 08:00:47] Неизвестный источник (the punch): Customs auction N14.8m petrol in Ikeja
+[2026-04-03 08:00:47] Неизвестный источник (minethatdata.com): A Glimpse Ahead
+[2026-04-03 08:00:47] Неизвестный источник (digital journal): What’s real anymore? AI warps truth of M
+[2026-04-03 08:00:47] Нет фото: geoai-py 0.37.0
+[2026-04-03 08:00:47] Нет фото: AI machine sorts clothes faster than hum
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): Intel to repurchase Apollo’s stake in Ir
+[2026-04-03 08:00:47] Нет фото: Collective behavior and memory states in
+[2026-04-03 08:00:47] Нет фото: A hybrid bio-inspired model for predicti
+[2026-04-03 08:00:47] Нет фото: Enhancing lung diseases recognition thro
+[2026-04-03 08:00:47] Нет фото: GroupCeptionNet: a lightweight model for
+[2026-04-03 08:00:47] Нет фото: Advancing cardiovascular disease diagnos
+[2026-04-03 08:00:47] Нет фото: An auto-validation method for a complete
+[2026-04-03 08:00:47] Нет фото: Development of a web platform for predic
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): Cognichip raises $60M to reinvent chip d
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): Cognichip raises $60 to reinvent chip de
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): SpaceX reportedly files for $75B public 
+[2026-04-03 08:00:47] Неизвестный источник (globenewswire): Abaxx Submits Comments to the National I
+[2026-04-03 08:00:47] Неизвестный источник (bmwgroup.com): The new BMW Group Plant Munich: More eff
+[2026-04-03 08:00:47] Неизвестный источник (united24media.com): Ukrainian Entrepreneurs in the US: Up to
+[2026-04-03 08:00:47] Неизвестный источник (nextgov): State official to EU: Work with us on te
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): What to expect during the Oracle Data De
+[2026-04-03 08:00:47] Неизвестный источник (financial post): AI runs on trust: Why cybersecurity will
+[2026-04-03 08:00:47] Неизвестный источник (siliconangle news): Coder secures $90M investment to optimiz
+[2026-04-03 08:00:47] Нет фото: AECOM and SMU Announce Strategic Partner
+[2026-04-03 08:00:47] Неизвестный источник (cryptoslate): Crypto faces a new risk as Iran threaten
+[2026-04-03 08:00:47] Неизвестный источник (quartz india): Visa launches AI tools to cut credit car
+[2026-04-03 08:00:47] Неизвестный источник (fda.gov): FDA warns consumers not to purchase or u
+[2026-04-03 08:00:47] AI новости: найдено 3 после фильтрации
+[2026-04-03 08:00:50] Обрабатываю: Broot.ai Chooses Vonage to Power its CRM Platform to Redefin
+[2026-04-03 08:00:50] Попытка 1 для: Broot.ai Chooses Vonage to Power its CRM
+[2026-04-03 08:00:51] Успешно, получено 683 символов
+[2026-04-03 08:00:52] Пауза 60 секунд...
+[2026-04-03 08:01:52] Обрабатываю: FY27 Outlook: Geopolitical pressure and AI disruption set to
+[2026-04-03 08:01:52] Попытка 1 для: FY27 Outlook: Geopolitical pressure and 
+[2026-04-03 08:01:52] Успешно, получено 797 символов
+[2026-04-03 08:01:53] Пауза 60 секунд...
+[2026-04-03 08:02:53] Обрабатываю: SpaceX files to go public, paving way to make Elon Musk firs
+[2026-04-03 08:02:53] Попытка 1 для: SpaceX files to go public, paving way to
+[2026-04-03 08:02:54] Успешно, получено 889 символов
+[2026-04-03 08:02:55] === Блок ai_morning завершён ===
