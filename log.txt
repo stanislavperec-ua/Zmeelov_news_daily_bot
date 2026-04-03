@@ -5656,3 +5656,42 @@
 [2026-04-03 08:02:53] Попытка 1 для: SpaceX files to go public, paving way to
 [2026-04-03 08:02:54] Успешно, получено 889 символов
 [2026-04-03 08:02:55] === Блок ai_morning завершён ===
+[2026-04-03 11:00:46] Загружено 395 уже отправленных новостей
+[2026-04-03 11:00:46] === Запуск блока: midday ===
+[2026-04-03 11:00:46] Неизвестный источник (cnbc): Dow futures slump 500 points as oil surg
+[2026-04-03 11:00:46] Неизвестный источник (space.com): Watch Artemis 2 fly through space in rea
+[2026-04-03 11:00:46] Неизвестный источник (dw (english)): Iran war: Oil prices jump, stocks fall a
+[2026-04-03 11:00:46] Неизвестный источник (space.com): There was a bit of toilet trouble on NAS
+[2026-04-03 11:00:46] Неизвестный источник (variety): ‘The Masked Singer’ Finale Reveals Ident
+[2026-04-03 11:00:46] Неизвестный источник (kiro seattle): Case closed: DNA evidence links serial k
+[2026-04-03 11:00:46] Неизвестный источник (espn): Rams wide receiver Puka Nacua is in reha
+[2026-04-03 11:00:46] Неизвестный источник (the spun): Tiger Woods Made 'Insulting' Remark To V
+[2026-04-03 11:00:46] Неизвестный источник (eonline.com): Joseph Duggar's Wife Kendra Reveals What
+[2026-04-03 11:00:46] Неизвестный источник (scitechdaily): This One Vitamin May Help Protect Your B
+[2026-04-03 11:00:46] Неизвестный источник (silver and black pride): Raiders NFL draft: Takeaways from Fernan
+[2026-04-03 11:00:46] Неизвестный источник (pew research center): How Americans view Trump’s handling of t
+[2026-04-03 11:00:46] Неизвестный источник (sports illustrated): March Madness Expert Predictions for the
+[2026-04-03 11:00:46] Неизвестный источник (macrumors): Apple CEO Tim Cook Explains His Relation
+[2026-04-03 11:00:46] Неизвестный источник (the daily galaxy --great discoveries channel): James Webb Telescope Unveils Hidden Star
+[2026-04-03 11:00:46] Неизвестный источник (wccftech): PS6 Handheld Will Reportedly Beat the Xb
+[2026-04-03 11:00:46] Старая новость (2026-04-01T00:21:00Z): 'Summer House': Amanda Batula & West Wil
+[2026-04-03 11:00:46] Старая новость (2026-03-31T21:04:00Z): Apple iPhone 18 Pro: Latest Leak Signals
+[2026-04-03 11:00:46] Старая новость (2026-03-31T19:00:56Z): April’s full pink moon may coincide with
+[2026-04-03 11:00:46] Старая новость (2026-03-31T15:57:58Z): Samsung Galaxy S26 Ultra Review - IGN
+[2026-04-03 11:00:46] Мировые новости: найдено 12 после фильтрации
+[2026-04-03 11:00:53] Обрабатываю: Inside the blame game roiling Georgia's GOP Senate primary
+[2026-04-03 11:00:53] Попытка 1 для: Inside the blame game roiling Georgia's 
+[2026-04-03 11:00:55] Успешно, получено 754 символов
+[2026-04-03 11:00:55] Пауза 60 секунд...
+[2026-04-03 11:01:55] Обрабатываю: Republicans aren’t rushing to save Trump’s ballroom
+[2026-04-03 11:01:55] Попытка 1 для: Republicans aren’t rushing to save Trump
+[2026-04-03 11:01:56] Успешно, получено 600 символов
+[2026-04-03 11:01:56] Пауза 60 секунд...
+[2026-04-03 11:02:56] Обрабатываю: Elon Musk’s SpaceX files to go public, seeking massive marke
+[2026-04-03 11:02:56] Попытка 1 для: Elon Musk’s SpaceX files to go public, s
+[2026-04-03 11:02:57] Успешно, получено 690 символов
+[2026-04-03 11:02:58] Пауза 60 секунд...
+[2026-04-03 11:03:58] Обрабатываю: US-Europe rift widens as Trump lashes out at NATO allies ove
+[2026-04-03 11:03:58] Попытка 1 для: US-Europe rift widens as Trump lashes ou
+[2026-04-03 11:03:59] Успешно, получено 831 символов
+[2026-04-03 11:04:00] === Блок midday завершён ===
