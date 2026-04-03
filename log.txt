@@ -5553,3 +5553,54 @@
 [2026-04-02 18:03:01] Попытка 1 для: SpaceX reportedly files plans for massiv
 [2026-04-02 18:03:02] Успешно, получено 592 символов
 [2026-04-02 18:03:03] === Блок ai_evening завершён ===
+[2026-04-03 06:00:49] Загружено 388 уже отправленных новостей
+[2026-04-03 06:00:49] === Запуск блока: morning ===
+[2026-04-03 06:00:49] Неизвестный источник (space.com): There's a bit of toilet trouble on NASA'
+[2026-04-03 06:00:49] Неизвестный источник (the detroit news): 'Survivor 50': Triple elimination! Here'
+[2026-04-03 06:00:49] Неизвестный источник (on3.com): Jay Bilas predicts outcomes of both Fina
+[2026-04-03 06:00:49] Неизвестный источник (oregonlive): Measles exposure reported at Portland ho
+[2026-04-03 06:00:49] Неизвестный источник (cnbc): Trump admin tells Supreme Court birth to
+[2026-04-03 06:00:49] Неизвестный источник (sports illustrated): Braylon Mullins’s Shot Was a Lifetime in
+[2026-04-03 06:00:49] Неизвестный источник (9to5mac): Download these ‘Apple at 50’ wallpapers 
+[2026-04-03 06:00:49] Неизвестный источник (beatofhawaii.com): Hawaii Visitors Are Swimming In Contamin
+[2026-04-03 06:00:49] Неизвестный источник (on3.com): 2026 NFL Draft: Lance Zierlein releases 
+[2026-04-03 06:00:49] Неизвестный источник (people): Kristi Noem's Husband Allegedly Told Mod
+[2026-04-03 06:00:49] Неизвестный источник (wccftech): PS6 Handheld Will Reportedly Beat the Xb
+[2026-04-03 06:00:49] Старая новость (2026-04-01T05:30:52Z): Megan Thee Stallion taken to hospital du
+[2026-04-03 06:00:49] Старая новость (2026-03-31T15:57:58Z): Samsung Galaxy S26 Ultra Review - IGN
+[2026-04-03 06:00:49] Мировые новости: найдено 11 после фильтрации
+[2026-04-03 06:00:49] Заблокированный источник (naturalnews.com): A bloody mirror: After decades of waging
+[2026-04-03 06:00:49] Заблокированный источник (naturalnews.com): The Empire’s Last Stand:Â A call for rat
+[2026-04-03 06:00:49] Заблокированный источник (naturalnews.com): LNG Price Spike Prompts Asian Shift to C
+[2026-04-03 06:00:49] Заблокированный источник (naturalnews.com): Germany’s Humiliating Capitulation Prove
+[2026-04-03 06:00:49] Нет фото: US Lifts Sanctions On Three Russian Vess
+[2026-04-03 06:00:49] Нет фото: How Iran's Hormuz Blockade Chokes Global
+[2026-04-03 06:00:49] Нет фото: Trump threatened to stop weapons for Ukr
+[2026-04-03 06:00:49] Нет фото: The US commends Latvia's contribution to
+[2026-04-03 06:00:49] Нет фото: Ukraine and the EU strengthen cooperatio
+[2026-04-03 06:00:49] Нет фото: Ukraine and Germany prepare to scale up 
+[2026-04-03 06:00:49] Нет фото: €200 million under the SAFE instrument: 
+[2026-04-03 06:00:49] Нет фото: Ukraine and NATO advance efforts to ensu
+[2026-04-03 06:00:49] Нет фото: PM call with Chancellor Merz of Germany:
+[2026-04-03 06:00:49] Нет фото: PM call with NATO Secretary General Mark
+[2026-04-03 06:00:49] Нет фото: PM call with President Zelenskyy of Ukra
+[2026-04-03 06:00:49] Украинские новости: найдено 0 после фильтрации
+[2026-04-03 06:00:49] Нет фото: Russia says its troops have taken full c
+[2026-04-03 06:00:49] Заблокированный источник (sputnikglobe.com): Russian Forces Take Full Control of Luga
+[2026-04-03 06:00:49] Харьков: новостей не найдено
+[2026-04-03 06:00:51] Обрабатываю: Trump: U.S. will bomb Iran "back to stone ages" over next 2-
+[2026-04-03 06:00:51] Попытка 1 для: Trump: U.S. will bomb Iran "back to ston
+[2026-04-03 06:00:53] Успешно, получено 721 символов
+[2026-04-03 06:00:53] Пауза 60 секунд...
+[2026-04-03 06:01:53] Обрабатываю: Elon Musk’s SpaceX files to go public, seeking massive marke
+[2026-04-03 06:01:53] Попытка 1 для: Elon Musk’s SpaceX files to go public, s
+[2026-04-03 06:01:54] Успешно, получено 798 символов
+[2026-04-03 06:01:55] Пауза 60 секунд...
+[2026-04-03 06:02:55] Обрабатываю: World's oldest known tortoise, Jonathan, dies aged 193
+[2026-04-03 06:02:55] Попытка 1 для: World's oldest known tortoise, Jonathan,
+[2026-04-03 06:02:56] Успешно, получено 746 символов
+[2026-04-03 06:02:56] Пауза 60 секунд...
+[2026-04-03 06:03:56] Обрабатываю: Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami wa
+[2026-04-03 06:03:56] Попытка 1 для: Magnitude 7.4 quake hits off Indonesia’s
+[2026-04-03 06:03:57] Успешно, получено 693 символов
+[2026-04-03 06:03:58] === Блок morning завершён ===
