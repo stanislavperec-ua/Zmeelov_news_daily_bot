@@ -5745,3 +5745,52 @@
 [2026-04-03 16:03:58] Попытка 1 для: World Central Kitchen Has Served Its 300
 [2026-04-03 16:03:59] Успешно, получено 1110 символов
 [2026-04-03 16:04:00] === Блок evening завершён ===
+[2026-04-03 18:00:51] Загружено 403 уже отправленных новостей
+[2026-04-03 18:00:51] === Запуск блока: ai_evening ===
+[2026-04-03 18:00:51] Неизвестный источник (ieee.org): Young Professional’s AI Tool Spots Menta
+[2026-04-03 18:00:51] Неизвестный источник (globenewswire): Fotor’s Joint Research Accepted by ICLR 
+[2026-04-03 18:00:51] Нет фото: BrightQuery Joins the Computing Research
+[2026-04-03 18:00:51] Неизвестный источник (decrypt): AI Could Become 2,000 Times More Efficie
+[2026-04-03 18:00:51] Нет фото: Trump administration appeals ruling that
+[2026-04-03 18:00:51] Неизвестный источник (cointelegraph): Bitcoin miner Soluna acquires $53M wind 
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): Google’s new Gemma 4 models bring comple
+[2026-04-03 18:00:51] Неизвестный источник (globenewswire): Transgene and NEC Bio Sign License Agree
+[2026-04-03 18:00:51] Нет фото: ESET Previews New AI Security Features t
+[2026-04-03 18:00:51] Неизвестный источник (globenewswire): ESET Previews New AI Security Features t
+[2026-04-03 18:00:51] Неизвестный источник (financial post): Tesla’s EV Sales Miss Expectations Again
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): HubSpot flips AI pricing on its head wit
+[2026-04-03 18:00:51] Неизвестный источник (plos.org): Estimating the velocity and direction of
+[2026-04-03 18:00:51] Неизвестный источник (plos.org): Estimation of space-time self-exciting p
+[2026-04-03 18:00:51] Неизвестный источник (plos.org): Impaired dynein function preserves spina
+[2026-04-03 18:00:51] Нет фото: SpaceX and OpenAI IPOs are unlikely to b
+[2026-04-03 18:00:51] Неизвестный источник (yahoo entertainment): 'No Need to Panic': Binance Founder Says
+[2026-04-03 18:00:51] Неизвестный источник (financial post): US Trade Deficit Widened in February by 
+[2026-04-03 18:00:51] Нет фото: Brightfin Unifies Brand Following Proven
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): Niobium brings fully encrypted AI worklo
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): Datadog debuts Experiments to unify prod
+[2026-04-03 18:00:51] Неизвестный источник (harvard business review): Strategy Summit 2026: Who’s Going to Suc
+[2026-04-03 18:00:51] Неизвестный источник (internet): ThreatsDay Bulletin: Pre-Auth Chains, An
+[2026-04-03 18:00:51] Неизвестный источник (globenewswire): InterDigital signs license agreement wit
+[2026-04-03 18:00:51] Нет фото: Visa Defines the Next Era of Commerce: W
+[2026-04-03 18:00:51] Неизвестный источник (kdnuggets.com): Top 5 Agent Skill Marketplaces for Build
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): Freshworks expands Freshservice with con
+[2026-04-03 18:00:51] Нет фото: Canadian FinTechs Continue to Lead DIY I
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): ISC2 brings AI security into the heart o
+[2026-04-03 18:00:51] Неизвестный источник (siliconangle news): Omniscient raises $4.1M for AI-driven de
+[2026-04-03 18:00:51] Неизвестный источник (financial post): Volatility is normal, panic is optional 
+[2026-04-03 18:00:51] Неизвестный источник (cbc news): East Toronto hospital using office space
+[2026-04-03 18:00:51] Неизвестный источник (financial post): Stocks and Bonds Tumble as War Anxiety L
+[2026-04-03 18:00:51] Неизвестный источник (rte): SpaceX makes first step towards public l
+[2026-04-03 18:00:51] AI новости: найдено 4 после фильтрации
+[2026-04-03 18:00:54] Обрабатываю: Karnataka showcases student innovators, deeptech solutions a
+[2026-04-03 18:00:54] Попытка 1 для: Karnataka showcases student innovators, 
+[2026-04-03 18:00:55] Успешно, получено 763 символов
+[2026-04-03 18:00:56] Пауза 60 секунд...
+[2026-04-03 18:01:56] Обрабатываю: Three Undervalued ASX 200 Shares Poised for Strong Growth in
+[2026-04-03 18:01:56] Попытка 1 для: Three Undervalued ASX 200 Shares Poised 
+[2026-04-03 18:01:58] Успешно, получено 643 символов
+[2026-04-03 18:01:59] Пауза 60 секунд...
+[2026-04-03 18:02:59] Обрабатываю: ET Awards for Corporate Excellence 2025: Celebrating India I
+[2026-04-03 18:02:59] Попытка 1 для: ET Awards for Corporate Excellence 2025:
+[2026-04-03 18:02:59] Успешно, получено 631 символов
+[2026-04-03 18:03:00] === Блок ai_evening завершён ===
