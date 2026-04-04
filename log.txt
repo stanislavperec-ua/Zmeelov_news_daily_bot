@@ -5898,3 +5898,44 @@
 [2026-04-04 08:01:51] Попытка 1 для: Karnataka showcases student innovators, 
 [2026-04-04 08:01:52] Успешно, получено 850 символов
 [2026-04-04 08:01:53] === Блок ai_morning завершён ===
+[2026-04-04 11:00:43] Загружено 412 уже отправленных новостей
+[2026-04-04 11:00:43] === Запуск блока: midday ===
+[2026-04-04 11:00:44] Неизвестный источник (yahoo entertainment): US employment growth likely rebounded in
+[2026-04-04 11:00:44] Неизвестный источник (business insider): Astronauts on Artemis II ran into a prob
+[2026-04-04 11:00:44] Неизвестный источник (wral.com): Blake Lively's sexual harassment claims 
+[2026-04-04 11:00:44] Пропускаю уже отправленную: Hegseth says he will let troops take personal fire
+[2026-04-04 11:00:44] Неизвестный источник (kptv.com): Safeway in SE Portland identified as mea
+[2026-04-04 11:00:44] Неизвестный источник (usa today): Audi Crooks enters transfer portal after
+[2026-04-04 11:00:44] Неизвестный источник (parade): Jana Duggar Breaks Silence on Brother Jo
+[2026-04-04 11:00:44] Неизвестный источник (deadline): Jeff Shell’s Future At Paramount In Hand
+[2026-04-04 11:00:44] Неизвестный источник (mashable): Google launches Gemma 4, a new open-sour
+[2026-04-04 11:00:44] Неизвестный источник (kabc-tv): New COVID variant 'Cicada' spreading amo
+[2026-04-04 11:00:44] Неизвестный источник (hollywood reporter): Hailee Steinfeld Welcomes First Child Wi
+[2026-04-04 11:00:44] Неизвестный источник (espn): South Carolina's Johnson on UConn loss: 
+[2026-04-04 11:00:44] Неизвестный источник (nbc new york): CDC pauses lab testing of rabies, monkey
+[2026-04-04 11:00:44] Неизвестный источник (slate magazine): One of the Most Famous Trials in U.S. Hi
+[2026-04-04 11:00:44] Неизвестный источник (france 24 english): 'An eye for an eye': Israel’s death pena
+[2026-04-04 11:00:44] Неизвестный источник (ksl.com): Eastern Utah measles infections double w
+[2026-04-04 11:00:44] Неизвестный источник (space.com): April full moon 2026 dazzles as 'Pink Mo
+[2026-04-04 11:00:44] Неизвестный источник (9to5mac): Apple employee #8 Chris Espinosa on work
+[2026-04-04 11:00:44] Старая новость (2026-04-02T10:00:10Z): You should think twice before buying the
+[2026-04-04 11:00:44] Старая новость (2026-04-02T08:38:31Z): Pakistan and Afghanistan hold peace talk
+[2026-04-04 11:00:44] Старая новость (2026-04-01T13:45:00Z): James Webb Telescope Unveils Hidden Star
+[2026-04-04 11:00:44] Старая новость (2026-04-01T12:14:02Z): Satellite spies SpaceX Starlink before i
+[2026-04-04 11:00:44] Мировые новости: найдено 7 после фильтрации
+[2026-04-04 11:00:46] Обрабатываю: Oil prices surge while Asian share prices rise moderately
+[2026-04-04 11:00:46] Попытка 1 для: Oil prices surge while Asian share price
+[2026-04-04 11:00:47] Успешно, получено 883 символов
+[2026-04-04 11:00:48] Пауза 60 секунд...
+[2026-04-04 11:01:48] Обрабатываю: Myanmar’s coup leader elected president by pro-military parl
+[2026-04-04 11:01:48] Попытка 1 для: Myanmar’s coup leader elected president 
+[2026-04-04 11:01:48] Успешно, получено 517 символов
+[2026-04-04 11:01:49] Пауза 60 секунд...
+[2026-04-04 11:02:49] Обрабатываю: Hegseth removes Army's top general during Iran war
+[2026-04-04 11:02:49] Попытка 1 для: Hegseth removes Army's top general durin
+[2026-04-04 11:02:50] Успешно, получено 651 символов
+[2026-04-04 11:02:50] Пауза 60 секунд...
+[2026-04-04 11:03:50] Обрабатываю: Artemis II astronauts rocket toward the moon after spending 
+[2026-04-04 11:03:50] Попытка 1 для: Artemis II astronauts rocket toward the 
+[2026-04-04 11:03:52] Успешно, получено 784 символов
+[2026-04-04 11:03:52] === Блок midday завершён ===
