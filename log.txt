@@ -5992,3 +5992,48 @@
 [2026-04-04 16:06:02] Попытка 1 для: Ukraine: Kharkiv under repeated attack o
 [2026-04-04 16:06:03] Успешно, получено 838 символов
 [2026-04-04 16:06:04] === Блок evening завершён ===
+[2026-04-04 18:00:47] Загружено 422 уже отправленных новостей
+[2026-04-04 18:00:47] === Запуск блока: ai_evening ===
+[2026-04-04 18:00:47] Неизвестный источник (thurrott.com): OpenAI Acquires Live Tech Talk Show TBPN
+[2026-04-04 18:00:47] Неизвестный источник (boston herald): Bridger pipeline expansion: New project 
+[2026-04-04 18:00:47] Неизвестный источник (siliconangle news): You can’t FinOps your way out of AI clou
+[2026-04-04 18:00:47] Неизвестный источник (the next web): How NinjaOne went from scrappy startup t
+[2026-04-04 18:00:47] Неизвестный источник (siliconangle news): SpaceX’s stratospheric IPO hopes, OpenAI
+[2026-04-04 18:00:47] Неизвестный источник (plos.org): Natural variation in expression of a pla
+[2026-04-04 18:00:47] Неизвестный источник (plos.org): Analysis of cortical dysplasias using b-
+[2026-04-04 18:00:47] Неизвестный источник (plos.org): Reliability analysis of horseshoe tunnel
+[2026-04-04 18:00:47] Неизвестный источник (plos.org): Exploring neural manifolds across a wide
+[2026-04-04 18:00:47] Нет фото: Trump Budget Pits Spending Cuts Against 
+[2026-04-04 18:00:47] Неизвестный источник (cointelegraph): Solo Bitcoin miner bags $210K Bitcoin bl
+[2026-04-04 18:00:47] Нет фото: stream-dataset 0.1.1
+[2026-04-04 18:00:47] Нет фото: stream-dataset added to PyPI
+[2026-04-04 18:00:47] Нет фото: stream-dataset 0.1.0
+[2026-04-04 18:00:47] Неизвестный источник (cnbc): 'Chasing vibes' — OpenAI's M&A strategy 
+[2026-04-04 18:00:47] Неизвестный источник (werd.io): Notable links: April 3, 2026
+[2026-04-04 18:00:47] Неизвестный источник (pymnts.com): OpenAI Buys Tech Talk Show TBPN in Media
+[2026-04-04 18:00:47] Неизвестный источник (bitcoinfoundation.org): Major Bitcoin Miners Actively Sell BTC A
+[2026-04-04 18:00:47] Нет фото: Macron Criticizes Trump and Calls on All
+[2026-04-04 18:00:47] Неизвестный источник (pypi.org): moment-neural-network added to PyPI
+[2026-04-04 18:00:47] Неизвестный источник (cbc news): Can AI apps replace teachers? Experts ur
+[2026-04-04 18:00:47] Неизвестный источник (financial post): Microsoft Charts $10 Billion of Outlays 
+[2026-04-04 18:00:47] Неизвестный источник (livemint): India’s LPG crisis will force a tough ch
+[2026-04-04 18:00:47] Неизвестный источник (altcraft.com): Dark Patterns in Marketing: Types, Examp
+[2026-04-04 18:00:47] Неизвестный источник (the punch): Minister recalls 2001 Jos violence, unve
+[2026-04-04 18:00:47] Неизвестный источник (smallwarsjournal.com): AI, Warfare, and Augmented Cities
+[2026-04-04 18:00:47] Нет фото: Macron Says France, South Korea Can Work
+[2026-04-04 18:00:47] Неизвестный источник (livemint): OpenAI expands into media with TBPN acqu
+[2026-04-04 18:00:47] Нет фото: Easter eggs can be dyed and still eaten.
+[2026-04-04 18:00:47] Неизвестный источник (siliconangle news): PitchBook: US venture funding surges to 
+[2026-04-04 18:00:47] Неизвестный источник (seclists.org): Apple OHTTP Relay: 14 Third-Party Endpoi
+[2026-04-04 18:00:47] Неизвестный источник (werd.io): An AI company set out to fix news desert
+[2026-04-04 18:00:47] Неизвестный источник (globenewswire): Century Huatong Launches the 2nd Digiloo
+[2026-04-04 18:00:47] Неизвестный источник (siliconangle news): Cursor refreshes its vibe coding platfor
+[2026-04-04 18:00:47] Неизвестный источник (siliconangle news): ZeroEyes expands AI-based threat detecti
+[2026-04-04 18:00:47] Нет фото: A framework for a national cancer imagin
+[2026-04-04 18:00:47] Нет фото: Disentangled autoencoding equivariant di
+[2026-04-04 18:00:47] Нет фото: Improving rare-class detection in deep-s
+[2026-04-04 18:00:47] AI новости: найдено 1 после фильтрации
+[2026-04-04 18:00:50] Обрабатываю: A Beacon in the Storm: C-suite Mentoring as a Leadership Imp
+[2026-04-04 18:00:50] Попытка 1 для: A Beacon in the Storm: C-suite Mentoring
+[2026-04-04 18:00:51] Успешно, получено 708 символов
+[2026-04-04 18:00:51] === Блок ai_evening завершён ===
