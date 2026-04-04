@@ -5794,3 +5794,59 @@
 [2026-04-03 18:02:59] Попытка 1 для: ET Awards for Corporate Excellence 2025:
 [2026-04-03 18:02:59] Успешно, получено 631 символов
 [2026-04-03 18:03:00] === Блок ai_evening завершён ===
+[2026-04-04 06:00:47] Загружено 406 уже отправленных новостей
+[2026-04-04 06:00:47] === Запуск блока: morning ===
+[2026-04-04 06:00:47] Неизвестный источник (profootballrumors.com): Details On Raiders QB Kirk Cousins’ Deal
+[2026-04-04 06:00:47] Неизвестный источник (espn): Luka Doncic exits Lakers' game in OKC wi
+[2026-04-04 06:00:47] Неизвестный источник (katu): Measles confirmed at Safeway in Portland
+[2026-04-04 06:00:47] Неизвестный источник (mashable): Google launches Gemma 4, a new open-sour
+[2026-04-04 06:00:47] Неизвестный источник (thenationaldesk.com): Kendra Duggar tells Joseph Duggar she no
+[2026-04-04 06:00:47] Неизвестный источник (kabc-tv): New COVID variant 'Cicada' spreading amo
+[2026-04-04 06:00:47] Неизвестный источник (espn): South Carolina's Johnson on UConn loss: 
+[2026-04-04 06:00:47] Неизвестный источник (nbc new york): CDC pauses lab testing of rabies, monkey
+[2026-04-04 06:00:47] Неизвестный источник (kabc-tv): Doctors, nurses arrested in SoCal health
+[2026-04-04 06:00:47] Неизвестный источник (chron.com): NASA engineers in Houston fix crappy sit
+[2026-04-04 06:00:47] Неизвестный источник (deadline): ‘Super Mario Galaxy Movie’ Soars To $68M
+[2026-04-04 06:00:47] Неизвестный источник (ksl.com): Eastern Utah measles infections double w
+[2026-04-04 06:00:47] Неизвестный источник (space.com): April full moon 2026 dazzles as 'Pink Mo
+[2026-04-04 06:00:47] Неизвестный источник (9to5mac): Apple employee #8 Chris Espinosa on work
+[2026-04-04 06:00:47] Старая новость (2026-04-01T13:45:00Z): James Webb Telescope Unveils Hidden Star
+[2026-04-04 06:00:47] Старая новость (2026-04-01T13:30:00Z): Nintendo is weathering the storm - The V
+[2026-04-04 06:00:47] Мировые новости: найдено 12 после фильтрации
+[2026-04-04 06:00:47] Заблокированный источник (naturalnews.com): The Coming Sacrifice: Why Trumpâs Firi
+[2026-04-04 06:00:47] Заблокированный источник (naturalnews.com): The algorithmic frontline: How Ukraine b
+[2026-04-04 06:00:47] Заблокированный источник (naturalnews.com): A damaged artery at a dangerous time: La
+[2026-04-04 06:00:47] Заблокированный источник (sputnikglobe.com): Pentagon Fires Army Chief of Staff, 2 Ge
+[2026-04-04 06:00:47] Нет фото: Gen Z doesn't have the same hang-ups abo
+[2026-04-04 06:00:47] Нет фото: Poland's top diplomat takes part in meet
+[2026-04-04 06:00:47] Нет фото: EU launches €1.5 billion programme for t
+[2026-04-04 06:00:47] Нет фото: Hellish strikes on russia: The Defence F
+[2026-04-04 06:00:47] Нет фото: Donald Trump would regret leaving NATO
+[2026-04-04 06:00:47] Нет фото: EU SCAM EXPOSED: Croatian MEP Mislav Kol
+[2026-04-04 06:00:47] Украинские новости: найдено 3 после фильтрации
+[2026-04-04 06:00:47] Нет фото: Russian aerial attacks kill 2 in Ukraine
+[2026-04-04 06:00:47] Нет фото: Russian Forces Take Full Control of Luga
+[2026-04-04 06:00:47] Харьков: новостей не найдено
+[2026-04-04 06:00:50] Обрабатываю: As Trump doubles down on Iran war, markets shudder and oil p
+[2026-04-04 06:00:50] Попытка 1 для: As Trump doubles down on Iran war, marke
+[2026-04-04 06:00:51] Успешно, получено 573 символов
+[2026-04-04 06:00:52] Пауза 60 секунд...
+[2026-04-04 06:01:52] Обрабатываю: Hegseth removes Army's top general during Iran war
+[2026-04-04 06:01:52] Попытка 1 для: Hegseth removes Army's top general durin
+[2026-04-04 06:01:53] Успешно, получено 508 символов
+[2026-04-04 06:01:53] Пауза 60 секунд...
+[2026-04-04 06:02:53] Обрабатываю: Hegseth says he will let troops take personal firearms onto 
+[2026-04-04 06:02:53] Попытка 1 для: Hegseth says he will let troops take per
+[2026-04-04 06:02:54] Успешно, получено 690 символов
+[2026-04-04 06:02:55] Пауза 60 секунд...
+[2026-04-04 06:03:55] Обрабатываю: Live Updates: Trump says Iran war will still take weeks, oil
+[2026-04-04 06:03:55] Попытка 1 для: Live Updates: Trump says Iran war will s
+[2026-04-04 06:03:56] Успешно, получено 762 символов
+[2026-04-04 06:03:59] Обрабатываю: Ukraine Confirmed Its Insecurity By Complaining About A Pro-
+[2026-04-04 06:03:59] Попытка 1 для: Ukraine Confirmed Its Insecurity By Comp
+[2026-04-04 06:04:00] Успешно, получено 925 символов
+[2026-04-04 06:04:02] Пауза 60 секунд...
+[2026-04-04 06:05:02] Обрабатываю: Russia woos students for its drone forces in Ukraine with la
+[2026-04-04 06:05:02] Попытка 1 для: Russia woos students for its drone force
+[2026-04-04 06:05:03] Успешно, получено 820 символов
+[2026-04-04 06:05:04] === Блок morning завершён ===
