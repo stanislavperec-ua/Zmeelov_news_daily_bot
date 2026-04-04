@@ -5939,3 +5939,56 @@
 [2026-04-04 11:03:50] Попытка 1 для: Artemis II astronauts rocket toward the 
 [2026-04-04 11:03:52] Успешно, получено 784 символов
 [2026-04-04 11:03:52] === Блок midday завершён ===
+[2026-04-04 16:00:47] Загружено 415 уже отправленных новостей
+[2026-04-04 16:00:47] === Запуск блока: evening ===
+[2026-04-04 16:00:47] Неизвестный источник (mlb trade rumors): The Opener: Free Agent Power Rankings, G
+[2026-04-04 16:00:47] Неизвестный источник (variety): Inside Savannah Guthrie's 'Today' Return
+[2026-04-04 16:00:47] Неизвестный источник (new york post): Lakers’ Luka Doncic injury nightmare sta
+[2026-04-04 16:00:47] Неизвестный источник (daily beast): Fidgeting Trump Had to Be Moved During S
+[2026-04-04 16:00:47] Неизвестный источник (earth.com): Pollen allergy season is here and gettin
+[2026-04-04 16:00:47] Неизвестный источник (people): Tiger Woods Arrest Body Cam Footage Show
+[2026-04-04 16:00:47] Неизвестный источник (business insider): Astronauts on Artemis II ran into a prob
+[2026-04-04 16:00:47] Неизвестный источник (hollywood reporter): Ryan Gosling Exits The Daniels Untitled 
+[2026-04-04 16:00:47] Неизвестный источник (kptv.com): Safeway in SE Portland identified as mea
+[2026-04-04 16:00:47] Неизвестный источник (parade): Jana Duggar Breaks Silence on Brother Jo
+[2026-04-04 16:00:47] Неизвестный источник (kabc-tv): New COVID variant 'Cicada' spreading amo
+[2026-04-04 16:00:47] Неизвестный источник (nbc new york): CDC pauses lab testing of rabies, monkey
+[2026-04-04 16:00:47] Неизвестный источник (chron.com): NASA engineers in Houston fix crappy sit
+[2026-04-04 16:00:47] Старая новость (2026-04-02T14:07:08Z): April full moon 2026 dazzles as 'Pink Mo
+[2026-04-04 16:00:47] Старая новость (2026-04-02T14:06:35Z): Pixel 11 Pro XL renders show Google goin
+[2026-04-04 16:00:47] Старая новость (2026-04-02T08:57:39Z): Samsung’s peak Quick Panel customization
+[2026-04-04 16:00:47] Мировые новости: найдено 13 после фильтрации
+[2026-04-04 16:00:48] Нет фото: German Provocateur Artist Sentenced to 8
+[2026-04-04 16:00:48] Заблокированный источник (sputnikglobe.com): Russia and Turkiye to Boost Joint Work o
+[2026-04-04 16:00:48] Заблокированный источник (sputnikglobe.com): 'War is Women’s Business': Ukraine Force
+[2026-04-04 16:00:48] Заблокированный источник (rt): EU could become greater military threat 
+[2026-04-04 16:00:48] Украинские новости: найдено 5 после фильтрации
+[2026-04-04 16:00:48] Нет фото: Russian aerial attacks kill 2 in Ukraine
+[2026-04-04 16:00:48] Харьков: найдена новость — Ukraine: Kharkiv under repeated attack on 1,500th 
+[2026-04-04 16:00:50] Обрабатываю: Trump calls for a major increase in defense spending alongsi
+[2026-04-04 16:00:50] Попытка 1 для: Trump calls for a major increase in defe
+[2026-04-04 16:00:52] Успешно, получено 771 символов
+[2026-04-04 16:00:52] Пауза 60 секунд...
+[2026-04-04 16:01:52] Обрабатываю: U.S. fighter jet shot down in Iran, search underway for crew
+[2026-04-04 16:01:52] Попытка 1 для: U.S. fighter jet shot down in Iran, sear
+[2026-04-04 16:01:53] Успешно, получено 578 символов
+[2026-04-04 16:01:53] Пауза 60 секунд...
+[2026-04-04 16:02:53] Обрабатываю: Artemis II is officially on its way to the moon
+[2026-04-04 16:02:53] Попытка 1 для: Artemis II is officially on its way to t
+[2026-04-04 16:02:54] Успешно, получено 623 символов
+[2026-04-04 16:02:56] Пауза 60 секунд...
+[2026-04-04 16:03:56] Обрабатываю: Who is Christopher LaNeve, set to lead the US Army?
+[2026-04-04 16:03:56] Попытка 1 для: Who is Christopher LaNeve, set to lead t
+[2026-04-04 16:03:57] Успешно, получено 630 символов
+[2026-04-04 16:04:00] Обрабатываю: Ukraine slows enemy advances, liberates land, drains Russia’
+[2026-04-04 16:04:00] Попытка 1 для: Ukraine slows enemy advances, liberates 
+[2026-04-04 16:04:01] Успешно, получено 707 символов
+[2026-04-04 16:04:01] Пауза 60 секунд...
+[2026-04-04 16:05:01] Обрабатываю: Russian strikes on Ukraine kill 8 as Kyiv holds door open fo
+[2026-04-04 16:05:01] Попытка 1 для: Russian strikes on Ukraine kill 8 as Kyi
+[2026-04-04 16:05:02] Успешно, получено 705 символов
+[2026-04-04 16:05:02] Пауза 60 секунд...
+[2026-04-04 16:06:02] Обрабатываю: Ukraine: Kharkiv under repeated attack on 1,500th day of war
+[2026-04-04 16:06:02] Попытка 1 для: Ukraine: Kharkiv under repeated attack o
+[2026-04-04 16:06:03] Успешно, получено 838 символов
+[2026-04-04 16:06:04] === Блок evening завершён ===
