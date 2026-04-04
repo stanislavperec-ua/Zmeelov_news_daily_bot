@@ -5850,3 +5850,51 @@
 [2026-04-04 06:05:02] Попытка 1 для: Russia woos students for its drone force
 [2026-04-04 06:05:03] Успешно, получено 820 символов
 [2026-04-04 06:05:04] === Блок morning завершён ===
+[2026-04-04 08:00:46] Загружено 411 уже отправленных новостей
+[2026-04-04 08:00:46] === Запуск блока: ai_morning ===
+[2026-04-04 08:00:47] Неизвестный источник (cbc news): Can AI apps replace teachers? Experts ur
+[2026-04-04 08:00:47] Неизвестный источник (financial post): Microsoft Charts $10 Billion of Outlays 
+[2026-04-04 08:00:47] Неизвестный источник (livemint): India’s LPG crisis will force a tough ch
+[2026-04-04 08:00:47] Неизвестный источник (altcraft.com): Dark Patterns in Marketing: Types, Examp
+[2026-04-04 08:00:47] Неизвестный источник (the punch): Minister recalls 2001 Jos violence, unve
+[2026-04-04 08:00:47] Неизвестный источник (smallwarsjournal.com): AI, Warfare, and Augmented Cities
+[2026-04-04 08:00:47] Нет фото: Macron Says France, South Korea Can Work
+[2026-04-04 08:00:47] Неизвестный источник (livemint): OpenAI expands into media with TBPN acqu
+[2026-04-04 08:00:47] Нет фото: Easter eggs can be dyed and still eaten.
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): PitchBook: US venture funding surges to 
+[2026-04-04 08:00:47] Неизвестный источник (seclists.org): Apple OHTTP Relay: 14 Third-Party Endpoi
+[2026-04-04 08:00:47] Неизвестный источник (werd.io): An AI company set out to fix news desert
+[2026-04-04 08:00:47] Неизвестный источник (globenewswire): Century Huatong Launches the 2nd Digiloo
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): Cursor refreshes its vibe coding platfor
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): ZeroEyes expands AI-based threat detecti
+[2026-04-04 08:00:47] Нет фото: A framework for a national cancer imagin
+[2026-04-04 08:00:47] Нет фото: Disentangled autoencoding equivariant di
+[2026-04-04 08:00:47] Нет фото: Improving rare-class detection in deep-s
+[2026-04-04 08:00:47] Нет фото: Proof-of-concept of harvest peak control
+[2026-04-04 08:00:47] Нет фото: Antiferroelectric polarization enabling 
+[2026-04-04 08:00:47] Нет фото: Research on the problem of spatial heter
+[2026-04-04 08:00:47] Неизвестный источник (national geographic): Oregon has cleaned up its waterways. Her
+[2026-04-04 08:00:47] Неизвестный источник (the punch): Plateau bloodshed: Tinubu visits victims
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): Alcatraz raises $50M to bring Apple Face
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): Cloudflare debuts EmDash to challenge ag
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): OpenAI acquires tech industry podcast TB
+[2026-04-04 08:00:47] Неизвестный источник (amazon.com): Four security principles for agentic AI 
+[2026-04-04 08:00:47] Неизвестный источник (globenewswire): Regeneron Collaborates with TriNetX to A
+[2026-04-04 08:00:47] Неизвестный источник (pr newswire uk): TriNetX Collaborates with Regeneron to A
+[2026-04-04 08:00:47] Неизвестный источник (siliconangle news): Microsoft launches new high-speed voice 
+[2026-04-04 08:00:47] Неизвестный источник (the punch): Plateau killings: Tinubu orders 5,000 CC
+[2026-04-04 08:00:47] Неизвестный источник (internet): Hackers Exploit CVE-2025-55182 to Breach
+[2026-04-04 08:00:47] Неизвестный источник (variety): OpenAI Buys TBPN, a Daily Tech Talk Show
+[2026-04-04 08:00:47] Неизвестный источник (ieee.org): Young Professional’s AI Tool Spots Menta
+[2026-04-04 08:00:47] Неизвестный источник (globenewswire): Fotor’s Joint Research Accepted by ICLR 
+[2026-04-04 08:00:47] Нет фото: BrightQuery Joins the Computing Research
+[2026-04-04 08:00:47] Неизвестный источник (decrypt): AI Could Become 2,000 Times More Efficie
+[2026-04-04 08:00:47] AI новости: найдено 2 после фильтрации
+[2026-04-04 08:00:49] Обрабатываю: What's next for Meta in the wake of trial losses and layoffs
+[2026-04-04 08:00:49] Попытка 1 для: What's next for Meta in the wake of tria
+[2026-04-04 08:00:50] Успешно, получено 684 символов
+[2026-04-04 08:00:51] Пауза 60 секунд...
+[2026-04-04 08:01:51] Обрабатываю: Karnataka showcases student innovators, deeptech solutions a
+[2026-04-04 08:01:51] Попытка 1 для: Karnataka showcases student innovators, 
+[2026-04-04 08:01:52] Успешно, получено 850 символов
+[2026-04-04 08:01:53] === Блок ai_morning завершён ===
