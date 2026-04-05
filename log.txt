@@ -6248,3 +6248,42 @@
 [2026-04-05 16:04:58] Попытка 1 для: Russian attack on Ukraine market kills f
 [2026-04-05 16:04:59] Успешно, получено 873 символов
 [2026-04-05 16:04:59] === Блок evening завершён ===
+[2026-04-05 18:00:45] Загружено 440 уже отправленных новостей
+[2026-04-05 18:00:45] === Запуск блока: ai_evening ===
+[2026-04-05 18:00:45] Нет фото: stream-dataset 0.1.5
+[2026-04-05 18:00:45] Нет фото: stream-dataset 0.1.4
+[2026-04-05 18:00:45] Неизвестный источник (substack.com): Why the Most Valuable Things You Know Ar
+[2026-04-05 18:00:45] Неизвестный источник (/film): Battlestar Galactica Inspired Two Crucia
+[2026-04-05 18:00:45] Нет фото: stream-dataset 0.1.3
+[2026-04-05 18:00:45] Неизвестный источник (onefootball.com):  Brazilian club claims R$745m from Lyon,
+[2026-04-05 18:00:45] Неизвестный источник (businessline): AI is rewiring Bollywood, the world's mo
+[2026-04-05 18:00:45] Нет фото: 'Wow!' The eye surgery marathon that res
+[2026-04-05 18:00:45] Пропускаю уже отправленную: Elon Musk Highlights Grok AI's Ability to Generate
+[2026-04-05 18:00:45] Неизвестный источник (bleeding cool news): Psylocke: Ninja #4 Preview: Jubilee in t
+[2026-04-05 18:00:45] Нет фото: A distributed fusion framework for breas
+[2026-04-05 18:00:45] Нет фото: Synthesis and characterization of graphi
+[2026-04-05 18:00:45] Нет фото: Automatic speech analysis can predict lo
+[2026-04-05 18:00:45] Нет фото: Multiscale electric fields direct charge
+[2026-04-05 18:00:45] Нет фото: A novel nonlinear PID controller design 
+[2026-04-05 18:00:45] Неизвестный источник (siliconangle news): Report: Edge AI chip startup Hailo to go
+[2026-04-05 18:00:45] Неизвестный источник (siliconangle news): Deepfakes and malware: AI menu grows lon
+[2026-04-05 18:00:45] Неизвестный источник (bleeding cool news): Action Comics #1097 Preview: Smallville 
+[2026-04-05 18:00:45] Неизвестный источник (siliconangle news): Anthropic reportedly acquires medical AI
+[2026-04-05 18:00:45] Неизвестный источник (the next web): Musk wants a million data centre satelli
+[2026-04-05 18:00:45] Неизвестный источник (pymnts.com): Digital Money Has a New Payment Standard
+[2026-04-05 18:00:45] Нет фото: stream-dataset 0.1.2
+[2026-04-05 18:00:45] Неизвестный источник (siliconangle news): AI’s context memory explosion hits the s
+[2026-04-05 18:00:45] Внутренний дубль: Who are Delve founders Karun Kaushik and Selin Koc
+[2026-04-05 18:00:45] AI новости: найдено 4 после фильтрации
+[2026-04-05 18:00:48] Обрабатываю: The 'enshitification' of the system has left Australia's uni
+[2026-04-05 18:00:48] Попытка 1 для: The 'enshitification' of the system has 
+[2026-04-05 18:00:50] Успешно, получено 1195 символов
+[2026-04-05 18:00:50] Пауза 60 секунд...
+[2026-04-05 18:01:50] Обрабатываю: IndianOil urges calm on fuel supply amid Iran war concerns, 
+[2026-04-05 18:01:50] Попытка 1 для: IndianOil urges calm on fuel supply amid
+[2026-04-05 18:01:51] Успешно, получено 647 символов
+[2026-04-05 18:01:52] Пауза 60 секунд...
+[2026-04-05 18:02:52] Обрабатываю: Who are Delve founders Karun Kaushik and Selin Kocalar?
+[2026-04-05 18:02:52] Попытка 1 для: Who are Delve founders Karun Kaushik and
+[2026-04-05 18:02:53] Успешно, получено 753 символов
+[2026-04-05 18:02:53] === Блок ai_evening завершён ===
