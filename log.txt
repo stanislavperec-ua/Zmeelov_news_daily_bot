@@ -6104,3 +6104,45 @@
 [2026-04-05 06:06:05] Попытка 1 для: Ukraine: Kharkiv under repeated attack o
 [2026-04-05 06:06:06] Успешно, получено 820 символов
 [2026-04-05 06:06:07] === Блок morning завершён ===
+[2026-04-05 08:00:49] Загружено 429 уже отправленных новостей
+[2026-04-05 08:00:49] === Запуск блока: ai_morning ===
+[2026-04-05 08:00:49] Неизвестный источник (bleeding cool news): Psylocke: Ninja #4 Preview: Jubilee in t
+[2026-04-05 08:00:49] Нет фото: A distributed fusion framework for breas
+[2026-04-05 08:00:49] Нет фото: Synthesis and characterization of graphi
+[2026-04-05 08:00:49] Нет фото: A novel nonlinear PID controller design 
+[2026-04-05 08:00:49] Нет фото: Automatic speech analysis can predict lo
+[2026-04-05 08:00:49] Нет фото: Multiscale electric fields direct charge
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): Report: Edge AI chip startup Hailo to go
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): Deepfakes and malware: AI menu grows lon
+[2026-04-05 08:00:49] Неизвестный источник (bleeding cool news): Action Comics #1097 Preview: Smallville 
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): Anthropic reportedly acquires medical AI
+[2026-04-05 08:00:49] Неизвестный источник (the next web): Musk wants a million data centre satelli
+[2026-04-05 08:00:49] Неизвестный источник (pymnts.com): Digital Money Has a New Payment Standard
+[2026-04-05 08:00:49] Нет фото: stream-dataset 0.1.2
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): AI’s context memory explosion hits the s
+[2026-04-05 08:00:49] Неизвестный источник (thurrott.com): OpenAI Acquires Live Tech Talk Show TBPN
+[2026-04-05 08:00:49] Неизвестный источник (boston herald): Bridger pipeline expansion: New project 
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): You can’t FinOps your way out of AI clou
+[2026-04-05 08:00:49] Неизвестный источник (the next web): How NinjaOne went from scrappy startup t
+[2026-04-05 08:00:49] Неизвестный источник (siliconangle news): SpaceX’s stratospheric IPO hopes, OpenAI
+[2026-04-05 08:00:49] Неизвестный источник (plos.org): Analysis of cortical dysplasias using b-
+[2026-04-05 08:00:49] Неизвестный источник (plos.org): Natural variation in expression of a pla
+[2026-04-05 08:00:49] Неизвестный источник (plos.org): Reliability analysis of horseshoe tunnel
+[2026-04-05 08:00:49] Неизвестный источник (plos.org): Exploring neural manifolds across a wide
+[2026-04-05 08:00:49] Нет фото: Trump Budget Pits Spending Cuts Against 
+[2026-04-05 08:00:49] Неизвестный источник (cointelegraph): Solo Bitcoin miner bags $210K Bitcoin bl
+[2026-04-05 08:00:49] Нет фото: stream-dataset 0.1.1
+[2026-04-05 08:00:49] Нет фото: stream-dataset added to PyPI
+[2026-04-05 08:00:49] Нет фото: stream-dataset 0.1.0
+[2026-04-05 08:00:49] Неизвестный источник (cnbc): 'Chasing vibes' — OpenAI's M&A strategy 
+[2026-04-05 08:00:49] Неизвестный источник (werd.io): Notable links: April 3, 2026
+[2026-04-05 08:00:49] Пропускаю уже отправленную: A Beacon in the Storm: C-suite Mentoring as a Lead
+[2026-04-05 08:00:49] Неизвестный источник (pymnts.com): OpenAI Buys Tech Talk Show TBPN in Media
+[2026-04-05 08:00:49] Неизвестный источник (bitcoinfoundation.org): Major Bitcoin Miners Actively Sell BTC A
+[2026-04-05 08:00:49] Нет фото: Macron Criticizes Trump and Calls on All
+[2026-04-05 08:00:49] Неизвестный источник (pypi.org): moment-neural-network added to PyPI
+[2026-04-05 08:00:49] AI новости: найдено 1 после фильтрации
+[2026-04-05 08:00:52] Обрабатываю: Elon Musk Highlights Grok AI's Ability to Generate Better Pr
+[2026-04-05 08:00:52] Попытка 1 для: Elon Musk Highlights Grok AI's Ability t
+[2026-04-05 08:00:53] Успешно, получено 915 символов
+[2026-04-05 08:00:53] === Блок ai_morning завершён ===
