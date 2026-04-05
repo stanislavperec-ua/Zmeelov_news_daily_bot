@@ -6037,3 +6037,70 @@
 [2026-04-04 18:00:50] Попытка 1 для: A Beacon in the Storm: C-suite Mentoring
 [2026-04-04 18:00:51] Успешно, получено 708 символов
 [2026-04-04 18:00:51] === Блок ai_evening завершён ===
+[2026-04-05 06:00:49] Загружено 423 уже отправленных новостей
+[2026-04-05 06:00:49] === Запуск блока: morning ===
+[2026-04-05 06:00:49] Неизвестный источник (kabc-tv): Brush fires burning in Moreno Valley and
+[2026-04-05 06:00:49] Неизвестный источник (deadline): Blake Lively Vows To Fight On After Bald
+[2026-04-05 06:00:49] Неизвестный источник (nbcsports.com): South Carolina smothers UConn 62-48 to a
+[2026-04-05 06:00:49] Неизвестный источник (indiandefencereview.com): US Cardiologists Just Released New Guide
+[2026-04-05 06:00:49] Неизвестный источник (venturebeat): Karpathy shares 'LLM Knowledge Base' arc
+[2026-04-05 06:00:49] Неизвестный источник (mashable): Google launches Gemma 4, a new open-sour
+[2026-04-05 06:00:49] Неизвестный источник (wabc-tv): Brooklyn baby killed: Second person arre
+[2026-04-05 06:00:49] Неизвестный источник (whitehouse.gov): Liberating the Department of Homeland Se
+[2026-04-05 06:00:49] Неизвестный источник (gizmodo.com): US Airlines Are Hiking Bag Fees Amid Ira
+[2026-04-05 06:00:49] Неизвестный источник (news on 6): Zach Bryan’s Friday Tulsa concert at H.A
+[2026-04-05 06:00:49] Неизвестный источник (sports illustrated): Former Masters Champ Says Quiet Part Out
+[2026-04-05 06:00:49] Неизвестный источник (9to5mac): Apple releases new iOS 26.5 beta 1 build
+[2026-04-05 06:00:49] Неизвестный источник (outkick.com): Artemis II Astronaut Christina Koch Proc
+[2026-04-05 06:00:49] Неизвестный источник (the planetary society): The Planetary Society urges Congress to 
+[2026-04-05 06:00:49] Неизвестный источник (reality tea): Summer House’s Kyle Cooke Goes After Wes
+[2026-04-05 06:00:49] Старая новость (2026-04-03T00:29:00Z): Safeway in SE Portland identified as mea
+[2026-04-05 06:00:49] Старая новость (2026-04-02T14:07:08Z): April full moon 2026 dazzles as 'Pink Mo
+[2026-04-05 06:00:49] Старая новость (2026-04-02T11:00:55Z): Kids may be more likely to get the new ‘
+[2026-04-05 06:00:49] Мировые новости: найдено 11 после фильтрации
+[2026-04-05 06:00:49] Нет фото: US Withdrawal from NATO Debated [semi-sa
+[2026-04-05 06:00:49] Заблокированный источник (rt): Top senator explains why Russia will not
+[2026-04-05 06:00:49] Нет фото: Belarus Cancels Passport Of Nobel Laurea
+[2026-04-05 06:00:49] Нет фото: Iran Conflict Disrupts Private US Humani
+[2026-04-05 06:00:49] Пропускаю российский фокус: ‘The Kremlin is shifting its tactics to increase c
+[2026-04-05 06:00:49] Нет фото: News Summary-Intelligence Report 4/3/202
+[2026-04-05 06:00:49] Нет фото: Russian oil terminals under attack unabl
+[2026-04-05 06:00:49] Нет фото: Ranking Member Shaheen, Chair Wicker Pre
+[2026-04-05 06:00:49] Нет фото: Ukraine's air defense intercepted over 9
+[2026-04-05 06:00:49] Нет фото: Over 35,000 confirmed russian losses: Ma
+[2026-04-05 06:00:49] Нет фото: Telephone conversation with President of
+[2026-04-05 06:00:49] Пропускаю российский фокус: Russia launches Good Friday daytime attacks on Ukr
+[2026-04-05 06:00:49] Нет фото: Drone aids Wis. police in finding, citin
+[2026-04-05 06:00:49] Пропускаю российский фокус: 14 dead as Russia launches new daytime attacks on 
+[2026-04-05 06:00:49] Нет фото: Midvale woman charged with cutting coupl
+[2026-04-05 06:00:49] Нет фото: Pam Bondi's portrait seen in trash can a
+[2026-04-05 06:00:49] Украинские новости: найдено 2 после фильтрации
+[2026-04-05 06:00:49] Нет фото: Russian strikes on Ukraine kill 8 as Kyi
+[2026-04-05 06:00:49] Харьков: найдена новость — Ukraine: Kharkiv under repeated attack on 1,500th 
+[2026-04-05 06:00:52] Обрабатываю: Geno Auriemma, Dawn Staley have heated exchange after Gameco
+[2026-04-05 06:00:52] Попытка 1 для: Geno Auriemma, Dawn Staley have heated e
+[2026-04-05 06:00:54] Успешно, получено 933 символов
+[2026-04-05 06:00:54] Пауза 60 секунд...
+[2026-04-05 06:01:54] Обрабатываю: Iran and US race to find missing American pilot downed in fi
+[2026-04-05 06:01:54] Попытка 1 для: Iran and US race to find missing America
+[2026-04-05 06:01:55] Успешно, получено 694 символов
+[2026-04-05 06:01:56] Пауза 60 секунд...
+[2026-04-05 06:02:56] Обрабатываю: Anthropic essentially bans OpenClaw from Claude by making su
+[2026-04-05 06:02:56] Попытка 1 для: Anthropic essentially bans OpenClaw from
+[2026-04-05 06:02:57] Успешно, получено 718 символов
+[2026-04-05 06:02:58] Пауза 60 секунд...
+[2026-04-05 06:03:58] Обрабатываю: President Trump signs order intended to stabilize college sp
+[2026-04-05 06:03:58] Попытка 1 для: President Trump signs order intended to 
+[2026-04-05 06:03:58] Успешно, получено 806 символов
+[2026-04-05 06:04:02] Обрабатываю: Video shows the moment a Russian drone hit an apartment in U
+[2026-04-05 06:04:02] Попытка 1 для: Video shows the moment a Russian drone h
+[2026-04-05 06:04:02] Успешно, получено 616 символов
+[2026-04-05 06:04:03] Пауза 60 секунд...
+[2026-04-05 06:05:03] Обрабатываю: 'Everyone wants to help': Searchers look for missing Ukraini
+[2026-04-05 06:05:03] Попытка 1 для: 'Everyone wants to help': Searchers look
+[2026-04-05 06:05:04] Успешно, получено 608 символов
+[2026-04-05 06:05:05] Пауза 60 секунд...
+[2026-04-05 06:06:05] Обрабатываю: Ukraine: Kharkiv under repeated attack on 1,500th day of war
+[2026-04-05 06:06:05] Попытка 1 для: Ukraine: Kharkiv under repeated attack o
+[2026-04-05 06:06:06] Успешно, получено 820 символов
+[2026-04-05 06:06:07] === Блок morning завершён ===
