@@ -6146,3 +6146,42 @@
 [2026-04-05 08:00:52] Попытка 1 для: Elon Musk Highlights Grok AI's Ability t
 [2026-04-05 08:00:53] Успешно, получено 915 символов
 [2026-04-05 08:00:53] === Блок ai_morning завершён ===
+[2026-04-05 11:00:45] Загружено 430 уже отправленных новостей
+[2026-04-05 11:00:45] === Запуск блока: midday ===
+[2026-04-05 11:00:45] Неизвестный источник (ctinsider.com): UConn coach Geno Auriemma has heated exc
+[2026-04-05 11:00:45] Неизвестный источник (business insider): Anthropic Cuts Off OpenClaw Support for 
+[2026-04-05 11:00:45] Неизвестный источник (deadline): Blake Lively Vows To Fight On After Bald
+[2026-04-05 11:00:45] Неизвестный источник (federal news network): White House budget proposal silent on ci
+[2026-04-05 11:00:45] Неизвестный источник (democracydocket.com): GOPers ignore election officials’ warnin
+[2026-04-05 11:00:45] Неизвестный источник (pbs): Trump signs order aimed at stabilizing c
+[2026-04-05 11:00:45] Неизвестный источник (indiandefencereview.com): US Cardiologists Just Released New Guide
+[2026-04-05 11:00:45] Неизвестный источник (hollywood reporter): Parkland Survivor Jackie Corin on ‘The D
+[2026-04-05 11:00:45] Неизвестный источник (slashgear): 5 3D Printer Accessories You Can 3D Prin
+[2026-04-05 11:00:45] Неизвестный источник (instyle): Shiloh Jolie-Pitt Looks Exactly Like 19-
+[2026-04-05 11:00:45] Неизвестный источник (sports illustrated): Former Masters Champ Says Quiet Part Out
+[2026-04-05 11:00:45] Неизвестный источник (9to5mac): Apple releases new iOS 26.5 beta 1 build
+[2026-04-05 11:00:45] Неизвестный источник (outkick.com): Artemis II Astronaut Christina Koch Proc
+[2026-04-05 11:00:45] Неизвестный источник (the planetary society): The Planetary Society urges Congress to 
+[2026-04-05 11:00:45] Неизвестный источник (reality tea): Summer House’s Kyle Cooke Goes After Wes
+[2026-04-05 11:00:45] Неизвестный источник (wccftech): ‘PlayStation 6 Is Not Many Years Away’: 
+[2026-04-05 11:00:45] Старая новость (2026-04-03T00:29:00Z): Safeway in SE Portland identified as mea
+[2026-04-05 11:00:45] Старая новость (2026-04-02T19:30:00Z): 10 Hacks Every MacBook Neo Owner Should 
+[2026-04-05 11:00:45] Старая новость (2026-04-02T11:00:55Z): Kids may be more likely to get the new ‘
+[2026-04-05 11:00:45] Мировые новости: найдено 9 после фильтрации
+[2026-04-05 11:00:48] Обрабатываю: Two U.S. warplanes shot down, search ongoing in Iran for 1 m
+[2026-04-05 11:00:48] Попытка 1 для: Two U.S. warplanes shot down, search ong
+[2026-04-05 11:00:49] Успешно, получено 806 символов
+[2026-04-05 11:00:49] Фото не отправилось: 400
+[2026-04-05 11:00:50] Пауза 60 секунд...
+[2026-04-05 11:01:50] Обрабатываю: Judge rejects Department of Justice bid to reinstate Powell 
+[2026-04-05 11:01:50] Попытка 1 для: Judge rejects Department of Justice bid 
+[2026-04-05 11:01:51] Успешно, получено 847 символов
+[2026-04-05 11:01:51] Пауза 60 секунд...
+[2026-04-05 11:02:51] Обрабатываю: NASA releases stunning first photos of Earth from Artemis II
+[2026-04-05 11:02:51] Попытка 1 для: NASA releases stunning first photos of E
+[2026-04-05 11:02:52] Успешно, получено 659 символов
+[2026-04-05 11:02:53] Пауза 60 секунд...
+[2026-04-05 11:03:53] Обрабатываю: Undefeated UConn upset by South Carolina in women's Final Fo
+[2026-04-05 11:03:53] Попытка 1 для: Undefeated UConn upset by South Carolina
+[2026-04-05 11:03:54] Успешно, получено 673 символов
+[2026-04-05 11:03:54] === Блок midday завершён ===
