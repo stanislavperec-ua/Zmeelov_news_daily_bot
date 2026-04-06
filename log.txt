@@ -6376,3 +6376,43 @@
 [2026-04-06 08:02:53] Попытка 1 для: Who are Delve founders Karun Kaushik and
 [2026-04-06 08:02:54] Успешно, получено 621 символов
 [2026-04-06 08:02:55] === Блок ai_morning завершён ===
+[2026-04-06 11:00:46] Загружено 451 уже отправленных новостей
+[2026-04-06 11:00:46] === Запуск блока: midday ===
+[2026-04-06 11:00:46] Неизвестный источник (daily beast): White House Forced to Address Claims of 
+[2026-04-06 11:00:46] Неизвестный источник (hollywood reporter): Tina Fey, Jonah Hill, Melissa McCarthy J
+[2026-04-06 11:00:46] Неизвестный источник (mma fighting): ‘Moicano vs. Paddy next’: Pros react to 
+[2026-04-06 11:00:46] Неизвестный источник (sportsbettingdime.com): Opening Odds for UConn vs Michigan - Poi
+[2026-04-06 11:00:46] Неизвестный источник (247sports): Quick hits: Illini knocked out by UConn 
+[2026-04-06 11:00:46] Пропускаю уже отправленную: Trump files emergency appeal to keep building Whit
+[2026-04-06 11:00:46] Неизвестный источник (salt lake tribune): New global LDS Primary leadership includ
+[2026-04-06 11:00:46] Неизвестный источник (digital trends): Microsoft spent years pushing Copilot, b
+[2026-04-06 11:00:46] Неизвестный источник (al.com): Pam Bondi’s portrait found in trash hour
+[2026-04-06 11:00:46] Неизвестный источник (khou.com): Easter 2026: Which Houston stores will b
+[2026-04-06 11:00:46] Неизвестный источник (9to5mac): Apple debuts 50th anniversary exhibit at
+[2026-04-06 11:00:46] Неизвестный источник (forbes): ‘Super Mario Galaxy Movie’ Makes $48 Mil
+[2026-04-06 11:00:46] Старая новость (2026-04-04T04:15:21Z): LinkedIn Hidden Code Secretly Searches Y
+[2026-04-06 11:00:46] Старая новость (2026-04-04T00:36:00Z): Measles could explode in Oregon in under
+[2026-04-06 11:00:46] Старая новость (2026-04-03T23:45:00Z): US Cardiologists Just Released New Guide
+[2026-04-06 11:00:46] Старая новость (2026-04-03T23:30:12Z): No, Says Economist, March US Jobs Report
+[2026-04-06 11:00:46] Старая новость (2026-04-03T20:07:46Z): Apple Releases First iOS 26.5, iPadOS 26
+[2026-04-06 11:00:46] Старая новость (2026-04-03T18:05:16Z): Trump Fans Furious That NASA Is Allowing
+[2026-04-06 11:00:46] Старая новость (2026-04-03T16:00:00Z): Watch Atlas V rocket launch its heaviest
+[2026-04-06 11:00:46] Старая новость (2026-04-03T15:10:15Z): The Industry Is Once Again Giving Kanye 
+[2026-04-06 11:00:46] Старая новость (2026-04-03T13:10:56Z): Krugman talks oil, the speech; Phillips 
+[2026-04-06 11:00:46] Мировые новости: найдено 7 после фильтрации
+[2026-04-06 11:00:48] Обрабатываю: We may have even less control over how long we live than pre
+[2026-04-06 11:00:48] Попытка 1 для: We may have even less control over how l
+[2026-04-06 11:00:49] Успешно, получено 1043 символов
+[2026-04-06 11:00:50] Пауза 60 секунд...
+[2026-04-06 11:01:50] Обрабатываю: Live updates: Iran war news; US forces rescue missing F-15 c
+[2026-04-06 11:01:50] Попытка 1 для: Live updates: Iran war news; US forces r
+[2026-04-06 11:01:51] Успешно, получено 693 символов
+[2026-04-06 11:01:51] Пауза 60 секунд...
+[2026-04-06 11:02:51] Обрабатываю: An Indiana man is poisoned with a root beer float. How a rob
+[2026-04-06 11:02:51] Попытка 1 для: An Indiana man is poisoned with a root b
+[2026-04-06 11:02:53] Успешно, получено 795 символов
+[2026-04-06 11:02:53] Пауза 60 секунд...
+[2026-04-06 11:03:53] Обрабатываю: Michigan beat up Arizona and took its lunch money in a Final
+[2026-04-06 11:03:53] Попытка 1 для: Michigan beat up Arizona and took its lu
+[2026-04-06 11:03:54] Успешно, получено 722 символов
+[2026-04-06 11:03:55] === Блок midday завершён ===
