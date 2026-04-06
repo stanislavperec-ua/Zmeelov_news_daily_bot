@@ -6287,3 +6287,60 @@
 [2026-04-05 18:02:52] Попытка 1 для: Who are Delve founders Karun Kaushik and
 [2026-04-05 18:02:53] Успешно, получено 753 символов
 [2026-04-05 18:02:53] === Блок ai_evening завершён ===
+[2026-04-06 06:00:48] Загружено 443 уже отправленных новостей
+[2026-04-06 06:00:48] === Запуск блока: morning ===
+[2026-04-06 06:00:48] Неизвестный источник (cbs sports): Michigan rolls over Arizona in Final Fou
+[2026-04-06 06:00:48] Неизвестный источник (mma fighting): Renato Moicano lays waste to Chris Dunca
+[2026-04-06 06:00:48] Неизвестный источник (oregonlive): Gray whale that swam 20 miles up Willapa
+[2026-04-06 06:00:48] Неизвестный источник (9news.com kusa): JBS workers end strike without agreement
+[2026-04-06 06:00:48] Неизвестный источник (variety): Legendary ’60 Minutes’ Correspondent Ste
+[2026-04-06 06:00:48] Неизвестный источник (morning call): Plane makes emergency landing on Interst
+[2026-04-06 06:00:48] Неизвестный источник (salt lake tribune): New global LDS Primary leadership includ
+[2026-04-06 06:00:48] Неизвестный источник (deadline): March For Our Lives Calls Out 'The Drama
+[2026-04-06 06:00:48] Неизвестный источник (al.com): Pam Bondi’s portrait found in trash hour
+[2026-04-06 06:00:48] Неизвестный источник (forbes): White House Says Trump Is ‘Working Nonst
+[2026-04-06 06:00:48] Неизвестный источник (9to5mac): Apple debuts 50th anniversary exhibit at
+[2026-04-06 06:00:48] Неизвестный источник (hollywood reporter): Blake Lively to Keep Fighting as Most of
+[2026-04-06 06:00:48] Неизвестный источник (macrumors): Apple CarPlay Just Got Three Popular iPh
+[2026-04-06 06:00:48] Старая новость (2026-04-04T04:15:21Z): LinkedIn Hidden Code Secretly Searches Y
+[2026-04-06 06:00:48] Старая новость (2026-04-04T00:36:00Z): Measles could explode in Oregon in under
+[2026-04-06 06:00:48] Старая новость (2026-04-03T23:45:00Z): US Cardiologists Just Released New Guide
+[2026-04-06 06:00:48] Старая новость (2026-04-03T23:30:12Z): No, Says Economist, March US Jobs Report
+[2026-04-06 06:00:48] Старая новость (2026-04-03T20:07:00Z): Apple releases public betas for iPadOS 2
+[2026-04-06 06:00:48] Старая новость (2026-04-03T16:00:00Z): Watch Atlas V rocket launch its heaviest
+[2026-04-06 06:00:48] Мировые новости: найдено 11 после фильтрации
+[2026-04-06 06:00:48] Заблокированный источник (naturalnews.com): Trump escalates feud with allies over St
+[2026-04-06 06:00:48] Нет фото: Krugman talks oil, the speech; Phillips 
+[2026-04-06 06:00:48] Заблокированный источник (sputnikglobe.com): Russian Air Defenses Down 87 Ukrainian D
+[2026-04-06 06:00:48] Заблокированный источник (sputnikglobe.com): Frontline for the Poor? Ukrainian Politi
+[2026-04-06 06:00:48] Нет фото: Iran War Prognosis
+[2026-04-06 06:00:48] Заблокированный источник (rt): EU acting like ‘suicide ship’ by keeping
+[2026-04-06 06:00:48] Нет фото: 15 dead across Ukraine in 'massive' Russ
+[2026-04-06 06:00:48] Нет фото: Ukraine: 'Massive' Russian airstrikes ki
+[2026-04-06 06:00:48] Нет фото: Pope Leo XIV celebrates first Easter vig
+[2026-04-06 06:00:48] Нет фото: Fact Check: New York Times DID Publish H
+[2026-04-06 06:00:48] Украинские новости: найдено 2 после фильтрации
+[2026-04-06 06:00:48] Харьков: новостей не найдено
+[2026-04-06 06:00:50] Обрабатываю: Artemis II is going so well that we’re left to talk about fr
+[2026-04-06 06:00:50] Попытка 1 для: Artemis II is going so well that we’re l
+[2026-04-06 06:00:52] Успешно, получено 765 символов
+[2026-04-06 06:00:52] Пауза 60 секунд...
+[2026-04-06 06:01:52] Обрабатываю: Trump files emergency appeal to keep building White House ba
+[2026-04-06 06:01:52] Попытка 1 для: Trump files emergency appeal to keep bui
+[2026-04-06 06:01:53] Успешно, получено 659 символов
+[2026-04-06 06:01:54] Пауза 60 секунд...
+[2026-04-06 06:02:54] Обрабатываю: Geno Auriemma apologizes for Final Four dustup with Dawn Sta
+[2026-04-06 06:02:54] Попытка 1 для: Geno Auriemma apologizes for Final Four 
+[2026-04-06 06:02:55] Успешно, получено 737 символов
+[2026-04-06 06:02:55] Пауза 60 секунд...
+[2026-04-06 06:03:55] Обрабатываю: Sauté pans sold at Costco recalled after metal caps on handl
+[2026-04-06 06:03:55] Попытка 1 для: Sauté pans sold at Costco recalled after
+[2026-04-06 06:03:56] Успешно, получено 639 символов
+[2026-04-06 06:03:59] Обрабатываю: Russian drones kill five in Ukrainian market
+[2026-04-06 06:03:59] Попытка 1 для: Russian drones kill five in Ukrainian ma
+[2026-04-06 06:04:01] Успешно, получено 768 символов
+[2026-04-06 06:04:02] Пауза 60 секунд...
+[2026-04-06 06:05:02] Обрабатываю: Russian onslaught kills 16 Ukrainians, injures 94 in drone, 
+[2026-04-06 06:05:02] Попытка 1 для: Russian onslaught kills 16 Ukrainians, i
+[2026-04-06 06:05:03] Успешно, получено 934 символов
+[2026-04-06 06:05:04] === Блок morning завершён ===
