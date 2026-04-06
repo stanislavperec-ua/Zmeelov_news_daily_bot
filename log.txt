@@ -6344,3 +6344,35 @@
 [2026-04-06 06:05:02] Попытка 1 для: Russian onslaught kills 16 Ukrainians, i
 [2026-04-06 06:05:03] Успешно, получено 934 символов
 [2026-04-06 06:05:04] === Блок morning завершён ===
+[2026-04-06 08:00:48] Загружено 449 уже отправленных новостей
+[2026-04-06 08:00:48] === Запуск блока: ai_morning ===
+[2026-04-06 08:00:48] Неизвестный источник (livemint): Nitin Pai: When US technology companies 
+[2026-04-06 08:00:48] Неизвестный источник (pattaya mail): The geopolitics of data centres- Can Tha
+[2026-04-06 08:00:48] Неизвестный источник (activistpost.com): Multipolarity As World Government 3.0 & 
+[2026-04-06 08:00:48] Неизвестный источник (hoover.org): Maintenance: The Hidden Force Behind Suc
+[2026-04-06 08:00:48] Неизвестный источник (the next web): Anthropic cuts Claude subscribers off fr
+[2026-04-06 08:00:48] Неизвестный источник (siliconangle news): How flexibility and ambassadors can secu
+[2026-04-06 08:00:48] Неизвестный источник (careeraheadonline.com): Nudging Mental Health: Career Developmen
+[2026-04-06 08:00:48] Нет фото: stream-dataset 0.1.5
+[2026-04-06 08:00:48] Нет фото: stream-dataset 0.1.4
+[2026-04-06 08:00:48] Неизвестный источник (substack.com): Why the Most Valuable Things You Know Ar
+[2026-04-06 08:00:48] Неизвестный источник (/film): Battlestar Galactica Inspired Two Crucia
+[2026-04-06 08:00:48] Нет фото: stream-dataset 0.1.3
+[2026-04-06 08:00:48] Неизвестный источник (onefootball.com):  Brazilian club claims R$745m from Lyon,
+[2026-04-06 08:00:48] Пропускаю уже отправленную: IndianOil urges calm on fuel supply amid Iran war 
+[2026-04-06 08:00:48] Пропускаю уже отправленную: Who are Delve founders Karun Kaushik and Selin Koc
+[2026-04-06 08:00:48] Неизвестный источник (businessline): AI is rewiring Bollywood, the world's mo
+[2026-04-06 08:00:48] Нет фото: 'Wow!' The eye surgery marathon that res
+[2026-04-06 08:00:48] AI новости: найдено 4 после фильтрации
+[2026-04-06 08:00:50] Обрабатываю: Indian film studios are using AI to cut costs, speed product
+[2026-04-06 08:00:50] Попытка 1 для: Indian film studios are using AI to cut 
+[2026-04-06 08:00:52] Успешно, получено 878 символов
+[2026-04-06 08:00:52] Пауза 60 секунд...
+[2026-04-06 08:01:52] Обрабатываю: The 'enshitification' of the system has left Australia's uni
+[2026-04-06 08:01:52] Попытка 1 для: The 'enshitification' of the system has 
+[2026-04-06 08:01:53] Успешно, получено 884 символов
+[2026-04-06 08:01:53] Пауза 60 секунд...
+[2026-04-06 08:02:53] Обрабатываю: Who are Delve founders Karun Kaushik and Selin Kocalar?
+[2026-04-06 08:02:53] Попытка 1 для: Who are Delve founders Karun Kaushik and
+[2026-04-06 08:02:54] Успешно, получено 621 символов
+[2026-04-06 08:02:55] === Блок ai_morning завершён ===
