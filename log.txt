@@ -6470,3 +6470,33 @@
 [2026-04-06 16:04:05] Попытка 1 для: Ukrainians share Easter tradition with M
 [2026-04-06 16:04:06] Успешно, получено 834 символов
 [2026-04-06 16:04:06] === Блок evening завершён ===
+[2026-04-06 18:00:50] Загружено 459 уже отправленных новостей
+[2026-04-06 18:00:50] === Запуск блока: ai_evening ===
+[2026-04-06 18:00:50] Неизвестный источник (globenewswire): Taurox (TAUX) Maintains Strong Developme
+[2026-04-06 18:00:50] Неизвестный источник (iasbaba.com): UPSC Quiz – 2026 : IASbaba’s Daily Curre
+[2026-04-06 18:00:50] Неизвестный источник (anime news network): Sailor Guardians Take on a Modern Threat
+[2026-04-06 18:00:50] Нет фото: Screenwriters union and Hollywood studio
+[2026-04-06 18:00:50] Нет фото: Arynoxtech-AGI 2.0.1
+[2026-04-06 18:00:50] Неизвестный источник (coindesk): Ant Group’s blockchain arm unveils platf
+[2026-04-06 18:00:50] Нет фото: Arynoxtech-AGI added to PyPI
+[2026-04-06 18:00:50] Нет фото: Arynoxtech-AGI 2.0.0
+[2026-04-06 18:00:50] Неизвестный источник (livemint): Nitin Pai: When US technology companies 
+[2026-04-06 18:00:50] Неизвестный источник (pattaya mail): The geopolitics of data centres- Can Tha
+[2026-04-06 18:00:50] Неизвестный источник (activistpost.com): Multipolarity As World Government 3.0 & 
+[2026-04-06 18:00:50] Неизвестный источник (hoover.org): Maintenance: The Hidden Force Behind Suc
+[2026-04-06 18:00:50] Неизвестный источник (the next web): Anthropic cuts Claude subscribers off fr
+[2026-04-06 18:00:50] Неизвестный источник (siliconangle news): How flexibility and ambassadors can secu
+[2026-04-06 18:00:50] Неизвестный источник (careeraheadonline.com): Nudging Mental Health: Career Developmen
+[2026-04-06 18:00:50] AI новости: найдено 3 после фильтрации
+[2026-04-06 18:00:52] Обрабатываю: Peter Thiel's 10 Most Insightful Quotes: Timeless Wisdom fro
+[2026-04-06 18:00:52] Попытка 1 для: Peter Thiel's 10 Most Insightful Quotes:
+[2026-04-06 18:00:54] Успешно, получено 839 символов
+[2026-04-06 18:00:55] Пауза 60 секунд...
+[2026-04-06 18:01:55] Обрабатываю: Top 5 Best Palantir Competitors in 2026 Led by Databricks Sn
+[2026-04-06 18:01:55] Попытка 1 для: Top 5 Best Palantir Competitors in 2026 
+[2026-04-06 18:01:56] Успешно, получено 904 символов
+[2026-04-06 18:01:56] Пауза 60 секунд...
+[2026-04-06 18:02:56] Обрабатываю: Indian film studios are using AI to cut costs, speed product
+[2026-04-06 18:02:56] Попытка 1 для: Indian film studios are using AI to cut 
+[2026-04-06 18:02:58] Успешно, получено 798 символов
+[2026-04-06 18:02:58] === Блок ai_evening завершён ===
