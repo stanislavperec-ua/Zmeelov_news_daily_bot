@@ -6553,3 +6553,46 @@
 [2026-04-07 06:05:07] Попытка 1 для: Orban fuels anti-Ukraine mood ahead of H
 [2026-04-07 06:05:08] Успешно, получено 622 символов
 [2026-04-07 06:05:09] === Блок morning завершён ===
+[2026-04-07 08:00:53] Загружено 467 уже отправленных новостей
+[2026-04-07 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-07 08:00:53] Неизвестный источник (globenewswire): At 6G@UT Forum, InterDigital to Demonstr
+[2026-04-07 08:00:53] Неизвестный источник (inside higher ed): Consumer Protection Group Unveils Studen
+[2026-04-07 08:00:53] Нет фото: Emotion Concepts and their Function in a
+[2026-04-07 08:00:53] Неизвестный источник (antaranews.com): Beyond Exposure: PR Newswire Elevates Tr
+[2026-04-07 08:00:53] Неизвестный источник (bleeding cool news): Wolverine #17 Preview: Not Your Average 
+[2026-04-07 08:00:53] Нет фото: sae-aos 0.1.1
+[2026-04-07 08:00:53] Нет фото: sae-aos added to PyPI
+[2026-04-07 08:00:53] Неизвестный источник (annielytics.com): AI Updates for the Week of 5/5/26
+[2026-04-07 08:00:53] Неизвестный источник (annielytics.com): AI Updates for the Week of 4/5/26
+[2026-04-07 08:00:53] Нет фото: Scene classification in dance art using 
+[2026-04-07 08:00:53] Нет фото: Study on the optimization of natural gas
+[2026-04-07 08:00:53] Нет фото: Fourier transform-based single domain ge
+[2026-04-07 08:00:53] Нет фото: Eco-engineered bio-imprinted polymer for
+[2026-04-07 08:00:53] Нет фото: Text guided cross attentive multimodal l
+[2026-04-07 08:00:53] Неизвестный источник (substack.com): Sign Of The Times
+[2026-04-07 08:00:53] Нет фото: Development, validation, and visualizati
+[2026-04-07 08:00:53] Неизвестный источник (landezine.com): Inner Cosmologies of Enclosed Landscapes
+[2026-04-07 08:00:53] Неизвестный источник (screen rant): 10 Best X-Force Heroes in All of X-Men L
+[2026-04-07 08:00:53] Неизвестный источник (bleeding cool news): Black Cat #9 Preview: Felicia's Get Rich
+[2026-04-07 08:00:53] Неизвестный источник (comicbook.com): 5 Incredible Stories the MCU Totally Ski
+[2026-04-07 08:00:53] Неизвестный источник (globenewswire): Taurox (TAUX) Maintains Strong Developme
+[2026-04-07 08:00:53] Неизвестный источник (iasbaba.com): UPSC Quiz – 2026 : IASbaba’s Daily Curre
+[2026-04-07 08:00:53] Неизвестный источник (anime news network): Sailor Guardians Take on a Modern Threat
+[2026-04-07 08:00:53] Нет фото: Screenwriters union and Hollywood studio
+[2026-04-07 08:00:53] Нет фото: Arynoxtech-AGI 2.0.1
+[2026-04-07 08:00:53] Неизвестный источник (coindesk): Ant Group’s blockchain arm unveils platf
+[2026-04-07 08:00:53] Нет фото: Arynoxtech-AGI added to PyPI
+[2026-04-07 08:00:53] Нет фото: Arynoxtech-AGI 2.0.0
+[2026-04-07 08:00:53] AI новости: найдено 5 после фильтрации
+[2026-04-07 08:00:56] Обрабатываю: Antivax tech bro Steve Kirsch uses AI to rediscover the Jock
+[2026-04-07 08:00:56] Попытка 1 для: Antivax tech bro Steve Kirsch uses AI to
+[2026-04-07 08:00:57] Успешно, получено 1013 символов
+[2026-04-07 08:00:58] Пауза 60 секунд...
+[2026-04-07 08:01:58] Обрабатываю: Los Angeles Emerges as Major AI Hub With 10 Standout Compani
+[2026-04-07 08:01:58] Попытка 1 для: Los Angeles Emerges as Major AI Hub With
+[2026-04-07 08:01:59] Успешно, получено 782 символов
+[2026-04-07 08:01:59] Пауза 60 секунд...
+[2026-04-07 08:02:59] Обрабатываю: Two-dimensional materials for integrated sensing
+[2026-04-07 08:02:59] Попытка 1 для: Two-dimensional materials for integrated
+[2026-04-07 08:03:00] Успешно, получено 609 символов
+[2026-04-07 08:03:01] === Блок ai_morning завершён ===
