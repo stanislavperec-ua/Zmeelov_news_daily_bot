@@ -6691,3 +6691,55 @@
 [2026-04-07 16:05:14] Попытка 1 для: Are Perceptions the Reality?
 [2026-04-07 16:05:15] Успешно, получено 601 символов
 [2026-04-07 16:05:16] === Блок evening завершён ===
+[2026-04-07 18:00:54] Загружено 479 уже отправленных новостей
+[2026-04-07 18:00:54] === Запуск блока: ai_evening ===
+[2026-04-07 18:00:55] Неизвестный источник (new york post): Inside San Francisco’s ‘co-founder rooms
+[2026-04-07 18:00:55] Неизвестный источник (pymnts.com): FinTechs Race to Build Foundation Models
+[2026-04-07 18:00:55] Неизвестный источник (siliconangle news): The $100B question: AI’s appetite for co
+[2026-04-07 18:00:55] Неизвестный источник (siliconangle news): Resolight.ai launches to change the AI i
+[2026-04-07 18:00:55] Неизвестный источник (pymnts.com): The Cybersecurity Hit List: From Enterpr
+[2026-04-07 18:00:55] Неизвестный источник (pypi.org): qbiocode added to PyPI
+[2026-04-07 18:00:55] Неизвестный источник (siliconangle news): Generalist releases GEN-1 highly capable
+[2026-04-07 18:00:55] Неизвестный источник (globenewswire): Licorne Gulf Ltd and ZGC-GCC Innovation 
+[2026-04-07 18:00:55] Неизвестный источник (bleeding cool news): Speed Racer: Tales from the Road – High 
+[2026-04-07 18:00:55] Нет фото: AP says it will offer buyouts as part of
+[2026-04-07 18:00:55] Неизвестный источник (financial post): State Climate Laws Targeted Around US as
+[2026-04-07 18:00:55] Неизвестный источник (plos.org): Direct robust adaptive tracking control 
+[2026-04-07 18:00:55] Неизвестный источник (plos.org): The non-vesicular cholesterol transporte
+[2026-04-07 18:00:55] Неизвестный источник (techtarget.com): ITPro Today, Network Computing, IoT Worl
+[2026-04-07 18:00:55] Неизвестный источник (rte): AI is rewiring the world's most prolific
+[2026-04-07 18:00:55] Неизвестный источник (internet): ⚡ Weekly Recap: Axios Hack, Chrome 0-Day
+[2026-04-07 18:00:55] Неизвестный источник (globenewswire): GBT Technologies Announces Formation of 
+[2026-04-07 18:00:55] Неизвестный источник (businessline): Sustainable Tourism Impact Fund Expands 
+[2026-04-07 18:00:55] Неизвестный источник (businessline): Korea’s AI-Driven Healthcare Technologie
+[2026-04-07 18:00:55] Неизвестный источник (cnet): Scammers Want Our Data, Yet CNET Finds M
+[2026-04-07 18:00:55] Неизвестный источник (globenewswire): 3 E Network Announces Progress Update on
+[2026-04-07 18:00:55] Нет фото: DEEP SEA MINERALS CORP. APPOINTS FORMER 
+[2026-04-07 18:00:55] Неизвестный источник (financial post): Papa Johns Canada Introduces Spinach Alf
+[2026-04-07 18:00:55] Неизвестный источник (cloudtweaks.com): The Cloud Only Ultimatum: Why Forcing En
+[2026-04-07 18:00:55] Неизвестный источник (cloudtweaks.com): The Flexibility Mandate: Balancing Cloud
+[2026-04-07 18:00:55] Неизвестный источник (the american prospect): The Private Credit Cartels
+[2026-04-07 18:00:55] Неизвестный источник (globenewswire): At 6G@UT Forum, InterDigital to Demonstr
+[2026-04-07 18:00:55] Неизвестный источник (inside higher ed): Consumer Protection Group Unveils Studen
+[2026-04-07 18:00:55] Пропускаю уже отправленную: Antivax tech bro Steve Kirsch uses AI to rediscove
+[2026-04-07 18:00:55] Нет фото: Emotion Concepts and their Function in a
+[2026-04-07 18:00:55] Неизвестный источник (antaranews.com): Beyond Exposure: PR Newswire Elevates Tr
+[2026-04-07 18:00:55] Неизвестный источник (bleeding cool news): Wolverine #17 Preview: Not Your Average 
+[2026-04-07 18:00:55] Нет фото: sae-aos 0.1.1
+[2026-04-07 18:00:55] Нет фото: sae-aos added to PyPI
+[2026-04-07 18:00:55] Неизвестный источник (annielytics.com): AI Updates for the Week of 5/5/26
+[2026-04-07 18:00:55] Неизвестный источник (annielytics.com): AI Updates for the Week of 4/5/26
+[2026-04-07 18:00:55] Нет фото: Study on the optimization of natural gas
+[2026-04-07 18:00:55] AI новости: найдено 3 после фильтрации
+[2026-04-07 18:00:57] Обрабатываю: LayerZero Power Systems Celebrates 25 Years of Innovation in
+[2026-04-07 18:00:57] Попытка 1 для: LayerZero Power Systems Celebrates 25 Ye
+[2026-04-07 18:00:58] Успешно, получено 616 символов
+[2026-04-07 18:01:00] Пауза 60 секунд...
+[2026-04-07 18:02:00] Обрабатываю: Free Trade Is Dead in Washington
+[2026-04-07 18:02:00] Попытка 1 для: Free Trade Is Dead in Washington
+[2026-04-07 18:02:01] Успешно, получено 669 символов
+[2026-04-07 18:02:02] Пауза 60 секунд...
+[2026-04-07 18:03:02] Обрабатываю: Los Angeles Emerges as Major AI Hub With 10 Standout Compani
+[2026-04-07 18:03:02] Попытка 1 для: Los Angeles Emerges as Major AI Hub With
+[2026-04-07 18:03:03] Успешно, получено 645 символов
+[2026-04-07 18:03:07] === Блок ai_evening завершён ===
