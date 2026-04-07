@@ -6500,3 +6500,56 @@
 [2026-04-06 18:02:56] Попытка 1 для: Indian film studios are using AI to cut 
 [2026-04-06 18:02:58] Успешно, получено 798 символов
 [2026-04-06 18:02:58] === Блок ai_evening завершён ===
+[2026-04-07 06:00:52] Загружено 461 уже отправленных новостей
+[2026-04-07 06:00:52] === Запуск блока: morning ===
+[2026-04-07 06:00:52] Неизвестный источник (business insider): Oil prices rise again after Trump threat
+[2026-04-07 06:00:52] Неизвестный источник (hollywood reporter): ‘Dark Winds’ Finale Closes One Case — Th
+[2026-04-07 06:00:52] Неизвестный источник (macrumors): NASA Shares Photos Shot on iPhone 17 Pro
+[2026-04-07 06:00:52] Неизвестный источник (espn): Huff scores 3 as West Virginia tops Okla
+[2026-04-07 06:00:52] Неизвестный источник (entertainment weekly): 'Super Mario Galaxy Movie' clobbers 'Pro
+[2026-04-07 06:00:52] Неизвестный источник (eonline.com): Melanie Griffith Reacts to Daughter Dako
+[2026-04-07 06:00:52] Неизвестный источник (understandingwar.org): Russian Offensive Campaign Assessment, A
+[2026-04-07 06:00:52] Неизвестный источник (thechurchnews.com): ‘Reflect on the meaning of His divine na
+[2026-04-07 06:00:52] Неизвестный источник (inc.): Study Reveals the Single Cause of Cognit
+[2026-04-07 06:00:52] Неизвестный источник (spacenews): Isaacman defends NASA budget proposal de
+[2026-04-07 06:00:52] Неизвестный источник (dw (english)): Dozens missing after migrant boat capsiz
+[2026-04-07 06:00:52] Неизвестный источник (maize n brew): Dusty May, players preview National Cham
+[2026-04-07 06:00:52] Неизвестный источник (san francisco chronicle): Your ‘normal’ cholesterol and blood pres
+[2026-04-07 06:00:52] Старая новость (2026-04-04T18:02:00Z): Apple debuts 50th anniversary exhibit at
+[2026-04-07 06:00:52] Старая новость (2026-04-04T11:38:00Z): Housing market trends favor home shopper
+[2026-04-07 06:00:52] Старая новость (2026-04-04T09:00:00Z): Congress gave money for global HIV work.
+[2026-04-07 06:00:52] Мировые новости: найдено 9 после фильтрации
+[2026-04-07 06:00:52] Заблокированный источник (naturalnews.com): China accelerates military expansion in 
+[2026-04-07 06:00:52] Заблокированный источник (naturalnews.com): White House To Submit $1.5 Trillion Mili
+[2026-04-07 06:00:52] Заблокированный источник (naturalnews.com): Russia Expands Gasoline Export Ban, Face
+[2026-04-07 06:00:52] Заблокированный источник (naturalnews.com): Trump Administration Proposes $1.5 Trill
+[2026-04-07 06:00:52] Нет фото: Zelensky arrives in Syria for talks with
+[2026-04-07 06:00:52] Нет фото: Russian Offensive Campaign Assessment, A
+[2026-04-07 06:00:52] Заблокированный источник (thegatewaypundit.com): To Tackle Europe’s Energy Crisis, Slovak
+[2026-04-07 06:00:52] Нет фото: Ukraine, Syria agree to cooperate on sec
+[2026-04-07 06:00:52] Нет фото: Meet the glamorous MAGA frontrunners loo
+[2026-04-07 06:00:52] Украинские новости: найдено 4 после фильтрации
+[2026-04-07 06:00:52] Харьков: новостей не найдено
+[2026-04-07 06:00:55] Обрабатываю: NASA's Artemis II crew readies for Monday's lunar flyby. Her
+[2026-04-07 06:00:55] Попытка 1 для: NASA's Artemis II crew readies for Monda
+[2026-04-07 06:00:56] Успешно, получено 800 символов
+[2026-04-07 06:00:57] Пауза 60 секунд...
+[2026-04-07 06:01:57] Обрабатываю: Oil back above $110 after expletive-laden Trump threat to Ir
+[2026-04-07 06:01:57] Попытка 1 для: Oil back above $110 after expletive-lade
+[2026-04-07 06:01:58] Успешно, получено 846 символов
+[2026-04-07 06:01:59] Пауза 60 секунд...
+[2026-04-07 06:02:59] Обрабатываю: Asian shares mostly gain while oil prices keep rising
+[2026-04-07 06:02:59] Попытка 1 для: Asian shares mostly gain while oil price
+[2026-04-07 06:03:00] Успешно, получено 816 символов
+[2026-04-07 06:03:01] Пауза 60 секунд...
+[2026-04-07 06:04:01] Обрабатываю: UCLA storms past South Carolina to claim its 1st NCAA women'
+[2026-04-07 06:04:01] Попытка 1 для: UCLA storms past South Carolina to claim
+[2026-04-07 06:04:02] Успешно, получено 914 символов
+[2026-04-07 06:04:05] Обрабатываю: FM Fidan meets Syrian, Ukrainian presidents in Damascus
+[2026-04-07 06:04:05] Попытка 1 для: FM Fidan meets Syrian, Ukrainian preside
+[2026-04-07 06:04:06] Успешно, получено 746 символов
+[2026-04-07 06:04:07] Пауза 60 секунд...
+[2026-04-07 06:05:07] Обрабатываю: Orban fuels anti-Ukraine mood ahead of Hungarian vote
+[2026-04-07 06:05:07] Попытка 1 для: Orban fuels anti-Ukraine mood ahead of H
+[2026-04-07 06:05:08] Успешно, получено 622 символов
+[2026-04-07 06:05:09] === Блок morning завершён ===
