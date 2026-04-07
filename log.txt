@@ -6596,3 +6596,41 @@
 [2026-04-07 08:02:59] Попытка 1 для: Two-dimensional materials for integrated
 [2026-04-07 08:03:00] Успешно, получено 609 символов
 [2026-04-07 08:03:01] === Блок ai_morning завершён ===
+[2026-04-07 11:00:50] Загружено 470 уже отправленных новостей
+[2026-04-07 11:00:50] === Запуск блока: midday ===
+[2026-04-07 11:00:50] Неизвестный источник (yahoo entertainment): South Korea says 'credible intelligence'
+[2026-04-07 11:00:50] Неизвестный источник (bavarian football works): English referee Michael Oliver appointed
+[2026-04-07 11:00:50] Неизвестный источник (hollywood reporter): ‘Dark Winds’ Finale Closes One Case — Th
+[2026-04-07 11:00:50] Неизвестный источник (macrumors): NASA Shares Photos Shot on iPhone 17 Pro
+[2026-04-07 11:00:50] Неизвестный источник (entertainment weekly): 'Super Mario Galaxy Movie' clobbers 'Pro
+[2026-04-07 11:00:50] Неизвестный источник (eonline.com): Melanie Griffith Reacts to Daughter Dako
+[2026-04-07 11:00:50] Неизвестный источник (cnbc): Japan, South Korea stocks open higher as
+[2026-04-07 11:00:50] Неизвестный источник (thechurchnews.com): ‘Reflect on the meaning of His divine na
+[2026-04-07 11:00:50] Неизвестный источник (spacenews): Isaacman defends NASA budget proposal de
+[2026-04-07 11:00:50] Неизвестный источник (new york post): UFC legend Jon Jones in heated road rage
+[2026-04-07 11:00:50] Неизвестный источник (maize n brew): Dusty May, players preview National Cham
+[2026-04-07 11:00:50] Неизвестный источник (phys.org): Bennu sample reveals how water flowed th
+[2026-04-07 11:00:50] Неизвестный источник (al.com): Artemis II toilet acts up again as astro
+[2026-04-07 11:00:50] Неизвестный источник (san francisco chronicle): Your ‘normal’ cholesterol and blood pres
+[2026-04-07 11:00:50] Старая новость (2026-04-05T10:32:13Z): We may have even less control over how l
+[2026-04-07 11:00:50] Старая новость (2026-04-05T10:31:21Z): Private Credit and the New World of Fina
+[2026-04-07 11:00:50] Старая новость (2026-04-05T10:00:00Z): In Lebanon, more than 50 medics have bee
+[2026-04-07 11:00:50] Старая новость (2026-04-04T18:02:00Z): Apple debuts 50th anniversary exhibit at
+[2026-04-07 11:00:50] Старая новость (2026-04-04T09:00:00Z): Congress gave money for global HIV work.
+[2026-04-07 11:00:50] Мировые новости: найдено 7 после фильтрации
+[2026-04-07 11:00:52] Обрабатываю: UCLA storms past South Carolina to claim its 1st NCAA women'
+[2026-04-07 11:00:52] Попытка 1 для: UCLA storms past South Carolina to claim
+[2026-04-07 11:00:53] Успешно, получено 614 символов
+[2026-04-07 11:00:54] Пауза 60 секунд...
+[2026-04-07 11:01:54] Обрабатываю: A gray whale that swam 20 miles up a Washington state river 
+[2026-04-07 11:01:54] Попытка 1 для: A gray whale that swam 20 miles up a Was
+[2026-04-07 11:01:55] Успешно, получено 779 символов
+[2026-04-07 11:01:55] Пауза 60 секунд...
+[2026-04-07 11:02:55] Обрабатываю: Other countries have 200 mph passenger trains. Why has high-
+[2026-04-07 11:02:55] Попытка 1 для: Other countries have 200 mph passenger t
+[2026-04-07 11:02:57] Успешно, получено 767 символов
+[2026-04-07 11:02:57] Пауза 60 секунд...
+[2026-04-07 11:03:57] Обрабатываю: Pope calls for peace, Trump vows hell for Iran on Easter
+[2026-04-07 11:03:57] Попытка 1 для: Pope calls for peace, Trump vows hell fo
+[2026-04-07 11:03:58] Успешно, получено 495 символов
+[2026-04-07 11:03:58] === Блок midday завершён ===
