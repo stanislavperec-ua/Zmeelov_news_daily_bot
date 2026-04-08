@@ -6932,3 +6932,54 @@
 [2026-04-08 16:04:24] Попытка 1 для: JD Vance Claims Ukraine Has Attempted to
 [2026-04-08 16:04:26] Успешно, получено 922 символов
 [2026-04-08 16:04:26] === Блок evening завершён ===
+[2026-04-08 18:01:22] Загружено 499 уже отправленных новостей
+[2026-04-08 18:01:22] === Запуск блока: ai_evening ===
+[2026-04-08 18:01:22] Неизвестный источник (cnbc): National College Decision Day is approac
+[2026-04-08 18:01:22] Неизвестный источник (coindesk): ‘Don’t waste time with crypto': Here is 
+[2026-04-08 18:01:22] Неизвестный источник (pymnts.com): Solana Rolls Out Tools to Fend Off Block
+[2026-04-08 18:01:22] Неизвестный источник (amazon.com): Introducing workload simulation workbenc
+[2026-04-08 18:01:22] Неизвестный источник (financial post): Systane Steps Up to the Plate as the Off
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): Hapax serves up proactive AI platform de
+[2026-04-08 18:01:22] Неизвестный источник (financial post): Cyber stocks look to go from losers to w
+[2026-04-08 18:01:22] Нет фото: Mouser Electronics Explores How Artifici
+[2026-04-08 18:01:22] Неизвестный источник (globenewswire): Just One Day Away – Don’t Miss It. C-Lev
+[2026-04-08 18:01:22] Неизвестный источник (ieee.org): Decentralized Training Can Help Solve AI
+[2026-04-08 18:01:22] Неизвестный источник (new york magazine): AI’s ‘Big Tobacco’ Moment Is Coming
+[2026-04-08 18:01:22] Неизвестный источник (plos.org): Modeling spatial contrast sensitivity in
+[2026-04-08 18:01:22] Неизвестный источник (plos.org): Detection of submarine pipeline and cabl
+[2026-04-08 18:01:22] Неизвестный источник (autocar): How new AI tech can predict potholes bef
+[2026-04-08 18:01:22] Неизвестный источник (plos.org): Computational and immunoinformatics appr
+[2026-04-08 18:01:22] Неизвестный источник (plos.org): Cyanidin-3-O-glucoside (C3G): A natural 
+[2026-04-08 18:01:22] Неизвестный источник (financial post): US Core Capital Goods Orders Rose Ahead 
+[2026-04-08 18:01:22] Неизвестный источник (mediaite): ONE SHEET: Trump Threatens to Jail the P
+[2026-04-08 18:01:22] Нет фото: Pixelle Embraces the Future of Strategic
+[2026-04-08 18:01:22] Неизвестный источник (globalresearch.ca): How to Bring Peace to the Middle East
+[2026-04-08 18:01:22] Неизвестный источник (financial post): Poland’s Galaxy Systemy Informatyczne Be
+[2026-04-08 18:01:22] Неизвестный источник (the conversation africa): AI is reengineering drug discovery by sp
+[2026-04-08 18:01:22] Неизвестный источник (commercial observer): RET Ventures Launches First AI-Native Ac
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): Clarvos unveils AI-driven workflow platf
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): CoChat launches centralized workspace to
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): AI agent security startup Trent AI launc
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): ‘GrafanaGhost’ vulnerability allowed for
+[2026-04-08 18:01:22] Неизвестный источник (ieee.org): Over-the-Air Computation Uses Radio Inte
+[2026-04-08 18:01:22] Неизвестный источник (globenewswire): VivoPower Appoints Former Microsoft Glob
+[2026-04-08 18:01:22] Нет фото: AI-Enhanced Robotics in Pharma Manufactu
+[2026-04-08 18:01:22] Нет фото: ZenaTech Initiates Plans for a Ukraine T
+[2026-04-08 18:01:22] Неизвестный источник (researchbuzz.me): Hellenic Survey of Geology and Mineral E
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): Natter lands $23M to encourage employees
+[2026-04-08 18:01:22] Нет фото: Cerebras Backer Eclipse Raises $1.3 Bill
+[2026-04-08 18:01:22] Неизвестный источник (financial post): IQM and Real Asset Acquisition Corp. Ann
+[2026-04-08 18:01:22] Неизвестный источник (siliconangle news): How the NFL is using Amazon Quick to hum
+[2026-04-08 18:01:22] AI новости: найдено 3 после фильтрации
+[2026-04-08 18:01:25] Обрабатываю: Top university says US-Israel attack targeted Iran’s progres
+[2026-04-08 18:01:25] Попытка 1 для: Top university says US-Israel attack tar
+[2026-04-08 18:01:26] Успешно, получено 661 символов
+[2026-04-08 18:01:27] Пауза 60 секунд...
+[2026-04-08 18:02:27] Обрабатываю: Top 50 Best MBA Programs in the World 2026: Wharton Claims Q
+[2026-04-08 18:02:27] Попытка 1 для: Top 50 Best MBA Programs in the World 20
+[2026-04-08 18:02:28] Успешно, получено 602 символов
+[2026-04-08 18:02:28] Пауза 60 секунд...
+[2026-04-08 18:03:28] Обрабатываю: AI networking firm Aria Networks raises $125 million in fund
+[2026-04-08 18:03:28] Попытка 1 для: AI networking firm Aria Networks raises 
+[2026-04-08 18:03:29] Успешно, получено 559 символов
+[2026-04-08 18:03:29] === Блок ai_evening завершён ===
