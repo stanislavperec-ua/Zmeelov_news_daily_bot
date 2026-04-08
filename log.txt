@@ -6743,3 +6743,55 @@
 [2026-04-07 18:03:02] Попытка 1 для: Los Angeles Emerges as Major AI Hub With
 [2026-04-07 18:03:03] Успешно, получено 645 символов
 [2026-04-07 18:03:07] === Блок ai_evening завершён ===
+[2026-04-08 06:00:54] Загружено 481 уже отправленных новостей
+[2026-04-08 06:00:54] === Запуск блока: morning ===
+[2026-04-08 06:00:54] Неизвестный источник (space.com): Artemis 2 astronauts fly around the moon
+[2026-04-08 06:00:54] Неизвестный источник (variety): Rapper Offset Shot and Hospitalized in F
+[2026-04-08 06:00:54] Неизвестный источник (investor's business daily): UnitedHealth, Humana, Health Insurers Ju
+[2026-04-08 06:00:54] Неизвестный источник (fox sports): 2026 NFL Mock Draft: Nick Wright Predict
+[2026-04-08 06:00:54] Неизвестный источник (pitchfork): Wireless Festival Stands By Kanye West B
+[2026-04-08 06:00:54] Неизвестный источник (minnesota public radio news): Minneapolis releases video that undermin
+[2026-04-08 06:00:54] Неизвестный источник (space.com): Moon memorial: Artemis 2 astronauts name
+[2026-04-08 06:00:54] Неизвестный источник (big blue view): NY Giants news: Dexter Lawrence requests
+[2026-04-08 06:00:54] Неизвестный источник (sfgate): How to watch the NCAA National Champions
+[2026-04-08 06:00:54] Неизвестный источник (indiewire): ‘The Drama’ Solidifies Zendaya as Our Ne
+[2026-04-08 06:00:54] Неизвестный источник (barron's): Jamie Dimon Has Moved on From Cockroache
+[2026-04-08 06:00:54] Неизвестный источник (9to5mac): Apple showcases apps using Liquid Glass 
+[2026-04-08 06:00:54] Неизвестный источник (9to5google.com): Walmart’s new Chromecast with Google TV 
+[2026-04-08 06:00:54] Неизвестный источник (futurism): Moon Astronauts Forced to Do It in Bags 
+[2026-04-08 06:00:54] Неизвестный источник (android authority): Google Play Store now lets you dig throu
+[2026-04-08 06:00:54] Старая новость (2026-04-05T11:05:41Z): Your ‘normal’ cholesterol and blood pres
+[2026-04-08 06:00:54] Мировые новости: найдено 10 после фильтрации
+[2026-04-08 06:00:54] Заблокированный источник (naturalnews.com): Legal Scholars Warn U.S. Strikes on Iran
+[2026-04-08 06:00:54] Нет фото: Crisis in space as Artemis II toilet bre
+[2026-04-08 06:00:54] Нет фото: Chinese satellite imagery of Middle East
+[2026-04-08 06:00:54] Нет фото: Philadelphia’s founding years were rife 
+[2026-04-08 06:00:54] Нет фото: How can Ukraine help unlock the Strait o
+[2026-04-08 06:00:54] Нет фото: Financial Crash Expert: In 3 months We’l
+[2026-04-08 06:00:54] Нет фото: Financial Crash Expert: In 3 months We’l
+[2026-04-08 06:00:54] Украинские новости: найдено 4 после фильтрации
+[2026-04-08 06:00:55] Заблокированный источник (breitbart news): Four Killed by Russian Drone Strike in U
+[2026-04-08 06:00:55] Харьков: новостей не найдено
+[2026-04-08 06:00:57] Обрабатываю: Live updates: Trump says ‘entire country’ of Iran could be t
+[2026-04-08 06:00:57] Попытка 1 для: Live updates: Trump says ‘entire country
+[2026-04-08 06:00:58] Успешно, получено 851 символов
+[2026-04-08 06:00:59] Пауза 60 секунд...
+[2026-04-08 06:01:59] Обрабатываю: Australia's most-decorated soldier arrested over alleged war
+[2026-04-08 06:01:59] Попытка 1 для: Australia's most-decorated soldier arres
+[2026-04-08 06:02:00] Успешно, получено 596 символов
+[2026-04-08 06:02:00] Пауза 60 секунд...
+[2026-04-08 06:03:00] Обрабатываю: Trump endorses Republican Steven Hilton for California gover
+[2026-04-08 06:03:00] Попытка 1 для: Trump endorses Republican Steven Hilton 
+[2026-04-08 06:03:02] Успешно, получено 729 символов
+[2026-04-08 06:03:02] Пауза 60 секунд...
+[2026-04-08 06:04:02] Обрабатываю: Which Asian countries are passing through the Strait of Horm
+[2026-04-08 06:04:02] Попытка 1 для: Which Asian countries are passing throug
+[2026-04-08 06:04:03] Успешно, получено 617 символов
+[2026-04-08 06:04:06] Обрабатываю: Have the United States and Ukraine’s Azov Batalion Returned 
+[2026-04-08 06:04:06] Попытка 1 для: Have the United States and Ukraine’s Azo
+[2026-04-08 06:04:07] Успешно, получено 697 символов
+[2026-04-08 06:04:08] Пауза 60 секунд...
+[2026-04-08 06:05:08] Обрабатываю: Czech Republic took in huge numbers of Ukrainians. Its new g
+[2026-04-08 06:05:08] Попытка 1 для: Czech Republic took in huge numbers of U
+[2026-04-08 06:05:09] Успешно, получено 905 символов
+[2026-04-08 06:05:10] === Блок morning завершён ===
