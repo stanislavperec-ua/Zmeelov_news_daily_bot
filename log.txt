@@ -6795,3 +6795,54 @@
 [2026-04-08 06:05:08] Попытка 1 для: Czech Republic took in huge numbers of U
 [2026-04-08 06:05:09] Успешно, получено 905 символов
 [2026-04-08 06:05:10] === Блок morning завершён ===
+[2026-04-08 08:00:53] Загружено 487 уже отправленных новостей
+[2026-04-08 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-08 08:00:53] Неизвестный источник (pymnts.com): Instant Payments Security Counters Risin
+[2026-04-08 08:00:53] Неизвестный источник (livemint): As celebrities launch AI avatars, how lo
+[2026-04-08 08:00:53] Заблокированный источник (naturalnews.com): The Hijacked Mind: How dark forces are u
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Agentic AI startup NeuBird raises $19.3M
+[2026-04-08 08:00:53] Неизвестный источник (naftemporiki.gr): Daniele Mancuso – Sparkle Greece: The st
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Samsung forecasts insane operating profi
+[2026-04-08 08:00:53] Неизвестный источник (bleeding cool news): The Twilight Zone #6 Preview: When Groce
+[2026-04-08 08:00:53] Неизвестный источник (cointelegraph): Solana Foundation looks to beef up DeFi 
+[2026-04-08 08:00:53] Неизвестный источник (computerweekly.com): UAE unveils Falcon Perception in push fo
+[2026-04-08 08:00:53] Неизвестный источник (motley fool australia): 2 ASX 200 tech shares this fund manager 
+[2026-04-08 08:00:53] Неизвестный источник (mit.edu): Helping data centers deliver higher perf
+[2026-04-08 08:00:53] Неизвестный источник (bleeding cool news): Transformers #31 Preview: Megatron's Lif
+[2026-04-08 08:00:53] Неизвестный источник (financial post): Banpu Plans $1.5 Billion US Power Invest
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Report: Meta developing open-source vers
+[2026-04-08 08:00:53] Нет фото: Deep learning-based differential diagnos
+[2026-04-08 08:00:53] Неизвестный источник (financial post): Samsung Profit Up Eight-Fold as AI Chip 
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Anthropic taps Google and Broadcom for y
+[2026-04-08 08:00:53] Неизвестный источник (pymnts.com): Sezzle Financial Literacy Tools Help Con
+[2026-04-08 08:00:53] Неизвестный источник (business insider): A top US shipbuilder is exploring how AI
+[2026-04-08 08:00:53] Нет фото: volnix 0.1.2
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Nvidia-backed Firmus raises $505M at $5.
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): OpenAI releases policy document focused 
+[2026-04-08 08:00:53] Неизвестный источник (globenewswire): SBA Announces Dates for National Small B
+[2026-04-08 08:00:53] Неизвестный источник (globenewswire): Mawson Infrastructure Group Inc. Provide
+[2026-04-08 08:00:53] Неизвестный источник (globenewswire): XMax Announces Formation of XMax AI Inc.
+[2026-04-08 08:00:53] Неизвестный источник (financial post): Nvidia-Backed Data Center Builder Firmus
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Three insights you might have missed fro
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): Satellite data startup Xoople closes $13
+[2026-04-08 08:00:53] Неизвестный источник (financial post): Oracle taps new CFO to navigate data cen
+[2026-04-08 08:00:53] Нет фото: volnix 0.1.0
+[2026-04-08 08:00:53] Неизвестный источник (pypi.org): volnix added to PyPI
+[2026-04-08 08:00:53] Неизвестный источник (cointelegraph): JPMorgan's Jamie Dimon sees ‘new competi
+[2026-04-08 08:00:53] Неизвестный источник (financial post): OpenAI advocates electric grid, safety n
+[2026-04-08 08:00:53] Неизвестный источник (new york post): Inside San Francisco’s ‘co-founder rooms
+[2026-04-08 08:00:53] Неизвестный источник (pymnts.com): FinTechs Race to Build Foundation Models
+[2026-04-08 08:00:53] Неизвестный источник (siliconangle news): The $100B question: AI’s appetite for co
+[2026-04-08 08:00:53] AI новости: найдено 4 после фильтрации
+[2026-04-08 08:00:55] Обрабатываю: ASX 200 Surges 1.5% to 8,708.8 as Miners, Tech Rebound Amid 
+[2026-04-08 08:00:55] Попытка 1 для: ASX 200 Surges 1.5% to 8,708.8 as Miners
+[2026-04-08 08:00:57] Успешно, получено 730 символов
+[2026-04-08 08:00:57] Пауза 60 секунд...
+[2026-04-08 08:01:57] Обрабатываю: Australia's Firmus raises $505 million to expand AI infrastr
+[2026-04-08 08:01:57] Попытка 1 для: Australia's Firmus raises $505 million t
+[2026-04-08 08:01:58] Успешно, получено 1069 символов
+[2026-04-08 08:01:59] Пауза 60 секунд...
+[2026-04-08 08:02:59] Обрабатываю: OpenAI, Anthropic, Google unite to combat model copying in C
+[2026-04-08 08:02:59] Попытка 1 для: OpenAI, Anthropic, Google unite to comba
+[2026-04-08 08:03:00] Успешно, получено 868 символов
+[2026-04-08 08:03:00] === Блок ai_morning завершён ===
