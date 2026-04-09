@@ -7079,3 +7079,39 @@
 [2026-04-09 08:02:56] Попытка 1 для: Bertie Ahern has ‘zero’ to do with crypt
 [2026-04-09 08:02:57] Успешно, получено 605 символов
 [2026-04-09 08:02:57] === Блок ai_morning завершён ===
+[2026-04-09 11:00:52] Загружено 510 уже отправленных новостей
+[2026-04-09 11:00:52] === Запуск блока: midday ===
+[2026-04-09 11:00:52] Неизвестный источник (cbs sports): Houston Rockets vs. Phoenix Suns Live Sc
+[2026-04-09 11:00:52] Неизвестный источник (cnbc): Dow futures jump over 1,000 points, oil 
+[2026-04-09 11:00:52] Неизвестный источник (deadline): Elisabeth Moss Reprises ‘Handmaid’s Tale
+[2026-04-09 11:00:52] Заблокированный источник (sciencealert): The Artemis II Crew Has Sent Back Stunni
+[2026-04-09 11:00:52] Пропускаю уже отправленную: Telehealth abortion will remain available for now,
+[2026-04-09 11:00:52] Неизвестный источник (wisconsin public radio news): Chris Taylor wins Wisconsin Supreme Cour
+[2026-04-09 11:00:52] Неизвестный источник (9to5mac): WhatsApp’s improved CarPlay experience i
+[2026-04-09 11:00:52] Неизвестный источник (honolulu star-advertiser): DOH, CDC investigating rise in strep cas
+[2026-04-09 11:00:52] Неизвестный источник (the conversation africa): When a president is unfit for office, he
+[2026-04-09 11:00:52] Неизвестный источник (fox news): First-ever photo of Earth from moon’s fa
+[2026-04-09 11:00:52] Неизвестный источник (sportsline): 2026 Masters Tournament odds, prediction
+[2026-04-09 11:00:52] Неизвестный источник (variety): Meryl Streep Calls Out Melania Trump Fas
+[2026-04-09 11:00:52] Неизвестный источник (music business worldwide): Bill Ackman confident he’ll win over UMG
+[2026-04-09 11:00:52] Неизвестный источник (nfl news): Giants' John Harbaugh not surprised by D
+[2026-04-09 11:00:52] Неизвестный источник (forbes): Gene Regulation May Control How Long We 
+[2026-04-09 11:00:52] Неизвестный источник (fortune): 'I'd love to keep that a secret, Mr. Pre
+[2026-04-09 11:00:52] Старая новость (2026-04-06T09:01:18Z): Want to improve your memory? The right t
+[2026-04-09 11:00:52] Мировые новости: найдено 10 после фильтрации
+[2026-04-09 11:00:55] Обрабатываю: Live Updates: U.S., Iran reach 2-week ceasefire ahead of Tru
+[2026-04-09 11:00:55] Попытка 1 для: Live Updates: U.S., Iran reach 2-week ce
+[2026-04-09 11:00:56] Успешно, получено 877 символов
+[2026-04-09 11:00:57] Пауза 60 секунд...
+[2026-04-09 11:01:57] Обрабатываю: Republican wins runoff to replace Marjorie Taylor Greene in 
+[2026-04-09 11:01:57] Попытка 1 для: Republican wins runoff to replace Marjor
+[2026-04-09 11:01:58] Успешно, получено 678 символов
+[2026-04-09 11:01:58] Пауза 60 секунд...
+[2026-04-09 11:02:58] Обрабатываю: Asian benchmarks jump after oil prices sink in response to t
+[2026-04-09 11:02:58] Попытка 1 для: Asian benchmarks jump after oil prices s
+[2026-04-09 11:03:00] Успешно, получено 803 символов
+[2026-04-09 11:03:00] Пауза 60 секунд...
+[2026-04-09 11:04:00] Обрабатываю: GOP dissenters emerge on Trump's threat against Iranian "civ
+[2026-04-09 11:04:00] Попытка 1 для: GOP dissenters emerge on Trump's threat 
+[2026-04-09 11:04:01] Успешно, получено 627 символов
+[2026-04-09 11:04:01] === Блок midday завершён ===
