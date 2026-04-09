@@ -6983,3 +6983,48 @@
 [2026-04-08 18:03:28] Попытка 1 для: AI networking firm Aria Networks raises 
 [2026-04-08 18:03:29] Успешно, получено 559 символов
 [2026-04-08 18:03:29] === Блок ai_evening завершён ===
+[2026-04-09 06:00:49] Загружено 502 уже отправленных новостей
+[2026-04-09 06:00:49] === Запуск блока: morning ===
+[2026-04-09 06:00:49] Неизвестный источник (entertainment weekly): Aubrey Plaza expecting first child with 
+[2026-04-09 06:00:49] Неизвестный источник (honolulu star-advertiser): DOH, CDC investigating rise in strep cas
+[2026-04-09 06:00:49] Неизвестный источник (cnbc): South Korea stocks lead gains in Asia as
+[2026-04-09 06:00:49] Неизвестный источник (bgr): 4 '80s Inspired Retro Gadgets You Can Fi
+[2026-04-09 06:00:49] Неизвестный источник (the conversation africa): When a president is unfit for office, he
+[2026-04-09 06:00:49] Неизвестный источник (9to5google.com): Gemini overlay and Gemini Live start rol
+[2026-04-09 06:00:49] Неизвестный источник (nj.com): Meteor seen streaking across afternoon s
+[2026-04-09 06:00:49] Неизвестный источник (notus.org): Trump Administration Forecasts Long-Term
+[2026-04-09 06:00:49] Неизвестный источник (deadline): ‘The Boys’ Casts The Worm & Teenage Kix 
+[2026-04-09 06:00:49] Неизвестный источник (variety): Rapper Lil Tjay Arrested in Connection W
+[2026-04-09 06:00:49] Неизвестный источник (nfl news): Rhett Lewis 2026 NFL mock draft 1.0: Eag
+[2026-04-09 06:00:49] Неизвестный источник (al-monitor): China, Russia veto scaled-back Hormuz re
+[2026-04-09 06:00:49] Неизвестный источник (sports illustrated): 2026 Masters Dark Horse Picks, Sleepers 
+[2026-04-09 06:00:49] Неизвестный источник (notebookcheck.net): Qualcomm Snapdragon X2 Elite Extreme Ana
+[2026-04-09 06:00:49] Неизвестный источник (forbes): Gene Regulation May Control How Long We 
+[2026-04-09 06:00:49] Мировые новости: найдено 12 после фильтрации
+[2026-04-09 06:00:49] Нет фото: Shell first quarter 2026 update note
+[2026-04-09 06:00:49] Заблокированный источник (naturalnews.com): Report: 75 Energy Assets Damaged in Gulf
+[2026-04-09 06:00:49] Заблокированный источник (naturalnews.com): Russia accused of arming Iran with Israe
+[2026-04-09 06:00:49] Пропускаю российский фокус: Eight killed in Russian attacks targeting Ukrainia
+[2026-04-09 06:00:49] Заблокированный источник (rt): Prof. Schlevogt’s Compass No. 51: Persia
+[2026-04-09 06:00:49] Украинские новости: найдено 1 после фильтрации
+[2026-04-09 06:00:49] Нет фото: Today's top news: Lebanon, Occupied Pale
+[2026-04-09 06:00:49] Харьков: новостей не найдено
+[2026-04-09 06:00:52] Обрабатываю: U.S. AND IRAN AGREE TO 2-WEEK CEASEFIRE
+[2026-04-09 06:00:52] Попытка 1 для: U.S. AND IRAN AGREE TO 2-WEEK CEASEFIRE
+[2026-04-09 06:00:53] Успешно, получено 630 символов
+[2026-04-09 06:00:53] Пауза 60 секунд...
+[2026-04-09 06:01:53] Обрабатываю: Republican Clay Fuller wins special election to replace Marj
+[2026-04-09 06:01:53] Попытка 1 для: Republican Clay Fuller wins special elec
+[2026-04-09 06:01:54] Успешно, получено 776 символов
+[2026-04-09 06:01:55] Пауза 60 секунд...
+[2026-04-09 06:02:55] Обрабатываю: Telehealth abortion will remain available for now, after a f
+[2026-04-09 06:02:55] Попытка 1 для: Telehealth abortion will remain availabl
+[2026-04-09 06:02:56] Успешно, получено 693 символов
+[2026-04-09 06:02:56] Пауза 60 секунд...
+[2026-04-09 06:03:56] Обрабатываю: Wife of US soldier released from federal immigration detenti
+[2026-04-09 06:03:56] Попытка 1 для: Wife of US soldier released from federal
+[2026-04-09 06:03:57] Успешно, получено 693 символов
+[2026-04-09 06:04:00] Обрабатываю: Ukraine says it replaced human soldiers with 'ground robots'
+[2026-04-09 06:04:00] Попытка 1 для: Ukraine says it replaced human soldiers 
+[2026-04-09 06:04:01] Успешно, получено 919 символов
+[2026-04-09 06:04:01] === Блок morning завершён ===
