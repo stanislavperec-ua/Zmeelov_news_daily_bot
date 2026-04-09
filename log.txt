@@ -7028,3 +7028,54 @@
 [2026-04-09 06:04:00] Попытка 1 для: Ukraine says it replaced human soldiers 
 [2026-04-09 06:04:01] Успешно, получено 919 символов
 [2026-04-09 06:04:01] === Блок morning завершён ===
+[2026-04-09 08:00:50] Загружено 507 уже отправленных новостей
+[2026-04-09 08:00:50] === Запуск блока: ai_morning ===
+[2026-04-09 08:00:50] Неизвестный источник (computerweekly.com): XCOM RAN intros end-to-end private 5G fo
+[2026-04-09 08:00:50] Нет фото: openjali added to PyPI
+[2026-04-09 08:00:50] Заблокированный источник (naturalnews.com): Bill Gates to face House committee grill
+[2026-04-09 08:00:50] Неизвестный источник (financial post): Korean Stocks, Won Surge After Iran Ceas
+[2026-04-09 08:00:50] Нет фото: kymnasium 1.2.0
+[2026-04-09 08:00:50] Неизвестный источник (computerweekly.com): Cisco: Network readiness a determining f
+[2026-04-09 08:00:50] Неизвестный источник (radaronline.com): Why Speed Matters for the Solana Price: 
+[2026-04-09 08:00:50] Неизвестный источник (motley fool australia): 3 ASX 200 shares that could quietly comp
+[2026-04-09 08:00:50] Неизвестный источник (financial post): Robot Maker Kuka Eyes US, Asia as Europe
+[2026-04-09 08:00:50] Нет фото: kymnasium 1.1.5
+[2026-04-09 08:00:50] Нет фото: kymnasium 1.1.4
+[2026-04-09 08:00:50] Нет фото: pymaise-dev 2.1.0
+[2026-04-09 08:00:50] Неизвестный источник (globenewswire): Digital Realty Opens First Asia Pacific 
+[2026-04-09 08:00:50] Неизвестный источник (computerweekly.com): Optical networks to bridge the AI comput
+[2026-04-09 08:00:50] Нет фото: Massively parallel in-sensor skinomorphi
+[2026-04-09 08:00:50] Неизвестный источник (siliconangle news): Modus secures $85M to expand AI-powered 
+[2026-04-09 08:00:50] Заблокированный источник (rt): Prof. Schlevogt’s Compass No. 51: Persia
+[2026-04-09 08:00:50] Неизвестный источник (financial post): Stocks soar in global relief rally as oi
+[2026-04-09 08:00:50] Неизвестный источник (siliconangle news): Data center switch maker Aria Networks r
+[2026-04-09 08:00:50] Неизвестный источник (new york post): 13 shots pumped into Indianapolis offici
+[2026-04-09 08:00:50] Неизвестный источник (observer): At the New Museum, Parallel Visions of H
+[2026-04-09 08:00:50] Неизвестный источник (vanity fair): Awards Season Is Over. Strike Season Has
+[2026-04-09 08:00:50] Неизвестный источник (financial post): RBC leading US$1.1 billion loan for nucl
+[2026-04-09 08:00:50] Неизвестный источник (lunarstrategy.com): 7 Best AI Implementation Agencies for Ma
+[2026-04-09 08:00:50] Неизвестный источник (daily signal): Research Sheds Light on the Promise and 
+[2026-04-09 08:00:50] Неизвестный источник (siliconangle news): Anthropic’s dispute with US government e
+[2026-04-09 08:00:50] Неизвестный источник (siliconangle news): Nutanix expands platforms for agentic AI
+[2026-04-09 08:00:50] Неизвестный источник (fortune): OpenAI is a drama company. Will that hur
+[2026-04-09 08:00:50] Неизвестный источник (financial post): Microsoft vows data centres will not hik
+[2026-04-09 08:00:50] Неизвестный источник (wccftech): NVIDIA DLSS 5 — Everything We Know So Fa
+[2026-04-09 08:00:50] Неизвестный источник (cnbc): National College Decision Day is approac
+[2026-04-09 08:00:50] Неизвестный источник (coindesk): ‘Don’t waste time with crypto': Here is 
+[2026-04-09 08:00:50] Неизвестный источник (pymnts.com): Solana Rolls Out Tools to Fend Off Block
+[2026-04-09 08:00:50] Неизвестный источник (amazon.com): Introducing workload simulation workbenc
+[2026-04-09 08:00:50] Неизвестный источник (financial post): Systane Steps Up to the Plate as the Off
+[2026-04-09 08:00:50] Неизвестный источник (siliconangle news): Hapax serves up proactive AI platform de
+[2026-04-09 08:00:50] AI новости: найдено 4 после фильтрации
+[2026-04-09 08:00:53] Обрабатываю: Accounting tech startup Atlas raises $6 million in round co-
+[2026-04-09 08:00:53] Попытка 1 для: Accounting tech startup Atlas raises $6 
+[2026-04-09 08:00:54] Успешно, получено 819 символов
+[2026-04-09 08:00:54] Пауза 60 секунд...
+[2026-04-09 08:01:54] Обрабатываю: Metabolomics across scales: from single cells to population 
+[2026-04-09 08:01:54] Попытка 1 для: Metabolomics across scales: from single 
+[2026-04-09 08:01:55] Успешно, получено 1039 символов
+[2026-04-09 08:01:56] Пауза 60 секунд...
+[2026-04-09 08:02:56] Обрабатываю: Bertie Ahern has ‘zero’ to do with crypto resort linked to I
+[2026-04-09 08:02:56] Попытка 1 для: Bertie Ahern has ‘zero’ to do with crypt
+[2026-04-09 08:02:57] Успешно, получено 605 символов
+[2026-04-09 08:02:57] === Блок ai_morning завершён ===
