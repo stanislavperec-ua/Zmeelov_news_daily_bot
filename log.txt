@@ -7161,3 +7161,53 @@
 [2026-04-09 16:05:06] Попытка 1 для: APT28 Deploys PRISMEX Malware in Campaig
 [2026-04-09 16:05:07] Успешно, получено 677 символов
 [2026-04-09 16:05:07] === Блок evening завершён ===
+[2026-04-09 18:00:52] Загружено 519 уже отправленных новостей
+[2026-04-09 18:00:52] === Запуск блока: ai_evening ===
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Solidigm targets the AI bottleneck with 
+[2026-04-09 18:00:56] Нет фото: Boulder Imaging, an AI-Powered Machine V
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): Boulder Imaging, an AI-Powered Machine V
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): CoBank Quarterly: Economic fallout of ri
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Felix launches with $1.7M to reliably au
+[2026-04-09 18:00:56] Неизвестный источник (financial post): Anthropic lets Apple, Amazon test more p
+[2026-04-09 18:00:56] Неизвестный источник (the conversation africa): Artificial intelligence and biology: AI’
+[2026-04-09 18:00:56] Неизвестный источник (yahoo entertainment): Legendary Bear Peter Schiff Warns: 'We'r
+[2026-04-09 18:00:56] Нет фото: DIAGNOS Provides an Update on Sales and 
+[2026-04-09 18:00:56] Неизвестный источник (pymnts.com): Visa Aims to Give Businesses Agentic Com
+[2026-04-09 18:00:56] Неизвестный источник (thepinknews.com): Never watched the Real Housewives? The R
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): IBFD and Vrije Universiteit Amsterdam An
+[2026-04-09 18:00:56] Неизвестный источник (frontiersin.org): Frontiers | State of health estimation m
+[2026-04-09 18:00:56] Нет фото: Burst Analytics to Launch Road Pact on P
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Regal AI launches Copilot for building s
+[2026-04-09 18:00:56] Неизвестный источник (plos.org): Perceptions of Chinese higher-vocational
+[2026-04-09 18:00:56] Неизвестный источник (plos.org): A dual-threshold system relying on multi
+[2026-04-09 18:00:56] Неизвестный источник (plos.org): A transfer-aware, deployment-oriented ev
+[2026-04-09 18:00:56] Неизвестный источник (plos.org): A hybrid system for detecting semiconduc
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): Bugcrowd and Carahsoft Partner to Bring 
+[2026-04-09 18:00:56] Нет фото: agixt 1.9.4
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Startup Sazabi bets on logs and AI agent
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Silicon Data brings transparency to futu
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Cynomi unveils AI Insights and co-worker
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): Snowflake expands open data strategy wit
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): C3 AI debuts agentic tool that transform
+[2026-04-09 18:00:56] Неизвестный источник (siliconangle news): NWN launches cybersecurity platform with
+[2026-04-09 18:00:56] Неизвестный источник (designboom): michelangelo pistoletto turns global scr
+[2026-04-09 18:00:56] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Ad
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): Nightfood Holdings Inc. (OTCQB: NGTF) Ad
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): IBN Initiates Coverage of Cardio Diagnos
+[2026-04-09 18:00:56] Неизвестный источник (cnbc): Iran ceasefire, Delta earnings, the Navy
+[2026-04-09 18:00:56] Неизвестный источник (landezine.com): 1 May / Call for Submissions: Thresholds
+[2026-04-09 18:00:56] Неизвестный источник (globenewswire): Nasdaq Determines That 3 E Network Has R
+[2026-04-09 18:00:56] Неизвестный источник (columbia journalism review): ‘We Have to Identify Where We Are Adding
+[2026-04-09 18:00:56] AI новости: найдено 4 после фильтрации
+[2026-04-09 18:00:59] Обрабатываю: Is Microsoft 365 or Outlook Down Right Now? Latest Status Ch
+[2026-04-09 18:00:59] Попытка 1 для: Is Microsoft 365 or Outlook Down Right N
+[2026-04-09 18:01:00] Успешно, получено 467 символов
+[2026-04-09 18:01:00] Пауза 60 секунд...
+[2026-04-09 18:02:00] Обрабатываю: MAFS Australia 2026 Finale Delivers Drama as Only One Couple
+[2026-04-09 18:02:00] Попытка 1 для: MAFS Australia 2026 Finale Delivers Dram
+[2026-04-09 18:02:02] Успешно, получено 601 символов
+[2026-04-09 18:02:02] Пауза 60 секунд...
+[2026-04-09 18:03:02] Обрабатываю: Earth is getting ever brighter at night. Here's the reason w
+[2026-04-09 18:03:02] Попытка 1 для: Earth is getting ever brighter at night.
+[2026-04-09 18:03:03] Успешно, получено 532 символов
+[2026-04-09 18:03:03] === Блок ai_evening завершён ===
