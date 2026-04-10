@@ -7211,3 +7211,60 @@
 [2026-04-09 18:03:02] Попытка 1 для: Earth is getting ever brighter at night.
 [2026-04-09 18:03:03] Успешно, получено 532 символов
 [2026-04-09 18:03:03] === Блок ai_evening завершён ===
+[2026-04-10 06:00:53] Загружено 522 уже отправленных новостей
+[2026-04-10 06:00:53] === Запуск блока: morning ===
+[2026-04-10 06:00:53] Неизвестный источник (heat.com): Cade Cunningham returns to Pistons lineu
+[2026-04-10 06:00:53] Неизвестный источник (cnbc): Trump warns U.S. military will stay near
+[2026-04-10 06:00:53] Неизвестный источник (eonline.com): Devil Wears Prada 2 Editing Error Proves
+[2026-04-10 06:00:53] Неизвестный источник (on3.com): 2026 NFL Draft: CBS Sports unveils new m
+[2026-04-10 06:00:53] Неизвестный источник (entertainment weekly): Michael Patrick, Irish actor known for S
+[2026-04-10 06:00:53] Неизвестный источник (macrumors): iOS 26.4.1 Includes These Two Changes fo
+[2026-04-10 06:00:53] Неизвестный источник (deadline): Paramount Unlikely To Replace Jeff Shell
+[2026-04-10 06:00:53] Неизвестный источник (deadline): WGA Reveals Details Of Its Studio Deal: 
+[2026-04-10 06:00:53] Неизвестный источник (benrothenberg.com): What Happened to Daniil Medvedev - Bounc
+[2026-04-10 06:00:53] Неизвестный источник (kabc-tv): Artemis II splashdown forecast: Orion's 
+[2026-04-10 06:00:53] Неизвестный источник (9to5google.com): YouTube Shorts will use AI to make avata
+[2026-04-10 06:00:53] Неизвестный источник (sfgate): Trump just lost the war in Iran - SFGATE
+[2026-04-10 06:00:53] Неизвестный источник (variety): Matthew Perry’s Death: ‘Ketamine Queen’ 
+[2026-04-10 06:00:53] Неизвестный источник (thefriedegg.com): 2026 Masters Preview: Players, Storyline
+[2026-04-10 06:00:53] Старая новость (2026-04-07T22:19:00Z): Fireball spotted in Pennsylvania, New Je
+[2026-04-10 06:00:53] Старая новость (2026-04-07T21:43:00Z): What does Austin need to know about the 
+[2026-04-10 06:00:53] Старая новость (2026-04-07T17:35:34Z): Flea-borne typhus surges across LA Count
+[2026-04-10 06:00:53] Старая новость (2026-04-07T14:15:00Z): NASA Astronauts Prepare for Cygnus Cargo
+[2026-04-10 06:00:53] Мировые новости: найдено 12 после фильтрации
+[2026-04-10 06:00:54] Заблокированный источник (naturalnews.com): Gold surges amid fragile ceasefire as ma
+[2026-04-10 06:00:54] Заблокированный источник (naturalnews.com): With The Ceasefire Dead, The Mad Max Sce
+[2026-04-10 06:00:54] Заблокированный источник (naturalnews.com): Iran Conflict Disrupts Critical Helium, 
+[2026-04-10 06:00:54] Заблокированный источник (naturalnews.com): IEA Chief Warns Energy Crisis Exceeds Hi
+[2026-04-10 06:00:54] Нет фото: Politics
+U.S. has violated ceasefire agr
+[2026-04-10 06:00:54] Нет фото: Trump blasts NATO over Iran war, revives
+[2026-04-10 06:00:54] Нет фото: Automatic registration for US military d
+[2026-04-10 06:00:54] Нет фото: Trump complains NATO 'wasn't there when 
+[2026-04-10 06:00:54] Нет фото: Mike Kuiken, Vice Chair, 2026 Report Cyc
+[2026-04-10 06:00:54] Украинские новости: найдено 2 после фильтрации
+[2026-04-10 06:00:54] Нет фото: Top Urban Areas in Ukraine to Meet Women
+[2026-04-10 06:00:54] Харьков: новостей не найдено
+[2026-04-10 06:00:56] Обрабатываю: Stock Market News, April 8, 2026: Stocks Jump After U.S., Ir
+[2026-04-10 06:00:56] Попытка 1 для: Stock Market News, April 8, 2026: Stocks
+[2026-04-10 06:00:57] Успешно, получено 650 символов
+[2026-04-10 06:00:58] Пауза 60 секунд...
+[2026-04-10 06:01:58] Обрабатываю: Police in the Bahamas arrest husband of US woman who vanishe
+[2026-04-10 06:01:58] Попытка 1 для: Police in the Bahamas arrest husband of 
+[2026-04-10 06:01:58] Успешно, получено 460 символов
+[2026-04-10 06:01:59] Пауза 60 секунд...
+[2026-04-10 06:02:59] Обрабатываю: Live Updates: Iran accuses U.S. of violating ceasefire deal 
+[2026-04-10 06:02:59] Попытка 1 для: Live Updates: Iran accuses U.S. of viola
+[2026-04-10 06:03:00] Успешно, получено 762 символов
+[2026-04-10 06:03:00] Пауза 60 секунд...
+[2026-04-10 06:04:00] Обрабатываю: Doctor found guilty of trying to kill his wife during cliffs
+[2026-04-10 06:04:00] Попытка 1 для: Doctor found guilty of trying to kill hi
+[2026-04-10 06:04:01] Успешно, получено 661 символов
+[2026-04-10 06:04:04] Обрабатываю: Ukrainian covert forces used Libyan territory to strike Russ
+[2026-04-10 06:04:04] Попытка 1 для: Ukrainian covert forces used Libyan terr
+[2026-04-10 06:04:05] Успешно, получено 811 символов
+[2026-04-10 06:04:06] Пауза 60 секунд...
+[2026-04-10 06:05:06] Обрабатываю: Alleged US killer of Ukrainian refugee ruled incompetent to 
+[2026-04-10 06:05:06] Попытка 1 для: Alleged US killer of Ukrainian refugee r
+[2026-04-10 06:05:07] Успешно, получено 686 символов
+[2026-04-10 06:05:07] === Блок morning завершён ===
