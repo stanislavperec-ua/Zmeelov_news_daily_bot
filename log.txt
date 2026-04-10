@@ -7268,3 +7268,54 @@ U.S. has violated ceasefire agr
 [2026-04-10 06:05:06] Попытка 1 для: Alleged US killer of Ukrainian refugee r
 [2026-04-10 06:05:07] Успешно, получено 686 символов
 [2026-04-10 06:05:07] === Блок morning завершён ===
+[2026-04-10 08:00:53] Загружено 528 уже отправленных новостей
+[2026-04-10 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-10 08:00:53] Неизвестный источник (landezine.com): Topophilia Revisited: The Instability of
+[2026-04-10 08:00:53] Неизвестный источник (financial post): Stocks’ Relief Rally Stalls as Crude Oil
+[2026-04-10 08:00:53] Неизвестный источник (businessline): How the math works behind a $1.75 trilli
+[2026-04-10 08:00:53] Неизвестный источник (siliconangle news): Appeals court rejects Anthropic’s bid to
+[2026-04-10 08:00:53] Нет фото: Appeals court rebuffs Anthropic in lates
+[2026-04-10 08:00:53] Неизвестный источник (siliconangle news): Anthropic launches Claude Managed Agents
+[2026-04-10 08:00:53] Нет фото: EneA of Aspergillus fumigatus is a regul
+[2026-04-10 08:00:53] Нет фото: Enhanced glucose forecasting using recur
+[2026-04-10 08:00:53] Нет фото: Study on mmage defect recognition and cl
+[2026-04-10 08:00:53] Нет фото: Controlled heating between 100 and 500 d
+[2026-04-10 08:00:53] Нет фото: Machine-enhanced reconstruction of funct
+[2026-04-10 08:00:53] Нет фото: Computer vision for pain detection durin
+[2026-04-10 08:00:53] Неизвестный источник (thewrap): Writers Guild Releases Tentative Agreeme
+[2026-04-10 08:00:53] Неизвестный источник (variety): What’s in the WGA Deal: $321 Million in 
+[2026-04-10 08:00:53] Неизвестный источник (pymnts.com): White House Budget Axes Cybersecurity Ag
+[2026-04-10 08:00:53] Неизвестный источник (siliconangle news): Meta debuts Muse Spark multimodal reason
+[2026-04-10 08:00:53] Неизвестный источник (financial post): Tech Entrepreneur Yanik Guillemette Anno
+[2026-04-10 08:00:53] Неизвестный источник (ms. magazine): Ms. Global: Energy Crisis in Cuba, Femin
+[2026-04-10 08:00:53] Неизвестный источник (financial post): News of the day: Keyera probe, mortgage 
+[2026-04-10 08:00:53] Нет фото: volnix 0.1.5
+[2026-04-10 08:00:53] Неизвестный источник (briansolis.com): CX Network Names Brian Solis a Top AI Le
+[2026-04-10 08:00:53] Неизвестный источник (globenewswire): [Latest] Global Digital Twin in Marine M
+[2026-04-10 08:00:53] Неизвестный источник (globenewswire): XMax Advances AI Strategy Through Develo
+[2026-04-10 08:00:53] Неизвестный источник (the next web): Meta’s Muse Spark is here – and it’s clo
+[2026-04-10 08:00:53] Неизвестный источник (cryptoprowl.com): Stablecoins Move More Money Than Visa An
+[2026-04-10 08:00:53] Неизвестный источник (amazon.com): Building intelligent audio search with A
+[2026-04-10 08:00:53] Нет фото: Easing Mideast Tensions Could Boost Priv
+[2026-04-10 08:00:53] Неизвестный источник (provideocoalition.com): NAB Post|Production World 2026. Are you 
+[2026-04-10 08:00:53] Неизвестный источник (adweek): Why Every Streaming Service Suddenly Wan
+[2026-04-10 08:00:53] Нет фото: aigyminsper 0.3.0
+[2026-04-10 08:00:53] Неизвестный источник (siliconangle news): Solidigm targets the AI bottleneck with 
+[2026-04-10 08:00:53] Нет фото: Boulder Imaging, an AI-Powered Machine V
+[2026-04-10 08:00:53] Неизвестный источник (globenewswire): Boulder Imaging, an AI-Powered Machine V
+[2026-04-10 08:00:53] Неизвестный источник (globenewswire): CoBank Quarterly: Economic fallout of ri
+[2026-04-10 08:00:53] Неизвестный источник (siliconangle news): Felix launches with $1.7M to reliably au
+[2026-04-10 08:00:53] Неизвестный источник (financial post): Anthropic lets Apple, Amazon test more p
+[2026-04-10 08:00:53] AI новости: найдено 3 после фильтрации
+[2026-04-10 08:00:56] Обрабатываю: Reaching for the next rung on the career ladder in the age o
+[2026-04-10 08:00:56] Попытка 1 для: Reaching for the next rung on the career
+[2026-04-10 08:00:57] Успешно, получено 873 символов
+[2026-04-10 08:00:58] Пауза 60 секунд...
+[2026-04-10 08:01:58] Обрабатываю: AI-generated doctors in health ads must be labelled: S. Kore
+[2026-04-10 08:01:58] Попытка 1 для: AI-generated doctors in health ads must 
+[2026-04-10 08:01:59] Успешно, получено 921 символов
+[2026-04-10 08:02:00] Пауза 60 секунд...
+[2026-04-10 08:03:00] Обрабатываю: Why OpenAI bought 'SportsCenter for Silicon Valley'
+[2026-04-10 08:03:00] Попытка 1 для: Why OpenAI bought 'SportsCenter for Sili
+[2026-04-10 08:03:01] Успешно, получено 592 символов
+[2026-04-10 08:03:01] === Блок ai_morning завершён ===
