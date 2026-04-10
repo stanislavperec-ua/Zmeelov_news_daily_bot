@@ -7405,3 +7405,55 @@ U.S. has violated ceasefire agr
 [2026-04-10 16:05:05] Попытка 1 для: Fact check: Orban points to Ukraine over
 [2026-04-10 16:05:06] Успешно, получено 725 символов
 [2026-04-10 16:05:07] === Блок evening завершён ===
+[2026-04-10 18:00:53] Загружено 541 уже отправленных новостей
+[2026-04-10 18:00:53] === Запуск блока: ai_evening ===
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Tether launches open-source on-device AI
+[2026-04-10 18:00:53] Нет фото: openjali 0.1.1
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): AWS previews a cloud-agnostic registry f
+[2026-04-10 18:00:53] Неизвестный источник (financial post): Amazon is considering selling its AI chi
+[2026-04-10 18:00:53] Неизвестный источник (financial post): Nvidia shares near level where technical
+[2026-04-10 18:00:53] Неизвестный источник (hollywood reporter): Top Influencers’ Secret Weapon for Engag
+[2026-04-10 18:00:53] Неизвестный источник (retail dive): Andy Jassy defends Amazon’s $200B AI inv
+[2026-04-10 18:00:53] Неизвестный источник (pypi.org): openoma added to PyPI
+[2026-04-10 18:00:53] Неизвестный источник (wwd): Gap Inc. Signals Future of Retail with E
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Haast raises $12M to help legal teams ma
+[2026-04-10 18:00:53] Неизвестный источник (plos.org): An interpretable deep learning framework
+[2026-04-10 18:00:53] Неизвестный источник (protothema.gr): How much money do you need saved for a c
+[2026-04-10 18:00:53] Нет фото: aait 3.4.0
+[2026-04-10 18:00:53] Нет фото: HotelPlanner Earns Prestigious 2026 USA 
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Blaize launches AI Services platform to 
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Refiant raises $5M to refine AI models w
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): ServiceNow says it’s ‘AI-enabling’ its e
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Zencoder launches AI platform to automat
+[2026-04-10 18:00:53] Неизвестный источник (cnbc): Google expands partnership with Intel fo
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): HotelPlanner Earns Prestigious 2026 USA 
+[2026-04-10 18:00:53] Неизвестный источник (hongkiat.com): Best Apps for Multiple WhatsApp Accounts
+[2026-04-10 18:00:53] Нет фото: mfai 7.1.2
+[2026-04-10 18:00:53] Неизвестный источник (internet): ThreatsDay Bulletin: Hybrid P2P Botnet, 
+[2026-04-10 18:00:53] Нет фото: ZenaTech Announces its 21st Acquisition,
+[2026-04-10 18:00:53] Нет фото: Robotics and AI in Drug Manufacturing: M
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): Helport AI and QuickCEP Forge Strategic 
+[2026-04-10 18:00:53] Нет фото: DarkIris Establishes Global R&D Headquar
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): ZenaTech Announces its 21st Acquisition,
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): AI-Powered Pharma Manufacturing Signals 
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): Turbo Energy Secures Strategic Patent fo
+[2026-04-10 18:00:53] Нет фото: CoreWeave, Meta Strike Another $21 Billi
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Appknox launches KnoxIQ to prioritize re
+[2026-04-10 18:00:53] Неизвестный источник (github.com): Show HN: Webcellar – JavaScript (and Typ
+[2026-04-10 18:00:53] Неизвестный источник (poynter): MS NOW is investing in local news and or
+[2026-04-10 18:00:53] Неизвестный источник (financial post): BMO to open institute to boost quantum c
+[2026-04-10 18:00:53] Неизвестный источник (siliconangle news): Sigma Automate emerges with $2.75M to ta
+[2026-04-10 18:00:53] Неизвестный источник (globenewswire): Farming & Agriculture Drone Market Resea
+[2026-04-10 18:00:53] AI новости: найдено 3 после фильтрации
+[2026-04-10 18:00:56] Обрабатываю: Amazon Stock Jumps 4.5% as AI Optimism Eases Fears Over $200
+[2026-04-10 18:00:56] Попытка 1 для: Amazon Stock Jumps 4.5% as AI Optimism E
+[2026-04-10 18:00:57] Успешно, получено 707 символов
+[2026-04-10 18:00:57] Пауза 60 секунд...
+[2026-04-10 18:01:57] Обрабатываю: Want a piece of SpaceX? Smart ways to invest before Elon Mus
+[2026-04-10 18:01:57] Попытка 1 для: Want a piece of SpaceX? Smart ways to in
+[2026-04-10 18:01:58] Успешно, получено 900 символов
+[2026-04-10 18:01:59] Пауза 60 секунд...
+[2026-04-10 18:02:59] Обрабатываю: From OpenAI to Nvidia, tech firms channel billions into AI i
+[2026-04-10 18:02:59] Попытка 1 для: From OpenAI to Nvidia, tech firms channe
+[2026-04-10 18:03:00] Успешно, получено 731 символов
+[2026-04-10 18:03:00] === Блок ai_evening завершён ===
