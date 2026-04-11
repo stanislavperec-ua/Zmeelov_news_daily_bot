@@ -7638,3 +7638,50 @@ U.S. has violated ceasefire agr
 [2026-04-11 16:04:59] Попытка 1 для: Zelenskyy says Ukrainian interceptors do
 [2026-04-11 16:05:00] Успешно, получено 797 символов
 [2026-04-11 16:05:01] === Блок evening завершён ===
+[2026-04-11 18:00:49] Загружено 560 уже отправленных новостей
+[2026-04-11 18:00:49] === Запуск блока: ai_evening ===
+[2026-04-11 18:00:50] Неизвестный источник (ipwatchdog.com): Other Barks & Bites for Friday, April 10
+[2026-04-11 18:00:50] Заблокированный источник (breitbart news): Researchers Create Fake Disease, AI Chat
+[2026-04-11 18:00:50] Неизвестный источник (techtarget.com): GenAI data center infrastructure reshape
+[2026-04-11 18:00:50] Нет фото: entro-quantum added to PyPI
+[2026-04-11 18:00:50] Нет фото: entro-quantum 1.0.0
+[2026-04-11 18:00:50] Неизвестный источник (the week magazine): SpaceX could be the biggest IPO in histo
+[2026-04-11 18:00:50] Неизвестный источник (decrypt): BitTensor AI Token Plunges as Top Builde
+[2026-04-11 18:00:50] Неизвестный источник (the new york review of books): The Emirates on the Tightrope
+[2026-04-11 18:00:50] Нет фото: volnix 0.1.7
+[2026-04-11 18:00:50] Неизвестный источник (itsfoss.com): Good News! France Starts Plan to Replace
+[2026-04-11 18:00:50] Неизвестный источник (siliconangle news): Anthropic tries to keep its new AI model
+[2026-04-11 18:00:50] Неизвестный источник (cryptoslate): Bittensor sheds $900 million in market v
+[2026-04-11 18:00:50] Неизвестный источник (globenewswire): Humber River Health Renames Wilson Site 
+[2026-04-11 18:00:50] Неизвестный источник (quanta magazine): Why Do We Tell Ourselves Scary Stories A
+[2026-04-11 18:00:50] Неизвестный источник (financial post): Iceland to Cut Petrol Tax as Costlier Oi
+[2026-04-11 18:00:50] Неизвестный источник (asymco.com): AI as Infrastructure
+[2026-04-11 18:00:50] Неизвестный источник (kevinmd.com): Health care startups desperately need cl
+[2026-04-11 18:00:50] Неизвестный источник (plos.org): Assessing the influence of diverse skill
+[2026-04-11 18:00:50] Неизвестный источник (plos.org): Research on hybrid cloud resource schedu
+[2026-04-11 18:00:50] Неизвестный источник (plos.org): Cytotoxic Vδ2+ T cell subsets expand in 
+[2026-04-11 18:00:50] Неизвестный источник (mediaite): ONE SHEET: Trump Attacks MAGA Media; WHC
+[2026-04-11 18:00:50] Неизвестный источник (financial post): Stocks Rise on In-Line CPI Ahead of US-I
+[2026-04-11 18:00:50] Неизвестный источник (tom's hardware uk): French government say it's ditching Wind
+[2026-04-11 18:00:50] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Br
+[2026-04-11 18:00:50] Нет фото: Oncotelic Therapeutics Inc. (OTCQB: OTLC
+[2026-04-11 18:00:50] Неизвестный источник (globenewswire): Oncotelic Therapeutics Inc. (OTCQB: OTLC
+[2026-04-11 18:00:50] Неизвестный источник (globenewswire): Nightfood Holdings Inc. (OTCQB: NGTF) Br
+[2026-04-11 18:00:50] Нет фото: BiomX Acquires Zorronet, Autonomous AI C
+[2026-04-11 18:00:50] Неизвестный источник (financial post): GQG’s Kersmanc Says Early Big Tech Exit 
+[2026-04-11 18:00:50] Нет фото: Airia Partners with Performa IT to Expan
+[2026-04-11 18:00:50] Нет фото: Anthropic Agrees to Rent CoreWeave AI Ca
+[2026-04-11 18:00:50] Неизвестный источник (financial post): SOLOWIN HOLDINGS Announces Participation
+[2026-04-11 18:00:50] AI новости: найдено 6 после фильтрации
+[2026-04-11 18:00:52] Обрабатываю: Mumbai doctors developing AI tool to predict gait freezing i
+[2026-04-11 18:00:52] Попытка 1 для: Mumbai doctors developing AI tool to pre
+[2026-04-11 18:00:53] Успешно, получено 695 символов
+[2026-04-11 18:00:54] Пауза 60 секунд...
+[2026-04-11 18:01:54] Обрабатываю: Is Google Gemini Down? No Major Outage Reported as AI Chatbo
+[2026-04-11 18:01:54] Попытка 1 для: Is Google Gemini Down? No Major Outage R
+[2026-04-11 18:01:54] Успешно, получено 638 символов
+[2026-04-11 18:01:55] Пауза 60 секунд...
+[2026-04-11 18:02:55] Обрабатываю: Credo Technology Stock Soars 10% on Explosive AI Demand as C
+[2026-04-11 18:02:55] Попытка 1 для: Credo Technology Stock Soars 10% on Expl
+[2026-04-11 18:02:56] Успешно, получено 781 символов
+[2026-04-11 18:02:56] === Блок ai_evening завершён ===
