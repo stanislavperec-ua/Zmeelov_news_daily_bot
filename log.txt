@@ -7457,3 +7457,53 @@ U.S. has violated ceasefire agr
 [2026-04-10 18:02:59] Попытка 1 для: From OpenAI to Nvidia, tech firms channe
 [2026-04-10 18:03:00] Успешно, получено 731 символов
 [2026-04-10 18:03:00] === Блок ai_evening завершён ===
+[2026-04-11 06:00:52] Загружено 544 уже отправленных новостей
+[2026-04-11 06:00:52] === Запуск блока: morning ===
+[2026-04-11 06:00:53] Неизвестный источник (sports illustrated): Good, Bad and Ugly Masters Round 1: A Di
+[2026-04-11 06:00:53] Неизвестный источник (pgatour.com): Sunny but scary: Masters field bracing f
+[2026-04-11 06:00:53] Неизвестный источник (rolling stone): Hip-Hop Pioneer Afrika Bambaataa Dead at
+[2026-04-11 06:00:53] Неизвестный источник (hollywood reporter): Natasha Lyonne Responds to Report She Wa
+[2026-04-11 06:00:53] Неизвестный источник (intouch weekly): ‘Love On The Spectrum’ Couple Abbey and 
+[2026-04-11 06:00:53] Неизвестный источник (the action network): Celtics vs Knicks Predictions, Picks, Od
+[2026-04-11 06:00:53] Неизвестный источник (business insider): Michael Burry says Anthropic is 'eating 
+[2026-04-11 06:00:53] Неизвестный источник (the cut): What We Know About the Disappearance of 
+[2026-04-11 06:00:53] Неизвестный источник (thescore): 2026 NFL mock draft: Updated 1st-round p
+[2026-04-11 06:00:53] Неизвестный источник (rolling stone): BTS Bring the Hits, Brave Torrents of Ra
+[2026-04-11 06:00:53] Неизвестный источник (space.com): Watch Artemis 2 race back to Earth in th
+[2026-04-11 06:00:53] Неизвестный источник (futurism): The New York Times Says It’s Identified 
+[2026-04-11 06:00:53] Неизвестный источник (spotify.com): Spotify Introduces New Video Controls fo
+[2026-04-11 06:00:53] Старая новость (2026-04-08T19:34:22Z): Why obesity drugs work better for some p
+[2026-04-11 06:00:53] Старая новость (2026-04-08T19:08:56Z): Should’ve put a ring on it? Maybe! Marri
+[2026-04-11 06:00:53] Старая новость (2026-04-08T19:08:50Z): TCL's soft on the eyes NXTPAPER 70 Pro i
+[2026-04-11 06:00:53] Мировые новости: найдено 8 после фильтрации
+[2026-04-11 06:00:53] Заблокированный источник (naturalnews.com): Israel’s Self-Sabotage: How a Regime of 
+[2026-04-11 06:00:53] Заблокированный источник (naturalnews.com): Trump mulls troop WITHDRAWALS from NATO 
+[2026-04-11 06:00:53] Заблокированный источник (sputnikglobe.com): Putin Announces Easter Truce in Ukraine 
+[2026-04-11 06:00:53] Нет фото: The Insurgent Empire: Standoff War, Tras
+[2026-04-11 06:00:53] Нет фото: The Perilous Options in the Strait of Ho
+[2026-04-11 06:00:53] Внутренний дубль: Ukraine and Russia to cease fire for Orthodox East
+[2026-04-11 06:00:53] Украинские новости: найдено 3 после фильтрации
+[2026-04-11 06:00:53] Харьков: новостей не найдено
+[2026-04-11 06:00:56] Обрабатываю: Family says popular energy drink played role in cheerleader'
+[2026-04-11 06:00:56] Попытка 1 для: Family says popular energy drink played 
+[2026-04-11 06:00:57] Успешно, получено 894 символов
+[2026-04-11 06:00:58] Пауза 60 секунд...
+[2026-04-11 06:01:58] Обрабатываю: Anthropic Model Scare Sparks Urgent Bessent, Powell Warning 
+[2026-04-11 06:01:58] Попытка 1 для: Anthropic Model Scare Sparks Urgent Bess
+[2026-04-11 06:01:59] Успешно, получено 1090 символов
+[2026-04-11 06:02:00] Пауза 60 секунд...
+[2026-04-11 06:03:00] Обрабатываю: Pentagon violated court order to restore press access, judge
+[2026-04-11 06:03:00] Попытка 1 для: Pentagon violated court order to restore
+[2026-04-11 06:03:01] Успешно, получено 757 символов
+[2026-04-11 06:03:01] Пауза 60 секунд...
+[2026-04-11 06:04:01] Обрабатываю: Strait of Hormuz still seeing significantly lower traffic de
+[2026-04-11 06:04:01] Попытка 1 для: Strait of Hormuz still seeing significan
+[2026-04-11 06:04:02] Успешно, получено 773 символов
+[2026-04-11 06:04:05] Обрабатываю: Ukraine, Russia to cease fire for Orthodox Easter
+[2026-04-11 06:04:05] Попытка 1 для: Ukraine, Russia to cease fire for Orthod
+[2026-04-11 06:04:06] Успешно, получено 708 символов
+[2026-04-11 06:04:07] Пауза 60 секунд...
+[2026-04-11 06:05:07] Обрабатываю: Dragon boat club donates racing vessel to Ukraine
+[2026-04-11 06:05:07] Попытка 1 для: Dragon boat club donates racing vessel t
+[2026-04-11 06:05:08] Успешно, получено 599 символов
+[2026-04-11 06:05:09] === Блок morning завершён ===
