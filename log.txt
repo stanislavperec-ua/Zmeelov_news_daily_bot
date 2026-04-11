@@ -7555,3 +7555,36 @@ U.S. has violated ceasefire agr
 [2026-04-11 08:01:57] Попытка 1 для: Amazon Stock Jumps 4.5% as AI Optimism E
 [2026-04-11 08:01:58] Успешно, получено 842 символов
 [2026-04-11 08:01:59] === Блок ai_morning завершён ===
+[2026-04-11 11:00:53] Загружено 551 уже отправленных новостей
+[2026-04-11 11:00:53] === Запуск блока: midday ===
+[2026-04-11 11:00:53] Неизвестный источник (medium): Flashes on the Dark Side of the Moon: A 
+[2026-04-11 11:00:53] Неизвестный источник (newsnationnow.com): US Postal Service to suspend employer pa
+[2026-04-11 11:00:53] Неизвестный источник (ncaa.com): Live updates from the 2026 Men's Frozen 
+[2026-04-11 11:00:53] Неизвестный источник (9to5mac): WhatsApp is bringing Status updates to t
+[2026-04-11 11:00:53] Неизвестный источник (cnbc): Stock futures little changed as traders 
+[2026-04-11 11:00:53] Неизвестный источник (deadline): 'Malcolm in the Middle' Stars Declare "G
+[2026-04-11 11:00:53] Неизвестный источник (9to5mac): New Apple TV movie starring Keanu Reeves
+[2026-04-11 11:00:53] Неизвестный источник (sports illustrated): Good, Bad and Ugly Masters Round 1: A Di
+[2026-04-11 11:00:53] Неизвестный источник (pgatour.com): Sunny but scary: Masters field bracing f
+[2026-04-11 11:00:53] Неизвестный источник (intouch weekly): ‘Love On The Spectrum’ Couple Abbey and 
+[2026-04-11 11:00:53] Неизвестный источник (the cut): What We Know About the Disappearance of 
+[2026-04-11 11:00:53] Заблокированный источник (forbes): 2K Says Surprise ‘Borderlands’ Mobile Ga
+[2026-04-11 11:00:53] Неизвестный источник (gizmodo.com): Laptops Are About to Get Very Exciting A
+[2026-04-11 11:00:53] Старая новость (2026-04-08T16:06:34Z): Eating This Way May Slow Brain Aging by 
+[2026-04-11 11:00:53] Мировые новости: найдено 9 после фильтрации
+[2026-04-11 11:00:56] Обрабатываю: These Republican-on-Republican disputes are keeping Congress
+[2026-04-11 11:00:56] Попытка 1 для: These Republican-on-Republican disputes 
+[2026-04-11 11:00:57] Успешно, получено 772 символов
+[2026-04-11 11:00:58] Пауза 60 секунд...
+[2026-04-11 11:01:58] Обрабатываю: Trump Lashes Out at MAGA Critics Amid Iran Split
+[2026-04-11 11:01:58] Попытка 1 для: Trump Lashes Out at MAGA Critics Amid Ir
+[2026-04-11 11:01:59] Успешно, получено 697 символов
+[2026-04-11 11:01:59] Пауза 60 секунд...
+[2026-04-11 11:02:59] Обрабатываю: Live Updates: Trump cautions Iran against charging tolls thr
+[2026-04-11 11:02:59] Попытка 1 для: Live Updates: Trump cautions Iran agains
+[2026-04-11 11:03:00] Успешно, получено 813 символов
+[2026-04-11 11:03:01] Пауза 60 секунд...
+[2026-04-11 11:04:01] Обрабатываю: How to watch the Hungarian election like a pro
+[2026-04-11 11:04:01] Попытка 1 для: How to watch the Hungarian election like
+[2026-04-11 11:04:02] Успешно, получено 399 символов
+[2026-04-11 11:04:02] === Блок midday завершён ===
