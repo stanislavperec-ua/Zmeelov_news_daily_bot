@@ -7507,3 +7507,51 @@ U.S. has violated ceasefire agr
 [2026-04-11 06:05:07] Попытка 1 для: Dragon boat club donates racing vessel t
 [2026-04-11 06:05:08] Успешно, получено 599 символов
 [2026-04-11 06:05:09] === Блок morning завершён ===
+[2026-04-11 08:00:52] Загружено 550 уже отправленных новостей
+[2026-04-11 08:00:52] === Запуск блока: ai_morning ===
+[2026-04-11 08:00:52] Неизвестный источник (financial post): Global Funds Flow Back Into Asian AI Sto
+[2026-04-11 08:00:52] Неизвестный источник (the-independent.com): Should parents worry about their childre
+[2026-04-11 08:00:52] Неизвестный источник (the next web): Databricks co-founder Matei Zaharia wins
+[2026-04-11 08:00:52] Неизвестный источник (cna): Digital Realty deepens Singapore investm
+[2026-04-11 08:00:52] Неизвестный источник (computerweekly.com): Moscow champions digital sovereignty and
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Meta Platforms says it will spend an add
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Florida AG opens probe into ChatGPT alle
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Cisco buys Galileo to strengthen Splunk’
+[2026-04-11 08:00:52] Неизвестный источник (the punch): Delta, Amazon partner to boost in-flight
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Anthropic and OpenAI target big business
+[2026-04-11 08:00:52] Нет фото: Research on geological hazard susceptibi
+[2026-04-11 08:00:52] Нет фото: Hybrid feature selection for IoMT based 
+[2026-04-11 08:00:52] Нет фото: Rising urban flood risk and exposure und
+[2026-04-11 08:00:52] Нет фото: A multi-context fusion-aware graph model
+[2026-04-11 08:00:52] Неизвестный источник (curiousmindmagazine.com): Eric Ralls and the Rise of Everyday Envi
+[2026-04-11 08:00:52] Неизвестный источник (the punch): Upstream oil sector rebounds with $10bn 
+[2026-04-11 08:00:52] Неизвестный источник (new zealand herald): Air NZ plans to expand digital ID trials
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Intel inks multiyear data center chip pa
+[2026-04-11 08:00:52] Неизвестный источник (royal society of chemistry): ZnO-modified activated carbon derived fr
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Apiiro launches Apiiro CLI to bring AI-n
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Yobi teams with Microsoft to deliver pre
+[2026-04-11 08:00:52] Нет фото: feagi 2.1.36
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Amazon CEO Andy Jassy highlights AI grow
+[2026-04-11 08:00:52] Нет фото: Princeton AI for Climate Network Launch 
+[2026-04-11 08:00:52] Нет фото: annpy-neopydev5454 0.1.10
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Is a backlash brewing? Rapid innovation 
+[2026-04-11 08:00:52] Неизвестный источник (financial post): Software slumps again with growth hopes 
+[2026-04-11 08:00:52] Неизвестный источник (financial post): IMCO’s CoreWeave bet powers 7.4% annual 
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): Tether launches open-source on-device AI
+[2026-04-11 08:00:52] Нет фото: Vero Fiber expands credit facility for n
+[2026-04-11 08:00:52] Нет фото: openjali 0.1.1
+[2026-04-11 08:00:52] Неизвестный источник (siliconangle news): AWS previews a cloud-agnostic registry f
+[2026-04-11 08:00:52] Неизвестный источник (financial post): Amazon is considering selling its AI chi
+[2026-04-11 08:00:52] Неизвестный источник (financial post): Nvidia shares near level where technical
+[2026-04-11 08:00:52] Неизвестный источник (hollywood reporter): Top Influencers’ Secret Weapon for Engag
+[2026-04-11 08:00:52] Неизвестный источник (retail dive): Andy Jassy defends Amazon’s $200B AI inv
+[2026-04-11 08:00:52] Неизвестный источник (pypi.org): openoma added to PyPI
+[2026-04-11 08:00:52] AI новости: найдено 2 после фильтрации
+[2026-04-11 08:00:55] Обрабатываю: CleanSpark Stock Surges Past $10 on Strong Bitcoin Output an
+[2026-04-11 08:00:55] Попытка 1 для: CleanSpark Stock Surges Past $10 on Stro
+[2026-04-11 08:00:56] Успешно, получено 938 символов
+[2026-04-11 08:00:57] Пауза 60 секунд...
+[2026-04-11 08:01:57] Обрабатываю: Amazon Stock Jumps 4.5% as AI Optimism Eases Fears Over $200
+[2026-04-11 08:01:57] Попытка 1 для: Amazon Stock Jumps 4.5% as AI Optimism E
+[2026-04-11 08:01:58] Успешно, получено 842 символов
+[2026-04-11 08:01:59] === Блок ai_morning завершён ===
