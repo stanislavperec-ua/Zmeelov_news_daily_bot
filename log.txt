@@ -7784,3 +7784,41 @@ U.S. has violated ceasefire agr
 [2026-04-12 08:02:57] Попытка 1 для: Rapid fashion startups are dressed to ki
 [2026-04-12 08:02:58] Успешно, получено 719 символов
 [2026-04-12 08:02:59] === Блок ai_morning завершён ===
+[2026-04-12 11:00:49] Загружено 572 уже отправленных новостей
+[2026-04-12 11:00:49] === Запуск блока: midday ===
+[2026-04-12 11:00:49] Неизвестный источник (fox news): Marriage status has surprising link to c
+[2026-04-12 11:00:49] Неизвестный источник (space.com): Splashdown! Artemis 2 astronauts return 
+[2026-04-12 11:00:49] Неизвестный источник (hollywood reporter): Sam Altman Confirms Molotov Cocktail Inc
+[2026-04-12 11:00:49] Неизвестный источник (hollywood reporter): Coachella Chaos? As Demand Surges, So Do
+[2026-04-12 11:00:49] Неизвестный источник (kgo-tv): California Rep. Eric Swalwell denies sex
+[2026-04-12 11:00:49] Неизвестный источник (honolulu star-advertiser): Record gas price surge fuels sharp rise 
+[2026-04-12 11:00:49] Пропускаю уже отправленную: Lebanon and U.S. ask Israel for "pause" in fightin
+[2026-04-12 11:00:49] Неизвестный источник (cbs sports): Arizona Diamondbacks vs. Philadelphia Ph
+[2026-04-12 11:00:49] Неизвестный источник (nintendo life): The Rogue Prince Of Persia Physical Rele
+[2026-04-12 11:00:49] Неизвестный источник (understandingwar.org): Iran Update Special Report, April 10, 20
+[2026-04-12 11:00:49] Неизвестный источник (espn): Bryson DeChambeau cards 6-over at Master
+[2026-04-12 11:00:49] Неизвестный источник (mashable): Did Amazon brick your Kindle? The pros a
+[2026-04-12 11:00:49] Неизвестный источник (variety): Natasha Lyonne Says ‘I Was Detained’ by 
+[2026-04-12 11:00:49] Неизвестный источник (9to5mac): XChat, X’s standalone messaging app, lau
+[2026-04-12 11:00:49] Неизвестный источник (ksl.com): Peruvians in Utah will count among the v
+[2026-04-12 11:00:49] Неизвестный источник (wtop): Prince Harry sued for defamation by char
+[2026-04-12 11:00:49] Неизвестный источник (the daily galaxy --great discoveries channel): NASA Signals Major Artemis 3 Leap As Moo
+[2026-04-12 11:00:49] Старая новость (2026-04-10T04:47:44Z): Too young for the MMR shot, babies becom
+[2026-04-12 11:00:49] Старая новость (2026-04-09T14:44:06Z): NASA just shared jaw-dropping Artemis II
+[2026-04-12 11:00:49] Мировые новости: найдено 7 после фильтрации
+[2026-04-12 11:00:51] Обрабатываю: Iran delegation arrives in Pakistan for US talks, as Lebanon
+[2026-04-12 11:00:51] Попытка 1 для: Iran delegation arrives in Pakistan for 
+[2026-04-12 11:00:52] Успешно, получено 711 символов
+[2026-04-12 11:00:53] Пауза 60 секунд...
+[2026-04-12 11:01:53] Обрабатываю: Trump shares video of a brutal Florida killing allegedly by 
+[2026-04-12 11:01:53] Попытка 1 для: Trump shares video of a brutal Florida k
+[2026-04-12 11:01:54] Успешно, получено 910 символов
+[2026-04-12 11:01:54] Пауза 60 секунд...
+[2026-04-12 11:02:54] Обрабатываю: Michigan couple at center of Bahamas disappearance chronicle
+[2026-04-12 11:02:54] Попытка 1 для: Michigan couple at center of Bahamas dis
+[2026-04-12 11:02:56] Успешно, получено 859 символов
+[2026-04-12 11:02:56] Пауза 60 секунд...
+[2026-04-12 11:03:56] Обрабатываю: Developer of Massachusetts offshore wind farm sues to stop t
+[2026-04-12 11:03:56] Попытка 1 для: Developer of Massachusetts offshore wind
+[2026-04-12 11:03:57] Успешно, получено 959 символов
+[2026-04-12 11:03:57] === Блок midday завершён ===
