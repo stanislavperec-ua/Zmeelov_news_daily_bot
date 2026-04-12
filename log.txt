@@ -7884,3 +7884,52 @@ U.S. has violated ceasefire agr
 [2026-04-12 16:05:02] Попытка 1 для: Russia and Ukraine trade prisoners, dron
 [2026-04-12 16:05:03] Успешно, получено 682 символов
 [2026-04-12 16:05:03] === Блок evening завершён ===
+[2026-04-12 18:00:49] Загружено 580 уже отправленных новостей
+[2026-04-12 18:00:49] === Запуск блока: ai_evening ===
+[2026-04-12 18:00:50] Заблокированный источник (breitbart news): Hollywood's Worst Nightmare: Indian Film
+[2026-04-12 18:00:50] Нет фото: PJM Targets 15 Gigawatts of New Power fo
+[2026-04-12 18:00:50] Неизвестный источник (coinroop.com): 10 Best Tools for Real-Time Payment Heal
+[2026-04-12 18:00:50] Нет фото: The Lost Art of Medicine: What Maimonide
+[2026-04-12 18:00:50] Нет фото: Bank of Canada, Major Lenders Met on Ant
+[2026-04-12 18:00:50] Неизвестный источник (the indian express): UPSC Weekly Current Affairs Quiz (April 
+[2026-04-12 18:00:50] Неизвестный источник (decrypt): New Tools Aim to Make AI 'Vibe Coding' S
+[2026-04-12 18:00:50] Нет фото: Abu Dhabi Royal’s Firm to Buy Stake in C
+[2026-04-12 18:00:50] Неизвестный источник (pypi.org): chromadose added to PyPI
+[2026-04-12 18:00:50] Неизвестный источник (fox news): Steve Martin and Chevy Chase conspired t
+[2026-04-12 18:00:50] Неизвестный источник (singularity hub): How to Build Better Digital Twins of the
+[2026-04-12 18:00:50] Неизвестный источник (elearningindustry.com): Why Learning Systems Must Evolve Beyond 
+[2026-04-12 18:00:50] Неизвестный источник (ubergizmo): Adobe Reader Zero-Day Exploit Uses Fake 
+[2026-04-12 18:00:50] Неизвестный источник (autoexpress): Volvo ES90 vs DS No8: Swedish minimalism
+[2026-04-12 18:00:50] Пропускаю уже отправленную: From complexity to clarity: How AI is transforming
+[2026-04-12 18:00:50] Неизвестный источник (newsbtc): Bittensor (TAO) Crashes 20% Following Co
+[2026-04-12 18:00:50] Неизвестный источник (github.com): Show HN: Lmscan – Detect AI text and fin
+[2026-04-12 18:00:50] Неизвестный источник (siliconangle news): Report: Cisco could acquire AI agent sec
+[2026-04-12 18:00:50] Пропускаю уже отправленную: Rapid fashion startups are dressed to kill…but can
+[2026-04-12 18:00:50] Нет фото: A zero-knowledge enabled dynamic shardin
+[2026-04-12 18:00:50] Нет фото: Structural optimization of drug molecule
+[2026-04-12 18:00:50] Нет фото: CBP/p300 is critical for the expansion a
+[2026-04-12 18:00:50] Нет фото: A two-stage deep learning model for risk
+[2026-04-12 18:00:50] Неизвестный источник (the punch): Banks, telcos alliance key to tackling r
+[2026-04-12 18:00:50] Неизвестный источник (pymnts.com): BMO Accelerates Quantum Push With New Te
+[2026-04-12 18:00:50] Неизвестный источник (boredpanda.com): Woman Breaks Up With BF After She Sees H
+[2026-04-12 18:00:50] Неизвестный источник (mit.edu): Professor Emeritus Jack Dennis, pioneeri
+[2026-04-12 18:00:50] Нет фото: Trump praises Palantir as stock has wors
+[2026-04-12 18:00:50] Неизвестный источник (financial post): News of the day: Job numbers, rate hike 
+[2026-04-12 18:00:50] Неизвестный источник (the next web): France orders all government ministries 
+[2026-04-12 18:00:50] Неизвестный источник (siliconangle news): Agentic AI will force a rethink at the n
+[2026-04-12 18:00:50] Неизвестный источник (motley fool australia): The ASX 200 shares I think smart investo
+[2026-04-12 18:00:50] Неизвестный источник (siliconangle news): AI training data startup AfterQuery nabs
+[2026-04-12 18:00:50] Неизвестный источник (pymnts.com): Perplexity Uses Plaid to Personalize Mon
+[2026-04-12 18:00:50] Неизвестный источник (financial post): Bank of Canada, major lenders meet on An
+[2026-04-12 18:00:50] Неизвестный источник (digitalcommerce360): Avalara adds integration with Clover for
+[2026-04-12 18:00:50] Неизвестный источник (siliconangle news): HPE accelerates quantum readiness ahead 
+[2026-04-12 18:00:50] Неизвестный источник (ocregister): Anthropic model scare sparks urgent Bess
+[2026-04-12 18:00:50] AI новости: найдено 2 после фильтрации
+[2026-04-12 18:00:52] Обрабатываю: Vodafone’s stock market rebound risks losing reception
+[2026-04-12 18:00:52] Попытка 1 для: Vodafone’s stock market rebound risks lo
+[2026-04-12 18:00:53] Успешно, получено 590 символов
+[2026-04-12 18:00:53] Пауза 60 секунд...
+[2026-04-12 18:01:53] Обрабатываю: Rapid fashion companies dress to kill...how fit is the model
+[2026-04-12 18:01:53] Попытка 1 для: Rapid fashion companies dress to kill...
+[2026-04-12 18:01:54] Успешно, получено 641 символов
+[2026-04-12 18:01:55] === Блок ai_evening завершён ===
