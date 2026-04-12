@@ -7685,3 +7685,54 @@ U.S. has violated ceasefire agr
 [2026-04-11 18:02:55] Попытка 1 для: Credo Technology Stock Soars 10% on Expl
 [2026-04-11 18:02:56] Успешно, получено 781 символов
 [2026-04-11 18:02:56] === Блок ai_evening завершён ===
+[2026-04-12 06:00:54] Загружено 563 уже отправленных новостей
+[2026-04-12 06:00:54] === Запуск блока: morning ===
+[2026-04-12 06:00:54] Неизвестный источник (espn): Brittney Griner finalizing seven-figure 
+[2026-04-12 06:00:54] Неизвестный источник (honolulu star-advertiser): Record gas price surge fuels sharp rise 
+[2026-04-12 06:00:54] Неизвестный источник (people): Heather Locklear and Lorenzo Lamas Are D
+[2026-04-12 06:00:54] Неизвестный источник (macrumors): The Latest Foldable iPhone Rumors: What'
+[2026-04-12 06:00:54] Неизвестный источник (san francisco chronicle): ‘The Audacity’ skewers Bay Area tech eli
+[2026-04-12 06:00:54] Неизвестный источник (entertainment weekly): Matthew Perry's stepdad said 'I don't ha
+[2026-04-12 06:00:54] Неизвестный источник (nfl news): Twenty-six true difference-makers in the
+[2026-04-12 06:00:54] Неизвестный источник (variety): Why the Box Office for ‘You, Me & Tuscan
+[2026-04-12 06:00:54] Неизвестный источник (france 24 english): ‘We thought Beirut was going to collapse
+[2026-04-12 06:00:54] Старая новость (2026-04-10T04:47:44Z): Too young for the MMR shot, babies becom
+[2026-04-12 06:00:54] Старая новость (2026-04-09T14:44:06Z): NASA just shared jaw-dropping Artemis II
+[2026-04-12 06:00:54] Мировые новости: найдено 15 после фильтрации
+[2026-04-12 06:00:54] Заблокированный источник (naturalnews.com): U.S. Intelligence Officials Allege Russi
+[2026-04-12 06:00:54] Заблокированный источник (naturalnews.com): IMF Prepares Up to $50 Billion in Aid fo
+[2026-04-12 06:00:54] Заблокированный источник (naturalnews.com): Louisiana’s massive LNG project set to e
+[2026-04-12 06:00:54] Заблокированный источник (breitbart news): Coons: Trump Is 'Disrespectful,' of Cong
+[2026-04-12 06:00:54] Нет фото: Hunter Biden Flees US, Claims He’s $17 M
+[2026-04-12 06:00:54] Нет фото: News Summary-Intelligence Report 4/10/20
+[2026-04-12 06:00:54] Нет фото: Refugees admitted to US in 2026:
+[2026-04-12 06:00:54] Нет фото: US appeals court declares 158-year-old h
+[2026-04-12 06:00:54] Нет фото: Disturbing sex attack claims leveled aga
+[2026-04-12 06:00:54] Заблокированный источник (rt): ‘Attempted assassination’: Tucker Carlso
+[2026-04-12 06:00:54] Заблокированный источник (breitbart news): Breitbart Business Digest: Ask Not for W
+[2026-04-12 06:00:54] Украинские новости: найдено 2 после фильтрации
+[2026-04-12 06:00:54] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Dibrova Settleme
+[2026-04-12 06:00:54] Харьков: новостей не найдено
+[2026-04-12 06:00:56] Обрабатываю: Iran delegation arrives in Pakistan for US talks, as Lebanon
+[2026-04-12 06:00:56] Попытка 1 для: Iran delegation arrives in Pakistan for 
+[2026-04-12 06:00:57] Успешно, получено 779 символов
+[2026-04-12 06:00:58] Пауза 60 секунд...
+[2026-04-12 06:01:58] Обрабатываю: Lebanon and U.S. ask Israel for "pause" in fighting, sources
+[2026-04-12 06:01:58] Попытка 1 для: Lebanon and U.S. ask Israel for "pause" 
+[2026-04-12 06:01:59] Успешно, получено 721 символов
+[2026-04-12 06:01:59] Пауза 60 секунд...
+[2026-04-12 06:02:59] Обрабатываю: Live updates: Artemis II astronauts splash down off Californ
+[2026-04-12 06:02:59] Попытка 1 для: Live updates: Artemis II astronauts spla
+[2026-04-12 06:03:00] Успешно, получено 958 символов
+[2026-04-12 06:03:01] Пауза 60 секунд...
+[2026-04-12 06:04:01] Обрабатываю: Trump shares video of a brutal Florida killing allegedly by 
+[2026-04-12 06:04:01] Попытка 1 для: Trump shares video of a brutal Florida k
+[2026-04-12 06:04:02] Успешно, получено 831 символов
+[2026-04-12 06:04:05] Обрабатываю: Russia, Ukraine set to begin Easter truce
+[2026-04-12 06:04:05] Попытка 1 для: Russia, Ukraine set to begin Easter truc
+[2026-04-12 06:04:05] Успешно, получено 703 символов
+[2026-04-12 06:04:06] Пауза 60 секунд...
+[2026-04-12 06:05:06] Обрабатываю: Kyiv’s top negotiator says Putin is nearing a deal with Ukra
+[2026-04-12 06:05:06] Попытка 1 для: Kyiv’s top negotiator says Putin is near
+[2026-04-12 06:05:07] Успешно, получено 858 символов
+[2026-04-12 06:05:08] === Блок morning завершён ===
