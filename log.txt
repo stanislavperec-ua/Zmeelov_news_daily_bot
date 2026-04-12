@@ -7736,3 +7736,51 @@ U.S. has violated ceasefire agr
 [2026-04-12 06:05:06] Попытка 1 для: Kyiv’s top negotiator says Putin is near
 [2026-04-12 06:05:07] Успешно, получено 858 символов
 [2026-04-12 06:05:08] === Блок morning завершён ===
+[2026-04-12 08:00:52] Загружено 569 уже отправленных новостей
+[2026-04-12 08:00:52] === Запуск блока: ai_morning ===
+[2026-04-12 08:00:52] Неизвестный источник (newsbtc): Bittensor (TAO) Crashes 20% Following Co
+[2026-04-12 08:00:52] Неизвестный источник (github.com): Show HN: Lmscan – Detect AI text and fin
+[2026-04-12 08:00:52] Неизвестный источник (siliconangle news): Report: Cisco could acquire AI agent sec
+[2026-04-12 08:00:52] Нет фото: A zero-knowledge enabled dynamic shardin
+[2026-04-12 08:00:52] Нет фото: Structural optimization of drug molecule
+[2026-04-12 08:00:52] Нет фото: CBP/p300 is critical for the expansion a
+[2026-04-12 08:00:52] Нет фото: A two-stage deep learning model for risk
+[2026-04-12 08:00:52] Неизвестный источник (the punch): Banks, telcos alliance key to tackling r
+[2026-04-12 08:00:52] Неизвестный источник (pymnts.com): BMO Accelerates Quantum Push With New Te
+[2026-04-12 08:00:52] Неизвестный источник (boredpanda.com): Woman Breaks Up With BF After She Sees H
+[2026-04-12 08:00:52] Неизвестный источник (mit.edu): Professor Emeritus Jack Dennis, pioneeri
+[2026-04-12 08:00:52] Нет фото: Trump praises Palantir as stock has wors
+[2026-04-12 08:00:52] Неизвестный источник (financial post): News of the day: Job numbers, rate hike 
+[2026-04-12 08:00:52] Неизвестный источник (the next web): France orders all government ministries 
+[2026-04-12 08:00:52] Неизвестный источник (siliconangle news): Agentic AI will force a rethink at the n
+[2026-04-12 08:00:52] Неизвестный источник (motley fool australia): The ASX 200 shares I think smart investo
+[2026-04-12 08:00:52] Неизвестный источник (siliconangle news): AI training data startup AfterQuery nabs
+[2026-04-12 08:00:52] Неизвестный источник (pymnts.com): Perplexity Uses Plaid to Personalize Mon
+[2026-04-12 08:00:52] Неизвестный источник (financial post): Bank of Canada, major lenders meet on An
+[2026-04-12 08:00:52] Неизвестный источник (digitalcommerce360): Avalara adds integration with Clover for
+[2026-04-12 08:00:52] Неизвестный источник (siliconangle news): HPE accelerates quantum readiness ahead 
+[2026-04-12 08:00:52] Неизвестный источник (ocregister): Anthropic model scare sparks urgent Bess
+[2026-04-12 08:00:52] Неизвестный источник (financial post): Toronto’s Cohere in ‘advanced discussion
+[2026-04-12 08:00:52] Неизвестный источник (drgarbers.com): The Thymus Gland & Longevity: New Resear
+[2026-04-12 08:00:52] Неизвестный источник (mediaite): CNN’s Aaron Blake Calls Out Trump for ‘P
+[2026-04-12 08:00:52] Неизвестный источник (ipwatchdog.com): Other Barks & Bites for Friday, April 10
+[2026-04-12 08:00:52] Заблокированный источник (breitbart news): Researchers Create Fake Disease, AI Chat
+[2026-04-12 08:00:52] Неизвестный источник (techtarget.com): GenAI data center infrastructure reshape
+[2026-04-12 08:00:52] Нет фото: entro-quantum added to PyPI
+[2026-04-12 08:00:52] Нет фото: entro-quantum 1.0.0
+[2026-04-12 08:00:52] Неизвестный источник (the week magazine): SpaceX could be the biggest IPO in histo
+[2026-04-12 08:00:52] Неизвестный источник (decrypt): BitTensor AI Token Plunges as Top Builde
+[2026-04-12 08:00:52] Неизвестный источник (the new york review of books): The Emirates on the Tightrope
+[2026-04-12 08:00:52] AI новости: найдено 6 после фильтрации
+[2026-04-12 08:00:54] Обрабатываю: From complexity to clarity: How AI is transforming insurance
+[2026-04-12 08:00:54] Попытка 1 для: From complexity to clarity: How AI is tr
+[2026-04-12 08:00:55] Успешно, получено 624 символов
+[2026-04-12 08:00:56] Пауза 60 секунд...
+[2026-04-12 08:01:56] Обрабатываю: Vodafone’s stock market rebound risks losing reception
+[2026-04-12 08:01:56] Попытка 1 для: Vodafone’s stock market rebound risks lo
+[2026-04-12 08:01:57] Успешно, получено 679 символов
+[2026-04-12 08:01:57] Пауза 60 секунд...
+[2026-04-12 08:02:57] Обрабатываю: Rapid fashion startups are dressed to kill…but can the model
+[2026-04-12 08:02:57] Попытка 1 для: Rapid fashion startups are dressed to ki
+[2026-04-12 08:02:58] Успешно, получено 719 символов
+[2026-04-12 08:02:59] === Блок ai_morning завершён ===
