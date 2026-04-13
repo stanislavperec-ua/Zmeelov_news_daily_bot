@@ -8119,3 +8119,30 @@ U.S. has violated ceasefire agr
 [2026-04-13 16:05:09] Попытка 1 для: Ukraine, Russia accuse each other of vio
 [2026-04-13 16:05:10] Успешно, получено 607 символов
 [2026-04-13 16:05:11] === Блок evening завершён ===
+[2026-04-13 18:00:56] Загружено 597 уже отправленных новостей
+[2026-04-13 18:00:56] === Запуск блока: ai_evening ===
+[2026-04-13 18:00:56] Неизвестный источник (the next web): Anthropic brings Claude into Microsoft W
+[2026-04-13 18:00:56] Неизвестный источник (pypi.org): tyche-tools added to PyPI
+[2026-04-13 18:00:56] Неизвестный источник (pypi.org): tyche-core added to PyPI
+[2026-04-13 18:00:56] Неизвестный источник (kevinmd.com): Artificial general intelligence and the 
+[2026-04-13 18:00:56] Неизвестный источник (financial post): Oil-Rich Latin America Lures Traders Nav
+[2026-04-13 18:00:56] Неизвестный источник (forrester.com): What Marketing Leaders Should Not Miss A
+[2026-04-13 18:00:56] Неизвестный источник (forrester.com): What Marketing Leaders Should Not Miss A
+[2026-04-13 18:00:56] Неизвестный источник (the indian express): How France’s shift from Windows to Linux
+[2026-04-13 18:00:56] Неизвестный источник (financial post): Global Funds Flee Indian Stocks at Recor
+[2026-04-13 18:00:56] Нет фото: Explainable Quantile CNN-LSTM model for 
+[2026-04-13 18:00:56] Неизвестный источник (siliconangle news): Digital employees are here: What now?
+[2026-04-13 18:00:56] Неизвестный источник (vmware.com): Virtual Patching: Guarding Against a Tsu
+[2026-04-13 18:00:56] Неизвестный источник (vmware.com): Virtual Patching: Guarding Against a Tsu
+[2026-04-13 18:00:56] Нет фото: AI Juggernaut Rumbles on Even as Markets
+[2026-04-13 18:00:56] Неизвестный источник (businessline): How AWS, Microsoft, Google, Adani and Re
+[2026-04-13 18:00:56] Неизвестный источник (wnd.com): Battlefield AI lessons learned
+[2026-04-13 18:00:56] AI новости: найдено 2 после фильтрации
+[2026-04-13 18:00:59] Обрабатываю: From LLMs to hallucinations, here's a simple guide to common
+[2026-04-13 18:00:59] Попытка 1 для: From LLMs to hallucinations, here's a si
+[2026-04-13 18:01:00] Успешно, получено 680 символов
+[2026-04-13 18:01:01] Пауза 60 секунд...
+[2026-04-13 18:02:01] Обрабатываю: Rite & Reason: Has living the unexamined life led the world 
+[2026-04-13 18:02:01] Попытка 1 для: Rite & Reason: Has living the unexamined
+[2026-04-13 18:02:02] Успешно, получено 982 символов
+[2026-04-13 18:02:03] === Блок ai_evening завершён ===
