@@ -7990,3 +7990,32 @@ U.S. has violated ceasefire agr
 [2026-04-13 06:05:07] Попытка 1 для: 'We need real peace': Easter truce fails
 [2026-04-13 06:05:08] Успешно, получено 675 символов
 [2026-04-13 06:05:08] === Блок morning завершён ===
+[2026-04-13 08:00:53] Загружено 587 уже отправленных новостей
+[2026-04-13 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-13 08:00:54] Неизвестный источник (financial post): Global Funds Flee Indian Stocks at Recor
+[2026-04-13 08:00:54] Нет фото: Explainable Quantile CNN-LSTM model for 
+[2026-04-13 08:00:54] Неизвестный источник (siliconangle news): Digital employees are here: What now?
+[2026-04-13 08:00:54] Неизвестный источник (vmware.com): Virtual Patching: Guarding Against a Tsu
+[2026-04-13 08:00:54] Неизвестный источник (vmware.com): Virtual Patching: Guarding Against a Tsu
+[2026-04-13 08:00:54] Нет фото: AI Juggernaut Rumbles on Even as Markets
+[2026-04-13 08:00:54] Неизвестный источник (businessline): How AWS, Microsoft, Google, Adani and Re
+[2026-04-13 08:00:54] Неизвестный источник (wnd.com): Battlefield AI lessons learned
+[2026-04-13 08:00:54] Заблокированный источник (breitbart news): Hollywood's Worst Nightmare: Indian Film
+[2026-04-13 08:00:54] Нет фото: PJM Targets 15 Gigawatts of New Power fo
+[2026-04-13 08:00:54] Неизвестный источник (coinroop.com): 10 Best Tools for Real-Time Payment Heal
+[2026-04-13 08:00:54] Нет фото: The Lost Art of Medicine: What Maimonide
+[2026-04-13 08:00:54] Нет фото: Bank of Canada, Major Lenders Met on Ant
+[2026-04-13 08:00:54] Неизвестный источник (the indian express): UPSC Weekly Current Affairs Quiz (April 
+[2026-04-13 08:00:54] Неизвестный источник (decrypt): New Tools Aim to Make AI 'Vibe Coding' S
+[2026-04-13 08:00:54] Нет фото: Abu Dhabi Royal’s Firm to Buy Stake in C
+[2026-04-13 08:00:54] Неизвестный источник (pypi.org): chromadose added to PyPI
+[2026-04-13 08:00:54] Неизвестный источник (fox news): Steve Martin and Chevy Chase conspired t
+[2026-04-13 08:00:54] Неизвестный источник (singularity hub): How to Build Better Digital Twins of the
+[2026-04-13 08:00:54] Неизвестный источник (elearningindustry.com): Why Learning Systems Must Evolve Beyond 
+[2026-04-13 08:00:54] Неизвестный источник (ubergizmo): Adobe Reader Zero-Day Exploit Uses Fake 
+[2026-04-13 08:00:54] Неизвестный источник (autoexpress): Volvo ES90 vs DS No8: Swedish minimalism
+[2026-04-13 08:00:54] AI новости: найдено 1 после фильтрации
+[2026-04-13 08:00:56] Обрабатываю: Rite & Reason: Has living the unexamined life led the world 
+[2026-04-13 08:00:56] Попытка 1 для: Rite & Reason: Has living the unexamined
+[2026-04-13 08:00:57] Успешно, получено 798 символов
+[2026-04-13 08:00:57] === Блок ai_morning завершён ===
