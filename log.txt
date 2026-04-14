@@ -8201,3 +8201,47 @@ U.S. has violated ceasefire agr
 [2026-04-14 06:05:08] Попытка 1 для: Don’t Forget Ukraine
 [2026-04-14 06:05:09] Успешно, получено 538 символов
 [2026-04-14 06:05:09] === Блок morning завершён ===
+[2026-04-14 08:00:53] Загружено 604 уже отправленных новостей
+[2026-04-14 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-14 08:00:53] Неизвестный источник (the next web): Europe is dismantling its own rulebook t
+[2026-04-14 08:00:53] Неизвестный источник (businessline): Strengthening R&D, investment key for In
+[2026-04-14 08:00:53] Неизвестный источник (internet): OpenAI Revokes macOS App Certificate Aft
+[2026-04-14 08:00:53] Неизвестный источник (globenewswire): Transgene Completes Patient Randomizatio
+[2026-04-14 08:00:53] Нет фото: hepai 1.3.9.1
+[2026-04-14 08:00:53] Неизвестный источник (cointelegraph): Bitcoin mining and AI may be on opposite
+[2026-04-14 08:00:53] Нет фото: As AI use increases at work, many employ
+[2026-04-14 08:00:53] Неизвестный источник (computerweekly.com): If we can’t kick the habit, how do we ma
+[2026-04-14 08:00:53] Неизвестный источник (globenewswire): UK Startups Come to London to Rumble Wit
+[2026-04-14 08:00:53] Неизвестный источник (businessline): Two dozen stocks including, L&T, NTPC, H
+[2026-04-14 08:00:53] Неизвестный источник (businessline): Two dozen stocks including, L&T, NTPC, H
+[2026-04-14 08:00:53] Неизвестный источник (financial post): Oil Jumps, Stocks Fall on Move to Block 
+[2026-04-14 08:00:53] Неизвестный источник (redhat.com): Red Hat OpenShift sandboxed containers 1
+[2026-04-14 08:00:53] Нет фото: California Presses Ahead With State AI R
+[2026-04-14 08:00:53] Нет фото: Flexible, large-area, recyclable, decoup
+[2026-04-14 08:00:53] Нет фото: Statistics of multiscale fragmentation i
+[2026-04-14 08:00:53] Нет фото: An accuracy-aware extension to lrp-based
+[2026-04-14 08:00:53] Нет фото: Forecasting toxic metal concentrations i
+[2026-04-14 08:00:53] Нет фото: A thousand-state optoelectronic memory f
+[2026-04-14 08:00:53] Нет фото: Smart emergency multi-attribute decision
+[2026-04-14 08:00:53] Неизвестный источник (the next web): Anthropic brings Claude into Microsoft W
+[2026-04-14 08:00:53] Пропускаю уже отправленную: From LLMs to hallucinations, here's a simple guide
+[2026-04-14 08:00:53] Неизвестный источник (pypi.org): tyche-tools added to PyPI
+[2026-04-14 08:00:53] Неизвестный источник (pypi.org): tyche-core added to PyPI
+[2026-04-14 08:00:53] Неизвестный источник (kevinmd.com): Artificial general intelligence and the 
+[2026-04-14 08:00:53] Неизвестный источник (financial post): Oil-Rich Latin America Lures Traders Nav
+[2026-04-14 08:00:53] Неизвестный источник (forrester.com): What Marketing Leaders Should Not Miss A
+[2026-04-14 08:00:53] Неизвестный источник (forrester.com): What Marketing Leaders Should Not Miss A
+[2026-04-14 08:00:53] Неизвестный источник (the indian express): How France’s shift from Windows to Linux
+[2026-04-14 08:00:53] AI новости: найдено 5 после фильтрации
+[2026-04-14 08:00:56] Обрабатываю: India Pharma 2026 event: Nadda lays out road map for India t
+[2026-04-14 08:00:56] Попытка 1 для: India Pharma 2026 event: Nadda lays out 
+[2026-04-14 08:00:57] Успешно, получено 697 символов
+[2026-04-14 08:00:57] Пауза 60 секунд...
+[2026-04-14 08:01:57] Обрабатываю: Crisis contractor for OpenAI, Anthropic eyes a move to comba
+[2026-04-14 08:01:57] Попытка 1 для: Crisis contractor for OpenAI, Anthropic 
+[2026-04-14 08:01:58] Успешно, получено 847 символов
+[2026-04-14 08:01:59] Пауза 60 секунд...
+[2026-04-14 08:02:59] Обрабатываю: Did Neuralink make the wrong bet?
+[2026-04-14 08:02:59] Попытка 1 для: Did Neuralink make the wrong bet?
+[2026-04-14 08:03:00] Успешно, получено 1127 символов
+[2026-04-14 08:03:00] === Блок ai_morning завершён ===
