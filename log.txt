@@ -8245,3 +8245,44 @@ U.S. has violated ceasefire agr
 [2026-04-14 08:02:59] Попытка 1 для: Did Neuralink make the wrong bet?
 [2026-04-14 08:03:00] Успешно, получено 1127 символов
 [2026-04-14 08:03:00] === Блок ai_morning завершён ===
+[2026-04-14 11:00:54] Загружено 607 уже отправленных новостей
+[2026-04-14 11:00:54] === Запуск блока: midday ===
+[2026-04-14 11:00:55] Неизвестный источник (abcnews.com): Rory McIlroy goes back-to-back at the Ma
+[2026-04-14 11:00:55] Неизвестный источник (dw (english)): Hungary election: Orban concedes 'painfu
+[2026-04-14 11:00:55] Пропускаю уже отправленную: Trump lambasts Pope Leo XIV, extending feud over I
+[2026-04-14 11:00:55] Неизвестный источник (nbcsports.com): 2026 NBA Play-In Tournament: Schedule, h
+[2026-04-14 11:00:55] Неизвестный источник (deadline): ‘Euphoria’ Season 3 Addresses Fez’s Fate
+[2026-04-14 11:00:55] Неизвестный источник (entertainment weekly): 'Euphoria' season 3 premiere recap: What
+[2026-04-14 11:00:55] Неизвестный источник (masslive.com): Celtics stunning upset win vs. Magic scr
+[2026-04-14 11:00:55] Нет фото: Cam Young suggests what it was like to p
+[2026-04-14 11:00:55] Неизвестный источник (san francisco chronicle): Strongest storm on planet bearing down o
+[2026-04-14 11:00:55] Неизвестный источник (hollywood reporter): Justin Bieber’s Low-Key Coachella Perfor
+[2026-04-14 11:00:55] Неизвестный источник (upi.com): President Trump dismisses entire Presidi
+[2026-04-14 11:00:55] Неизвестный источник (business insider): Suspect in Molotov attack on Sam Altman'
+[2026-04-14 11:00:55] Неизвестный источник (deadline): Box Office Global: 'Super Mario Galaxy M
+[2026-04-14 11:00:55] Неизвестный источник (notebookcheck.net): Oppo officially reveals Find X9 Ultra da
+[2026-04-14 11:00:55] Неизвестный источник (pbs): NASA sets its sights on Artemis III foll
+[2026-04-14 11:00:55] Неизвестный источник (the next web): Anthropic brings Claude into Microsoft W
+[2026-04-14 11:00:55] Неизвестный источник (futurism): Research Finds That AI Has Already Repla
+[2026-04-14 11:00:55] Неизвестный источник (forbes): Apple iPhone 18 Pro Latest Leak Signals 
+[2026-04-14 11:00:55] Неизвестный источник (the daily galaxy --great discoveries channel): SpaceX Launches Historic Cygnus XL, Deli
+[2026-04-14 11:00:55] Старая новость (2026-04-11T17:29:40Z): Babies too young for MMR vaccine become 
+[2026-04-14 11:00:55] Старая новость (2026-04-11T17:00:27Z): Too tired to exercise? Try these expert 
+[2026-04-14 11:00:55] Старая новость (2026-04-11T13:08:42Z): 4 Reasons Artemis Mission Matters Even I
+[2026-04-14 11:00:55] Мировые новости: найдено 9 после фильтрации
+[2026-04-14 11:00:57] Обрабатываю: "The door is not closed": Mediators rush to revive U.S.-Iran
+[2026-04-14 11:00:57] Попытка 1 для: "The door is not closed": Mediators rush
+[2026-04-14 11:00:58] Успешно, получено 737 символов
+[2026-04-14 11:00:59] Пауза 60 секунд...
+[2026-04-14 11:01:59] Обрабатываю: How a $75 billion windfall from Congress has insulated ICE
+[2026-04-14 11:01:59] Попытка 1 для: How a $75 billion windfall from Congress
+[2026-04-14 11:02:00] Успешно, получено 514 символов
+[2026-04-14 11:02:01] Пауза 60 секунд...
+[2026-04-14 11:03:01] Обрабатываю: A stampede at a Haitian mountaintop fortress kills at least 
+[2026-04-14 11:03:01] Попытка 1 для: A stampede at a Haitian mountaintop fort
+[2026-04-14 11:03:02] Успешно, получено 681 символов
+[2026-04-14 11:03:02] Пауза 60 секунд...
+[2026-04-14 11:04:02] Обрабатываю: Swalwell exits California governor's race after assault alle
+[2026-04-14 11:04:02] Попытка 1 для: Swalwell exits California governor's rac
+[2026-04-14 11:04:04] Успешно, получено 851 символов
+[2026-04-14 11:04:04] === Блок midday завершён ===
