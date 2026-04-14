@@ -8340,3 +8340,51 @@ U.S. has violated ceasefire agr
 [2026-04-14 16:05:12] Успешно, получено 666 символов
 [2026-04-14 16:05:13] Фото не отправилось: 400
 [2026-04-14 16:05:14] === Блок evening завершён ===
+[2026-04-14 18:00:55] Загружено 617 уже отправленных новостей
+[2026-04-14 18:00:55] === Запуск блока: ai_evening ===
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Dell, HP Inc. shares jump on Nvidia acqu
+[2026-04-14 18:01:00] Неизвестный источник (siliconangle news): Zoom Perspectives: Why ‘agentic’ work is
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Lululemon slips as Texas announces probe
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Quantum computing is a once-in-a-lifetim
+[2026-04-14 18:01:00] Неизвестный источник (protothema.gr): Mandatory age verification to be introdu
+[2026-04-14 18:01:00] Неизвестный источник (cryptoslate): Polkadot Hyperbridge April Fools’ joke c
+[2026-04-14 18:01:00] Неизвестный источник (globenewswire): Liquefied Natural Gas Market Size to Wor
+[2026-04-14 18:01:00] Неизвестный источник (globenewswire): F&I Direct Expands Its Administrator Cap
+[2026-04-14 18:01:00] Нет фото: aait 3.4.1
+[2026-04-14 18:01:00] Неизвестный источник (techradar): Hackers use Claude and ChatGPT in 'a sig
+[2026-04-14 18:01:00] Неизвестный источник (plos.org): Human brains construct individualized gl
+[2026-04-14 18:01:00] Неизвестный источник (plos.org): Action information is integrated into en
+[2026-04-14 18:01:00] Неизвестный источник (plos.org): PoPI: A machine learning-based consensus
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Meta builds AI version of Mark Zuckerber
+[2026-04-14 18:01:00] Неизвестный источник (ubergizmo): NTT’s Upgrade 2026 Will Showcase How AI,
+[2026-04-14 18:01:00] Нет фото: Rumble Launches Exchange Offer for North
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Rimini Street to Report First Quarter 20
+[2026-04-14 18:01:00] Неизвестный источник (siliconangle news): China has erased the US lead in AI, Stan
+[2026-04-14 18:01:00] Неизвестный источник (siliconangle news): Cloudflare expands Agent Cloud with new 
+[2026-04-14 18:01:00] Неизвестный источник (pyimagesearch.com): FastAPI for MLOps: Python Project Struct
+[2026-04-14 18:01:00] Неизвестный источник (siliconangle news): Commvault rolls out AI capabilities to s
+[2026-04-14 18:01:00] Неизвестный источник (globenewswire): Allergy Diagnostic Market by Product & S
+[2026-04-14 18:01:00] Неизвестный источник (globenewswire): 3 E Network Vice President Introduces Fi
+[2026-04-14 18:01:00] Нет фото: DEEP SEA MINERALS CORP. APPOINTS DAN MCC
+[2026-04-14 18:01:00] Неизвестный источник (bitcoinfoundation.org): Top 5 Crypto Assets to Invest in April 2
+[2026-04-14 18:01:00] Неизвестный источник (globenewswire): Synchronous Condenser Market Research an
+[2026-04-14 18:01:00] Неизвестный источник (financial post): Morgan Stanley Says Earnings Shield S&P 
+[2026-04-14 18:01:00] Заблокированный источник (we-heart.com): Smart Hospitality in 2026
+[2026-04-14 18:01:00] Заблокированный источник (rt): The high dam diplomacy: When the USSR ta
+[2026-04-14 18:01:00] Нет фото: DIPLI: deep image prior lucky imaging fo
+[2026-04-14 18:01:00] Неизвестный источник (bitcoinist): Bitcoin And AI Are No Longer Aligned On 
+[2026-04-14 18:01:00] Неизвестный источник (wattsupwiththat.com): Weekly Climate and Energy News Roundup #
+[2026-04-14 18:01:00] Неизвестный источник (livemint): Humyn Labs expands data collection for p
+[2026-04-14 18:01:00] AI новости: найдено 5 после фильтрации
+[2026-04-14 18:01:02] Обрабатываю: Viktor Orbán’s Loss Was Also a Defeat for MAGA
+[2026-04-14 18:01:02] Попытка 1 для: Viktor Orbán’s Loss Was Also a Defeat fo
+[2026-04-14 18:01:04] Успешно, получено 603 символов
+[2026-04-14 18:01:04] Пауза 60 секунд...
+[2026-04-14 18:02:04] Обрабатываю: European regulators sidelined on Anthropic superhacking mode
+[2026-04-14 18:02:04] Попытка 1 для: European regulators sidelined on Anthrop
+[2026-04-14 18:02:05] Успешно, получено 898 символов
+[2026-04-14 18:02:05] Пауза 60 секунд...
+[2026-04-14 18:03:05] Обрабатываю: Nokia Shares Surge 8.7% on Bank of America Upgrade and AI-Dr
+[2026-04-14 18:03:05] Попытка 1 для: Nokia Shares Surge 8.7% on Bank of Ameri
+[2026-04-14 18:03:07] Успешно, получено 712 символов
+[2026-04-14 18:03:07] === Блок ai_evening завершён ===
