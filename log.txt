@@ -8566,3 +8566,49 @@ U.S. has violated ceasefire agr
 [2026-04-15 16:06:08] Попытка 1 для: Internship QA Manual — Grid Dynamics (Kh
 [2026-04-15 16:06:09] Успешно, получено 764 символов
 [2026-04-15 16:06:10] === Блок evening завершён ===
+[2026-04-15 18:00:52] Загружено 638 уже отправленных новостей
+[2026-04-15 18:00:52] === Запуск блока: ai_evening ===
+[2026-04-15 18:00:52] Неизвестный источник (financial post): OSFI flags spillover risks from non-bank
+[2026-04-15 18:00:52] Нет фото: aait 3.4.3
+[2026-04-15 18:00:52] Неизвестный источник (jeffbullas.com): This $401 Million Company Built by Two P
+[2026-04-15 18:00:52] Неизвестный источник (federalreserve.gov): Barr, Rural Communities: Worth the Inves
+[2026-04-15 18:00:52] Неизвестный источник (designboom): DBEW award ceremony to explore global cr
+[2026-04-15 18:00:52] Нет фото: FirstLight and Lac Des Mille Lacs First 
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): Open-Source AI Model Market Research Rep
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): Polyvinylidene Fluoride (PVDF) Resin Ind
+[2026-04-15 18:00:52] Неизвестный источник (zycrypto): Web3 Security Threats Move Offchain, Los
+[2026-04-15 18:00:52] Неизвестный источник (wonkette.com): DOGE Demanded 'Barney' PowerPoint To Exp
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): AI Data Center Graphics Processing Units
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): Data Center Grid Services Market Report 
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): Green AI Data Center Market Market Repor
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): Multi-tenant Data Center Market Analysis
+[2026-04-15 18:00:52] Неизвестный источник (thewrap): CBS News 24/7 Union Ratifies Contract Wi
+[2026-04-15 18:00:52] Неизвестный источник (internet): AI-Driven Pushpaganda Scam Exploits Goog
+[2026-04-15 18:00:52] Неизвестный источник (financial post): Rimkus Establishes Chief Transformation 
+[2026-04-15 18:00:52] Неизвестный источник (kdnuggets.com): Collaborative AI Systems: Human-AI Teami
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): Nvidia unveils Ising AI models for quant
+[2026-04-15 18:00:52] Неизвестный источник (plos.org): Neural signaling contributes to heart fo
+[2026-04-15 18:00:52] Неизвестный источник (fair observer): When Sorrows Come in Battalions: War, AI
+[2026-04-15 18:00:52] Неизвестный источник (financial post): Rimini Street Announces Upcoming 2026 In
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): Prefix raises $7.5M to scale AI-driven f
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): HubSpot targets AI-driven buyer behavior
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): Fountain launches Cue to manage modern-d
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): Manifest platform from Manifold targets 
+[2026-04-15 18:00:52] Неизвестный источник (businessline): Andhra Pradesh launches India’s first qu
+[2026-04-15 18:00:52] Нет фото: TED, Khan Academy and ETS announce new i
+[2026-04-15 18:00:52] Нет фото: AI/R Applies Artificial Intelligence to 
+[2026-04-15 18:00:52] Неизвестный источник (globenewswire): ZenaTech Completes Acquisition of NOW So
+[2026-04-15 18:00:52] Нет фото: News Leaders from The Guardian and Reute
+[2026-04-15 18:00:52] Неизвестный источник (financial post): Posthaste: How the Iran war could throw 
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): AI satellite constellation startup Orbit
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): Helical raises $10M to bridge the gap be
+[2026-04-15 18:00:52] Неизвестный источник (siliconangle news): German startup Synera lands $40M to auto
+[2026-04-15 18:00:52] Нет фото: Catton on Collapse “Bottleneck: Humanity
+[2026-04-15 18:00:52] Неизвестный источник (financial post): GROWMARK launches AI agronomy agent in m
+[2026-04-15 18:00:52] Неизвестный источник (financial post): JPMorgan Traders Blow Past Expectations 
+[2026-04-15 18:00:52] Неизвестный источник (financial post): JPMorgan traders blow past expectations 
+[2026-04-15 18:00:52] AI новости: найдено 1 после фильтрации
+[2026-04-15 18:00:54] Обрабатываю: Nvidia launches open-source ‘Ising’ AI models to tackle quan
+[2026-04-15 18:00:54] Попытка 1 для: Nvidia launches open-source ‘Ising’ AI m
+[2026-04-15 18:00:56] Успешно, получено 740 символов
+[2026-04-15 18:00:56] === Блок ai_evening завершён ===
