@@ -8432,3 +8432,52 @@ U.S. has violated ceasefire agr
 [2026-04-15 06:04:04] Попытка 1 для: Stop the killing in Ukraine, newly elect
 [2026-04-15 06:04:04] Успешно, получено 595 символов
 [2026-04-15 06:04:05] === Блок morning завершён ===
+[2026-04-15 08:00:50] Загружено 625 уже отправленных новостей
+[2026-04-15 08:00:50] === Запуск блока: ai_morning ===
+[2026-04-15 08:00:51] Неизвестный источник (globenewswire): InterDigital’s Michael Starsinic Elected
+[2026-04-15 08:00:51] Нет фото: US, Philippines Eye Record Military Dril
+[2026-04-15 08:00:51] Неизвестный источник (siliconangle news): OpenAI partners with Novo Nordisk to acc
+[2026-04-15 08:00:51] Неизвестный источник (insurance journal): Austria Races to Secure Power Supplies a
+[2026-04-15 08:00:51] Неизвестный источник (financial post): China’s Exports Stumble, Imports Soar in
+[2026-04-15 08:00:51] Неизвестный источник (indiewire): ‘Spider-Verse,’ ‘Resident Evil,’ and an 
+[2026-04-15 08:00:51] Неизвестный источник (bleeding cool news): Tigress Island #2 Preview: Escape Plan o
+[2026-04-15 08:00:51] Неизвестный источник (siliconangle news): Japanese tech giants launch joint ventur
+[2026-04-15 08:00:51] Неизвестный источник (bleeding cool news): Ice Cream Man #45 Preview: Hitchcock Wou
+[2026-04-15 08:00:51] Неизвестный источник (pymnts.com): AI Is Cracking Open Banking Before Quant
+[2026-04-15 08:00:51] Нет фото: Construction duration prediction for ult
+[2026-04-15 08:00:51] Нет фото: CRAFT: cold-start recommender with atten
+[2026-04-15 08:00:51] Нет фото: Structure-aware fusion learning and inte
+[2026-04-15 08:00:51] Нет фото: TAGNN: topology-aware graph neural netwo
+[2026-04-15 08:00:51] Нет фото: Oracle Agrees to Buy Power From Bloom fo
+[2026-04-15 08:00:51] Неизвестный источник (motley fool australia): Down 50%, but could these top ASX tech s
+[2026-04-15 08:00:51] Неизвестный источник (globenewswire): Pattern to Present at Life Science Innov
+[2026-04-15 08:00:51] Неизвестный источник (globenewswire): Rezolve Ai to Host Investor Call: The $7
+[2026-04-15 08:00:51] Неизвестный источник (bleeding cool news): Invincible Universe: Battle Beast #8 Pre
+[2026-04-15 08:00:51] Неизвестный источник (bleeding cool news): Resident Alien Vol. 10: One More for the
+[2026-04-15 08:00:51] Нет фото: Man accused in Molotov cocktail attack o
+[2026-04-15 08:00:51] Нет фото: Industry-Wide Memory Constraints Grow as
+[2026-04-15 08:00:51] Неизвестный источник (wccftech): The Evolution of Artificial Intelligence
+[2026-04-15 08:00:51] Неизвестный источник (financial post): Dell, HP Inc. shares jump on Nvidia acqu
+[2026-04-15 08:00:51] Неизвестный источник (siliconangle news): Zoom Perspectives: Why ‘agentic’ work is
+[2026-04-15 08:00:51] Неизвестный источник (financial post): Lululemon slips as Texas announces probe
+[2026-04-15 08:00:51] Неизвестный источник (financial post): Quantum computing is a once-in-a-lifetim
+[2026-04-15 08:00:51] Неизвестный источник (protothema.gr): Mandatory age verification to be introdu
+[2026-04-15 08:00:51] Неизвестный источник (cryptoslate): Polkadot Hyperbridge April Fools’ joke c
+[2026-04-15 08:00:51] Неизвестный источник (globenewswire): Liquefied Natural Gas Market Size to Wor
+[2026-04-15 08:00:51] Неизвестный источник (globenewswire): F&I Direct Expands Its Administrator Cap
+[2026-04-15 08:00:51] Пропускаю уже отправленную: Nokia Shares Surge 8.7% on Bank of America Upgrade
+[2026-04-15 08:00:51] Нет фото: aait 3.4.1
+[2026-04-15 08:00:51] Неизвестный источник (techradar): Hackers use Claude and ChatGPT in 'a sig
+[2026-04-15 08:00:51] AI новости: найдено 6 после фильтрации
+[2026-04-15 08:00:53] Обрабатываю: NODWIN bolsters potential IPO plans as it ropes in Nazara's 
+[2026-04-15 08:00:53] Попытка 1 для: NODWIN bolsters potential IPO plans as i
+[2026-04-15 08:00:54] Успешно, получено 557 символов
+[2026-04-15 08:00:55] Пауза 60 секунд...
+[2026-04-15 08:01:55] Обрабатываю: Crisis contractor for OpenAI, Anthropic eyes a move to comba
+[2026-04-15 08:01:55] Попытка 1 для: Crisis contractor for OpenAI, Anthropic 
+[2026-04-15 08:01:55] Успешно, получено 625 символов
+[2026-04-15 08:01:56] Пауза 60 секунд...
+[2026-04-15 08:02:56] Обрабатываю: Physical AI startups out to play the big game
+[2026-04-15 08:02:56] Попытка 1 для: Physical AI startups out to play the big
+[2026-04-15 08:02:57] Успешно, получено 721 символов
+[2026-04-15 08:02:57] === Блок ai_morning завершён ===
