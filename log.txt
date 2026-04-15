@@ -8481,3 +8481,38 @@ U.S. has violated ceasefire agr
 [2026-04-15 08:02:56] Попытка 1 для: Physical AI startups out to play the big
 [2026-04-15 08:02:57] Успешно, получено 721 символов
 [2026-04-15 08:02:57] === Блок ai_morning завершён ===
+[2026-04-15 11:00:52] Загружено 628 уже отправленных новостей
+[2026-04-15 11:00:52] === Запуск блока: midday ===
+[2026-04-15 11:00:52] Неизвестный источник (tmz): 'RHOA's Drew Sidora's Monthly Income Rev
+[2026-04-15 11:00:52] Неизвестный источник (deadline): 'Jumanji 3' Title, First Look: Threequel
+[2026-04-15 11:00:52] Неизвестный источник (variety): 'Spider-Man: Brand New Day' Drops New Fo
+[2026-04-15 11:00:52] Неизвестный источник (cnbc): S&P 500 futures are little changed after
+[2026-04-15 11:00:52] Неизвестный источник (the texas tribune): Rep. Tony Gonzales to resign from Congre
+[2026-04-15 11:00:52] Неизвестный источник (newsshooter): Blackmagic Design announces Blackmagic U
+[2026-04-15 11:00:52] Неизвестный источник (beincrypto): Oil Price Slides Below $100 as China Def
+[2026-04-15 11:00:52] Неизвестный источник (detroitlions.com): KEY QUESTIONS: How does Holmes feel abou
+[2026-04-15 11:00:52] Неизвестный источник (gizmodo.com): A Diarrhea-Causing Superbug Is on the Ri
+[2026-04-15 11:00:52] Неизвестный источник (space.com): Huge Northrop Grumman Cygnus XL cargo sh
+[2026-04-15 11:00:52] Неизвестный источник (nfl news): Gennaro Filice 2026 NFL mock draft 2.0: 
+[2026-04-15 11:00:52] Неизвестный источник (notebookcheck.net): New ultra-premium foldable released inte
+[2026-04-15 11:00:52] Неизвестный источник (space.com): Artemis 2 astronauts celebrate successfu
+[2026-04-15 11:00:52] Заблокированный источник (sciencealert): Sibling Stem Cell Transplant Leads to Ra
+[2026-04-15 11:00:52] Неизвестный источник (9to5mac): The next MacBook Neo already sounds like
+[2026-04-15 11:00:52] Старая новость (2026-04-13T09:46:44Z): Erectile dysfunction is more than a sexu
+[2026-04-15 11:00:52] Мировые новости: найдено 11 после фильтрации
+[2026-04-15 11:00:54] Обрабатываю: Hezbollah official says the group won't abide by any agreeme
+[2026-04-15 11:00:54] Попытка 1 для: Hezbollah official says the group won't 
+[2026-04-15 11:00:55] Успешно, получено 766 символов
+[2026-04-15 11:00:56] Пауза 60 секунд...
+[2026-04-15 11:01:56] Обрабатываю: China Evergrande Founder Pleads Guilty to Fraud in Downfall
+[2026-04-15 11:01:56] Попытка 1 для: China Evergrande Founder Pleads Guilty t
+[2026-04-15 11:01:57] Успешно, получено 977 символов
+[2026-04-15 11:01:57] Пауза 60 секунд...
+[2026-04-15 11:02:57] Обрабатываю: Trump's pope spat risks feud with crucial Catholic swing vot
+[2026-04-15 11:02:57] Попытка 1 для: Trump's pope spat risks feud with crucia
+[2026-04-15 11:02:58] Успешно, получено 518 символов
+[2026-04-15 11:02:59] Пауза 60 секунд...
+[2026-04-15 11:03:59] Обрабатываю: Live Updates: U.S. military blockade on Iranian ports in the
+[2026-04-15 11:03:59] Попытка 1 для: Live Updates: U.S. military blockade on 
+[2026-04-15 11:04:00] Успешно, получено 741 символов
+[2026-04-15 11:04:00] === Блок midday завершён ===
