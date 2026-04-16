@@ -8612,3 +8612,60 @@ U.S. has violated ceasefire agr
 [2026-04-15 18:00:54] Попытка 1 для: Nvidia launches open-source ‘Ising’ AI m
 [2026-04-15 18:00:56] Успешно, получено 740 символов
 [2026-04-15 18:00:56] === Блок ai_evening завершён ===
+[2026-04-16 06:00:48] Загружено 639 уже отправленных новостей
+[2026-04-16 06:00:48] === Запуск блока: morning ===
+[2026-04-16 06:00:49] Неизвестный источник (cbs sports): Miami Heat vs. Charlotte Hornets Live Sc
+[2026-04-16 06:00:49] Неизвестный источник (variety): Margot Robbie Confirms ‘Ocean’s 11’ Preq
+[2026-04-16 06:00:49] Неизвестный источник (cnbc): Asia markets open higher as hopes for a 
+[2026-04-16 06:00:49] Неизвестный источник (hollywood reporter): Guy Fieri Responds to Backlash After Mee
+[2026-04-16 06:00:49] Неизвестный источник (rolling stone): New Edition Won the Rock Hall Fan Vote, 
+[2026-04-16 06:00:49] Неизвестный источник (nbcsports.com): Ex-Michigan coach Sherrone Moore sentenc
+[2026-04-16 06:00:49] Неизвестный источник (forbes): Disney Layoffs Hit Marvel Studios Hard -
+[2026-04-16 06:00:49] Неизвестный источник (the cut): Everything Lena Dunham Says About Adam D
+[2026-04-16 06:00:49] Неизвестный источник (oregonlive): Measles exposure reported at Southeast P
+[2026-04-16 06:00:49] Неизвестный источник (sports illustrated): Albert Breer’s Notes: Predicting the Per
+[2026-04-16 06:00:49] Неизвестный источник (9to5google.com): Gemini app starts rolling out Personal I
+[2026-04-16 06:00:49] Неизвестный источник (space.com): Artemis 2 calling ISS! Watch the farthes
+[2026-04-16 06:00:49] Старая новость (2026-04-13T18:30:29Z): A Diarrhea-Causing Superbug Is on the Ri
+[2026-04-16 06:00:49] Мировые новости: найдено 16 после фильтрации
+[2026-04-16 06:00:49] Заблокированный источник (naturalnews.com): The Unraveling Hegemon: How the American
+[2026-04-16 06:00:49] Заблокированный источник (naturalnews.com): The great contradiction: EU buys record 
+[2026-04-16 06:00:49] Заблокированный источник (naturalnews.com): U.S. Military Officials Report Lag in AI
+[2026-04-16 06:00:49] Заблокированный источник (naturalnews.com): IMF Report Warns of Global Economic Slow
+[2026-04-16 06:00:49] Нет фото: DAILY CURRENT AFFAIRS IAS | UPSC Prelims
+[2026-04-16 06:00:49] Нет фото: Ukraine war briefing: Orbán’s defeat in 
+[2026-04-16 06:00:49] Заблокированный источник (sputnikglobe.com): Russia, China Oppose Western Attempts to
+[2026-04-16 06:00:49] Пропускаю российский фокус: Ukraine ‘forces Russian troops to surrender using 
+[2026-04-16 06:00:49] Нет фото: A Leopardess, War, and the Animal Rescue
+[2026-04-16 06:00:49] Нет фото: Intelligence Community Inspector General
+[2026-04-16 06:00:49] Украинские новости: найдено 3 после фильтрации
+[2026-04-16 06:00:49] Нет фото: A Leopardess, War, and the Animal Rescue
+[2026-04-16 06:00:49] Харьков: найдена новость — Internship QA Manual — Grid Dynamics (Kharkiv), 04
+[2026-04-16 06:00:52] Обрабатываю: Teenage gunman opens fire at a school in Turkey, wounding 16
+[2026-04-16 06:00:52] Попытка 1 для: Teenage gunman opens fire at a school in
+[2026-04-16 06:00:53] Успешно, получено 666 символов
+[2026-04-16 06:00:53] Пауза 60 секунд...
+[2026-04-16 06:01:53] Обрабатываю: Woman killed by police at Omaha Walmart after allegedly kidn
+[2026-04-16 06:01:53] Попытка 1 для: Woman killed by police at Omaha Walmart 
+[2026-04-16 06:01:54] Успешно, получено 561 символов
+[2026-04-16 06:01:55] Пауза 60 секунд...
+[2026-04-16 06:02:55] Обрабатываю: JD Vance Says Pope Should Be Careful With Words After Iran C
+[2026-04-16 06:02:55] Попытка 1 для: JD Vance Says Pope Should Be Careful Wit
+[2026-04-16 06:02:56] Успешно, получено 773 символов
+[2026-04-16 06:02:57] Пауза 60 секунд...
+[2026-04-16 06:03:57] Обрабатываю: Anthropic Attracts Investor Offers at an $800 Billion Valuat
+[2026-04-16 06:03:57] Попытка 1 для: Anthropic Attracts Investor Offers at an
+[2026-04-16 06:03:58] Успешно, получено 782 символов
+[2026-04-16 06:03:58] Фото не отправилось: 400
+[2026-04-16 06:04:01] Обрабатываю: Europe must be part of any peace deal to end Ukraine war, Fr
+[2026-04-16 06:04:01] Попытка 1 для: Europe must be part of any peace deal to
+[2026-04-16 06:04:02] Успешно, получено 692 символов
+[2026-04-16 06:04:03] Пауза 60 секунд...
+[2026-04-16 06:05:03] Обрабатываю: US doesn't 'have time for Ukraine' because of Iran war: Zele
+[2026-04-16 06:05:03] Попытка 1 для: US doesn't 'have time for Ukraine' becau
+[2026-04-16 06:05:04] Успешно, получено 739 символов
+[2026-04-16 06:05:05] Пауза 60 секунд...
+[2026-04-16 06:06:05] Обрабатываю: Internship QA Manual — Grid Dynamics (Kharkiv), 04 May, Khar
+[2026-04-16 06:06:05] Попытка 1 для: Internship QA Manual — Grid Dynamics (Kh
+[2026-04-16 06:06:06] Успешно, получено 807 символов
+[2026-04-16 06:06:07] === Блок morning завершён ===
