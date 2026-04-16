@@ -8669,3 +8669,55 @@ U.S. has violated ceasefire agr
 [2026-04-16 06:06:05] Попытка 1 для: Internship QA Manual — Grid Dynamics (Kh
 [2026-04-16 06:06:06] Успешно, получено 807 символов
 [2026-04-16 06:06:07] === Блок morning завершён ===
+[2026-04-16 08:00:56] Загружено 645 уже отправленных новостей
+[2026-04-16 08:00:56] === Запуск блока: ai_morning ===
+[2026-04-16 08:00:56] Нет фото: Italy Gives €211 Million to Data Center 
+[2026-04-16 08:00:56] Нет фото: kymnasium 1.2.1
+[2026-04-16 08:00:56] Нет фото: Danantara to Step Up Middle East, Energy
+[2026-04-16 08:00:56] Неизвестный источник (financial post): China’s Data Centers Are Plugging Into R
+[2026-04-16 08:00:56] Нет фото: Why many Americans are turning to AI for
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Microsoft’s MAI-Image-2-Efficient model 
+[2026-04-16 08:00:56] Неизвестный источник (wccftech): Meta & Broadcom Announce Development of 
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Google adds reusable prompts to Gemini i
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Anthropic’s Claude Code gets automated ‘
+[2026-04-16 08:00:56] Неизвестный источник (computerweekly.com): SMRT taps AI and analytics to predict ra
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Meta doubles down on partnership with Br
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Meta doubles down on partnership with Br
+[2026-04-16 08:00:56] Нет фото: Experimental study on the damage and fai
+[2026-04-16 08:00:56] Нет фото: Analysis of Fahliyan Reservoir Fractures
+[2026-04-16 08:00:56] Нет фото: Estuarine salinity prediction using empi
+[2026-04-16 08:00:56] Нет фото: Temporal-Spatial Fusion Vision Hardware 
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): OpenAI acquires AI financial planning st
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Starburst adds AI front end in a bid to 
+[2026-04-16 08:00:56] Нет фото: USWNT gets a sneak peek at the grass ins
+[2026-04-16 08:00:56] Неизвестный источник (financial post): News of the day: Anthropic AI, domestic 
+[2026-04-16 08:00:56] Неизвестный источник (globenewswire): Broadcom Announces Extended Partnership 
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Capado releases Agentia, a context-aware
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Copado releases Agentia, a context-aware
+[2026-04-16 08:00:56] Неизвестный источник (raw story): ‘Very dark picture’: IMF warns Trump's w
+[2026-04-16 08:00:56] Неизвестный источник (financial post): AI isn’t replacing workers. It is quietl
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Quantum computing finds its place alongs
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Quantum computing moves into real-world 
+[2026-04-16 08:00:56] Неизвестный источник (next big future): All Gas No Brakes for Space Economy
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): The user interface of the future is your
+[2026-04-16 08:00:56] Нет фото: 7 things we learned at day 1 of TED2026
+[2026-04-16 08:00:56] Неизвестный источник (siliconangle news): Respondology launches Respond to turn co
+[2026-04-16 08:00:56] Неизвестный источник (financial post): OSFI flags spillover risks from non-bank
+[2026-04-16 08:00:56] Нет фото: aait 3.4.3
+[2026-04-16 08:00:56] Неизвестный источник (jeffbullas.com): This $401 Million Company Built by Two P
+[2026-04-16 08:00:56] Неизвестный источник (federalreserve.gov): Barr, Rural Communities: Worth the Inves
+[2026-04-16 08:00:56] Неизвестный источник (designboom): DBEW award ceremony to explore global cr
+[2026-04-16 08:00:56] Нет фото: FirstLight and Lac Des Mille Lacs First 
+[2026-04-16 08:00:56] AI новости: найдено 3 после фильтрации
+[2026-04-16 08:00:59] Обрабатываю: Composable neural emulators accelerate thermoelectric genera
+[2026-04-16 08:00:59] Попытка 1 для: Composable neural emulators accelerate t
+[2026-04-16 08:01:00] Успешно, получено 735 символов
+[2026-04-16 08:01:00] Пауза 60 секунд...
+[2026-04-16 08:02:00] Обрабатываю: A spatial atlas of the healthy human liver from live donors
+[2026-04-16 08:02:00] Попытка 1 для: A spatial atlas of the healthy human liv
+[2026-04-16 08:02:02] Успешно, получено 797 символов
+[2026-04-16 08:02:02] Пауза 60 секунд...
+[2026-04-16 08:03:02] Обрабатываю: Printed MoS2 memristive nanosheet networks for spiking neuro
+[2026-04-16 08:03:02] Попытка 1 для: Printed MoS2 memristive nanosheet networ
+[2026-04-16 08:03:03] Успешно, получено 719 символов
+[2026-04-16 08:03:05] === Блок ai_morning завершён ===
