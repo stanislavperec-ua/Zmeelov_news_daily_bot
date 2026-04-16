@@ -8721,3 +8721,38 @@ U.S. has violated ceasefire agr
 [2026-04-16 08:03:02] Попытка 1 для: Printed MoS2 memristive nanosheet networ
 [2026-04-16 08:03:03] Успешно, получено 719 символов
 [2026-04-16 08:03:05] === Блок ai_morning завершён ===
+[2026-04-16 11:00:53] Загружено 648 уже отправленных новостей
+[2026-04-16 11:00:53] === Запуск блока: midday ===
+[2026-04-16 11:00:53] Неизвестный источник (dw (english)): Iran war: US will make Iran 'thrive' if 
+[2026-04-16 11:00:53] Неизвестный источник (heat.com): Hornets-Heat: 4 takeaways as Charlotte o
+[2026-04-16 11:00:53] Неизвестный источник (cnbc): Trump takes aim at Pope Leo again, days 
+[2026-04-16 11:00:53] Неизвестный источник (hollywood reporter): Clavicular Hospitalized After Suspected 
+[2026-04-16 11:00:53] Неизвестный источник (cnbc): Stock futures are little changed as S&P 
+[2026-04-16 11:00:53] Неизвестный источник (investing.com): Asia stocks extend rally on tech surge, 
+[2026-04-16 11:00:53] Неизвестный источник (new york post): The daunting NFL draft speed bump Giants
+[2026-04-16 11:00:53] Неизвестный источник (hollywood reporter): Guy Fieri Responds to Backlash After Mee
+[2026-04-16 11:00:53] Неизвестный источник (the cut): Everything Lena Dunham Says About Adam D
+[2026-04-16 11:00:53] Неизвестный источник (24/7 wall st.): NVIDIA Rises Even as Quantum Computing T
+[2026-04-16 11:00:53] Неизвестный источник (espn): Betting tips, DFS picks for Tuesday's NB
+[2026-04-16 11:00:53] Неизвестный источник (phys.org): This nasal spray rewinds the aging brain
+[2026-04-16 11:00:53] Неизвестный источник (the texas tribune): Camp Mystic official testifies that he d
+[2026-04-16 11:00:53] Неизвестный источник (oregonlive): Measles exposure reported at Southeast P
+[2026-04-16 11:00:53] Неизвестный источник (space.com): Artemis 2 calling ISS! Watch the farthes
+[2026-04-16 11:00:53] Старая новость (2026-04-13T18:30:29Z): A Diarrhea-Causing Superbug Is on the Ri
+[2026-04-16 11:00:53] Мировые новости: найдено 10 после фильтрации
+[2026-04-16 11:00:56] Обрабатываю: Live Updates: U.S. says blockade of Iranian ports "fully imp
+[2026-04-16 11:00:56] Попытка 1 для: Live Updates: U.S. says blockade of Iran
+[2026-04-16 11:00:57] Успешно, получено 846 символов
+[2026-04-16 11:00:57] Пауза 60 секунд...
+[2026-04-16 11:01:57] Обрабатываю: Woman killed by police at Omaha Walmart after allegedly kidn
+[2026-04-16 11:01:57] Попытка 1 для: Woman killed by police at Omaha Walmart 
+[2026-04-16 11:01:58] Успешно, получено 711 символов
+[2026-04-16 11:01:59] Пауза 60 секунд...
+[2026-04-16 11:02:59] Обрабатываю: Anthropic Attracts Investor Offers at an $800 Billion Valuat
+[2026-04-16 11:02:59] Попытка 1 для: Anthropic Attracts Investor Offers at an
+[2026-04-16 11:03:00] Успешно, получено 791 символов
+[2026-04-16 11:03:00] Пауза 60 секунд...
+[2026-04-16 11:04:00] Обрабатываю: Trump says Iran talks may resume this week, but opposes enri
+[2026-04-16 11:04:00] Попытка 1 для: Trump says Iran talks may resume this we
+[2026-04-16 11:04:01] Успешно, получено 923 символов
+[2026-04-16 11:04:02] === Блок midday завершён ===
