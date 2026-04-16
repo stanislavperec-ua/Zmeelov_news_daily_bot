@@ -8814,3 +8814,54 @@ U.S. has violated ceasefire agr
 [2026-04-16 16:05:11] Попытка 1 для: 【動画】ロシア軍がハリコフ州最大の貯水池ダムを空爆。
 [2026-04-16 16:05:13] Успешно, получено 791 символов
 [2026-04-16 16:05:16] === Блок evening завершён ===
+[2026-04-16 18:00:53] Загружено 656 уже отправленных новостей
+[2026-04-16 18:00:53] === Запуск блока: ai_evening ===
+[2026-04-16 18:00:53] Неизвестный источник (variety): WGA Reckons With Health Care Cutbacks: ‘
+[2026-04-16 18:00:53] Неизвестный источник (wwd): Kering Launches Accademia per le Eccelle
+[2026-04-16 18:00:53] Нет фото: New MHI and Deloitte Report Finds AI is 
+[2026-04-16 18:00:53] Нет фото: As AI Adoption Outpaces Controls, ISACA 
+[2026-04-16 18:00:53] Неизвестный источник (siliconangle news): DeepMind launches Gemini Robotics-ER 1.6
+[2026-04-16 18:00:53] Неизвестный источник (financial post): AI Pivot Pushes Bitcoin Miners Toward a 
+[2026-04-16 18:00:53] Неизвестный источник (siliconangle news): GrowthLoop targets real-time, causal dec
+[2026-04-16 18:00:53] Неизвестный источник (globenewswire): Gula Tech Adventures Recognizes Carahsof
+[2026-04-16 18:00:53] Нет фото: The data center boom meets resistance in
+[2026-04-16 18:00:53] Неизвестный источник (financial post): Emanuel Floats Online Gambling Tax While
+[2026-04-16 18:00:53] Нет фото: Chaired by HRH Crown Prince, PIF Board o
+[2026-04-16 18:00:53] Неизвестный источник (pcmag.com): Snap Lays Off 16% of Its Staff. CEO Says
+[2026-04-16 18:00:53] Неизвестный источник (pcmag.com): Snap Lays Off 16% of Its Staff. CEO Says
+[2026-04-16 18:00:53] Нет фото: Andreessen, Horowitz Boost AI Super PAC 
+[2026-04-16 18:00:53] Неизвестный источник (amazon.com): Rede Mater Dei de Saúde: Monitoring AI a
+[2026-04-16 18:00:53] Нет фото: Adastra is a Databricks Gold Tier Partne
+[2026-04-16 18:00:53] Неизвестный источник (observer): How One Art Shipping Company Is Pairing 
+[2026-04-16 18:00:53] Неизвестный источник (globenewswire): Starfighters Space Partners with Blackst
+[2026-04-16 18:00:53] Неизвестный источник (globenewswire): AI Data Centers Market Size to Lead USD 
+[2026-04-16 18:00:53] Неизвестный источник (the next web): The Axie Infinity co-founder who survive
+[2026-04-16 18:00:53] Неизвестный источник (cryptoslate): Anthropic’s secretive Mythos AI can hunt
+[2026-04-16 18:00:53] Неизвестный источник (cointelegraph): Tom Lee says ‘mini crypto winter’ is ove
+[2026-04-16 18:00:53] Неизвестный источник (the indian express): Biologics: Science behind modern medicin
+[2026-04-16 18:00:53] Неизвестный источник (siliconangle news): Stendr snags $5.4M in pre-seed funding t
+[2026-04-16 18:00:53] Неизвестный источник (plos.org): How the visual brain can learn to parse 
+[2026-04-16 18:00:53] Неизвестный источник (plos.org): A method for recognizing positive and ne
+[2026-04-16 18:00:53] Неизвестный источник (businessline): University of Aberdeen Mumbai Sets Up In
+[2026-04-16 18:00:53] Неизвестный источник (financial post): Anthropic wins accolades from Canada’s A
+[2026-04-16 18:00:53] Неизвестный источник (openchannels.fm): Open Channels FM: The Imperative of Laye
+[2026-04-16 18:00:53] Нет фото: Digital ag, the AI-Ready America initiat
+[2026-04-16 18:00:53] Нет фото: Allied Gaming & Entertainment Announces 
+[2026-04-16 18:00:53] Неизвестный источник (globenewswire): SEALSQ Quantum Fund Portfolio Company Ee
+[2026-04-16 18:00:53] Неизвестный источник (financial post): Microsoft Takes Over Stargate Norway Dat
+[2026-04-16 18:00:53] Неизвестный источник (the university of manchester): Study: Back-to-basics approach can match
+[2026-04-16 18:00:53] Неизвестный источник (cna): Trump backs government AI safeguards in 
+[2026-04-16 18:00:53] Неизвестный источник (researchbuzz.me): Charles J. Ogletree Jr., Florida Ecology
+[2026-04-16 18:00:53] AI новости: найдено 4 после фильтрации
+[2026-04-16 18:00:56] Обрабатываю: Is Facebook Messenger Down? Web Version Shuts Today as Meta 
+[2026-04-16 18:00:56] Попытка 1 для: Is Facebook Messenger Down? Web Version 
+[2026-04-16 18:00:57] Успешно, получено 838 символов
+[2026-04-16 18:00:58] Пауза 60 секунд...
+[2026-04-16 18:01:58] Обрабатываю: Facebook Messenger down? Meta users report problems
+[2026-04-16 18:01:58] Попытка 1 для: Facebook Messenger down? Meta users repo
+[2026-04-16 18:01:59] Успешно, получено 628 символов
+[2026-04-16 18:02:00] Пауза 60 секунд...
+[2026-04-16 18:03:00] Обрабатываю: Caris Life Sciences Right-In-Time Clinical Trial Solution Ex
+[2026-04-16 18:03:00] Попытка 1 для: Caris Life Sciences Right-In-Time Clinic
+[2026-04-16 18:03:02] Успешно, получено 1054 символов
+[2026-04-16 18:03:04] === Блок ai_evening завершён ===
