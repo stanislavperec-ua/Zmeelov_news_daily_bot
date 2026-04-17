@@ -8928,3 +8928,54 @@ U.S. has violated ceasefire agr
 [2026-04-17 06:06:06] Попытка 1 для: Russian missile strikes hit Kyiv, Dnipro
 [2026-04-17 06:06:07] Успешно, получено 679 символов
 [2026-04-17 06:06:07] === Блок morning завершён ===
+[2026-04-17 08:00:53] Загружено 666 уже отправленных новостей
+[2026-04-17 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-17 08:00:53] Неизвестный источник (war on the rocks): Anthropic’s Nuclear Bomb
+[2026-04-17 08:00:53] Неизвестный источник (war on the rocks): Anthropic’s Nuclear Bomb
+[2026-04-17 08:00:53] Неизвестный источник (landezine.com): Jürgen Weidinger: Limits of Design and W
+[2026-04-17 08:00:53] Неизвестный источник (financial post): Guidewire Launches ProNavigator, Embeddi
+[2026-04-17 08:00:53] Неизвестный источник (internet): UAC-0247 Targets Ukrainian Clinics and G
+[2026-04-17 08:00:53] Заблокированный источник (naturalnews.com): Experts Warn of Widespread Job Losses an
+[2026-04-17 08:00:53] Заблокированный источник (naturalnews.com): Bitcoin Passes Midpoint in Current Halvi
+[2026-04-17 08:00:53] Неизвестный источник (vale.rocks): China’s Parallel Web Behind the Wall | V
+[2026-04-17 08:00:53] Неизвестный источник (financial post): Nvidia’s Huang Says Mythos Shows Need fo
+[2026-04-17 08:00:53] Неизвестный источник (finanznachrichten.de): Cosmos Health Inc.: Cosmos Health Report
+[2026-04-17 08:00:53] Неизвестный источник (computerweekly.com): UAE education builds digital resilience 
+[2026-04-17 08:00:53] Нет фото: ChatGPT maker OpenAI shifts its focus to
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): NIST shifts National Vulnerability Datab
+[2026-04-17 08:00:53] Неизвестный источник (lifetechnology.com): Study Links Ultra-Processed Foods to Ado
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Fancy footwear brand Allbirds has just t
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Seriously? Footwear brand Allbirds says 
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Hilbert nabs $28M to ease analytics proj
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Qlik debuts new agentic capabilities, ai
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Google’s Gemini 3.1 Flash TTS offers unp
+[2026-04-17 08:00:53] Нет фото: Intrinsic annealing in a hybrid memristo
+[2026-04-17 08:00:53] Нет фото: Method comparison of microscopy, metabar
+[2026-04-17 08:00:53] Нет фото: Incubator mediated university industry c
+[2026-04-17 08:00:53] Нет фото: Higher-order neuromorphic Ising machines
+[2026-04-17 08:00:53] Нет фото: Deep cross-modal affective memory networ
+[2026-04-17 08:00:53] Нет фото: CKAD-Net: class-guided key-feature aggre
+[2026-04-17 08:00:53] Нет фото: Electrically reconfigurable extended las
+[2026-04-17 08:00:53] Неизвестный источник (nlppeople.com): 2026 – AI Research Intern – LLMs
+[2026-04-17 08:00:53] Неизвестный источник (boxingnews24.com): LIV Golf Uncertainty Has Boxing Watching
+[2026-04-17 08:00:53] Неизвестный источник (siliconangle news): Parasail raises $32M for its pay-per-tok
+[2026-04-17 08:00:53] Неизвестный источник (globenewswire): NextNRG Reports Full Year and Fourth Qua
+[2026-04-17 08:00:53] Неизвестный источник (theblaze): The divisive issue that could decide the
+[2026-04-17 08:00:53] Неизвестный источник (github.com): Show HN: Springdrift – A persistent runt
+[2026-04-17 08:00:53] Нет фото: AI-driven chip shortage slowing efforts 
+[2026-04-17 08:00:53] Неизвестный источник (wccftech): Verizon CEO Doubles Down On Improving Cu
+[2026-04-17 08:00:53] Нет фото: WBA releases Wi-Fi security standards
+[2026-04-17 08:00:53] Неизвестный источник (comicbook.com): 7 Unsolved TV Show Mysteries That Still 
+[2026-04-17 08:00:53] AI новости: найдено 4 после фильтрации
+[2026-04-17 08:00:56] Обрабатываю: Chatbots at the ballot box: AI skirts Brazil election rules
+[2026-04-17 08:00:56] Попытка 1 для: Chatbots at the ballot box: AI skirts Br
+[2026-04-17 08:00:57] Успешно, получено 857 символов
+[2026-04-17 08:00:57] Пауза 60 секунд...
+[2026-04-17 08:01:57] Обрабатываю: ETMarkets Smart Talk | AI boom driving Indian family offices
+[2026-04-17 08:01:57] Попытка 1 для: ETMarkets Smart Talk | AI boom driving I
+[2026-04-17 08:01:59] Успешно, получено 1021 символов
+[2026-04-17 08:01:59] Пауза 60 секунд...
+[2026-04-17 08:02:59] Обрабатываю: Facebook Messenger Desktop Update 2026: 5 Key Things Users M
+[2026-04-17 08:02:59] Попытка 1 для: Facebook Messenger Desktop Update 2026: 
+[2026-04-17 08:03:00] Успешно, получено 945 символов
+[2026-04-17 08:03:01] === Блок ai_morning завершён ===
