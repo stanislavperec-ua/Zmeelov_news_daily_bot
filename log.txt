@@ -9066,3 +9066,51 @@ U.S. has violated ceasefire agr
 [2026-04-17 16:06:14] Попытка 1 для: Russian missile strikes hit Kyiv, Dnipro
 [2026-04-17 16:06:16] Успешно, получено 710 символов
 [2026-04-17 16:06:16] === Блок evening завершён ===
+[2026-04-17 18:00:55] Загружено 679 уже отправленных новостей
+[2026-04-17 18:00:55] === Запуск блока: ai_evening ===
+[2026-04-17 18:00:55] Неизвестный источник (amazon.com): Cost-efficient custom text-to-SQL using 
+[2026-04-17 18:00:55] Неизвестный источник (timharford.com): How can we tell good AI from bad?
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Google introduces new agentic AI-ready t
+[2026-04-17 18:00:55] Неизвестный источник (bitcoinfoundation.org): Top 5 Crypto Liquidity Providers & Pools
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Certinia reimagines professional service
+[2026-04-17 18:00:55] Неизвестный источник (bleepingcomputer): Google expands Gemini AI use to fight ma
+[2026-04-17 18:00:55] Нет фото: ABBYY, IBM & Red Hat announce DocLang, o
+[2026-04-17 18:00:55] Неизвестный источник (theregister.com): Americans who masterminded Nork IT worke
+[2026-04-17 18:00:55] Нет фото: AI is a gold mine for spammers and scamm
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Antioch prepares to accelerate simulated
+[2026-04-17 18:00:55] Нет фото: LSC and Ziply announce long-haul fiber n
+[2026-04-17 18:00:55] Неизвестный источник (globenewswire): How AI Crypto Trading Bots Are Replacing
+[2026-04-17 18:00:55] Неизвестный источник (financial post): Netflix earnings put focus back on basic
+[2026-04-17 18:00:55] Неизвестный источник (bitcoinfoundation.org): Major Ethereum Updates 2026: Overview, P
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Developer tooling startup Expo nabs $45M
+[2026-04-17 18:00:55] Неизвестный источник (financial post): AI helped CIBC save 1.2 million hours, c
+[2026-04-17 18:00:55] Неизвестный источник (globenewswire): Sustainable Green Team (OTC: SGTM) Emerg
+[2026-04-17 18:00:55] Нет фото: Altus Group Recognized as “Data Solution
+[2026-04-17 18:00:55] Неизвестный источник (plos.org): Coherent cross-modal generation of synth
+[2026-04-17 18:00:55] Неизвестный источник (plos.org): An international consensus on core repro
+[2026-04-17 18:00:55] Нет фото: mfai 7.1.4
+[2026-04-17 18:00:55] Неизвестный источник (cnblogs.com): 一文学习入门 ThingsBoard 开源物联网平台 - daidaidaiyu
+[2026-04-17 18:00:55] Нет фото: Experian Named a 2026 CIO 100 Award Winn
+[2026-04-17 18:00:55] Неизвестный источник (financial post): Allbirds soars after sneaker firm rebran
+[2026-04-17 18:00:55] Нет фото: Chemelex Makes Minority Investment in Al
+[2026-04-17 18:00:55] Неизвестный источник (internet): ThreatsDay Bulletin: Defender 0-Day, Son
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): DuploCloud lands compliance and AI gover
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Lua lands $5.8M to help businesses build
+[2026-04-17 18:00:55] Неизвестный источник (pcworld): I ditched ChatGPT, Claude, and Gemini fo
+[2026-04-17 18:00:55] Нет фото: ZenaTech’s ZenaDrone to Showcase AI Defe
+[2026-04-17 18:00:55] Неизвестный источник (fair observer): Private Credit in 2026: Between Silent E
+[2026-04-17 18:00:55] Нет фото: Nightfood Holdings, Inc. (dba TechForce 
+[2026-04-17 18:00:55] Неизвестный источник (financial post): Champagne to discuss Anthropic at meetin
+[2026-04-17 18:00:55] Нет фото: GoGo AI Network Inc. Announces Algo8 Sec
+[2026-04-17 18:00:55] Неизвестный источник (siliconangle news): Best of frenemies: Oracle’s and AWS’ clo
+[2026-04-17 18:00:55] Нет фото: Taiwan to add up to 9 radar stations for
+[2026-04-17 18:00:55] Нет фото: US, Tanzania hunt for cyber threats duri
+[2026-04-17 18:00:55] AI новости: найдено 2 после фильтрации
+[2026-04-17 18:00:57] Обрабатываю: Google blocks over 483 million bad ads, suspends 1.7 million
+[2026-04-17 18:00:57] Попытка 1 для: Google blocks over 483 million bad ads, 
+[2026-04-17 18:00:59] Успешно, получено 965 символов
+[2026-04-17 18:00:59] Пауза 60 секунд...
+[2026-04-17 18:01:59] Обрабатываю: A Polymarket trader made $300,000 betting on Biden's pardons
+[2026-04-17 18:01:59] Попытка 1 для: A Polymarket trader made $300,000 bettin
+[2026-04-17 18:02:01] Успешно, получено 724 символов
+[2026-04-17 18:02:01] === Блок ai_evening завершён ===
