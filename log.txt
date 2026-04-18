@@ -9214,3 +9214,39 @@ U.S. has violated ceasefire agr
 [2026-04-18 08:02:59] Попытка 1 для: Primark chief Eoin Tonge: ‘We are the be
 [2026-04-18 08:03:01] Успешно, получено 717 символов
 [2026-04-18 08:03:01] === Блок ai_morning завершён ===
+[2026-04-18 11:00:51] Загружено 690 уже отправленных новостей
+[2026-04-18 11:00:51] === Запуск блока: midday ===
+[2026-04-18 11:00:51] Неизвестный источник (investing.com): Netflix shares fall 10% on Q2 guidance m
+[2026-04-18 11:00:51] Заблокированный источник (bleacher report): NHL Stanley Cup Playoffs Bracket 2026 Da
+[2026-04-18 11:00:51] Пропускаю уже отправленную: Live Updates: Israel's ceasefire in Lebanon begins
+[2026-04-18 11:00:51] Неизвестный источник (deadline): 'The Pitt' Creator R. Scott Gemmill Talk
+[2026-04-18 11:00:51] Неизвестный источник (newjerseymonitor.com): Democrat Analilia Mejia wins special Hou
+[2026-04-18 11:00:51] Неизвестный источник (parade): Christina Applegate, 54, Reportedly Hosp
+[2026-04-18 11:00:51] Неизвестный источник (the dallas morning news): Refusing to acknowledge Azzi Fudd, Paige
+[2026-04-18 11:00:51] Неизвестный источник (cnbc): Asia markets mostly fall as fragile Midd
+[2026-04-18 11:00:51] Неизвестный источник (variety): ‘Avengers: Doomsday’ Trailer: Thor Battl
+[2026-04-18 11:00:51] Неизвестный источник (wccftech): iPhone 17 Pro Max Units With Dents And S
+[2026-04-18 11:00:51] Неизвестный источник (9to5mac): Netflix launching redesigned iPhone app 
+[2026-04-18 11:00:51] Неизвестный источник (sfgate): Measles returns to SF with first confirm
+[2026-04-18 11:00:51] Неизвестный источник (fiercepharma): 'Absent or trivial' effects: Anti-amyloi
+[2026-04-18 11:00:51] Неизвестный источник (yahoo entertainment): The Lyrid meteor shower peaks next week:
+[2026-04-18 11:00:51] Неизвестный источник (space.com): 3D dark energy map is mind-blowing photo
+[2026-04-18 11:00:51] Старая новость (2026-04-16T11:00:34Z): Sperm Whales Speak With a Complex Alphab
+[2026-04-18 11:00:51] Старая новость (2026-04-15T16:00:00Z): Want to control your blood sugar? Here’s
+[2026-04-18 11:00:51] Мировые новости: найдено 12 после фильтрации
+[2026-04-18 11:00:54] Обрабатываю: ICE acting director Todd Lyons will resign at end of May, DH
+[2026-04-18 11:00:54] Попытка 1 для: ICE acting director Todd Lyons will resi
+[2026-04-18 11:00:55] Успешно, получено 819 символов
+[2026-04-18 11:00:56] Пауза 60 секунд...
+[2026-04-18 11:01:56] Обрабатываю: Trump rails against court decision that once again stalls hi
+[2026-04-18 11:01:56] Попытка 1 для: Trump rails against court decision that 
+[2026-04-18 11:01:57] Успешно, получено 1096 символов
+[2026-04-18 11:01:57] Пауза 60 секунд...
+[2026-04-18 11:02:57] Обрабатываю: Singer D4vd arrested in connection to death of runaway teen
+[2026-04-18 11:02:57] Попытка 1 для: Singer D4vd arrested in connection to de
+[2026-04-18 11:02:58] Успешно, получено 620 символов
+[2026-04-18 11:02:59] Пауза 60 секунд...
+[2026-04-18 11:03:59] Обрабатываю: Justin Fairfax killed his estranged wife and himself 2 weeks
+[2026-04-18 11:03:59] Попытка 1 для: Justin Fairfax killed his estranged wife
+[2026-04-18 11:04:00] Успешно, получено 689 символов
+[2026-04-18 11:04:01] === Блок midday завершён ===
