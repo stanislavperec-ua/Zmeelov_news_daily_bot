@@ -9304,3 +9304,52 @@ U.S. has violated ceasefire agr
 [2026-04-18 16:05:03] Попытка 1 для: Russia bolsters anti-drone defenses afte
 [2026-04-18 16:05:04] Успешно, получено 696 символов
 [2026-04-18 16:05:05] === Блок evening завершён ===
+[2026-04-18 18:00:54] Загружено 700 уже отправленных новостей
+[2026-04-18 18:00:54] === Запуск блока: ai_evening ===
+[2026-04-18 18:00:55] Неизвестный источник (route-fifty.com): Pro-Iran hackers appear to increase crit
+[2026-04-18 18:00:55] Нет фото: At RSAC 2026, AI optimism and anxiety --
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): HII Introduces Distributed Maritime Oper
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): $16.92 Bn Digital Map Market Forecasts, 
+[2026-04-18 18:00:55] Заблокированный источник (breitbart news): Report: SpaceX's Starlink Outage Left Na
+[2026-04-18 18:00:55] Неизвестный источник (siliconangle news): Will agentic AI governance run amok? The
+[2026-04-18 18:00:55] Нет фото: Global Financial Watchdog to Share Insig
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): The DEEP, OVHcloud and Clever Cloud cons
+[2026-04-18 18:00:55] Неизвестный источник (financial post): US Eyes More Namibian Uranium Imports as
+[2026-04-18 18:00:55] Неизвестный источник (techradar): 'As threats evolve, Gemini keeps our def
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): 5G Fixed Wireless Access (FWA) Customer 
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): 5G Fixed Wireless Access Market Analysis
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): 5G Security Market Analysis Report 2026:
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): AI in 5G Networks Market Analysis Report
+[2026-04-18 18:00:55] Неизвестный источник (twincities.com-pioneer press): Lawmakers gathered quietly to talk about
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): Sustainable Green Team (OTC: SGTM) Launc
+[2026-04-18 18:00:55] Неизвестный источник (siliconangle news): AI + quantum, Amazon vs. Starlink and th
+[2026-04-18 18:00:55] Неизвестный источник (plos.org): AI literacy among basic school teachers 
+[2026-04-18 18:00:55] Неизвестный источник (plos.org): A phase-field model for vesicle membrane
+[2026-04-18 18:00:55] Неизвестный источник (plos.org): ‘Backpropagation and the brain’ realized
+[2026-04-18 18:00:55] Неизвестный источник (plos.org): Study on the mechanical behavior and fra
+[2026-04-18 18:00:55] Неизвестный источник (plos.org): The intrinsic structure and interrelatio
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): Petrochemicals Market Size to Reach USD 
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): Brain Technologies and SoftBank Launch N
+[2026-04-18 18:00:55] Неизвестный источник (fortune): Meet the crypto guru to the Fortune 500
+[2026-04-18 18:00:55] Нет фото: SalesCloser Technologies Announces Listi
+[2026-04-18 18:00:55] Неизвестный источник (cbc news): B.C.'s latest AI data centre being built
+[2026-04-18 18:00:55] Неизвестный источник (theregister.com): ZTE highlights path to broadband monetiz
+[2026-04-18 18:00:55] Нет фото: RBC, Scotiabank Scrap Emissions Targets 
+[2026-04-18 18:00:55] Неизвестный источник (globenewswire): Myseum.AI Accepted into Advanced Micro D
+[2026-04-18 18:00:55] Неизвестный источник (siliconangle news): NanoClaw partners with Vercel to deliver
+[2026-04-18 18:00:55] Неизвестный источник (bitcoinfoundation.org): Bitcoin Mining Shift to AI Threatens Blo
+[2026-04-18 18:00:55] Неизвестный источник (the american prospect): American Politics Is Already Inundated W
+[2026-04-18 18:00:55] Нет фото: UK AI Minister Hits Out at OpenAI for St
+[2026-04-18 18:00:55] AI новости: найдено 3 после фильтрации
+[2026-04-18 18:00:57] Обрабатываю: Tesla Stock Rockets 4.7% to $407 as AI Chip Hopes and Autono
+[2026-04-18 18:00:57] Попытка 1 для: Tesla Stock Rockets 4.7% to $407 as AI C
+[2026-04-18 18:00:58] Успешно, получено 743 символов
+[2026-04-18 18:00:59] Пауза 60 секунд...
+[2026-04-18 18:01:59] Обрабатываю: Meta Stock 2026: Buy or Sell? Wall Street Says Strong Buy as
+[2026-04-18 18:01:59] Попытка 1 для: Meta Stock 2026: Buy or Sell? Wall Stree
+[2026-04-18 18:02:00] Успешно, получено 723 символов
+[2026-04-18 18:02:01] Пауза 60 секунд...
+[2026-04-18 18:03:01] Обрабатываю: Is Walmart Down? Online Shopping Disruptions Hit Millions as
+[2026-04-18 18:03:01] Попытка 1 для: Is Walmart Down? Online Shopping Disrupt
+[2026-04-18 18:03:02] Успешно, получено 616 символов
+[2026-04-18 18:03:02] === Блок ai_evening завершён ===
