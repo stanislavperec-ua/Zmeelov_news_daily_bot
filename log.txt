@@ -9166,3 +9166,51 @@ U.S. has violated ceasefire agr
 [2026-04-18 06:05:02] Попытка 1 для: Irish mineral firm TechMet gets $17m cas
 [2026-04-18 06:05:03] Успешно, получено 873 символов
 [2026-04-18 06:05:03] === Блок morning завершён ===
+[2026-04-18 08:00:53] Загружено 687 уже отправленных новостей
+[2026-04-18 08:00:53] === Запуск блока: ai_morning ===
+[2026-04-18 08:00:54] Неизвестный источник (financial post): Stocks Pause as S&P 500 Eyes Third Week 
+[2026-04-18 08:00:54] Неизвестный источник (financial post): Stocks spike, Dow up 1,000 after Iran sa
+[2026-04-18 08:00:54] Неизвестный источник (c-sharpcorner.com): What is Overfitting in Machine Learning 
+[2026-04-18 08:00:54] Неизвестный источник (rte): Ericsson lags profit expectations on hig
+[2026-04-18 08:00:54] Неизвестный источник (globenewswire): Heilind Asia Pacific Recognized as “2025
+[2026-04-18 08:00:54] Неизвестный источник (globenewswire): Bouygues Telecom, the Free–iliad Group a
+[2026-04-18 08:00:54] Неизвестный источник (globenewswire): Bouygues Telecom, the Free-iliad Group a
+[2026-04-18 08:00:54] Неизвестный источник (cna): Ericsson lags profit expectations as AI 
+[2026-04-18 08:00:54] Неизвестный источник (cna): Ericsson slightly lags profit expectatio
+[2026-04-18 08:00:54] Неизвестный источник (mit.edu): Bringing AI-driven protein-design tools 
+[2026-04-18 08:00:54] Неизвестный источник (motley fool australia): Shares in this $1.4 billion ASX data cen
+[2026-04-18 08:00:54] Неизвестный источник (socialnomics.net): The Top 10 Speaker Agencies to Hire a Ke
+[2026-04-18 08:00:54] Неизвестный источник (siliconangle news): AI Mode in Chrome adds split-screen view
+[2026-04-18 08:00:54] Неизвестный источник (siliconangle news): Resolve AI raises $40M at $1.5B valuatio
+[2026-04-18 08:00:54] Неизвестный источник (siliconangle news): How Zscaler and OpenAI turn zero-trust s
+[2026-04-18 08:00:54] Неизвестный источник (siliconangle news): OpenAI ratchets up Codex’s agentic capab
+[2026-04-18 08:00:54] Неизвестный источник (mcsweeneys.net): Fisher-Price Is Pivoting to AI-Powered A
+[2026-04-18 08:00:54] Нет фото: Conserved and divergent gene regulatory 
+[2026-04-18 08:00:54] Нет фото: A smart compliance validation framework 
+[2026-04-18 08:00:54] Нет фото: From data to discovery: The rise of info
+[2026-04-18 08:00:54] Нет фото: Accelerating spiking neural networks wit
+[2026-04-18 08:00:54] Нет фото: Toward sustainable energy production: a 
+[2026-04-18 08:00:54] Неизвестный источник (siliconangle news): Slash raises $100M at a $1.4B valuation 
+[2026-04-18 08:00:54] Неизвестный источник (shtfplan.com): Experts Warn of Widespread Job Losses an
+[2026-04-18 08:00:54] Неизвестный источник (financial post): News of the day: First-time homebuyers, 
+[2026-04-18 08:00:54] Неизвестный источник (reason): San Jose's 'Creepy' and 'Deeply Intrusiv
+[2026-04-18 08:00:54] Неизвестный источник (dezeen): ICON to 3D-print housing for artificial 
+[2026-04-18 08:00:54] Неизвестный источник (financial post): Mythos poses risk to SEC market-tracking
+[2026-04-18 08:00:54] Неизвестный источник (wwd): Worldly Launches AI Tool to Centralize S
+[2026-04-18 08:00:54] Нет фото: Zorronet Delivers 98% Success in Israel 
+[2026-04-18 08:00:54] Неизвестный источник (financial post): Canadian quantum company Xanadu soars to
+[2026-04-18 08:00:54] Неизвестный источник (pymnts.com): Lobster.cash Teams With Mastercard to Se
+[2026-04-18 08:00:54] Неизвестный источник (financial post): CoreWeave taps U.S. junk-debt market aga
+[2026-04-18 08:00:54] AI новости: найдено 6 после фильтрации
+[2026-04-18 08:00:56] Обрабатываю: 5 AI Stocks to Buy from ASX 200 in 2026 Offer Strong Exposur
+[2026-04-18 08:00:56] Попытка 1 для: 5 AI Stocks to Buy from ASX 200 in 2026 
+[2026-04-18 08:00:57] Успешно, получено 871 символов
+[2026-04-18 08:00:58] Пауза 60 секунд...
+[2026-04-18 08:01:58] Обрабатываю: 5 AI Stocks to Buy from FTSE 100 in 2026 Offer Smart UK Expo
+[2026-04-18 08:01:58] Попытка 1 для: 5 AI Stocks to Buy from FTSE 100 in 2026
+[2026-04-18 08:01:59] Успешно, получено 951 символов
+[2026-04-18 08:01:59] Пауза 60 секунд...
+[2026-04-18 08:02:59] Обрабатываю: Primark chief Eoin Tonge: ‘We are the best in the world at p
+[2026-04-18 08:02:59] Попытка 1 для: Primark chief Eoin Tonge: ‘We are the be
+[2026-04-18 08:03:01] Успешно, получено 717 символов
+[2026-04-18 08:03:01] === Блок ai_morning завершён ===
