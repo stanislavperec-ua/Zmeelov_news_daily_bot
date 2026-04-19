@@ -9353,3 +9353,59 @@ U.S. has violated ceasefire agr
 [2026-04-18 18:03:01] Попытка 1 для: Is Walmart Down? Online Shopping Disrupt
 [2026-04-18 18:03:02] Успешно, получено 616 символов
 [2026-04-18 18:03:02] === Блок ai_evening завершён ===
+[2026-04-19 06:00:51] Загружено 703 уже отправленных новостей
+[2026-04-19 06:00:51] === Запуск блока: morning ===
+[2026-04-19 06:00:52] Неизвестный источник (heat.com): Live Updates: 2026 SoFi Play-In Tourname
+[2026-04-19 06:00:52] Неизвестный источник (kabc-tv): D4vd arrested: Celeste Rivas Hernandez's
+[2026-04-19 06:00:52] Неизвестный источник (komo news): Women's sports icons Sue Bird and Megan 
+[2026-04-19 06:00:52] Неизвестный источник (deadline): QVC Group, Whose Networks Popularized Sh
+[2026-04-19 06:00:52] Неизвестный источник (nasa): Nasa Shuts Off Instrument On Voyager 1 T
+[2026-04-19 06:00:52] Неизвестный источник (huffpost): RFK Jr. Calls Tylenol Study Finding No L
+[2026-04-19 06:00:52] Неизвестный источник (wtop): $13 train fare spikes to $150 for World 
+[2026-04-19 06:00:52] Неизвестный источник (minnesota public radio news): Tornadoes touch down in Rochester area -
+[2026-04-19 06:00:52] Неизвестный источник (common dreams): Israel Strikes Lebanon Less Than an Hour
+[2026-04-19 06:00:52] Неизвестный источник (gizmodo.com): The Most Unforgettable Footage We Saw at
+[2026-04-19 06:00:52] Неизвестный источник (motor1 ): Ford Mustang GTD Crushes Corvette ZR1X's
+[2026-04-19 06:00:52] Неизвестный источник (phys.org): Mosquitoes reach Iceland for the first t
+[2026-04-19 06:00:52] Неизвестный источник (phys.org): The Colorado River disappeared from the 
+[2026-04-19 06:00:52] Старая новость (2026-04-17T02:20:00Z): 'The Pitt' Creator R. Scott Gemmill Talk
+[2026-04-19 06:00:52] Старая новость (2026-04-17T01:11:57Z): Much-Hyped Alzheimer's Drugs Show No Mea
+[2026-04-19 06:00:52] Старая новость (2026-04-16T17:08:56Z): Galaxy S27 Ultra may perform on par with
+[2026-04-19 06:00:52] Старая новость (2026-04-16T10:40:42Z): The Vivo X300 Ultra finally steps outsid
+[2026-04-19 06:00:52] Мировые новости: найдено 13 после фильтрации
+[2026-04-19 06:00:52] Нет фото: US renews Russian oil waiver after press
+[2026-04-19 06:00:52] Нет фото: U.S. extends waiver on Russian oil sanct
+[2026-04-19 06:00:52] Заблокированный источник (rt): Russian drones hunt down Ukrainian UAVs 
+[2026-04-19 06:00:52] Нет фото: US extends waiver on Russian oil sanctio
+[2026-04-19 06:00:52] Нет фото: Green Party election victory ‘would trig
+[2026-04-19 06:00:52] Нет фото: Iran says Strait of Hormuz will close ag
+[2026-04-19 06:00:52] Нет фото: Finland Pulls Back Venice Biennale Prese
+[2026-04-19 06:00:52] Нет фото: Ukraine captures enemy Russian position 
+[2026-04-19 06:00:52] Заблокированный источник (rt): Slovakia to sue EU over Russian gas ban
+[2026-04-19 06:00:52] Украинские новости: найдено 2 после фильтрации
+[2026-04-19 06:00:52] Заблокированный источник (sputnikglobe.com): Russian Troops Liberate Settlement of Zy
+[2026-04-19 06:00:52] Заблокированный источник (sputnikglobe.com): Ukrainian Barrier Troops Prevent Soldier
+[2026-04-19 06:00:52] Харьков: новостей не найдено
+[2026-04-19 06:00:54] Обрабатываю: Federal judge blocks politically fraught TV station merger
+[2026-04-19 06:00:54] Попытка 1 для: Federal judge blocks politically fraught
+[2026-04-19 06:00:55] Успешно, получено 496 символов
+[2026-04-19 06:00:56] Пауза 60 секунд...
+[2026-04-19 06:01:56] Обрабатываю: Garret Anderson, the talented outfielder and Angels career h
+[2026-04-19 06:01:56] Попытка 1 для: Garret Anderson, the talented outfielder
+[2026-04-19 06:01:57] Успешно, получено 707 символов
+[2026-04-19 06:01:57] Пауза 60 секунд...
+[2026-04-19 06:02:57] Обрабатываю: Scoop: Bessent and Wiles met Anthropic's Amodei in sign of t
+[2026-04-19 06:02:57] Попытка 1 для: Scoop: Bessent and Wiles met Anthropic's
+[2026-04-19 06:02:58] Успешно, получено 442 символов
+[2026-04-19 06:02:58] Пауза 60 секунд...
+[2026-04-19 06:03:58] Обрабатываю: How the dispute between Trump and Pope Leo escalated
+[2026-04-19 06:03:58] Попытка 1 для: How the dispute between Trump and Pope L
+[2026-04-19 06:03:59] Успешно, получено 740 символов
+[2026-04-19 06:04:02] Обрабатываю: Vladimir Putin now a threat to world, Volodymyr Zelensky say
+[2026-04-19 06:04:02] Попытка 1 для: Vladimir Putin now a threat to world, Vo
+[2026-04-19 06:04:03] Успешно, получено 897 символов
+[2026-04-19 06:04:03] Пауза 60 секунд...
+[2026-04-19 06:05:03] Обрабатываю: Moscow’s Soviet-style tactics dim Russia-Ukraine ceasefire p
+[2026-04-19 06:05:03] Попытка 1 для: Moscow’s Soviet-style tactics dim Russia
+[2026-04-19 06:05:04] Успешно, получено 716 символов
+[2026-04-19 06:05:05] === Блок morning завершён ===
