@@ -9452,3 +9452,39 @@ U.S. has violated ceasefire agr
 [2026-04-19 08:00:48] AI новости: найдено 0 после фильтрации
 [2026-04-19 08:00:48] ⚠️ Блок *AI утро* (19.04.2026) — новостей не найдено!
 [2026-04-19 08:00:48] === Блок ai_morning завершён ===
+[2026-04-19 11:00:49] Загружено 709 уже отправленных новостей
+[2026-04-19 11:00:49] === Запуск блока: midday ===
+[2026-04-19 11:00:50] Неизвестный источник (abcnews.com): Federal judge blocks Nexstar-Tegna TV st
+[2026-04-19 11:00:50] Неизвестный источник (rolling stone): Madonna, Sabrina Carpenter Make Coachell
+[2026-04-19 11:00:50] Неизвестный источник (heat.com): Live Updates: 2026 SoFi Play-In Tourname
+[2026-04-19 11:00:50] Неизвестный источник (foxweather.com): Live updates: Life-threatening storms ta
+[2026-04-19 11:00:50] Неизвестный источник (cageside seats): WWE Hall of Fame 2026 live thread - Cage
+[2026-04-19 11:00:50] Неизвестный источник (daily faceoff): 2025-26 Stanley Cup Playoffs: Round 1 se
+[2026-04-19 11:00:50] Неизвестный источник (new jersey globe): Mejia scored an NJ-11 landslide – but no
+[2026-04-19 11:00:50] Неизвестный источник (deadline): QVC Group, Whose Networks Popularized Sh
+[2026-04-19 11:00:50] Неизвестный источник (nasa): Nasa Shuts Off Instrument On Voyager 1 T
+[2026-04-19 11:00:50] Неизвестный источник (motor1 ): Ford Mustang GTD Crushes Corvette ZR1X's
+[2026-04-19 11:00:50] Старая новость (2026-04-17T09:00:00Z): EU officials in Hungary to discuss unloc
+[2026-04-19 11:00:50] Старая новость (2026-04-17T01:11:57Z): Much-Hyped Alzheimer's Drugs Show No Mea
+[2026-04-19 11:00:50] Старая новость (2026-04-16T21:01:49Z): Apple's $599 MacBook Neo Sold Out Throug
+[2026-04-19 11:00:50] Старая новость (2026-04-16T17:08:56Z): Galaxy S27 Ultra may perform on par with
+[2026-04-19 11:00:50] Старая новость (2026-04-16T15:18:24Z): ER Visits For Tick Bites At Highest Leve
+[2026-04-19 11:00:50] Старая новость (2026-04-16T15:13:51Z): Vivo X300 Ultra Review: The Camera King 
+[2026-04-19 11:00:50] Старая новость (2026-04-16T14:00:00Z): 3D dark energy map is mind-blowing photo
+[2026-04-19 11:00:50] Мировые новости: найдено 13 после фильтрации
+[2026-04-19 11:00:52] Обрабатываю: An abandoned car, a photo trail and a missing girl: What led
+[2026-04-19 11:00:52] Попытка 1 для: An abandoned car, a photo trail and a mi
+[2026-04-19 11:00:53] Успешно, получено 607 символов
+[2026-04-19 11:00:54] Пауза 60 секунд...
+[2026-04-19 11:01:54] Обрабатываю: Oil prices plunge as Iran says Strait of Hormuz 'open' durin
+[2026-04-19 11:01:54] Попытка 1 для: Oil prices plunge as Iran says Strait of
+[2026-04-19 11:01:55] Успешно, получено 716 символов
+[2026-04-19 11:01:55] Пауза 60 секунд...
+[2026-04-19 11:02:55] Обрабатываю: Trump came to Arizona to rally young voters. An older crowd 
+[2026-04-19 11:02:55] Попытка 1 для: Trump came to Arizona to rally young vot
+[2026-04-19 11:02:56] Успешно, получено 767 символов
+[2026-04-19 11:02:57] Пауза 60 секунд...
+[2026-04-19 11:03:57] Обрабатываю: US extends waiver on Russian oil sanctions to ease Iran war 
+[2026-04-19 11:03:57] Попытка 1 для: US extends waiver on Russian oil sanctio
+[2026-04-19 11:03:58] Успешно, получено 901 символов
+[2026-04-19 11:03:59] === Блок midday завершён ===
