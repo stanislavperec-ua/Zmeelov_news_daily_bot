@@ -9770,3 +9770,30 @@ U.S. has violated ceasefire agr
 [2026-04-20 16:05:08] Попытка 1 для: My One and Only Love
 [2026-04-20 16:05:09] Успешно, получено 765 символов
 [2026-04-20 16:05:10] === Блок evening завершён ===
+[2026-04-20 18:00:56] Загружено 734 уже отправленных новостей
+[2026-04-20 18:00:56] === Запуск блока: ai_evening ===
+[2026-04-20 18:00:56] Неизвестный источник (the next web): Trump wants to stop states from regulati
+[2026-04-20 18:00:56] Неизвестный источник (financial post): Emerging-Market Bond Sales Are Soaring A
+[2026-04-20 18:00:56] Неизвестный источник (truthout): Want to Resist a Data Center? These Orga
+[2026-04-20 18:00:56] Неизвестный источник (mit.edu): Managing traffic in space
+[2026-04-20 18:00:56] Нет фото: Trump wants to stop states from regulati
+[2026-04-20 18:00:56] Неизвестный источник (researchbuzz.me): American Feminist History, Canadian Peat
+[2026-04-20 18:00:56] Неизвестный источник (big blue view): NY Giants 7-round mock draft: Dexter Law
+[2026-04-20 18:00:56] Неизвестный источник (help net security): Week in review: Acrobat Reader flaw expl
+[2026-04-20 18:00:56] Неизвестный источник (siliconangle news): As AI powers Google, what’s next for Goo
+[2026-04-20 18:00:56] Неизвестный источник (globenewswire): Bramridge Trust Unveiled: Should You Joi
+[2026-04-20 18:00:56] Неизвестный источник (bleeding cool news): Amazing Spider-Man #27 Preview: Spidey's
+[2026-04-20 18:00:56] Нет фото: A solid waste classification using reinf
+[2026-04-20 18:00:56] Нет фото: A triple-branch multi-scale network for 
+[2026-04-20 18:00:56] Нет фото: Optimized ANN-based bio-thermodynamic mo
+[2026-04-20 18:00:56] Нет фото: Sustainable mixture design of rice husk 
+[2026-04-20 18:00:56] Неизвестный источник (bitcoinist): Expert Predicts What Will Happen To Bitc
+[2026-04-20 18:00:56] Нет фото: kymnasium 1.2.3
+[2026-04-20 18:00:56] Нет фото: kymnasium 1.2.2
+[2026-04-20 18:00:56] Неизвестный источник (bleeding cool news): The Sentry #2 Preview: Hulk's Got a Bad 
+[2026-04-20 18:00:56] Неизвестный источник (financial post): Traders Ready to Put War Behind Them Dia
+[2026-04-20 18:00:56] AI новости: найдено 1 после фильтрации
+[2026-04-20 18:00:59] Обрабатываю: Ericsson India revenue grows 29% to Rs 4,228 crore in March 
+[2026-04-20 18:00:59] Попытка 1 для: Ericsson India revenue grows 29% to Rs 4
+[2026-04-20 18:01:00] Успешно, получено 845 символов
+[2026-04-20 18:01:01] === Блок ai_evening завершён ===
