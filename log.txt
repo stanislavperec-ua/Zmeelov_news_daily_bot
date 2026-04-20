@@ -9644,3 +9644,30 @@ U.S. has violated ceasefire agr
 [2026-04-20 06:05:09] Попытка 1 для: Who was behind Kyiv supermarket hostage 
 [2026-04-20 06:05:10] Успешно, получено 678 символов
 [2026-04-20 06:05:10] === Блок morning завершён ===
+[2026-04-20 08:00:50] Загружено 725 уже отправленных новостей
+[2026-04-20 08:00:50] === Запуск блока: ai_morning ===
+[2026-04-20 08:00:50] Неизвестный источник (help net security): Week in review: Acrobat Reader flaw expl
+[2026-04-20 08:00:50] Неизвестный источник (siliconangle news): As AI powers Google, what’s next for Goo
+[2026-04-20 08:00:50] Неизвестный источник (globenewswire): Bramridge Trust Unveiled: Should You Joi
+[2026-04-20 08:00:50] Неизвестный источник (bleeding cool news): Amazing Spider-Man #27 Preview: Spidey's
+[2026-04-20 08:00:50] Нет фото: A solid waste classification using reinf
+[2026-04-20 08:00:50] Нет фото: A triple-branch multi-scale network for 
+[2026-04-20 08:00:50] Нет фото: Optimized ANN-based bio-thermodynamic mo
+[2026-04-20 08:00:50] Нет фото: Sustainable mixture design of rice husk 
+[2026-04-20 08:00:50] Неизвестный источник (bitcoinist): Expert Predicts What Will Happen To Bitc
+[2026-04-20 08:00:50] Нет фото: kymnasium 1.2.3
+[2026-04-20 08:00:50] Нет фото: kymnasium 1.2.2
+[2026-04-20 08:00:50] Неизвестный источник (bleeding cool news): The Sentry #2 Preview: Hulk's Got a Bad 
+[2026-04-20 08:00:50] Неизвестный источник (financial post): Traders Ready to Put War Behind Them Dia
+[2026-04-20 08:00:50] Неизвестный источник (kevinmd.com): Why physical books matter in a social me
+[2026-04-20 08:00:50] Неизвестный источник (bleeding cool news): Star Wars: Galaxy's Edge – Echoes of the
+[2026-04-20 08:00:50] Нет фото: Artificial intelligence in warfare: solu
+[2026-04-20 08:00:50] Неизвестный источник (the indian express): ‘Beacon of hope’ for Kashmiri students, 
+[2026-04-20 08:00:50] Нет фото: pyscdblfinder added to PyPI
+[2026-04-20 08:00:50] Неизвестный источник (cryptoslate): Bitcoin miners pivot to AI is now an imm
+[2026-04-20 08:00:50] Неизвестный источник (answersingenesis.org): The Shifting Sand of Life’s Origin Story
+[2026-04-20 08:00:50] Неизвестный источник (theblaze): The third way: Navigating AI’s knife edg
+[2026-04-20 08:00:50] Нет фото: pydoubletfinder 0.1.0
+[2026-04-20 08:00:50] AI новости: найдено 0 после фильтрации
+[2026-04-20 08:00:50] ⚠️ Блок *AI утро* (20.04.2026) — новостей не найдено!
+[2026-04-20 08:00:51] === Блок ai_morning завершён ===
