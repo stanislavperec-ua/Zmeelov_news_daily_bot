@@ -9671,3 +9671,43 @@ U.S. has violated ceasefire agr
 [2026-04-20 08:00:50] AI новости: найдено 0 после фильтрации
 [2026-04-20 08:00:50] ⚠️ Блок *AI утро* (20.04.2026) — новостей не найдено!
 [2026-04-20 08:00:51] === Блок ai_morning завершён ===
+[2026-04-20 11:00:55] Загружено 725 уже отправленных новостей
+[2026-04-20 11:00:55] === Запуск блока: midday ===
+[2026-04-20 11:00:55] Неизвестный источник (bengals.com): Reports: Bengals Transform Defense In Dr
+[2026-04-20 11:00:55] Неизвестный источник (silver screen and roll ): 3 takeaways from Lakers’ Game 1 win vs. 
+[2026-04-20 11:00:55] Неизвестный источник (mma fighting): Gilbert Burns retires after suffering kn
+[2026-04-20 11:00:55] Неизвестный источник (bloody elbow): Arman Tsarukyan vs Urijah Faber RAF08 re
+[2026-04-20 11:00:55] Неизвестный источник (espn): WrestleMania 42 Night One results: Rhode
+[2026-04-20 11:00:55] Неизвестный источник (variety): Olivia Rodrigo Joins Addison Rae at Coac
+[2026-04-20 11:00:55] Неизвестный источник (tmz): Zayn Malik Allegedly Punched Louis Tomli
+[2026-04-20 11:00:55] Неизвестный источник (tmz): Lexi Wood Says 'Summer House' Stars Need
+[2026-04-20 11:00:55] Неизвестный источник (fortune): Trump speeds review of psychedelics afte
+[2026-04-20 11:00:55] Неизвестный источник (sun sentinel): The Latest: Iran fires on ships in Strai
+[2026-04-20 11:00:55] Неизвестный источник (phys.org): DESI completes planned 3D map of the uni
+[2026-04-20 11:00:55] Неизвестный источник (android authority): Amazon’s new Fire TV Stick HD signals th
+[2026-04-20 11:00:55] Неизвестный источник (eurogamer.net): Arc Raiders switches up Expeditions and 
+[2026-04-20 11:00:55] Неизвестный источник (space.com): Artemis 2 and Tiangong space station ast
+[2026-04-20 11:00:55] Старая новость (2026-04-18T11:00:09Z): Economic pain from Iran war will hit poo
+[2026-04-20 11:00:55] Старая новость (2026-04-18T07:00:00Z): United CEO Scott Kirby and American CEO 
+[2026-04-20 11:00:55] Старая новость (2026-04-18T06:00:00Z): Century-old cleaning ingredient linked t
+[2026-04-20 11:00:55] Старая новость (2026-04-18T02:50:37Z): Microsoft Expands Xbox Mode to Windows L
+[2026-04-20 11:00:55] Старая новость (2026-04-17T23:32:00Z): First measles hospitalization reported i
+[2026-04-20 11:00:55] Старая новость (2026-04-17T21:15:00Z): RFK Jr. Calls Tylenol Study Finding No L
+[2026-04-20 11:00:55] Старая новость (2026-04-17T12:00:00Z): I spoke to 3 doctors to find the best al
+[2026-04-20 11:00:55] Мировые новости: найдено 12 после фильтрации
+[2026-04-20 11:00:58] Обрабатываю: The Little Probe That Could: Why Voyager 1 Matters, and Why 
+[2026-04-20 11:00:58] Попытка 1 для: The Little Probe That Could: Why Voyager
+[2026-04-20 11:00:59] Успешно, получено 972 символов
+[2026-04-20 11:00:59] Пауза 60 секунд...
+[2026-04-20 11:01:59] Обрабатываю: Iran says it is ‘far’ from peace deal with US, as Strait of 
+[2026-04-20 11:01:59] Попытка 1 для: Iran says it is ‘far’ from peace deal wi
+[2026-04-20 11:02:01] Успешно, получено 638 символов
+[2026-04-20 11:02:01] Пауза 60 секунд...
+[2026-04-20 11:03:01] Обрабатываю: North Korea launches multiple short-range ballistic missiles
+[2026-04-20 11:03:01] Попытка 1 для: North Korea launches multiple short-rang
+[2026-04-20 11:03:02] Успешно, получено 782 символов
+[2026-04-20 11:03:03] Пауза 60 секунд...
+[2026-04-20 11:04:03] Обрабатываю: Trump to read Bible verse from Oval Office after feud with P
+[2026-04-20 11:04:03] Попытка 1 для: Trump to read Bible verse from Oval Offi
+[2026-04-20 11:04:04] Успешно, получено 922 символов
+[2026-04-20 11:04:05] === Блок midday завершён ===
