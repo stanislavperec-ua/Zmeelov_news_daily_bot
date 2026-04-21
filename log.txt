@@ -9797,3 +9797,52 @@ U.S. has violated ceasefire agr
 [2026-04-20 18:00:59] Попытка 1 для: Ericsson India revenue grows 29% to Rs 4
 [2026-04-20 18:01:00] Успешно, получено 845 символов
 [2026-04-20 18:01:01] === Блок ai_evening завершён ===
+[2026-04-21 06:00:52] Загружено 735 уже отправленных новостей
+[2026-04-21 06:00:52] === Запуск блока: morning ===
+[2026-04-21 06:00:52] Неизвестный источник (forbes): Louisiana Man Kills 8 Children In Deadli
+[2026-04-21 06:00:52] Неизвестный источник (tvline): Euphoria Episode 2 Recap: Existential Cr
+[2026-04-21 06:00:52] Неизвестный источник (macrumors): MacBook Pro With Touch Screen and New Ma
+[2026-04-21 06:00:52] Неизвестный источник (forbes): Trump’s Disapproval Rating Grows As Iran
+[2026-04-21 06:00:52] Неизвестный источник (forbes): WWE WrestleMania 42 Results, Winners And
+[2026-04-21 06:00:52] Неизвестный источник (cnbc): China keeps benchmark lending rates unch
+[2026-04-21 06:00:52] Неизвестный источник (tmz): Kim Kardashian, Lewis Hamilton Step Out 
+[2026-04-21 06:00:52] Заблокированный источник (sciencealert): How Long Poop Stays in Your Body May Imp
+[2026-04-21 06:00:52] Неизвестный источник (wral.com): Health & Human Services warning NC about
+[2026-04-21 06:00:52] Неизвестный источник (wtop): Health officials confirm measles case wa
+[2026-04-21 06:00:52] Неизвестный источник (nascar): Five for 45! Reddick wins rousing overti
+[2026-04-21 06:00:52] Неизвестный источник (nbcsports.com): Dexter Lawrence: I know Bengals gave up 
+[2026-04-21 06:00:52] Неизвестный источник (hollywood reporter): ‘Heated Rivalry’ Creator Teases Season T
+[2026-04-21 06:00:52] Неизвестный источник (heat.com): Live Updates: 2026 NBA Playoffs, R1 | Ce
+[2026-04-21 06:00:52] Неизвестный источник (phys.org): These blazing blue explosions may be bor
+[2026-04-21 06:00:52] Неизвестный источник (vox): What to do about burnout at work - vox.c
+[2026-04-21 06:00:52] Старая новость (2026-04-19T05:40:28Z): The Little Probe That Could: Why Voyager
+[2026-04-21 06:00:52] Старая новость (2026-04-18T14:00:00Z): Artemis 2 and Tiangong space station ast
+[2026-04-21 06:00:52] Мировые новости: найдено 15 после фильтрации
+[2026-04-21 06:00:52] Пропускаю российский фокус: Zelensky ready for potential meeting with Putin in
+[2026-04-21 06:00:52] Заблокированный источник (rt): EU will dole out money for Ukraine regar
+[2026-04-21 06:00:52] Заблокированный источник (sputnikglobe.com): Fico Risks Facing Assassination Attempt 
+[2026-04-21 06:00:52] Украинские новости: найдено 4 после фильтрации
+[2026-04-21 06:00:53] Харьков: новостей не найдено
+[2026-04-21 06:00:55] Обрабатываю: British Prime Minister Starmer faces angry lawmakers over Ma
+[2026-04-21 06:00:55] Попытка 1 для: British Prime Minister Starmer faces ang
+[2026-04-21 06:00:56] Успешно, получено 853 символов
+[2026-04-21 06:00:56] Пауза 60 секунд...
+[2026-04-21 06:01:56] Обрабатываю: What to know about tariff refund site that's set to go live 
+[2026-04-21 06:01:56] Попытка 1 для: What to know about tariff refund site th
+[2026-04-21 06:01:57] Успешно, получено 754 символов
+[2026-04-21 06:01:58] Пауза 60 секунд...
+[2026-04-21 06:02:58] Обрабатываю: Canada’s prime minister says economic ties with US are a wea
+[2026-04-21 06:02:58] Попытка 1 для: Canada’s prime minister says economic ti
+[2026-04-21 06:02:59] Успешно, получено 731 символов
+[2026-04-21 06:02:59] Пауза 60 секунд...
+[2026-04-21 06:03:59] Обрабатываю: British police are probing a shadowy Islamic group amid arso
+[2026-04-21 06:03:59] Попытка 1 для: British police are probing a shadowy Isl
+[2026-04-21 06:04:00] Успешно, получено 738 символов
+[2026-04-21 06:04:03] Обрабатываю: ‘I survived a tank hit. That’s bad ass’: British amputee cho
+[2026-04-21 06:04:03] Попытка 1 для: ‘I survived a tank hit. That’s bad ass’:
+[2026-04-21 06:04:04] Успешно, получено 745 символов
+[2026-04-21 06:04:05] Пауза 60 секунд...
+[2026-04-21 06:05:05] Обрабатываю: ‘Robots don’t bleed’: Ukraine sends machines into the battle
+[2026-04-21 06:05:05] Попытка 1 для: ‘Robots don’t bleed’: Ukraine sends mach
+[2026-04-21 06:05:05] Успешно, получено 536 символов
+[2026-04-21 06:05:06] === Блок morning завершён ===
