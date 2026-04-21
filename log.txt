@@ -9980,3 +9980,55 @@ U.S. has violated ceasefire agr
 [2026-04-21 16:05:10] Попытка 1 для: A Ukrainian drone company says it's team
 [2026-04-21 16:05:11] Успешно, получено 753 символов
 [2026-04-21 16:05:11] === Блок evening завершён ===
+[2026-04-21 18:00:54] Загружено 754 уже отправленных новостей
+[2026-04-21 18:00:54] === Запуск блока: ai_evening ===
+[2026-04-21 18:00:54] Неизвестный источник (siliconangle news): What to expect during the Phi Moments @ 
+[2026-04-21 18:00:54] Неизвестный источник (siliconangle news): Adobe deploys agents across its customer
+[2026-04-21 18:00:54] Неизвестный источник (siliconangle news): Adobe deploys AI agents across its custo
+[2026-04-21 18:00:54] Неизвестный источник (amazon.com): ToolSimulator: scalable tool testing for
+[2026-04-21 18:00:54] Неизвестный источник (financial post): Cyber A.I. Group Appoints Irving Bruckst
+[2026-04-21 18:00:54] Неизвестный источник (bleeding cool news): Usagi Yojimbo: Kaitō '84 #2 Preview: Hei
+[2026-04-21 18:00:54] Неизвестный источник (financial post): AI Nuclear Power Developer Fermi Slides 
+[2026-04-21 18:00:54] Нет фото: Perma-Pipe International Holdings, Inc. 
+[2026-04-21 18:00:54] Неизвестный источник (businessline): India tells Korea to consider negotiatin
+[2026-04-21 18:00:54] Нет фото: Temasek-Backed CuspAI in Talks to Boost 
+[2026-04-21 18:00:54] Неизвестный источник (insurance journal): Lawmakers Gather to Talk About AI; Angst
+[2026-04-21 18:00:54] Неизвестный источник (cisco.com): How Cisco built an AI-RRM that maximizes
+[2026-04-21 18:00:54] Нет фото: China Robot’s 50-Minute Half Marathon Sh
+[2026-04-21 18:00:54] Неизвестный источник (financial post): U.S. stocks decline amid fading U.S.-Ira
+[2026-04-21 18:00:54] Нет фото: ViewsML Secures Funding to Accelerate Co
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): Upstream Oil & Gas Analytics Industry Re
+[2026-04-21 18:00:54] Неизвестный источник (plos.org): Balancing the supply and demand for taxo
+[2026-04-21 18:00:54] Неизвестный источник (plos.org): Combining pangenomics and population gen
+[2026-04-21 18:00:54] Неизвестный источник (plos.org): TinyAct: A framework for real-time actio
+[2026-04-21 18:00:54] Неизвестный источник (internet): ⚡ Weekly Recap: Vercel Hack, Push Fraud,
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): Data Center Networking Industry Research
+[2026-04-21 18:00:54] Неизвестный источник (protothema.gr): The difficult week, the Parliamentary Gr
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): Software Defined Data Center Industry Re
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): Micro Mobile Data Center Industry Resear
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): Data Center Interconnect Market Analysis
+[2026-04-21 18:00:54] Нет фото: Capcom’s All-New IP PRAGMATA Surpasses O
+[2026-04-21 18:00:54] Неизвестный источник (siliconangle news): DeepKeep rolls out Vibe AI Red Teaming t
+[2026-04-21 18:00:54] Нет фото: Supercharged Security: Security in the T
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): AlphaTON Capital Relaunches as Alpha Com
+[2026-04-21 18:00:54] Нет фото: AI & Technology Virtual Investor Confere
+[2026-04-21 18:00:54] Неизвестный источник (onefootball.com): Aline Pellegrino named Fifa director
+[2026-04-21 18:00:54] Неизвестный источник (globalresearch.ca): Resisting the New World Order: Your Tech
+[2026-04-21 18:00:54] Неизвестный источник (kdnuggets.com): 5 Free Ways to Host a Python Application
+[2026-04-21 18:00:54] Неизвестный источник (daily signal): AI Isn’t the Future of Our National Secu
+[2026-04-21 18:00:54] Неизвестный источник (globenewswire): AlphaTON Capital Rebrands as Alpha Compu
+[2026-04-21 18:00:54] Неизвестный источник (fox news): BMW puts humanoid robots to work buildin
+[2026-04-21 18:00:54] Неизвестный источник (financial post): Brazil Data Center Developer Scala Court
+[2026-04-21 18:00:54] AI новости: найдено 3 после фильтрации
+[2026-04-21 18:00:56] Обрабатываю: Chinese proverb of the day: “When standing under someone els
+[2026-04-21 18:00:56] Попытка 1 для: Chinese proverb of the day: “When standi
+[2026-04-21 18:00:58] Успешно, получено 746 символов
+[2026-04-21 18:00:58] Пауза 60 секунд...
+[2026-04-21 18:01:58] Обрабатываю: DGGI officers arrest Kapil Chugh over Rs 1,825 cr GST refund
+[2026-04-21 18:01:58] Попытка 1 для: DGGI officers arrest Kapil Chugh over Rs
+[2026-04-21 18:01:59] Успешно, получено 669 символов
+[2026-04-21 18:02:00] Пауза 60 секунд...
+[2026-04-21 18:03:00] Обрабатываю: Adobe Introduces Brand Visibility Solution to Redefine Custo
+[2026-04-21 18:03:00] Попытка 1 для: Adobe Introduces Brand Visibility Soluti
+[2026-04-21 18:03:02] Успешно, получено 725 символов
+[2026-04-21 18:03:03] === Блок ai_evening завершён ===
