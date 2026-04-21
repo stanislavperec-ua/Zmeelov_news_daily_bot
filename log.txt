@@ -9889,3 +9889,44 @@ U.S. has violated ceasefire agr
 [2026-04-21 08:02:57] Попытка 1 для: GIFT City vs Dubai vs Singapore: What yo
 [2026-04-21 08:02:58] Успешно, получено 869 символов
 [2026-04-21 08:02:58] === Блок ai_morning завершён ===
+[2026-04-21 11:00:53] Загружено 744 уже отправленных новостей
+[2026-04-21 11:00:53] === Запуск блока: midday ===
+[2026-04-21 11:00:53] Неизвестный источник (cnbc): Dow futures fall over 350 points as Iran
+[2026-04-21 11:00:53] Неизвестный источник (wls-tv): Shreveport, Louisiana shooting today: Fa
+[2026-04-21 11:00:53] Неизвестный источник (nhl news): At the Horn | Sabres 4 - Bruins 3 - NHL.
+[2026-04-21 11:00:53] Неизвестный источник (deadline): Patrick Muldoon Dies: ‘Days Of Our Lives
+[2026-04-21 11:00:53] Неизвестный источник (dw (english)): Canada's US ties have become a weakness,
+[2026-04-21 11:00:53] Пропускаю уже отправленную: Iran says it will retaliate for US seizure of carg
+[2026-04-21 11:00:53] Неизвестный источник (tvline): Euphoria Episode 2 Recap: Existential Cr
+[2026-04-21 11:00:53] Неизвестный источник (macrumors): MacBook Pro With Touch Screen and New Ma
+[2026-04-21 11:00:53] Неизвестный источник (phonearena): Real photo of iPhone 18 Pro in new color
+[2026-04-21 11:00:53] Пропускаю уже отправленную: British police are probing a shadowy Islamic group
+[2026-04-21 11:00:53] Неизвестный источник (ksl.com): 'Lee Cronin's The Mummy' is no match for
+[2026-04-21 11:00:53] Заблокированный источник (sciencealert): How Long Poop Stays in Your Body May Imp
+[2026-04-21 11:00:53] Неизвестный источник (hackaday): Hackaday Links: April 19, 2026 - Hackada
+[2026-04-21 11:00:53] Неизвестный источник (pcmag.com): Blue Origin Rocket Launches, Then Loses 
+[2026-04-21 11:00:53] Неизвестный источник (wral.com): Health & Human Services warning NC about
+[2026-04-21 11:00:53] Неизвестный источник (wtop): Health officials confirm measles case wa
+[2026-04-21 11:00:53] Неизвестный источник (heat.com): Live Updates: 2026 NBA Playoffs, R1 | Ce
+[2026-04-21 11:00:53] Неизвестный источник (notebookcheck.net): Huawei Pura X Max: Pre-launch hands-on i
+[2026-04-21 11:00:53] Неизвестный источник (phys.org): These blazing blue explosions may be bor
+[2026-04-21 11:00:53] Неизвестный источник (phys.org): Quantum model explains how single electr
+[2026-04-21 11:00:53] Старая новость (2026-04-19T08:08:00Z): Oppo officially reveals key specs of the
+[2026-04-21 11:00:53] Старая новость (2026-04-18T14:00:00Z): Artemis 2 and Tiangong space station ast
+[2026-04-21 11:00:53] Мировые новости: найдено 11 после фильтрации
+[2026-04-21 11:00:55] Обрабатываю: Iran War Live Updates: Uncertainty Hangs Over U.S.-Iran Talk
+[2026-04-21 11:00:55] Попытка 1 для: Iran War Live Updates: Uncertainty Hangs
+[2026-04-21 11:00:56] Успешно, получено 686 символов
+[2026-04-21 11:00:57] Пауза 60 секунд...
+[2026-04-21 11:01:57] Обрабатываю: The pope's English fuels a Trump feud
+[2026-04-21 11:01:57] Попытка 1 для: The pope's English fuels a Trump feud
+[2026-04-21 11:01:58] Успешно, получено 709 символов
+[2026-04-21 11:01:58] Пауза 60 секунд...
+[2026-04-21 11:02:58] Обрабатываю: Republicans stare down a growing, neverending FISA crisis
+[2026-04-21 11:02:58] Попытка 1 для: Republicans stare down a growing, nevere
+[2026-04-21 11:02:59] Успешно, получено 578 символов
+[2026-04-21 11:02:59] Пауза 60 секунд...
+[2026-04-21 11:03:59] Обрабатываю: Strong earthquake hits off Japan’s coast, tsunami warning is
+[2026-04-21 11:03:59] Попытка 1 для: Strong earthquake hits off Japan’s coast
+[2026-04-21 11:04:00] Успешно, получено 726 символов
+[2026-04-21 11:04:01] === Блок midday завершён ===
