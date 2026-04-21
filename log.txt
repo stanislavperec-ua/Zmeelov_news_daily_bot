@@ -9846,3 +9846,46 @@ U.S. has violated ceasefire agr
 [2026-04-21 06:05:05] Попытка 1 для: ‘Robots don’t bleed’: Ukraine sends mach
 [2026-04-21 06:05:05] Успешно, получено 536 символов
 [2026-04-21 06:05:06] === Блок morning завершён ===
+[2026-04-21 08:00:51] Загружено 741 уже отправленных новостей
+[2026-04-21 08:00:51] === Запуск блока: ai_morning ===
+[2026-04-21 08:00:52] Неизвестный источник (financial post): Stocks, Bonds Fall as Oil Jumps After Ho
+[2026-04-21 08:00:52] Неизвестный источник (landezine.com): Forest Encounters: Negotiating Aesthetic
+[2026-04-21 08:00:52] Неизвестный источник (bmwgroup.com): BMW Group and University of Zagreb: Adva
+[2026-04-21 08:00:52] Неизвестный источник (globenewswire): Viral Vectors & Plasmid DNA Manufacturin
+[2026-04-21 08:00:52] Заблокированный источник (naturalnews.com): AI analysis of 67,000+ GLP-1 agonist use
+[2026-04-21 08:00:52] Неизвестный источник (antaranews.com): Korea's AI-Driven Healthcare Technologie
+[2026-04-21 08:00:52] Неизвестный источник (naftemporiki.gr): Open Cosmos: Participation in NASA’s FAM
+[2026-04-21 08:00:52] Неизвестный источник (computerweekly.com): Storage implications of a modern IT arch
+[2026-04-21 08:00:52] Неизвестный источник (financial post): Emerging-Market Stocks Erase War Losses 
+[2026-04-21 08:00:52] Неизвестный источник (financial post): Korean Stocks Erase War Loss as Chipmake
+[2026-04-21 08:00:52] Неизвестный источник (livemint): Ads on tap: Why Jaquar still values old-
+[2026-04-21 08:00:52] Неизвестный источник (financial post): Asia Hedge Funds Log Big Losses From Ira
+[2026-04-21 08:00:52] Нет фото: Risk stratification of patients with syn
+[2026-04-21 08:00:52] Нет фото: Half of UK Executives Think AI Will Mean
+[2026-04-21 08:00:52] Нет фото: Recent advances and artificial neural ne
+[2026-04-21 08:00:52] Неизвестный источник (bleeding cool news): Detective Comics #1108 Preview: Digging 
+[2026-04-21 08:00:52] Неизвестный источник (bleeding cool news): Amazing Spider-Man: Spider-Versity #1 Pr
+[2026-04-21 08:00:52] Неизвестный источник (pcmag.com): It's Time to Stop Falling for These 24 R
+[2026-04-21 08:00:52] Неизвестный источник (next big future): AST Spacemobile BB7 Is Not Recoverable P
+[2026-04-21 08:00:52] Неизвестный источник (the next web): Trump wants to stop states from regulati
+[2026-04-21 08:00:52] Неизвестный источник (financial post): Emerging-Market Bond Sales Are Soaring A
+[2026-04-21 08:00:52] Неизвестный источник (marketbeat): This AI Lender Has Big Upside Potential—
+[2026-04-21 08:00:52] Неизвестный источник (truthout): Want to Resist a Data Center? These Orga
+[2026-04-21 08:00:52] Неизвестный источник (mit.edu): Managing traffic in space
+[2026-04-21 08:00:52] Пропускаю уже отправленную: Ericsson India revenue grows 29% to Rs 4,228 crore
+[2026-04-21 08:00:52] Нет фото: Trump wants to stop states from regulati
+[2026-04-21 08:00:52] Неизвестный источник (researchbuzz.me): American Feminist History, Canadian Peat
+[2026-04-21 08:00:52] Неизвестный источник (big blue view): NY Giants 7-round mock draft: Dexter Law
+[2026-04-21 08:00:52] AI новости: найдено 4 после фильтрации
+[2026-04-21 08:00:54] Обрабатываю: AI-first filmmaking model debuts with Jio Studios' 'Krishna'
+[2026-04-21 08:00:54] Попытка 1 для: AI-first filmmaking model debuts with Ji
+[2026-04-21 08:00:55] Успешно, получено 652 символов
+[2026-04-21 08:00:55] Пауза 60 секунд...
+[2026-04-21 08:01:55] Обрабатываю: Trump wants to stop states from regulating AI. This Utah Rep
+[2026-04-21 08:01:55] Попытка 1 для: Trump wants to stop states from regulati
+[2026-04-21 08:01:56] Успешно, получено 831 символов
+[2026-04-21 08:01:57] Пауза 60 секунд...
+[2026-04-21 08:02:57] Обрабатываю: GIFT City vs Dubai vs Singapore: What you need to know while
+[2026-04-21 08:02:57] Попытка 1 для: GIFT City vs Dubai vs Singapore: What yo
+[2026-04-21 08:02:58] Успешно, получено 869 символов
+[2026-04-21 08:02:58] === Блок ai_morning завершён ===
