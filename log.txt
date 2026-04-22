@@ -10131,3 +10131,45 @@ U.S. has violated ceasefire agr
 [2026-04-22 08:02:58] Попытка 1 для: Multifactor authentication in extracellu
 [2026-04-22 08:02:59] Успешно, получено 794 символов
 [2026-04-22 08:02:59] === Блок ai_morning завершён ===
+[2026-04-22 11:00:53] Загружено 765 уже отправленных новостей
+[2026-04-22 11:00:53] === Запуск блока: midday ===
+[2026-04-22 11:00:53] Неизвестный источник (investing.com): Oil falls on expectations US-Iran talks 
+[2026-04-22 11:00:53] Неизвестный источник (new york post): Knicks’ inexplicable Game 2 meltdown fal
+[2026-04-22 11:00:53] Неизвестный источник (nhl news): Martone playing beyond his years for Fly
+[2026-04-22 11:00:53] Неизвестный источник (fortune): Meet John Ternus, the 51-year-old former
+[2026-04-22 11:00:53] Неизвестный источник (nj.com): Meteor shower could bring 20 shooting st
+[2026-04-22 11:00:53] Неизвестный источник (nbcsports.com): PFT’s one (and only) 2026 mock draft - N
+[2026-04-22 11:00:53] Неизвестный источник (people): Haylie Duff and Matt Rosenberg Split Aft
+[2026-04-22 11:00:53] Неизвестный источник (deadline): D4vd Pleads Not Guilty To Teen’s Murder,
+[2026-04-22 11:00:53] Неизвестный источник (vogue): See All the Red Carpet Looks From the Th
+[2026-04-22 11:00:53] Неизвестный источник (heat.com): Live Updates: Raptors-Cavaliers starts t
+[2026-04-22 11:00:53] Неизвестный источник (nasa): NASA on Track for Future Missions with I
+[2026-04-22 11:00:53] Неизвестный источник (9to5mac): ‘WhatsApp Plus’ subscription launching s
+[2026-04-22 11:00:53] Неизвестный источник (business insider): What a US destroyer shooting a cargo shi
+[2026-04-22 11:00:53] Неизвестный источник (marketwatch): Stock Market News April 20, 2026: Nasdaq
+[2026-04-22 11:00:53] Неизвестный источник (space.com): NASA shuts down Voyager 1 instrument to 
+[2026-04-22 11:00:53] Неизвестный источник (fortune): $166 billion in tariff refunds just beca
+[2026-04-22 11:00:53] Неизвестный источник (macrumors): NASA Astronaut Shares Incredible 'Earths
+[2026-04-22 11:00:53] Неизвестный источник (wls-tv): Mexico's Sheinbaum demands explanations 
+[2026-04-22 11:00:53] Неизвестный источник (pbs): FBI Director Kash Patel sues The Atlanti
+[2026-04-22 11:00:53] Неизвестный источник (notebookcheck.net): New Microsoft Pro and Surface Laptop rel
+[2026-04-22 11:00:53] Неизвестный источник (wral.com): After a year of turmoil, cancer research
+[2026-04-22 11:00:53] Старая новость (2026-04-20T04:40:46Z): Largest U.S. Study Finds Teen Cannabis U
+[2026-04-22 11:00:53] Старая новость (2026-04-19T22:49:39Z): Apple Testing Two New iOS 27 Home Screen
+[2026-04-22 11:00:53] Мировые новости: найдено 12 после фильтрации
+[2026-04-22 11:00:55] Обрабатываю: Police Seek Arrest of BTS Agency Hybe’s Billionaire Founder 
+[2026-04-22 11:00:55] Попытка 1 для: Police Seek Arrest of BTS Agency Hybe’s 
+[2026-04-22 11:00:57] Успешно, получено 1054 символов
+[2026-04-22 11:00:57] Пауза 60 секунд...
+[2026-04-22 11:01:57] Обрабатываю: Gunman shoots several tourists at historic pyramids in Mexic
+[2026-04-22 11:01:57] Попытка 1 для: Gunman shoots several tourists at histor
+[2026-04-22 11:01:58] Успешно, получено 663 символов
+[2026-04-22 11:01:59] Пауза 60 секунд...
+[2026-04-22 11:02:59] Обрабатываю: Japan lifts ban on lethal weapons exports in major shift of 
+[2026-04-22 11:02:59] Попытка 1 для: Japan lifts ban on lethal weapons export
+[2026-04-22 11:03:00] Успешно, получено 738 символов
+[2026-04-22 11:03:00] Пауза 60 секунд...
+[2026-04-22 11:04:00] Обрабатываю: George Ariyoshi, first US governor of Asian American descent
+[2026-04-22 11:04:00] Попытка 1 для: George Ariyoshi, first US governor of As
+[2026-04-22 11:04:01] Успешно, получено 642 символов
+[2026-04-22 11:04:02] === Блок midday завершён ===
