@@ -10083,3 +10083,51 @@ U.S. has violated ceasefire agr
 [2026-04-22 06:04:02] Попытка 1 для: The Decimation of Russia’s Specialized T
 [2026-04-22 06:04:03] Успешно, получено 650 символов
 [2026-04-22 06:04:03] === Блок morning завершён ===
+[2026-04-22 08:00:51] Загружено 762 уже отправленных новостей
+[2026-04-22 08:00:51] === Запуск блока: ai_morning ===
+[2026-04-22 08:00:51] Неизвестный источник (computerweekly.com): Danish logistics giant under pressure to
+[2026-04-22 08:00:51] Неизвестный источник (the indian express): ‘Stepped into world’s biggest shoes’: Te
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Grafana is trying to close the AI observ
+[2026-04-22 08:00:51] Неизвестный источник (dumblittleman.com): Microsoft and Its Quiet Power in Tech
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Mythos remains a mystery as security wor
+[2026-04-22 08:00:51] Неизвестный источник (motley fool australia): 2 ASX tech shares to buy as sector rocke
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Five takeaways from CEO Shantanu Narayen
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Google Cloud Next 2026 preview: The real
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Amazon to invest up to $25B in Anthropic
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Moonshot AI releases Kimi-K2.6 model wit
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Tim Cook out, John Ternus in: Apple name
+[2026-04-22 08:00:51] Неизвестный источник (bleeding cool news): Monstress #61 Preview: Maika's Life-Alte
+[2026-04-22 08:00:51] Неизвестный источник (globenewswire): GURU Organic Energy Files $15 Million La
+[2026-04-22 08:00:51] Неизвестный источник (financial post): Stock market's rally to record high mask
+[2026-04-22 08:00:51] Нет фото: Trump Invokes Wartime Powers to Fund New
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Developer tooling provider Vercel disclo
+[2026-04-22 08:00:51] Неизвестный источник (fox news): Reporter's Notebook: House chaos sparks 
+[2026-04-22 08:00:51] Неизвестный источник (fox news): Reporter's Notebook: House chaos sparks 
+[2026-04-22 08:00:51] Неизвестный источник (amazon.com): Accelerate Generative AI Inference on Am
+[2026-04-22 08:00:51] Неизвестный источник (globenewswire): HII Launches HYPR Program with Path Robo
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): What to expect during the Phi Moments @ 
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Adobe deploys agents across its customer
+[2026-04-22 08:00:51] Неизвестный источник (siliconangle news): Adobe deploys AI agents across its custo
+[2026-04-22 08:00:51] Неизвестный источник (amazon.com): ToolSimulator: scalable tool testing for
+[2026-04-22 08:00:51] Неизвестный источник (financial post): Cyber A.I. Group Appoints Irving Bruckst
+[2026-04-22 08:00:51] Неизвестный источник (bleeding cool news): Usagi Yojimbo: Kaitō '84 #2 Preview: Hei
+[2026-04-22 08:00:51] Неизвестный источник (financial post): AI Nuclear Power Developer Fermi Slides 
+[2026-04-22 08:00:51] Нет фото: Perma-Pipe International Holdings, Inc. 
+[2026-04-22 08:00:51] Неизвестный источник (businessline): India tells Korea to consider negotiatin
+[2026-04-22 08:00:51] Нет фото: Temasek-Backed CuspAI in Talks to Boost 
+[2026-04-22 08:00:51] Неизвестный источник (insurance journal): Lawmakers Gather to Talk About AI; Angst
+[2026-04-22 08:00:51] Неизвестный источник (cisco.com): How Cisco built an AI-RRM that maximizes
+[2026-04-22 08:00:51] Нет фото: China Robot’s 50-Minute Half Marathon Sh
+[2026-04-22 08:00:51] AI новости: найдено 7 после фильтрации
+[2026-04-22 08:00:54] Обрабатываю: India EV Boom 2026: Electric cars race ahead – until price, 
+[2026-04-22 08:00:54] Попытка 1 для: India EV Boom 2026: Electric cars race a
+[2026-04-22 08:00:55] Успешно, получено 873 символов
+[2026-04-22 08:00:55] Пауза 60 секунд...
+[2026-04-22 08:01:55] Обрабатываю: Constituent-constrained word prediction during language comp
+[2026-04-22 08:01:55] Попытка 1 для: Constituent-constrained word prediction 
+[2026-04-22 08:01:57] Успешно, получено 850 символов
+[2026-04-22 08:01:58] Пауза 60 секунд...
+[2026-04-22 08:02:58] Обрабатываю: Multifactor authentication in extracellular vesicle analysis
+[2026-04-22 08:02:58] Попытка 1 для: Multifactor authentication in extracellu
+[2026-04-22 08:02:59] Успешно, получено 794 символов
+[2026-04-22 08:02:59] === Блок ai_morning завершён ===
