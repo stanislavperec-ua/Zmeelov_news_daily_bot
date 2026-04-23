@@ -10339,3 +10339,51 @@ U.S. has violated ceasefire agr
 [2026-04-23 06:06:10] Попытка 1 для: Russian strikes injure 25 in Ukraine
 [2026-04-23 06:06:11] Успешно, получено 537 символов
 [2026-04-23 06:06:11] === Блок morning завершён ===
+[2026-04-23 08:01:05] Загружено 783 уже отправленных новостей
+[2026-04-23 08:01:05] === Запуск блока: ai_morning ===
+[2026-04-23 08:01:05] Неизвестный источник (computerweekly.com): Google launches Gemini Agent Platform, e
+[2026-04-23 08:01:05] Нет фото: German Economy Chief to Make First Trip 
+[2026-04-23 08:01:05] Неизвестный источник (forbes): Using Neuro-Symbolic AI For Mental Healt
+[2026-04-23 08:01:05] Неизвестный источник (naftemporiki.gr): Euronext chief bets on Greece’s next cha
+[2026-04-23 08:01:05] Неизвестный источник (computerweekly.com): A tsunami of flaws: When frontier AI and
+[2026-04-23 08:01:05] Нет фото: ABB Raises Annual Revenue Outlook as Qua
+[2026-04-23 08:01:05] Неизвестный источник (newsbtc): Solana Foundation President Explains Why
+[2026-04-23 08:01:05] Неизвестный источник (financial post): S&P 500 Futures Rise, Dollar Dips on Ira
+[2026-04-23 08:01:05] Неизвестный источник (bleeding cool news): Vampirella #1 Preview: Draculina's Quest
+[2026-04-23 08:01:05] Неизвестный источник (decrypt): Anthropic's Claude Mythos AI Finds 271 V
+[2026-04-23 08:01:05] Неизвестный источник (pymnts.com): Capital One’s Q1 Shifts Attention From S
+[2026-04-23 08:01:05] Неизвестный источник (wattsupwiththat.com): Launching AI into Orbit
+[2026-04-23 08:01:05] Неизвестный источник (mercola.com): Vitamin A and Thyroid Hormone Are Crucia
+[2026-04-23 08:01:05] Неизвестный источник (livemint): SpaceX says partnering with Cursor, opti
+[2026-04-23 08:01:05] Неизвестный источник (siliconangle news): OpenAI launches ChatGPT Images 2.0, Code
+[2026-04-23 08:01:05] Неизвестный источник (linkedin.com): INEBRIA / ICUDDR Thematic Meeting 2026 a
+[2026-04-23 08:01:05] Неизвестный источник (bleeding cool news): TMNT: Saturday Morning Adventures #36 Pr
+[2026-04-23 08:01:05] Неизвестный источник (pymnts.com): UnitedHealth’s AI Is Rebuilding the Paym
+[2026-04-23 08:01:05] Неизвестный источник (screen rant): Apple TV's Upcoming Cyberpunk Series Tha
+[2026-04-23 08:01:05] Неизвестный источник (nextgov): Transportation celebrates air traffic co
+[2026-04-23 08:01:05] Неизвестный источник (motley fool australia): 3 reasons to buy NextDC shares today
+[2026-04-23 08:01:05] Неизвестный источник (siliconangle news): Syenta raises $26M in funding to speed u
+[2026-04-23 08:01:05] Неизвестный источник (siliconangle news): Three insights you might have missed fro
+[2026-04-23 08:01:05] Неизвестный источник (new york post): Criminal probe launched into ChatGPT’s p
+[2026-04-23 08:01:05] Неизвестный источник (researchbuzz.me): WWI New Zealand, Chess Position Search E
+[2026-04-23 08:01:05] Нет фото: News Media Canada: Canadians Want Federa
+[2026-04-23 08:01:05] Нет фото: US Needs Up to 100 Gigawatts of New Powe
+[2026-04-23 08:01:05] Неизвестный источник (globenewswire): EchoXen Claims Evaluated: Discover the P
+[2026-04-23 08:01:05] Неизвестный источник (national post): 97% of Canadian doctors report having to
+[2026-04-23 08:01:05] Неизвестный источник (bitcoinfoundation.org): Top 5 Altcoins That Could Surge 10x–100x
+[2026-04-23 08:01:05] Нет фото: Michael and Susan Dell fund 'AI-native' 
+[2026-04-23 08:01:05] Неизвестный источник (national post): Canadians overwhelmingly favour federal 
+[2026-04-23 08:01:05] Внутренний дубль: Apple’s Tim Cook takes on crucial new role: global
+[2026-04-23 08:01:05] AI новости: найдено 6 после фильтрации
+[2026-04-23 08:01:08] Обрабатываю: LTM Wins Two Google Cloud Partner of the Year Awards for 202
+[2026-04-23 08:01:08] Попытка 1 для: LTM Wins Two Google Cloud Partner of the
+[2026-04-23 08:01:09] Успешно, получено 601 символов
+[2026-04-23 08:01:10] Пауза 60 секунд...
+[2026-04-23 08:02:10] Обрабатываю: Apple’s Tim Cook takes on crucial new role: Global ambassado
+[2026-04-23 08:02:10] Попытка 1 для: Apple’s Tim Cook takes on crucial new ro
+[2026-04-23 08:02:11] Успешно, получено 698 символов
+[2026-04-23 08:02:11] Пауза 60 секунд...
+[2026-04-23 08:03:11] Обрабатываю: Robot can beat elite players at table tennis
+[2026-04-23 08:03:11] Попытка 1 для: Robot can beat elite players at table te
+[2026-04-23 08:03:13] Успешно, получено 895 символов
+[2026-04-23 08:03:13] === Блок ai_morning завершён ===
