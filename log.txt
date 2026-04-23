@@ -10424,3 +10424,48 @@ U.S. has violated ceasefire agr
 [2026-04-23 11:04:04] Попытка 1 для: Texas can require public schools to disp
 [2026-04-23 11:04:05] Успешно, получено 662 символов
 [2026-04-23 11:04:06] === Блок midday завершён ===
+[2026-04-23 18:00:56] Загружено 790 уже отправленных новостей
+[2026-04-23 18:00:56] === Запуск блока: ai_evening ===
+[2026-04-23 18:00:57] Неизвестный источник (financial post): Wall Street’s bullish stocks view contra
+[2026-04-23 18:00:57] Неизвестный источник (petapixel): Flickr: The First and Last Great Photo P
+[2026-04-23 18:00:57] Неизвестный источник (globenewswire): AI Adoption Sentiment Surges as March In
+[2026-04-23 18:00:57] Неизвестный источник (nextgov): Microsoft to test third-party AI models 
+[2026-04-23 18:00:57] Неизвестный источник (observer): The Best New Discoveries of Milan Art We
+[2026-04-23 18:00:57] Неизвестный источник (toronto sun): Memorial University bans straight white 
+[2026-04-23 18:00:57] Неизвестный источник (the punch): FG plans AI-powered policing, fibre netw
+[2026-04-23 18:00:57] Неизвестный источник (decrypt): SpaceX Warns Investors Elon Musk’s Space
+[2026-04-23 18:00:57] Неизвестный источник (cnbc): Microsoft's LinkedIn names longtime exec
+[2026-04-23 18:00:57] Неизвестный источник (fortune): The internet isn’t just like real life, 
+[2026-04-23 18:00:57] Нет фото: Seize Opportunity to Lend Your Insights,
+[2026-04-23 18:00:57] Неизвестный источник (coindesk): Trump-linked American Bitcoin shares spi
+[2026-04-23 18:00:57] Нет фото: SpaceX says it can buy AI coding tool Cu
+[2026-04-23 18:00:57] Нет фото: A robot is beating human pros at table t
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): Vast Data raises $1B at $30B valuation a
+[2026-04-23 18:00:57] Нет фото: VAST Data Valued at $30 Billion as AI Dr
+[2026-04-23 18:00:57] Неизвестный источник (financial post): TD Bank mulls hedging data centre debt w
+[2026-04-23 18:00:57] Неизвестный источник (argmin.net): Freedom From Choice
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): Treehub launches with Tim Draper and Ann
+[2026-04-23 18:00:57] Неизвестный источник (globenewswire): QoreChain Ships NIST Post-Quantum Crypto
+[2026-04-23 18:00:57] Неизвестный источник (plos.org): Monotherapy cancer drug-blind response p
+[2026-04-23 18:00:57] Неизвестный источник (plos.org): DMAPLM: A multimodal pretrained framewor
+[2026-04-23 18:00:57] Неизвестный источник (financial post): ECB’s Lane Says Still Can’t Determine Ex
+[2026-04-23 18:00:57] Неизвестный источник (globenewswire): This Earth Day, DIVEVOLK Champions Ocean
+[2026-04-23 18:00:57] Неизвестный источник (financial post): SpaceX has deal for right to acquire Cur
+[2026-04-23 18:00:57] Неизвестный источник (financial post): Thales Introduces Imperva for Google Clo
+[2026-04-23 18:00:57] Нет фото: Advisor360° Introduces Financial Plannin
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): Iterable launches Nova agent to assist m
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): Octen raises $10M in seed funding to spe
+[2026-04-23 18:00:57] Неизвестный источник (decrypt): Top Law Firm Admits to AI ‘Hallucination
+[2026-04-23 18:00:57] Неизвестный источник (cnbc): Ceasefire extension, Best Buy's new CEO,
+[2026-04-23 18:00:57] Нет фото: BluSky AI Inc. to Present at the AI & Te
+[2026-04-23 18:00:57] Неизвестный источник (globenewswire): BluSky AI Inc. to Present at the AI & Te
+[2026-04-23 18:00:57] Нет фото: Nightfood Holdings Provides Strategic Gr
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): Commvault brings its full suite of data 
+[2026-04-23 18:00:57] Неизвестный источник (siliconangle news): CrowdStrike brings real-time Cloud Detec
+[2026-04-23 18:00:57] Нет фото: NetApp Partners with Google Cloud to Ado
+[2026-04-23 18:00:57] Неизвестный источник (cisco.com): Energy Will Define the Scale of AI
+[2026-04-23 18:00:57] AI новости: найдено 1 после фильтрации
+[2026-04-23 18:00:59] Обрабатываю: OpenAI teams up with Infosys to bring AI tools to more busin
+[2026-04-23 18:00:59] Попытка 1 для: OpenAI teams up with Infosys to bring AI
+[2026-04-23 18:01:00] Успешно, получено 801 символов
+[2026-04-23 18:01:01] === Блок ai_evening завершён ===
