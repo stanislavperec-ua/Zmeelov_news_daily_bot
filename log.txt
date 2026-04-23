@@ -10387,3 +10387,40 @@ U.S. has violated ceasefire agr
 [2026-04-23 08:03:11] Попытка 1 для: Robot can beat elite players at table te
 [2026-04-23 08:03:13] Успешно, получено 895 символов
 [2026-04-23 08:03:13] === Блок ai_morning завершён ===
+[2026-04-23 11:00:56] Загружено 786 уже отправленных новостей
+[2026-04-23 11:00:56] === Запуск блока: midday ===
+[2026-04-23 11:00:56] Неизвестный источник (nbcnewstools.net): Virginia Redistricting Referendum 2026 L
+[2026-04-23 11:00:56] Пропускаю уже отправленную: DOJ charges Southern Poverty Law Center over paid 
+[2026-04-23 11:00:56] Неизвестный источник (deadline): ‘The Secret Lives Of Mormon Wives’ To Re
+[2026-04-23 11:00:56] Неизвестный источник (the action network): Rockets vs Lakers Prediction, Picks, NBA
+[2026-04-23 11:00:56] Неизвестный источник (cnbc): Judge dismisses Kash Patel's defamation 
+[2026-04-23 11:00:56] Неизвестный источник (space.com): The Nancy Grace Roman Space Telescope, N
+[2026-04-23 11:00:56] Неизвестный источник (rolling stone): Denise Richards Shares Emotional Tribute
+[2026-04-23 11:00:56] Неизвестный источник (motley fool): Trump Says He Expects to Resume Bombing 
+[2026-04-23 11:00:56] Неизвестный источник (windy city gridiron): Aaron Leming’s Full First-Round 2026 Moc
+[2026-04-23 11:00:56] Неизвестный источник (deadline): ‘Michael’ Won’t Stop ‘Til It Gets Enough
+[2026-04-23 11:00:56] Неизвестный источник (yahoo entertainment): Priceless 2,500-year-old golden helmet r
+[2026-04-23 11:00:56] Заблокированный источник (sciencealert): Study of 11,000 US Teens Links Cannabis 
+[2026-04-23 11:00:56] Неизвестный источник (sci.news): Scientists Reconstruct One of Oldest Kno
+[2026-04-23 11:00:56] Неизвестный источник (space.com): Astronauts photograph Lyrid meteor showe
+[2026-04-23 11:00:56] Неизвестный источник (variety): ‘Half Man’ Is ‘Baby Reindeer’ Creator Ri
+[2026-04-23 11:00:56] Старая новость (2026-04-21T11:00:00Z): A drug‑resistant stomach bug is spreadin
+[2026-04-23 11:00:56] Старая новость (2026-04-20T13:00:00Z): Are regional allergy seasons getting wor
+[2026-04-23 11:00:56] Старая новость (2026-04-20T11:00:55Z): After a year of turmoil, cancer research
+[2026-04-23 11:00:56] Мировые новости: найдено 8 после фильтрации
+[2026-04-23 11:00:59] Обрабатываю: Trump extends Iran ceasefire, citing "fractured" Iranian gov
+[2026-04-23 11:00:59] Попытка 1 для: Trump extends Iran ceasefire, citing "fr
+[2026-04-23 11:01:00] Успешно, получено 676 символов
+[2026-04-23 11:01:01] Пауза 60 секунд...
+[2026-04-23 11:02:01] Обрабатываю: SpaceX nears deal with Cursor
+[2026-04-23 11:02:01] Попытка 1 для: SpaceX nears deal with Cursor
+[2026-04-23 11:02:02] Успешно, получено 679 символов
+[2026-04-23 11:02:02] Пауза 60 секунд...
+[2026-04-23 11:03:02] Обрабатываю: ‘The GOP should’ve done more’: Virginia Republicans point fi
+[2026-04-23 11:03:02] Попытка 1 для: ‘The GOP should’ve done more’: Virginia 
+[2026-04-23 11:03:04] Успешно, получено 906 символов
+[2026-04-23 11:03:04] Пауза 60 секунд...
+[2026-04-23 11:04:04] Обрабатываю: Texas can require public schools to display Ten Commandments
+[2026-04-23 11:04:04] Попытка 1 для: Texas can require public schools to disp
+[2026-04-23 11:04:05] Успешно, получено 662 символов
+[2026-04-23 11:04:06] === Блок midday завершён ===
