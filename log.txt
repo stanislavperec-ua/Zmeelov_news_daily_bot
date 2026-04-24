@@ -10528,3 +10528,52 @@ U.S. has violated ceasefire agr
 [2026-04-24 06:05:09] Попытка 1 для: Blockade Busters
 [2026-04-24 06:05:10] Успешно, получено 604 символов
 [2026-04-24 06:05:11] === Блок morning завершён ===
+[2026-04-24 08:00:55] Загружено 797 уже отправленных новостей
+[2026-04-24 08:00:55] === Запуск блока: ai_morning ===
+[2026-04-24 08:00:55] Неизвестный источник (coindesk): OpenAI appears to be poaching Coinbase’s
+[2026-04-24 08:00:55] Неизвестный источник (bitcoinfoundation.org): Litecoin (LTC) Price Prediction 2026: Ca
+[2026-04-24 08:00:55] Нет фото: China’s Factory Hub Faces Gas Price Shoc
+[2026-04-24 08:00:55] Неизвестный источник (businessline): Amazon India to invest over ₹2800 crore 
+[2026-04-24 08:00:55] Нет фото: Samsung workers rally in South Korea, de
+[2026-04-24 08:00:55] Неизвестный источник (www.gov.uk): Frontier technologies: powering the UK’s
+[2026-04-24 08:00:55] Нет фото: Ex-Credit Suisse Team Plans $1 Billion F
+[2026-04-24 08:00:55] Неизвестный источник (abcnews.com): Nuclear energy is having a global reviva
+[2026-04-24 08:00:55] Неизвестный источник (whatjapanthinks.com): Walking the Sacred Sites of the Kii Moun
+[2026-04-24 08:00:55] Неизвестный источник (peoplesreview.com.np): Noted businessmen involved in Deepak Bha
+[2026-04-24 08:00:55] Неизвестный источник (financial post): Five Reasons Global Markets Are Holding 
+[2026-04-24 08:00:55] Неизвестный источник (financial post): 5 reasons global markets are holding up 
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): Salesforce and Google partner on agentic
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): Google Cloud inks AI infrastructure deal
+[2026-04-24 08:00:55] Нет фото: Soil management strategies shape bacteri
+[2026-04-24 08:00:55] Нет фото: Anthropic seeks to debunk Pentagon's cla
+[2026-04-24 08:00:55] Нет фото: Machine learning-driven alignment archit
+[2026-04-24 08:00:55] Неизвестный источник (nlppeople.com): 2026 – AI Research Intern – LLMs
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): ServiceNow’s stock skids as Middle East 
+[2026-04-24 08:00:55] Нет фото: The 2026 NAB Show Wraps with Proof the F
+[2026-04-24 08:00:55] Нет фото: Approximating Hyperbolic Tangent
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): IBM blows past estimates, but declines t
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): Google launches AI research agents power
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): Anthropic investigates unauthorized acce
+[2026-04-24 08:00:55] Неизвестный источник (thewrap): Creatorverse: What to Learn From Khaby L
+[2026-04-24 08:00:55] Неизвестный источник (financial post): Anthropic’s Mythos and AI may need regul
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): Maximizing Gemini: Google Cloud makes it
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): SpaceX partners with Cursor on AI traini
+[2026-04-24 08:00:55] Неизвестный источник (siliconangle news): AWS accelerates AI agent development in 
+[2026-04-24 08:00:55] Неизвестный источник (adweek): At Vox Media, the Roll-Up Era Rewinds
+[2026-04-24 08:00:55] Неизвестный источник (bleepingcomputer): Pretty sure i have RATs... Hope you can 
+[2026-04-24 08:00:55] Неизвестный источник (financial post): Wall Street’s bullish stocks view contra
+[2026-04-24 08:00:55] Неизвестный источник (petapixel): Flickr: The First and Last Great Photo P
+[2026-04-24 08:00:55] Неизвестный источник (globenewswire): AI Adoption Sentiment Surges as March In
+[2026-04-24 08:00:55] AI новости: найдено 5 после фильтрации
+[2026-04-24 08:00:57] Обрабатываю: Amazon India plans to invest Rs 2,800 crore to strengthen op
+[2026-04-24 08:00:57] Попытка 1 для: Amazon India plans to invest Rs 2,800 cr
+[2026-04-24 08:00:58] Успешно, получено 655 символов
+[2026-04-24 08:00:59] Пауза 60 секунд...
+[2026-04-24 08:01:59] Обрабатываю: Skeptical Science New Research for Week #17 2026
+[2026-04-24 08:01:59] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-04-24 08:02:00] Успешно, получено 999 символов
+[2026-04-24 08:02:01] Пауза 60 секунд...
+[2026-04-24 08:03:01] Обрабатываю: IT reworks hiring for GenZ; HCLTech CEO on AI
+[2026-04-24 08:03:01] Попытка 1 для: IT reworks hiring for GenZ; HCLTech CEO 
+[2026-04-24 08:03:02] Успешно, получено 742 символов
+[2026-04-24 08:03:02] === Блок ai_morning завершён ===
