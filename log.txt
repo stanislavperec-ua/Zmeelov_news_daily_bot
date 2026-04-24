@@ -10577,3 +10577,35 @@ U.S. has violated ceasefire agr
 [2026-04-24 08:03:01] Попытка 1 для: IT reworks hiring for GenZ; HCLTech CEO 
 [2026-04-24 08:03:02] Успешно, получено 742 символов
 [2026-04-24 08:03:02] === Блок ai_morning завершён ===
+[2026-04-24 11:00:53] Загружено 800 уже отправленных новостей
+[2026-04-24 11:00:53] === Запуск блока: midday ===
+[2026-04-24 11:00:53] Неизвестный источник (tmz): 'Superman' Production Upsets Atlanta Pri
+[2026-04-24 11:00:53] Заблокированный источник (sciencealert): Personalized Vaccine For 'Deadliest Majo
+[2026-04-24 11:00:53] Неизвестный источник (phillyvoice.com): Flyers crush Penguins, 5-2, in Philly's 
+[2026-04-24 11:00:53] Неизвестный источник (nbcsports.com): Would the Cowboys draft a wide receiver 
+[2026-04-24 11:00:53] Неизвестный источник (pats pulpit): How the Patriots’ draft capital compares
+[2026-04-24 11:00:53] Неизвестный источник (dw (english)): UK, France agree 3‑year deal to curb Cha
+[2026-04-24 11:00:53] Неизвестный источник (electrek): Tesla will build factories just to retro
+[2026-04-24 11:00:53] Неизвестный источник (macrumors): Base Mac Mini Sold Out From Apple Online
+[2026-04-24 11:00:53] Неизвестный источник (phys.org): Classical physics can explain quantum we
+[2026-04-24 11:00:53] Неизвестный источник (goodhousekeeping.com): We Asked Doctors What Allergy Medication
+[2026-04-24 11:00:53] Неизвестный источник (9to5mac): Leaker shares iPhone 18 Pro’s new camera
+[2026-04-24 11:00:53] Старая новость (2026-04-22T09:09:00Z): NASA to create its own Big Bang for Voya
+[2026-04-24 11:00:53] Старая новость (2026-04-22T05:11:12Z): Blue plaque for the woman who unlocked t
+[2026-04-24 11:00:53] Мировые новости: найдено 12 после фильтрации
+[2026-04-24 11:00:56] Обрабатываю: Who is John Phelan the US Navy Secretary fired by Pete Hegse
+[2026-04-24 11:00:56] Попытка 1 для: Who is John Phelan the US Navy Secretary
+[2026-04-24 11:00:57] Успешно, получено 614 символов
+[2026-04-24 11:00:58] Пауза 60 секунд...
+[2026-04-24 11:01:58] Обрабатываю: How TikTok is driving American expats to Southeast Asia
+[2026-04-24 11:01:58] Попытка 1 для: How TikTok is driving American expats to
+[2026-04-24 11:01:59] Успешно, получено 822 символов
+[2026-04-24 11:02:00] Пауза 60 секунд...
+[2026-04-24 11:03:00] Обрабатываю: Tesla earnings rise, but AI expenses add up for Elon Musk
+[2026-04-24 11:03:00] Попытка 1 для: Tesla earnings rise, but AI expenses add
+[2026-04-24 11:03:01] Успешно, получено 872 символов
+[2026-04-24 11:03:02] Пауза 60 секунд...
+[2026-04-24 11:04:02] Обрабатываю: Lebanese journalist Amal Khalil killed in Israeli strike on 
+[2026-04-24 11:04:02] Попытка 1 для: Lebanese journalist Amal Khalil killed i
+[2026-04-24 11:04:03] Успешно, получено 741 символов
+[2026-04-24 11:04:03] === Блок midday завершён ===
