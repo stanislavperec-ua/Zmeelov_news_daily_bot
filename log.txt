@@ -10812,3 +10812,37 @@ U.S. has violated ceasefire agr
 [2026-04-25 08:02:56] Попытка 1 для: PinkyCaMP: an mScarlet-based calcium sen
 [2026-04-25 08:02:57] Успешно, получено 633 символов
 [2026-04-25 08:02:58] === Блок ai_morning завершён ===
+[2026-04-25 11:00:50] Загружено 819 уже отправленных новостей
+[2026-04-25 11:00:50] === Запуск блока: midday ===
+[2026-04-25 11:00:50] Неизвестный источник (the ringer): Mike Vrabel’s Hubris Made Him the Main C
+[2026-04-25 11:00:50] Неизвестный источник (nbcsports.com): Steelers thought they were getting Makai
+[2026-04-25 11:00:50] Неизвестный источник (investing.com): Asia stocks fall as tech losses, oil sur
+[2026-04-25 11:00:50] Неизвестный источник (tvline): Matlock Boss Breaks Down The Finale's We
+[2026-04-25 11:00:50] Неизвестный источник (eonline.com): Jimmy Fallon Apologizes to Survivor’s Ch
+[2026-04-25 11:00:50] Неизвестный источник (deadline): 'The Rocky Horror Show' Broadway Review:
+[2026-04-25 11:00:50] Неизвестный источник (pbs): Judge sets date for evidence against sin
+[2026-04-25 11:00:50] Неизвестный источник (phys.org): Giant octopuses may have ruled the ocean
+[2026-04-25 11:00:50] Неизвестный источник (nola.com): Louisiana GOP passes bill to keep electe
+[2026-04-25 11:00:50] Неизвестный источник (gizmodo.com): Your Late Night Snacking Isn’t Doing You
+[2026-04-25 11:00:50] Неизвестный источник (nasa): NASA Welcomes Jordan as 63rd Artemis Acc
+[2026-04-25 11:00:50] Неизвестный источник (space.com): Interstellar invader comet 3I/ATLAS form
+[2026-04-25 11:00:50] Неизвестный источник (gothamist): NJ warns of possible measles exposures a
+[2026-04-25 11:00:50] Старая новость (2026-04-23T10:05:19Z): Android 17 isn't out yet, but Google is 
+[2026-04-25 11:00:50] Старая новость (2026-04-23T02:24:58Z): Personalized Vaccine For 'Deadliest Majo
+[2026-04-25 11:00:50] Мировые новости: найдено 15 после фильтрации
+[2026-04-25 11:00:53] Обрабатываю: China’s DeepSeek Launches Long-Awaited AI Model
+[2026-04-25 11:00:53] Попытка 1 для: China’s DeepSeek Launches Long-Awaited A
+[2026-04-25 11:00:54] Успешно, получено 855 символов
+[2026-04-25 11:00:55] Пауза 60 секунд...
+[2026-04-25 11:01:55] Обрабатываю: U.S. special forces soldier arrested over Polymarket bets on
+[2026-04-25 11:01:55] Попытка 1 для: U.S. special forces soldier arrested ove
+[2026-04-25 11:01:56] Успешно, получено 927 символов
+[2026-04-25 11:01:57] Пауза 60 секунд...
+[2026-04-25 11:02:57] Обрабатываю: Pope urges US and Iran to return to peace talks and condemns
+[2026-04-25 11:02:57] Попытка 1 для: Pope urges US and Iran to return to peac
+[2026-04-25 11:02:58] Успешно, получено 630 символов
+[2026-04-25 11:02:58] Пауза 60 секунд...
+[2026-04-25 11:03:58] Обрабатываю: Live Updates: Israel-Lebanon ceasefire extended by 3 weeks f
+[2026-04-25 11:03:58] Попытка 1 для: Live Updates: Israel-Lebanon ceasefire e
+[2026-04-25 11:03:59] Успешно, получено 933 символов
+[2026-04-25 11:04:00] === Блок midday завершён ===
