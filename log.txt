@@ -10763,3 +10763,52 @@ U.S. has violated ceasefire agr
 [2026-04-25 06:05:03] Попытка 1 для: Daniel Flynn: Why the €90bn EU loan thro
 [2026-04-25 06:05:04] Успешно, получено 881 символов
 [2026-04-25 06:05:04] === Блок morning завершён ===
+[2026-04-25 08:00:50] Загружено 816 уже отправленных новостей
+[2026-04-25 08:00:50] === Запуск блока: ai_morning ===
+[2026-04-25 08:00:50] Неизвестный источник (globenewswire): BDC Launches LIFT: Getting Canadian SMEs
+[2026-04-25 08:00:50] Нет фото: China's DeepSeek rolls out a long-antici
+[2026-04-25 08:00:50] Нет фото: Holcim Profit Gains on Firm Demand for S
+[2026-04-25 08:00:50] Неизвестный источник (next big future): Multi-Tbps Quad Band Starlink Satellite 
+[2026-04-25 08:00:50] Неизвестный источник (smallwarsjournal.com): Stop Chasing the Shiny Object: Focus Fir
+[2026-04-25 08:00:50] Заблокированный источник (naturalnews.com): AI ALERT: The Silicon Valley Mechanists 
+[2026-04-25 08:00:50] Нет фото: Amazon-Backed Nuclear Firm X-Energy Rais
+[2026-04-25 08:00:50] Нет фото: Warburg Pincus-Backed PDG Is Said to Tap
+[2026-04-25 08:00:50] Неизвестный источник (c-sharpcorner.com): Will AI Replace Cybersecurity Engineers?
+[2026-04-25 08:00:50] Неизвестный источник (globenewswire): Telia Lietuva results for 3 months of 20
+[2026-04-25 08:00:50] Неизвестный источник (c-sharpcorner.com): How AI is Changing Cybersecurity: A Deve
+[2026-04-25 08:00:50] Неизвестный источник (cnbc): Alibaba’s Qwen AI is coming to cars, all
+[2026-04-25 08:00:50] Неизвестный источник (dw (english)): Meta, Microsoft purge jobs amid AI build
+[2026-04-25 08:00:50] Неизвестный источник (christiantoday.com): The media mandate: How wise use of commu
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): Cognition, creator of the AI software en
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): Software artifact management startup Clo
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): SAP posts solid earnings results to shru
+[2026-04-25 08:00:50] Неизвестный источник (motley fool australia): 3 amazing ASX growth shares that continu
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): Intel crushes Wall Street’s expectations
+[2026-04-25 08:00:50] Неизвестный источник (ocregister): Meta slashes 8,000 jobs, or 10% of its w
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): CrowdStrike launches Project QuiltWorks 
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): Cyera acquires Ryft to give enterprises 
+[2026-04-25 08:00:50] Нет фото: Supramolecular network-based artificial 
+[2026-04-25 08:00:50] Нет фото: Trump administration vows crackdown on C
+[2026-04-25 08:00:50] Неизвестный источник (siliconangle news): Meta cuts 10% of staff, cancels 6,000 op
+[2026-04-25 08:00:50] Нет фото: Meta slashes 8,000 jobs, or 10% of its w
+[2026-04-25 08:00:50] Неизвестный источник (cointelegraph): Spot ETH ETF inflows hit 10-day streak: 
+[2026-04-25 08:00:50] Неизвестный источник (bitcoinfoundation.org): Top 5 Richest Crypto Billionaires in 202
+[2026-04-25 08:00:50] Неизвестный источник (bitcoinfoundation.org): Who Is Robert Kiyosaki? And Why His Bitc
+[2026-04-25 08:00:50] Неизвестный источник (globenewswire): Mawson Infrastructure Group Inc. Becomes
+[2026-04-25 08:00:50] Неизвестный источник (globenewswire): Digital Realty Reports First Quarter 202
+[2026-04-25 08:00:50] Неизвестный источник (financial post): Canadian Entrepreneur Yanik Guillemette 
+[2026-04-25 08:00:50] Неизвестный источник (abcnews.com): Meta to slash 8,000 jobs as Microsoft of
+[2026-04-25 08:00:50] Внутренний дубль: Intel earnings signal recovery at US chip maker
+[2026-04-25 08:00:50] AI новости: найдено 6 после фильтрации
+[2026-04-25 08:00:53] Обрабатываю: BayCom Corp Reports 2026 First Quarter Earnings of $8.2 Mill
+[2026-04-25 08:00:53] Попытка 1 для: BayCom Corp Reports 2026 First Quarter E
+[2026-04-25 08:00:54] Успешно, получено 643 символов
+[2026-04-25 08:00:54] Пауза 60 секунд...
+[2026-04-25 08:01:54] Обрабатываю: Intel earnings signal recovery at US chip maker
+[2026-04-25 08:01:54] Попытка 1 для: Intel earnings signal recovery at US chi
+[2026-04-25 08:01:55] Успешно, получено 782 символов
+[2026-04-25 08:01:56] Пауза 60 секунд...
+[2026-04-25 08:02:56] Обрабатываю: PinkyCaMP: an mScarlet-based calcium sensor with enhanced br
+[2026-04-25 08:02:56] Попытка 1 для: PinkyCaMP: an mScarlet-based calcium sen
+[2026-04-25 08:02:57] Успешно, получено 633 символов
+[2026-04-25 08:02:58] === Блок ai_morning завершён ===
