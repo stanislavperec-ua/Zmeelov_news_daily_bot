@@ -10959,3 +10959,61 @@ U.S. has violated ceasefire agr
 [2026-04-25 18:02:58] Попытка 1 для: Did Iran just destroy a US-Israel ‘weath
 [2026-04-25 18:02:59] Успешно, получено 822 символов
 [2026-04-25 18:03:00] === Блок ai_evening завершён ===
+[2026-04-26 06:00:50] Загружено 831 уже отправленных новостей
+[2026-04-26 06:00:50] === Запуск блока: morning ===
+[2026-04-26 06:00:50] Неизвестный источник (pff.com): 2026 NFL Draft: Steals and reaches from 
+[2026-04-26 06:00:50] Неизвестный источник (nbcsports.com): Jonathan Greenard made appearance at Six
+[2026-04-26 06:00:50] Неизвестный источник (heat.com): Live Updates: Lakers-Rockets battle in G
+[2026-04-26 06:00:50] Неизвестный источник (arizona sports): Cardinals draft Miami QB Carson Beck at 
+[2026-04-26 06:00:50] Неизвестный источник (hollywood reporter): Helena Bonham Carter Exits ‘The White Lo
+[2026-04-26 06:00:50] Неизвестный источник (the philadelphia inquirer): Eagles select Vanderbilt tight end Eli S
+[2026-04-26 06:00:50] Неизвестный источник (variety): iHeartRadio and SiriusXM in Early Merger
+[2026-04-26 06:00:50] Неизвестный источник (hollywood reporter): As ‘Michael’ Opens, ‘Leaving Neverland’ 
+[2026-04-26 06:00:50] Неизвестный источник (globemagazine.com): ‘Storage Wars’ Star Darrell Sheets Filed
+[2026-04-26 06:00:50] Неизвестный источник (investopedia): Markets News, April 24, 2026: Nasdaq, S&
+[2026-04-26 06:00:50] Неизвестный источник (9to5mac): Apple Wallet’s new Digital ID feature ju
+[2026-04-26 06:00:50] Неизвестный источник (alaskabeacon.com): Scientists identify mysterious ‘golden o
+[2026-04-26 06:00:50] Неизвестный источник (business insider): Meta Employees React to Pending Job Cuts
+[2026-04-26 06:00:50] Неизвестный источник (9to5mac): iOS 26.5 will add new features to three 
+[2026-04-26 06:00:50] Неизвестный источник (space.com): Hubble Telescope celebrates 36th anniver
+[2026-04-26 06:00:50] Старая новость (2026-04-23T16:52:59Z): US health officials nix publication of a
+[2026-04-26 06:00:50] Старая новость (2026-04-23T06:46:53Z): Simple “gut reset” may stop weight gain 
+[2026-04-26 06:00:50] Мировые новости: найдено 13 после фильтрации
+[2026-04-26 06:00:50] Заблокированный источник (naturalnews.com): Trump Extends Jones Act Waiver for 90 Da
+[2026-04-26 06:00:50] Заблокированный источник (rt): Chernobyl 2.0: Here’s where nuclear disa
+[2026-04-26 06:00:50] Нет фото: News Summary-Intelligence Report 4/24/20
+[2026-04-26 06:00:50] Нет фото: 40 years after nuclear disaster and evac
+[2026-04-26 06:00:50] Нет фото: Ukraine Is Europe’s War Now
+[2026-04-26 06:00:50] Заблокированный источник (rt): Starvation scandal rocks corruption-plag
+[2026-04-26 06:00:50] Заблокированный источник (rt): EU made ‘big strategic mistake’ on Russi
+[2026-04-26 06:00:50] Нет фото: Ukraine, Russia swap 193 prisoners of wa
+[2026-04-26 06:00:50] Нет фото: Putin may attend G20 summit in Miami aft
+[2026-04-26 06:00:50] Украинские новости: найдено 4 после фильтрации
+[2026-04-26 06:00:51] Харьков: найдена новость — The Crossroads of Europe
+[2026-04-26 06:00:53] Обрабатываю: OpenAI CEO Sam Altman "deeply sorry" for failing to alert la
+[2026-04-26 06:00:53] Попытка 1 для: OpenAI CEO Sam Altman "deeply sorry" for
+[2026-04-26 06:00:54] Успешно, получено 774 символов
+[2026-04-26 06:00:54] Пауза 60 секунд...
+[2026-04-26 06:01:54] Обрабатываю: Justice Department to allow firing squads for executions in 
+[2026-04-26 06:01:54] Попытка 1 для: Justice Department to allow firing squad
+[2026-04-26 06:01:55] Успешно, получено 748 символов
+[2026-04-26 06:01:56] Пауза 60 секунд...
+[2026-04-26 06:02:56] Обрабатываю: Live Updates: Witkoff, Kushner to head to new Iran peace tal
+[2026-04-26 06:02:56] Попытка 1 для: Live Updates: Witkoff, Kushner to head t
+[2026-04-26 06:02:57] Успешно, получено 830 символов
+[2026-04-26 06:02:57] Пауза 60 секунд...
+[2026-04-26 06:03:57] Обрабатываю: Voter ID measure qualifies for the California ballot
+[2026-04-26 06:03:57] Попытка 1 для: Voter ID measure qualifies for the Calif
+[2026-04-26 06:03:58] Успешно, получено 668 символов
+[2026-04-26 06:04:01] Обрабатываю: 'Animals are traumatised too': Pet rescuers under fire in Uk
+[2026-04-26 06:04:01] Попытка 1 для: 'Animals are traumatised too': Pet rescu
+[2026-04-26 06:04:02] Успешно, получено 566 символов
+[2026-04-26 06:04:02] Пауза 60 секунд...
+[2026-04-26 06:05:02] Обрабатываю: Why the EU's $106 billion wartime loan is a vital lifeline f
+[2026-04-26 06:05:02] Попытка 1 для: Why the EU's $106 billion wartime loan i
+[2026-04-26 06:05:04] Успешно, получено 1148 символов
+[2026-04-26 06:05:04] Пауза 60 секунд...
+[2026-04-26 06:06:04] Обрабатываю: The Crossroads of Europe
+[2026-04-26 06:06:04] Попытка 1 для: The Crossroads of Europe
+[2026-04-26 06:06:05] Успешно, получено 532 символов
+[2026-04-26 06:06:05] === Блок morning завершён ===
