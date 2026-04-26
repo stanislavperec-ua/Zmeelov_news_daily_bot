@@ -11017,3 +11017,53 @@ U.S. has violated ceasefire agr
 [2026-04-26 06:06:04] Попытка 1 для: The Crossroads of Europe
 [2026-04-26 06:06:05] Успешно, получено 532 символов
 [2026-04-26 06:06:05] === Блок morning завершён ===
+[2026-04-26 08:00:52] Загружено 837 уже отправленных новостей
+[2026-04-26 08:00:52] === Запуск блока: ai_morning ===
+[2026-04-26 08:00:52] Неизвестный источник (hurriyet daily news): A table is never just a table
+[2026-04-26 08:00:52] Неизвестный источник (dailymail.com): Worrying graphic has experts petrified t
+[2026-04-26 08:00:52] Неизвестный источник (vanguard): U.S. embassy signs MOU with Ilorin Innov
+[2026-04-26 08:00:52] Неизвестный источник (substack.com): Show HN: Building a local FIX protocol t
+[2026-04-26 08:00:52] Неизвестный источник (siliconangle news): AI startups Cohere, Aleph Alpha to merge
+[2026-04-26 08:00:52] Нет фото: Data-driven climatic zoning and future t
+[2026-04-26 08:00:52] Неизвестный источник (siliconangle news): AWS inks multibillion-dollar AI infrastr
+[2026-04-26 08:00:52] Неизвестный источник (the punch): NCC unveils internet roadmap, targets 30
+[2026-04-26 08:00:52] Неизвестный источник (siliconangle news): Geopolitical pressures and AI initiative
+[2026-04-26 08:00:52] Неизвестный источник (financial post): News of the day: Cohere AI merger, highe
+[2026-04-26 08:00:52] Неизвестный источник (financial post): Nvidia breakout sends chip giant to firs
+[2026-04-26 08:00:52] Неизвестный источник (siliconangle news): DeepSeek open-sources V4 large language 
+[2026-04-26 08:00:52] Неизвестный источник (pymnts.com): Banks Can’t Outsource Judgment to Algori
+[2026-04-26 08:00:52] Неизвестный источник (biomedwire.com): Cardio Diagnostics Holdings Inc. (NASDAQ
+[2026-04-26 08:00:52] Неизвестный источник (globenewswire): Alpha Compute Corp. Updates on GAMEE Acq
+[2026-04-26 08:00:52] Неизвестный источник (pbs): More countries are turning to nuclear po
+[2026-04-26 08:00:52] Нет фото: volnix 0.2.0
+[2026-04-26 08:00:52] Неизвестный источник (yahoo entertainment): Is Marvell Technology, Inc. (MRVL) A Goo
+[2026-04-26 08:00:52] Заблокированный источник (breitbart news): White House Accuses China of ‘Deliberate
+[2026-04-26 08:00:52] Неизвестный источник (siliconangle news): Intercom’s customer service agent takes 
+[2026-04-26 08:00:52] Нет фото: PhraseExpress 18.0.69
+[2026-04-26 08:00:52] Неизвестный источник (decrypt): DeepSeek V4 Is Here—Its Pro Version Cost
+[2026-04-26 08:00:52] Неизвестный источник (screen rant): How The Watch Dogs Movie Adapts The Hit 
+[2026-04-26 08:00:52] Нет фото: Amazon-Backed X-Energy Climbs 31% After 
+[2026-04-26 08:00:52] Неизвестный источник (pypi.org): neurochimera added to PyPI
+[2026-04-26 08:00:52] Неизвестный источник (financial post): Nasdaq 100 heads for record after Intel’
+[2026-04-26 08:00:52] Неизвестный источник (gamesindustry.biz): Tools to tell if your game is broken
+[2026-04-26 08:00:52] Неизвестный источник (financial post): Google plans to invest up to US$40 billi
+[2026-04-26 08:00:52] Нет фото: AI smart glasses will help visually impa
+[2026-04-26 08:00:52] Нет фото: Roku and Samsung continue leading the co
+[2026-04-26 08:00:52] Нет фото: XRP To $500? Engineer Points To AI Model
+[2026-04-26 08:00:52] Неизвестный источник (pr newswire uk): KSA IoT Market worth $4.33 billion by 20
+[2026-04-26 08:00:52] Неизвестный источник (globenewswire): Alpha Compute Corp. Provides GAMEE Acqui
+[2026-04-26 08:00:52] Неизвестный источник (mynation.com): Surfin Meta Bharat Strengthens Odisha’s 
+[2026-04-26 08:00:52] Пропускаю уже отправленную: Transcarent Expands WayFinding™ Platform with Smit
+[2026-04-26 08:00:52] AI новости: найдено 4 после фильтрации
+[2026-04-26 08:00:55] Обрабатываю: Explained | Why Anthropic’s Mythos is spooking bankers and w
+[2026-04-26 08:00:55] Попытка 1 для: Explained | Why Anthropic’s Mythos is sp
+[2026-04-26 08:00:56] Успешно, получено 860 символов
+[2026-04-26 08:00:56] Пауза 60 секунд...
+[2026-04-26 08:01:56] Обрабатываю: Kazakhstan’s digital leap: How Central Asia’s tech hub is sh
+[2026-04-26 08:01:56] Попытка 1 для: Kazakhstan’s digital leap: How Central A
+[2026-04-26 08:01:57] Успешно, получено 616 символов
+[2026-04-26 08:01:58] Пауза 60 секунд...
+[2026-04-26 08:02:58] Обрабатываю: Google's $15 billion data centre in Vizag to host 5-GW capac
+[2026-04-26 08:02:58] Попытка 1 для: Google's $15 billion data centre in Viza
+[2026-04-26 08:02:59] Успешно, получено 635 символов
+[2026-04-26 08:02:59] === Блок ai_morning завершён ===
