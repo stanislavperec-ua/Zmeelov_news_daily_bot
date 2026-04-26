@@ -11067,3 +11067,38 @@ U.S. has violated ceasefire agr
 [2026-04-26 08:02:58] Попытка 1 для: Google's $15 billion data centre in Viza
 [2026-04-26 08:02:59] Успешно, получено 635 символов
 [2026-04-26 08:02:59] === Блок ai_morning завершён ===
+[2026-04-26 11:00:50] Загружено 840 уже отправленных новостей
+[2026-04-26 11:00:50] === Запуск блока: midday ===
+[2026-04-26 11:00:50] Неизвестный источник (pff.com): 2026 NFL Draft: Steals and reaches from 
+[2026-04-26 11:00:50] Неизвестный источник (nbcsports.com): Jonathan Greenard made appearance at Six
+[2026-04-26 11:00:50] Неизвестный источник (arizona sports): Reactions to Cardinals drafting Carson B
+[2026-04-26 11:00:50] Неизвестный источник (heat.com): Live Updates: Lakers-Rockets battle in G
+[2026-04-26 11:00:50] Неизвестный источник (hollywood reporter): Noah Kahan Surprise Drops ‘The Great Div
+[2026-04-26 11:00:50] Неизвестный источник (the philadelphia inquirer): Eagles select Vanderbilt tight end Eli S
+[2026-04-26 11:00:50] Неизвестный источник (vulture): The Cascio Siblings Accuse Michael Jacks
+[2026-04-26 11:00:50] Неизвестный источник (ksl.com): Utah measles cases decreased over past 3
+[2026-04-26 11:00:50] Неизвестный источник (globemagazine.com): ‘Storage Wars’ Star Darrell Sheets Filed
+[2026-04-26 11:00:50] Неизвестный источник (investopedia): Markets News, April 24, 2026: Nasdaq, S&
+[2026-04-26 11:00:50] Неизвестный источник (alaskabeacon.com): Scientists identify mysterious ‘golden o
+[2026-04-26 11:00:50] Неизвестный источник (9to5mac): iOS 26.5 will add new features to three 
+[2026-04-26 11:00:50] Неизвестный источник (space.com): Hubble Telescope celebrates 36th anniver
+[2026-04-26 11:00:50] Старая новость (2026-04-24T10:00:19Z): Pokémon Scarlet & Violet Free Download O
+[2026-04-26 11:00:50] Старая новость (2026-04-23T21:05:00Z): Eugene Braunwald, ‘Icon’ of Modern Cardi
+[2026-04-26 11:00:50] Старая новость (2026-04-23T16:52:59Z): US health officials nix publication of a
+[2026-04-26 11:00:50] Мировые новости: найдено 11 после фильтрации
+[2026-04-26 11:00:53] Обрабатываю: Iran talks to resume this weekend without Vance
+[2026-04-26 11:00:53] Попытка 1 для: Iran talks to resume this weekend withou
+[2026-04-26 11:00:54] Успешно, получено 666 символов
+[2026-04-26 11:00:54] Пауза 60 секунд...
+[2026-04-26 11:01:54] Обрабатываю: Justice Department to allow firing squads for executions in 
+[2026-04-26 11:01:54] Попытка 1 для: Justice Department to allow firing squad
+[2026-04-26 11:01:55] Успешно, получено 689 символов
+[2026-04-26 11:01:55] Пауза 60 секунд...
+[2026-04-26 11:02:55] Обрабатываю: OpenAI’s Sam Altman apologises over failure to report Canadi
+[2026-04-26 11:02:55] Попытка 1 для: OpenAI’s Sam Altman apologises over fail
+[2026-04-26 11:02:56] Успешно, получено 689 символов
+[2026-04-26 11:02:57] Пауза 60 секунд...
+[2026-04-26 11:03:57] Обрабатываю: Live Updates: Witkoff, Kushner to head to new Iran peace tal
+[2026-04-26 11:03:57] Попытка 1 для: Live Updates: Witkoff, Kushner to head t
+[2026-04-26 11:03:58] Успешно, получено 679 символов
+[2026-04-26 11:03:59] === Блок midday завершён ===
