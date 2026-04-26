@@ -11171,3 +11171,46 @@ U.S. has violated ceasefire agr
 [2026-04-26 16:06:05] Попытка 1 для: Dancing with the Polovtsians
 [2026-04-26 16:06:06] Успешно, получено 758 символов
 [2026-04-26 16:06:07] === Блок evening завершён ===
+[2026-04-26 18:00:48] Загружено 849 уже отправленных новостей
+[2026-04-26 18:00:48] === Запуск блока: ai_evening ===
+[2026-04-26 18:00:49] Неизвестный источник (siliconangle news): Experian takes consumer financial guidan
+[2026-04-26 18:00:49] Неизвестный источник (digitalagencynetwork.com): Maximizing Domain Authority With a Link 
+[2026-04-26 18:00:49] Неизвестный источник (insideclimate news): Trump Admin Weakens Air Standards While 
+[2026-04-26 18:00:49] Неизвестный источник (national post): Kraken-like giant octopus ruled the seas
+[2026-04-26 18:00:49] Неизвестный источник (financial post): Charting the Global Economy: Euro Area B
+[2026-04-26 18:00:49] Неизвестный источник (yahoo entertainment): North Korean IT workers are stealing rem
+[2026-04-26 18:00:49] Неизвестный источник (fortune): North Korean IT workers are stealing rem
+[2026-04-26 18:00:49] Неизвестный источник (the punch): FG, Oyo lawmaker empower 210 youths with
+[2026-04-26 18:00:49] Неизвестный источник (geeky gadgets): At the 2026 AGIBOT Conference: Embodied 
+[2026-04-26 18:00:49] Неизвестный источник (hurriyet daily news): A table is never just a table
+[2026-04-26 18:00:49] Неизвестный источник (dailymail.com): Worrying graphic has experts petrified t
+[2026-04-26 18:00:49] Неизвестный источник (vanguard): U.S. embassy signs MOU with Ilorin Innov
+[2026-04-26 18:00:49] Неизвестный источник (substack.com): Show HN: Building a local FIX protocol t
+[2026-04-26 18:00:49] Неизвестный источник (siliconangle news): AI startups Cohere, Aleph Alpha to merge
+[2026-04-26 18:00:49] Нет фото: Data-driven climatic zoning and future t
+[2026-04-26 18:00:49] Неизвестный источник (siliconangle news): AWS inks multibillion-dollar AI infrastr
+[2026-04-26 18:00:49] Неизвестный источник (the punch): NCC unveils internet roadmap, targets 30
+[2026-04-26 18:00:49] Неизвестный источник (siliconangle news): Geopolitical pressures and AI initiative
+[2026-04-26 18:00:49] Неизвестный источник (financial post): News of the day: Cohere AI merger, highe
+[2026-04-26 18:00:49] Неизвестный источник (financial post): Nvidia breakout sends chip giant to firs
+[2026-04-26 18:00:49] Неизвестный источник (siliconangle news): DeepSeek open-sources V4 large language 
+[2026-04-26 18:00:49] Неизвестный источник (pymnts.com): Banks Can’t Outsource Judgment to Algori
+[2026-04-26 18:00:49] Неизвестный источник (biomedwire.com): Cardio Diagnostics Holdings Inc. (NASDAQ
+[2026-04-26 18:00:49] Неизвестный источник (globenewswire): Alpha Compute Corp. Updates on GAMEE Acq
+[2026-04-26 18:00:49] Неизвестный источник (pbs): More countries are turning to nuclear po
+[2026-04-26 18:00:49] Нет фото: volnix 0.2.0
+[2026-04-26 18:00:49] Неизвестный источник (yahoo entertainment): Is Marvell Technology, Inc. (MRVL) A Goo
+[2026-04-26 18:00:49] Заблокированный источник (breitbart news): White House Accuses China of ‘Deliberate
+[2026-04-26 18:00:49] AI новости: найдено 5 после фильтрации
+[2026-04-26 18:00:51] Обрабатываю: Why Tokyo is the most important tech destination of 2026 | T
+[2026-04-26 18:00:51] Попытка 1 для: Why Tokyo is the most important tech des
+[2026-04-26 18:00:52] Успешно, получено 834 символов
+[2026-04-26 18:00:52] Пауза 60 секунд...
+[2026-04-26 18:01:52] Обрабатываю: Explained | Why Anthropic’s Mythos is spooking bankers and w
+[2026-04-26 18:01:52] Попытка 1 для: Explained | Why Anthropic’s Mythos is sp
+[2026-04-26 18:01:54] Успешно, получено 907 символов
+[2026-04-26 18:01:54] Пауза 60 секунд...
+[2026-04-26 18:02:54] Обрабатываю: Kazakhstan’s digital leap: How Central Asia’s tech hub is sh
+[2026-04-26 18:02:54] Попытка 1 для: Kazakhstan’s digital leap: How Central A
+[2026-04-26 18:02:55] Успешно, получено 730 символов
+[2026-04-26 18:02:55] === Блок ai_evening завершён ===
