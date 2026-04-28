@@ -11432,3 +11432,53 @@ U.S. has violated ceasefire agr
 [2026-04-27 18:03:02] Попытка 1 для: Trump’s Golden Dome plan under pressure 
 [2026-04-27 18:03:03] Успешно, получено 890 символов
 [2026-04-27 18:03:04] === Блок ai_evening завершён ===
+[2026-04-28 06:00:58] Загружено 868 уже отправленных новостей
+[2026-04-28 06:00:58] === Запуск блока: morning ===
+[2026-04-28 06:00:58] Неизвестный источник (hollywood reporter): Pedro Pascal Fights Back Tears During ‘M
+[2026-04-28 06:00:58] Неизвестный источник (golf channel): Fitzpatrick brothers’ exciting, emotiona
+[2026-04-28 06:00:58] Неизвестный источник (heat.com): 4 takeaways: Victor Wembanyama returns a
+[2026-04-28 06:00:58] Неизвестный источник (openai.com): Our Principles - OpenAI
+[2026-04-28 06:00:58] Неизвестный источник (earth.com): Scientists identify the main cause of su
+[2026-04-28 06:00:58] Неизвестный источник (pbs): At least 2 dead after tornadoes destroy 
+[2026-04-28 06:00:58] Неизвестный источник (masslive.com): Joe Mazzulla makes heartfelt admission a
+[2026-04-28 06:00:58] Неизвестный источник (hollywood reporter): Bravo Wraps Leaked 'Summer House' Reunio
+[2026-04-28 06:00:58] Неизвестный источник (fox sports): 2026 NFL Draft Grades: Analyzing All 32 
+[2026-04-28 06:00:58] Неизвестный источник (pbs): Malian defense minister killed in attack
+[2026-04-28 06:00:58] Неизвестный источник (space.com): SpaceX launching powerful Falcon Heavy r
+[2026-04-28 06:00:58] Неизвестный источник (the daily galaxy --great discoveries channel): Russia Sends 3 Tons Of Supplies To The I
+[2026-04-28 06:00:58] Неизвестный источник (gamingbible.com): New Valve Hardware Given Pricing Update,
+[2026-04-28 06:00:58] Неизвестный источник (san francisco chronicle): ALS took his voice. A brain implant help
+[2026-04-28 06:00:58] Неизвестный источник (forbes): The Full ‘Flower Moon’ Is Coming — When 
+[2026-04-28 06:00:58] Старая новость (2026-04-25T15:31:11Z): 'This Feels Like Nothing Else Out There'
+[2026-04-28 06:00:58] Старая новость (2026-04-25T13:38:00Z): Turtle Beach launches $160 wireless mous
+[2026-04-28 06:00:58] Мировые новости: найдено 15 после фильтрации
+[2026-04-28 06:00:58] Заблокированный источник (naturalnews.com): Kremlin says Europe uses Russia as âmo
+[2026-04-28 06:00:58] Заблокированный источник (sputnikglobe.com): Malian Defense Minister Killed in Terror
+[2026-04-28 06:00:58] Нет фото: At least 16 dead in strikes across Ukrai
+[2026-04-28 06:00:58] Нет фото: Global military spending rises 2.9%
+[2026-04-28 06:00:58] Украинские новости: найдено 3 после фильтрации
+[2026-04-28 06:00:59] Нет фото: Deadly Russian Strikes Pound Ukraine's D
+[2026-04-28 06:00:59] Харьков: новостей не найдено
+[2026-04-28 06:01:01] Обрабатываю: Human remains found in search for missing University of Sout
+[2026-04-28 06:01:01] Попытка 1 для: Human remains found in search for missin
+[2026-04-28 06:01:02] Успешно, получено 514 символов
+[2026-04-28 06:01:03] Пауза 60 секунд...
+[2026-04-28 06:02:03] Обрабатываю: US Budget Airlines Demand $2.5 Billion In Government Assista
+[2026-04-28 06:02:03] Попытка 1 для: US Budget Airlines Demand $2.5 Billion I
+[2026-04-28 06:02:04] Успешно, получено 902 символов
+[2026-04-28 06:02:04] Пауза 60 секунд...
+[2026-04-28 06:03:04] Обрабатываю: Correspondents’ dinner shooting suspect called himself ‘frie
+[2026-04-28 06:03:04] Попытка 1 для: Correspondents’ dinner shooting suspect 
+[2026-04-28 06:03:05] Успешно, получено 672 символов
+[2026-04-28 06:03:06] Пауза 60 секунд...
+[2026-04-28 06:04:06] Обрабатываю: Future of White House Correspondents' Dinner in limbo
+[2026-04-28 06:04:06] Попытка 1 для: Future of White House Correspondents' Di
+[2026-04-28 06:04:07] Успешно, получено 535 символов
+[2026-04-28 06:04:10] Обрабатываю: Ukraine marks 40 years since Chernobyl disaster with warning
+[2026-04-28 06:04:10] Попытка 1 для: Ukraine marks 40 years since Chernobyl d
+[2026-04-28 06:04:11] Успешно, получено 1110 символов
+[2026-04-28 06:04:12] Пауза 60 секунд...
+[2026-04-28 06:05:12] Обрабатываю: North Korea’s Kim reaffirms support for Russia’s ‘sacred’ Uk
+[2026-04-28 06:05:12] Попытка 1 для: North Korea’s Kim reaffirms support for 
+[2026-04-28 06:05:13] Успешно, получено 698 символов
+[2026-04-28 06:05:15] === Блок morning завершён ===
