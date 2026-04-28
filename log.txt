@@ -11521,3 +11521,42 @@ U.S. has violated ceasefire agr
 [2026-04-28 08:03:00] Попытка 1 для: Trump’s Golden Dome plan under pressure 
 [2026-04-28 08:03:01] Успешно, получено 635 символов
 [2026-04-28 08:03:02] === Блок ai_morning завершён ===
+[2026-04-28 11:00:55] Загружено 875 уже отправленных новостей
+[2026-04-28 11:00:55] === Запуск блока: midday ===
+[2026-04-28 11:00:55] Неизвестный источник (wccftech): OpenAI Building A Custom Smartphone Proc
+[2026-04-28 11:00:55] Неизвестный источник (variety): 'The Lost Boys' Broadway Review: Vampire
+[2026-04-28 11:00:55] Неизвестный источник (dw (english)): Russia, North Korea agree 'long-term' mi
+[2026-04-28 11:00:55] Нет фото: Human Remains Recovered In Pinellas Coun
+[2026-04-28 11:00:55] Неизвестный источник (the boston globe): Connelly Early solid as Red Sox win firs
+[2026-04-28 11:00:55] Неизвестный источник (blazer's edge): Trail Blazers Setting Wrong Records Agai
+[2026-04-28 11:00:55] Неизвестный источник (pbs): At least 2 dead after tornadoes destroy 
+[2026-04-28 11:00:55] Неизвестный источник (nbcsports.com): 2026 Chevron Championship ends with a Ne
+[2026-04-28 11:00:55] Неизвестный источник (marketwatch): Wall Street’s Super Bowl Wednesday: Alph
+[2026-04-28 11:00:55] Неизвестный источник (pbs): Malian defense minister killed in attack
+[2026-04-28 11:00:55] Неизвестный источник (dexerto): Viral browser app forces you to stop scr
+[2026-04-28 11:00:55] Неизвестный источник (earth.com): Doctors just updated the cholesterol num
+[2026-04-28 11:00:55] Неизвестный источник (phys.org): Two blazing quasars caught waltzing into
+[2026-04-28 11:00:55] Неизвестный источник (space.com): SpaceX launching powerful Falcon Heavy r
+[2026-04-28 11:00:55] Неизвестный источник (fortune): Iran's foreign minister returns to Pakis
+[2026-04-28 11:00:55] Старая новость (2026-04-26T10:32:12Z): Guest column | I study wearable health d
+[2026-04-28 11:00:55] Старая новость (2026-04-26T10:00:00Z): Hubble revisits stunning Trifid Nebula a
+[2026-04-28 11:00:55] Старая новость (2026-04-26T04:02:00Z): US Fed set to hold rates steady again on
+[2026-04-28 11:00:55] Старая новость (2026-04-25T22:29:54Z): Russia launches 3 tons of cargo to the I
+[2026-04-28 11:00:55] Старая новость (2026-04-25T13:38:00Z): Turtle Beach launches $160 wireless mous
+[2026-04-28 11:00:55] Мировые новости: найдено 11 после фильтрации
+[2026-04-28 11:00:58] Обрабатываю: Column | I’m a gastroenterologist. Here are the IBS treatmen
+[2026-04-28 11:00:58] Попытка 1 для: Column | I’m a gastroenterologist. Here 
+[2026-04-28 11:00:59] Успешно, получено 836 символов
+[2026-04-28 11:00:59] Пауза 60 секунд...
+[2026-04-28 11:01:59] Обрабатываю: Weijia Jiang: I was on stage last night with the president. 
+[2026-04-28 11:01:59] Попытка 1 для: Weijia Jiang: I was on stage last night 
+[2026-04-28 11:02:00] Успешно, получено 479 символов
+[2026-04-28 11:02:01] Пауза 60 секунд...
+[2026-04-28 11:03:01] Обрабатываю: Elon Musk and Sam Altman are about to face off in court. Is 
+[2026-04-28 11:03:01] Попытка 1 для: Elon Musk and Sam Altman are about to fa
+[2026-04-28 11:03:02] Успешно, получено 711 символов
+[2026-04-28 11:03:02] Пауза 60 секунд...
+[2026-04-28 11:04:02] Обрабатываю: China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus
+[2026-04-28 11:04:02] Попытка 1 для: China Blocks Meta’s $2 Billion Acquisiti
+[2026-04-28 11:04:03] Успешно, получено 774 символов
+[2026-04-28 11:04:04] === Блок midday завершён ===
