@@ -11482,3 +11482,42 @@ U.S. has violated ceasefire agr
 [2026-04-28 06:05:12] Попытка 1 для: North Korea’s Kim reaffirms support for 
 [2026-04-28 06:05:13] Успешно, получено 698 символов
 [2026-04-28 06:05:15] === Блок morning завершён ===
+[2026-04-28 08:00:54] Загружено 874 уже отправленных новостей
+[2026-04-28 08:00:54] === Запуск блока: ai_morning ===
+[2026-04-28 08:00:55] Неизвестный источник (fontsinuse.com): Connected Women in AI
+[2026-04-28 08:00:55] Нет фото: Elon Musk and OpenAI CEO Sam Altman head
+[2026-04-28 08:00:55] Неизвестный источник (antaranews.com): Ant Digital Technologies at Money20/20 A
+[2026-04-28 08:00:55] Неизвестный источник (red voltaire): General Dan Caine prevents Trump from nu
+[2026-04-28 08:00:55] Неизвестный источник (internet): Fake CAPTCHA IRSF Scam and 120 Keitaro C
+[2026-04-28 08:00:55] Нет фото: College students wary of the job market 
+[2026-04-28 08:00:55] Неизвестный источник (bleeding cool news): GI Joe: Sssilent Missions – Firefly #1 P
+[2026-04-28 08:00:55] Неизвестный источник (financial post): Emerging Stocks Rise to Record High on A
+[2026-04-28 08:00:55] Неизвестный источник (screen rant): 11 Years Later, Black Clover's Biggest M
+[2026-04-28 08:00:55] Неизвестный источник (livemint): India is vital to global AI; AGI require
+[2026-04-28 08:00:55] Неизвестный источник (fnal.gov): Fermilab’s New Director Clarifies Missio
+[2026-04-28 08:00:55] Неизвестный источник (mercola.com): Lower Cholesterol, Naturally and Safely 
+[2026-04-28 08:00:55] Неизвестный источник (financial post): Economists Rethink Chinese Forecasts as 
+[2026-04-28 08:00:55] Нет фото: radiate 0.0.13
+[2026-04-28 08:00:55] Неизвестный источник (oilprice.com): The World’s Data Lifelines Are Increasin
+[2026-04-28 08:00:55] Нет фото: AI State of the Union
+[2026-04-28 08:00:55] Нет фото: Canadian Province of Manitoba Says It Wi
+[2026-04-28 08:00:55] Неизвестный источник (futurity: research news): Light makes microscopic ‘muscle’ flex on
+[2026-04-28 08:00:55] Неизвестный источник (capitalbnews.org): In Atlanta, AI Surveillance Expands As C
+[2026-04-28 08:00:55] Неизвестный источник (activistpost.com): The Rise of AI in Payments Is Not About 
+[2026-04-28 08:00:55] Неизвестный источник (forbes): How Aramco Ventures Is Pumping $7.5 Bill
+[2026-04-28 08:00:55] Неизвестный источник (forbes): Africa’s Power Problem Is The Whole Worl
+[2026-04-28 08:00:55] Пропускаю уже отправленную: AI will kill design jobs, says Figma investor Goku
+[2026-04-28 08:00:55] Неизвестный источник (globenewswire): AiMOGA Robotics Expands into Vietnam, OM
+[2026-04-28 08:00:55] AI новости: найдено 4 после фильтрации
+[2026-04-28 08:00:57] Обрабатываю: Ben Sasse on Senate's "smack-down nonsense" and his wish for
+[2026-04-28 08:00:57] Попытка 1 для: Ben Sasse on Senate's "smack-down nonsen
+[2026-04-28 08:00:58] Успешно, получено 624 символов
+[2026-04-28 08:00:59] Пауза 60 секунд...
+[2026-04-28 08:01:59] Обрабатываю: Deportation fears make immigrants easy targets for scams
+[2026-04-28 08:01:59] Попытка 1 для: Deportation fears make immigrants easy t
+[2026-04-28 08:02:00] Успешно, получено 772 символов
+[2026-04-28 08:02:00] Пауза 60 секунд...
+[2026-04-28 08:03:00] Обрабатываю: Trump’s Golden Dome plan under pressure as funding gaps and 
+[2026-04-28 08:03:00] Попытка 1 для: Trump’s Golden Dome plan under pressure 
+[2026-04-28 08:03:01] Успешно, получено 635 символов
+[2026-04-28 08:03:02] === Блок ai_morning завершён ===
