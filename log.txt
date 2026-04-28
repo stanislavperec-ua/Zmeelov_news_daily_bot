@@ -11611,3 +11611,54 @@ U.S. has violated ceasefire agr
 [2026-04-28 16:05:08] Попытка 1 для: 'Grandma, hop on!' Robot rescues Ukraini
 [2026-04-28 16:05:10] Успешно, получено 1089 символов
 [2026-04-28 16:05:11] === Блок evening завершён ===
+[2026-04-28 18:00:56] Загружено 885 уже отправленных новостей
+[2026-04-28 18:00:56] === Запуск блока: ai_evening ===
+[2026-04-28 18:00:57] Неизвестный источник (siliconangle news): Microsoft reveals how Accenture deployed
+[2026-04-28 18:00:57] Неизвестный источник (yahoo entertainment): Where to watch New York Yankees vs. Texa
+[2026-04-28 18:00:57] Нет фото: Archaeologists at Pompeii use artificial
+[2026-04-28 18:00:57] Неизвестный источник (financial post): US Stocks Retreat From Record High as Tr
+[2026-04-28 18:00:57] Нет фото: Camera trap shows Sumatra orangutan usin
+[2026-04-28 18:00:57] Неизвестный источник (boston herald): China blocks Meta from acquiring AI star
+[2026-04-28 18:00:57] Неизвестный источник (retail dive): 3 takeaways from Walmart’s 2026 annual r
+[2026-04-28 18:00:57] Нет фото: Microsoft cuts OpenAI revenue share in a
+[2026-04-28 18:00:57] Неизвестный источник (financial post): Real Brokerage to buy Re/Max in widening
+[2026-04-28 18:00:57] Неизвестный источник (bitcoinfoundation.org): What Is Crypto Cybersecurity? The Ultima
+[2026-04-28 18:00:57] Нет фото: Hut 8 Is Selling Bonds to Help Finance G
+[2026-04-28 18:00:57] Неизвестный источник (plos.org): Deep feature optimization using fusion o
+[2026-04-28 18:00:57] Неизвестный источник (plos.org): A single dose of purified human antibody
+[2026-04-28 18:00:57] Неизвестный источник (plos.org): Systems biology analysis of vasodynamics
+[2026-04-28 18:00:57] Неизвестный источник (internet): ⚡ Weekly Recap: Fast16 Malware, XChat La
+[2026-04-28 18:00:57] Неизвестный источник (bleeding cool news): 48 Most Anticipated Free Comic Book Day/
+[2026-04-28 18:00:57] Неизвестный источник (medianama.com): Claude Mythos puts India on alert: CERT-
+[2026-04-28 18:00:57] Неизвестный источник (pyimagesearch.com): Semantic Caching for LLMs: FastAPI, Redi
+[2026-04-28 18:00:57] Неизвестный источник (globalresearch.ca): Turkey Proposes Alternative Energy Corri
+[2026-04-28 18:00:57] Нет фото: Embargoed Technical Briefing: Canada’s T
+[2026-04-28 18:00:57] Нет фото: US, Royal Moroccan Armed Forces launch A
+[2026-04-28 18:00:57] Неизвестный источник (infoq.com): Article: MCP in the Java World: Bringing
+[2026-04-28 18:00:57] Нет фото: Conference to focus on how artificial in
+[2026-04-28 18:00:57] Неизвестный источник (globenewswire): Payment Card Skimming Market Insight Rep
+[2026-04-28 18:00:57] Неизвестный источник (globenewswire): Egypt Data Center Market Investment Anal
+[2026-04-28 18:00:57] Нет фото: Meta Seeks to Power Data Centers With En
+[2026-04-28 18:00:57] Неизвестный источник (cnet): I Tested New AI Picture Frames. Shoddy D
+[2026-04-28 18:00:57] Нет фото: Is A Random Unknown Artist More Valuable
+[2026-04-28 18:00:57] Неизвестный источник (wattsupwiththat.com): Select Weekly Climate and Energy News Ro
+[2026-04-28 18:00:57] Неизвестный источник (rockford register star): PWBA season opens in Rockford with elite
+[2026-04-28 18:00:57] Неизвестный источник (www.gov.uk): Corporate report: Government Science and
+[2026-04-28 18:00:57] Неизвестный источник (fontsinuse.com): Connected Women in AI
+[2026-04-28 18:00:57] Нет фото: Elon Musk and OpenAI CEO Sam Altman head
+[2026-04-28 18:00:57] Неизвестный источник (antaranews.com): Ant Digital Technologies at Money20/20 A
+[2026-04-28 18:00:57] Неизвестный источник (red voltaire): General Dan Caine prevents Trump from nu
+[2026-04-28 18:00:57] Неизвестный источник (internet): Fake CAPTCHA IRSF Scam and 120 Keitaro C
+[2026-04-28 18:00:57] AI новости: найдено 3 после фильтрации
+[2026-04-28 18:00:59] Обрабатываю: Acko's $250 million IPO; Infosys slips out of Top 10
+[2026-04-28 18:00:59] Попытка 1 для: Acko's $250 million IPO; Infosys slips o
+[2026-04-28 18:01:00] Успешно, получено 438 символов
+[2026-04-28 18:01:01] Пауза 60 секунд...
+[2026-04-28 18:02:01] Обрабатываю: Gujarat: VGRC to open new doors of opportunities in Surat's 
+[2026-04-28 18:02:01] Попытка 1 для: Gujarat: VGRC to open new doors of oppor
+[2026-04-28 18:02:02] Успешно, получено 768 символов
+[2026-04-28 18:02:02] Пауза 60 секунд...
+[2026-04-28 18:03:02] Обрабатываю: Start-up wave rises beyond metros as Patna emerges as an unl
+[2026-04-28 18:03:02] Попытка 1 для: Start-up wave rises beyond metros as Pat
+[2026-04-28 18:03:03] Успешно, получено 695 символов
+[2026-04-28 18:03:05] === Блок ai_evening завершён ===
