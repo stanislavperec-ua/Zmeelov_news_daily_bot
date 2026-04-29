@@ -11844,3 +11844,54 @@ U.S. has violated ceasefire agr
 [2026-04-29 16:05:28] Попытка 1 для: Ukraine Slams Israel: 'This Is Not ... L
 [2026-04-29 16:05:29] Успешно, получено 752 символов
 [2026-04-29 16:05:30] === Блок evening завершён ===
+[2026-04-29 18:01:04] Загружено 905 уже отправленных новостей
+[2026-04-29 18:01:04] === Запуск блока: ai_evening ===
+[2026-04-29 18:01:04] Нет фото: Linkhome Holdings Inc. Signs MOU to Acqu
+[2026-04-29 18:01:04] Неизвестный источник (skift): Intrepid Travel’s Secret: Purpose, Profi
+[2026-04-29 18:01:04] Неизвестный источник (android police): The eSIM revolution is stalling, as peop
+[2026-04-29 18:01:04] Нет фото: Musk and Altman show up for opening stat
+[2026-04-29 18:01:04] Неизвестный источник (cna): Amazon targets mass hiring with agentic 
+[2026-04-29 18:01:04] Неизвестный источник (yahoo entertainment): Amazon targets mass hiring with agentic 
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Nvidia introduces Nemotron 3 Nano Omni w
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): AWS accelerates enterprise agentic autom
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Amazon revamps Quick as a proactive desk
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Amazon Connect’s second act: From contac
+[2026-04-29 18:01:04] Нет фото: Amazon EC2 C8gn instances are now availa
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): SAS expands agentic AI and governance ca
+[2026-04-29 18:01:04] Неизвестный источник (cisco.com): The power of your network: Solving a phy
+[2026-04-29 18:01:04] Неизвестный источник (incrediblethings.com): How 2026 Regulations Are Reshaping Comme
+[2026-04-29 18:01:04] Неизвестный источник (financial post): AI is now core to US audit firms, shifti
+[2026-04-29 18:01:04] Неизвестный источник (internet): VECT 2.0 Ransomware Irreversibly Destroy
+[2026-04-29 18:01:04] Неизвестный источник (globenewswire): Logistics Market Size to Exceed USD 24.3
+[2026-04-29 18:01:04] Неизвестный источник (plos.org): Traffic flow prediction via dynamic hype
+[2026-04-29 18:01:04] Неизвестный источник (plos.org): Image quality improvement of liver ultra
+[2026-04-29 18:01:04] Неизвестный источник (plos.org): How host–guest interaction types shape v
+[2026-04-29 18:01:04] Неизвестный источник (financial post): Tech Companies to Lead Earnings Growth a
+[2026-04-29 18:01:04] Нет фото: ReelTime’s Reel Intelligence “RI” Launch
+[2026-04-29 18:01:04] Неизвестный источник (financial post): Evonik and Imubit launch AI pilot in Sin
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Appian adopts MCP protocol and partners 
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Aranya debuts cluster-scale operating sy
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Liquid Instruments lands $50M to scale A
+[2026-04-29 18:01:04] Неизвестный источник (commercial observer): Peter Weiss Appointed Chief Business Off
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Silverfort acquires Fabrix Security to b
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Phenom adds Plum psychometric science to
+[2026-04-29 18:01:04] Неизвестный источник (fortune): Ten years after Ethereum’s DAO disaster,
+[2026-04-29 18:01:04] Неизвестный источник (globenewswire): Commercial Vehicle Depot Charging Strate
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Startup Lovelace targets contextual AI e
+[2026-04-29 18:01:04] Неизвестный источник (www.gov.uk): Rebuilding Britain for the new world: Li
+[2026-04-29 18:01:04] Неизвестный источник (siliconangle news): Qdrant Cloud launches high-performance v
+[2026-04-29 18:01:04] Неизвестный источник (financial post): Canadian venture capitalists say billion
+[2026-04-29 18:01:04] Внутренний дубль: The Hormuz digital chokepoint: How does the Iran w
+[2026-04-29 18:01:04] AI новости: найдено 4 после фильтрации
+[2026-04-29 18:01:07] Обрабатываю: Amazon targets mass hiring with agentic software, goal to hu
+[2026-04-29 18:01:07] Попытка 1 для: Amazon targets mass hiring with agentic 
+[2026-04-29 18:01:08] Успешно, получено 591 символов
+[2026-04-29 18:01:08] Пауза 60 секунд...
+[2026-04-29 18:02:08] Обрабатываю: Get highly paid to network: Anthropic posts $400,000 role wi
+[2026-04-29 18:02:08] Попытка 1 для: Get highly paid to network: Anthropic po
+[2026-04-29 18:02:09] Успешно, получено 606 символов
+[2026-04-29 18:02:09] Пауза 60 секунд...
+[2026-04-29 18:03:09] Обрабатываю: Explainer: The Hormuz digital chokepoint
+[2026-04-29 18:03:09] Попытка 1 для: Explainer: The Hormuz digital chokepoint
+[2026-04-29 18:03:10] Успешно, получено 865 символов
+[2026-04-29 18:03:11] === Блок ai_evening завершён ===
