@@ -11760,3 +11760,39 @@ U.S. has violated ceasefire agr
 [2026-04-29 08:03:03] Попытка 1 для: AI-powered industrial quality assurance 
 [2026-04-29 08:03:04] Успешно, получено 887 символов
 [2026-04-29 08:03:06] === Блок ai_morning завершён ===
+[2026-04-29 11:01:01] Загружено 896 уже отправленных новостей
+[2026-04-29 11:01:01] === Запуск блока: midday ===
+[2026-04-29 11:01:01] Неизвестный источник (barron's): Nasdaq Set to Open Down Amid Iran Peace 
+[2026-04-29 11:01:01] Неизвестный источник (the boston globe): Red Sox make additions to coaching staff
+[2026-04-29 11:01:01] Неизвестный источник (heat.com): 4 takeaways: Magic push Pistons to the b
+[2026-04-29 11:01:01] Неизвестный источник (forbes): Kimmel Pushes Back Against White House A
+[2026-04-29 11:01:01] Неизвестный источник (cnbc): General Motors is set to report earnings
+[2026-04-29 11:01:01] Заблокированный источник (sciencealert): Brain Scans Reveal a Surprise About Nean
+[2026-04-29 11:01:01] Неизвестный источник (thestreet): Qualcomm stock draws attention after maj
+[2026-04-29 11:01:01] Неизвестный источник (golf channel): LIV Golf reportedly postpones June tourn
+[2026-04-29 11:01:01] Неизвестный источник (rolling stone): The 10 Best Performances and Biggest Thr
+[2026-04-29 11:01:01] Неизвестный источник (abcnews.com): CDC warns of drug-resistant salmonella i
+[2026-04-29 11:01:01] Неизвестный источник (gamesindustry.biz): Xbox boss warns "memory costs will impac
+[2026-04-29 11:01:01] Неизвестный источник (wccftech): Valve Remains “Hard at Work” on Steam De
+[2026-04-29 11:01:01] Неизвестный источник (pbs): Virginia Supreme Court considers GOP cha
+[2026-04-29 11:01:01] Неизвестный источник (space.com): Watch Atlas V rocket launch 29 Amazon in
+[2026-04-29 11:01:01] Неизвестный источник (variety): ‘House of the Dragon’ Season 3 Sets June
+[2026-04-29 11:01:01] Старая новость (2026-04-27T10:00:00Z): Camp Mystic counselors lacked training, 
+[2026-04-29 11:01:01] Старая новость (2026-04-27T09:00:00Z): Scientists search the microbiome for clu
+[2026-04-29 11:01:01] Мировые новости: найдено 16 после фильтрации
+[2026-04-29 11:01:04] Обрабатываю: Pompeii archaeologists use AI to reconstruct man killed in v
+[2026-04-29 11:01:04] Попытка 1 для: Pompeii archaeologists use AI to reconst
+[2026-04-29 11:01:05] Успешно, получено 630 символов
+[2026-04-29 11:01:06] Пауза 60 секунд...
+[2026-04-29 11:02:06] Обрабатываю: "DeSantis Dummymander": Democrats heap ridicule on Florida's
+[2026-04-29 11:02:06] Попытка 1 для: "DeSantis Dummymander": Democrats heap r
+[2026-04-29 11:02:07] Успешно, получено 620 символов
+[2026-04-29 11:02:07] Пауза 60 секунд...
+[2026-04-29 11:03:07] Обрабатываю: King Charles III to meet Trump and address Congress in bid t
+[2026-04-29 11:03:07] Попытка 1 для: King Charles III to meet Trump and addre
+[2026-04-29 11:03:08] Успешно, получено 695 символов
+[2026-04-29 11:03:09] Пауза 60 секунд...
+[2026-04-29 11:04:09] Обрабатываю: Jury selection in Musk v. Altman: ‘People don’t like him’
+[2026-04-29 11:04:09] Попытка 1 для: Jury selection in Musk v. Altman: ‘Peopl
+[2026-04-29 11:04:10] Успешно, получено 602 символов
+[2026-04-29 11:04:10] === Блок midday завершён ===
