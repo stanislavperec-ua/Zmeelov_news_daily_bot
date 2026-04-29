@@ -11796,3 +11796,51 @@ U.S. has violated ceasefire agr
 [2026-04-29 11:04:09] Попытка 1 для: Jury selection in Musk v. Altman: ‘Peopl
 [2026-04-29 11:04:10] Успешно, получено 602 символов
 [2026-04-29 11:04:10] === Блок midday завершён ===
+[2026-04-29 16:00:59] Загружено 899 уже отправленных новостей
+[2026-04-29 16:00:59] === Запуск блока: evening ===
+[2026-04-29 16:00:59] Неизвестный источник (cnbc): S&P 500 slips from record, Nasdaq falls 
+[2026-04-29 16:00:59] Неизвестный источник (syracuse.com): Broadway star exiting show weeks early a
+[2026-04-29 16:00:59] Неизвестный источник (defector.com): Texas Tech Transfer QB Brendan Sorsby Le
+[2026-04-29 16:00:59] Неизвестный источник (fox news): Iran defiant as Trump, Rubio say Tehran'
+[2026-04-29 16:00:59] Неизвестный источник (variety): ‘The Devil Wears Prada 2’ First Reaction
+[2026-04-29 16:00:59] Неизвестный источник (kabc-tv): 'Dances With Wolves' actor Nathan Chasin
+[2026-04-29 16:00:59] Неизвестный источник (huffpost): Jon Stewart Reveals The Most Awkward 'Tr
+[2026-04-29 16:00:59] Неизвестный источник (android authority): Here's your first look at Google's upcom
+[2026-04-29 16:00:59] Неизвестный источник (forbes): Kimmel Pushes Back Against Melania Trump
+[2026-04-29 16:00:59] Неизвестный источник (nbcsports.com): Ty Simpson says he had "secret meeting" 
+[2026-04-29 16:00:59] Неизвестный источник (phys.org): An unprecedented Antarctic heat wave hit
+[2026-04-29 16:00:59] Старая новость (2026-04-27T09:00:00Z): Scientists search the microbiome for clu
+[2026-04-29 16:00:59] Мировые новости: найдено 13 после фильтрации
+[2026-04-29 16:00:59] Нет фото: Slouching Towards Civil War
+[2026-04-29 16:00:59] Нет фото: Middle East Shipping ‘Paralyzed’ by Duel
+[2026-04-29 16:00:59] Нет фото: EU 'ready' to sanction Israel over Ukrai
+[2026-04-29 16:00:59] Нет фото: Ukrainian President Zelenskyy hits Israe
+[2026-04-29 16:00:59] Нет фото: Ukraine accuses Israel of importing 'sto
+[2026-04-29 16:00:59] Нет фото: Threat landscape for industrial automati
+[2026-04-29 16:00:59] Нет фото: Germany Looks to Poland for Refinery as 
+[2026-04-29 16:00:59] Украинские новости: найдено 6 после фильтрации
+[2026-04-29 16:01:14] Ошибка получения новостей Харькова: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=15)
+[2026-04-29 16:01:17] Обрабатываю: Federal law enforcement conducting raids connected to Somali
+[2026-04-29 16:01:17] Попытка 1 для: Federal law enforcement conducting raids
+[2026-04-29 16:01:18] Успешно, получено 833 символов
+[2026-04-29 16:01:18] Пауза 60 секунд...
+[2026-04-29 16:02:18] Обрабатываю: Neanderthal brains measure up to ours—literally
+[2026-04-29 16:02:18] Попытка 1 для: Neanderthal brains measure up to ours—li
+[2026-04-29 16:02:19] Успешно, получено 642 символов
+[2026-04-29 16:02:20] Пауза 60 секунд...
+[2026-04-29 16:03:20] Обрабатываю: Chinese Billionaire Overhauls AI Startup After Warning on Ma
+[2026-04-29 16:03:20] Попытка 1 для: Chinese Billionaire Overhauls AI Startup
+[2026-04-29 16:03:21] Успешно, получено 963 символов
+[2026-04-29 16:03:22] Фото не отправилось: 400
+[2026-04-29 16:03:22] Пауза 60 секунд...
+[2026-04-29 16:04:22] Обрабатываю: The Hottest Anti-AI Gadget Is a Cyberdeck
+[2026-04-29 16:04:22] Попытка 1 для: The Hottest Anti-AI Gadget Is a Cyberdec
+[2026-04-29 16:04:23] Успешно, получено 661 символов
+[2026-04-29 16:04:26] Обрабатываю: Ukraine strikes Russian oil refinery, cutting output by 300K
+[2026-04-29 16:04:26] Попытка 1 для: Ukraine strikes Russian oil refinery, cu
+[2026-04-29 16:04:28] Успешно, получено 801 символов
+[2026-04-29 16:04:28] Пауза 60 секунд...
+[2026-04-29 16:05:28] Обрабатываю: Ukraine Slams Israel: 'This Is Not ... Legitimate Business'
+[2026-04-29 16:05:28] Попытка 1 для: Ukraine Slams Israel: 'This Is Not ... L
+[2026-04-29 16:05:29] Успешно, получено 752 символов
+[2026-04-29 16:05:30] === Блок evening завершён ===
