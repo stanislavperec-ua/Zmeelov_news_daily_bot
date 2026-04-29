@@ -11662,3 +11662,52 @@ U.S. has violated ceasefire agr
 [2026-04-28 18:03:02] Попытка 1 для: Start-up wave rises beyond metros as Pat
 [2026-04-28 18:03:03] Успешно, получено 695 символов
 [2026-04-28 18:03:05] === Блок ai_evening завершён ===
+[2026-04-29 06:00:54] Загружено 888 уже отправленных новостей
+[2026-04-29 06:00:54] === Запуск блока: morning ===
+[2026-04-29 06:00:54] Неизвестный источник (mlb trade rumors): Red Sox Add Interim Coaches To Staff - M
+[2026-04-29 06:00:54] Неизвестный источник (nbcsports.com): Ty Simpson says he had "secret meeting" 
+[2026-04-29 06:00:54] Неизвестный источник (hollywood reporter): Megan Thee Stallion Exits ‘Moulin Rouge’
+[2026-04-29 06:00:54] Неизвестный источник (tvinsider): ‘Jeopardy!’: Jamie Ding Reacts After Sho
+[2026-04-29 06:00:54] Неизвестный источник (thestreet): Qualcomm stock draws attention after maj
+[2026-04-29 06:00:54] Неизвестный источник (golf channel): LIV Golf reportedly postpones June tourn
+[2026-04-29 06:00:54] Неизвестный источник (9to5mac): Apple introduces monthly subscriptions w
+[2026-04-29 06:00:54] Неизвестный источник (pbs): Trumps call for ABC to fire Jimmy Kimmel
+[2026-04-29 06:00:54] Неизвестный источник (deadline): ‘Michael’ Hits A Higher Note In Global O
+[2026-04-29 06:00:54] Неизвестный источник (abcnews.com): CDC warns of drug-resistant salmonella i
+[2026-04-29 06:00:54] Неизвестный источник (pbs): Virginia Supreme Court considers GOP cha
+[2026-04-29 06:00:54] Неизвестный источник (variety): ‘The Voice’ Contestant Dylan Carter Dies
+[2026-04-29 06:00:54] Неизвестный источник (space.com): Watch Atlas V rocket launch 29 Amazon in
+[2026-04-29 06:00:54] Неизвестный источник (gizmodo.com): Chernobyl’s Wolf Population Is Now 7 Tim
+[2026-04-29 06:00:54] Старая новость (2026-04-27T05:45:40Z): ‘Starting April 30’—Samsung’s Free Andro
+[2026-04-29 06:00:54] Старая новость (2026-04-27T01:38:43Z): CDC promotes caution due to unusually hi
+[2026-04-29 06:00:54] Старая новость (2026-04-26T15:45:00Z): Russia Sends 3 Tons Of Supplies To The I
+[2026-04-29 06:00:54] Мировые новости: найдено 15 после фильтрации
+[2026-04-29 06:00:55] Заблокированный источник (naturalnews.com): Putin Meets Iran’s Foreign Minister, Ple
+[2026-04-29 06:00:55] Нет фото: Merz suggests Ukraine may have to accept
+[2026-04-29 06:00:55] Нет фото: Chornobyl’s surviving ‘liquidators’ retu
+[2026-04-29 06:00:55] Нет фото: SC, 10146th Meeting (AM & PM) Middle Eas
+[2026-04-29 06:00:55] Нет фото: Daily Press Briefing by the Office of th
+[2026-04-29 06:00:55] Украинские новости: найдено 1 после фильтрации
+[2026-04-29 06:00:55] Нет фото: Oops! He Did It Again
+[2026-04-29 06:00:55] Нет фото: World News in Brief: Sudan drone attacks
+[2026-04-29 06:00:55] Нет фото: Starving Soldiers: Ukrainian Army's New 
+[2026-04-29 06:00:55] Харьков: новостей не найдено
+[2026-04-29 06:00:57] Обрабатываю: "DeSantis Dummymander": Democrats heap ridicule on Florida's
+[2026-04-29 06:00:57] Попытка 1 для: "DeSantis Dummymander": Democrats heap r
+[2026-04-29 06:00:58] Успешно, получено 636 символов
+[2026-04-29 06:00:58] Пауза 60 секунд...
+[2026-04-29 06:01:58] Обрабатываю: Iranian foreign minister meets with Putin as U.S.-Iran talks
+[2026-04-29 06:01:58] Попытка 1 для: Iranian foreign minister meets with Puti
+[2026-04-29 06:01:59] Успешно, получено 752 символов
+[2026-04-29 06:02:00] Пауза 60 секунд...
+[2026-04-29 06:03:00] Обрабатываю: Trump wants a correspondents’ dinner redo. Critics aren’t co
+[2026-04-29 06:03:00] Попытка 1 для: Trump wants a correspondents’ dinner red
+[2026-04-29 06:03:01] Успешно, получено 721 символов
+[2026-04-29 06:03:01] Пауза 60 секунд...
+[2026-04-29 06:04:01] Обрабатываю: Supreme Court considers blocking lawsuits alleging weed kill
+[2026-04-29 06:04:01] Попытка 1 для: Supreme Court considers blocking lawsuit
+[2026-04-29 06:04:02] Успешно, получено 738 символов
+[2026-04-29 06:04:05] Обрабатываю: 82nd Airborne soldiers train on drone-countering maneuvers u
+[2026-04-29 06:04:05] Попытка 1 для: 82nd Airborne soldiers train on drone-co
+[2026-04-29 06:04:06] Успешно, получено 907 символов
+[2026-04-29 06:04:07] === Блок morning завершён ===
