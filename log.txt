@@ -11711,3 +11711,52 @@ U.S. has violated ceasefire agr
 [2026-04-29 06:04:05] Попытка 1 для: 82nd Airborne soldiers train on drone-co
 [2026-04-29 06:04:06] Успешно, получено 907 символов
 [2026-04-29 06:04:07] === Блок morning завершён ===
+[2026-04-29 08:00:56] Загружено 893 уже отправленных новостей
+[2026-04-29 08:00:56] === Запуск блока: ai_morning ===
+[2026-04-29 08:00:56] Неизвестный источник (fortune): ‘The cost of compute is far beyond the c
+[2026-04-29 08:00:56] Неизвестный источник (financial post): Korea Passes UK to Become World’s Eighth
+[2026-04-29 08:00:56] Неизвестный источник (코리아타임스): Samsung contemplates dropping TV, applia
+[2026-04-29 08:00:56] Неизвестный источник (global voices): AI hype narrative reaches the public hea
+[2026-04-29 08:00:56] Неизвестный источник (computerweekly.com): Government funds self-learning AI compan
+[2026-04-29 08:00:56] Неизвестный источник (financial post): Microsoft and Postel: An Innovative New 
+[2026-04-29 08:00:56] Неизвестный источник (archdaily): Designing with Air: Rethinking Architect
+[2026-04-29 08:00:56] Неизвестный источник (computerweekly.com): Container storage in the AI age: Block v
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Cisco’s Universal Quantum Switch and the
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Hundreds of Google employees sign letter
+[2026-04-29 08:00:56] Неизвестный источник (archdaily): Design Intelligence and Workflow Continu
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Ineffable Intelligence raises $1.1B at $
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Altair Semiconductor raises $50 million 
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Altair Semiconductor raises $50M after c
+[2026-04-29 08:00:56] Нет фото: Performance evaluation of green building
+[2026-04-29 08:00:56] Неизвестный источник (mercola.com): How Personalizing Nutrition Can Manage I
+[2026-04-29 08:00:56] Неизвестный источник (financial post): BYD, Geely Results to Provide Pointers i
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): The third leg of AI’s infrastructure rac
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Sereact raises $110M to scale AI ‘roboti
+[2026-04-29 08:00:56] Нет фото: Mineros S.A. Partners With IIT Kharagpur
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): China blocks Meta’s acquisition of AI ag
+[2026-04-29 08:00:56] Неизвестный источник (financial post): Clean Energy ETF Attracts Giant Inflows 
+[2026-04-29 08:00:56] Неизвестный источник (globenewswire): SOLOWIN HOLDINGS (AXG) Signs MOU with SC
+[2026-04-29 08:00:56] Нет фото: Starboard Builds Stake in Flowserve, Pus
+[2026-04-29 08:00:56] Неизвестный источник (wccftech): NVIDIA’s Rubin Lands Inside Google’s Vir
+[2026-04-29 08:00:56] Неизвестный источник (financial post): OpenAI breaks free from exclusive AI pac
+[2026-04-29 08:00:56] Неизвестный источник (siliconangle news): Microsoft reveals how Accenture deployed
+[2026-04-29 08:00:56] Неизвестный источник (yahoo entertainment): Where to watch New York Yankees vs. Texa
+[2026-04-29 08:00:56] Нет фото: Archaeologists at Pompeii use artificial
+[2026-04-29 08:00:56] Неизвестный источник (financial post): US Stocks Retreat From Record High as Tr
+[2026-04-29 08:00:56] Неизвестный источник (just-auto.com): JSW Motors, Tata Elxsi set up tech centr
+[2026-04-29 08:00:56] Нет фото: Camera trap shows Sumatra orangutan usin
+[2026-04-29 08:00:56] Неизвестный источник (boston herald): China blocks Meta from acquiring AI star
+[2026-04-29 08:00:56] Внутренний дубль: The Hormuz digital chokepoint: Where oil, war and 
+[2026-04-29 08:00:56] AI новости: найдено 5 после фильтрации
+[2026-04-29 08:00:59] Обрабатываю: The Hormuz digital chokepoint: Where oil, war and the intern
+[2026-04-29 08:00:59] Попытка 1 для: The Hormuz digital chokepoint: Where oil
+[2026-04-29 08:01:01] Успешно, получено 778 символов
+[2026-04-29 08:01:02] Пауза 60 секунд...
+[2026-04-29 08:02:02] Обрабатываю: Andhra CM Naidu lays foundation for $15 billion Google AI da
+[2026-04-29 08:02:02] Попытка 1 для: Andhra CM Naidu lays foundation for $15 
+[2026-04-29 08:02:02] Успешно, получено 795 символов
+[2026-04-29 08:02:03] Пауза 60 секунд...
+[2026-04-29 08:03:03] Обрабатываю: AI-powered industrial quality assurance system for fancy yar
+[2026-04-29 08:03:03] Попытка 1 для: AI-powered industrial quality assurance 
+[2026-04-29 08:03:04] Успешно, получено 887 символов
+[2026-04-29 08:03:06] === Блок ai_morning завершён ===
