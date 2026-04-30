@@ -12042,3 +12042,22 @@ U.S. has violated ceasefire agr
 [2026-04-30 11:04:02] Попытка 1 для: China’s Mao-era regulator in a stand-off
 [2026-04-30 11:04:03] Успешно, получено 651 символов
 [2026-04-30 11:04:03] === Блок midday завершён ===
+[2026-04-30 16:00:57] Загружено 922 уже отправленных новостей
+[2026-04-30 16:00:57] === Запуск блока: evening ===
+[2026-04-30 16:00:57] Неизвестный источник (9to5google.com): Tensor G6 reportedly bringing latest ARM
+[2026-04-30 16:00:57] Неизвестный источник (deadline): ‘Devil Wears Prada 2’ To Glam Up Start O
+[2026-04-30 16:00:57] Старая новость (2026-04-27T23:17:50Z): South Carolina's measles outbreak is ove
+[2026-04-30 16:00:57] Мировые новости: найдено 0 после фильтрации
+[2026-04-30 16:00:57] Нет фото: Florida police say Taco Bell employee sh
+[2026-04-30 16:00:57] Заблокированный источник (sputnikglobe.com): Turkiye to Continue Mediation on Ukraine
+[2026-04-30 16:00:57] Нет фото: Russia to hold a Victory Day parade with
+[2026-04-30 16:00:57] Нет фото: Cybercrime Hits Record Scale with 2.86 B
+[2026-04-30 16:00:57] Нет фото: Russia says it's scaling down WW2 victor
+[2026-04-30 16:00:57] Украинские новости: найдено 1 после фильтрации
+[2026-04-30 16:00:57] Нет фото: Ukraine says it shot down 33,000 Russian
+[2026-04-30 16:00:57] Харьков: новостей не найдено
+[2026-04-30 16:00:57] ⚠️ Блок *Вечерний мир* (30.04.2026) — новостей не найдено!
+[2026-04-30 16:01:00] Обрабатываю: Is Ukraine Helping Al Qaeda Conquer West Africa?
+[2026-04-30 16:01:00] Попытка 1 для: Is Ukraine Helping Al Qaeda Conquer West
+[2026-04-30 16:01:01] Успешно, получено 831 символов
+[2026-04-30 16:01:02] === Блок evening завершён ===
