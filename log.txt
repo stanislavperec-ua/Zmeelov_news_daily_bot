@@ -11958,3 +11958,53 @@ U.S. has violated ceasefire agr
 [2026-04-30 06:06:09] Попытка 1 для: Let Me Show You to Your Room
 [2026-04-30 06:06:11] Успешно, получено 608 символов
 [2026-04-30 06:06:11] === Блок morning завершён ===
+[2026-04-30 08:00:54] Загружено 915 уже отправленных новостей
+[2026-04-30 08:00:54] === Запуск блока: ai_morning ===
+[2026-04-30 08:00:54] Неизвестный источник (financial post): AI-driven Bot Attacks Surged 12.5x Accor
+[2026-04-30 08:00:54] Неизвестный источник (financial post): Hong Kong Has Widest Trade Deficit Since
+[2026-04-30 08:00:54] Неизвестный источник (pr newswire uk): GLOBAL EDUCATION LEADERS GATHER IN SINGA
+[2026-04-30 08:00:54] Нет фото: Annual report and financial statements f
+[2026-04-30 08:00:54] Заблокированный источник (naturalnews.com): The OPEC Fracture: Why UAEâs Departure
+[2026-04-30 08:00:54] Неизвестный источник (globenewswire): DSV, 1168 - INTERIM FINANCIAL REPORT Q1 
+[2026-04-30 08:00:54] Неизвестный источник (financial post): Stocks Fluctuate in Run-Up to Fed, Tech 
+[2026-04-30 08:00:54] Неизвестный источник (yahoo entertainment): Many Democrats are stressed out by the n
+[2026-04-30 08:00:54] Неизвестный источник (mit.edu): Enabling privacy-preserving AI training 
+[2026-04-30 08:00:54] Нет фото: Anthropic's Claude Mythos AI Finds 271 V
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Parag Agrawal’s startup raises $100M to 
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Elon Musk accuses OpenAI CEO Sam Altman 
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Space technology startup True Anomaly ra
+[2026-04-30 08:00:54] Неизвестный источник (pymnts.com): Visa Earnings Spotlight Agentic Commerce
+[2026-04-30 08:00:54] Неизвестный источник (elastic.co): Whole-of-state cyber defense: How AI-dri
+[2026-04-30 08:00:54] Нет фото: Data-Driven Optimization for Controllabl
+[2026-04-30 08:00:54] Неизвестный источник (bleeding cool news): Harley Quinn x Elvira #6 Preview: Fool-o
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Robinhood shares drop on Q1 miss as cryp
+[2026-04-30 08:00:54] Неизвестный источник (inverse): HBO Max Has Been Quietly Releasing The M
+[2026-04-30 08:00:54] Неизвестный источник (itnews): Always-on defence becomes critical as AI
+[2026-04-30 08:00:54] Неизвестный источник (globenewswire): Euronet Worldwide Announces Passing of B
+[2026-04-30 08:00:54] Неизвестный источник (yahoo entertainment): Where to watch New York Yankees vs. Texa
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Chip stocks drop on report OpenAI missed
+[2026-04-30 08:00:54] Неизвестный источник (siliconangle news): Putting AI to work: AWS unveils agentic 
+[2026-04-30 08:00:54] Неизвестный источник (globenewswire): Renasant Corporation Announces Earnings 
+[2026-04-30 08:00:54] Неизвестный источник (the conversation africa): In his first year as pope, Leo has empha
+[2026-04-30 08:00:54] Нет фото: ExcelMindCyber Institute Highlights AI G
+[2026-04-30 08:00:54] Неизвестный источник (hurriyet daily news): Biennales expand across Türkiye, driving
+[2026-04-30 08:00:54] Неизвестный источник (bleeding cool news): Gatchaman: Red Impulse #1 Preview: Dad F
+[2026-04-30 08:00:54] Неизвестный источник (decrypt): Google Signs AI Deal With Pentagon for C
+[2026-04-30 08:00:54] Нет фото: Amazon touts a 'major expansion' with Op
+[2026-04-30 08:00:54] Неизвестный источник (financial post): Amazon to sell OpenAI tech after Microso
+[2026-04-30 08:00:54] Неизвестный источник (ieee.org): Better Hardware Could Turn Zeros into AI
+[2026-04-30 08:00:54] Нет фото: Linkhome Holdings Inc. Signs MOU to Acqu
+[2026-04-30 08:00:54] AI новости: найдено 6 после фильтрации
+[2026-04-30 08:00:56] Обрабатываю: Amazon rolls out new AI mass hiring tool
+[2026-04-30 08:00:56] Попытка 1 для: Amazon rolls out new AI mass hiring tool
+[2026-04-30 08:00:57] Успешно, получено 775 символов
+[2026-04-30 08:00:58] Фото не отправилось: 400
+[2026-04-30 08:00:58] Пауза 60 секунд...
+[2026-04-30 08:01:58] Обрабатываю: The past, present and future of de novo protein design
+[2026-04-30 08:01:58] Попытка 1 для: The past, present and future of de novo 
+[2026-04-30 08:01:59] Успешно, получено 671 символов
+[2026-04-30 08:01:59] Пауза 60 секунд...
+[2026-04-30 08:02:59] Обрабатываю: Improving access to essential medicines via decision-aware m
+[2026-04-30 08:02:59] Попытка 1 для: Improving access to essential medicines 
+[2026-04-30 08:03:00] Успешно, получено 752 символов
+[2026-04-30 08:03:02] === Блок ai_morning завершён ===
