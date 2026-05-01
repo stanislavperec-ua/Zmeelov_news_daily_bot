@@ -12127,3 +12127,53 @@ U.S. has violated ceasefire agr
 [2026-05-01 06:00:57] Попытка 1 для: What Ukrainians really think of Trump, E
 [2026-05-01 06:00:58] Успешно, получено 822 символов
 [2026-05-01 06:00:59] === Блок morning завершён ===
+[2026-05-01 08:00:55] Загружено 925 уже отправленных новостей
+[2026-05-01 08:00:55] === Запуск блока: ai_morning ===
+[2026-05-01 08:00:55] Неизвестный источник (new zealand herald): NZ sharemarket ends day strongly for big
+[2026-05-01 08:00:55] Нет фото: The AP Interview: Ukraine bets on battle
+[2026-05-01 08:00:55] Неизвестный источник (financial post): SoftBank Plans to Create and List AI Veh
+[2026-05-01 08:00:55] Неизвестный источник (motley fool australia): 3 ASX shares benefiting from the rise of
+[2026-05-01 08:00:55] Неизвестный источник (computerweekly.com): AI is widening the asymmetry between att
+[2026-05-01 08:00:55] Неизвестный источник (financial post): India’s Rupee Drops to Record Low as Cru
+[2026-05-01 08:00:55] Неизвестный источник (cointelegraph): US, UAE and China joint effort dismantle
+[2026-05-01 08:00:55] Неизвестный источник (itnews): 'Copy Fail' Linux privesc bug lay dorman
+[2026-05-01 08:00:55] Неизвестный источник (itnews): 'Copy Fail' Linux privesc bug lay dorman
+[2026-05-01 08:00:55] Неизвестный источник (itnews): 'Copy Fail' Linux privesc bug lay dorman
+[2026-05-01 08:00:55] Неизвестный источник (new zealand herald): Business leaders give New Zealand poor m
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Microsoft beats expectations but its gui
+[2026-05-01 08:00:55] Неизвестный источник (post magazine): Ant International serves 150m merchants,
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Alphabet’s stock climbs as Google Cloud 
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Nvidia’s NVentures backs $150M round for
+[2026-05-01 08:00:55] Нет фото: USS Thresher Mystery FINALLY Solved—And 
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Amazon cruises to another solid earnings
+[2026-05-01 08:00:55] Неизвестный источник (cna): Samsung Elec Q1 profit surges eightfold 
+[2026-05-01 08:00:55] Неизвестный источник (cna): Samsung Elec Q1 profit surges eightfold 
+[2026-05-01 08:00:55] Неизвестный источник (adexchanger): Alphabet Exceeds $100 Billion In Q1 And 
+[2026-05-01 08:00:55] Неизвестный источник (the punch): UniCloud Africa, OADC expand cloud, AI i
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Rogo raises $160M to speed up financial 
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Meta shares drop after-hours as capex gu
+[2026-05-01 08:00:55] Неизвестный источник (cna): Amazon tops cloud expectations on strong
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Qualcomm shares surge on Q2 beat, $20B b
+[2026-05-01 08:00:55] Неизвестный источник (common dreams): Citing 'Irreversible Harm,' 100+ Groups 
+[2026-05-01 08:00:55] Неизвестный источник (financial post): Meta shares plunge on escalating concern
+[2026-05-01 08:00:55] Неизвестный источник (financial post): News of the day: Bank of Canada decision
+[2026-05-01 08:00:55] Неизвестный источник (financial post): Microsoft cloud growth fails to ease inv
+[2026-05-01 08:00:55] Нет фото: Alphabet's first-quarter profit soars as
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Wiz finds AI has moved from tool to infr
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): What to expect during the AI Agent Confe
+[2026-05-01 08:00:55] Неизвестный источник (globenewswire): Hawthorn Bancshares, Inc. Expands Missou
+[2026-05-01 08:00:55] Неизвестный источник (globenewswire): LOBO TECHNOLOGIES LTD. Announces Fiscal 
+[2026-05-01 08:00:55] Неизвестный источник (seclists.org): Re: IPv8 / BGP8 / CF
+[2026-05-01 08:00:55] Неизвестный источник (siliconangle news): Shares of Extreme Networks jump 28% on s
+[2026-05-01 08:00:55] Неизвестный источник (seclists.org): Re: IPv8 / BGP8 / CF
+[2026-05-01 08:00:55] Неизвестный источник (seclists.org): Re: IPv8 / BGP8 / CF
+[2026-05-01 08:00:55] AI новости: найдено 2 после фильтрации
+[2026-05-01 08:00:57] Обрабатываю: Skeptical Science New Research for Week #18 2026
+[2026-05-01 08:00:57] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-05-01 08:00:59] Успешно, получено 923 символов
+[2026-05-01 08:00:59] Фото не отправилось: 400
+[2026-05-01 08:01:00] Пауза 60 секунд...
+[2026-05-01 08:02:00] Обрабатываю: On the stand, Elon Musk can't escape his own tweets | TechCr
+[2026-05-01 08:02:00] Попытка 1 для: On the stand, Elon Musk can't escape his
+[2026-05-01 08:02:00] Успешно, получено 647 символов
+[2026-05-01 08:02:01] === Блок ai_morning завершён ===
