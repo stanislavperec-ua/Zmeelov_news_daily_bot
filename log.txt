@@ -12107,3 +12107,23 @@ U.S. has violated ceasefire agr
 [2026-04-30 18:01:01] Попытка 1 для: Hedging Is the New Normal
 [2026-04-30 18:01:02] Успешно, получено 346 символов
 [2026-04-30 18:01:02] === Блок ai_evening завершён ===
+[2026-05-01 06:00:54] Загружено 924 уже отправленных новостей
+[2026-05-01 06:00:54] === Запуск блока: morning ===
+[2026-05-01 06:00:54] Старая новость (2026-04-28T23:12:00Z): NASA’s Artemis II moonship returns home 
+[2026-05-01 06:00:54] Мировые новости: найдено 0 после фильтрации
+[2026-05-01 06:00:54] Заблокированный источник (naturalnews.com): Trump threatens troop reduction in Germa
+[2026-05-01 06:00:54] Заблокированный источник (naturalnews.com): Russian Official Warns Western Europe Co
+[2026-05-01 06:00:54] Заблокированный источник (naturalnews.com): Trump downplays Chinese support for Iran
+[2026-05-01 06:00:54] Нет фото: The AP Interview: Ukraine bets on battle
+[2026-05-01 06:00:54] Заблокированный источник (sputnikglobe.com): Russian Air Defenses Shoot Down 189 Ukra
+[2026-05-01 06:00:54] Нет фото: Outlaw Country Legend David Allan Coe Ha
+[2026-05-01 06:00:54] Нет фото: “Massive Clean-Up”: Lawsuit Scrubs Away 
+[2026-05-01 06:00:54] Нет фото: Putin Scales Back Military Parade, Now S
+[2026-05-01 06:00:54] Нет фото: New York Mayor Mamdani encourages King C
+[2026-05-01 06:00:54] Украинские новости: найдено 1 после фильтрации
+[2026-05-01 06:00:54] Харьков: новостей не найдено
+[2026-05-01 06:00:54] ⚠️ Блок *Утренний мир* (01.05.2026) — новостей не найдено!
+[2026-05-01 06:00:57] Обрабатываю: What Ukrainians really think of Trump, Europe and Russia aft
+[2026-05-01 06:00:57] Попытка 1 для: What Ukrainians really think of Trump, E
+[2026-05-01 06:00:58] Успешно, получено 822 символов
+[2026-05-01 06:00:59] === Блок morning завершён ===
