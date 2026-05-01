@@ -12223,3 +12223,48 @@ U.S. has violated ceasefire agr
 [2026-05-01 16:04:07] Попытка 1 для: Cutting Ukrainian accommodation supports
 [2026-05-01 16:04:08] Успешно, получено 626 символов
 [2026-05-01 16:04:09] === Блок evening завершён ===
+[2026-05-01 18:00:52] Загружено 932 уже отправленных новостей
+[2026-05-01 18:00:52] === Запуск блока: ai_evening ===
+[2026-05-01 18:00:52] Неизвестный источник (transport topics online): Bot Auto Executes Fully Autonomous Freig
+[2026-05-01 18:00:52] Неизвестный источник (xda developers): Home Assistant freed me from the smart h
+[2026-05-01 18:00:52] Неизвестный источник (financial post): ‘Right Tail Risk’ Trade Put to Test by M
+[2026-05-01 18:00:52] Неизвестный источник (globenewswire): LiveOne (Nasdaq: LVO) and Subsidiary Pod
+[2026-05-01 18:00:52] Нет фото: Tax refunds and AI boom have offset some
+[2026-05-01 18:00:52] Неизвестный источник (pymnts.com): Mastercard Sees Agentic Commerce Growth 
+[2026-05-01 18:00:52] Неизвестный источник (globenewswire): LiveOne (Nasdaq: LVO) and Subsidiary Pod
+[2026-05-01 18:00:52] Неизвестный источник (siliconangle news): Anthropic announces Claude Security publ
+[2026-05-01 18:00:52] Неизвестный источник (cnbc): Pricey NFL, NBA ownership stakes are pus
+[2026-05-01 18:00:52] Неизвестный источник (financial post): AI Boom Boosts US Economy, Offering Way 
+[2026-05-01 18:00:52] Неизвестный источник (financial post): ABS Acquires RMC Global to Strengthen Cy
+[2026-05-01 18:00:52] Неизвестный источник (wsls 10): Teens embrace social media and influence
+[2026-05-01 18:00:52] Нет фото: From grading papers to decoding jargon, 
+[2026-05-01 18:00:52] Нет фото: idtrackerai 6.0.15a0
+[2026-05-01 18:00:52] Неизвестный источник (techtarget.com): Why hybrid cloud is becoming the default
+[2026-05-01 18:00:52] Неизвестный источник (dezeen): Sculptural wooden play apparatus among p
+[2026-05-01 18:00:52] Неизвестный источник (fortune): 57% of Americans between 13 and 17 years
+[2026-05-01 18:00:52] Неизвестный источник (healthpolicy-watch.news): EXCLUSIVE: WHO Opens Nominations For Nex
+[2026-05-01 18:00:52] Неизвестный источник (plos.org): Enhancing the forecast accuracy of the d
+[2026-05-01 18:00:52] Неизвестный источник (plos.org): Enhanced convolutional block attention m
+[2026-05-01 18:00:52] Неизвестный источник (financial post): US Economy Grows a Solid 2%, Boosted by 
+[2026-05-01 18:00:52] Неизвестный источник (marketbeat): Cimpress Q3 Earnings Call Highlights
+[2026-05-01 18:00:52] Неизвестный источник (feedbird.com): Affordable Social Media Marketing Servic
+[2026-05-01 18:00:52] Неизвестный источник (financial post): Uber adds hotel bookings through new Exp
+[2026-05-01 18:00:52] Неизвестный источник (siliconangle news): Runpod launches Flash to bring AI infere
+[2026-05-01 18:00:52] Неизвестный источник (siliconangle news): DigiCert debuts AI Trust framework to se
+[2026-05-01 18:00:52] Неизвестный источник (siliconangle news): HPE introduces new ProLiant systems for 
+[2026-05-01 18:00:52] Неизвестный источник (twz.com): China is Equal In Any Future Fight, Gene
+[2026-05-01 18:00:52] Нет фото: Caterpillar Profit Beats on Construction
+[2026-05-01 18:00:52] Нет фото: U.S. economy grew 2% from January-March,
+[2026-05-01 18:00:52] Неизвестный источник (siliconangle news): OpenMetadata maker Collate launches AI A
+[2026-05-01 18:00:52] Нет фото: Moscow's Military Axis With Iran Impacti
+[2026-05-01 18:00:52] Неизвестный источник (computerweekly.com): Inseego to acquire Nokia fixed wireless 
+[2026-05-01 18:00:52] Неизвестный источник (psychology today): Managing the Machines: How AI Intensifie
+[2026-05-01 18:00:52] Неизвестный источник (globenewswire): Bitget lists SKYAI (SKYAI) for Spot Trad
+[2026-05-01 18:00:52] Неизвестный источник (poynter): An unlikely ally warns the FCC is going 
+[2026-05-01 18:00:52] Неизвестный источник (globenewswire): Saia Reports First Quarter Results
+[2026-05-01 18:00:52] Неизвестный источник (computerweekly.com): HPE expands ProLiant edge network portfo
+[2026-05-01 18:00:52] Неизвестный источник (abcnews.com): Teens embrace social media and influence
+[2026-05-01 18:00:52] Нет фото: NetraMark To Open The Market At The Toro
+[2026-05-01 18:00:52] AI новости: найдено 0 после фильтрации
+[2026-05-01 18:00:52] ⚠️ Блок *AI вечер* (01.05.2026) — новостей не найдено!
+[2026-05-01 18:00:53] === Блок ai_evening завершён ===
