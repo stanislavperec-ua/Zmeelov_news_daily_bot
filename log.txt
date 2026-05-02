@@ -12367,3 +12367,41 @@ U.S. has violated ceasefire agr
 [2026-05-02 08:00:57] Попытка 1 для: From Laois to London: CPM boss Lorraine 
 [2026-05-02 08:00:58] Успешно, получено 646 символов
 [2026-05-02 08:00:59] === Блок ai_morning завершён ===
+[2026-05-02 11:00:46] Загружено 939 уже отправленных новостей
+[2026-05-02 11:00:46] === Запуск блока: midday ===
+[2026-05-02 11:00:46] Неизвестный источник (tipranks.com): Why Are Stock Market Futures Up Today, 5
+[2026-05-02 11:00:46] Неизвестный источник (heat.com): Live Updates: Wolves and Knicks Advance,
+[2026-05-02 11:00:46] Заблокированный источник (sciencealert): AI Can Spot Pancreatic Cancer Years Befo
+[2026-05-02 11:00:46] Неизвестный источник (the globe and mail): Your daily horoscope: May 1, 2026 - The 
+[2026-05-02 11:00:46] Неизвестный источник (deadline): ‘The Devil Wears Prada 2’ Strikes A Pose
+[2026-05-02 11:00:46] Неизвестный источник (cnbc): Oil rises as White House says Iran cease
+[2026-05-02 11:00:46] Неизвестный источник (allphly.com): Instant observations: Sixers stars domin
+[2026-05-02 11:00:46] Пропускаю уже отправленную: House passes DHS funding bill that would end shutd
+[2026-05-02 11:00:46] Неизвестный источник (field gulls): Seattle Seahawks confirm 7 undrafted fre
+[2026-05-02 11:00:46] Неизвестный источник (hollywood reporter): Britney Spears Charged With DUI Involvin
+[2026-05-02 11:00:46] Неизвестный источник (forbes): Mark Zuckerberg Says AI Costs Contribute
+[2026-05-02 11:00:46] Неизвестный источник (earth.com): Scientists identify exactly how and why 
+[2026-05-02 11:00:46] Неизвестный источник (pure xbox): Xbox Mode Has Officially Arrived, Aiming
+[2026-05-02 11:00:46] Неизвестный источник (notebookcheck.net): Made in Germany: Volla Phone Plinius lau
+[2026-05-02 11:00:46] Неизвестный источник (phys.org): A lost galaxy called 'Loki' may be hidin
+[2026-05-02 11:00:46] Неизвестный источник (space.com): SpaceX Falcon Heavy launch seen from spa
+[2026-05-02 11:00:46] Неизвестный источник (android police): Samsung's smartglasses face a serious pr
+[2026-05-02 11:00:46] Старая новость (2026-04-30T10:00:00Z): To catch colorectal cancer early, advoca
+[2026-05-02 11:00:46] Старая новость (2026-04-29T21:01:46Z): Long a dream, it's now real: a fast and 
+[2026-05-02 11:00:46] Мировые новости: найдено 13 после фильтрации
+[2026-05-02 11:00:48] Обрабатываю: Six injured in Washington state school stabbing
+[2026-05-02 11:00:48] Попытка 1 для: Six injured in Washington state school s
+[2026-05-02 11:00:49] Успешно, получено 753 символов
+[2026-05-02 11:00:50] Пауза 60 секунд...
+[2026-05-02 11:01:50] Обрабатываю: Jewish Londoners describe "utter horror" and living in fear 
+[2026-05-02 11:01:50] Попытка 1 для: Jewish Londoners describe "utter horror"
+[2026-05-02 11:01:51] Успешно, получено 776 символов
+[2026-05-02 11:01:51] Пауза 60 секунд...
+[2026-05-02 11:02:51] Обрабатываю: Trump drops MAHA favorite for surgeon general pick who has c
+[2026-05-02 11:02:51] Попытка 1 для: Trump drops MAHA favorite for surgeon ge
+[2026-05-02 11:02:52] Успешно, получено 781 символов
+[2026-05-02 11:02:53] Пауза 60 секунд...
+[2026-05-02 11:03:53] Обрабатываю: Former leader Aung San Suu Kyi moved from prison to house ar
+[2026-05-02 11:03:53] Попытка 1 для: Former leader Aung San Suu Kyi moved fro
+[2026-05-02 11:03:54] Успешно, получено 599 символов
+[2026-05-02 11:03:54] === Блок midday завершён ===
