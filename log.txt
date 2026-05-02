@@ -12456,3 +12456,54 @@ U.S. has violated ceasefire agr
 [2026-05-02 16:05:00] Попытка 1 для: Margaret Atwood to Headline Canada-Ukrai
 [2026-05-02 16:05:02] Успешно, получено 753 символов
 [2026-05-02 16:05:02] === Блок evening завершён ===
+[2026-05-02 18:00:48] Загружено 949 уже отправленных новостей
+[2026-05-02 18:00:48] === Запуск блока: ai_evening ===
+[2026-05-02 18:00:48] Неизвестный источник (decrypt): OpenAI's GPT-5.5 Matches Claude Mythos i
+[2026-05-02 18:00:48] Неизвестный источник (globenewswire): Infini Secures MSB Registration in Canad
+[2026-05-02 18:00:48] Неизвестный источник (siliconangle news): AI constraints must come before deployme
+[2026-05-02 18:00:48] Неизвестный источник (sixcolors.com): Apple in the Enterprise: The complete 20
+[2026-05-02 18:00:48] Неизвестный источник (techradar): 'Exactly one photon': European scientist
+[2026-05-02 18:00:48] Неизвестный источник (decrypt): Pentagon Signs AI Deals With Google, Ope
+[2026-05-02 18:00:48] Нет фото: US military reaches deals with 7 tech co
+[2026-05-02 18:00:48] Неизвестный источник (financial post): High Point University Honors Graduate St
+[2026-05-02 18:00:48] Неизвестный источник (wplg local 10): States across the wildfire-prone Western
+[2026-05-02 18:00:48] Неизвестный источник (tom's hardware uk): The Pentagon announces AI deals with Ope
+[2026-05-02 18:00:48] Неизвестный источник (zdnet): I've tested robot mowers for years - her
+[2026-05-02 18:00:48] Неизвестный источник (nextgov): Pentagon makes agreements with 7 compani
+[2026-05-02 18:00:48] Неизвестный источник (rte): Pentagon reaches agreements with leading
+[2026-05-02 18:00:48] Неизвестный источник (siliconangle news): AI lifts clouds even higher, AWS moves u
+[2026-05-02 18:00:48] Нет фото: Announcing Kubernetes Dynamic Resource A
+[2026-05-02 18:00:48] Неизвестный источник (anime news network): This Week in Games - Final Fantasy Reade
+[2026-05-02 18:00:48] Неизвестный источник (globenewswire): Haitian Development Network Foundation L
+[2026-05-02 18:00:48] Неизвестный источник (thewrap): The Ledger: Say Hello to Our Finance-Foc
+[2026-05-02 18:00:48] Неизвестный источник (hollywood reporter): AI Conversation With R2-D2, Skynet, HAL 
+[2026-05-02 18:00:48] Неизвестный источник (globenewswire): XTEND Secures $2.2 Million Contract for 
+[2026-05-02 18:00:48] Неизвестный источник (globenewswire): Mount Sinai Health System Breaks Ground 
+[2026-05-02 18:00:48] Неизвестный источник (decrypt): Morning Minute: MegaETH's MEGA Debut Big
+[2026-05-02 18:00:48] Неизвестный источник (cna): Pentagon reaches agreements with leading
+[2026-05-02 18:00:48] Неизвестный источник (cna): Pentagon reaches agreements with top AI 
+[2026-05-02 18:00:48] Неизвестный источник (financial post): Shopify analyst who saw selloff coming s
+[2026-05-02 18:00:48] Неизвестный источник (financial post): Shopify Analyst Who Saw Selloff Coming S
+[2026-05-02 18:00:48] Нет фото: Griffin Seafoot Named Champions of Tomor
+[2026-05-02 18:00:48] Неизвестный источник (globenewswire): Abaxx Announces the Formation of Abaxx L
+[2026-05-02 18:00:48] Неизвестный источник (marketbeat): Camping World Q1 Earnings Call Highlight
+[2026-05-02 18:00:48] Неизвестный источник (tmonews): T-Mobile’s 2026 T-Challenge Winners Show
+[2026-05-02 18:00:48] Неизвестный источник (financial post): Bjorn Lomborg: Strait of Hormuz blockade
+[2026-05-02 18:00:48] Неизвестный источник (hollywood reporter): How India Became the World's AI Film Lab
+[2026-05-02 18:00:48] Неизвестный источник (businessline): Tech giants ramp up AI spending, but ret
+[2026-05-02 18:00:48] Неизвестный источник (the conversation africa): How individual consciousness works – and
+[2026-05-02 18:00:48] Неизвестный источник (rte): Revenues and headcount to increase at Li
+[2026-05-02 18:00:48] Внутренний дубль: Pentagon reaches agreements with leading AI compan
+[2026-05-02 18:00:48] AI новости: найдено 4 после фильтрации
+[2026-05-02 18:00:50] Обрабатываю: Two Novels Take on the Post-American Dream
+[2026-05-02 18:00:50] Попытка 1 для: Two Novels Take on the Post-American Dre
+[2026-05-02 18:00:51] Успешно, получено 468 символов
+[2026-05-02 18:00:51] Пауза 60 секунд...
+[2026-05-02 18:01:51] Обрабатываю: Cyber-Insecurity in the AI Era
+[2026-05-02 18:01:51] Попытка 1 для: Cyber-Insecurity in the AI Era
+[2026-05-02 18:01:52] Успешно, получено 702 символов
+[2026-05-02 18:01:53] Пауза 60 секунд...
+[2026-05-02 18:02:53] Обрабатываю: Pentagon reaches agreements with leading AI companies
+[2026-05-02 18:02:53] Попытка 1 для: Pentagon reaches agreements with leading
+[2026-05-02 18:02:53] Успешно, получено 622 символов
+[2026-05-02 18:02:54] === Блок ai_evening завершён ===
