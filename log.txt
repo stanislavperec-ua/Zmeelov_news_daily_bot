@@ -12321,3 +12321,49 @@ U.S. has violated ceasefire agr
 [2026-05-02 06:05:07] Попытка 1 для: EU approves €90B loan to Ukraine as Hung
 [2026-05-02 06:05:07] Успешно, получено 463 символов
 [2026-05-02 06:05:08] === Блок morning завершён ===
+[2026-05-02 08:00:55] Загружено 938 уже отправленных новостей
+[2026-05-02 08:00:55] === Запуск блока: ai_morning ===
+[2026-05-02 08:00:55] Неизвестный источник (pymnts.com): Mastercard Sees Data Moving Payments Fro
+[2026-05-02 08:00:55] Неизвестный источник (computerweekly.com): DE-CIX expands New York metro connectivi
+[2026-05-02 08:00:55] Неизвестный источник (financial post): S&P 500 and Nasdaq Futures Rise, Yen Par
+[2026-05-02 08:00:55] Неизвестный источник (cnbc): China’s EV price war turns into AI arms 
+[2026-05-02 08:00:55] Неизвестный источник (financial post): Singapore PM Warns of AI Disruptions, Vo
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Agentic engineering startup JuliaHub lan
+[2026-05-02 08:00:55] Неизвестный источник (bleepingcomputer): Unauthorized Remote Access
+[2026-05-02 08:00:55] Неизвестный источник (bleepingcomputer): Unauthorized Remote Access
+[2026-05-02 08:00:55] Неизвестный источник (bleepingcomputer): Unauthorized Remote Access
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Western Digital and Sandisk crush Wall S
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Standard Intelligence raises $75M to dev
+[2026-05-02 08:00:55] Неизвестный источник (tim.blog): The Tim Ferriss Show Transcripts: Elad G
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Apple beats estimates on strong iPhone s
+[2026-05-02 08:00:55] Неизвестный источник (motley fool australia): Up 14% in April, is it too late to buy W
+[2026-05-02 08:00:55] Неизвестный источник (eff): Utah’s New Law Targeting VPNs Goes Into 
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Check Point shares plunge 19% on mixed f
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Featherless.ai pulls in $20M to scale se
+[2026-05-02 08:00:55] Неизвестный источник (pymnts.com): Cancer Never Saw the Algorithm Coming
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Netomi banks $110M to embed agentic AI d
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Agentic opportunity: OpenAI and Stripe b
+[2026-05-02 08:00:55] Неизвестный источник (new york post): Inside the well-funded AI doom machine —
+[2026-05-02 08:00:55] Нет фото: Quantum Leap Acquisition Corp Announces 
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): Atlassian soars, Twilio and Five9 rally 
+[2026-05-02 08:00:55] Неизвестный источник (globenewswire): XMax Inc. Launches AI Inference Platform
+[2026-05-02 08:00:55] Неизвестный источник (globenewswire): Juvthorix Unveiled: Should You Join Juvt
+[2026-05-02 08:00:55] Неизвестный источник (cnet): NordVPN's Browser Extension Will Flag Su
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): SoftBank reportedly plans to spin off $1
+[2026-05-02 08:00:55] Неизвестный источник (nextgov): Why recovery speed matters when the home
+[2026-05-02 08:00:55] Неизвестный источник (yahoo entertainment): DHL Group boosts profit despite lower sh
+[2026-05-02 08:00:55] Неизвестный источник (globenewswire): RadNet and Trinity Health’s Saint Alphon
+[2026-05-02 08:00:55] Неизвестный источник (globenewswire): NSF ASCEND Engine Launches Third Request
+[2026-05-02 08:00:55] Неизвестный источник (siliconangle news): A cybersecurity harbinger: Oracle front-
+[2026-05-02 08:00:55] Неизвестный источник (the next web): Meta posted its best quarter ever. The s
+[2026-05-02 08:00:55] Неизвестный источник (financial post): Apple earnings become sideshow with new 
+[2026-05-02 08:00:55] Неизвестный источник (thestreet): Major energy firm makes $1.5 billion mov
+[2026-05-02 08:00:55] Неизвестный источник (financial post): Meta gets US$96 billion of orders for la
+[2026-05-02 08:00:55] Нет фото: CIRI Prepares to Welcome the Capital Mar
+[2026-05-02 08:00:55] Неизвестный источник (pymnts.com): Agentic AI Gets Its Own Payment Protocol
+[2026-05-02 08:00:55] Неизвестный источник (transport topics online): Bot Auto Executes Fully Autonomous Freig
+[2026-05-02 08:00:55] AI новости: найдено 1 после фильтрации
+[2026-05-02 08:00:57] Обрабатываю: From Laois to London: CPM boss Lorraine Butler on Britain’s 
+[2026-05-02 08:00:57] Попытка 1 для: From Laois to London: CPM boss Lorraine 
+[2026-05-02 08:00:58] Успешно, получено 646 символов
+[2026-05-02 08:00:59] === Блок ai_morning завершён ===
