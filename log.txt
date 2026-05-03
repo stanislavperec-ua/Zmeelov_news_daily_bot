@@ -12611,3 +12611,40 @@ U.S. has violated ceasefire agr
 [2026-05-03 08:00:48] Попытка 1 для: Two Novels Take on the Post-American Dre
 [2026-05-03 08:00:49] Успешно, получено 469 символов
 [2026-05-03 08:00:49] === Блок ai_morning завершён ===
+[2026-05-03 11:00:51] Загружено 958 уже отправленных новостей
+[2026-05-03 11:00:51] === Запуск блока: midday ===
+[2026-05-03 11:00:51] Неизвестный источник (tmz): 'RHOBH’ Kathy Hilton Fighting Injured Ho
+[2026-05-03 11:00:51] Неизвестный источник (cleveland.com): Late Cleveland turnover, improbable 3-po
+[2026-05-03 11:00:51] Неизвестный источник (wabc-tv): NYC May Day: Protests and rallies take p
+[2026-05-03 11:00:51] Неизвестный источник (mlive.com): Pistons fight back from 24 down, force G
+[2026-05-03 11:00:51] Неизвестный источник (deadline): Jodie Sweetin Received One-Cent Residual
+[2026-05-03 11:00:51] Неизвестный источник (the advocate): Post Malone and Jelly Roll’s Tiger Stadi
+[2026-05-03 11:00:51] Неизвестный источник (cnet): Google Photos' New AI Tool Will Help You
+[2026-05-03 11:00:51] Неизвестный источник (spacenews): NASA to increase value of CLPS contract 
+[2026-05-03 11:00:51] Неизвестный источник (wls-tv): Why is gas so high in Illinois? Gas pric
+[2026-05-03 11:00:51] Неизвестный источник (gizmodo.com): Everything You Missed From Elon Musk’s T
+[2026-05-03 11:00:51] Неизвестный источник (variety): Oscar Rule Changes: AI Crackdown, Actors
+[2026-05-03 11:00:51] Неизвестный источник (todays-golfer.com): Tour stars branded 'SELFISH' as LIV Golf
+[2026-05-03 11:00:51] Неизвестный источник (the daily galaxy --great discoveries channel): A Scientist Says Humans Were Designed to
+[2026-05-03 11:00:51] Неизвестный источник (yahoo entertainment): Artemis II crew reveal the 1st food they
+[2026-05-03 11:00:51] Старая новость (2026-05-01T09:00:00Z): Full moon alert: May's Flower 'micromoon
+[2026-05-03 11:00:51] Старая новость (2026-04-30T20:52:16Z): Love the skin you’re in? Check it for si
+[2026-05-03 11:00:51] Старая новость (2026-04-30T17:15:00Z): Halley’s Comet Lights Up The Sky Again T
+[2026-05-03 11:00:51] Старая новость (2026-04-30T10:00:00Z): To catch colorectal cancer early, advoca
+[2026-05-03 11:00:51] Мировые новости: найдено 11 после фильтрации
+[2026-05-03 11:00:53] Обрабатываю: Appeals court limits abortion pill access nationwide
+[2026-05-03 11:00:53] Попытка 1 для: Appeals court limits abortion pill acces
+[2026-05-03 11:00:55] Успешно, получено 657 символов
+[2026-05-03 11:00:55] Пауза 60 секунд...
+[2026-05-03 11:01:55] Обрабатываю: Live Updates: Trump "not satisfied" with new peace deal offe
+[2026-05-03 11:01:55] Попытка 1 для: Live Updates: Trump "not satisfied" with
+[2026-05-03 11:01:56] Успешно, получено 629 символов
+[2026-05-03 11:01:56] Пауза 60 секунд...
+[2026-05-03 11:02:56] Обрабатываю: FDA expands access to a promising drug for one of the worst 
+[2026-05-03 11:02:56] Попытка 1 для: FDA expands access to a promising drug f
+[2026-05-03 11:02:57] Успешно, получено 937 символов
+[2026-05-03 11:02:58] Пауза 60 секунд...
+[2026-05-03 11:03:58] Обрабатываю: Pirro says video shows moment gunman fired outside correspon
+[2026-05-03 11:03:58] Попытка 1 для: Pirro says video shows moment gunman fir
+[2026-05-03 11:03:59] Успешно, получено 653 символов
+[2026-05-03 11:03:59] === Блок midday завершён ===
