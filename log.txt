@@ -12793,3 +12793,40 @@ U.S. has violated ceasefire agr
 [2026-05-04 06:05:10] Попытка 1 для: How culture became one of Ukraine’s most
 [2026-05-04 06:05:11] Успешно, получено 852 символов
 [2026-05-04 06:05:11] === Блок morning завершён ===
+[2026-05-04 08:00:50] Загружено 973 уже отправленных новостей
+[2026-05-04 08:00:50] === Запуск блока: ai_morning ===
+[2026-05-04 08:00:51] Неизвестный источник (opiniojuris.org): Events and Announcements: 3 May 2026
+[2026-05-04 08:00:51] Заблокированный источник (naturalnews.com): AI for the Good Guys: The future of trut
+[2026-05-04 08:00:51] Неизвестный источник (the punch): Staying consistent with commitment fetch
+[2026-05-04 08:00:51] Неизвестный источник (bleeding cool news): Batman/Static: Beyond #6 Preview: Lights
+[2026-05-04 08:00:51] Неизвестный источник (bleeding cool news): Cyclops #4 Preview: Scott Summers Tries 
+[2026-05-04 08:00:51] Неизвестный источник (lifetechnology.com): Study: Hormone Replacement Therapy Boost
+[2026-05-04 08:00:51] Неизвестный источник (vanguard): 4 Nigerian tech Startups lead 10 others 
+[2026-05-04 08:00:51] Неизвестный источник (screen rant): 8 Shows About AI That Have Aged Like Fin
+[2026-05-04 08:00:51] Неизвестный источник (bleeding cool news): Daredevil #2 Preview: Matt Gets Tenure i
+[2026-05-04 08:00:51] Неизвестный источник (livemint): CEO Greg Abel moves to assure Berkshire 
+[2026-05-04 08:00:51] Пропускаю уже отправленную: Crowd shrinks as Berkshire Hathaway’s new CEO lead
+[2026-05-04 08:00:51] Неизвестный источник (yahoo entertainment): Jim Cramer’s Opinion on 21 Stocks: Oklo,
+[2026-05-04 08:00:51] Нет фото: Beijing's Trojan Horse: The NGO Network 
+[2026-05-04 08:00:51] Неизвестный источник (bettedangerous.com): Russia Poisons Wikipedia
+[2026-05-04 08:00:51] Неизвестный источник (wkmg news 6 & clickorlando): Berkshire Hathaway's profits double as s
+[2026-05-04 08:00:51] Неизвестный источник (bleeding cool news): Fantastic Four #10 Preview: Sue Storm Me
+[2026-05-04 08:00:51] Нет фото: Sigenergy Releases 2025 Environmental, S
+[2026-05-04 08:00:51] Неизвестный источник (fortune): Anthropic’s most powerful AI model just 
+[2026-05-04 08:00:51] Неизвестный источник (financial post): Charting the Global Economy: ECB Is Lean
+[2026-05-04 08:00:51] Неизвестный источник (springer.com): A systematic exploration of GenAI-driven
+[2026-05-04 08:00:51] Неизвестный источник (propublica): Event With Links to Oil Industry Teaches
+[2026-05-04 08:00:51] Внутренний дубль: SIS Ltd eyes Rs 20,000 crore revenue in FY27; targ
+[2026-05-04 08:00:51] AI новости: найдено 3 после фильтрации
+[2026-05-04 08:00:53] Обрабатываю: SIS Ltd eyes Rs 20,000 crore revenue in FY27; targets 5 lakh
+[2026-05-04 08:00:53] Попытка 1 для: SIS Ltd eyes Rs 20,000 crore revenue in 
+[2026-05-04 08:00:54] Успешно, получено 766 символов
+[2026-05-04 08:00:55] Пауза 60 секунд...
+[2026-05-04 08:01:55] Обрабатываю: PlayStation 6 Rumors 2026 Explode: PS6 Release Date Delayed,
+[2026-05-04 08:01:55] Попытка 1 для: PlayStation 6 Rumors 2026 Explode: PS6 R
+[2026-05-04 08:01:56] Успешно, получено 576 символов
+[2026-05-04 08:01:57] Пауза 60 секунд...
+[2026-05-04 08:02:57] Обрабатываю: Chase App Down? Users Report Outages as Bank Investigates Te
+[2026-05-04 08:02:57] Попытка 1 для: Chase App Down? Users Report Outages as 
+[2026-05-04 08:02:58] Успешно, получено 821 символов
+[2026-05-04 08:02:59] === Блок ai_morning завершён ===
