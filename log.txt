@@ -12928,3 +12928,35 @@ U.S. has violated ceasefire agr
 [2026-05-04 16:05:17] Попытка 1 для: A shifting stage: Ukraine fights for att
 [2026-05-04 16:05:18] Успешно, получено 817 символов
 [2026-05-04 16:05:19] === Блок evening завершён ===
+[2026-05-04 18:00:51] Загружено 985 уже отправленных новостей
+[2026-05-04 18:00:51] === Запуск блока: ai_evening ===
+[2026-05-04 18:00:52] Нет фото: stream-dataset 0.1.6
+[2026-05-04 18:00:52] Неизвестный источник (citizenlab.ca): Bad Connection: Global telecom exploitat
+[2026-05-04 18:00:52] Неизвестный источник (bitcoinist): Bitcoin Mining Firm Riot Platforms Recor
+[2026-05-04 18:00:52] Неизвестный источник (r-bloggers.com): The Magic of In-Context Learning (ICL): 
+[2026-05-04 18:00:52] Неизвестный источник (globenewswire): AI Meets Crypto: As Automated Trading Ga
+[2026-05-04 18:00:52] Неизвестный источник (businessline): Data centre boom lifts network solutions
+[2026-05-04 18:00:52] Неизвестный источник (new york magazine): AI Can’t Solve America’s Diagnosis Crisi
+[2026-05-04 18:00:52] Неизвестный источник (activistpost.com): Palantir Manifesto Shows The Clear Conve
+[2026-05-04 18:00:52] Неизвестный источник (business insider): AI is disrupting nursing as Uber-like ap
+[2026-05-04 18:00:52] Неизвестный источник (opiniojuris.org): Events and Announcements: 3 May 2026
+[2026-05-04 18:00:52] Пропускаю уже отправленную: SIS Ltd eyes Rs 20,000 crore revenue in FY27; targ
+[2026-05-04 18:00:52] Заблокированный источник (naturalnews.com): AI for the Good Guys: The future of trut
+[2026-05-04 18:00:52] Пропускаю уже отправленную: PlayStation 6 Rumors 2026 Explode: PS6 Release Dat
+[2026-05-04 18:00:52] Неизвестный источник (the punch): Staying consistent with commitment fetch
+[2026-05-04 18:00:52] Неизвестный источник (bleeding cool news): Batman/Static: Beyond #6 Preview: Lights
+[2026-05-04 18:00:52] Неизвестный источник (bleeding cool news): Cyclops #4 Preview: Scott Summers Tries 
+[2026-05-04 18:00:52] Неизвестный источник (lifetechnology.com): Study: Hormone Replacement Therapy Boost
+[2026-05-04 18:00:52] Неизвестный источник (vanguard): 4 Nigerian tech Startups lead 10 others 
+[2026-05-04 18:00:52] Неизвестный источник (screen rant): 8 Shows About AI That Have Aged Like Fin
+[2026-05-04 18:00:52] Неизвестный источник (bleeding cool news): Daredevil #2 Preview: Matt Gets Tenure i
+[2026-05-04 18:00:52] Неизвестный источник (livemint): CEO Greg Abel moves to assure Berkshire 
+[2026-05-04 18:00:52] AI новости: найдено 2 после фильтрации
+[2026-05-04 18:00:54] Обрабатываю: Meta’s Q1 earnings show AI driving engagement, ad gains acro
+[2026-05-04 18:00:54] Попытка 1 для: Meta’s Q1 earnings show AI driving engag
+[2026-05-04 18:00:55] Успешно, получено 939 символов
+[2026-05-04 18:00:56] Пауза 60 секунд...
+[2026-05-04 18:01:56] Обрабатываю: SIS Ltd eyes Rs 20,000 crore revenue in FY27; targets 5 lakh
+[2026-05-04 18:01:56] Попытка 1 для: SIS Ltd eyes Rs 20,000 crore revenue in 
+[2026-05-04 18:01:57] Успешно, получено 769 символов
+[2026-05-04 18:01:57] === Блок ai_evening завершён ===
