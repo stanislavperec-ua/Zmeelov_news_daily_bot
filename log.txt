@@ -12830,3 +12830,47 @@ U.S. has violated ceasefire agr
 [2026-05-04 08:02:57] Попытка 1 для: Chase App Down? Users Report Outages as 
 [2026-05-04 08:02:58] Успешно, получено 821 символов
 [2026-05-04 08:02:59] === Блок ai_morning завершён ===
+[2026-05-04 11:00:50] Загружено 975 уже отправленных новостей
+[2026-05-04 11:00:50] === Запуск блока: midday ===
+[2026-05-04 11:00:50] Неизвестный источник (espn): Boxing results: Benavidez stops Ramirez,
+[2026-05-04 11:00:50] Неизвестный источник (whereisthebuzz.com): Olivia Rodrigo Clowns on Jake Paul at SN
+[2026-05-04 11:00:50] Неизвестный источник (dw (english)): Austria: Police arrest suspect over pois
+[2026-05-04 11:00:50] Неизвестный источник (nbcsports.com): Joel Embiid’s big night, Boston’s missed
+[2026-05-04 11:00:50] Пропускаю уже отправленную: Trump says new strikes possible if Iran "misbehave
+[2026-05-04 11:00:50] Неизвестный источник (nhl news): Canes Announce Second Round Schedule - N
+[2026-05-04 11:00:50] Неизвестный источник (opb news): Police say 1 dead, multiple explosive de
+[2026-05-04 11:00:50] Неизвестный источник (cnbc): 'Godspeed my friend': Inside the final h
+[2026-05-04 11:00:50] Неизвестный источник (fortune): Warren Buffett says 'we've never had peo
+[2026-05-04 11:00:50] Неизвестный источник (entertainment weekly): Anna Nicole Smith's daughter, Dannielynn
+[2026-05-04 11:00:50] Неизвестный источник (forbes): ‘Action Is Needed’—Microsoft Changes Win
+[2026-05-04 11:00:50] Неизвестный источник (variety): Box Office: ‘The Devil Wears Prada 2’ St
+[2026-05-04 11:00:50] Неизвестный источник (thestreet): Mortgage rates erased 9 months of gains,
+[2026-05-04 11:00:50] Старая новость (2026-05-02T10:43:54Z): Confirmed cases of measles in DC and Vir
+[2026-05-04 11:00:50] Старая новость (2026-05-02T10:01:00Z): LG UltraGear 32GX870B-B and 45GX950B-B m
+[2026-05-04 11:00:50] Старая новость (2026-05-02T10:00:00Z): The Eta Aquarid meteor shower peaks next
+[2026-05-04 11:00:50] Старая новость (2026-05-02T06:55:50Z): In Photos: Full ‘Flower Moon’ Lights Up 
+[2026-05-04 11:00:50] Старая новость (2026-05-02T03:59:00Z): Surge in tick-borne illnesses prompts ex
+[2026-05-04 11:00:50] Старая новость (2026-05-02T03:53:00Z): Leaker indicates that Nvidia's GeForce R
+[2026-05-04 11:00:50] Старая новость (2026-05-02T02:41:26Z): FDA expands access to a promising drug f
+[2026-05-04 11:00:50] Старая новость (2026-05-01T22:23:36Z): Study: AI models that consider user's fe
+[2026-05-04 11:00:50] Старая новость (2026-05-01T22:07:00Z): US military reaches deals with 7 tech co
+[2026-05-04 11:00:50] Старая новость (2026-05-01T16:47:50Z): GLP-1s for weight loss: Should you reall
+[2026-05-04 11:00:50] Старая новость (2026-05-01T16:45:00Z): A Scientist Says Humans Were Designed to
+[2026-05-04 11:00:50] Старая новость (2026-05-01T14:45:00Z): Artemis II crew gives 5-year-old aspirin
+[2026-05-04 11:00:50] Мировые новости: найдено 8 после фильтрации
+[2026-05-04 11:00:53] Обрабатываю: Kentucky Derby 2026: Cherie DeVaux makes history as Golden T
+[2026-05-04 11:00:53] Попытка 1 для: Kentucky Derby 2026: Cherie DeVaux makes
+[2026-05-04 11:00:54] Успешно, получено 687 символов
+[2026-05-04 11:00:55] Пауза 60 секунд...
+[2026-05-04 11:01:55] Обрабатываю: Taiwan leader visits Eswatini despite China’s attempts to bl
+[2026-05-04 11:01:55] Попытка 1 для: Taiwan leader visits Eswatini despite Ch
+[2026-05-04 11:01:56] Успешно, получено 903 символов
+[2026-05-04 11:01:57] Пауза 60 секунд...
+[2026-05-04 11:02:57] Обрабатываю: Drugmakers ask Supreme Court to restore abortion pill access
+[2026-05-04 11:02:57] Попытка 1 для: Drugmakers ask Supreme Court to restore 
+[2026-05-04 11:02:58] Успешно, получено 872 символов
+[2026-05-04 11:02:58] Пауза 60 секунд...
+[2026-05-04 11:03:58] Обрабатываю: Trump says he is reviewing Iran's new offer but doubts it is
+[2026-05-04 11:03:58] Попытка 1 для: Trump says he is reviewing Iran's new of
+[2026-05-04 11:03:59] Успешно, получено 750 символов
+[2026-05-04 11:04:00] === Блок midday завершён ===
