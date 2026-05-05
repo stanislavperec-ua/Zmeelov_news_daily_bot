@@ -13012,3 +13012,37 @@ U.S. has violated ceasefire agr
 [2026-05-05 06:05:10] Попытка 1 для: Russian strikes kill 10 as Ukraine hits 
 [2026-05-05 06:05:11] Успешно, получено 617 символов
 [2026-05-05 06:05:11] === Блок morning завершён ===
+[2026-05-05 08:00:51] Загружено 993 уже отправленных новостей
+[2026-05-05 08:00:51] === Запуск блока: ai_morning ===
+[2026-05-05 08:00:51] Неизвестный источник (pymnts.com): Why the Faster Payment May Be the Safer 
+[2026-05-05 08:00:51] Нет фото: Abu Dhabi’s Judan Signals Growing Ambiti
+[2026-05-05 08:00:51] Неизвестный источник (medianama.com): TRAI mulls spectrum allocation, pricing 
+[2026-05-05 08:00:51] Неизвестный источник (bleeding cool news): Astonishing Miles Morales: Spider-Man – 
+[2026-05-05 08:00:51] Нет фото: Humanoid Robot Actuators: The Complete E
+[2026-05-05 08:00:51] Неизвестный источник (siliconangle news): AI exposes attacks traditional detection
+[2026-05-05 08:00:51] Нет фото: kymnasium 1.2.5
+[2026-05-05 08:00:51] Неизвестный источник (motley fool australia): 2 ASX 200 shares I'd buy and 2 I'd sell 
+[2026-05-05 08:00:51] Неизвестный источник (slashdot.org): AI Cameras are Being Deployed Across the
+[2026-05-05 08:00:51] Неизвестный источник (screen rant): X-Men's Magik And Colossus Swap Powers I
+[2026-05-05 08:00:51] Неизвестный источник (siliconangle news): The quiet erosion of agency in the age o
+[2026-05-05 08:00:51] Нет фото: intelligen 0.13.1
+[2026-05-05 08:00:51] Неизвестный источник (bleeding cool news): Captain Marvel: Dark Past #2 Preview: Ro
+[2026-05-05 08:00:51] Нет фото: pybibx 5.7.0
+[2026-05-05 08:00:51] Неизвестный источник (bizsugar.com): 10 Essential Business Marketing Tactics
+[2026-05-05 08:00:51] Неизвестный источник (daily signal): We Built the Statue: With AI, We Must Av
+[2026-05-05 08:00:51] Неизвестный источник (globenewswire): Luma Glasses Unveiled: Does LumaGlasses 
+[2026-05-05 08:00:51] Неизвестный источник (yahoo entertainment): Is Pagaya Technologies Ltd. (PGY) A Good
+[2026-05-05 08:00:51] Нет фото: stream-dataset 0.1.6
+[2026-05-05 08:00:51] Неизвестный источник (citizenlab.ca): Bad Connection: Global telecom exploitat
+[2026-05-05 08:00:51] Неизвестный источник (bitcoinist): Bitcoin Mining Firm Riot Platforms Recor
+[2026-05-05 08:00:51] Неизвестный источник (r-bloggers.com): The Magic of In-Context Learning (ICL): 
+[2026-05-05 08:00:51] Неизвестный источник (globenewswire): AI Meets Crypto: As Automated Trading Ga
+[2026-05-05 08:00:51] Неизвестный источник (businessline): Data centre boom lifts network solutions
+[2026-05-05 08:00:51] Неизвестный источник (new york magazine): AI Can’t Solve America’s Diagnosis Crisi
+[2026-05-05 08:00:51] Неизвестный источник (activistpost.com): Palantir Manifesto Shows The Clear Conve
+[2026-05-05 08:00:51] Неизвестный источник (business insider): AI is disrupting nursing as Uber-like ap
+[2026-05-05 08:00:51] AI новости: найдено 1 после фильтрации
+[2026-05-05 08:00:53] Обрабатываю: Meta’s Q1 earnings show AI driving engagement, ad gains acro
+[2026-05-05 08:00:53] Попытка 1 для: Meta’s Q1 earnings show AI driving engag
+[2026-05-05 08:00:55] Успешно, получено 897 символов
+[2026-05-05 08:00:55] === Блок ai_morning завершён ===
