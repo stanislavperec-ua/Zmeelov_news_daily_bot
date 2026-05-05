@@ -12960,3 +12960,55 @@ U.S. has violated ceasefire agr
 [2026-05-04 18:01:56] Попытка 1 для: SIS Ltd eyes Rs 20,000 crore revenue in 
 [2026-05-04 18:01:57] Успешно, получено 769 символов
 [2026-05-04 18:01:57] === Блок ai_evening завершён ===
+[2026-05-05 06:00:57] Загружено 987 уже отправленных новостей
+[2026-05-05 06:00:57] === Запуск блока: morning ===
+[2026-05-05 06:00:57] Неизвестный источник (cleveland.com): Cavs can take a deep breath, Jarrett All
+[2026-05-05 06:00:57] Неизвестный источник (cbs sports): Orlando Magic vs. Detroit Pistons Live S
+[2026-05-05 06:00:57] Неизвестный источник (hollywood reporter): Whitney Leavitt Exiting ‘The Secret Live
+[2026-05-05 06:00:57] Заблокированный источник (forbes): Today’s NYT Strands Hints, Spangram, Ans
+[2026-05-05 06:00:57] Неизвестный источник (understandingwar.org): Russian Offensive Campaign Assessment, M
+[2026-05-05 06:00:57] Неизвестный источник (opb news): Neighbors: Reported suspect in the Multn
+[2026-05-05 06:00:57] Неизвестный источник (nbc new york): United jet hits Turnpike light pole, tra
+[2026-05-05 06:00:57] Неизвестный источник (hoopsrumors.com): Celtics Notes: Offseason, Tatum, Stevens
+[2026-05-05 06:00:57] Неизвестный источник (entertainment weekly): 'The Devil Wears Prada 2' sashays to sen
+[2026-05-05 06:00:57] Неизвестный источник (usa today): 'Boy Meets World' producer dies, cast me
+[2026-05-05 06:00:57] Неизвестный источник (deadline): Jake Paul Responds To Olivia Rodrigo’s ‘
+[2026-05-05 06:00:57] Неизвестный источник (9to5google.com): Google Home will roll out Gemini upgrade
+[2026-05-05 06:00:57] Неизвестный источник (warhammer-community.com): Sunday Preview – Take on the Red Terror 
+[2026-05-05 06:00:57] Неизвестный источник (ksl.com): A bright moon may dim the Eta Aquarid me
+[2026-05-05 06:00:57] Неизвестный источник (phys.org): How a newly discovered organelle could h
+[2026-05-05 06:00:57] Неизвестный источник (forbes): Trump’s Disapproval Rating Hits New High
+[2026-05-05 06:00:57] Неизвестный источник (fitandwell.com): Six of the best exercises to preserve st
+[2026-05-05 06:00:57] Старая новость (2026-05-02T15:46:55Z): Astronauts who spent 10 days in space re
+[2026-05-05 06:00:57] Старая новость (2026-05-02T08:28:34Z): DC-area emergency rooms are seeing more 
+[2026-05-05 06:00:57] Мировые новости: найдено 11 после фильтрации
+[2026-05-05 06:00:57] Заблокированный источник (naturalnews.com): U.S. to Withdraw 5,000 Troops From Germa
+[2026-05-05 06:00:57] Заблокированный источник (naturalnews.com): A nation captured by the military indust
+[2026-05-05 06:00:57] Заблокированный источник (rt): Ukrainian strike kills two civilians in 
+[2026-05-05 06:00:57] Нет фото: Mass shooting reported at a campground i
+[2026-05-05 06:00:57] Украинские новости: найдено 2 после фильтрации
+[2026-05-05 06:00:57] Харьков: новостей не найдено
+[2026-05-05 06:01:00] Обрабатываю: Trump says U.S. Navy will escort ships out of the Strait of 
+[2026-05-05 06:01:00] Попытка 1 для: Trump says U.S. Navy will escort ships o
+[2026-05-05 06:01:01] Успешно, получено 688 символов
+[2026-05-05 06:01:01] Пауза 60 секунд...
+[2026-05-05 06:02:01] Обрабатываю: Three dead in suspected virus outbreak on Atlantic cruise sh
+[2026-05-05 06:02:01] Попытка 1 для: Three dead in suspected virus outbreak o
+[2026-05-05 06:02:02] Успешно, получено 817 символов
+[2026-05-05 06:02:03] Пауза 60 секунд...
+[2026-05-05 06:03:03] Обрабатываю: Shooting at lake near Oklahoma City injures at least 10
+[2026-05-05 06:03:03] Попытка 1 для: Shooting at lake near Oklahoma City inju
+[2026-05-05 06:03:04] Успешно, получено 910 символов
+[2026-05-05 06:03:04] Пауза 60 секунд...
+[2026-05-05 06:04:04] Обрабатываю: Meme Stock GameStop Pitches $56 Billion Takeover of eBay
+[2026-05-05 06:04:04] Попытка 1 для: Meme Stock GameStop Pitches $56 Billion 
+[2026-05-05 06:04:06] Успешно, получено 847 символов
+[2026-05-05 06:04:06] Фото не отправилось: 400
+[2026-05-05 06:04:09] Обрабатываю: Ukrainian drone strike hits Moscow high-rise, impacting ceas
+[2026-05-05 06:04:09] Попытка 1 для: Ukrainian drone strike hits Moscow high-
+[2026-05-05 06:04:10] Успешно, получено 733 символов
+[2026-05-05 06:04:10] Пауза 60 секунд...
+[2026-05-05 06:05:10] Обрабатываю: Russian strikes kill 10 as Ukraine hits oil tankers and term
+[2026-05-05 06:05:10] Попытка 1 для: Russian strikes kill 10 as Ukraine hits 
+[2026-05-05 06:05:11] Успешно, получено 617 символов
+[2026-05-05 06:05:11] === Блок morning завершён ===
