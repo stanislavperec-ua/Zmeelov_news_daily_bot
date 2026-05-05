@@ -13046,3 +13046,42 @@ U.S. has violated ceasefire agr
 [2026-05-05 08:00:53] Попытка 1 для: Meta’s Q1 earnings show AI driving engag
 [2026-05-05 08:00:55] Успешно, получено 897 символов
 [2026-05-05 08:00:55] === Блок ai_morning завершён ===
+[2026-05-05 11:00:52] Загружено 993 уже отправленных новостей
+[2026-05-05 11:00:52] === Запуск блока: midday ===
+[2026-05-05 11:00:57] Неизвестный источник (heat.com): 4 takeaways: Jarrett Allen cleans glass 
+[2026-05-05 11:00:57] Заблокированный источник (forbes): Today’s NYT Strands Hints, Spangram, Ans
+[2026-05-05 11:00:57] Неизвестный источник (understandingwar.org): Russian Offensive Campaign Assessment, M
+[2026-05-05 11:00:57] Неизвестный источник (opb news): Neighbors: Reported suspect in the Multn
+[2026-05-05 11:00:57] Неизвестный источник (hoopsrumors.com): Celtics Notes: Offseason, Tatum, Stevens
+[2026-05-05 11:00:57] Неизвестный источник (entertainment weekly): 'The Devil Wears Prada 2' sashays to sen
+[2026-05-05 11:00:57] Неизвестный источник (al.com): Actress reacts to ‘The Lord of the Rings
+[2026-05-05 11:00:57] Неизвестный источник (formula 1): Verstappen hit with penalty for pit exit
+[2026-05-05 11:00:57] Неизвестный источник (deadline): Jake Paul Responds To Olivia Rodrigo’s ‘
+[2026-05-05 11:00:57] Неизвестный источник (oregonlive): Police arrest man after rat poison found
+[2026-05-05 11:00:57] Неизвестный источник (phys.org): Rising temperatures could be driving up 
+[2026-05-05 11:00:57] Неизвестный источник (ksl.com): A bright moon may dim the Eta Aquarid me
+[2026-05-05 11:00:57] Неизвестный источник (forbes): Trump’s Disapproval Rating Hits New High
+[2026-05-05 11:00:57] Неизвестный источник (notebookcheck.net): Ultimate camera flagship to launch globa
+[2026-05-05 11:00:57] Неизвестный источник (geeky gadgets): Samsung Galaxy Z Fold 8 Wide: The "Passp
+[2026-05-05 11:00:57] Старая новость (2026-05-03T10:00:00Z): The body’s most mysterious organ may pla
+[2026-05-05 11:00:57] Старая новость (2026-05-02T15:46:55Z): Astronauts who spent 10 days in space re
+[2026-05-05 11:00:57] Старая новость (2026-05-02T10:11:05Z): See May's full 'Flower Moon' bloom in go
+[2026-05-05 11:00:57] Старая новость (2026-05-02T08:28:34Z): DC-area emergency rooms are seeing more 
+[2026-05-05 11:00:57] Мировые новости: найдено 13 после фильтрации
+[2026-05-05 11:00:59] Обрабатываю: Iran threatens retaliation after Trump says U.S. will guide 
+[2026-05-05 11:00:59] Попытка 1 для: Iran threatens retaliation after Trump s
+[2026-05-05 11:01:01] Успешно, получено 913 символов
+[2026-05-05 11:01:01] Фото не отправилось: 400
+[2026-05-05 11:01:02] Пауза 60 секунд...
+[2026-05-05 11:02:02] Обрабатываю: Shares mostly gain in Asia after Wall St hits new records, w
+[2026-05-05 11:02:02] Попытка 1 для: Shares mostly gain in Asia after Wall St
+[2026-05-05 11:02:03] Успешно, получено 708 символов
+[2026-05-05 11:02:03] Пауза 60 секунд...
+[2026-05-05 11:03:03] Обрабатываю: At least 10 injured in shooting at lake party near Oklahoma 
+[2026-05-05 11:03:03] Попытка 1 для: At least 10 injured in shooting at lake 
+[2026-05-05 11:03:05] Успешно, получено 772 символов
+[2026-05-05 11:03:05] Пауза 60 секунд...
+[2026-05-05 11:04:05] Обрабатываю: Rudy Giuliani in "critical" condition in hospital, spokesper
+[2026-05-05 11:04:05] Попытка 1 для: Rudy Giuliani in "critical" condition in
+[2026-05-05 11:04:06] Успешно, получено 706 символов
+[2026-05-05 11:04:07] === Блок midday завершён ===
