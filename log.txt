@@ -13145,3 +13145,54 @@ U.S. has violated ceasefire agr
 [2026-05-05 16:06:16] Попытка 1 для: Five people killed in Russian missile at
 [2026-05-05 16:06:17] Успешно, получено 735 символов
 [2026-05-05 16:06:17] === Блок evening завершён ===
+[2026-05-05 18:00:49] Загружено 1004 уже отправленных новостей
+[2026-05-05 18:00:49] === Запуск блока: ai_evening ===
+[2026-05-05 18:00:49] Нет фото: Roomba pioneer aims to crack the househo
+[2026-05-05 18:00:49] Неизвестный источник (techradar): Forget GPUs — China unveils 2 ExaFLOPS s
+[2026-05-05 18:00:49] Неизвестный источник (financial post): AI Boom to Add Hidden Extra Cost to Nort
+[2026-05-05 18:00:49] Неизвестный источник (pymnts.com): Payment Networks Ready Infrastructure fo
+[2026-05-05 18:00:49] Неизвестный источник (cnbc): Anthropic teams with Goldman, Blackstone
+[2026-05-05 18:00:49] Неизвестный источник (bleeding cool news): Jubilee: Deadly Reunion #1 Preview: Bloo
+[2026-05-05 18:00:49] Неизвестный источник (chicago reader): The faces of quantum
+[2026-05-05 18:00:49] Неизвестный источник (bitcoinist): Here’s Why This Pundit Thinks Ethereum I
+[2026-05-05 18:00:49] Неизвестный источник (financial post): Cerebras Leads Crop of IPOs Rushing to T
+[2026-05-05 18:00:49] Неизвестный источник (siliconangle news): Penske and Amazon introduce supply chain
+[2026-05-05 18:00:49] Неизвестный источник (globalresearch.ca): In the Shadow of Israel, the Greek Defen
+[2026-05-05 18:00:49] Неизвестный источник (cnbc): Bret Taylor's Sierra raises nearly $1 bi
+[2026-05-05 18:00:49] Нет фото: UAE Says Swap Talks With US Are About Jo
+[2026-05-05 18:00:49] Неизвестный источник (pypi.org): sci-hub-mcp-server added to PyPI
+[2026-05-05 18:00:49] Неизвестный источник (fair observer): Learning to Share Our Cultural Space wit
+[2026-05-05 18:00:49] Неизвестный источник (internet): ⚡ Weekly Recap: AI-Powered Phishing, And
+[2026-05-05 18:00:49] Нет фото: Northern Trust Pension Universe Data: Fl
+[2026-05-05 18:00:49] Неизвестный источник (siliconangle news): Opaque buys post-quantum cryptographic A
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): Development of predictive models for the
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): Explainable AI-driven diagnosis model fo
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): PGRP-LA regulates peritrophic matrix syn
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): VUStruct: A compute pipeline for high th
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): ATF-MGIAM: Medically-guided interpretabl
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): Development and preliminary validation o
+[2026-05-05 18:00:49] Неизвестный источник (plos.org): Capability–environment configurations dr
+[2026-05-05 18:00:49] Неизвестный источник (page six): Explosive OpenAI film features ‘unsympat
+[2026-05-05 18:00:49] Неизвестный источник (abcnews.com): States across the wildfire-prone Western
+[2026-05-05 18:00:49] Неизвестный источник (globenewswire): Owens-Brockway Glass Container Inc. Laun
+[2026-05-05 18:00:49] Неизвестный источник (yale.edu): The Real Job Destruction from AI Is Hitt
+[2026-05-05 18:00:49] Неизвестный источник (financial post): Macnica Americas Names Veteran Engineeri
+[2026-05-05 18:00:49] Нет фото: Tigo Energy Breaks Global Growth Benchma
+[2026-05-05 18:00:49] Неизвестный источник (ssir.org): What Are Schools For Now? (Blog)
+[2026-05-05 18:00:49] Неизвестный источник (supply chain dive): Gap targets improved traceability operat
+[2026-05-05 18:00:49] Нет фото: New Brookfield Venture May Restart Aband
+[2026-05-05 18:00:49] Неизвестный источник (sinocism.com): Triangles and Chokepoints | Sinification
+[2026-05-05 18:00:49] Неизвестный источник (pyimagesearch.com): Semantic Caching for LLMs: TTLs, Confide
+[2026-05-05 18:00:49] AI новости: найдено 3 после фильтрации
+[2026-05-05 18:00:52] Обрабатываю: Steam Down Right Now? Latest Status Check for May 2026 Outag
+[2026-05-05 18:00:52] Попытка 1 для: Steam Down Right Now? Latest Status Chec
+[2026-05-05 18:00:53] Успешно, получено 838 символов
+[2026-05-05 18:00:53] Пауза 60 секунд...
+[2026-05-05 18:01:53] Обрабатываю: Shares volatile as mideast tensions continue
+[2026-05-05 18:01:53] Попытка 1 для: Shares volatile as mideast tensions cont
+[2026-05-05 18:01:55] Успешно, получено 646 символов
+[2026-05-05 18:01:55] Пауза 60 секунд...
+[2026-05-05 18:02:55] Обрабатываю: Crypto investor Katie Haun raises $1 billion for new funds, 
+[2026-05-05 18:02:55] Попытка 1 для: Crypto investor Katie Haun raises $1 bil
+[2026-05-05 18:02:56] Успешно, получено 875 символов
+[2026-05-05 18:02:57] === Блок ai_evening завершён ===
