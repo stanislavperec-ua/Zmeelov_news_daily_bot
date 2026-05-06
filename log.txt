@@ -13305,3 +13305,38 @@ U.S. has violated ceasefire agr
 [2026-05-06 08:01:58] Попытка 1 для: Shares volatile as mideast tensions cont
 [2026-05-06 08:01:59] Успешно, получено 763 символов
 [2026-05-06 08:02:00] === Блок ai_morning завершён ===
+[2026-05-06 11:00:58] Загружено 1014 уже отправленных новостей
+[2026-05-06 11:00:58] === Запуск блока: midday ===
+[2026-05-06 11:00:59] Неизвестный источник (mashable): Trump considering federal AI model overs
+[2026-05-06 11:00:59] Нет фото: Hantavirus cluster linked to cruise ship
+[2026-05-06 11:00:59] Нет фото: JetBlue Steps in to Help Stranded Spirit
+[2026-05-06 11:00:59] Неизвестный источник (espn): Victor Wembanyama has 12-block triple-do
+[2026-05-06 11:00:59] Неизвестный источник (wjla): Man and child hurt after US Secret Servi
+[2026-05-06 11:00:59] Неизвестный источник (cnbc): Australia hikes rates again and warns in
+[2026-05-06 11:00:59] Неизвестный источник (variety): 'The Odyssey' Trailer: Cyclops and Evil 
+[2026-05-06 11:00:59] Неизвестный источник (deadline): Taraji P. Henson Slams Celebs Attending 
+[2026-05-06 11:00:59] Неизвестный источник (mlb trade rumors): Braves Trade Jonah Heim To A’s - MLB Tra
+[2026-05-06 11:00:59] Неизвестный источник (variety): Blake Lively Stuns on Met Gala Carpet Ho
+[2026-05-06 11:00:59] Нет фото: Mysterious world beyond Pluto may have a
+[2026-05-06 11:00:59] Неизвестный источник (gizmodo.com): Leaks Show First Look at Sony’s Absurdly
+[2026-05-06 11:00:59] Неизвестный источник (verywellhealth.com): 5 Nutrients You Need More of as You Age,
+[2026-05-06 11:00:59] Неизвестный источник (space.com): What's the best time to see Eta Aquarid 
+[2026-05-06 11:00:59] Неизвестный источник (petapixel): NASA Releases Thousands of Unseen Artemi
+[2026-05-06 11:00:59] Старая новость (2026-05-03T17:00:00Z): The body’s most mysterious organ may pla
+[2026-05-06 11:00:59] Мировые новости: найдено 14 после фильтрации
+[2026-05-06 11:01:01] Обрабатываю: Primary elections in Ohio, Indiana offer latest temperature 
+[2026-05-06 11:01:01] Попытка 1 для: Primary elections in Ohio, Indiana offer
+[2026-05-06 11:01:02] Успешно, получено 591 символов
+[2026-05-06 11:01:03] Пауза 60 секунд...
+[2026-05-06 11:02:03] Обрабатываю: An explosion at a fireworks plant in China kills at least 26
+[2026-05-06 11:02:03] Попытка 1 для: An explosion at a fireworks plant in Chi
+[2026-05-06 11:02:04] Успешно, получено 805 символов
+[2026-05-06 11:02:05] Пауза 60 секунд...
+[2026-05-06 11:03:05] Обрабатываю: Asian shares slip and oil prices retreat from latest flare i
+[2026-05-06 11:03:05] Попытка 1 для: Asian shares slip and oil prices retreat
+[2026-05-06 11:03:06] Успешно, получено 831 символов
+[2026-05-06 11:03:06] Пауза 60 секунд...
+[2026-05-06 11:04:06] Обрабатываю: Education Department opens probe into Smith College for admi
+[2026-05-06 11:04:06] Попытка 1 для: Education Department opens probe into Sm
+[2026-05-06 11:04:08] Успешно, получено 966 символов
+[2026-05-06 11:04:08] === Блок midday завершён ===
