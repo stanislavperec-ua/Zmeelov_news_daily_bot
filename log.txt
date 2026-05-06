@@ -13257,3 +13257,51 @@ U.S. has violated ceasefire agr
 [2026-05-06 06:06:07] Попытка 1 для: Missile strike on centre of Ukrainian to
 [2026-05-06 06:06:08] Успешно, получено 726 символов
 [2026-05-06 06:06:08] === Блок morning завершён ===
+[2026-05-06 08:00:54] Загружено 1014 уже отправленных новостей
+[2026-05-06 08:00:54] === Запуск блока: ai_morning ===
+[2026-05-06 08:00:54] Неизвестный источник (pr newswire uk): IAACA's first-ever regional conference i
+[2026-05-06 08:00:54] Нет фото: Regnology Completes Acquisition of Moody
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): Kalmar's interim report January–March 20
+[2026-05-06 08:00:54] Неизвестный источник (computerweekly.com): IBM: Enterprise AI to shift from ‘light 
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): Radware Partners with Chief Telecom to L
+[2026-05-06 08:00:54] Неизвестный источник (protothema.gr): Athens College: Mitsotakis’ “warning bel
+[2026-05-06 08:00:54] Неизвестный источник (financial post): AI Threatens Private Debt Recovery in So
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): IBM charts AI operating model to move en
+[2026-05-06 08:00:54] Неизвестный источник (computerweekly.com): ‘They protect the law while breaking it’
+[2026-05-06 08:00:54] Неизвестный источник (computerweekly.com): CSA: Take AI cyber threats to the boardr
+[2026-05-06 08:00:54] Неизвестный источник (securitysenses.com): How Crypto Projects Are Revolutionizing 
+[2026-05-06 08:00:54] Неизвестный источник (news 1st): Visiting Health Minister of Russia, Mikh
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): Deepinfra lands $107M in funding to buil
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): Cisco buys Astrix Security to strengthen
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): Anthropic and OpenAI establish joint ven
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): AI agent startup Sierra valued at $15B i
+[2026-05-06 08:00:54] Неизвестный источник (royal society of chemistry): Design of metabolism-inspired hydrogels 
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): SAP acquires Dremio, Prior Labs to enhan
+[2026-05-06 08:00:54] Неизвестный источник (cnbc): Jim Cramer says to own these types of st
+[2026-05-06 08:00:54] Нет фото: OpenAI president discloses his stake in 
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): Renasant Corporation Announces Pricing o
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): Owens-Brockway Glass Container Inc. Anno
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): AI chip provider Cerebras seeks to raise
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): 3 E Network Technology Signs 1.3M Conver
+[2026-05-06 08:00:54] Неизвестный источник (financial post): Blackstone’s Jon Gray sees AI creating ‘
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): EverQuote Announces First Quarter 2026 F
+[2026-05-06 08:00:54] Нет фото: Quantum Leap Acquisition Corp Announces 
+[2026-05-06 08:00:54] Неизвестный источник (pymnts.com): AI Wrote the Perfect Scam and Now Fights
+[2026-05-06 08:00:54] Неизвестный источник (the next web): A crypto VC raised $1 billion to fund AI
+[2026-05-06 08:00:54] Неизвестный источник (siliconangle news): What to expect at the DigiCert Trust Sum
+[2026-05-06 08:00:54] Нет фото: Mubadala Says It’s Still Committed to US
+[2026-05-06 08:00:54] Неизвестный источник (bleeding cool news): Storm: Earth's Mightiest Mutant #4 Previ
+[2026-05-06 08:00:54] Неизвестный источник (globenewswire): Pattern to Host Advanced AI Day at FiRe 
+[2026-05-06 08:00:54] Нет фото: Roomba pioneer aims to crack the househo
+[2026-05-06 08:00:54] Неизвестный источник (techradar): Forget GPUs — China unveils 2 ExaFLOPS s
+[2026-05-06 08:00:54] Неизвестный источник (financial post): AI Boom to Add Hidden Extra Cost to Nort
+[2026-05-06 08:00:54] Неизвестный источник (pymnts.com): Payment Networks Ready Infrastructure fo
+[2026-05-06 08:00:54] AI новости: найдено 2 после фильтрации
+[2026-05-06 08:00:56] Обрабатываю: Steam Down Right Now? Latest Status Check for May 2026 Outag
+[2026-05-06 08:00:56] Попытка 1 для: Steam Down Right Now? Latest Status Chec
+[2026-05-06 08:00:58] Успешно, получено 479 символов
+[2026-05-06 08:00:58] Пауза 60 секунд...
+[2026-05-06 08:01:58] Обрабатываю: Shares volatile as mideast tensions continue
+[2026-05-06 08:01:58] Попытка 1 для: Shares volatile as mideast tensions cont
+[2026-05-06 08:01:59] Успешно, получено 763 символов
+[2026-05-06 08:02:00] === Блок ai_morning завершён ===
