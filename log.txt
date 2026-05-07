@@ -13553,3 +13553,40 @@ U.S. has violated ceasefire agr
 [2026-05-07 08:03:03] Попытка 1 для: Samsung reaches $1 trillion valuation: W
 [2026-05-07 08:03:04] Успешно, получено 847 символов
 [2026-05-07 08:03:04] === Блок ai_morning завершён ===
+[2026-05-07 11:00:54] Загружено 1034 уже отправленных новостей
+[2026-05-07 11:00:54] === Запуск блока: midday ===
+[2026-05-07 11:00:55] Неизвестный источник (british vogue): The Cutest Couples At The 2026 Met Gala 
+[2026-05-07 11:00:55] Неизвестный источник (cnbc): Disney reports earnings before the bell.
+[2026-05-07 11:00:55] Неизвестный источник (usa today): Kash Patel skewers Nancy Guthrie case, s
+[2026-05-07 11:00:55] Неизвестный источник (fear the sword): Player Grades: Cavs drop Game 1 to Pisto
+[2026-05-07 11:00:55] Неизвестный источник (nhl news): Maple Leafs win Draft Lottery, will have
+[2026-05-07 11:00:55] Неизвестный источник (tmz): 'Jersey Shore' Star Ronnie Ortiz-Magro A
+[2026-05-07 11:00:55] Неизвестный источник (nbcsportsphiladelphia.com): Sánchez dazzles, Harper homers twice — t
+[2026-05-07 11:00:55] Неизвестный источник (hollywood reporter): 2026 Tony Awards Nominations Snubs: Lea 
+[2026-05-07 11:00:55] Неизвестный источник (variety): Blake Lively Made No Money in Justin Bal
+[2026-05-07 11:00:55] Неизвестный источник (9to5google.com): Pixel 10’s May 2026 update prevents you 
+[2026-05-07 11:00:55] Неизвестный источник (pbs): Police say shooting at shopping center o
+[2026-05-07 11:00:55] Неизвестный источник (investor's business daily): Coinbase Slashes Workforce For AI Pivot;
+[2026-05-07 11:00:55] Неизвестный источник (wabc-tv): 1 confirmed case of measles in Manhattan
+[2026-05-07 11:00:55] Неизвестный источник (9to5mac): Leaker suggests seven new features comin
+[2026-05-07 11:00:55] Неизвестный источник (space.com): Don't miss the Eta Aquarid meteor shower
+[2026-05-07 11:00:55] Старая новость (2026-05-05T08:58:42Z): Rockstar should raise GTA 6’s price for 
+[2026-05-07 11:00:55] Старая новость (2026-05-04T21:55:31Z): Atmospheric warming contributions from a
+[2026-05-07 11:00:55] Старая новость (2026-05-04T19:00:00Z): James Webb Space Telescope directly stud
+[2026-05-07 11:00:55] Мировые новости: найдено 13 после фильтрации
+[2026-05-07 11:00:57] Обрабатываю: Live Updates: U.S.-Iran ceasefire holding for now, Hegseth s
+[2026-05-07 11:00:57] Попытка 1 для: Live Updates: U.S.-Iran ceasefire holdin
+[2026-05-07 11:00:58] Успешно, получено 491 символов
+[2026-05-07 11:00:59] Пауза 60 секунд...
+[2026-05-07 11:01:59] Обрабатываю: Democrats lay into each other in California debate as Indian
+[2026-05-07 11:01:59] Попытка 1 для: Democrats lay into each other in Califor
+[2026-05-07 11:01:59] Успешно, получено 493 символов
+[2026-05-07 11:02:00] Пауза 60 секунд...
+[2026-05-07 11:03:00] Обрабатываю: Russia kills 27 in ‘senseless’ strikes on Ukraine days befor
+[2026-05-07 11:03:00] Попытка 1 для: Russia kills 27 in ‘senseless’ strikes o
+[2026-05-07 11:03:01] Успешно, получено 853 символов
+[2026-05-07 11:03:01] Пауза 60 секунд...
+[2026-05-07 11:04:01] Обрабатываю: Spain agrees to let hantavirus-hit cruise ship dock in Canar
+[2026-05-07 11:04:01] Попытка 1 для: Spain agrees to let hantavirus-hit cruis
+[2026-05-07 11:04:02] Успешно, получено 749 символов
+[2026-05-07 11:04:03] === Блок midday завершён ===
