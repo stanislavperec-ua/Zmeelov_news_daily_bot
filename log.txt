@@ -13506,3 +13506,50 @@ U.S. has violated ceasefire agr
 [2026-05-07 06:05:08] Попытка 1 для: To Ukraine with Love: Drawings of a Japa
 [2026-05-07 06:05:09] Успешно, получено 547 символов
 [2026-05-07 06:05:09] === Блок morning завершён ===
+[2026-05-07 08:00:53] Загружено 1031 уже отправленных новостей
+[2026-05-07 08:00:53] === Запуск блока: ai_morning ===
+[2026-05-07 08:00:54] Неизвестный источник (resilience): Crazy Town Episode 124. Take Me to the R
+[2026-05-07 08:00:54] Неизвестный источник (cointelegraph): a16z raises $2.2B for new fund backing s
+[2026-05-07 08:00:54] Неизвестный источник (rte): Zalando posts higher quarterly growth on
+[2026-05-07 08:00:54] Неизвестный источник (financial post): Unikie introduces its approach to AI-dri
+[2026-05-07 08:00:54] Нет фото: laiser 0.5
+[2026-05-07 08:00:54] Нет фото: Modi, Lam Meet as India and Vietnam Deep
+[2026-05-07 08:00:54] Неизвестный источник (paul tan's automotive news): Elevated highways, smart tech needed to 
+[2026-05-07 08:00:54] Неизвестный источник (financial post): Fresenius Posts Narrow Profit Miss Amid 
+[2026-05-07 08:00:54] Неизвестный источник (financial post): Asian Currencies Rally on AI Enthusiasm,
+[2026-05-07 08:00:54] Неизвестный источник (globenewswire): Philips delivers strong order intake, co
+[2026-05-07 08:00:54] Неизвестный источник (financial post): Australian Pension Fund Tilts to US Over
+[2026-05-07 08:00:54] Неизвестный источник (bleeding cool news): Ben 10 #1 Preview: The Omnitrix Gets a F
+[2026-05-07 08:00:54] Неизвестный источник (computerweekly.com): Extreme Connect 26: Agent ONE takes forw
+[2026-05-07 08:00:54] Неизвестный источник (computerweekly.com): ServiceNow Knowledge 2026: McDermott pro
+[2026-05-07 08:00:54] Неизвестный источник (mit.edu): Method for stress-testing cloud computin
+[2026-05-07 08:00:54] Неизвестный источник (americanthinker.com): The Globalization of Digital Oppression
+[2026-05-07 08:00:54] Нет фото: AI boom drives a rally in buying of tech
+[2026-05-07 08:00:54] Неизвестный источник (borderlandbeat.com): Drones, Outfitted Trailers, and 10,000 C
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): Google, Microsoft and xAI agree to allow
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): Arista’s stock declines despite another 
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): AMD’s stock rises on surging demand for 
+[2026-05-07 08:00:54] Неизвестный источник (prnewswire): STRADVISION Observes Growing Demand for 
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): ElevenLabs adds high-profile investors a
+[2026-05-07 08:00:54] Неизвестный источник (kpbs): States across the wildfire-prone Western
+[2026-05-07 08:00:54] Неизвестный источник (bleeding cool news): Astro Quantum #4 Preview: Space Moby-Dic
+[2026-05-07 08:00:54] Неизвестный источник (trendmicro.com): Supporting the National Cyber Strategy: 
+[2026-05-07 08:00:54] Неизвестный источник (r-bloggers.com): New Mentoring Team with Experienced Ment
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): Blitzy raises $200M at $1.4B valuation t
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): AI data center operator IREN to acquire 
+[2026-05-07 08:00:54] Неизвестный источник (royal society of chemistry): Sustainable green synthesis of CeO2–ZnO 
+[2026-05-07 08:00:54] Неизвестный источник (siliconangle news): Supermicro shares rally on guidance afte
+[2026-05-07 08:00:54] Нет фото: aait 3.4.5
+[2026-05-07 08:00:54] AI новости: найдено 7 после фильтрации
+[2026-05-07 08:00:56] Обрабатываю: Jaishankar highlights India's response to 'world in transiti
+[2026-05-07 08:00:56] Попытка 1 для: Jaishankar highlights India's response t
+[2026-05-07 08:00:58] Успешно, получено 1018 символов
+[2026-05-07 08:00:58] Пауза 60 секунд...
+[2026-05-07 08:01:58] Обрабатываю: Tales of tunnels underneath village prove to be true, a Grou
+[2026-05-07 08:01:58] Попытка 1 для: Tales of tunnels underneath village prov
+[2026-05-07 08:02:00] Успешно, получено 982 символов
+[2026-05-07 08:02:03] Пауза 60 секунд...
+[2026-05-07 08:03:03] Обрабатываю: Samsung reaches $1 trillion valuation: What’s fuelling the A
+[2026-05-07 08:03:03] Попытка 1 для: Samsung reaches $1 trillion valuation: W
+[2026-05-07 08:03:04] Успешно, получено 847 символов
+[2026-05-07 08:03:04] === Блок ai_morning завершён ===
