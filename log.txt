@@ -14055,3 +14055,39 @@ U.S. has violated ceasefire agr
 [2026-05-09 08:01:54] Успешно, получено 613 символов
 [2026-05-09 08:01:55] Фото не отправилось: 400
 [2026-05-09 08:01:56] === Блок ai_morning завершён ===
+[2026-05-09 11:00:52] Загружено 1069 уже отправленных новостей
+[2026-05-09 11:00:52] === Запуск блока: midday ===
+[2026-05-09 11:00:52] Неизвестный источник (nintendoeverything.com): Nintendo announces Switch 2 price increa
+[2026-05-09 11:00:52] Неизвестный источник (forbes): 2 Hantavirus Cruise Passengers Are Texas
+[2026-05-09 11:00:52] Неизвестный источник (cnbc): Stock futures are higher as traders moni
+[2026-05-09 11:00:52] Неизвестный источник (deadline): Stephen Colbert Hosting 'Strike Force Fi
+[2026-05-09 11:00:52] Неизвестный источник (tvinsider): ‘9-1-1’ Finale: Oliver Stark Breaks Down
+[2026-05-09 11:00:52] Неизвестный источник (harvard crimson): Harvard Canvas Site Goes Down After Univ
+[2026-05-09 11:00:52] Неизвестный источник (tennesseelookout.com): Visual: The partisan lean of Tennessee’s
+[2026-05-09 11:00:52] Неизвестный источник (espn): Khamzat Chimaev kicks Sean Strickland ah
+[2026-05-09 11:00:52] Неизвестный источник (the action network): Lakers vs Thunder Prediction, Odds, Pick
+[2026-05-09 11:00:52] Неизвестный источник (centcom.mil): CENTCOM Protects U.S. Warships Transitin
+[2026-05-09 11:00:52] Неизвестный источник (space.com): A 29-pound Mars rock held NASA's Curiosi
+[2026-05-09 11:00:52] Неизвестный источник (variety): Blake Lively Sees Attorney Fee Motion as
+[2026-05-09 11:00:52] Неизвестный источник (variety): Golden Globes Set AI Rules: 'Won't Disqu
+[2026-05-09 11:00:52] Неизвестный источник (nasa): NASA Pushes Next-Gen Mars Helicopter Rot
+[2026-05-09 11:00:52] Неизвестный источник (phys.org): Scientists unlock fungi's secret chemist
+[2026-05-09 11:00:52] Неизвестный источник (space.com): How do the biggest black holes in the un
+[2026-05-09 11:00:52] Старая новость (2026-05-07T09:30:00Z): An army of ticks is sending more Marylan
+[2026-05-09 11:00:52] Мировые новости: найдено 14 после фильтрации
+[2026-05-09 11:00:55] Обрабатываю: US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thai
+[2026-05-09 11:00:55] Попытка 1 для: US Said to Suspect Nvidia Chips Smuggled
+[2026-05-09 11:00:56] Успешно, получено 887 символов
+[2026-05-09 11:00:56] Пауза 60 секунд...
+[2026-05-09 11:01:56] Обрабатываю: Live Updates: U.S. launches "self-defense strikes" on Iran, 
+[2026-05-09 11:01:56] Попытка 1 для: Live Updates: U.S. launches "self-defens
+[2026-05-09 11:01:57] Успешно, получено 699 символов
+[2026-05-09 11:01:58] Пауза 60 секунд...
+[2026-05-09 11:02:58] Обрабатываю: 3 Australian women back from Syria face slavery and terroris
+[2026-05-09 11:02:58] Попытка 1 для: 3 Australian women back from Syria face 
+[2026-05-09 11:02:59] Успешно, получено 571 символов
+[2026-05-09 11:02:59] Пауза 60 секунд...
+[2026-05-09 11:03:59] Обрабатываю: Trade court rules against Trump’s global tariff
+[2026-05-09 11:03:59] Попытка 1 для: Trade court rules against Trump’s global
+[2026-05-09 11:04:00] Успешно, получено 679 символов
+[2026-05-09 11:04:01] === Блок midday завершён ===
