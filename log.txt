@@ -14398,3 +14398,47 @@ U.S. has violated ceasefire agr
 [2026-05-10 16:05:03] Попытка 1 для: Russia and Ukraine begin 3-day ceasefire
 [2026-05-10 16:05:04] Успешно, получено 714 символов
 [2026-05-10 16:05:04] === Блок evening завершён ===
+[2026-05-10 18:00:49] Загружено 1097 уже отправленных новостей
+[2026-05-10 18:00:49] === Запуск блока: ai_evening ===
+[2026-05-10 18:00:49] Неизвестный источник (comicbook.com): 7 Greatest Sci-fi Movie Movie Puppet Cha
+[2026-05-10 18:00:49] Нет фото: Classified Networks AI Agreements
+[2026-05-10 18:00:49] Неизвестный источник (bleeding cool news): Uncanny X-Men #28 Preview: Inmate X Fina
+[2026-05-10 18:00:49] Неизвестный источник (cointelegraph): Why a 2017 Linux bug is now a major conc
+[2026-05-10 18:00:49] Неизвестный источник (globenewswire): ‘What’s the Real Reason for CLJA Payment
+[2026-05-10 18:00:49] Неизвестный источник (financial post): Earnings Bonanza That No One Saw Coming 
+[2026-05-10 18:00:49] Неизвестный источник (financial post): Sigenergy Demonstrates Full-Scale Energy
+[2026-05-10 18:00:49] Неизвестный источник (globenewswire): Sigenergy Demonstrates Full-Scale Energy
+[2026-05-10 18:00:49] Неизвестный источник (financial post): Charting the Global Economy: US Job Grow
+[2026-05-10 18:00:49] Неизвестный источник (the next web): Google built a 99 dollar AI health coach
+[2026-05-10 18:00:49] Неизвестный источник (the next web): The University of Michigan invested 20 m
+[2026-05-10 18:00:49] Неизвестный источник (activistpost.com): The Praxian Genocidal Kill Chain – Part 
+[2026-05-10 18:00:49] Неизвестный источник (autoexpress): Volkswagen T-Roc vs Toyota C-HR: two pop
+[2026-05-10 18:00:49] Неизвестный источник (pymnts.com): Chess Learns to Live With Its Robot Over
+[2026-05-10 18:00:49] Неизвестный источник (onefootball.com):  PSG unveil their new shirt for 2026-27
+[2026-05-10 18:00:49] Неизвестный источник (marketbeat): E.W. Scripps Q1 Earnings Call Highlights
+[2026-05-10 18:00:49] Неизвестный источник (siliconangle news): AIR, ARR and AI: Inside RingCentral’s tr
+[2026-05-10 18:00:49] Неизвестный источник (financial post): Chinese Export Growth Rebounds as War Fa
+[2026-05-10 18:00:49] Нет фото: Vietnam Expands South China Sea Outposts
+[2026-05-10 18:00:49] Неизвестный источник (siliconangle news): Alphabet’s Isomorphic Labs reportedly ra
+[2026-05-10 18:00:49] Неизвестный источник (crypto briefing): Trump administration prepares AI securit
+[2026-05-10 18:00:49] Неизвестный источник (siliconangle news): Intel shares jump on reported chip produ
+[2026-05-10 18:00:49] Неизвестный источник (thurrott.com): Switcher 2026: Some Thoughts on the Alte
+[2026-05-10 18:00:49] Неизвестный источник (deadline): Upfronts 2026 Offer An Anxious Industry 
+[2026-05-10 18:00:49] Неизвестный источник (siliconangle news): Red Hat brings AI, virtualization and hy
+[2026-05-10 18:00:49] Заблокированный источник (breitbart news): French Cybercrime Authorities Elevate In
+[2026-05-10 18:00:49] Неизвестный источник (r-bloggers.com): Edge detection in Python
+[2026-05-10 18:00:49] Нет фото: How a Scientific Cartel Protects Fraudst
+[2026-05-10 18:00:49] Неизвестный источник (pcmag.com): The Best PCs (Desktop Computers) for 202
+[2026-05-10 18:00:49] Неизвестный источник (the next web): Cloudflare beat earnings, cut 1,100 jobs
+[2026-05-10 18:00:49] Неизвестный источник (prnewswire): Greenberg Traurig Represents Enter in $1
+[2026-05-10 18:00:49] Неизвестный источник (thestreet): Aptos commits $50M to support AI and ins
+[2026-05-10 18:00:49] Неизвестный источник (researchbuzz.me): EPA Permitting Authority Map, Google, Di
+[2026-05-10 18:00:49] AI новости: найдено 2 после фильтрации
+[2026-05-10 18:00:52] Обрабатываю: Intel CEO who won over Trump and Musk now needs a breakthrou
+[2026-05-10 18:00:52] Попытка 1 для: Intel CEO who won over Trump and Musk no
+[2026-05-10 18:00:53] Успешно, получено 642 символов
+[2026-05-10 18:00:53] Пауза 60 секунд...
+[2026-05-10 18:01:53] Обрабатываю: EGU2026
+[2026-05-10 18:01:53] Попытка 1 для: EGU2026
+[2026-05-10 18:01:54] Успешно, получено 512 символов
+[2026-05-10 18:01:54] === Блок ai_evening завершён ===
