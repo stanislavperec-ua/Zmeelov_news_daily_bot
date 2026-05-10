@@ -14295,3 +14295,43 @@ U.S. has violated ceasefire agr
 [2026-05-10 08:01:56] Попытка 1 для: Swiggy, Urban Company report Q4 losses; 
 [2026-05-10 08:01:56] Успешно, получено 474 символов
 [2026-05-10 08:01:57] === Блок ai_morning завершён ===
+[2026-05-10 11:00:47] Загружено 1087 уже отправленных новостей
+[2026-05-10 11:00:47] === Запуск блока: midday ===
+[2026-05-10 11:00:47] Неизвестный источник (kabc-tv): Frontier Airlines jet bound for LAX hits
+[2026-05-10 11:00:47] Неизвестный источник (heat.com): 3 things to watch in Spurs-Timberwolves 
+[2026-05-10 11:00:47] Неизвестный источник (golf channel): Rory McIlroy: If LIV players don't want 
+[2026-05-10 11:00:47] Неизвестный источник (chron.com): Texas doctor reignites ivermectin debate
+[2026-05-10 11:00:47] Неизвестный источник (marketwatch): Lumentum’s fiery stock rally earns it a 
+[2026-05-10 11:00:47] Неизвестный источник (courthouse news service): Judge in Charlie Kirk case won't forbid 
+[2026-05-10 11:00:47] Неизвестный источник (wjla): Virginia Supreme Court strikes down gerr
+[2026-05-10 11:00:47] Неизвестный источник (deadline): ‘Mortal Kombat II’ & ‘Devil Wears Prada 
+[2026-05-10 11:00:47] Неизвестный источник (entertainment weekly): Holly Madison breaks down 'weird' group 
+[2026-05-10 11:00:47] Неизвестный источник (intouch weekly): Dorit Kemsley’s Ex PK Claims ‘RHOBH’ Sta
+[2026-05-10 11:00:47] Неизвестный источник (phonearena): The new AirPods prove Apple is still the
+[2026-05-10 11:00:47] Неизвестный источник (sports illustrated): Celtics’ Playoffs Collapse Raises New Qu
+[2026-05-10 11:00:47] Неизвестный источник (cnbc): Dunkin' owner Inspire Brands confidentia
+[2026-05-10 11:00:47] Неизвестный источник (tipranks.com): Moderna (MRNA) Stock Surges 14% on Hanta
+[2026-05-10 11:00:47] Неизвестный источник (phys.org): The moon's largest impact crater scatter
+[2026-05-10 11:00:47] Неизвестный источник (business insider): A US Navy Fighter Jet Hit the Smokestack
+[2026-05-10 11:00:47] Неизвестный источник (9to5mac): iPhone 18 Pro’s new A20 chip rumored to 
+[2026-05-10 11:00:47] Неизвестный источник (pbs): Pentagon begins releasing new files on U
+[2026-05-10 11:00:47] Старая новость (2026-05-08T09:57:32Z): Curiosity Rover Got its Arm Stuck in a M
+[2026-05-10 11:00:47] Старая новость (2026-05-07T21:23:00Z): Met Opera patrons warned of measles expo
+[2026-05-10 11:00:47] Старая новость (2026-05-07T11:00:01Z): Ice Age butcher's tools are a sign of an
+[2026-05-10 11:00:47] Мировые новости: найдено 11 после фильтрации
+[2026-05-10 11:00:50] Обрабатываю: Spain readies for evacuations as a hantavirus-hit cruise shi
+[2026-05-10 11:00:50] Попытка 1 для: Spain readies for evacuations as a hanta
+[2026-05-10 11:00:51] Успешно, получено 801 символов
+[2026-05-10 11:00:51] Пауза 60 секунд...
+[2026-05-10 11:01:51] Обрабатываю: White House prepares to replace FDA leader Marty Makary amid
+[2026-05-10 11:01:51] Попытка 1 для: White House prepares to replace FDA lead
+[2026-05-10 11:01:52] Успешно, получено 651 символов
+[2026-05-10 11:01:53] Пауза 60 секунд...
+[2026-05-10 11:02:53] Обрабатываю: ABC argues Trump administration is trying to chill free spee
+[2026-05-10 11:02:53] Попытка 1 для: ABC argues Trump administration is tryin
+[2026-05-10 11:02:54] Успешно, получено 686 символов
+[2026-05-10 11:02:54] Пауза 60 секунд...
+[2026-05-10 11:03:54] Обрабатываю: Trump says Russia and Ukraine have agreed to his request for
+[2026-05-10 11:03:54] Попытка 1 для: Trump says Russia and Ukraine have agree
+[2026-05-10 11:03:55] Успешно, получено 803 символов
+[2026-05-10 11:03:56] === Блок midday завершён ===
