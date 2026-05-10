@@ -14247,3 +14247,51 @@ U.S. has violated ceasefire agr
 [2026-05-10 06:05:20] Попытка 1 для: Russia and Ukraine agree to three-day ce
 [2026-05-10 06:05:21] Успешно, получено 890 символов
 [2026-05-10 06:05:22] === Блок morning завершён ===
+[2026-05-10 08:00:52] Загружено 1086 уже отправленных новостей
+[2026-05-10 08:00:52] === Запуск блока: ai_morning ===
+[2026-05-10 08:00:52] Неизвестный источник (pymnts.com): Chess Learns to Live With Its Robot Over
+[2026-05-10 08:00:52] Неизвестный источник (onefootball.com):  PSG unveil their new shirt for 2026-27
+[2026-05-10 08:00:52] Неизвестный источник (siliconangle news): AIR, ARR and AI: Inside RingCentral’s tr
+[2026-05-10 08:00:52] Неизвестный источник (financial post): Chinese Export Growth Rebounds as War Fa
+[2026-05-10 08:00:52] Нет фото: Vietnam Expands South China Sea Outposts
+[2026-05-10 08:00:52] Неизвестный источник (siliconangle news): Alphabet’s Isomorphic Labs reportedly ra
+[2026-05-10 08:00:52] Неизвестный источник (crypto briefing): Trump administration prepares AI securit
+[2026-05-10 08:00:52] Неизвестный источник (siliconangle news): Intel shares jump on reported chip produ
+[2026-05-10 08:00:52] Неизвестный источник (thurrott.com): Switcher 2026: Some Thoughts on the Alte
+[2026-05-10 08:00:52] Неизвестный источник (deadline): Upfronts 2026 Offer An Anxious Industry 
+[2026-05-10 08:00:52] Неизвестный источник (siliconangle news): Red Hat brings AI, virtualization and hy
+[2026-05-10 08:00:52] Заблокированный источник (breitbart news): French Cybercrime Authorities Elevate In
+[2026-05-10 08:00:52] Неизвестный источник (r-bloggers.com): Edge detection in Python
+[2026-05-10 08:00:52] Нет фото: How a Scientific Cartel Protects Fraudst
+[2026-05-10 08:00:52] Неизвестный источник (pcmag.com): The Best PCs (Desktop Computers) for 202
+[2026-05-10 08:00:52] Неизвестный источник (the next web): Cloudflare beat earnings, cut 1,100 jobs
+[2026-05-10 08:00:52] Неизвестный источник (prnewswire): Greenberg Traurig Represents Enter in $1
+[2026-05-10 08:00:52] Неизвестный источник (thestreet): Aptos commits $50M to support AI and ins
+[2026-05-10 08:00:52] Неизвестный источник (researchbuzz.me): EPA Permitting Authority Map, Google, Di
+[2026-05-10 08:00:52] Неизвестный источник (lancasteronline): Pa. education secretary, Lancaster Count
+[2026-05-10 08:00:52] Нет фото: hepai 1.4.2.1
+[2026-05-10 08:00:52] Неизвестный источник (nasa): NASA, Industry Advance High Performance 
+[2026-05-10 08:00:52] Нет фото: hepai 1.4.2
+[2026-05-10 08:00:52] Неизвестный источник (forbes): Scams Are Booming. The Latest Numbers, A
+[2026-05-10 08:00:52] Неизвестный источник (business insider): Wonder's Marc Lore says AI has been choo
+[2026-05-10 08:00:52] Неизвестный источник (pymnts.com): Uber and Lyft Stopped Competing and Star
+[2026-05-10 08:00:52] Неизвестный источник (financial post): Korea surpasses Canada as world’s sevent
+[2026-05-10 08:00:52] Неизвестный источник (siliconangle news): When well-behaved agents trigger disaste
+[2026-05-10 08:00:52] Неизвестный источник (zycrypto): VanEck Breaks Down Bitcoin’s Path to $1 
+[2026-05-10 08:00:52] Неизвестный источник (financial post): Google judge says too early to pause DOJ
+[2026-05-10 08:00:52] Неизвестный источник (telecomtv): What’s up with… SoftBank, HKBN, Qualcomm
+[2026-05-10 08:00:52] Неизвестный источник (plos.org): A modular deep learning architecture for
+[2026-05-10 08:00:52] Неизвестный источник (plos.org): DeepDRP: Dose-response predictions of dr
+[2026-05-10 08:00:52] Неизвестный источник (plos.org): Modeling individual self-protective beha
+[2026-05-10 08:00:52] Нет фото: US Jobs Rise 115,000 in Strongest Two-Mo
+[2026-05-10 08:00:52] Неизвестный источник (globenewswire): Global Smart Grid Market to Reach US$145
+[2026-05-10 08:00:52] Неизвестный источник (usa today): Is Atlanta the nation's new soccer hub? 
+[2026-05-10 08:00:52] AI новости: найдено 2 после фильтрации
+[2026-05-10 08:00:54] Обрабатываю: EGU2026
+[2026-05-10 08:00:54] Попытка 1 для: EGU2026
+[2026-05-10 08:00:55] Успешно, получено 543 символов
+[2026-05-10 08:00:56] Пауза 60 секунд...
+[2026-05-10 08:01:56] Обрабатываю: Swiggy, Urban Company report Q4 losses; Zepto gets IPO nod
+[2026-05-10 08:01:56] Попытка 1 для: Swiggy, Urban Company report Q4 losses; 
+[2026-05-10 08:01:56] Успешно, получено 474 символов
+[2026-05-10 08:01:57] === Блок ai_morning завершён ===
