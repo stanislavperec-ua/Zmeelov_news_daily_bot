@@ -14550,3 +14550,42 @@ U.S. has violated ceasefire agr
 [2026-05-11 08:03:06] Попытка 1 для: Big Brother's 25-year journey from raunc
 [2026-05-11 08:03:07] Успешно, получено 610 символов
 [2026-05-11 08:03:08] === Блок ai_morning завершён ===
+[2026-05-11 11:00:57] Загружено 1107 уже отправленных новостей
+[2026-05-11 11:00:57] === Запуск блока: midday ===
+[2026-05-11 11:00:57] Неизвестный источник (cageside seats): Jacob Fatu snaps after losing to Roman R
+[2026-05-11 11:00:57] Неизвестный источник (figure four online): AEW Fairway to Hell live results: Darby 
+[2026-05-11 11:00:57] Неизвестный источник (thestreet): Jim Cramer makes a bold call on AI as st
+[2026-05-11 11:00:57] Неизвестный источник (the action network): Thunder vs Lakers Predictions, Picks, Od
+[2026-05-11 11:00:57] Неизвестный источник (nodq.com): Results of Seth Rollins vs. Bron Breakke
+[2026-05-11 11:00:57] Неизвестный источник (wpec): Boat explosion at Miami sandbar triggers
+[2026-05-11 11:00:57] Неизвестный источник (pbs): Pedestrian killed after being struck by 
+[2026-05-11 11:00:57] Пропускаю уже отправленную: Norovirus outbreak reported on Princess cruise shi
+[2026-05-11 11:00:57] Неизвестный источник (geeky gadgets): Samsung Finally Fixed the Fold: First Lo
+[2026-05-11 11:00:57] Неизвестный источник (phys.org): Genetics link Angola's 'ghost elephants'
+[2026-05-11 11:00:57] Неизвестный источник (phys.org): A close brush with Mars will reshape NAS
+[2026-05-11 11:00:57] Неизвестный источник (abcnews.com): Indonesian rescuers find 1 body after vo
+[2026-05-11 11:00:57] Старая новость (2026-05-09T10:56:53Z): Russia holds downsized Victory Day parad
+[2026-05-11 11:00:57] Старая новость (2026-05-09T00:00:30Z): Nintendo Announces $50 Switch 2 Price In
+[2026-05-11 11:00:57] Старая новость (2026-05-08T19:39:21Z): Here's What's Going To Happen To The 91 
+[2026-05-11 11:00:57] Старая новость (2026-05-08T18:00:02Z): Antarctica sea ice collapse driven by tr
+[2026-05-11 11:00:57] Старая новость (2026-05-08T17:42:28Z): Is it true that eating more eggs could h
+[2026-05-11 11:00:57] Старая новость (2026-05-08T16:59:31Z): Ex-reality star turned LA mayoral candid
+[2026-05-11 11:00:57] Старая новость (2026-05-08T16:00:00Z): I’m an ICU Doctor Who Treated a Critical
+[2026-05-11 11:00:57] Старая новость (2026-05-08T14:30:11Z): Presidential Unsealing and Reporting Sys
+[2026-05-11 11:00:57] Мировые новости: найдено 6 после фильтрации
+[2026-05-11 11:00:59] Обрабатываю: UFC 328 goes on without Trump, Van defends 125-pound crown, 
+[2026-05-11 11:00:59] Попытка 1 для: UFC 328 goes on without Trump, Van defen
+[2026-05-11 11:01:00] Успешно, получено 640 символов
+[2026-05-11 11:01:01] Пауза 60 секунд...
+[2026-05-11 11:02:01] Обрабатываю: Hantavirus-hit cruise ship arrives in Tenerife, passengers e
+[2026-05-11 11:02:01] Попытка 1 для: Hantavirus-hit cruise ship arrives in Te
+[2026-05-11 11:02:02] Успешно, получено 638 символов
+[2026-05-11 11:02:02] Пауза 60 секунд...
+[2026-05-11 11:03:02] Обрабатываю: GM agrees to pay $12.75M in California driver privacy settle
+[2026-05-11 11:03:02] Попытка 1 для: GM agrees to pay $12.75M in California d
+[2026-05-11 11:03:03] Успешно, получено 972 символов
+[2026-05-11 11:03:04] Пауза 60 секунд...
+[2026-05-11 11:04:04] Обрабатываю: 'We're dry:' The new U.S. Wildland Fire Service prepares for
+[2026-05-11 11:04:04] Попытка 1 для: 'We're dry:' The new U.S. Wildland Fire 
+[2026-05-11 11:04:05] Успешно, получено 632 символов
+[2026-05-11 11:04:05] === Блок midday завершён ===
