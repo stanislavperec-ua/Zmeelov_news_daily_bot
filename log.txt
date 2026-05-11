@@ -14652,3 +14652,42 @@ U.S. has violated ceasefire agr
 [2026-05-11 16:05:15] Попытка 1 для: Ukraine, Russia ceasefire strained as bo
 [2026-05-11 16:05:16] Успешно, получено 571 символов
 [2026-05-11 16:05:16] === Блок evening завершён ===
+[2026-05-11 18:00:53] Загружено 1117 уже отправленных новостей
+[2026-05-11 18:00:53] === Запуск блока: ai_evening ===
+[2026-05-11 18:00:53] Неизвестный источник (variety): DGA Set to Begin Negotiations on Jobs, A
+[2026-05-11 18:00:53] Неизвестный источник (siliconangle news): Nvidia, AI factories and the transition 
+[2026-05-11 18:00:53] Неизвестный источник (dezeen): Proposal for sustainable agriculture fac
+[2026-05-11 18:00:53] Неизвестный источник (marketbeat): Citizens Financial Group CEO Touts Priva
+[2026-05-11 18:00:53] Нет фото: Microsoft’s African Data Center Falters 
+[2026-05-11 18:00:53] Неизвестный источник (financial post): AI and Productivity: Yanik Guillemette F
+[2026-05-11 18:00:53] Неизвестный источник (bleeding cool news): Amazing Spider-Man/Venom: Death Spiral –
+[2026-05-11 18:00:53] Неизвестный источник (cnbc): Alphabet's 160% rally in a year reflects
+[2026-05-11 18:00:53] Нет фото: Moganshan Hosts Global Brands as China S
+[2026-05-11 18:00:53] Неизвестный источник (protothema.gr): Kyriakos Mitsotakis: The 13 new “untouch
+[2026-05-11 18:00:53] Пропускаю уже отправленную: Vijay sworn in as Tamil Nadu CM: Here's what TVK p
+[2026-05-11 18:00:53] Неизвестный источник (bleeding cool news): Iron Man #5 Preview: Tony Stark to Be Re
+[2026-05-11 18:00:53] Неизвестный источник (americanthinker.com): The Party’s Over
+[2026-05-11 18:00:53] Нет фото: pybibx 5.8.0
+[2026-05-11 18:00:53] Неизвестный источник (reason): Ted Turner, Entrepreneur of His Age
+[2026-05-11 18:00:53] Неизвестный источник (bitcoinist): This Finance CEO Picks Solana Instead Of
+[2026-05-11 18:00:53] Неизвестный источник (marketbeat): Claritev Q1 Earnings Call Highlights
+[2026-05-11 18:00:53] Неизвестный источник (marketbeat): Corpay Q1 Earnings Call Highlights
+[2026-05-11 18:00:53] Неизвестный источник (bleeding cool news): Star Wars: Shadow of Maul #3 Preview: Ma
+[2026-05-11 18:00:53] Неизвестный источник (marketbeat): Clean Harbors Q1 Earnings Call Highlight
+[2026-05-11 18:00:53] Неизвестный источник (fox news): Old-school soda went from being a top br
+[2026-05-11 18:00:53] Неизвестный источник (pypi.org): quport added to PyPI
+[2026-05-11 18:00:53] Неизвестный источник (yahoo entertainment): Jim Cramer Says “You Can’t Really Teach 
+[2026-05-11 18:00:53] Пропускаю уже отправленную: Big Brother's 25-year journey from raunchy nudity 
+[2026-05-11 18:00:53] AI новости: найдено 3 после фильтрации
+[2026-05-11 18:00:56] Обрабатываю: Intel CEO who won over Donald Trump and Elon Musk now needs 
+[2026-05-11 18:00:56] Попытка 1 для: Intel CEO who won over Donald Trump and 
+[2026-05-11 18:00:57] Успешно, получено 645 символов
+[2026-05-11 18:00:57] Пауза 60 секунд...
+[2026-05-11 18:01:57] Обрабатываю: UPS vs FedEx Stock in 2026: Which Logistics Powerhouse Is th
+[2026-05-11 18:01:57] Попытка 1 для: UPS vs FedEx Stock in 2026: Which Logist
+[2026-05-11 18:01:58] Успешно, получено 658 символов
+[2026-05-11 18:01:59] Пауза 60 секунд...
+[2026-05-11 18:02:59] Обрабатываю: So you've heard these AI terms and nodded along; let's fix t
+[2026-05-11 18:02:59] Попытка 1 для: So you've heard these AI terms and nodde
+[2026-05-11 18:03:00] Успешно, получено 744 символов
+[2026-05-11 18:03:01] === Блок ai_evening завершён ===
