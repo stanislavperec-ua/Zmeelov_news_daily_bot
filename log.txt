@@ -14509,3 +14509,44 @@ U.S. has violated ceasefire agr
 [2026-05-11 06:05:08] Попытка 1 для: Putin says he thinks Russia-Ukraine war 
 [2026-05-11 06:05:09] Успешно, получено 730 символов
 [2026-05-11 06:05:10] === Блок morning завершён ===
+[2026-05-11 08:01:01] Загружено 1104 уже отправленных новостей
+[2026-05-11 08:01:01] === Запуск блока: ai_morning ===
+[2026-05-11 08:01:01] Неизвестный источник (protothema.gr): Kyriakos Mitsotakis: The 13 new “untouch
+[2026-05-11 08:01:01] Неизвестный источник (bleeding cool news): Iron Man #5 Preview: Tony Stark to Be Re
+[2026-05-11 08:01:01] Неизвестный источник (americanthinker.com): The Party’s Over
+[2026-05-11 08:01:01] Нет фото: pybibx 5.8.0
+[2026-05-11 08:01:01] Неизвестный источник (reason): Ted Turner, Entrepreneur of His Age
+[2026-05-11 08:01:01] Неизвестный источник (bitcoinist): This Finance CEO Picks Solana Instead Of
+[2026-05-11 08:01:01] Неизвестный источник (marketbeat): Claritev Q1 Earnings Call Highlights
+[2026-05-11 08:01:01] Неизвестный источник (marketbeat): Corpay Q1 Earnings Call Highlights
+[2026-05-11 08:01:01] Неизвестный источник (bleeding cool news): Star Wars: Shadow of Maul #3 Preview: Ma
+[2026-05-11 08:01:01] Неизвестный источник (marketbeat): Clean Harbors Q1 Earnings Call Highlight
+[2026-05-11 08:01:01] Неизвестный источник (fox news): Old-school soda went from being a top br
+[2026-05-11 08:01:01] Неизвестный источник (pypi.org): quport added to PyPI
+[2026-05-11 08:01:01] Неизвестный источник (yahoo entertainment): Jim Cramer Says “You Can’t Really Teach 
+[2026-05-11 08:01:01] Неизвестный источник (comicbook.com): 7 Greatest Sci-fi Movie Movie Puppet Cha
+[2026-05-11 08:01:01] Нет фото: Classified Networks AI Agreements
+[2026-05-11 08:01:01] Неизвестный источник (bleeding cool news): Uncanny X-Men #28 Preview: Inmate X Fina
+[2026-05-11 08:01:01] Неизвестный источник (cointelegraph): Why a 2017 Linux bug is now a major conc
+[2026-05-11 08:01:01] Неизвестный источник (globenewswire): ‘What’s the Real Reason for CLJA Payment
+[2026-05-11 08:01:01] Неизвестный источник (financial post): Earnings Bonanza That No One Saw Coming 
+[2026-05-11 08:01:01] Неизвестный источник (financial post): Sigenergy Demonstrates Full-Scale Energy
+[2026-05-11 08:01:01] Неизвестный источник (globenewswire): Sigenergy Demonstrates Full-Scale Energy
+[2026-05-11 08:01:01] Неизвестный источник (financial post): Charting the Global Economy: US Job Grow
+[2026-05-11 08:01:01] Неизвестный источник (the next web): Google built a 99 dollar AI health coach
+[2026-05-11 08:01:01] Неизвестный источник (the next web): The University of Michigan invested 20 m
+[2026-05-11 08:01:01] Неизвестный источник (activistpost.com): The Praxian Genocidal Kill Chain – Part 
+[2026-05-11 08:01:01] Неизвестный источник (autoexpress): Volkswagen T-Roc vs Toyota C-HR: two pop
+[2026-05-11 08:01:01] AI новости: найдено 4 после фильтрации
+[2026-05-11 08:01:04] Обрабатываю: Vijay sworn in as Tamil Nadu CM: Here's what TVK promised ah
+[2026-05-11 08:01:04] Попытка 1 для: Vijay sworn in as Tamil Nadu CM: Here's 
+[2026-05-11 08:01:05] Успешно, получено 694 символов
+[2026-05-11 08:01:05] Пауза 60 секунд...
+[2026-05-11 08:02:05] Обрабатываю: So you've heard these AI terms and nodded along; let's fix t
+[2026-05-11 08:02:05] Попытка 1 для: So you've heard these AI terms and nodde
+[2026-05-11 08:02:06] Успешно, получено 581 символов
+[2026-05-11 08:02:06] Пауза 60 секунд...
+[2026-05-11 08:03:06] Обрабатываю: Big Brother's 25-year journey from raunchy nudity to 'family
+[2026-05-11 08:03:06] Попытка 1 для: Big Brother's 25-year journey from raunc
+[2026-05-11 08:03:07] Успешно, получено 610 символов
+[2026-05-11 08:03:08] === Блок ai_morning завершён ===
