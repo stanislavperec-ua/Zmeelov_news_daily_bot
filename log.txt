@@ -14691,3 +14691,54 @@ U.S. has violated ceasefire agr
 [2026-05-11 18:02:59] Попытка 1 для: So you've heard these AI terms and nodde
 [2026-05-11 18:03:00] Успешно, получено 744 символов
 [2026-05-11 18:03:01] === Блок ai_evening завершён ===
+[2026-05-12 06:00:53] Загружено 1119 уже отправленных новостей
+[2026-05-12 06:00:53] === Запуск блока: morning ===
+[2026-05-12 06:00:53] Неизвестный источник (cnbc): Stock futures slide as investors monitor
+[2026-05-12 06:00:53] Неизвестный источник (tmz): Tom Brady Hits On Kevin Hart's Wife Duri
+[2026-05-12 06:00:53] Неизвестный источник (yahoo entertainment): Knicks torch 76ers with record-tying eff
+[2026-05-12 06:00:53] Неизвестный источник (substack.com): Behind-closed-door scenes, sounds and st
+[2026-05-12 06:00:53] Неизвестный источник (kabc-tv): Earthquake swarm in Brawley in Imperial 
+[2026-05-12 06:00:53] Неизвестный источник (cnbc): From Singapore to Brussels, world leader
+[2026-05-12 06:00:53] Неизвестный источник (screen rant): Matt Damon & Ben Affleck Sued By Police 
+[2026-05-12 06:00:53] Неизвестный источник (9to5google.com): Fitbit Air has status light & double-tap
+[2026-05-12 06:00:53] Неизвестный источник (nbcsports.com): Jarrod Bowen vents, Nuno Espirito Santo 
+[2026-05-12 06:00:53] Неизвестный источник (kotaku): PlayStation Emulator Devs Beg People To 
+[2026-05-12 06:00:53] Неизвестный источник (warhammer-community.com): Sunday Preview – March out with the Citi
+[2026-05-12 06:00:53] Неизвестный источник (psypost): Eating at least five eggs a week is asso
+[2026-05-12 06:00:53] Неизвестный источник (daily beast): 115 Fall Sick as Norovirus Rips Through 
+[2026-05-12 06:00:53] Нет фото: Study Argues Dante's Inferno Mapped a Pl
+[2026-05-12 06:00:53] Старая новость (2026-05-09T15:45:00Z): ESA and JAXA Join Forces in Historic Col
+[2026-05-12 06:00:53] Старая новость (2026-05-09T12:41:20Z): A close brush with Mars will reshape NAS
+[2026-05-12 06:00:53] Старая новость (2026-05-09T10:00:00Z): NASA's Artemis 2 commander and astrophot
+[2026-05-12 06:00:53] Мировые новости: найдено 10 после фильтрации
+[2026-05-12 06:00:53] Заблокированный источник (naturalnews.com): Russia Claims Ukraine Violated Truce 1,3
+[2026-05-12 06:00:53] Заблокированный источник (naturalnews.com): Secret Israeli base hidden in Iraqi Dese
+[2026-05-12 06:00:53] Нет фото: Russia Has Lost More Than 350,000 Soldie
+[2026-05-12 06:00:53] Нет фото: Russia and Ukraine trade blame as fragil
+[2026-05-12 06:00:53] Нет фото: In fotos: Di looks wey steal di night fo
+[2026-05-12 06:00:53] Нет фото: Putin hints at ending Russia’s war in Uk
+[2026-05-12 06:00:53] Нет фото: Katy Perry to headline 2026 FIFA World C
+[2026-05-12 06:00:53] Нет фото: Florida doctor indicted and accused of r
+[2026-05-12 06:00:53] Украинские новости: найдено 1 после фильтрации
+[2026-05-12 06:00:53] Заблокированный источник (breitbart news): Russia Accuses Ukraine of Violating Amer
+[2026-05-12 06:00:53] Нет фото: Russian Drones, Artillery Kill At Least 
+[2026-05-12 06:00:53] Харьков: новостей не найдено
+[2026-05-12 06:00:56] Обрабатываю: Trump to Axios: "I don't like" Iran's peace plan response
+[2026-05-12 06:00:56] Попытка 1 для: Trump to Axios: "I don't like" Iran's pe
+[2026-05-12 06:00:57] Успешно, получено 558 символов
+[2026-05-12 06:00:57] Пауза 60 секунд...
+[2026-05-12 06:01:57] Обрабатываю: French national shows symptoms on return from hantavirus-hit
+[2026-05-12 06:01:57] Попытка 1 для: French national shows symptoms on return
+[2026-05-12 06:01:58] Успешно, получено 812 символов
+[2026-05-12 06:01:59] Пауза 60 секунд...
+[2026-05-12 06:02:59] Обрабатываю: Hegseth calls for Sen. Mark Kelly to be investigated by Pent
+[2026-05-12 06:02:59] Попытка 1 для: Hegseth calls for Sen. Mark Kelly to be 
+[2026-05-12 06:03:00] Успешно, получено 825 символов
+[2026-05-12 06:03:01] Пауза 60 секунд...
+[2026-05-12 06:04:01] Обрабатываю: Nintendo Shares Tumble After Lackluster Switch 2 Games Outlo
+[2026-05-12 06:04:01] Попытка 1 для: Nintendo Shares Tumble After Lackluster 
+[2026-05-12 06:04:02] Успешно, получено 789 символов
+[2026-05-12 06:04:05] Обрабатываю: Russia and Ukraine accuse the other of ceasefire violations
+[2026-05-12 06:04:05] Попытка 1 для: Russia and Ukraine accuse the other of c
+[2026-05-12 06:04:05] Успешно, получено 468 символов
+[2026-05-12 06:04:06] === Блок morning завершён ===
