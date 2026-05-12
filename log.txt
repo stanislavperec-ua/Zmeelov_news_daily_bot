@@ -14788,3 +14788,40 @@ U.S. has violated ceasefire agr
 [2026-05-12 08:02:57] Попытка 1 для: Intel CEO who won over Donald Trump and 
 [2026-05-12 08:02:58] Успешно, получено 865 символов
 [2026-05-12 08:02:59] === Блок ai_morning завершён ===
+[2026-05-12 11:00:53] Загружено 1126 уже отправленных новостей
+[2026-05-12 11:00:53] === Запуск блока: midday ===
+[2026-05-12 11:00:53] Неизвестный источник (tmz): Pete Davidson Jokes That Kanye West is a
+[2026-05-12 11:00:53] Неизвестный источник (ign): Forza Horizon 6 Suffers Disastrous Leak 
+[2026-05-12 11:00:53] Неизвестный источник (dw (english)): Iranian Nobel winner Mohammadi moved to 
+[2026-05-12 11:00:53] Неизвестный источник (twz.com): Where Are The Carriers As Of May 11, 202
+[2026-05-12 11:00:53] Неизвестный источник (android authority): Breaking: Samsung starts rolling out sta
+[2026-05-12 11:00:53] Неизвестный источник (nbcsports.com): Knicks leave no doubt, blow out 76ers by
+[2026-05-12 11:00:53] Неизвестный источник (woai): Six people confirmed dead in Union Pacif
+[2026-05-12 11:00:53] Неизвестный источник (andscape.com): From AJ Dybantsa to Darius Acuff Jr., NB
+[2026-05-12 11:00:53] Неизвестный источник (android authority): GrapheneOS says Google is making life ha
+[2026-05-12 11:00:53] Неизвестный источник (heat.com): Victor Wembanyama ejected on flagrant fo
+[2026-05-12 11:00:53] Неизвестный источник (abcnews.com): 'The Devil Wears Prada 2' bests ‘Mortal 
+[2026-05-12 11:00:53] Неизвестный источник (yahoo entertainment): Thailand's former PM Thaksin freed from 
+[2026-05-12 11:00:53] Пропускаю уже отправленную: Russia kills three Ukrainians in 24 hours, accuses
+[2026-05-12 11:00:53] Старая новость (2026-05-09T20:29:34Z): Why iPhone 18 Price Report Is Good News 
+[2026-05-12 11:00:53] Нет фото: Study Argues Dante's Inferno Mapped a Pl
+[2026-05-12 11:00:53] Старая новость (2026-05-09T15:45:00Z): ESA and JAXA Join Forces in Historic Col
+[2026-05-12 11:00:53] Старая новость (2026-05-09T15:33:00Z): Norovirus outbreak reported on Princess 
+[2026-05-12 11:00:53] Старая новость (2026-05-09T14:45:00Z): A Mars Crescent Captured by a Tiny Space
+[2026-05-12 11:00:53] Мировые новости: найдено 13 после фильтрации
+[2026-05-12 11:00:55] Обрабатываю: Two more cruise ship passengers test positive for hantavirus
+[2026-05-12 11:00:55] Попытка 1 для: Two more cruise ship passengers test pos
+[2026-05-12 11:00:56] Успешно, получено 741 символов
+[2026-05-12 11:00:57] Пауза 60 секунд...
+[2026-05-12 11:01:57] Обрабатываю: Three enjoyable ways to slow your brain's ageing
+[2026-05-12 11:01:57] Попытка 1 для: Three enjoyable ways to slow your brain'
+[2026-05-12 11:01:58] Успешно, получено 801 символов
+[2026-05-12 11:01:58] Пауза 60 секунд...
+[2026-05-12 11:02:58] Обрабатываю: Budget-conscious shoppers are feeding a boom in discount gro
+[2026-05-12 11:02:58] Попытка 1 для: Budget-conscious shoppers are feeding a 
+[2026-05-12 11:02:59] Успешно, получено 753 символов
+[2026-05-12 11:03:00] Пауза 60 секунд...
+[2026-05-12 11:04:00] Обрабатываю: Congress’ Epstein probe raises a thorny question: Who counts
+[2026-05-12 11:04:00] Попытка 1 для: Congress’ Epstein probe raises a thorny 
+[2026-05-12 11:04:01] Успешно, получено 469 символов
+[2026-05-12 11:04:01] === Блок midday завершён ===
