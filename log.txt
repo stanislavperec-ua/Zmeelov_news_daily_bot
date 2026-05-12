@@ -14876,3 +14876,52 @@ U.S. has violated ceasefire agr
 [2026-05-12 16:05:18] Попытка 1 для: Putin suggests Ukraine war ‘coming to an
 [2026-05-12 16:05:19] Успешно, получено 856 символов
 [2026-05-12 16:05:19] === Блок evening завершён ===
+[2026-05-12 18:00:52] Загружено 1136 уже отправленных новостей
+[2026-05-12 18:00:52] === Запуск блока: ai_evening ===
+[2026-05-12 18:00:52] Неизвестный источник (globenewswire): LiveOne (Nasdaq: LVO) and PodcastOne (Na
+[2026-05-12 18:00:52] Неизвестный источник (marketbeat): Circle Internet Group Q1 Earnings Call H
+[2026-05-12 18:00:52] Неизвестный источник (pymnts.com): Uber’s AI Knows the City Before Your Dri
+[2026-05-12 18:00:52] Неизвестный источник (prnewswire): WasteVision AI and Lytx Integrate to Bri
+[2026-05-12 18:00:52] Неизвестный источник (ieee.org): The AI Boom Is Forcing a Long-Delayed Wi
+[2026-05-12 18:00:52] Неизвестный источник (globenewswire): DkPingan Launches AI-Powered Intraday Tr
+[2026-05-12 18:00:52] Неизвестный источник (yahoo entertainment): Circle stock climbs 1% as stablecoin use
+[2026-05-12 18:00:52] Неизвестный источник (bleeding cool news): Tigress Island #3 Preview: Leaving the H
+[2026-05-12 18:00:52] Неизвестный источник (internet): Hackers Used AI to Develop First Known Z
+[2026-05-12 18:00:52] Неизвестный источник (globenewswire): OpenVPN and Carahsoft Partner to Bring S
+[2026-05-12 18:00:52] Неизвестный источник (pymnts.com): Circle Chases Agentic Growth to Scale St
+[2026-05-12 18:00:52] Нет фото: Secai Partners With Mila to Accelerate A
+[2026-05-12 18:00:52] Неизвестный источник (globenewswire): Secai Partners With Mila to Accelerate A
+[2026-05-12 18:00:52] Неизвестный источник (financial post): Hackers used AI to build zero-day attack
+[2026-05-12 18:00:52] Нет фото: Vulnerability Summary for the Week of Ma
+[2026-05-12 18:00:52] Неизвестный источник (siliconangle news): On theCUBE Pod: IBM Think goes AI first 
+[2026-05-12 18:00:52] Неизвестный источник (pymnts.com): Circle Launches AI Tools and Raises $222
+[2026-05-12 18:00:52] Неизвестный источник (bitcoinfoundation.org): Top 5 Altcoins Whales Are Buying Aggress
+[2026-05-12 18:00:52] Неизвестный источник (financial post): AI wins have Alphabet poised to become w
+[2026-05-12 18:00:52] Неизвестный источник (prnewswire): EY report: AI is reshaping consumer prod
+[2026-05-12 18:00:52] Неизвестный источник (siliconangle news): Quiq extends its AI agent platform into 
+[2026-05-12 18:00:52] Неизвестный источник (securityaffairs.com): Google warns artificial intelligence is 
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): Water governance in the Tocantins-Aragua
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): Framing artificial intelligence in Chile
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): scHilda: Hierarchical Integration of LLM
+[2026-05-12 18:00:52] Неизвестный источник (prnewswire): MoonPay Acquires Dawn Labs, Launches AI 
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): LiteFeatNet: A parameter-efficient and p
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): Using deep learning to identify inherite
+[2026-05-12 18:00:52] Неизвестный источник (plos.org): THOI: An efficient and accessible librar
+[2026-05-12 18:00:52] Нет фото: Google disrupts hackers using AI to expl
+[2026-05-12 18:00:52] Нет фото: The Complete Guide to Virtual Reality in
+[2026-05-12 18:00:52] Неизвестный источник (new york post): ChatGPT told FSU shooter that targeting 
+[2026-05-12 18:00:52] Нет фото: Only 7% of Companies Achieve Full Compli
+[2026-05-12 18:00:52] Неизвестный источник (siliconangle news): Google says criminals used AI to build a
+[2026-05-12 18:00:52] AI новости: найдено 5 после фильтрации
+[2026-05-12 18:00:55] Обрабатываю: Portugal eyes bigger role in India’s infrastructure, manufac
+[2026-05-12 18:00:55] Попытка 1 для: Portugal eyes bigger role in India’s inf
+[2026-05-12 18:00:56] Успешно, получено 825 символов
+[2026-05-12 18:00:57] Пауза 60 секунд...
+[2026-05-12 18:01:57] Обрабатываю: Beijing talks and Delhi BRICS meet shape global power week
+[2026-05-12 18:01:57] Попытка 1 для: Beijing talks and Delhi BRICS meet shape
+[2026-05-12 18:01:58] Успешно, получено 813 символов
+[2026-05-12 18:01:58] Пауза 60 секунд...
+[2026-05-12 18:02:58] Обрабатываю: Cannes Festival signs up Meta as sponsor amid AI fears
+[2026-05-12 18:02:58] Попытка 1 для: Cannes Festival signs up Meta as sponsor
+[2026-05-12 18:02:59] Успешно, получено 920 символов
+[2026-05-12 18:03:00] === Блок ai_evening завершён ===
