@@ -14742,3 +14742,49 @@ U.S. has violated ceasefire agr
 [2026-05-12 06:04:05] Попытка 1 для: Russia and Ukraine accuse the other of c
 [2026-05-12 06:04:05] Успешно, получено 468 символов
 [2026-05-12 06:04:06] === Блок morning завершён ===
+[2026-05-12 08:00:51] Загружено 1124 уже отправленных новостей
+[2026-05-12 08:00:51] === Запуск блока: ai_morning ===
+[2026-05-12 08:00:52] Неизвестный источник (computerweekly.com): HPE announces autonomous networking capa
+[2026-05-12 08:00:52] Неизвестный источник (livemint): Small Indian IT firms’ rankings reshuffl
+[2026-05-12 08:00:52] Неизвестный источник (antaranews.com): ATxSummit 2026 Brings Global Leaders to 
+[2026-05-12 08:00:52] Заблокированный источник (naturalnews.com): Cloudflare Cuts 20% of Workforce in AI-D
+[2026-05-12 08:00:52] Неизвестный источник (globenewswire): Space42 appoints Skylo to power standard
+[2026-05-12 08:00:52] Нет фото: The barista is human but an AI agent run
+[2026-05-12 08:00:52] Нет фото: Goldman Sees Rates Pressure as AI Fuels 
+[2026-05-12 08:00:52] Неизвестный источник (the-independent.com): AI model finally learns to say ‘I don’t 
+[2026-05-12 08:00:52] Неизвестный источник (khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-05-12 08:00:52] Неизвестный источник (the conversation africa): Worried about your job? You’re not alone
+[2026-05-12 08:00:52] Неизвестный источник (financial post): Tencent, Alibaba Face Slowing Growth as 
+[2026-05-12 08:00:52] Неизвестный источник (pr newswire uk): YOFC Reduces GHG Emissions Intensity by 
+[2026-05-12 08:00:52] Неизвестный источник (prnewswire): YOFC Reduces GHG Emissions Intensity by 
+[2026-05-12 08:00:52] Неизвестный источник (siliconangle news): Report: AI chipmaker Cerebras to increas
+[2026-05-12 08:00:52] Нет фото: Dynamic analysis for employment substitu
+[2026-05-12 08:00:52] Неизвестный источник (financial post): US Stock Futures Slip as US-Iran Deal Ho
+[2026-05-12 08:00:52] Неизвестный источник (slashdot.org): Big Tech is Moving Data Through the Gulf
+[2026-05-12 08:00:52] Нет фото: Trump Aims to Press Xi Over China’s Appr
+[2026-05-12 08:00:52] Неизвестный источник (globenewswire): RadNet Reports Record First Quarter Fina
+[2026-05-12 08:00:52] Неизвестный источник (researchbuzz.me): Archivarix Tube Search, York History, Ir
+[2026-05-12 08:00:52] Неизвестный источник (c-sharpcorner.com): The Architectural Evolution of Intellige
+[2026-05-12 08:00:52] Неизвестный источник (variety): DGA Set to Begin Negotiations on Jobs, A
+[2026-05-12 08:00:52] Неизвестный источник (siliconangle news): Nvidia, AI factories and the transition 
+[2026-05-12 08:00:52] Неизвестный источник (dezeen): Proposal for sustainable agriculture fac
+[2026-05-12 08:00:52] Неизвестный источник (marketbeat): Citizens Financial Group CEO Touts Priva
+[2026-05-12 08:00:52] Нет фото: Microsoft’s African Data Center Falters 
+[2026-05-12 08:00:52] Неизвестный источник (financial post): AI and Productivity: Yanik Guillemette F
+[2026-05-12 08:00:52] Неизвестный источник (bleeding cool news): Amazing Spider-Man/Venom: Death Spiral –
+[2026-05-12 08:00:52] Неизвестный источник (cnbc): Alphabet's 160% rally in a year reflects
+[2026-05-12 08:00:52] Неизвестный источник (marketbeat): Evertec Q1 Earnings Call Highlights
+[2026-05-12 08:00:52] Нет фото: Moganshan Hosts Global Brands as China S
+[2026-05-12 08:00:52] AI новости: найдено 4 после фильтрации
+[2026-05-12 08:00:54] Обрабатываю: Google seriously considering manufacturing AI servers in Ind
+[2026-05-12 08:00:54] Попытка 1 для: Google seriously considering manufacturi
+[2026-05-12 08:00:55] Успешно, получено 688 символов
+[2026-05-12 08:00:56] Пауза 60 секунд...
+[2026-05-12 08:01:56] Обрабатываю: Strategies of high-accuracy memristor-based analogue computi
+[2026-05-12 08:01:56] Попытка 1 для: Strategies of high-accuracy memristor-ba
+[2026-05-12 08:01:57] Успешно, получено 761 символов
+[2026-05-12 08:01:57] Пауза 60 секунд...
+[2026-05-12 08:02:57] Обрабатываю: Intel CEO who won over Donald Trump and Elon Musk now needs 
+[2026-05-12 08:02:57] Попытка 1 для: Intel CEO who won over Donald Trump and 
+[2026-05-12 08:02:58] Успешно, получено 865 символов
+[2026-05-12 08:02:59] === Блок ai_morning завершён ===
