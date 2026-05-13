@@ -15020,3 +15020,41 @@ U.S. has violated ceasefire agr
 [2026-05-13 08:00:57] Попытка 1 для: US AI infra company Alpha Compute expand
 [2026-05-13 08:00:58] Успешно, получено 750 символов
 [2026-05-13 08:00:58] === Блок ai_morning завершён ===
+[2026-05-13 11:01:00] Загружено 1145 уже отправленных новостей
+[2026-05-13 11:01:00] === Запуск блока: midday ===
+[2026-05-13 11:01:00] Неизвестный источник (coindesk): Clarity Act, in the flesh, unveiled by U
+[2026-05-13 11:01:00] Неизвестный источник (kabc-tv): 'American Idol' finale: Did Hannah Harpe
+[2026-05-13 11:01:00] Неизвестный источник (variety): Colbert, Kimmel, Oliver, Meyers and Fall
+[2026-05-13 11:01:00] Неизвестный источник (hoopsrumors.com): Warriors Notes: Giannis, 11th Pick, Pros
+[2026-05-13 11:01:00] Заблокированный источник (sciencealert): First Signatures of a Future Tectonic Sp
+[2026-05-13 11:01:00] Неизвестный источник (the boston globe): Gunman fires randomly in Cambridge, woun
+[2026-05-13 11:01:00] Неизвестный источник (awful announcing): Brian Windhorst, Tim MacMahon accuse Vic
+[2026-05-13 11:01:00] Неизвестный источник (9to5mac): WhatsApp beta previews Liquid Glass chan
+[2026-05-13 11:01:00] Неизвестный источник (macrumors): iOS 26.5 Features: Everything New in iOS
+[2026-05-13 11:01:00] Неизвестный источник (atlanta journal constitution): Andrew Morse to step down, Paul Curran n
+[2026-05-13 11:01:00] Неизвестный источник (business insider): 4 ways Microsoft CEO Satya Nadella threw
+[2026-05-13 11:01:00] Неизвестный источник (nbc southern california): Arcadia mayor charged with acting as age
+[2026-05-13 11:01:00] Неизвестный источник (thenationaldesk.com): Hayden Panettiere was put into bed with 
+[2026-05-13 11:01:00] Неизвестный источник (daily beast): Foreign Leader Scolds Crowd at Summit in
+[2026-05-13 11:01:00] Неизвестный источник (deadline): Cannes Boss On Hollywood Skipping Fest: 
+[2026-05-13 11:01:00] Неизвестный источник (the daily galaxy --great discoveries channel): Astronomers Discovered a Brand-New Type 
+[2026-05-13 11:01:00] Неизвестный источник (gothamist): NY Sen. Schumer says hantavirus outbreak
+[2026-05-13 11:01:00] Неизвестный источник (nasa): Hubble Survey Sets Up Roman’s Future Loo
+[2026-05-13 11:01:00] Мировые новости: найдено 13 после фильтрации
+[2026-05-13 11:01:03] Обрабатываю: They were on the trip of a lifetime. Now they’re quarantined
+[2026-05-13 11:01:03] Попытка 1 для: They were on the trip of a lifetime. Now
+[2026-05-13 11:01:04] Успешно, получено 568 символов
+[2026-05-13 11:01:04] Пауза 60 секунд...
+[2026-05-13 11:02:04] Обрабатываю: Supreme Court hands Alabama major boost in redistricting fig
+[2026-05-13 11:02:04] Попытка 1 для: Supreme Court hands Alabama major boost 
+[2026-05-13 11:02:06] Успешно, получено 1051 символов
+[2026-05-13 11:02:06] Пауза 60 секунд...
+[2026-05-13 11:03:06] Обрабатываю: EU puts sanctions on Israeli settlers after Hungary drops Or
+[2026-05-13 11:03:06] Попытка 1 для: EU puts sanctions on Israeli settlers af
+[2026-05-13 11:03:07] Успешно, получено 854 символов
+[2026-05-13 11:03:35] Ошибка отправки фото: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[2026-05-13 11:03:36] Пауза 60 секунд...
+[2026-05-13 11:04:36] Обрабатываю: Trump calls on Congress to pass Senate’s housing bill
+[2026-05-13 11:04:36] Попытка 1 для: Trump calls on Congress to pass Senate’s
+[2026-05-13 11:04:37] Успешно, получено 743 символов
+[2026-05-13 11:04:38] === Блок midday завершён ===
