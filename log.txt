@@ -15199,3 +15199,51 @@ U.S. has violated ceasefire agr
 [2026-05-14 06:04:14] Успешно, получено 929 символов
 [2026-05-14 06:04:15] Фото не отправилось: 400
 [2026-05-14 06:04:15] === Блок morning завершён ===
+[2026-05-14 08:00:59] Загружено 1157 уже отправленных новостей
+[2026-05-14 08:00:59] === Запуск блока: ai_morning ===
+[2026-05-14 08:00:59] Неизвестный источник (prnewswire): Crossover Markets Launches CROSSx Disclo
+[2026-05-14 08:00:59] Неизвестный источник (computerweekly.com): Data dive: Power grid data shows birth o
+[2026-05-14 08:00:59] Неизвестный источник (c-sharpcorner.com): Top Cybersecurity Threats Developers Mus
+[2026-05-14 08:00:59] Неизвестный источник (c-sharpcorner.com): Secure AI Development: Best Practices fo
+[2026-05-14 08:00:59] Неизвестный источник (c-sharpcorner.com): The Future of Cloud Computing: AI, Autom
+[2026-05-14 08:00:59] Неизвестный источник (c-sharpcorner.com): AI in Cybersecurity: How Intelligent Thr
+[2026-05-14 08:00:59] Неизвестный источник (internet): Android Adds Intrusion Logging for Sophi
+[2026-05-14 08:00:59] Неизвестный источник (c-sharpcorner.com): Cloud Security Trends Every Developer an
+[2026-05-14 08:00:59] Неизвестный источник (protothema.gr): Why Athens is worried about drones, Niko
+[2026-05-14 08:00:59] Нет фото: geoai-py 0.38.0
+[2026-05-14 08:00:59] Неизвестный источник (computerweekly.com): Sovereign AI fund supports Hassabis star
+[2026-05-14 08:00:59] Нет фото: Siemens to Buy Back €6 Billion Shares Ag
+[2026-05-14 08:00:59] Неизвестный источник (the indian express): IMD’s new AI weather forecasts will tell
+[2026-05-14 08:00:59] Неизвестный источник (financial post): US Shoppers Are at Risk of a Costly Chri
+[2026-05-14 08:00:59] Неизвестный источник (globenewswire): VEON Delivers Strong Start to 2026 | 1Q2
+[2026-05-14 08:00:59] Нет фото: Henan welcomes international storyteller
+[2026-05-14 08:00:59] Неизвестный источник (itnews): Microsoft's MDASH AI vulnerability scann
+[2026-05-14 08:00:59] Заблокированный источник (breitbart news): Exclusive — Sec. Burgum to Breitbart’s M
+[2026-05-14 08:00:59] Неизвестный источник (siliconangle news): Celonis buys decision-intelligence start
+[2026-05-14 08:00:59] Неизвестный источник (new york post): China’s AI is truly artifical – and the 
+[2026-05-14 08:00:59] Неизвестный источник (antaranews.com): International Healthcare Week opens toda
+[2026-05-14 08:00:59] Неизвестный источник (siliconangle news): Nebius snaps up Clarifai’s compute orche
+[2026-05-14 08:00:59] Неизвестный источник (siliconangle news): Veeam introduces new backup management, 
+[2026-05-14 08:00:59] Неизвестный источник (siliconangle news): CME Group and Silicon Data to launch AI 
+[2026-05-14 08:00:59] Неизвестный источник (techradar): ‘Your Wi-Fi cable could be a secret micr
+[2026-05-14 08:00:59] Неизвестный источник (siliconangle news): Idira launches as Palo Alto Networks ext
+[2026-05-14 08:00:59] Неизвестный источник (pymnts.com): The End of the Artisanal Hack: How AI In
+[2026-05-14 08:00:59] Неизвестный источник (bitcoinist): Vitalik Buterin Labels Ethereum the Econ
+[2026-05-14 08:00:59] Нет фото: How major US stock indexes fared Tuesday
+[2026-05-14 08:00:59] Неизвестный источник (arxiv.org): Predictive Coding Light+: learning to pr
+[2026-05-14 08:00:59] Нет фото: FCC approves AT&T and Starlink purchases
+[2026-05-14 08:00:59] Неизвестный источник (globenewswire): XMax Inc. Announces Ticker Symbol Change
+[2026-05-14 08:00:59] AI новости: найдено 7 после фильтрации
+[2026-05-14 08:01:01] Обрабатываю: Foxconn confirms cyberattack on North American facilities; O
+[2026-05-14 08:01:01] Попытка 1 для: Foxconn confirms cyberattack on North Am
+[2026-05-14 08:01:03] Успешно, получено 595 символов
+[2026-05-14 08:01:04] Фото не отправилось: 400
+[2026-05-14 08:01:04] Пауза 60 секунд...
+[2026-05-14 08:02:04] Обрабатываю: ASX Plunges on Banking Sell-Off as CBA Crashes 10% in Record
+[2026-05-14 08:02:04] Попытка 1 для: ASX Plunges on Banking Sell-Off as CBA C
+[2026-05-14 08:02:05] Успешно, получено 650 символов
+[2026-05-14 08:02:06] Пауза 60 секунд...
+[2026-05-14 08:03:06] Обрабатываю: GLOBO Named to Modern Healthcare's 2026 Best Places to Work 
+[2026-05-14 08:03:06] Попытка 1 для: GLOBO Named to Modern Healthcare's 2026 
+[2026-05-14 08:03:07] Успешно, получено 677 символов
+[2026-05-14 08:03:08] === Блок ai_morning завершён ===
