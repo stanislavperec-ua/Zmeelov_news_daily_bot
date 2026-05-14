@@ -15342,3 +15342,47 @@ U.S. has violated ceasefire agr
 [2026-05-14 16:06:20] Успешно, получено 918 символов
 [2026-05-14 16:06:20] Фото не отправилось: 400
 [2026-05-14 16:06:21] === Блок evening завершён ===
+[2026-05-14 18:00:56] Загружено 1168 уже отправленных новостей
+[2026-05-14 18:00:56] === Запуск блока: ai_evening ===
+[2026-05-14 18:00:57] Неизвестный источник (slashdot.org): LinkedIn Planning To Lay Off 5% of Staff
+[2026-05-14 18:00:57] Неизвестный источник (prnewswire): Blend Achieves Snowflake Elite Partner S
+[2026-05-14 18:00:57] Неизвестный источник (crypto briefing): Upbit adds Venice Token, trading starts 
+[2026-05-14 18:00:57] Неизвестный источник (commercial observer): AI Firm Forus Inks 25K-SF Lease at Zar P
+[2026-05-14 18:00:57] Неизвестный источник (financial post): Memory crunch deepens chasm between stoc
+[2026-05-14 18:00:57] Неизвестный источник (prnewswire): Blend Achieves Snowflake Elite Partner S
+[2026-05-14 18:00:57] Неизвестный источник (protothema.gr): Greece introduces, for the first time, a
+[2026-05-14 18:00:57] Неизвестный источник (siliconangle news): DigiCert tackles AI’s trust crisis with 
+[2026-05-14 18:00:57] Неизвестный источник (medical news today): Daily routines may strengthen circadian 
+[2026-05-14 18:00:57] Нет фото: ANSR Publishes Strategic Analysis on the
+[2026-05-14 18:00:57] Нет фото: LinkedIn Planning To Lay Off 5% of Staff
+[2026-05-14 18:00:57] Неизвестный источник (financial post): Microsoft’s LinkedIn is cutting jobs in 
+[2026-05-14 18:00:57] Неизвестный источник (pymnts.com): Data Mobility Across the API Economy Is 
+[2026-05-14 18:00:57] Неизвестный источник (siliconangle news): Veeam’s big pivot on display at VeeamON 
+[2026-05-14 18:00:57] Неизвестный источник (crypto briefing): Trump embarks on first US state visit to
+[2026-05-14 18:00:57] Неизвестный источник (pymnts.com): Paysafe Targets Agentic Commerce as Digi
+[2026-05-14 18:00:57] Неизвестный источник (rte): Linkedin to cut 5% of global staff - med
+[2026-05-14 18:00:57] Неизвестный источник (antaranews.com): Indonesia uses AI to crack down on onlin
+[2026-05-14 18:00:57] Неизвестный источник (businessline): LinkedIn planning to lay off 5% of staff
+[2026-05-14 18:00:57] Неизвестный источник (scientific american): Tiny robot drones learn to navigate the 
+[2026-05-14 18:00:57] Неизвестный источник (prnewswire): Supply Chain Management Market to Reach 
+[2026-05-14 18:00:57] Неизвестный источник (wwd): How AI is Helping Physical Stores To Exp
+[2026-05-14 18:00:57] Неизвестный источник (finanznachrichten.de): HKTDC: Asia Summit on Global Health and 
+[2026-05-14 18:00:57] Неизвестный источник (financial post): Alibaba, Tencent disappoint investors ho
+[2026-05-14 18:00:57] Нет фото: The Latest: Trump arrives in China to me
+[2026-05-14 18:00:57] Неизвестный источник (cna): LinkedIn planning to lay off 5% of staff
+[2026-05-14 18:00:57] Неизвестный источник (financial post): Stocks Waver as Traders Weigh Hot PPI Ag
+[2026-05-14 18:00:57] Нет фото: ICTC Welcomes Digital Youth Ambassadors 
+[2026-05-14 18:00:57] Неизвестный источник (globenewswire): AiTradeBtc Strengthens AI Trading Infras
+[2026-05-14 18:00:57] Неизвестный источник (siliconangle news): Blumira launches Kindling pilot, an agen
+[2026-05-14 18:00:57] Неизвестный источник (ieee.org): Can AI Chatbots Reason Like Doctors?
+[2026-05-14 18:00:57] Неизвестный источник (plos.org): Teaching artificial intelligence through
+[2026-05-14 18:00:57] Неизвестный источник (plos.org): Interpretable candidate drug prioritizat
+[2026-05-14 18:00:57] Неизвестный источник (plos.org): Development of an asthma policy model fo
+[2026-05-14 18:00:57] Неизвестный источник (plos.org): Evolutionary trends of plague research f
+[2026-05-14 18:00:57] Неизвестный источник (plos.org): Biomedical open source software: Crucial
+[2026-05-14 18:00:57] Неизвестный источник (dailymail.com): Pip Edwards' mercy call to CEO in P.E Na
+[2026-05-14 18:00:57] AI новости: найдено 1 после фильтрации
+[2026-05-14 18:00:59] Обрабатываю: Microsoft's LinkedIn to announce layoffs on Wednesday
+[2026-05-14 18:00:59] Попытка 1 для: Microsoft's LinkedIn to announce layoffs
+[2026-05-14 18:01:00] Успешно, получено 604 символов
+[2026-05-14 18:01:01] === Блок ai_evening завершён ===
