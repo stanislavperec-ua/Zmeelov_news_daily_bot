@@ -15247,3 +15247,37 @@ U.S. has violated ceasefire agr
 [2026-05-14 08:03:06] Попытка 1 для: GLOBO Named to Modern Healthcare's 2026 
 [2026-05-14 08:03:07] Успешно, получено 677 символов
 [2026-05-14 08:03:08] === Блок ai_morning завершён ===
+[2026-05-14 11:00:49] Загружено 1160 уже отправленных новостей
+[2026-05-14 11:00:49] === Запуск блока: midday ===
+[2026-05-14 11:00:50] Неизвестный источник (entertainment weekly): Hayden Panettiere's ex reacts to domesti
+[2026-05-14 11:00:50] Неизвестный источник (motley fool): Chevron's CEO Just Said Physical Oil Sho
+[2026-05-14 11:00:50] Неизвестный источник (bleeding green nation): NFL schedule news: Eagles vs. Jaguars in
+[2026-05-14 11:00:50] Неизвестный источник (phys.org): Largest-ever survey of physicists puts S
+[2026-05-14 11:00:50] Неизвестный источник (usa today): Georges St-Pierre praises Sean Stricklan
+[2026-05-14 11:00:50] Неизвестный источник (hollywood reporter): Conan O’Brien to Return as Oscars Host f
+[2026-05-14 11:00:50] Неизвестный источник (the cut): Jamie Foxx Is Expecting His Third Child 
+[2026-05-14 11:00:50] Неизвестный источник (umn.edu): Hantavirus outbreak grows to 11 cases, 9
+[2026-05-14 11:00:50] Неизвестный источник (phys.org): Gravitational waves from colliding black
+[2026-05-14 11:00:50] Неизвестный источник (abcnews.com): From Dani Rojas to the USL: Cristo Ferna
+[2026-05-14 11:00:50] Неизвестный источник (forbes): Trump Says ‘I Don’t Think About American
+[2026-05-14 11:00:50] Неизвестный источник (9to5mac): iOS 26.5’s Apple Maps app has two notabl
+[2026-05-14 11:00:50] Неизвестный источник (zdnet): First look at Googlebook: A premium Chro
+[2026-05-14 11:00:50] Старая новость (2026-05-12T08:44:13Z): Study finds engaging with the arts can s
+[2026-05-14 11:00:50] Старая новость (2026-05-11T15:00:00Z): New 'trick' fixes major flaw in neutral-
+[2026-05-14 11:00:50] Мировые новости: найдено 13 после фильтрации
+[2026-05-14 11:00:52] Обрабатываю: Kash Patel lashes out as lawmakers question ‘excessive drink
+[2026-05-14 11:00:52] Попытка 1 для: Kash Patel lashes out as lawmakers quest
+[2026-05-14 11:00:53] Успешно, получено 577 символов
+[2026-05-14 11:00:53] Пауза 60 секунд...
+[2026-05-14 11:01:53] Обрабатываю: Utah woman who published a book on grief after husband’s dea
+[2026-05-14 11:01:53] Попытка 1 для: Utah woman who published a book on grief
+[2026-05-14 11:01:54] Успешно, получено 674 символов
+[2026-05-14 11:01:55] Пауза 60 секунд...
+[2026-05-14 11:02:55] Обрабатываю: Some Japanese snack packages are turning black-and-white as 
+[2026-05-14 11:02:55] Попытка 1 для: Some Japanese snack packages are turning
+[2026-05-14 11:02:56] Успешно, получено 744 символов
+[2026-05-14 11:02:56] Пауза 60 секунд...
+[2026-05-14 11:03:56] Обрабатываю: Sony’s new Xperia phone gets an overdue redesign
+[2026-05-14 11:03:56] Попытка 1 для: Sony’s new Xperia phone gets an overdue 
+[2026-05-14 11:03:57] Успешно, получено 544 символов
+[2026-05-14 11:03:57] === Блок midday завершён ===
