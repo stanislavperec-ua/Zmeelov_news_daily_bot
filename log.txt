@@ -15686,3 +15686,41 @@ U.S. has violated ceasefire agr
 [2026-05-16 08:02:54] Попытка 1 для: Northern Territory musicians escape to i
 [2026-05-16 08:02:55] Успешно, получено 686 символов
 [2026-05-16 08:02:56] === Блок ai_morning завершён ===
+[2026-05-16 11:00:48] Загружено 1192 уже отправленных новостей
+[2026-05-16 11:00:48] === Запуск блока: midday ===
+[2026-05-16 11:00:49] Неизвестный источник (variety): ‘The Mandalorian and Grogu’ Gets Divided
+[2026-05-16 11:00:49] Неизвестный источник (cnbc): Stock futures fall after Dow retakes 50,
+[2026-05-16 11:00:49] Неизвестный источник (motley fool): Cerebras Just Pulled Off the Biggest IPO
+[2026-05-16 11:00:49] Неизвестный источник (variety): Drake Releases New Album ‘Iceman’ — Plus
+[2026-05-16 11:00:49] Неизвестный источник (king5.com): 'Most amazing human being we have ever k
+[2026-05-16 11:00:49] Неизвестный источник (newsnationnow.com): El Niño predicted to emerge soon, may be
+[2026-05-16 11:00:49] Неизвестный источник (nfl news): 2026 NFL schedule: Cowboys, Seahawks amo
+[2026-05-16 11:00:49] Неизвестный источник (nbcsports.com): Despite Patrick Mahomes’ injury, Chiefs 
+[2026-05-16 11:00:49] Неизвестный источник (democracydocket.com): South Carolina redistricting: Governor f
+[2026-05-16 11:00:49] Неизвестный источник (empire): The search for the next James Bond is of
+[2026-05-16 11:00:49] Неизвестный источник (9to5mac): OpenAI brings Codex to ChatGPT for iPhon
+[2026-05-16 11:00:49] Неизвестный источник (space.com): No, this isn't a solar eclipse. It's an 
+[2026-05-16 11:00:49] Неизвестный источник (horse racing nation): Preakness notes: Updates on the contende
+[2026-05-16 11:00:49] Неизвестный источник (calmatters): California's flush with cash. Newsom wan
+[2026-05-16 11:00:49] Неизвестный источник (deadline): Pawel Pawlikowski’s ‘Fatherland’ Gets Si
+[2026-05-16 11:00:49] Неизвестный источник (the daily galaxy --great discoveries channel): Mars Express Captures Strange Dark Remai
+[2026-05-16 11:00:49] Неизвестный источник (9to5mac): iPhone 17 Pro has the fastest charging s
+[2026-05-16 11:00:49] Неизвестный источник (android authority): The era of 15GB free Gmail storage is en
+[2026-05-16 11:00:49] Неизвестный источник (gizmodo.com): NASA’s Next-Gen Processor Is 500 Times M
+[2026-05-16 11:00:49] Мировые новости: найдено 13 после фильтрации
+[2026-05-16 11:00:51] Обрабатываю: Korean Stocks Tumble After Reaching Milestone as Foreigners 
+[2026-05-16 11:00:51] Попытка 1 для: Korean Stocks Tumble After Reaching Mile
+[2026-05-16 11:00:52] Успешно, получено 626 символов
+[2026-05-16 11:00:52] Пауза 60 секунд...
+[2026-05-16 11:01:52] Обрабатываю: DOJ says Yale medical school discriminated against Asian, Wh
+[2026-05-16 11:01:52] Попытка 1 для: DOJ says Yale medical school discriminat
+[2026-05-16 11:01:53] Успешно, получено 905 символов
+[2026-05-16 11:01:54] Пауза 60 секунд...
+[2026-05-16 11:02:54] Обрабатываю: Supreme Court preserves access to mail distribution of widel
+[2026-05-16 11:02:54] Попытка 1 для: Supreme Court preserves access to mail d
+[2026-05-16 11:02:55] Успешно, получено 903 символов
+[2026-05-16 11:02:55] Пауза 60 секунд...
+[2026-05-16 11:03:55] Обрабатываю: Live Updates: Seized ship taken toward Iran as Trump and Chi
+[2026-05-16 11:03:55] Попытка 1 для: Live Updates: Seized ship taken toward I
+[2026-05-16 11:03:56] Успешно, получено 893 символов
+[2026-05-16 11:03:57] === Блок midday завершён ===
