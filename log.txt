@@ -15635,3 +15635,54 @@ U.S. has violated ceasefire agr
 [2026-05-16 06:04:02] Попытка 1 для: Putin pounds Ukraine in largest aerial a
 [2026-05-16 06:04:03] Успешно, получено 782 символов
 [2026-05-16 06:04:03] === Блок morning завершён ===
+[2026-05-16 08:00:48] Загружено 1189 уже отправленных новостей
+[2026-05-16 08:00:48] === Запуск блока: ai_morning ===
+[2026-05-16 08:00:48] Неизвестный источник (pymnts.com): Physical Goods Firms Are Learning to Liv
+[2026-05-16 08:00:48] Нет фото: Ready or Not, AI Government is Already H
+[2026-05-16 08:00:48] Нет фото: Copper Extends Retreat on Faster Inflati
+[2026-05-16 08:00:48] Нет фото: Taiwan to Require Big Power Users to Bui
+[2026-05-16 08:00:48] Неизвестный источник (globenewswire): Fiber Optics Market Size to Worth USD 19
+[2026-05-16 08:00:48] Неизвестный источник (forbes): People Are Altering Their Thinking To Th
+[2026-05-16 08:00:48] Неизвестный источник (financial post): China’s Economy Is Entering Another Quar
+[2026-05-16 08:00:48] Неизвестный источник (motley fool australia): Why this BetaShares ETF could be a stron
+[2026-05-16 08:00:48] Неизвестный источник (thewrap): Stephen Colbert Jabs CBS News After Chin
+[2026-05-16 08:00:48] Неизвестный источник (c-sharpcorner.com): How AI Is Reshaping Software Testing and
+[2026-05-16 08:00:48] Неизвестный источник (c-sharpcorner.com): AI Observability Explained: Monitoring A
+[2026-05-16 08:00:48] Неизвестный источник (c-sharpcorner.com): Why AI Still Struggles With Backend Deve
+[2026-05-16 08:00:48] Неизвестный источник (financial post): Stocks, Bonds Decline on Concerns About 
+[2026-05-16 08:00:48] Неизвестный источник (financial post): Malaysia Revises Up GDP Growth, Says Key
+[2026-05-16 08:00:48] Неизвестный источник (computerweekly.com): Why trust and resilience are foundations
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): Applied Materials boosts its outlook as 
+[2026-05-16 08:00:48] Нет фото: From data to dialogue
+[2026-05-16 08:00:48] Неизвестный источник (the punch): Telcos $1bn investments push broadband p
+[2026-05-16 08:00:48] Неизвестный источник (the punch): Visa unveils AI-powered dispute resoluti
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): AI training data provider Wirestock rais
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): A $10T bet: Coupa leverages data to buil
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): PwC expands Anthropic alliance, will tra
+[2026-05-16 08:00:48] Неизвестный источник (cisco.com): Accelerate Your Career and Impact with C
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): Red Hat outlines sovereign AI strategy a
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): Figma stock jumps as first-quarter reven
+[2026-05-16 08:00:48] Нет фото: MOBILedit Forensic Ultra 9.8.0.34378
+[2026-05-16 08:00:48] Неизвестный источник (financial post): News of the day: AI and productivity, wh
+[2026-05-16 08:00:48] Неизвестный источник (the next web): Figma’s numbers say AI is a tailwind. It
+[2026-05-16 08:00:48] Неизвестный источник (substack.com): On Interpolatable Archives (Clean)
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): Graphon reels in $8.3M for its persisten
+[2026-05-16 08:00:48] Нет фото: From Cisco to Block, more companies are 
+[2026-05-16 08:00:48] Неизвестный источник (xda developers): 6 settings I always change to make any T
+[2026-05-16 08:00:48] Неизвестный источник (yahoo entertainment): Jim Cramer Can’t Understand Why Cloudfla
+[2026-05-16 08:00:48] Неизвестный источник (financial post): Amazon’s AI success sends stock racing t
+[2026-05-16 08:00:48] Неизвестный источник (siliconangle news): Untrained AI agents are easy security ta
+[2026-05-16 08:00:48] Нет фото: Rockefeller Foundation's Chief Operating
+[2026-05-16 08:00:48] AI новости: найдено 4 после фильтрации
+[2026-05-16 08:00:50] Обрабатываю: ABC boss Hugh Marks flags TV cuts as broadcaster pivots to n
+[2026-05-16 08:00:50] Попытка 1 для: ABC boss Hugh Marks flags TV cuts as bro
+[2026-05-16 08:00:52] Успешно, получено 730 символов
+[2026-05-16 08:00:52] Пауза 60 секунд...
+[2026-05-16 08:01:52] Обрабатываю: Computational engineering of the polyester hydrolase PHL7 fo
+[2026-05-16 08:01:52] Попытка 1 для: Computational engineering of the polyest
+[2026-05-16 08:01:53] Успешно, получено 707 символов
+[2026-05-16 08:01:54] Пауза 60 секунд...
+[2026-05-16 08:02:54] Обрабатываю: Northern Territory musicians escape to international festiva
+[2026-05-16 08:02:54] Попытка 1 для: Northern Territory musicians escape to i
+[2026-05-16 08:02:55] Успешно, получено 686 символов
+[2026-05-16 08:02:56] === Блок ai_morning завершён ===
