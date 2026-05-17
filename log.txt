@@ -15934,3 +15934,36 @@ U.S. has violated ceasefire agr
 [2026-05-17 08:01:54] Попытка 1 для: Chinese undersea device found near Bali 
 [2026-05-17 08:01:55] Успешно, получено 705 символов
 [2026-05-17 08:01:55] === Блок ai_morning завершён ===
+[2026-05-17 11:00:48] Загружено 1207 уже отправленных новостей
+[2026-05-17 11:00:48] === Запуск блока: midday ===
+[2026-05-17 11:00:48] Неизвестный источник (tmz): Taylor Swift and Travis Kelce Enjoy a Da
+[2026-05-17 11:00:48] Неизвестный источник (thestreet): ‘Unhinged’ bond yields resets Fed rate-c
+[2026-05-17 11:00:48] Неизвестный источник (new york post): Chelsea Handler ignites feud with Spence
+[2026-05-17 11:00:48] Неизвестный источник (komo news): Health officials track fourth King Count
+[2026-05-17 11:00:48] Неизвестный источник (usa today): John Travolta cries after surprise award
+[2026-05-17 11:00:48] Неизвестный источник (kiro seattle): Someone in Chelan County tested positive
+[2026-05-17 11:00:48] Неизвестный источник (nasa): NASA Science, Cargo Launch on 34th Space
+[2026-05-17 11:00:48] Неизвестный источник (pbs): Live Results: Louisiana midterm state an
+[2026-05-17 11:00:48] Неизвестный источник (the denver post): ‘Gov. Polis’ legacy’? Colorado officials
+[2026-05-17 11:00:48] Неизвестный источник (barron's): Berkshire Boosted Stake in Alphabet in F
+[2026-05-17 11:00:48] Неизвестный источник (gizmodo.com): Intel’s NUCs Live On… as an Excessive As
+[2026-05-17 11:00:48] Неизвестный источник (espn): Carano lost 100 pounds to make Rousey fi
+[2026-05-17 11:00:48] Неизвестный источник (9to5google.com): Fitbit 4.69 rolls out with redesign of f
+[2026-05-17 11:00:48] Старая новость (2026-05-15T10:08:00Z): Long-awaited Xbox Elite Series 3 control
+[2026-05-17 11:00:48] Мировые новости: найдено 15 после фильтрации
+[2026-05-17 11:00:51] Обрабатываю: Man killed by 13ft great white shark in Western Australia
+[2026-05-17 11:00:51] Попытка 1 для: Man killed by 13ft great white shark in 
+[2026-05-17 11:00:52] Успешно, получено 986 символов
+[2026-05-17 11:00:53] Пауза 60 секунд...
+[2026-05-17 11:01:53] Обрабатываю: Supreme Court blocks effort to revive Va. voting map that bo
+[2026-05-17 11:01:53] Попытка 1 для: Supreme Court blocks effort to revive Va
+[2026-05-17 11:01:54] Успешно, получено 796 символов
+[2026-05-17 11:01:54] Пауза 60 секунд...
+[2026-05-17 11:02:54] Обрабатываю: Israel says strike targeted the last senior Hamas leader inv
+[2026-05-17 11:02:54] Попытка 1 для: Israel says strike targeted the last sen
+[2026-05-17 11:02:56] Успешно, получено 724 символов
+[2026-05-17 11:02:56] Пауза 60 секунд...
+[2026-05-17 11:03:56] Обрабатываю: Ebola outbreak kills 65 in eastern DR Congo's Ituri province
+[2026-05-17 11:03:56] Попытка 1 для: Ebola outbreak kills 65 in eastern DR Co
+[2026-05-17 11:03:57] Успешно, получено 636 символов
+[2026-05-17 11:03:57] === Блок midday завершён ===
