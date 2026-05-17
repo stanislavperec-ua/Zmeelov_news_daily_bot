@@ -15885,3 +15885,52 @@ U.S. has violated ceasefire agr
 [2026-05-17 06:03:59] Попытка 1 для: CDC tightens home monitoring guidance fo
 [2026-05-17 06:04:00] Успешно, получено 933 символов
 [2026-05-17 06:04:01] === Блок morning завершён ===
+[2026-05-17 08:00:49] Загружено 1205 уже отправленных новостей
+[2026-05-17 08:00:49] === Запуск блока: ai_morning ===
+[2026-05-17 08:00:49] Неизвестный источник (hurriyet daily news): Türkiye now defense ecosystem for partne
+[2026-05-17 08:00:49] Неизвестный источник (variety): Indonesia Eyes Cannes 2028 Country of Ho
+[2026-05-17 08:00:49] Неизвестный источник (bleeding cool news): The Umbrella Academy: Plan B #4 Preview:
+[2026-05-17 08:00:49] Нет фото: The Vatican has said a lot about artific
+[2026-05-17 08:00:49] Неизвестный источник (moneycontrol): SEBI cracks down on alleged stock pump a
+[2026-05-17 08:00:49] Неизвестный источник (中国日报): Key undersea cable makes HK touchdown
+[2026-05-17 08:00:49] Неизвестный источник (ehealthcaresolutions.com): AI in Pharma Marketing: Autonomous Media
+[2026-05-17 08:00:49] Неизвестный источник (pr newswire uk): UN Global Compact Africa Business Leader
+[2026-05-17 08:00:49] Неизвестный источник (soldiersystems.net): The Cross-Domain Contact Layer: Army Adv
+[2026-05-17 08:00:49] Неизвестный источник (fortune): SpaceX said to plan public IPO filing as
+[2026-05-17 08:00:49] Неизвестный источник (prnewswire): UN Global Compact Africa Business Leader
+[2026-05-17 08:00:49] Неизвестный источник (siliconangle news): GridCare raises $64M to speed up AI data
+[2026-05-17 08:00:49] Неизвестный источник (fox news): FAA unveils new air traffic controller h
+[2026-05-17 08:00:49] Неизвестный источник (globenewswire): Canadian AI and business leaders meet wi
+[2026-05-17 08:00:49] Неизвестный источник (globenewswire): XMax Inc. Announces First Quarter 2026 F
+[2026-05-17 08:00:49] Неизвестный источник (financial post): OpenAI, Plaid to bring tailored financia
+[2026-05-17 08:00:49] Заблокированный источник (barchart.com): Akamai Stock Is Surging on an Analyst Up
+[2026-05-17 08:00:49] Неизвестный источник (siliconangle news): Agents are a manager’s dream for product
+[2026-05-17 08:00:49] Неизвестный источник (pymnts.com): AI Cyber Threats Shake Crypto Industry
+[2026-05-17 08:00:49] Неизвестный источник (comicbook.com): WB’s Movie Reboot of HBO’s Cancelled Sci
+[2026-05-17 08:00:49] Нет фото: Argentum AI Signs $2.5 Billion, 300MW AI
+[2026-05-17 08:00:49] Неизвестный источник (ms. magazine): No Women Were Present at the U.S.-China 
+[2026-05-17 08:00:49] Неизвестный источник (universe today): NASA Captures Volatile Changes in Earth'
+[2026-05-17 08:00:49] Неизвестный источник (globenewswire): Sutter Health and Santa Clara University
+[2026-05-17 08:00:49] Неизвестный источник (activistpost.com): Palantir Manifesto Shows The Clear Conve
+[2026-05-17 08:00:49] Неизвестный источник (bleepingcomputer): Microsoft Exchange, Windows 11 hacked on
+[2026-05-17 08:00:49] Неизвестный источник (iai.tv): Sorry, But Introspection Is Just An Illu
+[2026-05-17 08:00:49] Неизвестный источник (prnewswire): Ocean Justice and Net Zero Accountabilit
+[2026-05-17 08:00:49] Неизвестный источник (bitcoinfoundation.org): What Does Strategy Do? How Michael Saylo
+[2026-05-17 08:00:49] Неизвестный источник (financial post): BofA’s Hartnett says stock market ripe f
+[2026-05-17 08:00:49] Неизвестный источник (prnewswire): Global Adventure Tourism Market to Reach
+[2026-05-17 08:00:49] Неизвестный источник (pr newswire uk): Global Adventure Tourism Market to Reach
+[2026-05-17 08:00:49] Неизвестный источник (the next web): AI gave North Korean hackers a $600 mill
+[2026-05-17 08:00:49] Неизвестный источник (financial post): Traders Dump Chipmakers as Rising Yields
+[2026-05-17 08:00:49] Неизвестный источник (the diplomat): Southeast Asia’s Counter-drone Efforts
+[2026-05-17 08:00:49] Неизвестный источник (siliconangle news): The software supply chain is the new gro
+[2026-05-17 08:00:49] Неизвестный источник (landezine.com): HONDA TAKEO PARK asobiba by Design Netwo
+[2026-05-17 08:00:49] Неизвестный источник (financial post): Ford soars 21% in two days as AI hype sp
+[2026-05-17 08:00:49] AI новости: найдено 2 после фильтрации
+[2026-05-17 08:00:52] Обрабатываю: Stephen Miller’s New Recusals
+[2026-05-17 08:00:52] Попытка 1 для: Stephen Miller’s New Recusals
+[2026-05-17 08:00:53] Успешно, получено 772 символов
+[2026-05-17 08:00:54] Пауза 60 секунд...
+[2026-05-17 08:01:54] Обрабатываю: Chinese undersea device found near Bali may be part of somet
+[2026-05-17 08:01:54] Попытка 1 для: Chinese undersea device found near Bali 
+[2026-05-17 08:01:55] Успешно, получено 705 символов
+[2026-05-17 08:01:55] === Блок ai_morning завершён ===
