@@ -16163,3 +16163,42 @@ U.S. has violated ceasefire agr
 [2026-05-18 08:01:55] Попытка 1 для: Meta Stock 2026: Buy Recommendation as A
 [2026-05-18 08:01:56] Успешно, получено 678 символов
 [2026-05-18 08:01:57] === Блок ai_morning завершён ===
+[2026-05-18 11:00:51] Загружено 1221 уже отправленных новостей
+[2026-05-18 11:00:51] === Запуск блока: midday ===
+[2026-05-18 11:00:51] Неизвестный источник (hollywood reporter): The Indies Are Dying. Long Live the Indi
+[2026-05-18 11:00:51] Неизвестный источник (france 24 english): Ukraine launches more than 500 drones at
+[2026-05-18 11:00:51] Неизвестный источник (variety): Ronda Rousey Destroys Gina Carano in Sec
+[2026-05-18 11:00:51] Пропускаю уже отправленную: Senate parliamentarian nixes Trump’s ballroom fund
+[2026-05-18 11:00:51] Неизвестный источник (dw (english)): Venezuela deports Maduro ally Alex Saab 
+[2026-05-18 11:00:51] Неизвестный источник (lailluminator.com): Louisiana rejects Gov. Jeff Landry-backe
+[2026-05-18 11:00:51] Неизвестный источник (gsmarena.com): Google’s new Gemini Intelligence will on
+[2026-05-18 11:00:51] Неизвестный источник (hitc - football, gaming, movies, tv, music): Ludvig Aberg stunned after day three at 
+[2026-05-18 11:00:51] Неизвестный источник (variety): Scarlett Johansson Doesn’t Pick Up FaceT
+[2026-05-18 11:00:51] Неизвестный источник (gothamist): LIRR strike shuts down nation's busiest 
+[2026-05-18 11:00:51] Неизвестный источник (the daily galaxy --great discoveries channel): Scientists Dig Up A 90-foot Giant Dinosa
+[2026-05-18 11:00:51] Неизвестный источник (space.com): NASA's Psyche spacecraft is flying to a 
+[2026-05-18 11:00:51] Старая новость (2026-05-16T11:00:00Z): Science news this week: PCOS has a new n
+[2026-05-18 11:00:51] Старая новость (2026-05-16T08:29:35Z): Apple's Heaviest iPhone in Years Is Gett
+[2026-05-18 11:00:51] Старая новость (2026-05-16T06:03:00Z): ‘Unhinged’ bond yields resets Fed rate-c
+[2026-05-18 11:00:51] Старая новость (2026-05-16T04:56:33Z): CDC tightens home monitoring guidance fo
+[2026-05-18 11:00:51] Старая новость (2026-05-15T23:34:19Z): SpaceX launches Dragon cargo ship on unp
+[2026-05-18 11:00:51] Старая новость (2026-05-15T22:35:08Z): Trump Fed nominees oppose terms of keepi
+[2026-05-18 11:00:51] Старая новость (2026-05-15T19:31:06Z): Sony's explanation for its embarrassing 
+[2026-05-18 11:00:51] Старая новость (2026-05-15T15:36:28Z): NASA maps show Earth's brightest and dar
+[2026-05-18 11:00:51] Мировые новости: найдено 9 после фильтрации
+[2026-05-18 11:00:54] Обрабатываю: Man ploughs car into crowd in Italy before trying to stab th
+[2026-05-18 11:00:54] Попытка 1 для: Man ploughs car into crowd in Italy befo
+[2026-05-18 11:00:55] Успешно, получено 614 символов
+[2026-05-18 11:00:55] Пауза 60 секунд...
+[2026-05-18 11:01:55] Обрабатываю: UFC star Conor McGregor returning to the cage for first time
+[2026-05-18 11:01:55] Попытка 1 для: UFC star Conor McGregor returning to the
+[2026-05-18 11:01:57] Успешно, получено 633 символов
+[2026-05-18 11:01:57] Пауза 60 секунд...
+[2026-05-18 11:02:57] Обрабатываю: Bulgarian banger 'Bangaranga' bags country its 1st Eurovisio
+[2026-05-18 11:02:57] Попытка 1 для: Bulgarian banger 'Bangaranga' bags count
+[2026-05-18 11:02:58] Успешно, получено 674 символов
+[2026-05-18 11:02:59] Пауза 60 секунд...
+[2026-05-18 11:03:59] Обрабатываю: In the birthplace of Civil Rights Movement, groups rally to 
+[2026-05-18 11:03:59] Попытка 1 для: In the birthplace of Civil Rights Moveme
+[2026-05-18 11:04:00] Успешно, получено 843 символов
+[2026-05-18 11:04:01] === Блок midday завершён ===
