@@ -16266,3 +16266,37 @@ U.S. has violated ceasefire agr
 [2026-05-18 16:05:07] Попытка 1 для: Large Ukrainian drone strikes kill at le
 [2026-05-18 16:05:09] Успешно, получено 655 символов
 [2026-05-18 16:05:09] === Блок evening завершён ===
+[2026-05-18 18:01:12] Загружено 1230 уже отправленных новостей
+[2026-05-18 18:01:12] === Запуск блока: ai_evening ===
+[2026-05-18 18:01:12] Неизвестный источник (siliconangle news): Eval engineering: The missing piece of a
+[2026-05-18 18:01:12] Неизвестный источник (globenewswire): Publicis to acquire LiveRamp to accelera
+[2026-05-18 18:01:12] Нет фото: hepai 1.4.3
+[2026-05-18 18:01:12] Неизвестный источник (yahoo entertainment): This billionaire says the market may be 
+[2026-05-18 18:01:12] Нет фото: Data center discovered to be draining ci
+[2026-05-18 18:01:12] Неизвестный источник (securityaffairs.com): Security Affairs newsletter Round 577 by
+[2026-05-18 18:01:12] Неизвестный источник (yahoo entertainment): ‘The train has left the station’: Worker
+[2026-05-18 18:01:12] Неизвестный источник (pypi.org): kaiku added to PyPI
+[2026-05-18 18:01:12] Неизвестный источник (substack.com): Nephrocare Health Services: Business Bui
+[2026-05-18 18:01:12] Неизвестный источник (devdiscourse): Digital Formula Advertising Undermining 
+[2026-05-18 18:01:12] Нет фото: As electric bills rise, some states are 
+[2026-05-18 18:01:12] Нет фото: America has a serious Chinese spying pro
+[2026-05-18 18:01:12] Нет фото: PML High-Performance PHP Machine Learnin
+[2026-05-18 18:01:12] Неизвестный источник (screen rant): 10 Near-Perfect Hard Sci-Fi Shows That H
+[2026-05-18 18:01:12] Неизвестный источник (hollywood reporter): 'Paper Tiger' Review: Adam Driver in Jam
+[2026-05-18 18:01:12] Неизвестный источник (motley fool australia): 3 excellent ASX ETFs to buy and hold for
+[2026-05-18 18:01:12] Неизвестный источник (marketbeat): EverQuote Sees Insurance Carrier Comebac
+[2026-05-18 18:01:12] Нет фото: pybibx 5.9.0
+[2026-05-18 18:01:12] Неизвестный источник (bleeding cool news): New Titans #35 Preview: Cyborg Gets a Da
+[2026-05-18 18:01:12] AI новости: найдено 3 после фильтрации
+[2026-05-18 18:01:15] Обрабатываю: Transcript: Former Defense Secretary Robert Gates on "Face t
+[2026-05-18 18:01:15] Попытка 1 для: Transcript: Former Defense Secretary Rob
+[2026-05-18 18:01:16] Успешно, получено 619 символов
+[2026-05-18 18:01:17] Пауза 60 секунд...
+[2026-05-18 18:02:17] Обрабатываю: Figma Stock Surges 13% on AI Momentum – Is FIG a Strong Long
+[2026-05-18 18:02:17] Попытка 1 для: Figma Stock Surges 13% on AI Momentum – 
+[2026-05-18 18:02:18] Успешно, получено 764 символов
+[2026-05-18 18:02:19] Пауза 60 секунд...
+[2026-05-18 18:03:19] Обрабатываю: From axles to rare earth: India draws up list of 100 product
+[2026-05-18 18:03:19] Попытка 1 для: From axles to rare earth: India draws up
+[2026-05-18 18:03:20] Успешно, получено 903 символов
+[2026-05-18 18:03:21] === Блок ai_evening завершён ===
