@@ -16483,3 +16483,49 @@ U.S. has violated ceasefire agr
 [2026-05-19 16:05:11] Попытка 1 для: De Zerbi assistant becomes Ukraine manag
 [2026-05-19 16:05:12] Успешно, получено 600 символов
 [2026-05-19 16:05:13] === Блок evening завершён ===
+[2026-05-19 18:00:52] Загружено 1250 уже отправленных новостей
+[2026-05-19 18:00:52] === Запуск блока: ai_evening ===
+[2026-05-19 18:00:52] Неизвестный источник (modal.com): Cutting inference cold starts by 40x wit
+[2026-05-19 18:00:52] Нет фото: Federal jury sides with OpenAI in feud w
+[2026-05-19 18:00:52] Нет фото: EQT selected to lead the Scaleup Europe 
+[2026-05-19 18:00:52] Неизвестный источник (globenewswire): Funds Coin Announces Platform Upgrades t
+[2026-05-19 18:00:52] Нет фото: Vulnerability Summary for the Week of Ma
+[2026-05-19 18:00:52] Неизвестный источник (siliconangle news): Dell targets enterprise AI execution gap
+[2026-05-19 18:00:52] Неизвестный источник (pymnts.com): Plaid and AI Models Reshape Consumer Fin
+[2026-05-19 18:00:52] Неизвестный источник (cnet): Your AI Glossary: 54 Terms Everyone Shou
+[2026-05-19 18:00:52] Неизвестный источник (financial post): NextEra-Dominion Deal Signals New Era of
+[2026-05-19 18:00:52] Неизвестный источник (arxiv.org): Self-supervised local learning rules lea
+[2026-05-19 18:00:52] Неизвестный источник (pymnts.com): Meta Workers Fear Further Job Cuts as La
+[2026-05-19 18:00:52] Неизвестный источник (crypto briefing): US considers Project Spire for secure AI
+[2026-05-19 18:00:52] Неизвестный источник (psychology today): Have Algorithms Begun to Shape Our Colle
+[2026-05-19 18:00:52] Неизвестный источник (bleeding cool news): Catwoman #87 Preview: Black Mask Makes M
+[2026-05-19 18:00:52] Неизвестный источник (mother jones): Trump Cuts to Weather Data May Make Fore
+[2026-05-19 18:00:52] Нет фото: Temasek Likely to Miss 2030 Climate Targ
+[2026-05-19 18:00:52] Нет фото: Major breakthrough of Sanyou Biopharmace
+[2026-05-19 18:00:52] Неизвестный источник (plos.org): Threshold-adaptive pruning with multi-ke
+[2026-05-19 18:00:52] Неизвестный источник (plos.org): Nationwide larval mosquito sampling in C
+[2026-05-19 18:00:52] Неизвестный источник (plos.org): In-silico prediction of multi‑target mec
+[2026-05-19 18:00:52] Неизвестный источник (plos.org): The speed limit of visual perception: Bi
+[2026-05-19 18:00:52] Неизвестный источник (plos.org): Energy transfer leaves fingerprints in c
+[2026-05-19 18:00:52] Неизвестный источник (bitcoinfoundation.org): Top SOL Tokens Dominating the Market: So
+[2026-05-19 18:00:52] Неизвестный источник (internet): ⚡ Weekly Recap: Exchange 0-Day, npm Worm
+[2026-05-19 18:00:52] Неизвестный источник (commercial observer): As ICSC Kicks Off, Retail Is Buying What
+[2026-05-19 18:00:52] Неизвестный источник (globalresearch.ca): “Digital Enslavement” is a Subtle Weapon
+[2026-05-19 18:00:52] Нет фото: NextEra, Dominion want to create a massi
+[2026-05-19 18:00:52] Неизвестный источник (globenewswire): Reliance Global Group Provides Update on
+[2026-05-19 18:00:52] Неизвестный источник (the week): NewsReach Wins ET Kaleido Award 2026 for
+[2026-05-19 18:00:52] Нет фото: Trinity Investments and HotelPlanner Ann
+[2026-05-19 18:00:52] Неизвестный источник (vendasta.com): Beyond Manual Outreach: Scaling Lead Gen
+[2026-05-19 18:00:52] Неизвестный источник (siliconangle news): Redis debuts the much-needed memory laye
+[2026-05-19 18:00:52] Неизвестный источник (pyimagesearch.com): LLM Observability with Self-Hosted Langf
+[2026-05-19 18:00:52] Неизвестный источник (globenewswire): AITX’s RAD Launches SCANNA to Unlock Sma
+[2026-05-19 18:00:52] Нет фото: Duchess Meghan: ‘Demand better from the 
+[2026-05-19 18:00:52] Неизвестный источник (globenewswire): Funds Coin Launches AI Trading Bots Buil
+[2026-05-19 18:00:52] Нет фото: Medidata’s Second Annual AI Report Shows
+[2026-05-19 18:00:52] Неизвестный источник (the conversation africa): Companies are hyping AI the same way the
+[2026-05-19 18:00:52] Неизвестный источник (globenewswire): Alpha Cash is Live - Alpha Modus Unleash
+[2026-05-19 18:00:52] AI новости: найдено 1 после фильтрации
+[2026-05-19 18:00:54] Обрабатываю: Iran will impose fees on subsea internet cables in Strait of
+[2026-05-19 18:00:54] Попытка 1 для: Iran will impose fees on subsea internet
+[2026-05-19 18:00:55] Успешно, получено 687 символов
+[2026-05-19 18:00:56] === Блок ai_evening завершён ===
