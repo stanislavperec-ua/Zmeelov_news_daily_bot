@@ -16358,3 +16358,40 @@ U.S. has violated ceasefire agr
 [2026-05-19 06:05:06] Попытка 1 для: Russia hits Ukraine's Odesa, Dnipro with
 [2026-05-19 06:05:07] Успешно, получено 613 символов
 [2026-05-19 06:05:07] === Блок morning завершён ===
+[2026-05-19 08:00:52] Загружено 1238 уже отправленных новостей
+[2026-05-19 08:00:52] === Запуск блока: ai_morning ===
+[2026-05-19 08:00:53] Неизвестный источник (war on the rocks): Regulatory Friendly Fire: How ITAR Under
+[2026-05-19 08:00:53] Неизвестный источник (computerweekly.com): Colt expands network in Istanbul to supp
+[2026-05-19 08:00:53] Неизвестный источник (siliconangle news): Multiplayer AI startup Dust raises $40M 
+[2026-05-19 08:00:53] Неизвестный источник (gabrielebartolini.it): Gabriele Bartolini: CloudNativePG and Cr
+[2026-05-19 08:00:53] Неизвестный источник (motley fool australia): Buy, hold, sell: ResMed, Sigma, and Tech
+[2026-05-19 08:00:53] Неизвестный источник (financial post): Outlook for Europe’s Industrial Firms Di
+[2026-05-19 08:00:53] Неизвестный источник (bleepingcomputer): Hackers earn $1,298,250 for 47 zero-days
+[2026-05-19 08:00:53] Неизвестный источник (financial post): China Economy Slows Sharply as Investmen
+[2026-05-19 08:00:53] Неизвестный источник (rte): Enniscorthy resident creates national fl
+[2026-05-19 08:00:53] Нет фото: Molecular Precursor-Directed Growth of N
+[2026-05-19 08:00:53] Неизвестный источник (thewrap): AI Surprise in Cannes: Curiosity Wins Ov
+[2026-05-19 08:00:53] Неизвестный источник (gizmodo.com): ‘Smoke Weed and Earn Bitcoin’ with This 
+[2026-05-19 08:00:53] Неизвестный источник (bleeding cool news): Predator: Bloodshed #4 Preview: Mortal K
+[2026-05-19 08:00:53] Неизвестный источник (siliconangle news): Eval engineering: The missing piece of a
+[2026-05-19 08:00:53] Неизвестный источник (globenewswire): Publicis to acquire LiveRamp to accelera
+[2026-05-19 08:00:53] Нет фото: hepai 1.4.3
+[2026-05-19 08:00:53] Неизвестный источник (yahoo entertainment): This billionaire says the market may be 
+[2026-05-19 08:00:53] Нет фото: Data center discovered to be draining ci
+[2026-05-19 08:00:53] Пропускаю уже отправленную: Transcript: Former Defense Secretary Robert Gates 
+[2026-05-19 08:00:53] Неизвестный источник (securityaffairs.com): Security Affairs newsletter Round 577 by
+[2026-05-19 08:00:53] Неизвестный источник (yahoo entertainment): ‘The train has left the station’: Worker
+[2026-05-19 08:00:53] Неизвестный источник (pypi.org): kaiku added to PyPI
+[2026-05-19 08:00:53] AI новости: найдено 7 после фильтрации
+[2026-05-19 08:00:55] Обрабатываю: Iran fires a fresh threat: After oil, your Insta reels, Amaz
+[2026-05-19 08:00:55] Попытка 1 для: Iran fires a fresh threat: After oil, yo
+[2026-05-19 08:00:56] Успешно, получено 739 символов
+[2026-05-19 08:00:56] Пауза 60 секунд...
+[2026-05-19 08:01:56] Обрабатываю: Computational approaches for multimodal lineage tracing
+[2026-05-19 08:01:56] Попытка 1 для: Computational approaches for multimodal 
+[2026-05-19 08:01:58] Успешно, получено 746 символов
+[2026-05-19 08:01:58] Пауза 60 секунд...
+[2026-05-19 08:02:58] Обрабатываю: Simple input–output dependencies explain neuronal activity
+[2026-05-19 08:02:58] Попытка 1 для: Simple input–output dependencies explain
+[2026-05-19 08:02:59] Успешно, получено 917 символов
+[2026-05-19 08:03:00] === Блок ai_morning завершён ===
