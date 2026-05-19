@@ -16395,3 +16395,37 @@ U.S. has violated ceasefire agr
 [2026-05-19 08:02:58] Попытка 1 для: Simple input–output dependencies explain
 [2026-05-19 08:02:59] Успешно, получено 917 символов
 [2026-05-19 08:03:00] === Блок ai_morning завершён ===
+[2026-05-19 11:00:54] Загружено 1241 уже отправленных новостей
+[2026-05-19 11:00:54] === Запуск блока: midday ===
+[2026-05-19 11:00:54] Неизвестный источник (cnbc): Stock futures fall after record-setting 
+[2026-05-19 11:00:54] Неизвестный источник (espn): Owner Dan Gilbert sends 25 buses of Cavs
+[2026-05-19 11:00:54] Заблокированный источник (sciencealert): Humans Age Faster at 2 Sharp Peaks, Rese
+[2026-05-19 11:00:54] Неизвестный источник (gma): Alex Cooper announces pregnancy, expecti
+[2026-05-19 11:00:54] Неизвестный источник (tmz): Brandon Clarke’s Fiancée Amber Lorraine 
+[2026-05-19 11:00:54] Неизвестный источник (entertainment weekly): Pete Davidson's ex Elsie Hewitt says she
+[2026-05-19 11:00:54] Неизвестный источник (variety): Ryan Gosling Was Fired From ‘Lovely Bone
+[2026-05-19 11:00:54] Неизвестный источник (warhammer-community.com): Sunday Preview – Mighty war machines in 
+[2026-05-19 11:00:54] Неизвестный источник (sfgate): PG&E to cut power in parts of Bay Area i
+[2026-05-19 11:00:54] Неизвестный источник (entertainment weekly): Adam Driver has cheeky response when ask
+[2026-05-19 11:00:54] Неизвестный источник (business insider): My Unemployed Husband Landed a Job by Br
+[2026-05-19 11:00:54] Старая новость (2026-05-17T10:40:03Z): Midlife exercise could add two healthy y
+[2026-05-19 11:00:54] Старая новость (2026-05-17T09:00:52Z): ‘Q-Day’ is almost here. It could unleash
+[2026-05-19 11:00:54] Старая новость (2026-05-17T09:00:52Z): A measles outbreak crossed into Mexico f
+[2026-05-19 11:00:54] Старая новость (2026-05-17T06:44:08Z): Top divers join perilous mission to reco
+[2026-05-19 11:00:54] Мировые новости: найдено 7 после фильтрации
+[2026-05-19 11:00:57] Обрабатываю: Americans may have been exposed in Congo Ebola outbreak
+[2026-05-19 11:00:57] Попытка 1 для: Americans may have been exposed in Congo
+[2026-05-19 11:00:59] Успешно, получено 783 символов
+[2026-05-19 11:00:59] Пауза 60 секунд...
+[2026-05-19 11:01:59] Обрабатываю: Guns on the television and in Iran’s streets as Trump renews
+[2026-05-19 11:01:59] Попытка 1 для: Guns on the television and in Iran’s str
+[2026-05-19 11:02:00] Успешно, получено 524 символов
+[2026-05-19 11:02:01] Пауза 60 секунд...
+[2026-05-19 11:03:01] Обрабатываю: Trump warns 'clock is ticking' for Iran as peace progress st
+[2026-05-19 11:03:01] Попытка 1 для: Trump warns 'clock is ticking' for Iran 
+[2026-05-19 11:03:02] Успешно, получено 614 символов
+[2026-05-19 11:03:03] Пауза 60 секунд...
+[2026-05-19 11:04:03] Обрабатываю: Ukrainian drones hit Moscow and surrounding area, killing 3
+[2026-05-19 11:04:03] Попытка 1 для: Ukrainian drones hit Moscow and surround
+[2026-05-19 11:04:04] Успешно, получено 873 символов
+[2026-05-19 11:04:04] === Блок midday завершён ===
