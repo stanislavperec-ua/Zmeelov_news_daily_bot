@@ -16633,3 +16633,39 @@ U.S. has violated ceasefire agr
 [2026-05-20 08:03:00] Попытка 1 для: Spotting these AI relationship warning s
 [2026-05-20 08:03:01] Успешно, получено 620 символов
 [2026-05-20 08:03:02] === Блок ai_morning завершён ===
+[2026-05-20 11:00:52] Загружено 1259 уже отправленных новостей
+[2026-05-20 11:00:52] === Запуск блока: midday ===
+[2026-05-20 11:00:52] Неизвестный источник (heat.com): 4 takeaways: Victor Wembanyama's huge ni
+[2026-05-20 11:00:52] Неизвестный источник (cnbc): Standard Chartered to cut over 15% of co
+[2026-05-20 11:00:52] Неизвестный источник (kabc-tv): Sandy Fire in Simi Valley: 836 acres sco
+[2026-05-20 11:00:52] Неизвестный источник (nbcsports.com): Steelers LB Payton Wilson was "a little 
+[2026-05-20 11:00:52] Неизвестный источник (yahoo entertainment): Musk loses blockbuster OpenAI suit as ju
+[2026-05-20 11:00:52] Неизвестный источник (new york post): Experts break down Knicks-Cavaliers to T
+[2026-05-20 11:00:52] Неизвестный источник (gothamist): LIRR strike ends as MTA reaches deal wit
+[2026-05-20 11:00:52] Неизвестный источник (entertainment weekly): William Daniels and Bonnie Bartlett clar
+[2026-05-20 11:00:52] Неизвестный источник (variety): Sebastian Stan and Renate Reinsve Shed T
+[2026-05-20 11:00:52] Неизвестный источник (yahoo entertainment): Britain gets experimental drug from Japa
+[2026-05-20 11:00:52] Неизвестный источник (the daily galaxy --great discoveries channel): Europe and China Are Launching a New Spa
+[2026-05-20 11:00:52] Неизвестный источник (the daily galaxy --great discoveries channel): SpaceX Dragon Capsule Delivers Tons Of S
+[2026-05-20 11:00:52] Неизвестный источник (chrome unboxed): Qualcomm confirms a Snapdragon-powered G
+[2026-05-20 11:00:52] Неизвестный источник (techpowerup.com): Laptops Powered by Intel "Wildcat Lake" 
+[2026-05-20 11:00:52] Старая новость (2026-05-18T11:00:05Z): What We’re Expecting at Google I/O 2026 
+[2026-05-20 11:00:52] Старая новость (2026-05-18T09:44:00Z): Hantavirus-hit cruise ship arrives in Ne
+[2026-05-20 11:00:52] Старая новость (2026-05-17T23:37:56Z): Dark Matter May Have Been Detected by Ac
+[2026-05-20 11:00:52] Мировые новости: найдено 14 после фильтрации
+[2026-05-20 11:00:55] Обрабатываю: Live updates: 3 killed in shooting at San Diego’s largest mo
+[2026-05-20 11:00:55] Попытка 1 для: Live updates: 3 killed in shooting at Sa
+[2026-05-20 11:00:56] Успешно, получено 684 символов
+[2026-05-20 11:00:56] Пауза 60 секунд...
+[2026-05-20 11:01:56] Обрабатываю: What to watch in Tuesday’s primaries in Kentucky, Georgia an
+[2026-05-20 11:01:56] Попытка 1 для: What to watch in Tuesday’s primaries in 
+[2026-05-20 11:01:57] Успешно, получено 651 символов
+[2026-05-20 11:01:57] Пауза 60 секунд...
+[2026-05-20 11:02:57] Обрабатываю: No YOLO yet: Bill Cassidy insists he won’t be out for reveng
+[2026-05-20 11:02:57] Попытка 1 для: No YOLO yet: Bill Cassidy insists he won
+[2026-05-20 11:02:58] Успешно, получено 611 символов
+[2026-05-20 11:02:59] Пауза 60 секунд...
+[2026-05-20 11:03:59] Обрабатываю: Live Updates: Trump calls off scheduled attack on Iran amid 
+[2026-05-20 11:03:59] Попытка 1 для: Live Updates: Trump calls off scheduled 
+[2026-05-20 11:04:00] Успешно, получено 819 символов
+[2026-05-20 11:04:01] === Блок midday завершён ===
