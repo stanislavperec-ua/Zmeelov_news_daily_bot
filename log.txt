@@ -16581,3 +16581,55 @@ U.S. has violated ceasefire agr
 [2026-05-20 06:04:11] Попытка 1 для: The Ukraine war is changing. European al
 [2026-05-20 06:04:12] Успешно, получено 703 символов
 [2026-05-20 06:04:13] === Блок morning завершён ===
+[2026-05-20 08:00:54] Загружено 1256 уже отправленных новостей
+[2026-05-20 08:00:54] === Запуск блока: ai_morning ===
+[2026-05-20 08:00:54] Неизвестный источник (globenewswire): ESET supercharges AI innovation with inv
+[2026-05-20 08:00:54] Неизвестный источник (globenewswire): ESET supercharges AI innovation with inv
+[2026-05-20 08:00:54] Неизвестный источник (computerweekly.com): Ericsson, Net Feasa deliver maritime con
+[2026-05-20 08:00:54] Нет фото: Singapore Stocks Reclaim Record High on 
+[2026-05-20 08:00:54] Неизвестный источник (businessline): Digital resilience key to national secur
+[2026-05-20 08:00:54] Неизвестный источник (businessline): Pharmacy shops to remain open despite AI
+[2026-05-20 08:00:54] Неизвестный источник (c-sharpcorner.com): Why Enterprise AI Is Becoming the Bigges
+[2026-05-20 08:00:54] Неизвестный источник (cnbc): CNBC Daily Open: 'Strategic triangle' pu
+[2026-05-20 08:00:54] Заблокированный источник (naturalnews.com): Why Tesla’s Pre-Collision Airbag System 
+[2026-05-20 08:00:54] Неизвестный источник (red voltaire): Donald Trump Considers Backtracking to X
+[2026-05-20 08:00:54] Неизвестный источник (c-sharpcorner.com): TPU vs GPU Explained: Why Google Wants t
+[2026-05-20 08:00:54] Нет фото: Foreign Influence in the Campaign agains
+[2026-05-20 08:00:54] Нет фото: OpenAI avoided a costly court loss to El
+[2026-05-20 08:00:54] Неизвестный источник (pr newswire uk): Loyyal Launches GiftOS Point, an AI and 
+[2026-05-20 08:00:54] Неизвестный источник (prnewswire): Loyyal Launches GiftOS Point, an AI and 
+[2026-05-20 08:00:54] Неизвестный источник (the conversation africa): Indigenous Australians were the world’s 
+[2026-05-20 08:00:54] Неизвестный источник (yugatech.com): US, PH may put up 1600+ hectare AI hub i
+[2026-05-20 08:00:54] Неизвестный источник (siliconangle news): Decart raises $300M for its AI optimizat
+[2026-05-20 08:00:54] Нет фото: A filmmaking tool or an existential thre
+[2026-05-20 08:00:54] Нет фото: Hitachi Announces Strategic Partnership 
+[2026-05-20 08:00:54] Неизвестный источник (screen rant): Ridley Scott's 'Westworld Meets Promethe
+[2026-05-20 08:00:54] Нет фото: The determination of cultivated soil qua
+[2026-05-20 08:00:54] Неизвестный источник (hoover.org): After Hormuz: The Gulf in Search of a Ne
+[2026-05-20 08:00:54] Неизвестный источник (siliconangle news): Federal jury rules against Elon Musk in 
+[2026-05-20 08:00:54] Неизвестный источник (radaronline.com): EXCLUSIVE: Meghan Markle Accused of 'Rea
+[2026-05-20 08:00:54] Неизвестный источник (siliconangle news): Sigma Computing seals $80M funding round
+[2026-05-20 08:00:54] Неизвестный источник (siliconangle news): Sigma Computing seals $80M funding round
+[2026-05-20 08:00:54] Нет фото: eyelink1000plus-pupil-size-to-mm 1.0.0
+[2026-05-20 08:00:54] Нет фото: eyelink1000plus-pupil-size-to-mm added t
+[2026-05-20 08:00:54] Нет фото: eyelink1000plus-pupil-size-to-mm 0.2.0
+[2026-05-20 08:00:54] Неизвестный источник (konstantintkachuk.com): Mexican government breached by solo user
+[2026-05-20 08:00:54] Нет фото: aalgoi 1.0.5
+[2026-05-20 08:00:54] Нет фото: aalgoi 1.0.4
+[2026-05-20 08:00:54] Заблокированный источник (breitbart news): Breitbart Business Digest: Warsh’s Suppl
+[2026-05-20 08:00:54] Нет фото: aalgoi 1.0.3
+[2026-05-20 08:00:54] Неизвестный источник (prnewswire): Bitcoin Policy Institute Report Traces F
+[2026-05-20 08:00:54] Неизвестный источник (siliconangle news): Eric Schmidt booed during commencement s
+[2026-05-20 08:00:54] AI новости: найдено 3 после фильтрации
+[2026-05-20 08:00:57] Обрабатываю: China's AI token boom fuels push for national compute networ
+[2026-05-20 08:00:57] Попытка 1 для: China's AI token boom fuels push for nat
+[2026-05-20 08:00:58] Успешно, получено 831 символов
+[2026-05-20 08:00:58] Пауза 60 секунд...
+[2026-05-20 08:01:58] Обрабатываю: The impact of trust in AI on digital innovation examining th
+[2026-05-20 08:01:58] Попытка 1 для: The impact of trust in AI on digital inn
+[2026-05-20 08:02:00] Успешно, получено 1000 символов
+[2026-05-20 08:02:00] Пауза 60 секунд...
+[2026-05-20 08:03:00] Обрабатываю: Spotting these AI relationship warning signs may avoid a del
+[2026-05-20 08:03:00] Попытка 1 для: Spotting these AI relationship warning s
+[2026-05-20 08:03:01] Успешно, получено 620 символов
+[2026-05-20 08:03:02] === Блок ai_morning завершён ===
