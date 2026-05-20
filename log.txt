@@ -16529,3 +16529,55 @@ U.S. has violated ceasefire agr
 [2026-05-19 18:00:54] Попытка 1 для: Iran will impose fees on subsea internet
 [2026-05-19 18:00:55] Успешно, получено 687 символов
 [2026-05-19 18:00:56] === Блок ai_evening завершён ===
+[2026-05-20 06:00:59] Загружено 1251 уже отправленных новостей
+[2026-05-20 06:00:59] === Запуск блока: morning ===
+[2026-05-20 06:00:59] Неизвестный источник (heat.com): Live Updates: The Spurs-Thunder rivalry 
+[2026-05-20 06:00:59] Неизвестный источник (kabc-tv): Sandy Fire in Simi Valley: 836 acres sco
+[2026-05-20 06:00:59] Неизвестный источник (nbcsports.com): Steelers LB Payton Wilson was "a little 
+[2026-05-20 06:00:59] Неизвестный источник (tmz): Holly Madison Dating Las Vegas Attorney 
+[2026-05-20 06:00:59] Неизвестный источник (entertainment weekly): William Daniels and Bonnie Bartlett clar
+[2026-05-20 06:00:59] Неизвестный источник (whitehouse.gov): Fact Sheet: President Donald J. Trump An
+[2026-05-20 06:00:59] Неизвестный источник (hollywood reporter): Disney Under Fire Over “Staged” Pedro Pa
+[2026-05-20 06:00:59] Неизвестный источник (variety): Sebastian Stan and Renate Reinsve Shed T
+[2026-05-20 06:00:59] Неизвестный источник (sporting news): ESPN's Malika Andrews fires subtle shot 
+[2026-05-20 06:00:59] Неизвестный источник (gameinformer.com): Report: Saros And Ghost Of Yōtei Aren't 
+[2026-05-20 06:00:59] Неизвестный источник (yahoo entertainment): Britain gets experimental drug from Japa
+[2026-05-20 06:00:59] Неизвестный источник (the weather channel): Severe Weather Outbreak Maps Tracker: Ra
+[2026-05-20 06:00:59] Неизвестный источник (gizmodo.com): What We’re Expecting at Google I/O 2026 
+[2026-05-20 06:00:59] Старая новость (2026-05-17T23:37:56Z): Dark Matter May Have Been Detected by Ac
+[2026-05-20 06:00:59] Старая новость (2026-05-17T15:20:01Z): New spacecraft will watch Earth's shield
+[2026-05-20 06:00:59] Старая новость (2026-05-17T13:53:03Z): SpaceX Dragon capsule delivers science a
+[2026-05-20 06:00:59] Старая новость (2026-05-17T10:30:40Z): Where does hantavirus lurk in the U.S.? 
+[2026-05-20 06:00:59] Старая новость (2026-05-17T04:34:00Z): Ronda Rousey submits Gina Carano by armb
+[2026-05-20 06:00:59] Мировые новости: найдено 13 после фильтрации
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): “The Last Semite” exposes the grand dece
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Russia’s nuclear forces kick off three-d
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Potato Futures Rise Sharply as Middle Ea
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Ukraine aid scandal: U.S. watchdog expos
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Putin and Xi deepen strategic alliance a
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Former Italian PM Draghi: U.S. Policies 
+[2026-05-20 06:01:00] Заблокированный источник (naturalnews.com): Drone threat from Cuba: Intelligence or 
+[2026-05-20 06:01:00] Заблокированный источник (sputnikglobe.com): US Watchdog Details Ukraine Aid Corrupti
+[2026-05-20 06:01:00] Украинские новости: найдено 1 после фильтрации
+[2026-05-20 06:01:00] Заблокированный источник (sputnikglobe.com): Ukraine Loses Over 300 Soldiers to Russi
+[2026-05-20 06:01:00] Заблокированный источник (sputnikglobe.com): Most Foreign Mercenaries in Ukrainian Ar
+[2026-05-20 06:01:00] Харьков: новостей не найдено
+[2026-05-20 06:01:02] Обрабатываю: Gunmen kill 3 people at San Diego Islamic centre in suspecte
+[2026-05-20 06:01:02] Попытка 1 для: Gunmen kill 3 people at San Diego Islami
+[2026-05-20 06:01:03] Успешно, получено 640 символов
+[2026-05-20 06:01:04] Пауза 60 секунд...
+[2026-05-20 06:02:04] Обрабатываю: American tests positive for Ebola; U.S. to screen travelers 
+[2026-05-20 06:02:04] Попытка 1 для: American tests positive for Ebola; U.S. 
+[2026-05-20 06:02:05] Успешно, получено 716 символов
+[2026-05-20 06:02:06] Пауза 60 секунд...
+[2026-05-20 06:03:06] Обрабатываю: All of Musk’s claims in lawsuit against OpenAI dismissed in 
+[2026-05-20 06:03:06] Попытка 1 для: All of Musk’s claims in lawsuit against 
+[2026-05-20 06:03:07] Успешно, получено 559 символов
+[2026-05-20 06:03:07] Пауза 60 секунд...
+[2026-05-20 06:04:07] Обрабатываю: Long Island Rail Road strike to end as MTA, unions reach ten
+[2026-05-20 06:04:07] Попытка 1 для: Long Island Rail Road strike to end as M
+[2026-05-20 06:04:08] Успешно, получено 829 символов
+[2026-05-20 06:04:11] Обрабатываю: The Ukraine war is changing. European allies' strategy must 
+[2026-05-20 06:04:11] Попытка 1 для: The Ukraine war is changing. European al
+[2026-05-20 06:04:12] Успешно, получено 703 символов
+[2026-05-20 06:04:13] === Блок morning завершён ===
