@@ -16720,3 +16720,49 @@ U.S. has violated ceasefire agr
 [2026-05-20 16:05:12] Попытка 1 для: John Mearsheimer on Putin’s Incentive To
 [2026-05-20 16:05:14] Успешно, получено 551 символов
 [2026-05-20 16:05:14] === Блок evening завершён ===
+[2026-05-20 18:00:52] Загружено 1269 уже отправленных новостей
+[2026-05-20 18:00:52] === Запуск блока: ai_evening ===
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Google reimagines search with AI agents 
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Google accelerates agent-native software
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Google expands AI-powered app discovery 
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Google’s new Gemini Spark is an always-o
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Google targets AI agents and video gener
+[2026-05-20 18:00:52] Неизвестный источник (github.com): Show HN: Korveo – a local firewall for A
+[2026-05-20 18:00:52] Неизвестный источник (gizmodo.com): OpenAI Cofounder Andrej Karpathy Joins A
+[2026-05-20 18:00:52] Неизвестный источник (coinjournal.net): NEAR price climbs amid 32% volume spike:
+[2026-05-20 18:00:52] Неизвестный источник (livemint): Anthropic hires OpenAI co-founder Andrej
+[2026-05-20 18:00:52] Неизвестный источник (the new republic): Elon Musk and Sam Altman Are on the Same
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Dell overhauls data center portfolio wit
+[2026-05-20 18:00:52] Неизвестный источник (bitcoinist): Here’s Why Ethereum Is Becoming The Bigg
+[2026-05-20 18:00:52] Нет фото: Graduates are booing pep talks on AI at 
+[2026-05-20 18:00:52] Неизвестный источник (siliconangle news): Before enterprises can run with agentic 
+[2026-05-20 18:00:52] Неизвестный источник (cryptoprowl.com): AIAI Moves Into Blockchain Data Infrastr
+[2026-05-20 18:00:52] Неизвестный источник (financial post): Euronext Results Beat on Volatility-Led 
+[2026-05-20 18:00:52] Неизвестный источник (cryptoslate): Ethereum price pullback to $2,100 pits o
+[2026-05-20 18:00:52] Неизвестный источник (computerweekly.com): Vulnerability exploitation now primary o
+[2026-05-20 18:00:52] Заблокированный источник (breitbart news): Defiant Elon Musk Blames Legal Loss Agai
+[2026-05-20 18:00:52] Нет фото: aalgoi 1.1.1
+[2026-05-20 18:00:52] Неизвестный источник (techtarget.com): Telehealth adoption did not drive up hea
+[2026-05-20 18:00:52] Неизвестный источник (wheresyoured.at): AI Is Too Expensive
+[2026-05-20 18:00:52] Нет фото: aalgoi 1.1.0
+[2026-05-20 18:00:52] Неизвестный источник (amazon.com): A systematic approach to benchmarking SQ
+[2026-05-20 18:00:52] Неизвестный источник (amazon.com): Build petabyte-scale synthetic test data
+[2026-05-20 18:00:52] Нет фото: Putin Arrives in China for Xi Talks With
+[2026-05-20 18:00:52] Неизвестный источник (amazon.com): Meet Amazon Redshift RG – AWS Graviton-b
+[2026-05-20 18:00:52] Неизвестный источник (prnewswire): Portable Ultrasound Scanner Market Size 
+[2026-05-20 18:00:52] Неизвестный источник (globenewswire): Medium Earth Orbit (MEO) Satellite IoT S
+[2026-05-20 18:00:52] Неизвестный источник (financial post): Global Millennial Capital Closes USD 100
+[2026-05-20 18:00:52] Неизвестный источник (www.gov.uk): Record funding to tackle grooming gangs 
+[2026-05-20 18:00:52] Неизвестный источник (www.gov.uk): Record funding to tackle grooming gangs 
+[2026-05-20 18:00:52] Неизвестный источник (prnewswire): Nail Care Products Market to Reach US$37
+[2026-05-20 18:00:52] Неизвестный источник (xda developers): Cheap enterprise networking gear exposes
+[2026-05-20 18:00:52] Неизвестный источник (plos.org): Research on railway emergency resource s
+[2026-05-20 18:00:52] Неизвестный источник (globenewswire): Iteris Launches VantageNode™ to Expand H
+[2026-05-20 18:00:52] Неизвестный источник (plos.org): DG-LLM: Decomposition-based dynamic grap
+[2026-05-20 18:00:52] Неизвестный источник (plos.org): Implicit bias in safety-aligned large la
+[2026-05-20 18:00:52] Неизвестный источник (plos.org): Optimizing bike-sharing station location
+[2026-05-20 18:00:52] AI новости: найдено 1 после фильтрации
+[2026-05-20 18:00:54] Обрабатываю: Flight to Argentina: How significant is it for Israel’s LatA
+[2026-05-20 18:00:54] Попытка 1 для: Flight to Argentina: How significant is 
+[2026-05-20 18:00:56] Успешно, получено 869 символов
+[2026-05-20 18:00:56] === Блок ai_evening завершён ===
