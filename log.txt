@@ -16766,3 +16766,50 @@ U.S. has violated ceasefire agr
 [2026-05-20 18:00:54] Попытка 1 для: Flight to Argentina: How significant is 
 [2026-05-20 18:00:56] Успешно, получено 869 символов
 [2026-05-20 18:00:56] === Блок ai_evening завершён ===
+[2026-05-21 06:00:52] Загружено 1270 уже отправленных новостей
+[2026-05-21 06:00:52] === Запуск блока: morning ===
+[2026-05-21 06:00:53] Неизвестный источник (fear the sword): Cavs blow 22-point lead in disasterous G
+[2026-05-21 06:00:53] Неизвестный источник (atlanta journal constitution): Rick Jackson, Burt Jones head to a runof
+[2026-05-21 06:00:53] Неизвестный источник (rolling stone): Billy Joel’s Rep Denounces Upcoming Biop
+[2026-05-21 06:00:53] Неизвестный источник (phys.org): Why meat-eating dinosaurs like T. rex ev
+[2026-05-21 06:00:53] Неизвестный источник (redheaded blackbelt): Two Humboldt Residents Detained as Israe
+[2026-05-21 06:00:53] Неизвестный источник (gpb.org): Georgia's 2026 Primary Election: See liv
+[2026-05-21 06:00:53] Неизвестный источник (deadline): Rousey Vs. Carano Leads Heavyweight Glob
+[2026-05-21 06:00:53] Неизвестный источник (variety): Hayden Panettiere Says a ‘Well-Respected
+[2026-05-21 06:00:53] Неизвестный источник (deadline): ‘Star Wars: Mandalorian & Grogu’ Hopes T
+[2026-05-21 06:00:53] Неизвестный источник (yahoo entertainment): Trump says US could attack Iran again bu
+[2026-05-21 06:00:53] Старая новость (2026-05-19T04:59:30Z): Vega C rocket launches European-Chinese 
+[2026-05-21 06:00:53] Старая новость (2026-05-18T23:27:53Z): Vandenberg May See SpaceX Rocket Launch,
+[2026-05-21 06:00:53] Старая новость (2026-05-18T22:09:55Z): The hantavirus outbreak is the warning t
+[2026-05-21 06:00:53] Старая новость (2026-05-18T21:30:55Z): Newly discovered asteroid to pass closer
+[2026-05-21 06:00:53] Мировые новости: найдено 15 после фильтрации
+[2026-05-21 06:00:53] Заблокированный источник (naturalnews.com): Pentagon cuts Europe troop levels, delay
+[2026-05-21 06:00:53] Заблокированный источник (naturalnews.com): Iran-Linked Hackers Expose CIA-Mossad Ch
+[2026-05-21 06:00:53] Нет фото: CSG Q1 2026 Trading Statement: Strong St
+[2026-05-21 06:00:53] Нет фото: China's Xi, Russia's Putin praise ties a
+[2026-05-21 06:00:53] Нет фото: Scientists Discover Cheap, Natural Remed
+[2026-05-21 06:00:53] Заблокированный источник (sputnikglobe.com): US Plans to Limit Military Aid Options f
+[2026-05-21 06:00:53] Нет фото: Global Times: Charting a new future for 
+[2026-05-21 06:00:53] Нет фото: Ukraine’s drones are devastating Russian
+[2026-05-21 06:00:53] Украинские новости: найдено 1 после фильтрации
+[2026-05-21 06:00:53] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Volokhovka Settl
+[2026-05-21 06:00:53] Харьков: новостей не найдено
+[2026-05-21 06:00:55] Обрабатываю: Xi and Putin meet in Beijing days after Trump's visit
+[2026-05-21 06:00:55] Попытка 1 для: Xi and Putin meet in Beijing days after 
+[2026-05-21 06:00:57] Успешно, получено 562 символов
+[2026-05-21 06:00:57] Пауза 60 секунд...
+[2026-05-21 06:01:57] Обрабатываю: Massie loses primary challenge in victory for Trump
+[2026-05-21 06:01:57] Попытка 1 для: Massie loses primary challenge in victor
+[2026-05-21 06:01:58] Успешно, получено 615 символов
+[2026-05-21 06:01:59] Пауза 60 секунд...
+[2026-05-21 06:02:59] Обрабатываю: US President Trump, family granted immunity from pending tax
+[2026-05-21 06:02:59] Попытка 1 для: US President Trump, family granted immun
+[2026-05-21 06:03:00] Успешно, получено 583 символов
+[2026-05-21 06:03:00] Пауза 60 секунд...
+[2026-05-21 06:04:00] Обрабатываю: American passenger on hantavirus-hit cruise feels ‘blindside
+[2026-05-21 06:04:00] Попытка 1 для: American passenger on hantavirus-hit cru
+[2026-05-21 06:04:02] Успешно, получено 966 символов
+[2026-05-21 06:04:05] Обрабатываю: Ukrainians tricked out their long-range exploding drones to 
+[2026-05-21 06:04:05] Попытка 1 для: Ukrainians tricked out their long-range 
+[2026-05-21 06:04:06] Успешно, получено 762 символов
+[2026-05-21 06:04:06] === Блок morning завершён ===
