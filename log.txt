@@ -16955,3 +16955,52 @@ U.S. has violated ceasefire agr
 [2026-05-21 16:05:10] Попытка 1 для: Ukraine’s ambassador to Hungary mocks Eu
 [2026-05-21 16:05:11] Успешно, получено 762 символов
 [2026-05-21 16:05:12] === Блок evening завершён ===
+[2026-05-21 18:00:54] Загружено 1288 уже отправленных новостей
+[2026-05-21 18:00:54] === Запуск блока: ai_evening ===
+[2026-05-21 18:00:54] Неизвестный источник (the daily caller): Why Son Of Conservative Megadonor Is Run
+[2026-05-21 18:00:54] Неизвестный источник (landezine.com): Isn’t That the Most Beautiful Thing You’
+[2026-05-21 18:00:54] Неизвестный источник (pymnts.com): Google Builds a Cart That Shops While Yo
+[2026-05-21 18:00:54] Неизвестный источник (cnbc): Zuckerberg says 'success isn't a given' 
+[2026-05-21 18:00:54] Неизвестный источник (new york post): California launches AI detection network
+[2026-05-21 18:00:54] Неизвестный источник (coindesk): Crypto custody firm Copper is looking to
+[2026-05-21 18:00:54] Неизвестный источник (financial post): Strengthening Canada’s defence sector is
+[2026-05-21 18:00:54] Неизвестный источник (fortune): How 8,000 robots are changing work insid
+[2026-05-21 18:00:54] Нет фото: US Economy Is Now a ‘Levered Bet on AI,’
+[2026-05-21 18:00:54] Неизвестный источник (coindesk): The Protocol: Ethereum Foundation's high
+[2026-05-21 18:00:54] Неизвестный источник (pymnts.com): AI Is Turning Federal Compliance Into a 
+[2026-05-21 18:00:54] Неизвестный источник (siliconangle news): Inside the race to connect quantum and e
+[2026-05-21 18:00:54] Неизвестный источник (fortune): San Francisco thinks AI can save the wha
+[2026-05-21 18:00:54] Неизвестный источник (brobible): Diplo Won’t Stop Trolling An Austin-Base
+[2026-05-21 18:00:54] Неизвестный источник (siliconangle news): CircuitHub raises $28M to scale electron
+[2026-05-21 18:00:54] Неизвестный источник (the escapist): The lost online world that came before t
+[2026-05-21 18:00:54] Неизвестный источник (globenewswire): AI Data Center Networking Global Market 
+[2026-05-21 18:00:54] Неизвестный источник (prnewswire): Jennifer Cortez Joins Lytx as Chief Mark
+[2026-05-21 18:00:54] Неизвестный источник (financial post): Meta begins 8,000 global job cuts in AI 
+[2026-05-21 18:00:54] Нет фото: eyelink1000plus-pupil-size-to-mm 1.1.0
+[2026-05-21 18:00:54] Неизвестный источник (financial post): Bank executives’ AI talk takes frighteni
+[2026-05-21 18:00:54] Неизвестный источник (siliconangle news): NanoCo raises $12M to accelerate NanoCla
+[2026-05-21 18:00:54] Неизвестный источник (plos.org): LSTM-attention-guided graph neural netwo
+[2026-05-21 18:00:54] Неизвестный источник (plos.org): Computational models for the classificat
+[2026-05-21 18:00:54] Неизвестный источник (plos.org): Learning-based multi-objective hyper-heu
+[2026-05-21 18:00:54] Неизвестный источник (plos.org): Brain morphology in Anorexia Nervosa and
+[2026-05-21 18:00:54] Неизвестный источник (globenewswire): Funds Coin Launches Automated Mobile Inf
+[2026-05-21 18:00:54] Неизвестный источник (techradar): Cyber resilience defines SME competitive
+[2026-05-21 18:00:54] Неизвестный источник (globenewswire): ATOSS Opens AI Technology Hub in Bengalu
+[2026-05-21 18:00:54] Неизвестный источник (financial post): RBC to manage Canadian share orders for 
+[2026-05-21 18:00:54] Нет фото: Visa Threats Report: As Network Security
+[2026-05-21 18:00:54] Неизвестный источник (dailymail.com): Why podcasters are icing out Em Rusciano
+[2026-05-21 18:00:54] Неизвестный источник (federalreserve.gov): Barr, Measuring Financial Health
+[2026-05-21 18:00:54] Неизвестный источник (globenewswire): SEALSQ Strengthens Chip Design Capabilit
+[2026-05-21 18:00:54] Неизвестный источник (globenewswire): Highway Positions Identity Verification 
+[2026-05-21 18:00:54] Неизвестный источник (marketbeat): GDS Q1 Earnings Call Highlights
+[2026-05-21 18:00:54] Неизвестный источник (siliconangle news): Forward launches Predict to verify netwo
+[2026-05-21 18:00:54] Неизвестный источник (siliconangle news): WisdomAI’s new analytics agents go beyon
+[2026-05-21 18:00:54] AI новости: найдено 2 после фильтрации
+[2026-05-21 18:00:57] Обрабатываю: Can we harness quantum effects to create a new kind of healt
+[2026-05-21 18:00:57] Попытка 1 для: Can we harness quantum effects to create
+[2026-05-21 18:00:58] Успешно, получено 708 символов
+[2026-05-21 18:00:59] Пауза 60 секунд...
+[2026-05-21 18:01:59] Обрабатываю: Arm Holdings Shares Surge 15.38% to $257.46 on AI Momentum a
+[2026-05-21 18:01:59] Попытка 1 для: Arm Holdings Shares Surge 15.38% to $257
+[2026-05-21 18:02:00] Успешно, получено 971 символов
+[2026-05-21 18:02:00] === Блок ai_evening завершён ===
