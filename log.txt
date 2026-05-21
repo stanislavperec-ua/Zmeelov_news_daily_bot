@@ -16813,3 +16813,51 @@ U.S. has violated ceasefire agr
 [2026-05-21 06:04:05] Попытка 1 для: Ukrainians tricked out their long-range 
 [2026-05-21 06:04:06] Успешно, получено 762 символов
 [2026-05-21 06:04:06] === Блок morning завершён ===
+[2026-05-21 08:00:51] Загружено 1275 уже отправленных новостей
+[2026-05-21 08:00:51] === Запуск блока: ai_morning ===
+[2026-05-21 08:00:52] Неизвестный источник (pypi.org): nas-torch added to PyPI
+[2026-05-21 08:00:52] Неизвестный источник (war on the rocks): The Navy Needs Precise Mass and Here Is 
+[2026-05-21 08:00:52] Неизвестный источник (globenewswire): Printed Circuit Board Market Size to Exc
+[2026-05-21 08:00:52] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Applications in ASP.
+[2026-05-21 08:00:52] Неизвестный источник (naftemporiki.gr): Online delivery platforms are transformi
+[2026-05-21 08:00:52] Неизвестный источник (c-sharpcorner.com): Why Big Tech Companies Are Building Cust
+[2026-05-21 08:00:52] Неизвестный источник (the local germany): Today in Germany: A roundup of the lates
+[2026-05-21 08:00:52] Неизвестный источник (c-sharpcorner.com): How Google’s $5 Billion TPU Cloud Ventur
+[2026-05-21 08:00:52] Заблокированный источник (naturalnews.com): The Two Paths to Eating When Food Gets S
+[2026-05-21 08:00:52] Неизвестный источник (antaranews.com): 'Hong Kong Cinema @ CANNES 2026': Hong K
+[2026-05-21 08:00:52] Неизвестный источник (abcnews.com): A new whale detection network launches i
+[2026-05-21 08:00:52] Неизвестный источник (abcnews.com): A new whale detection network launches i
+[2026-05-21 08:00:52] Неизвестный источник (financial post): Global Long Bond Yields Climb to Highest
+[2026-05-21 08:00:52] Нет фото: geoai-py 0.39.0
+[2026-05-21 08:00:52] Нет фото: Canadian Pensions Scrap $3 Billion Stake
+[2026-05-21 08:00:52] Неизвестный источник (financial post): Canadian pensions scrap US$3 billion sta
+[2026-05-21 08:00:52] Нет фото: Industrial Metals Slide as Inflation Fea
+[2026-05-21 08:00:52] Неизвестный источник (financial post): Stocks Extend Drop Before Nvidia, Bonds 
+[2026-05-21 08:00:52] Неизвестный источник (globenewswire): SMBs Hit a Cybersecurity Breaking Point 
+[2026-05-21 08:00:52] Неизвестный источник (the punch): Pan-African initiative targets safer, in
+[2026-05-21 08:00:52] Неизвестный источник (siliconangle news): Google Flow adds agentic brainstorming, 
+[2026-05-21 08:00:52] Неизвестный источник (hit consultant): Century Health Raises $5M for CHARM AI P
+[2026-05-21 08:00:52] Неизвестный источник (prnewswire): FICER Powering Digital Infrastructure, S
+[2026-05-21 08:00:52] Неизвестный источник (prnewswire): Android 17 Beta Now Available for vivo X
+[2026-05-21 08:00:52] Неизвестный источник (siliconangle news): Google to embed AI shopping features in 
+[2026-05-21 08:00:52] Неизвестный источник (siliconangle news): Google shows off first intelligent specs
+[2026-05-21 08:00:52] Неизвестный источник (siliconangle news): Meta shifts 7,000 employees into four ne
+[2026-05-21 08:00:52] Нет фото: aalgoi 1.3.0
+[2026-05-21 08:00:52] Неизвестный источник (siliconangle news): Google, Blackstone launch AI infrastruct
+[2026-05-21 08:00:52] Нет фото: New Jell-O products swap fruit juice for
+[2026-05-21 08:00:52] Неизвестный источник (prnewswire): S&P Global Announces Pricing of $2,000,0
+[2026-05-21 08:00:52] Неизвестный источник (financial post): Google revamps search for AI era, debuts
+[2026-05-21 08:00:52] Нет фото: Precision Aerospace & Defense Group, Inc
+[2026-05-21 08:00:52] AI новости: найдено 6 после фильтрации
+[2026-05-21 08:00:54] Обрабатываю: Southwest Airlines opens GIC in Hyderabad
+[2026-05-21 08:00:54] Попытка 1 для: Southwest Airlines opens GIC in Hyderaba
+[2026-05-21 08:00:55] Успешно, получено 1052 символов
+[2026-05-21 08:00:56] Пауза 60 секунд...
+[2026-05-21 08:01:56] Обрабатываю: Tesla Shares Close at $404.11 Down 1.43% on May 19, 2026 Ami
+[2026-05-21 08:01:56] Попытка 1 для: Tesla Shares Close at $404.11 Down 1.43%
+[2026-05-21 08:01:57] Успешно, получено 702 символов
+[2026-05-21 08:01:57] Пауза 60 секунд...
+[2026-05-21 08:02:57] Обрабатываю: SpaceX's IPO moonshot draws some doubters on Wall Street
+[2026-05-21 08:02:57] Попытка 1 для: SpaceX's IPO moonshot draws some doubter
+[2026-05-21 08:02:58] Успешно, получено 676 символов
+[2026-05-21 08:02:59] === Блок ai_morning завершён ===
