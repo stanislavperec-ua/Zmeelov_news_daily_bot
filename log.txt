@@ -17104,3 +17104,40 @@ U.S. has violated ceasefire agr
 [2026-05-22 08:02:59] Попытка 1 для: Fooling AI with poetry: Why systems’ saf
 [2026-05-22 08:03:00] Успешно, получено 592 символов
 [2026-05-22 08:03:01] === Блок ai_morning завершён ===
+[2026-05-22 11:00:59] Загружено 1299 уже отправленных новостей
+[2026-05-22 11:00:59] === Запуск блока: midday ===
+[2026-05-22 11:01:00] Неизвестный источник (colorado public radio): Colorado Democrats censure Gov. Jared Po
+[2026-05-22 11:01:00] Неизвестный источник (cnbc): S&P 500 futures edge lower as traders an
+[2026-05-22 11:01:00] Неизвестный источник (hollywood reporter): Jeff Probst Mistakenly Spoils ‘Survivor 
+[2026-05-22 11:01:00] Неизвестный источник (understandingwar.org): Russian Offensive Campaign Assessment, M
+[2026-05-22 11:01:00] Неизвестный источник (espn): NBA playoffs 2026: Live updates from Spu
+[2026-05-22 11:01:00] Неизвестный источник (sb nation): Why Victor Wembanyama hates Chet Holmgre
+[2026-05-22 11:01:00] Неизвестный источник (people): Mackenzie Shirilla Says She Doesn't ‘Nee
+[2026-05-22 11:01:00] Неизвестный источник (deadline): Ira Sachs’ ‘The Man I Love’ Gets 10-Minu
+[2026-05-22 11:01:00] Неизвестный источник (un news): General Assembly backs historic World Co
+[2026-05-22 11:01:00] Неизвестный источник (mma fighting): Dricus du Plessis: ‘Ridiculous’ for Kham
+[2026-05-22 11:01:00] Неизвестный источник (phys.org): Scientists improve knowledge on sea leve
+[2026-05-22 11:01:00] Неизвестный источник (gold derby): ‘The Boys’ series finale explained, from
+[2026-05-22 11:01:00] Неизвестный источник (appleinsider): Google I/O 2026 had nothing to say and s
+[2026-05-22 11:01:00] Неизвестный источник (phila.gov): Philadelphia Department of Public Health
+[2026-05-22 11:01:00] Неизвестный источник (cnet): I Hiked Using Robot Legs in the Grand Ca
+[2026-05-22 11:01:00] Старая новость (2026-05-20T05:11:46Z): American passenger on hantavirus-hit cru
+[2026-05-22 11:01:00] Старая новость (2026-05-19T13:51:04Z): A European-Chinese spacecraft just launc
+[2026-05-22 11:01:00] Старая новость (2026-05-19T12:03:37Z): Apple unveils new accessibility features
+[2026-05-22 11:01:00] Мировые новости: найдено 10 после фильтрации
+[2026-05-22 11:01:02] Обрабатываю: Israeli minister draws global rebuke over treatment of floti
+[2026-05-22 11:01:02] Попытка 1 для: Israeli minister draws global rebuke ove
+[2026-05-22 11:01:03] Успешно, получено 691 символов
+[2026-05-22 11:01:04] Пауза 60 секунд...
+[2026-05-22 11:02:04] Обрабатываю: In SpaceX’s IPO, Elon Musk is a risk factor
+[2026-05-22 11:02:04] Попытка 1 для: In SpaceX’s IPO, Elon Musk is a risk fac
+[2026-05-22 11:02:05] Успешно, получено 567 символов
+[2026-05-22 11:02:05] Пауза 60 секунд...
+[2026-05-22 11:03:05] Обрабатываю: Trump Set to Sign AI Cybersecurity Directive as Soon as Thur
+[2026-05-22 11:03:05] Попытка 1 для: Trump Set to Sign AI Cybersecurity Direc
+[2026-05-22 11:03:06] Успешно, получено 643 символов
+[2026-05-22 11:03:07] Пауза 60 секунд...
+[2026-05-22 11:04:07] Обрабатываю: Trump faces growing risk of losing key Iran war vote in Cong
+[2026-05-22 11:04:07] Попытка 1 для: Trump faces growing risk of losing key I
+[2026-05-22 11:04:08] Успешно, получено 726 символов
+[2026-05-22 11:04:09] === Блок midday завершён ===
