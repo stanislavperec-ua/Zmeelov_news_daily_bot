@@ -17004,3 +17004,57 @@ U.S. has violated ceasefire agr
 [2026-05-21 18:01:59] Попытка 1 для: Arm Holdings Shares Surge 15.38% to $257
 [2026-05-21 18:02:00] Успешно, получено 971 символов
 [2026-05-21 18:02:00] === Блок ai_evening завершён ===
+[2026-05-22 06:00:57] Загружено 1290 уже отправленных новостей
+[2026-05-22 06:00:57] === Запуск блока: morning ===
+[2026-05-22 06:00:57] Неизвестный источник (espn): NBA playoffs 2026: Live updates from Spu
+[2026-05-22 06:00:57] Неизвестный источник (deadline): 'Survivor 50's Jeff Probst Makes Critica
+[2026-05-22 06:00:57] Неизвестный источник (sb nation): Why Victor Wembanyama hates Chet Holmgre
+[2026-05-22 06:00:57] Неизвестный источник (people): Mackenzie Shirilla Says She Doesn't ‘Nee
+[2026-05-22 06:00:57] Неизвестный источник (coindesk): Bitcoin miners tied to AI rise as Nvidia
+[2026-05-22 06:00:57] Неизвестный источник (un news): General Assembly backs historic World Co
+[2026-05-22 06:00:57] Неизвестный источник (boxoffice pro): Weekend Preview: MANDALORIAN AND GROGU S
+[2026-05-22 06:00:57] Неизвестный источник (ktla los angeles): Interactive 3D map shows Sandy Fire peri
+[2026-05-22 06:00:57] Неизвестный источник (gold derby): ‘The Boys’ series finale explained, from
+[2026-05-22 06:00:57] Неизвестный источник (appleinsider): Google I/O 2026 had nothing to say and s
+[2026-05-22 06:00:57] Неизвестный источник (phila.gov): Philadelphia Department of Public Health
+[2026-05-22 06:00:57] Неизвестный источник (gizmodo.com): The Hypershell Exoskeleton Is Slimmer, F
+[2026-05-22 06:00:57] Неизвестный источник (sci.news): Mystery of Tyrannosaurus rex’s Tiny Arms
+[2026-05-22 06:00:57] Старая новость (2026-05-20T02:12:00Z): American passenger on hantavirus-hit cru
+[2026-05-22 06:00:57] Старая новость (2026-05-19T13:51:04Z): A European-Chinese spacecraft just launc
+[2026-05-22 06:00:57] Старая новость (2026-05-19T12:03:37Z): Apple unveils new accessibility features
+[2026-05-22 06:00:57] Мировые новости: найдено 16 после фильтрации
+[2026-05-22 06:00:58] Заблокированный источник (naturalnews.com): Xi Jinping set to visit North Korea in b
+[2026-05-22 06:00:58] Заблокированный источник (naturalnews.com): Russia-China summit signals strategic re
+[2026-05-22 06:00:58] Заблокированный источник (naturalnews.com): Kremlin: Putin and Trump Could Meet at A
+[2026-05-22 06:00:58] Нет фото: Ukraine ally Britain eases new sanctions
+[2026-05-22 06:00:58] Нет фото: HOW CURIOUS: Virginia Governor Abigail S
+[2026-05-22 06:00:58] Нет фото: Borr Drilling Limited Announces First Qu
+[2026-05-22 06:00:58] Нет фото: Schlitz Is Gone, But First It’s Getting 
+[2026-05-22 06:00:58] Нет фото: Soros Redirects $300 Million to US, Targ
+[2026-05-22 06:00:58] Украинские новости: найдено 5 после фильтрации
+[2026-05-22 06:00:58] Нет фото: UN heads condemn failure to protect civi
+[2026-05-22 06:00:58] Харьков: новостей не найдено
+[2026-05-22 06:01:00] Обрабатываю: Israeli minister draws global rebuke over treatment of floti
+[2026-05-22 06:01:00] Попытка 1 для: Israeli minister draws global rebuke ove
+[2026-05-22 06:01:01] Успешно, получено 688 символов
+[2026-05-22 06:01:02] Фото не отправилось: 400
+[2026-05-22 06:01:02] Пауза 60 секунд...
+[2026-05-22 06:02:02] Обрабатываю: The U.S. threatens to revoke the Palestinian U.N. ambassador
+[2026-05-22 06:02:02] Попытка 1 для: The U.S. threatens to revoke the Palesti
+[2026-05-22 06:02:03] Успешно, получено 705 символов
+[2026-05-22 06:02:03] Пауза 60 секунд...
+[2026-05-22 06:03:03] Обрабатываю: Samsung strike on hold
+[2026-05-22 06:03:03] Попытка 1 для: Samsung strike on hold
+[2026-05-22 06:03:04] Успешно, получено 519 символов
+[2026-05-22 06:03:05] Пауза 60 секунд...
+[2026-05-22 06:04:05] Обрабатываю: Vanessa Trump reveals breast cancer diagnosis
+[2026-05-22 06:04:05] Попытка 1 для: Vanessa Trump reveals breast cancer diag
+[2026-05-22 06:04:06] Успешно, получено 582 символов
+[2026-05-22 06:04:09] Обрабатываю: Germany's Merz pitches 'associate' EU membership for Ukraine
+[2026-05-22 06:04:09] Попытка 1 для: Germany's Merz pitches 'associate' EU me
+[2026-05-22 06:04:10] Успешно, получено 830 символов
+[2026-05-22 06:04:10] Пауза 60 секунд...
+[2026-05-22 06:05:10] Обрабатываю: Europe faces stray Ukrainian drones as Kyiv targets Russian 
+[2026-05-22 06:05:10] Попытка 1 для: Europe faces stray Ukrainian drones as K
+[2026-05-22 06:05:11] Успешно, получено 712 символов
+[2026-05-22 06:05:11] === Блок morning завершён ===
