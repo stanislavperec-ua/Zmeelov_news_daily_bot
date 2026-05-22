@@ -17058,3 +17058,49 @@ U.S. has violated ceasefire agr
 [2026-05-22 06:05:10] Попытка 1 для: Europe faces stray Ukrainian drones as K
 [2026-05-22 06:05:11] Успешно, получено 712 символов
 [2026-05-22 06:05:11] === Блок morning завершён ===
+[2026-05-22 08:00:54] Загружено 1296 уже отправленных новостей
+[2026-05-22 08:00:54] === Запуск блока: ai_morning ===
+[2026-05-22 08:00:54] Неизвестный источник (businessline): UP’s data centre cluster can begin from 
+[2026-05-22 08:00:54] Нет фото: mfai 7.1.6
+[2026-05-22 08:00:54] Неизвестный источник (crypto briefing): SpaceX hires engineers and physicists fo
+[2026-05-22 08:00:54] Неизвестный источник (businessline): Cyprus pitches itself as base for Indian
+[2026-05-22 08:00:54] Неизвестный источник (financial post): Audiencerate: Riccardo Fabbri Joins as C
+[2026-05-22 08:00:54] Неизвестный источник (globenewswire): Nokia launches AI networking lab to driv
+[2026-05-22 08:00:54] Неизвестный источник (computerweekly.com): NAP Info boosts Batam-Jakarta undersea c
+[2026-05-22 08:00:54] Неизвестный источник (financial post): Norway’s Europe-Leading Stock Rally Goes
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Pivot pulls in $40M to push agentic AI d
+[2026-05-22 08:00:54] Неизвестный источник (globenewswire): Final results for the financial year end
+[2026-05-22 08:00:54] Заблокированный источник (naturalnews.com): The Technocratic Takeover: Why We Must R
+[2026-05-22 08:00:54] Неизвестный источник (financial post): EU’s Top Copper Miner KGHM Eyes Takeover
+[2026-05-22 08:00:54] Неизвестный источник (crypto briefing): SpaceX hires engineers and physicists fo
+[2026-05-22 08:00:54] Неизвестный источник (financial post): Citi Sees India IPOs Hitting Fresh Recor
+[2026-05-22 08:00:54] Неизвестный источник (financial post): Global Stocks Rise on Best Tech Rally in
+[2026-05-22 08:00:54] Неизвестный источник (naftemporiki.gr): Coca-Cola outlines details of new 31-mil
+[2026-05-22 08:00:54] Неизвестный источник (new zealand herald): Roblox, Meta introduce new parental cont
+[2026-05-22 08:00:54] Неизвестный источник (new zealand herald): SpaceX’s IPO moonshot draws some doubter
+[2026-05-22 08:00:54] Неизвестный источник (huffpost): SpaceX IPO Filing Lays Bare Losses And M
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Move fast, break nothing: How Forward Pr
+[2026-05-22 08:00:54] Неизвестный источник (activistpost.com): Germany Becomes A Ukraine War Lab, and a
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Intuit cuts 17% of its staff to focus on
+[2026-05-22 08:00:54] Неизвестный источник (protothema.gr): Athens public transport upgraded: New tr
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Code security startup Socket raises $60M
+[2026-05-22 08:00:54] Нет фото: kymnasium 1.2.6
+[2026-05-22 08:00:54] Неизвестный источник (cna): SpaceX IPO filing lays bare losses and M
+[2026-05-22 08:00:54] Неизвестный источник (pymnts.com): House Hearing Puts Bank-FinTech Oversigh
+[2026-05-22 08:00:54] Неизвестный источник (crypto briefing): SpaceX estimates total addressable marke
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Nvidia almost doubles its data center re
+[2026-05-22 08:00:54] Неизвестный источник (livemint): Elon Musk's SpaceX moves to launch IPO, 
+[2026-05-22 08:00:54] Неизвестный источник (siliconangle news): Mega IPOs on the way: SpaceX releases fi
+[2026-05-22 08:00:54] AI новости: найдено 5 после фильтрации
+[2026-05-22 08:00:56] Обрабатываю: Cyprus pitches itself as base for Indian firms expanding in 
+[2026-05-22 08:00:56] Попытка 1 для: Cyprus pitches itself as base for Indian
+[2026-05-22 08:00:58] Успешно, получено 848 символов
+[2026-05-22 08:00:58] Пауза 60 секунд...
+[2026-05-22 08:01:58] Обрабатываю: SpaceX filing reveals Musk company links ahead of IPO
+[2026-05-22 08:01:58] Попытка 1 для: SpaceX filing reveals Musk company links
+[2026-05-22 08:01:59] Успешно, получено 641 символов
+[2026-05-22 08:01:59] Пауза 60 секунд...
+[2026-05-22 08:02:59] Обрабатываю: Fooling AI with poetry: Why systems’ safety controls are not
+[2026-05-22 08:02:59] Попытка 1 для: Fooling AI with poetry: Why systems’ saf
+[2026-05-22 08:03:00] Успешно, получено 592 символов
+[2026-05-22 08:03:01] === Блок ai_morning завершён ===
