@@ -17339,3 +17339,38 @@ U.S. has violated ceasefire agr
 [2026-05-23 08:01:56] Попытка 1 для: Large glycomics datasets as a tool to un
 [2026-05-23 08:01:57] Успешно, получено 648 символов
 [2026-05-23 08:01:58] === Блок ai_morning завершён ===
+[2026-05-23 11:00:51] Загружено 1316 уже отправленных новостей
+[2026-05-23 11:00:51] === Запуск блока: midday ===
+[2026-05-23 11:00:52] Неизвестный источник (stocktwits.com): IBM Stock Rallies On Trump Administratio
+[2026-05-23 11:00:52] Неизвестный источник (variety): Paul McCartney Turns Lights Out in Ed Su
+[2026-05-23 11:00:52] Заблокированный источник (bleacher report): Hurricanes vs. Canadiens Goal Scorers, H
+[2026-05-23 11:00:52] Заблокированный источник (motorsport.com): Motorsports world mourns the unexpected 
+[2026-05-23 11:00:52] Неизвестный источник (space.com): SpaceX Starship Flight 12 live launch up
+[2026-05-23 11:00:52] Неизвестный источник (cnbc): Asia-Pacific markets trade higher as inv
+[2026-05-23 11:00:52] Неизвестный источник (phys.org): Ancient seas get a new T. rex as massive
+[2026-05-23 11:00:52] Неизвестный источник (stereogum): Britney Spears Offered Officers Lasagna,
+[2026-05-23 11:00:52] Неизвестный источник (deadline): Lukas Dhont's 'Coward' Gets 13-Minute Ov
+[2026-05-23 11:00:52] Неизвестный источник (pbs): 4 takeaways from the DNC's long-awaited 
+[2026-05-23 11:00:52] Неизвестный источник (deadline): 'La Bola Negra' Lands 20-Minute Ovation 
+[2026-05-23 11:00:52] Неизвестный источник (phys.org): Quantum supremacy just ran into an unexp
+[2026-05-23 11:00:52] Неизвестный источник (florida today): SpaceX launches Starlink 10-31 mission f
+[2026-05-23 11:00:52] Неизвестный источник (theregister.com): Gemini accused of 30,000-line code purge
+[2026-05-23 11:00:52] Старая новость (2026-05-21T09:59:33Z): Survey reveals Lifetime Plex Pass' popul
+[2026-05-23 11:00:52] Старая новость (2026-05-20T18:25:00Z): Google Health 5.0 rolling out with new s
+[2026-05-23 11:00:52] Мировые новости: найдено 14 после фильтрации
+[2026-05-23 11:00:54] Обрабатываю: A neuroscientist's guide to future-proofing your brain and t
+[2026-05-23 11:00:54] Попытка 1 для: A neuroscientist's guide to future-proof
+[2026-05-23 11:00:55] Успешно, получено 632 символов
+[2026-05-23 11:00:56] Пауза 60 секунд...
+[2026-05-23 11:01:56] Обрабатываю: Trump's revenge politics comes back to haunt him
+[2026-05-23 11:01:56] Попытка 1 для: Trump's revenge politics comes back to h
+[2026-05-23 11:01:57] Успешно, получено 879 символов
+[2026-05-23 11:01:57] Пауза 60 секунд...
+[2026-05-23 11:02:57] Обрабатываю: Why Trump's AI executive order was pulled
+[2026-05-23 11:02:57] Попытка 1 для: Why Trump's AI executive order was pulle
+[2026-05-23 11:02:58] Успешно, получено 491 символов
+[2026-05-23 11:02:59] Пауза 60 секунд...
+[2026-05-23 11:03:59] Обрабатываю: Trump says he's sending 5,000 more troops to Poland
+[2026-05-23 11:03:59] Попытка 1 для: Trump says he's sending 5,000 more troop
+[2026-05-23 11:04:00] Успешно, получено 792 символов
+[2026-05-23 11:04:00] === Блок midday завершён ===
