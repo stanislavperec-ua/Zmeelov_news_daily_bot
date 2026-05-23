@@ -17292,3 +17292,50 @@ U.S. has violated ceasefire agr
 [2026-05-23 06:05:04] Попытка 1 для: Ukraine retakes 400 square kilometers af
 [2026-05-23 06:05:05] Успешно, получено 850 символов
 [2026-05-23 06:05:05] === Блок morning завершён ===
+[2026-05-23 08:00:51] Загружено 1314 уже отправленных новостей
+[2026-05-23 08:00:51] === Запуск блока: ai_morning ===
+[2026-05-23 08:00:52] Неизвестный источник (pymnts.com): 79% of Firms Now Verify Identity at Logi
+[2026-05-23 08:00:52] Неизвестный источник (financial post): US Stocks Eye Best Weekly Run of Gains S
+[2026-05-23 08:00:52] Неизвестный источник (c-sharpcorner.com): How SpaceX Became a Major Player in AI I
+[2026-05-23 08:00:52] Неизвестный источник (c-sharpcorner.com): Why OpenAI, Anthropic, and SpaceX Are Ra
+[2026-05-23 08:00:52] Неизвестный источник (c-sharpcorner.com): How Nvidia Became the Most Important Com
+[2026-05-23 08:00:52] Неизвестный источник (computerweekly.com): GCC firms rethink cyber defences as AI p
+[2026-05-23 08:00:52] Неизвестный источник (c-sharpcorner.com): Why Nvidia Continues to Dominate the AI 
+[2026-05-23 08:00:52] Неизвестный источник (financial post): Strategist Warnings of War Impact on Eur
+[2026-05-23 08:00:52] Заблокированный источник (naturalnews.com): Why China Is Winning the AI Race (and Wh
+[2026-05-23 08:00:52] Неизвестный источник (andymasley.com): A history of the data center panic - par
+[2026-05-23 08:00:52] Неизвестный источник (onefootball.com):  Efraín hits out at Cruz Azul: they've b
+[2026-05-23 08:00:52] Неизвестный источник (computerweekly.com): AI demand benefits Softcat
+[2026-05-23 08:00:52] Неизвестный источник (motley fool australia): 2 ASX 200 shares I'd buy for the AI infr
+[2026-05-23 08:00:52] Нет фото: AIFA Provides Update on Nasdaq Notice an
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): California to explore possible subsidies
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Hark raises $700M+ to build ‘personalize
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Serverless AI infrastructure startup Mod
+[2026-05-23 08:00:52] Неизвестный источник (prnewswire): Microsoft and Black Tech Street Launch G
+[2026-05-23 08:00:52] Неизвестный источник (pymnts.com): Coupa Acquires Tonkean to Expand AI Spen
+[2026-05-23 08:00:52] Неизвестный источник (livemint): Bandhan eyes new growth opportunity from
+[2026-05-23 08:00:52] Неизвестный источник (screen rant): 10 Epic Sci-Fi Shows That Deserved More 
+[2026-05-23 08:00:52] Нет фото: Explainable machine learning-based inves
+[2026-05-23 08:00:52] Нет фото: Author Correction: Kriging-based surroga
+[2026-05-23 08:00:52] Неизвестный источник (pymnts.com): House Hearing Puts AI Fraud at Center of
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Zscaler acquires Symmetry Systems to ext
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): New Anthropic, Blackstone-backed AI serv
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Strong demand for agentic AI offerings h
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Zoom raises outlook and authorizes anoth
+[2026-05-23 08:00:52] Неизвестный источник (motley fool australia): 3 ASX shares that could be future blue c
+[2026-05-23 08:00:52] Нет фото: Modaxo Enters into Agreement to Acquire 
+[2026-05-23 08:00:52] Неизвестный источник (cnbc): Job training for robots: China is gettin
+[2026-05-23 08:00:52] Неизвестный источник (prnewswire): Webull Reports First Quarter 2026 Financ
+[2026-05-23 08:00:52] Нет фото: CAE reports fourth quarter and full fisc
+[2026-05-23 08:00:52] Неизвестный источник (nvidia.com): Synthesize Realistic 3D Medical Images a
+[2026-05-23 08:00:52] Неизвестный источник (siliconangle news): Five takeaways from Nvidia’s earnings, a
+[2026-05-23 08:00:52] Неизвестный источник (raw story): GOP billionaire brags AI better than hum
+[2026-05-23 08:00:52] AI новости: найдено 2 после фильтрации
+[2026-05-23 08:00:54] Обрабатываю: Inside SpaceX’s Mega IPO: AI, Starlink and Musk’s Mars visio
+[2026-05-23 08:00:54] Попытка 1 для: Inside SpaceX’s Mega IPO: AI, Starlink a
+[2026-05-23 08:00:55] Успешно, получено 755 символов
+[2026-05-23 08:00:56] Пауза 60 секунд...
+[2026-05-23 08:01:56] Обрабатываю: Large glycomics datasets as a tool to understand the functio
+[2026-05-23 08:01:56] Попытка 1 для: Large glycomics datasets as a tool to un
+[2026-05-23 08:01:57] Успешно, получено 648 символов
+[2026-05-23 08:01:58] === Блок ai_morning завершён ===
