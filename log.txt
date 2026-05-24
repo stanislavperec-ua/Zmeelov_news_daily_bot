@@ -17581,3 +17581,39 @@ U.S. has violated ceasefire agr
 [2026-05-24 08:02:56] Попытка 1 для: What's with all the videos of college gr
 [2026-05-24 08:02:57] Успешно, получено 613 символов
 [2026-05-24 08:02:58] === Блок ai_morning завершён ===
+[2026-05-24 11:00:47] Загружено 1334 уже отправленных новостей
+[2026-05-24 11:00:47] === Запуск блока: midday ===
+[2026-05-24 11:00:47] Неизвестный источник (heat.com): 4 takeaways: Thunder bench picks up Shai
+[2026-05-24 11:00:47] Неизвестный источник (on3.com): No. 4 Nebraska softball crushes No. 13 O
+[2026-05-24 11:00:47] Неизвестный источник (9to5mac): Unannounced Apple headphones revealed in
+[2026-05-24 11:00:47] Неизвестный источник (ksl.com): Paul McCartney helps Stephen Colbert say
+[2026-05-24 11:00:47] Неизвестный источник (the dallas morning news): ‘T. rex of the sea’: D-FW researchers id
+[2026-05-24 11:00:47] Неизвестный источник (wabc-tv): Staten Island fire: At least 31 people i
+[2026-05-24 11:00:47] Неизвестный источник (pbs): NASCAR's Kyle Busch was short of breath,
+[2026-05-24 11:00:47] Неизвестный источник (hollywood reporter): ‘The Mandalorian & Grogu’ Won’t Lose Mon
+[2026-05-24 11:00:47] Неизвестный источник (federal news network): Tulsi Gabbard resigns as director of nat
+[2026-05-24 11:00:47] Неизвестный источник (kotaku): Riot Claims Valorant Anti-Cheat Software
+[2026-05-24 11:00:47] Неизвестный источник (nasawatch.com): NASA Reboot Memo From Jared Isaacman (lo
+[2026-05-24 11:00:47] Неизвестный источник (forbes): ‘Fake And Gay’: Why Elon Musk Is So Mad 
+[2026-05-24 11:00:47] Неизвестный источник (space.com): SpaceX Starship Flight 12 live launch up
+[2026-05-24 11:00:47] Неизвестный источник (9to5google.com): Google’s AI Overviews break the dictiona
+[2026-05-24 11:00:47] Неизвестный источник (nhl news): Back at Ball for Game Two - NHL.com
+[2026-05-24 11:00:47] Старая новость (2026-05-22T09:28:00Z): Satya Nadella is reorganizing Microsoft 
+[2026-05-24 11:00:47] Старая новость (2026-05-21T14:00:00Z): NASA Highlights 2025 International Space
+[2026-05-24 11:00:47] Мировые новости: найдено 12 после фильтрации
+[2026-05-24 11:00:50] Обрабатываю: China Coal Mine Explosion Kills 90 in Deadliest Blast Since 
+[2026-05-24 11:00:50] Попытка 1 для: China Coal Mine Explosion Kills 90 in De
+[2026-05-24 11:00:51] Успешно, получено 683 символов
+[2026-05-24 11:00:51] Пауза 60 секунд...
+[2026-05-24 11:01:51] Обрабатываю: U.S. bans green-card holders from returning from Ebola-stric
+[2026-05-24 11:01:51] Попытка 1 для: U.S. bans green-card holders from return
+[2026-05-24 11:01:52] Успешно, получено 917 символов
+[2026-05-24 11:01:53] Пауза 60 секунд...
+[2026-05-24 11:02:53] Обрабатываю: Trump administration to force foreigners in the U.S. to appl
+[2026-05-24 11:02:53] Попытка 1 для: Trump administration to force foreigners
+[2026-05-24 11:02:54] Успешно, получено 592 символов
+[2026-05-24 11:02:54] Пауза 60 секунд...
+[2026-05-24 11:03:54] Обрабатываю: Judge drops criminal case against Kilmar Abrego García, deem
+[2026-05-24 11:03:54] Попытка 1 для: Judge drops criminal case against Kilmar
+[2026-05-24 11:03:56] Успешно, получено 709 символов
+[2026-05-24 11:03:56] === Блок midday завершён ===
