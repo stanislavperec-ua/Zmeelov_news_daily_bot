@@ -17829,3 +17829,38 @@ U.S. has violated ceasefire agr
 [2026-05-25 08:00:56] AI новости: найдено 0 после фильтрации
 [2026-05-25 08:00:56] ⚠️ Блок *AI утро* (25.05.2026) — новостей не найдено!
 [2026-05-25 08:00:57] === Блок ai_morning завершён ===
+[2026-05-25 11:00:50] Загружено 1350 уже отправленных новостей
+[2026-05-25 11:00:50] === Запуск блока: midday ===
+[2026-05-25 11:00:51] Пропускаю уже отправленную: U.S., Iran close to a deal to end war, official sa
+[2026-05-25 11:00:51] Неизвестный источник (new york daily news): The Knicks are the new bullies of the Ea
+[2026-05-25 11:00:51] Неизвестный источник (france 24 english): Several dead, dozens injured in massive 
+[2026-05-25 11:00:51] Неизвестный источник (nbsla.ca): Johnny Manziel Fight Tonight vs Bob Mene
+[2026-05-25 11:00:51] Неизвестный источник (nbcsports.com): Oklahoma City Thunder vs. San Antonio Sp
+[2026-05-25 11:00:51] Неизвестный источник (macrumors): Apple Preparing New 'Gen AI' Website Ahe
+[2026-05-25 11:00:51] Неизвестный источник (wls-tv): Relative stops Plainfield high school st
+[2026-05-25 11:00:51] Неизвестный источник (cnbc): U.S. adds Atlanta area airport for Ebola
+[2026-05-25 11:00:51] Неизвестный источник (bloody disgusting): Jason Voorhees Is Coming to ‘Dead by Day
+[2026-05-25 11:00:51] Старая новость (2026-05-23T08:04:00Z): How South African scientists identified 
+[2026-05-25 11:00:51] Старая новость (2026-05-23T08:00:00Z): Elon Musk's SpaceX IPO filing just told 
+[2026-05-25 11:00:51] Старая новость (2026-05-23T05:52:03Z): A fossil site in North Dakota appears to
+[2026-05-25 11:00:51] Старая новость (2026-05-23T02:32:12Z): Blue Origin completes investigation into
+[2026-05-25 11:00:51] Старая новость (2026-05-22T22:26:00Z): Gemini app for Mac adding ‘Spark’ agent 
+[2026-05-25 11:00:51] Старая новость (2026-05-22T19:28:21Z): NASA Reboot Memo From Jared Isaacman (lo
+[2026-05-25 11:00:51] Старая новость (2026-05-22T18:16:58Z): Trump wants new Fed chair to be 'totally
+[2026-05-25 11:00:51] Мировые новости: найдено 11 после фильтрации
+[2026-05-25 11:00:53] Обрабатываю: Gunman killed after opening fire on Secret Service checkpoin
+[2026-05-25 11:00:53] Попытка 1 для: Gunman killed after opening fire on Secr
+[2026-05-25 11:00:54] Успешно, получено 615 символов
+[2026-05-25 11:00:54] Пауза 60 секунд...
+[2026-05-25 11:01:54] Обрабатываю: A suicide bombing near a railway track in southwest Pakistan
+[2026-05-25 11:01:54] Попытка 1 для: A suicide bombing near a railway track i
+[2026-05-25 11:01:55] Успешно, получено 804 символов
+[2026-05-25 11:01:56] Пауза 60 секунд...
+[2026-05-25 11:02:56] Обрабатываю: 9-story building under construction in the Philippines colla
+[2026-05-25 11:02:56] Попытка 1 для: 9-story building under construction in t
+[2026-05-25 11:02:57] Успешно, получено 911 символов
+[2026-05-25 11:02:58] Пауза 60 секунд...
+[2026-05-25 11:03:58] Обрабатываю: Attacks on Ebola centres intensify in eastern DRC amid outbr
+[2026-05-25 11:03:58] Попытка 1 для: Attacks on Ebola centres intensify in ea
+[2026-05-25 11:03:58] Успешно, получено 797 символов
+[2026-05-25 11:03:59] === Блок midday завершён ===
