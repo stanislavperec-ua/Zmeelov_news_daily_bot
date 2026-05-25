@@ -17809,3 +17809,23 @@ U.S. has violated ceasefire agr
 [2026-05-25 06:06:09] Попытка 1 для: From Kharkiv to the UK’s health service:
 [2026-05-25 06:06:10] Успешно, получено 687 символов
 [2026-05-25 06:06:10] === Блок morning завершён ===
+[2026-05-25 08:00:56] Загружено 1350 уже отправленных новостей
+[2026-05-25 08:00:56] === Запуск блока: ai_morning ===
+[2026-05-25 08:00:56] Неизвестный источник (dailymail.com): Stephen Colbert RETURNS to late-night TV
+[2026-05-25 08:00:56] Нет фото: Could anything but profit steer AI? The 
+[2026-05-25 08:00:56] Нет фото: geoai-py 0.39.3
+[2026-05-25 08:00:56] Неизвестный источник (marketbeat): Flex Pitches AI Data Center Spin-Off as 
+[2026-05-25 08:00:56] Неизвестный источник (siliconangle news): How AI stacks are rewriting the rules of
+[2026-05-25 08:00:56] Неизвестный источник (bitcoinfoundation.org): Cardano Price Prediction 2026: Will ADA 
+[2026-05-25 08:00:56] Неизвестный источник (bleeding cool news): X-Men #30 Preview: Danger Room Arc Reach
+[2026-05-25 08:00:56] Неизвестный источник (pypi.org): snn-opt added to PyPI
+[2026-05-25 08:00:56] Неизвестный источник (fortune): ‘Hello, Goodbye’: Paul McCartney closed 
+[2026-05-25 08:00:56] Неизвестный источник (techradar): Europe races Meta and Japan to launch fi
+[2026-05-25 08:00:56] Неизвестный источник (prnewswire): Bridgewest Ventures Opens Access to New 
+[2026-05-25 08:00:56] Неизвестный источник (dailymail.com): President Donald Trump shares AI video o
+[2026-05-25 08:00:56] Неизвестный источник (financial post): Exclusive Interview: ‘Innovate or Evapor
+[2026-05-25 08:00:56] Неизвестный источник (internet): Claude Mythos AI Finds 10,000 High-Sever
+[2026-05-25 08:00:56] Неизвестный источник (usa today): 2026 NBA mock draft: AI predicts every f
+[2026-05-25 08:00:56] AI новости: найдено 0 после фильтрации
+[2026-05-25 08:00:56] ⚠️ Блок *AI утро* (25.05.2026) — новостей не найдено!
+[2026-05-25 08:00:57] === Блок ai_morning завершён ===
