@@ -17986,3 +17986,41 @@ U.S. has violated ceasefire agr
 [2026-05-26 06:04:10] Попытка 1 для: Oil, Dollar Slide on Optimism Over US-Ir
 [2026-05-26 06:04:11] Успешно, получено 714 символов
 [2026-05-26 06:04:11] === Блок morning завершён ===
+[2026-05-26 08:00:55] Загружено 1364 уже отправленных новостей
+[2026-05-26 08:00:55] === Запуск блока: ai_morning ===
+[2026-05-26 08:00:56] Нет фото: flatmem added to PyPI
+[2026-05-26 08:00:56] Неизвестный источник (thefrisky.com): 33 Best European City Breaks Under €500 
+[2026-05-26 08:00:56] Неизвестный источник (internet): TrapDoor Supply Chain Attack Spreads Cre
+[2026-05-26 08:00:56] Неизвестный источник (the indian express): Orbital data centres, extraterrestrial e
+[2026-05-26 08:00:56] Неизвестный источник (protothema.gr): Tsipras and Barcelona (à la SYRIZA), Sam
+[2026-05-26 08:00:56] Неизвестный источник (computerweekly.com): Putting AI to work in network management
+[2026-05-26 08:00:56] Неизвестный источник (business insider): Silicon Valley takes its AI pitch to Pop
+[2026-05-26 08:00:56] Неизвестный источник (the indian express): Inside Gurgaon’s private equity-backed s
+[2026-05-26 08:00:56] Неизвестный источник (computerweekly.com): How APAC companies are rewiring their te
+[2026-05-26 08:00:56] Неизвестный источник (fox business): Chipotle rival Guzman y Gomez Mexican Ki
+[2026-05-26 08:00:56] Нет фото: Singapore GDP Grows Faster Than Expected
+[2026-05-26 08:00:56] Нет фото: Comparative analysis of support vector m
+[2026-05-26 08:00:56] Нет фото: Optimization of image restoration techno
+[2026-05-26 08:00:56] Неизвестный источник (nlppeople.com): Artificial Intelligence / Machine Learni
+[2026-05-26 08:00:56] Нет фото: Development of a model for design radiat
+[2026-05-26 08:00:56] Неизвестный источник (pymnts.com): Walmart Sees Executives Depart Following
+[2026-05-26 08:00:56] Неизвестный источник (financial post): Yanik Guillemette: “Our Regulators Have 
+[2026-05-26 08:00:56] Неизвестный источник (pymnts.com): Circle Co-Founder Raises $30 Million for
+[2026-05-26 08:00:56] Неизвестный источник (cnbc): Space rockets, satellites, data centers 
+[2026-05-26 08:00:56] Неизвестный источник (arxiv.org): Multi-Objective Optimisation with Oscill
+[2026-05-26 08:00:56] Неизвестный источник (theblaze): Pastors are using AI to write sermons — 
+[2026-05-26 08:00:56] Неизвестный источник (thestreet): Chipotle rival Mexican chain closes all 
+[2026-05-26 08:00:56] Неизвестный источник (arxiv.org): Growing a Neural Network in Breadth, Dep
+[2026-05-26 08:00:56] Неизвестный источник (cryptoslate): Ethereum’s selloff tests whether its neu
+[2026-05-26 08:00:56] Неизвестный источник (fox news): Humanoid robots work nonstop in package 
+[2026-05-26 08:00:56] Неизвестный источник (cleantechnica): Why AI And Why Now?
+[2026-05-26 08:00:56] Неизвестный источник (space daily): Almost half of women in their 60s and 70
+[2026-05-26 08:00:56] Неизвестный источник (globalresearch.ca): You Have Enlightenment, Now Use It
+[2026-05-26 08:00:56] Неизвестный источник (coindesk): Crypto rails are becoming the default pa
+[2026-05-26 08:00:56] Неизвестный источник (yahoo entertainment): Scenes from the Memorial Day investing r
+[2026-05-26 08:00:56] Неизвестный источник (fox news): Agitators united by Chinese money, hate 
+[2026-05-26 08:00:56] AI новости: найдено 1 после фильтрации
+[2026-05-26 08:00:58] Обрабатываю: How Unbekoming! The central delusion of MAHA
+[2026-05-26 08:00:58] Попытка 1 для: How Unbekoming! The central delusion of 
+[2026-05-26 08:00:59] Успешно, получено 770 символов
+[2026-05-26 08:01:00] === Блок ai_morning завершён ===
