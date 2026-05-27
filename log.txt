@@ -18329,3 +18329,53 @@ U.S. has violated ceasefire agr
 [2026-05-27 16:05:14] Попытка 1 для: Understanding the Value of Ukrainian Rai
 [2026-05-27 16:05:15] Успешно, получено 743 символов
 [2026-05-27 16:05:16] === Блок evening завершён ===
+[2026-05-27 18:00:55] Загружено 1388 уже отправленных новостей
+[2026-05-27 18:00:55] === Запуск блока: ai_evening ===
+[2026-05-27 18:00:55] Неизвестный источник (siliconangle news): Didit raises $6M funding to build AI-nat
+[2026-05-27 18:00:55] Неизвестный источник (nathanbransford.com): How to research a literary agent
+[2026-05-27 18:00:55] Неизвестный источник (linkedin.com): Bringing Intelligence Closer to the Sour
+[2026-05-27 18:00:55] Неизвестный источник (bluegrasslive.com): Cosmos Health Releases 2026–2029 Guidanc
+[2026-05-27 18:00:55] Неизвестный источник (dailymail.com): As thousands of 20-somethings desperatel
+[2026-05-27 18:00:55] Неизвестный источник (jmir.org): Text Messaging for Mental Health Promoti
+[2026-05-27 18:00:55] Неизвестный источник (siliconangle news): OpenRouter raises $113M to bring order t
+[2026-05-27 18:00:55] Неизвестный источник (siliconangle news): Exclusive: Canyon Code closes on $5M pre
+[2026-05-27 18:00:55] Неизвестный источник (coindesk): Coinbase’s Base launches AI tool for Cha
+[2026-05-27 18:00:55] Неизвестный источник (prnewswire): OneR and OneOncology Partner Practice In
+[2026-05-27 18:00:55] Неизвестный источник (hollywood reporter): The Most Powerful Women in Canadian Ente
+[2026-05-27 18:00:55] Неизвестный источник (insurance journal): Trump Postpones Signing AI Security Orde
+[2026-05-27 18:00:55] Неизвестный источник (cointelegraph): AI guardrail removals raise questions ov
+[2026-05-27 18:00:55] Неизвестный источник (next big future): SpaceX Market Sizes Are Replatforming – 
+[2026-05-27 18:00:55] Неизвестный источник (bitcoinfoundation.org): NEAR Explodes 50% in a Week as Major Upg
+[2026-05-27 18:00:55] Неизвестный источник (the-independent.com): Record exec behind Kanye West’s comeback
+[2026-05-27 18:00:55] Нет фото: Altman-Backed Nuclear Firm Oklo Rises on
+[2026-05-27 18:00:55] Неизвестный источник (yahoo entertainment): Why your next custom fitting might not r
+[2026-05-27 18:00:55] Неизвестный источник (marketbeat): VNET Group Q1 Earnings Call Highlights
+[2026-05-27 18:00:55] Неизвестный источник (prnewswire): AI-Enabled Cyberespionage Is a National 
+[2026-05-27 18:00:55] Неизвестный источник (financial post): Bank of Canada's interest rate path clou
+[2026-05-27 18:00:55] Неизвестный источник (globenewswire): MDOT Global Secures Multi-Five-Figure TE
+[2026-05-27 18:00:55] Неизвестный источник (plos.org): Neglected rickettsial diseases in Southe
+[2026-05-27 18:00:55] Неизвестный источник (plos.org): High-resolution automated mapping of pot
+[2026-05-27 18:00:55] Неизвестный источник (bitcoinfoundation.org): HYPE Hits All-Time High as Bitcoin Bleed
+[2026-05-27 18:00:55] Заблокированный источник (space daily): In October 1957, Sputnik 1 crossed the s
+[2026-05-27 18:00:55] Неизвестный источник (globenewswire): Cosmos Health Releases 2026–2029 Guidanc
+[2026-05-27 18:00:55] Неизвестный источник (the conversation africa): Pope Leo XIV compares AI to the Industri
+[2026-05-27 18:00:55] Неизвестный источник (globenewswire): Managed Services Market Set to Skyrocket
+[2026-05-27 18:00:55] Неизвестный источник (arxiv.org): Probabilistic Recurrent Intention Switch
+[2026-05-27 18:00:55] Неизвестный источник (prnewswire): 'AI Ready Ohio' Expands To Accelerate AI
+[2026-05-27 18:00:55] Неизвестный источник (siliconangle news): Novee debuts Agentic Fix, pushing pentes
+[2026-05-27 18:00:55] Неизвестный источник (siliconangle news): AppOmni launches Marlin AI to automate S
+[2026-05-27 18:00:55] Нет фото: All In FutureTech Alliance Inc. Announce
+[2026-05-27 18:00:55] Неизвестный источник (yahoo entertainment): Here’s Artisan Value Fund’s Insights on 
+[2026-05-27 18:00:55] AI новости: найдено 4 после фильтрации
+[2026-05-27 18:00:58] Обрабатываю: Putting Roots on Appian Way
+[2026-05-27 18:00:58] Попытка 1 для: Putting Roots on Appian Way
+[2026-05-27 18:00:59] Успешно, получено 562 символов
+[2026-05-27 18:00:59] Пауза 60 секунд...
+[2026-05-27 18:01:59] Обрабатываю: Report claims AI boom could keep Australia using coal and ga
+[2026-05-27 18:01:59] Попытка 1 для: Report claims AI boom could keep Austral
+[2026-05-27 18:02:00] Успешно, получено 732 символов
+[2026-05-27 18:02:00] Пауза 60 секунд...
+[2026-05-27 18:03:00] Обрабатываю: AI-powered spectrometer chip shrinks lab technology to the s
+[2026-05-27 18:03:00] Попытка 1 для: AI-powered spectrometer chip shrinks lab
+[2026-05-27 18:03:01] Успешно, получено 694 символов
+[2026-05-27 18:03:02] === Блок ai_evening завершён ===
