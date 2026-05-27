@@ -18192,3 +18192,52 @@ U.S. has violated ceasefire agr
 [2026-05-27 06:05:11] Попытка 1 для: As Ukraine gains advantage, Russia strik
 [2026-05-27 06:05:12] Успешно, получено 645 символов
 [2026-05-27 06:05:12] === Блок morning завершён ===
+[2026-05-27 08:01:05] Загружено 1377 уже отправленных новостей
+[2026-05-27 08:01:05] === Запуск блока: ai_morning ===
+[2026-05-27 08:01:05] Неизвестный источник (pymnts.com): The Next-Gen Commerce Playbook: Turning 
+[2026-05-27 08:01:05] Неизвестный источник (globenewswire): Canada must scale what it creates: BDC’s
+[2026-05-27 08:01:05] Нет фото: Aluminum Heads for Four-Year High on Fea
+[2026-05-27 08:01:05] Неизвестный источник (financial post): Poland’s Poznan University of Technology
+[2026-05-27 08:01:05] Нет фото: S. Korea to Deploy Locally Built Nuclear
+[2026-05-27 08:01:05] Неизвестный источник (motley fool australia): 2 ASX tech shares that could survive the
+[2026-05-27 08:01:05] Неизвестный источник (siliconangle news): Detectify debuts MCP server to let AI ag
+[2026-05-27 08:01:05] Неизвестный источник (globenewswire): DÉKUPLE Group: Q1 2026 business review
+[2026-05-27 08:01:05] Неизвестный источник (insurance journal): San Francisco Turns to AI to Avoid Colli
+[2026-05-27 08:01:05] Неизвестный источник (financial post): Infratil CEO Sees ‘Latent Potential’ for
+[2026-05-27 08:01:05] Нет фото: Notes on Pope Leo XIV's Encyclical on AI
+[2026-05-27 08:01:05] Неизвестный источник (bleeding cool news): Capes #7 Preview: Bolt's Big Mistake Cou
+[2026-05-27 08:01:05] Неизвестный источник (motley fool australia): Down 40%+! I'd buy CSL and these ASX sha
+[2026-05-27 08:01:05] Неизвестный источник (theregister.com): Pope Leo warns AI boom can give Big Tech
+[2026-05-27 08:01:05] Неизвестный источник (financial post): TSMC’s Relentless Rise Powers Taiwan’s M
+[2026-05-27 08:01:05] Нет фото: geoai-py 0.39.4
+[2026-05-27 08:01:05] Неизвестный источник (the conversation africa): Pope Leo warns of AI’s risks to humanity
+[2026-05-27 08:01:05] Неизвестный источник (siliconangle news): China’s Huawei unveils new sanctions-bus
+[2026-05-27 08:01:05] Неизвестный источник (siliconangle news): EU reportedly plans to fine Google over 
+[2026-05-27 08:01:05] Неизвестный источник (royal society of chemistry): Optimization of ultrasound-assisted extr
+[2026-05-27 08:01:05] Неизвестный источник (frontiersin.org): Frontiers | Analytical validation of Smi
+[2026-05-27 08:01:05] Неизвестный источник (daily hive): Huge protest against Vancouver AI data c
+[2026-05-27 08:01:05] Неизвестный источник (siliconangle news): Pope Leo XIV highlights AI risks in firs
+[2026-05-27 08:01:05] Неизвестный источник (bleeding cool news): Star Wars: The High Republic Adventures–
+[2026-05-27 08:01:05] Неизвестный источник (itnews): The new topography for cybersecurity
+[2026-05-27 08:01:05] Неизвестный источник (siliconangle news): The inverted geometry: Tracking the ente
+[2026-05-27 08:01:05] Неизвестный источник (ericgoldman.org): Ninth Circuit Panel Goes Out of Its Way 
+[2026-05-27 08:01:05] Нет фото: WCB Workers Sound Alarm on Rising Worklo
+[2026-05-27 08:01:05] Неизвестный источник (coindesk): NEAR price rally gains momentum as cross
+[2026-05-27 08:01:05] Неизвестный источник (kqed): Can New Cameras Save the Gray Whales in 
+[2026-05-27 08:01:05] Неизвестный источник (prnewswire): Ascension to Publish Special Edition of 
+[2026-05-27 08:01:05] Неизвестный источник (financial post): Why the Bank of Canada won't rush to cut
+[2026-05-27 08:01:05] Неизвестный источник (prnewswire): Harvard-Westlake, Dalton, and Horace Man
+[2026-05-27 08:01:05] Неизвестный источник (globenewswire): Lawful Interception Market Surges to $24
+[2026-05-27 08:01:05] Неизвестный источник (internet): ⚡ Weekly Recap: Linux Flaws, Defender 0-
+[2026-05-27 08:01:05] Неизвестный источник (globenewswire): Rugged Server Market Expected to Reach U
+[2026-05-27 08:01:05] Неизвестный источник (financial post): Yanik Guillemette Warns Bill C-22 Could 
+[2026-05-27 08:01:05] Неизвестный источник (prnewswire): Expert.ai and Fincons Group Join Forces 
+[2026-05-27 08:01:05] AI новости: найдено 2 после фильтрации
+[2026-05-27 08:01:08] Обрабатываю: Odina Industries Set for Growth After Avetta Helps Reduce Co
+[2026-05-27 08:01:08] Попытка 1 для: Odina Industries Set for Growth After Av
+[2026-05-27 08:01:09] Успешно, получено 1017 символов
+[2026-05-27 08:01:09] Пауза 60 секунд...
+[2026-05-27 08:02:09] Обрабатываю: Fetal monitoring for high-risk pregnancies using a wearable 
+[2026-05-27 08:02:09] Попытка 1 для: Fetal monitoring for high-risk pregnanci
+[2026-05-27 08:02:10] Успешно, получено 487 символов
+[2026-05-27 08:02:11] === Блок ai_morning завершён ===
