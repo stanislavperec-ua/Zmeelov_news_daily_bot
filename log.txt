@@ -18241,3 +18241,39 @@ U.S. has violated ceasefire agr
 [2026-05-27 08:02:09] Попытка 1 для: Fetal monitoring for high-risk pregnanci
 [2026-05-27 08:02:10] Успешно, получено 487 символов
 [2026-05-27 08:02:11] === Блок ai_morning завершён ===
+[2026-05-27 11:01:00] Загружено 1379 уже отправленных новостей
+[2026-05-27 11:01:00] === Запуск блока: midday ===
+[2026-05-27 11:01:00] Неизвестный источник (billboard): BTS Wins Artist of the Year at 2026 Amer
+[2026-05-27 11:01:00] Неизвестный источник (france 24 english): Trump demands more countries sign Abraha
+[2026-05-27 11:01:00] Заблокированный источник (bleacher report): Tatsuya Imai, Astros Throw Combined No-H
+[2026-05-27 11:01:00] Неизвестный источник (on3.com): SEC commissioner Greg Sankey opens sprin
+[2026-05-27 11:01:00] Неизвестный источник (israelnationalnews.com): Canadian PM slams Ben Gvir video of Gaza
+[2026-05-27 11:01:00] Неизвестный источник (deadline): Box Office Global: 'Mandalorian & Grogu'
+[2026-05-27 11:01:00] Неизвестный источник (9to5mac): The Virtual OS Museum is a fantastic pro
+[2026-05-27 11:01:00] Неизвестный источник (hollywood reporter): ‘Euphoria’ Creator Explains Season 3’s “
+[2026-05-27 11:01:00] Неизвестный источник (videocardz.com): Intel Nova Lake Edge reportedly planned 
+[2026-05-27 11:01:00] Неизвестный источник (usa today): SpaceX launches rocket from Cape Canaver
+[2026-05-27 11:01:00] Неизвестный источник (notebookcheck.net): iPhone 18 Pro: Leaked video, case images
+[2026-05-27 11:01:00] Старая новость (2026-05-25T09:00:00Z): A Probe Took Incredible Pictures of Mars
+[2026-05-27 11:01:00] Старая новость (2026-05-25T07:00:00Z): See A Rare ‘Blue Moon’ Rise After Sunset
+[2026-05-27 11:01:00] Старая новость (2026-05-24T19:00:46Z): What to know about sepsis, the dangerous
+[2026-05-27 11:01:00] Старая новость (2026-05-24T15:28:39Z): Americans exposed to hantavirus on ship 
+[2026-05-27 11:01:00] Старая новость (2026-05-24T13:38:00Z): Winning Powerball numbers for Saturday, 
+[2026-05-27 11:01:00] Старая новость (2026-05-24T12:01:00Z): The Atlantic Ocean Was Hiding a Massive 
+[2026-05-27 11:01:00] Мировые новости: найдено 11 после фильтрации
+[2026-05-27 11:01:03] Обрабатываю: U.S. renews strikes on Iran, citing threats posed to America
+[2026-05-27 11:01:03] Попытка 1 для: U.S. renews strikes on Iran, citing thre
+[2026-05-27 11:01:04] Успешно, получено 696 символов
+[2026-05-27 11:01:04] Пауза 60 секунд...
+[2026-05-27 11:02:04] Обрабатываю: Doctor evacuated from Congo is ‘helpless’ watching colleague
+[2026-05-27 11:02:04] Попытка 1 для: Doctor evacuated from Congo is ‘helpless
+[2026-05-27 11:02:05] Успешно, получено 569 символов
+[2026-05-27 11:02:06] Пауза 60 секунд...
+[2026-05-27 11:03:06] Обрабатываю: China Expands Travel Curbs to Top AI Talent at Private Firms
+[2026-05-27 11:03:06] Попытка 1 для: China Expands Travel Curbs to Top AI Tal
+[2026-05-27 11:03:07] Успешно, получено 903 символов
+[2026-05-27 11:03:07] Пауза 60 секунд...
+[2026-05-27 11:04:07] Обрабатываю: DRC is no stranger to Ebola outbreaks. Why isn’t there a vac
+[2026-05-27 11:04:07] Попытка 1 для: DRC is no stranger to Ebola outbreaks. W
+[2026-05-27 11:04:08] Успешно, получено 696 символов
+[2026-05-27 11:04:09] === Блок midday завершён ===
