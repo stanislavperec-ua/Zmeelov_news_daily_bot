@@ -18479,3 +18479,37 @@ U.S. has violated ceasefire agr
 [2026-05-28 08:03:03] Попытка 1 для: Sparse-to-dense coding transformation be
 [2026-05-28 08:03:04] Успешно, получено 827 символов
 [2026-05-28 08:03:05] === Блок ai_morning завершён ===
+[2026-05-28 11:00:57] Загружено 1400 уже отправленных новостей
+[2026-05-28 11:00:57] === Запуск блока: midday ===
+[2026-05-28 11:00:57] Неизвестный источник (cnbc): Stock futures are little changed after t
+[2026-05-28 11:00:57] Неизвестный источник (opb news): Corrosive chemicals hamper recovery effo
+[2026-05-28 11:00:57] Неизвестный источник (hollywood reporter): Kevin Hart Addresses Backlash to Tony Hi
+[2026-05-28 11:00:57] Неизвестный источник (the texas tribune): Christian Menefee defeats longtime Houst
+[2026-05-28 11:00:57] Неизвестный источник (hollywood reporter): ‘Star Wars: The Mandalorian and Grogu’ O
+[2026-05-28 11:00:57] Неизвестный источник (europa.eu): Ebola disease outbreak in the Democratic
+[2026-05-28 11:00:57] Неизвестный источник (9to5mac): Apple working on iPhone anti-snatching f
+[2026-05-28 11:00:57] Неизвестный источник (espn): NBA playoffs 2026: Top moments as Thunde
+[2026-05-28 11:00:57] Неизвестный источник (nj.com): A hunger strike, protests and a pepper-s
+[2026-05-28 11:00:57] Неизвестный источник (phys.org): Astrophysicists strike black gold with t
+[2026-05-28 11:00:57] Неизвестный источник (billboard): Jimin Edits BTS’ AMAs Artist of the Year
+[2026-05-28 11:00:57] Неизвестный источник (macrumors): Apple Seeds First iOS 26.6 and iPadOS 26
+[2026-05-28 11:00:57] Неизвестный источник (discoverwildlife.com): Bizarre ‘witch croc’ that looks just lik
+[2026-05-28 11:00:57] Старая новость (2026-05-25T19:58:53Z): Ebola Death Toll Rises To 220, Officials
+[2026-05-28 11:00:57] Старая новость (2026-05-25T15:00:00Z): What is the blue-white star next to the 
+[2026-05-28 11:00:57] Мировые новости: найдено 14 после фильтрации
+[2026-05-28 11:01:00] Обрабатываю: Texas GOP voters oust Cornyn in Paxton upset
+[2026-05-28 11:01:00] Попытка 1 для: Texas GOP voters oust Cornyn in Paxton u
+[2026-05-28 11:01:01] Успешно, получено 643 символов
+[2026-05-28 11:01:01] Пауза 60 секунд...
+[2026-05-28 11:02:01] Обрабатываю: Biden sues DOJ to stop release of audio and transcripts tied
+[2026-05-28 11:02:01] Попытка 1 для: Biden sues DOJ to stop release of audio 
+[2026-05-28 11:02:02] Успешно, получено 584 символов
+[2026-05-28 11:02:03] Пауза 60 секунд...
+[2026-05-28 11:03:03] Обрабатываю: Dozens killed in Lebanon as Israel intensifies strikes
+[2026-05-28 11:03:03] Попытка 1 для: Dozens killed in Lebanon as Israel inten
+[2026-05-28 11:03:04] Успешно, получено 766 символов
+[2026-05-28 11:03:04] Пауза 60 секунд...
+[2026-05-28 11:04:04] Обрабатываю: Trump gathers Cabinet as he looks to seal deal to end war th
+[2026-05-28 11:04:04] Попытка 1 для: Trump gathers Cabinet as he looks to sea
+[2026-05-28 11:04:05] Успешно, получено 787 символов
+[2026-05-28 11:04:06] === Блок midday завершён ===
