@@ -18431,3 +18431,51 @@ U.S. has violated ceasefire agr
 [2026-05-28 06:05:12] Попытка 1 для: How an obscure EV tax accidentally cost 
 [2026-05-28 06:05:13] Успешно, получено 1004 символов
 [2026-05-28 06:05:13] === Блок morning завершён ===
+[2026-05-28 08:00:57] Загружено 1397 уже отправленных новостей
+[2026-05-28 08:00:57] === Запуск блока: ai_morning ===
+[2026-05-28 08:00:58] Неизвестный источник (pymnts.com): The Clearing House Says Payments Innovat
+[2026-05-28 08:00:58] Неизвестный источник (protothema.gr): 7th ygeiamou Conference in the presence 
+[2026-05-28 08:00:58] Неизвестный источник (inside higher ed): Before Deploying AI in Admissions, Ask W
+[2026-05-28 08:00:58] Неизвестный источник (livemint): SBI says AI-driven banking still needs p
+[2026-05-28 08:00:58] Заблокированный источник (sputnikglobe.com): Ukraine Has Become NATO’s Real-World Lab
+[2026-05-28 08:00:58] Неизвестный источник (restofworld.org): The Filipino virtual assistants running 
+[2026-05-28 08:00:58] Нет фото: aix 0.0.27
+[2026-05-28 08:00:58] Нет фото: Chief of communications intel agency say
+[2026-05-28 08:00:58] Неизвестный источник (financial post): Global Aluminum Rally Could Draw Record 
+[2026-05-28 08:00:58] Неизвестный источник (globenewswire): DMG Blockchain Solutions Reports Second 
+[2026-05-28 08:00:58] Нет фото: Asian shares are mostly higher, tracking
+[2026-05-28 08:00:58] Неизвестный источник (computerweekly.com): UKtech50 2026: Vote for the most influen
+[2026-05-28 08:00:58] Неизвестный источник (bleeding cool news): Fireborn #2 Preview: Aaron's Egg-cellent
+[2026-05-28 08:00:58] Нет фото: China’s Industrial Profits Surge at Fast
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): Micron and SK Hynix surpass $1 trillion 
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): AI training data provider Human Archive 
+[2026-05-28 08:00:58] Неизвестный источник (power line): Who’s Behind the War on Data Centers?
+[2026-05-28 08:00:58] Неизвестный источник (pymnts.com): Agentic Commerce May Force New Focus on 
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): Box barely beats the Street’s expectatio
+[2026-05-28 08:00:58] Неизвестный источник (bleeding cool news): Hyde Street #12 Preview: Butchering the 
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): Logistics startup Stord raises $250M at 
+[2026-05-28 08:00:58] Нет фото: UK Spy Chief Warns China Is Closing Cybe
+[2026-05-28 08:00:58] Неизвестный источник (4sysops.com): AI features in Microsoft SQL Server 2025
+[2026-05-28 08:00:58] Неизвестный источник (forbes): Why Recovery Culture Suddenly Seems Ever
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): Zscaler tops estimates and lifts guidanc
+[2026-05-28 08:00:58] Заблокированный источник (breitbart news): Report: Pentagon Clashes with Elon Musk'
+[2026-05-28 08:00:58] Нет фото: Pentagon spars with SpaceX over Starlink
+[2026-05-28 08:00:58] Неизвестный источник (decrypt): Someone Just Destroyed $8.2 Million in B
+[2026-05-28 08:00:58] Неизвестный источник (financial post): Bank of Korea Seen Favoring Hawkish Hold
+[2026-05-28 08:00:58] Неизвестный источник (siliconangle news): Rambus targets agentic AI workloads with
+[2026-05-28 08:00:58] Нет фото: SOLV Energy Announces Launch of Public O
+[2026-05-28 08:00:58] Неизвестный источник (globenewswire): Pasqal and Bleichroeder Acquisition Corp
+[2026-05-28 08:00:58] Неизвестный источник (vanity fair): Who Is Christopher Olah, the Anthropic C
+[2026-05-28 08:00:58] AI новости: найдено 7 после фильтрации
+[2026-05-28 08:01:00] Обрабатываю: Pentagon denies reports of clash with SpaceX over Starlink p
+[2026-05-28 08:01:00] Попытка 1 для: Pentagon denies reports of clash with Sp
+[2026-05-28 08:01:01] Успешно, получено 627 символов
+[2026-05-28 08:01:02] Пауза 60 секунд...
+[2026-05-28 08:02:02] Обрабатываю: Nokia’s 140% Rally: AI infrastructure powers a historic come
+[2026-05-28 08:02:02] Попытка 1 для: Nokia’s 140% Rally: AI infrastructure po
+[2026-05-28 08:02:03] Успешно, получено 801 символов
+[2026-05-28 08:02:03] Пауза 60 секунд...
+[2026-05-28 08:03:03] Обрабатываю: Sparse-to-dense coding transformation between hippocampal ar
+[2026-05-28 08:03:03] Попытка 1 для: Sparse-to-dense coding transformation be
+[2026-05-28 08:03:04] Успешно, получено 827 символов
+[2026-05-28 08:03:05] === Блок ai_morning завершён ===
