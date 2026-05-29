@@ -18673,3 +18673,49 @@ U.S. has violated ceasefire agr
 [2026-05-29 06:04:02] Попытка 1 для: Google engineer charged with insider tra
 [2026-05-29 06:04:03] Успешно, получено 588 символов
 [2026-05-29 06:04:03] === Блок morning завершён ===
+[2026-05-29 08:00:55] Загружено 1417 уже отправленных новостей
+[2026-05-29 08:00:55] === Запуск блока: ai_morning ===
+[2026-05-29 08:00:55] Нет фото: aait 4.0.1
+[2026-05-29 08:00:55] Неизвестный источник (gossiplankanews.com): Apparently, America's Trump cannot even 
+[2026-05-29 08:00:55] Неизвестный источник (financial post): Record Spend on Data Centers Drives Aust
+[2026-05-29 08:00:55] Нет фото: One Tech Tip: Your next job interview co
+[2026-05-29 08:00:55] Неизвестный источник (rand.org): Investigating the potential use of front
+[2026-05-29 08:00:55] Неизвестный источник (businessline): Q4 Results Today Live: Ashok Leyland, Al
+[2026-05-29 08:00:55] Нет фото: deep-learning-toolkit 0.4.0
+[2026-05-29 08:00:55] Неизвестный источник (onefootball.com): The truth behind it: why Martinoli avoid
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Nutanix’s stock inches up on solid earni
+[2026-05-29 08:00:55] Неизвестный источник (pymnts.com): United Texas Bank Becomes Nationally Cha
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Salesforce crushes Wall Street’s targets
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Marvell, Synopsys close lower despite ex
+[2026-05-29 08:00:55] Неизвестный источник (rolling stone): Kanye Label Boss Sues to Unmask Anonymou
+[2026-05-29 08:00:55] Неизвестный источник (cna): From displacement to re-employment: Guid
+[2026-05-29 08:00:55] Неизвестный источник (livemint): PhysicsWallah reins in K-12 ambitions as
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Snowflake’s stock surges after-hours on 
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Vibe coding startup Cognition more than 
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Robinhood opens its platform to AI agent
+[2026-05-29 08:00:55] Неизвестный источник (yahoo entertainment): Stock market today: Dow drops, S&P 500 a
+[2026-05-29 08:00:55] Неизвестный источник (techechelon.com): Amazon Health Chief Neil Lindsay to Step
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): Everpure beats on revenue and earnings b
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): HP beats on Q2 earnings and revenue as c
+[2026-05-29 08:00:55] Неизвестный источник (retractionwatch.com): A researcher’s unusually high h-index gi
+[2026-05-29 08:00:55] Неизвестный источник (pymnts.com): LinkedIn Is Done Hosting Content Nobody 
+[2026-05-29 08:00:55] Нет фото: AI chiefs walk back job apocalypse warni
+[2026-05-29 08:00:55] Неизвестный источник (computerweekly.com): StarHub to trial SIM-based IDs for gover
+[2026-05-29 08:00:55] Неизвестный источник (forbes): Meet The Doctor-Turned-Entrepreneur Usin
+[2026-05-29 08:00:55] Неизвестный источник (siliconangle news): AWS launches AWS Agentic Shopping Assist
+[2026-05-29 08:00:55] Нет фото: Perella Weinberg to Cut 10% of Workforce
+[2026-05-29 08:00:55] Неизвестный источник (pypi.org): nlproxy added to PyPI
+[2026-05-29 08:00:55] Нет фото: Fed’s Cook Prepared to Raise Rates If In
+[2026-05-29 08:00:55] Неизвестный источник (globenewswire): HP Inc. Reports Fiscal 2026 Second Quart
+[2026-05-29 08:00:55] Неизвестный источник (financial post): Snowflake Reports Financial Results for 
+[2026-05-29 08:00:55] Неизвестный источник (federalreserve.gov): Cook, The Opportunities and Risks AI Pre
+[2026-05-29 08:00:55] Неизвестный источник (wnd.com): Handful of Republicans joining Dems to s
+[2026-05-29 08:00:55] Неизвестный источник (github.com): Deterministic Hydrodynamic Quantum Engin
+[2026-05-29 08:00:55] Неизвестный источник (financial post): Copper’s Giant Tariff Trade Is Back and 
+[2026-05-29 08:00:55] Неизвестный источник (coindesk): Wall Street gets new crypto rival after 
+[2026-05-29 08:00:55] Заблокированный источник (breitbart news): Hayward: Pope Leo’s ‘Magnifica Humanitas
+[2026-05-29 08:00:55] AI новости: найдено 1 после фильтрации
+[2026-05-29 08:00:58] Обрабатываю: AI chiefs walk back job apocalypse warnings
+[2026-05-29 08:00:58] Попытка 1 для: AI chiefs walk back job apocalypse warni
+[2026-05-29 08:01:00] Успешно, получено 870 символов
+[2026-05-29 08:01:00] === Блок ai_morning завершён ===
