@@ -18922,3 +18922,49 @@ U.S. has violated ceasefire agr
 [2026-05-30 06:06:15] Попытка 1 для: Russia's new tactic to get past Ukrainia
 [2026-05-30 06:06:16] Успешно, получено 527 символов
 [2026-05-30 06:06:16] === Блок morning завершён ===
+[2026-05-30 08:00:54] Загружено 1436 уже отправленных новостей
+[2026-05-30 08:00:54] === Запуск блока: ai_morning ===
+[2026-05-30 08:00:54] Неизвестный источник (pymnts.com): Banks Face Pressure to Modernize Payment
+[2026-05-30 08:00:54] Неизвестный источник (antaranews.com): Indonesia, China Hebei Province deepen s
+[2026-05-30 08:00:54] Неизвестный источник (computerweekly.com): Channel catch-up: News in brief
+[2026-05-30 08:00:54] Неизвестный источник (securelist.com): What’s in the container? Analyzing vulne
+[2026-05-30 08:00:54] Неизвестный источник (prnewswire): Creality 3D Successfully Listed in Hong 
+[2026-05-30 08:00:54] Неизвестный источник (prnewswire): Creality 3D Successfully Listed in Hong 
+[2026-05-30 08:00:54] Неизвестный источник (insurance journal): Tesla Reveals Its Texas Robotaxi Fleet I
+[2026-05-30 08:00:54] Неизвестный источник (computerweekly.com): Five-minute interview: Jon Lingard, New 
+[2026-05-30 08:00:54] Заблокированный источник (naturalnews.com): Aluminum Skyrockets to Four-Year High as
+[2026-05-30 08:00:54] Заблокированный источник (naturalnews.com): New Book Details Blueprint for Decentral
+[2026-05-30 08:00:54] Неизвестный источник (businessline): Reliance bets big on AI to drive next ph
+[2026-05-30 08:00:54] Неизвестный источник (financial post): Jupiter Fund Taps Europe’s AI Energy Boo
+[2026-05-30 08:00:54] Неизвестный источник (financial post): Australia Data-Center Boom May Keep Rate
+[2026-05-30 08:00:54] Нет фото: Does JD Vance Have to Choose Between Pop
+[2026-05-30 08:00:54] Неизвестный источник (prnewswire): Business leaders hail nation's intellige
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): CNN sues Perplexity alleging ‘massive’ c
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): MongoDB posts stellar earnings and reven
+[2026-05-30 08:00:54] Неизвестный источник (globenewswire): India Military EO/IR Market Worth $1.78 
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): Agentic AI success helps UiPath swing to
+[2026-05-30 08:00:54] Неизвестный источник (pypi.org): ragrank-cr added to PyPI
+[2026-05-30 08:00:54] Неизвестный источник (cnet): Perplexity AI Says 'You Can't Copyright 
+[2026-05-30 08:00:54] Нет фото: SOLV Energy Announces Pricing of Upsized
+[2026-05-30 08:00:54] Неизвестный источник (nlppeople.com): Senior Machine Learning Engineer (Team L
+[2026-05-30 08:00:54] Нет фото: VeNet: a lightweight neural network for 
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): AI server demand drives rampant revenue 
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): AI server demand drives staggering reven
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): Asana acquires StackAI to run AI agent w
+[2026-05-30 08:00:54] Неизвестный источник (prnewswire): MUNICIPAL DATA & POWER (MDP) TO LAUNCH N
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): Okta tops estimates and raises outlook a
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): Autodesk to acquire MaintainX for $3.6 b
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): Three insights you might have missed fro
+[2026-05-30 08:00:54] Неизвестный источник (wealthmanagement.com): Schwab’s Beatty Says Expanding Wealth Ad
+[2026-05-30 08:00:54] Неизвестный источник (wattsupwiththat.com): No, Climate Central, Summer Warming Isn’
+[2026-05-30 08:00:54] Неизвестный источник (prnewsonline.com): PR Roundup: When AI Fakes the Experts, L
+[2026-05-30 08:00:54] Нет фото: Chinese Use Electronic Warfare Attacks o
+[2026-05-30 08:00:54] Неизвестный источник (zycrypto): Hoffman: I Sold My ETH Because Ethereum 
+[2026-05-30 08:00:54] Нет фото: Heritage Announces Full Placement of 202
+[2026-05-30 08:00:54] Нет фото: Solar Company Nextpower Eyes AI’s Power 
+[2026-05-30 08:00:54] Неизвестный источник (siliconangle news): IBM, Red Hat launch $5B Project Lightwel
+[2026-05-30 08:00:54] AI новости: найдено 1 после фильтрации
+[2026-05-30 08:00:56] Обрабатываю: Hollywood, Bollywood and AI: Who controls storytelling now?
+[2026-05-30 08:00:56] Попытка 1 для: Hollywood, Bollywood and AI: Who control
+[2026-05-30 08:00:57] Успешно, получено 737 символов
+[2026-05-30 08:00:58] === Блок ai_morning завершён ===
