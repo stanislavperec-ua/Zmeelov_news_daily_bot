@@ -19317,3 +19317,42 @@ U.S. has violated ceasefire agr
 [2026-05-31 16:05:04] Попытка 1 для: Ukraine's Oliynykova calls out Russian p
 [2026-05-31 16:05:05] Успешно, получено 733 символов
 [2026-05-31 16:05:05] === Блок evening завершён ===
+[2026-05-31 18:00:53] Загружено 1465 уже отправленных новостей
+[2026-05-31 18:00:53] === Запуск блока: ai_evening ===
+[2026-05-31 18:00:53] Неизвестный источник (comicbook.com): 5 Incredible Sci-Fi Series Over 5 Season
+[2026-05-31 18:00:53] Неизвестный источник (advfn.com): Tesla’s Next Act? Wall Street Begins Wei
+[2026-05-31 18:00:53] Заблокированный источник (breitbart news): Elon Musk Creates Confusion over Anthrop
+[2026-05-31 18:00:53] Неизвестный источник (financial post): Fed’s Williams Quips Economist Jobs Are 
+[2026-05-31 18:00:53] Заблокированный источник (barchart.com): The SpaceX IPO Is a Bet That Retail Inve
+[2026-05-31 18:00:53] Неизвестный источник (protothema.gr): Fare evasion fines on Athens public tran
+[2026-05-31 18:00:53] Неизвестный источник (daily signal): US Gov Wants to Curb Foreign AI Reliance
+[2026-05-31 18:00:53] Неизвестный источник (bleeding cool news): Cyclops #5 Preview: The Blind Leading th
+[2026-05-31 18:00:53] Неизвестный источник (techradar): ‘The very rapid development of AI/ML wil
+[2026-05-31 18:00:53] Неизвестный источник (cnbc): Meta has struggled at selling anything o
+[2026-05-31 18:00:53] Неизвестный источник (fortune): Two popes, two industrial revolutions — 
+[2026-05-31 18:00:53] Неизвестный источник (theblaze): Glenn Beck: Today’s tech could make Hitl
+[2026-05-31 18:00:53] Неизвестный источник (marketbeat): Henry Schein Sees Steady Dental Demand, 
+[2026-05-31 18:00:53] Неизвестный источник (pymnts.com): The CEO Job Is Easy. Just Ask a CEO.
+[2026-05-31 18:00:53] Заблокированный источник (naturalnews.com): The Void Age Bootstrap Protocol: How dar
+[2026-05-31 18:00:53] Неизвестный источник (rte): Canaries in the coal mine? How AI could 
+[2026-05-31 18:00:53] Нет фото: AI helped a musician with Parkinson’s fi
+[2026-05-31 18:00:53] Неизвестный источник (newsfilecorp.com): Maverick Gold and Silver Launches AGORAC
+[2026-05-31 18:00:53] Неизвестный источник (werd.io): Notable links: May 29, 2026
+[2026-05-31 18:00:53] Неизвестный источник (bleeding cool news): Absolute Green Lantern #15 Preview: Jo's
+[2026-05-31 18:00:53] Неизвестный источник (livemint): Peter Thiel not the only billionaire: Bu
+[2026-05-31 18:00:53] Неизвестный источник (siliconangle news): From resilience to survivability: How AI
+[2026-05-31 18:00:53] Нет фото: CLPS Incorporation Receives Nasdaq Notif
+[2026-05-31 18:00:53] Неизвестный источник (collider.com): This 26-Episode Sci-Fi Hidden Gem Is So 
+[2026-05-31 18:00:53] Неизвестный источник (siliconangle news): XCENA raises $135M for its computational
+[2026-05-31 18:00:53] Неизвестный источник (nextgov): What DOGE taught us about AI and federal
+[2026-05-31 18:00:53] Неизвестный источник (ubergizmo): CNN Files Copyright Infringement Lawsuit
+[2026-05-31 18:00:53] Нет фото: Show HN: Simple news aggregator with sou
+[2026-05-31 18:00:53] AI новости: найдено 2 после фильтрации
+[2026-05-31 18:00:56] Обрабатываю: Zara posts weakest performance in India since pandemic, net 
+[2026-05-31 18:00:56] Попытка 1 для: Zara posts weakest performance in India 
+[2026-05-31 18:00:57] Успешно, получено 569 символов
+[2026-05-31 18:00:57] Пауза 60 секунд...
+[2026-05-31 18:01:57] Обрабатываю: So you've heard these AI terms and nodded along; let's fix t
+[2026-05-31 18:01:57] Попытка 1 для: So you've heard these AI terms and nodde
+[2026-05-31 18:01:58] Успешно, получено 548 символов
+[2026-05-31 18:01:59] === Блок ai_evening завершён ===
