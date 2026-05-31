@@ -19217,3 +19217,40 @@ U.S. has violated ceasefire agr
 [2026-05-31 08:01:01] Попытка 1 для: So you've heard these AI terms and nodde
 [2026-05-31 08:01:02] Успешно, получено 772 символов
 [2026-05-31 08:01:02] === Блок ai_morning завершён ===
+[2026-05-31 11:00:53] Загружено 1455 уже отправленных новостей
+[2026-05-31 11:00:53] === Запуск блока: midday ===
+[2026-05-31 11:00:54] Неизвестный источник (ncaa.com): NCAA baseball regionals: Live updates, s
+[2026-05-31 11:00:54] Неизвестный источник (variety): Bill Maher Brutally Mocks Trump’s Disast
+[2026-05-31 11:00:54] Неизвестный источник (kabc-tv): New poll in California governor's race s
+[2026-05-31 11:00:54] Пропускаю уже отправленную: Fears of travel chaos flare as Mullin weighs pulli
+[2026-05-31 11:00:54] Неизвестный источник (pbs): Bus crashes into cars on Virginia inters
+[2026-05-31 11:00:54] Неизвестный источник (showsnob.com): We've got some bad news about Euphoria s
+[2026-05-31 11:00:54] Неизвестный источник (nbcsports.com): Thunder’s Jalen Williams officially rule
+[2026-05-31 11:00:54] Неизвестный источник (macrumors): DuckDuckGo's 'No AI' Search Traffic Clim
+[2026-05-31 11:00:54] Неизвестный источник (thestreet): Anthropic drops new Claude model as Open
+[2026-05-31 11:00:54] Неизвестный источник (the official website of the ultimate fighting championship): Official Weigh-In Results | UFC Macau - 
+[2026-05-31 11:00:54] Неизвестный источник (gizmodo.com): Emilia Clarke Doesn’t Regret Her Franchi
+[2026-05-31 11:00:54] Неизвестный источник (space.com): SpaceX sends 29 Starlink satellites into
+[2026-05-31 11:00:54] Неизвестный источник (space daily): NASA's next major space telescope, the N
+[2026-05-31 11:00:54] Неизвестный источник (sammobile): One UI 9 Watch beta may be around the co
+[2026-05-31 11:00:54] Старая новость (2026-05-29T10:00:00Z): Architects will "cringe a bit" at design
+[2026-05-31 11:00:54] Старая новость (2026-05-29T09:00:12Z): Ebola and hantavirus outbreaks raise que
+[2026-05-31 11:00:54] Старая новость (2026-05-29T03:27:00Z): Hantavirus-exposed cruise passengers may
+[2026-05-31 11:00:54] Старая новость (2026-05-28T22:25:43Z): NASA’s X-59 Prepares for First Supersoni
+[2026-05-31 11:00:54] Мировые новости: найдено 9 после фильтрации
+[2026-05-31 11:00:56] Обрабатываю: Four more men freed from flooded Laos cave
+[2026-05-31 11:00:56] Попытка 1 для: Four more men freed from flooded Laos ca
+[2026-05-31 11:00:57] Успешно, получено 744 символов
+[2026-05-31 11:00:58] Пауза 60 секунд...
+[2026-05-31 11:01:58] Обрабатываю: Trump in excellent health after annual checkup, doctor says
+[2026-05-31 11:01:58] Попытка 1 для: Trump in excellent health after annual c
+[2026-05-31 11:01:59] Успешно, получено 681 символов
+[2026-05-31 11:01:59] Пауза 60 секунд...
+[2026-05-31 11:02:59] Обрабатываю: Pete Hegseth lauds better US ties with China
+[2026-05-31 11:02:59] Попытка 1 для: Pete Hegseth lauds better US ties with C
+[2026-05-31 11:03:00] Успешно, получено 1069 символов
+[2026-05-31 11:03:01] Пауза 60 секунд...
+[2026-05-31 11:04:01] Обрабатываю: Trump's name must be removed from Kennedy Center, judge orde
+[2026-05-31 11:04:01] Попытка 1 для: Trump's name must be removed from Kenned
+[2026-05-31 11:04:02] Успешно, получено 840 символов
+[2026-05-31 11:04:02] === Блок midday завершён ===
