@@ -19452,3 +19452,41 @@ U.S. has violated ceasefire agr
 [2026-06-01 08:01:02] Попытка 1 для: Zara posts weakest performance in India 
 [2026-06-01 08:01:03] Успешно, получено 728 символов
 [2026-06-01 08:01:03] === Блок ai_morning завершён ===
+[2026-06-01 11:00:58] Загружено 1472 уже отправленных новостей
+[2026-06-01 11:00:58] === Запуск блока: midday ===
+[2026-06-01 11:00:58] Неизвестный источник (windows central): "They will ruin my life": Microsoft thre
+[2026-06-01 11:00:58] Неизвестный источник (heat.com): Spurs' Victor Wembanyama named Western C
+[2026-06-01 11:00:58] Неизвестный источник (dw (english)): Meteor explodes over United States, trig
+[2026-06-01 11:00:58] Неизвестный источник (entertainment weekly): 'Alaskan Bush People' star Matt Brown de
+[2026-06-01 11:00:58] Неизвестный источник (france 24 english): Hundreds detained in Paris as clashes er
+[2026-06-01 11:00:58] Пропускаю уже отправленную: Trump’s Kennedy Center plans were blocked by a jud
+[2026-06-01 11:00:58] Заблокированный источник (bleacher report): Updated NBA Finals Ticket Prices for Spu
+[2026-06-01 11:00:58] Неизвестный источник (cnbc): Japan seeks candid dialog, defense minis
+[2026-06-01 11:00:58] Неизвестный источник (rolling stone): Donald Trump Offers to Perform at Freedo
+[2026-06-01 11:00:58] Неизвестный источник (nbcsports.com): President Trump attacks "jealous" critic
+[2026-06-01 11:00:58] Пропускаю уже отправленную: CWG Live updates: Beautiful with a bright moon ton
+[2026-06-01 11:00:58] Неизвестный источник (spacenews): Blue Origin gets national security launc
+[2026-06-01 11:00:58] Неизвестный источник (new york post): Rabid bat found in residential area trig
+[2026-06-01 11:00:58] Неизвестный источник (phys.org): Quantum light gives a 20-fold boost to u
+[2026-06-01 11:00:58] Старая новость (2026-05-30T08:46:26Z): Millions of breast cancer patients could
+[2026-06-01 11:00:58] Старая новость (2026-05-29T21:05:00Z): Kuo: Apple’s iPhone camera roadmap inclu
+[2026-06-01 11:00:58] Старая новость (2026-05-29T20:31:00Z): Stock Market Today: Dow Closes Above 51,
+[2026-06-01 11:00:58] Старая новость (2026-05-29T11:55:33Z): MSI unveils world’s first QD-OLED Triple
+[2026-06-01 11:00:58] Старая новость (2026-05-29T11:29:09Z): Hubble Captures M88 on Journey to Center
+[2026-06-01 11:00:58] Мировые новости: найдено 7 после фильтрации
+[2026-06-01 11:01:00] Обрабатываю: Israeli army captures strategic castle in Lebanon in deepest
+[2026-06-01 11:01:00] Попытка 1 для: Israeli army captures strategic castle i
+[2026-06-01 11:01:02] Успешно, получено 703 символов
+[2026-06-01 11:01:02] Пауза 60 секунд...
+[2026-06-01 11:02:02] Обрабатываю: Family headed to wedding among 5 killed in Virginia crash; b
+[2026-06-01 11:02:02] Попытка 1 для: Family headed to wedding among 5 killed 
+[2026-06-01 11:02:03] Успешно, получено 703 символов
+[2026-06-01 11:02:03] Пауза 60 секунд...
+[2026-06-01 11:03:03] Обрабатываю: Graham Platner’s wife says she’s ‘deeply hurt’ by public rev
+[2026-06-01 11:03:03] Попытка 1 для: Graham Platner’s wife says she’s ‘deeply
+[2026-06-01 11:03:05] Успешно, получено 855 символов
+[2026-06-01 11:03:05] Пауза 60 секунд...
+[2026-06-01 11:04:05] Обрабатываю: This weekend’s two biggest movies were both directed by YouT
+[2026-06-01 11:04:05] Попытка 1 для: This weekend’s two biggest movies were b
+[2026-06-01 11:04:06] Успешно, получено 939 символов
+[2026-06-01 11:04:07] === Блок midday завершён ===
