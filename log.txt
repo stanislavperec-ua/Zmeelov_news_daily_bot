@@ -19773,3 +19773,49 @@ U.S. has violated ceasefire agr
 [2026-06-02 16:05:24] Попытка 1 для: Ukrainian Tennis Player Oliynykova Deman
 [2026-06-02 16:05:25] Успешно, получено 836 символов
 [2026-06-02 16:05:26] === Блок evening завершён ===
+[2026-06-02 18:01:03] Загружено 1500 уже отправленных новостей
+[2026-06-02 18:01:03] === Запуск блока: ai_evening ===
+[2026-06-02 18:01:03] Неизвестный источник (cbc news): Draft federal AI strategy aims to scale 
+[2026-06-02 18:01:03] Неизвестный источник (prnewswire): Lockheed Martin Opens Next Generation In
+[2026-06-02 18:01:03] Неизвестный источник (siliconangle news): Mitel CX solves the sovereign cloud prob
+[2026-06-02 18:01:03] Нет фото: BECOMING THE UBER-PHOTOGRAPHER (AI E-BOO
+[2026-06-02 18:01:03] Неизвестный источник (financial post): Copper Gains With US Tariffs Deadline Le
+[2026-06-02 18:01:03] Неизвестный источник (cnbc): Florida AG sues OpenAI, seeks to hold CE
+[2026-06-02 18:01:03] Нет фото: MicroCloud Hologram Inc. Launches Custom
+[2026-06-02 18:01:03] Нет фото: Anthropic races toward a Wall Street deb
+[2026-06-02 18:01:03] Неизвестный источник (pymnts.com): Amazon and Google Face Tougher Cloud Rul
+[2026-06-02 18:01:03] Неизвестный источник (salon): Bari Weiss brings Trumpism to “60 Minute
+[2026-06-02 18:01:03] Нет фото: One More Line, Lots More Snacks: SunOpta
+[2026-06-02 18:01:03] Неизвестный источник (lifetechnology.com): Semaglutide and Tirzepatide: Obesity Tre
+[2026-06-02 18:01:03] Неизвестный источник (amazon.com): AgentOps: Operationalize agentic AI at s
+[2026-06-02 18:01:03] Неизвестный источник (financial post): Montréal Deploys Derq INSIGHT Across 100
+[2026-06-02 18:01:03] Неизвестный источник (24/7 wall st.): “Demand for Data Center Power Continues 
+[2026-06-02 18:01:03] Неизвестный источник (prnewswire): Kedrion Biopharma and InstaLILY Convene 
+[2026-06-02 18:01:03] Неизвестный источник (new atlas): VR system lets you walk your greenhouse 
+[2026-06-02 18:01:03] Неизвестный источник (globenewswire): Tactical Communication Market Projected 
+[2026-06-02 18:01:03] Неизвестный источник (businessline): Railways splintered into too many zones
+[2026-06-02 18:01:03] Неизвестный источник (hollywood reporter): Bluesky's Rose Wang Takes Aim at X and F
+[2026-06-02 18:01:03] Неизвестный источник (petapixel): Years in the Making, Glass Imaging Is De
+[2026-06-02 18:01:03] Неизвестный источник (globenewswire): Cellhub Debuts Cutting-Edge “Connected G
+[2026-06-02 18:01:03] Неизвестный источник (siliconangle news): On theCUBE Pod: Dell’s AI hardware busin
+[2026-06-02 18:01:03] Неизвестный источник (financial post): Dollar Opens Week Boosted by AI Enthusia
+[2026-06-02 18:01:03] Неизвестный источник (financial post): Copper Gains With US Tariffs Deadline Le
+[2026-06-02 18:01:03] Неизвестный источник (the intercept): Cops Are Spying on People Who Criticize 
+[2026-06-02 18:01:03] Неизвестный источник (financial post): Oil Jumps on Report Iran to Halt Exchang
+[2026-06-02 18:01:03] Неизвестный источник (globalresearch.ca): The Crisis of American Hegemony: Fascism
+[2026-06-02 18:01:03] Нет фото: Interactive Brokers Integrates AI into C
+[2026-06-02 18:01:03] Неизвестный источник (plos.org): On real-time calibrated prediction for c
+[2026-06-02 18:01:03] Неизвестный источник (plos.org): Bisphenol BPAF and BPC are agonists for 
+[2026-06-02 18:01:03] Неизвестный источник (plos.org): Proteome analysis refines molecular proc
+[2026-06-02 18:01:03] Неизвестный источник (plos.org): Residual-guided hybrid framework for adv
+[2026-06-02 18:01:03] Неизвестный источник (internet): ⚡ Weekly Recap: New Linux Flaw, PAN-OS E
+[2026-06-02 18:01:03] Нет фото: Apollo’s Slok Says AI Will Dash Warsh’s 
+[2026-06-02 18:01:03] Нет фото: deep-learning-toolkit 0.4.1
+[2026-06-02 18:01:03] Неизвестный источник (yahoo entertainment): Veeva Systems (VEEV) Unveils Falcon, An 
+[2026-06-02 18:01:03] Неизвестный источник (siliconangle news): Five thoughts from Nvidia CEO Jensen Hua
+[2026-06-02 18:01:03] Неизвестный источник (globenewswire): Polysilicon Market to Reach $94.41 Billi
+[2026-06-02 18:01:03] AI новости: найдено 1 после фильтрации
+[2026-06-02 18:01:06] Обрабатываю: Nokia Shares Rise Sharply 8.45% to 13.54 Euros on Robust 5G 
+[2026-06-02 18:01:06] Попытка 1 для: Nokia Shares Rise Sharply 8.45% to 13.54
+[2026-06-02 18:01:07] Успешно, получено 652 символов
+[2026-06-02 18:01:07] === Блок ai_evening завершён ===
