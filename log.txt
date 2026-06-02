@@ -19635,3 +19635,54 @@ U.S. has violated ceasefire agr
 [2026-06-02 06:05:11] Попытка 1 для: Ukrainian Drones Hit Russian Energy Site
 [2026-06-02 06:05:12] Успешно, получено 555 символов
 [2026-06-02 06:05:14] === Блок morning завершён ===
+[2026-06-02 08:01:05] Загружено 1487 уже отправленных новостей
+[2026-06-02 08:01:05] === Запуск блока: ai_morning ===
+[2026-06-02 08:01:06] Неизвестный источник (arxiv.org): The Neuromorphic Supremacy
+[2026-06-02 08:01:06] Неизвестный источник (globenewswire): Smartphones Market Worth USD 739.23 Bill
+[2026-06-02 08:01:06] Неизвестный источник (financial post): SoftBank Group Overtakes Toyota as Japan
+[2026-06-02 08:01:06] Неизвестный источник (financial post): SoftBank Overtakes Toyota as Japan’s Mos
+[2026-06-02 08:01:06] Неизвестный источник (cointelegraph): Sui Foundation says ‘major upgrade’ fixe
+[2026-06-02 08:01:06] Нет фото: DMG Blockchain Solutions Inc. Announces 
+[2026-06-02 08:01:06] Неизвестный источник (globenewswire): DMG Blockchain Solutions Inc. Announces 
+[2026-06-02 08:01:06] Неизвестный источник (hurriyet daily news): Istanbul Digital Art Festival to explore
+[2026-06-02 08:01:06] Неизвестный источник (c-sharpcorner.com): Why Apple's On-Device AI Approach Could 
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Stocks Hit Record on AI Rally, Oil Rises
+[2026-06-02 08:01:06] Неизвестный источник (c-sharpcorner.com): How On-Device AI Will Transform Desktop 
+[2026-06-02 08:01:06] Заблокированный источник (naturalnews.com): AI Bubble Alert: Why Nvidia and the Data
+[2026-06-02 08:01:06] Заблокированный источник (naturalnews.com): New defense bill would bind America to p
+[2026-06-02 08:01:06] Неизвестный источник (substack.com): continual learning: “systems to achieve 
+[2026-06-02 08:01:06] Неизвестный источник (the diplomat): Why Indonesia is Rebuilding Commodity Ov
+[2026-06-02 08:01:06] Неизвестный источник (siliconangle news): Nvidia gives developers the tool to buil
+[2026-06-02 08:01:06] Неизвестный источник (siliconangle news): Nvidia ramps up production of Vera Rubin
+[2026-06-02 08:01:06] Неизвестный источник (financial post): SoftBank Set to Become Japan’s Most Valu
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Stocks Hit Record on AI Rally, Oil Rises
+[2026-06-02 08:01:06] Неизвестный источник (financial post): AI Savings Misses ‘Should Be Making Exec
+[2026-06-02 08:01:06] Нет фото: Japan, South Korea stocks hit more recor
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Stocks Hit Record on AI Rally, Oil Rises
+[2026-06-02 08:01:06] Неизвестный источник (next big future): Will the US Golden Dome Be Golden for $5
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Stocks Hit Record on AI Rally, Oil Rises
+[2026-06-02 08:01:06] Неизвестный источник (financial post): China’s Private Factory Gauge Slows as E
+[2026-06-02 08:01:06] Неизвестный источник (siliconangle news): Intel touts 130-plus edge design wins fo
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Stocks Rise on AI, Oil Climbs as Iran De
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Oil, Dollar Climb With US-Iran Deal Stil
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Oil, Dollar Climb With US-Iran Deal Stil
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Oil Climbs, Dollar Strengthens With No I
+[2026-06-02 08:01:06] Неизвестный источник (royal society of chemistry): Straightforward synthesis of Solomon-red
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Oil Climbs as US-Iran Ceasefire Remains 
+[2026-06-02 08:01:06] Неизвестный источник (universe today): A Brief-ish History of SETI. Part VIII: 
+[2026-06-02 08:01:06] Неизвестный источник (marxist.ca): The need for a socialist planned economy
+[2026-06-02 08:01:06] Неизвестный источник (financial post): Wall Street Risk Rally Powers Past War S
+[2026-06-02 08:01:06] Неизвестный источник (businessline): Fishing out fake news using a deep-learn
+[2026-06-02 08:01:06] AI новости: найдено 4 после фильтрации
+[2026-06-02 08:01:08] Обрабатываю: Intel bets big on AI infrastructure with new Xeon chips
+[2026-06-02 08:01:08] Попытка 1 для: Intel bets big on AI infrastructure with
+[2026-06-02 08:01:09] Успешно, получено 715 символов
+[2026-06-02 08:01:10] Пауза 60 секунд...
+[2026-06-02 08:02:10] Обрабатываю: What would a radical alternative look like for this island?
+[2026-06-02 08:02:10] Попытка 1 для: What would a radical alternative look li
+[2026-06-02 08:02:11] Успешно, получено 799 символов
+[2026-06-02 08:02:11] Пауза 60 секунд...
+[2026-06-02 08:03:11] Обрабатываю: Segmental specification of the human female fetal reproducti
+[2026-06-02 08:03:11] Попытка 1 для: Segmental specification of the human fem
+[2026-06-02 08:03:13] Успешно, получено 779 символов
+[2026-06-02 08:03:14] === Блок ai_morning завершён ===
