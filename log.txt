@@ -19877,3 +19877,54 @@ U.S. has violated ceasefire agr
 [2026-06-03 06:06:19] Попытка 1 для: Nine dead, dozens wounded as Russia laun
 [2026-06-03 06:06:20] Успешно, получено 736 символов
 [2026-06-03 06:06:21] === Блок morning завершён ===
+[2026-06-03 08:01:03] Загружено 1507 уже отправленных новостей
+[2026-06-03 08:01:03] === Запуск блока: ai_morning ===
+[2026-06-03 08:01:03] Неизвестный источник (siliconangle news): MazeBolt launches RADAR VectorAI to test
+[2026-06-03 08:01:03] Неизвестный источник (whitecoatinvestor.com): When I Was Sold an Indexed Universal Lif
+[2026-06-03 08:01:03] Заблокированный источник (naturalnews.com): FSB alleges massive Western phone-hackin
+[2026-06-03 08:01:03] Неизвестный источник (computerweekly.com): Direct-to-cell growth hits headwinds whi
+[2026-06-03 08:01:03] Неизвестный источник (c-sharpcorner.com): How to Run AI Agents Natively Without Cl
+[2026-06-03 08:01:03] Неизвестный источник (globenewswire): Global Live Music Market to Reach USD 62
+[2026-06-03 08:01:03] Неизвестный источник (computerweekly.com): Age verification tech could put children
+[2026-06-03 08:01:03] Неизвестный источник (linkedin.com): The Hard-Stop Paradox and Health Costs
+[2026-06-03 08:01:03] Неизвестный источник (the diplomat): The Next Challenge Facing the US-Philipp
+[2026-06-03 08:01:03] Неизвестный источник (news.com.au): Saudi Arabian Crown Prince’s $12 trillio
+[2026-06-03 08:01:03] Неизвестный источник (financial post): Asian Stocks Drop From Record High, Oil 
+[2026-06-03 08:01:03] Неизвестный источник (financial post): South Korea Overtakes India as World’s S
+[2026-06-03 08:01:03] Неизвестный источник (motley fool australia): Buy, hold, sell: Origin Energy, Megaport
+[2026-06-03 08:01:03] Неизвестный источник (siliconangle news): Florida AG sues OpenAI and Sam Altman ov
+[2026-06-03 08:01:03] Неизвестный источник (siliconangle news): HPE posts huge earnings beat, sending it
+[2026-06-03 08:01:03] Неизвестный источник (financial post): Asian Stocks Ease From Record Highs, Oil
+[2026-06-03 08:01:03] Неизвестный источник (siliconangle news): Intel introduces Xeon 6+ server processo
+[2026-06-03 08:01:03] Неизвестный источник (livemint): NVIDIA salaries revealed: Software engin
+[2026-06-03 08:01:03] Неизвестный источник (financial post): Asian Stocks Ease From Record Highs, Oil
+[2026-06-03 08:01:03] Неизвестный источник (the punch): Power shortages could slow Africa’s AI e
+[2026-06-03 08:01:03] Нет фото: Bloom CEO Has No Plans to Sell Shares Af
+[2026-06-03 08:01:03] Неизвестный источник (thewrap): Everything New on Streaming in June: Net
+[2026-06-03 08:01:03] Неизвестный источник (financial post): Snowflake and Anthropic Accelerate Enter
+[2026-06-03 08:01:03] Неизвестный источник (nlppeople.com): Senior Machine Learning Engineer (Team L
+[2026-06-03 08:01:03] Неизвестный источник (nlppeople.com): Principal Machine Learning Engineer
+[2026-06-03 08:01:03] Неизвестный источник (pymnts.com): Can AI Prevent the Next Subway Delay?
+[2026-06-03 08:01:03] Неизвестный источник (khabarhub.com): From Sponge City to Concrete, and Back
+[2026-06-03 08:01:03] Неизвестный источник (financial post): S&P 500 Futures Dip With No Iran Deal, O
+[2026-06-03 08:01:03] Нет фото: feagi 2.1.41
+[2026-06-03 08:01:03] Неизвестный источник (siliconangle news): Alphabet unveils plan to sell $80B in sh
+[2026-06-03 08:01:03] Неизвестный источник (cnet): Anthropic Eyes an IPO as Big Tech's AI C
+[2026-06-03 08:01:03] Неизвестный источник (jmir.org): The Historical Evolution of Microlearnin
+[2026-06-03 08:01:03] Нет фото: Thermal Transport in SrSnO3 Revealed by 
+[2026-06-03 08:01:03] Нет фото: More Mandelson files released in UK brin
+[2026-06-03 08:01:03] Неизвестный источник (financial post): News of the day: Big Six earnings upset 
+[2026-06-03 08:01:03] Неизвестный источник (financial post): Stocks Rise on Trump’s Iran Remarks, AI 
+[2026-06-03 08:01:03] AI новости: найдено 4 после фильтрации
+[2026-06-03 08:01:05] Обрабатываю: Unilever opens AI-powered fragrance R&D centre at IIT Bombay
+[2026-06-03 08:01:05] Попытка 1 для: Unilever opens AI-powered fragrance R&D 
+[2026-06-03 08:01:07] Успешно, получено 864 символов
+[2026-06-03 08:01:07] Пауза 60 секунд...
+[2026-06-03 08:02:07] Обрабатываю: Media lost its first two battles with Big Tech. It’s unlikel
+[2026-06-03 08:02:07] Попытка 1 для: Media lost its first two battles with Bi
+[2026-06-03 08:02:08] Успешно, получено 629 символов
+[2026-06-03 08:02:09] Пауза 60 секунд...
+[2026-06-03 08:03:09] Обрабатываю: South Korean tech stocks swing as Nvidia robotics push spark
+[2026-06-03 08:03:09] Попытка 1 для: South Korean tech stocks swing as Nvidia
+[2026-06-03 08:03:10] Успешно, получено 777 символов
+[2026-06-03 08:03:10] === Блок ai_morning завершён ===
