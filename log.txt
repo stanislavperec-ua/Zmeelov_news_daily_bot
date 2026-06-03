@@ -19928,3 +19928,38 @@ U.S. has violated ceasefire agr
 [2026-06-03 08:03:09] Попытка 1 для: South Korean tech stocks swing as Nvidia
 [2026-06-03 08:03:10] Успешно, получено 777 символов
 [2026-06-03 08:03:10] === Блок ai_morning завершён ===
+[2026-06-03 11:00:58] Загружено 1510 уже отправленных новостей
+[2026-06-03 11:00:58] === Запуск блока: midday ===
+[2026-06-03 11:00:58] Неизвестный источник (barron's): Alphabet to Issue $80 Billion of Equity 
+[2026-06-03 11:00:58] Неизвестный источник (new york post): What Myles Garrett trade means for Puka 
+[2026-06-03 11:00:58] Неизвестный источник (france 24 english): EU agrees deal for deporting migrants to
+[2026-06-03 11:00:58] Неизвестный источник (yahoo entertainment): Andrew Left Found Guilty in Case That Sp
+[2026-06-03 11:00:58] Неизвестный источник (notebookcheck.net): New iPhone 18 Pro battery leak just chan
+[2026-06-03 11:00:58] Неизвестный источник (variety): Bill Owens, Ex-’60 Minutes’ Boss, Scorns
+[2026-06-03 11:00:58] Неизвестный источник (philadelphiaeagles.com): Spadaro: Why did the Eagles agree to tra
+[2026-06-03 11:00:58] Пропускаю уже отправленную: Trump’s payout fund on shaky ground as Republicans
+[2026-06-03 11:00:58] Неизвестный источник (nbcsports.com): Illinois Governor J.B. Pritzker wasn’t w
+[2026-06-03 11:00:58] Неизвестный источник (macrumors): iOS 27: What We Know About the New Siri 
+[2026-06-03 11:00:58] Неизвестный источник (gsmarena.com): Samsung's Galaxy Z Fold8 wide foldable s
+[2026-06-03 11:00:58] Неизвестный источник (sfgate): California unlikely to have fast answers
+[2026-06-03 11:00:58] Неизвестный источник (hollywood reporter): ‘Euphoria’ Creator Sam Levinson Unpacks 
+[2026-06-03 11:00:58] Неизвестный источник (entertainment weekly): John Oliver mocks Freedom 250 concert, s
+[2026-06-03 11:00:58] Неизвестный источник (space.com): May's Blue Moon wows stargazers worldwid
+[2026-06-03 11:00:58] Старая новость (2026-06-01T10:50:50Z): NASA Crowns New Leader in Race to Coloni
+[2026-06-03 11:00:58] Мировые новости: найдено 15 после фильтрации
+[2026-06-03 11:01:00] Обрабатываю: This fish species survived 100,000 years without males. Scie
+[2026-06-03 11:01:00] Попытка 1 для: This fish species survived 100,000 years
+[2026-06-03 11:01:01] Успешно, получено 534 символов
+[2026-06-03 11:01:02] Пауза 60 секунд...
+[2026-06-03 11:02:02] Обрабатываю: Stripping U.S. citizenship en masse is harder than Trump vow
+[2026-06-03 11:02:02] Попытка 1 для: Stripping U.S. citizenship en masse is h
+[2026-06-03 11:02:03] Успешно, получено 687 символов
+[2026-06-03 11:02:03] Пауза 60 секунд...
+[2026-06-03 11:03:03] Обрабатываю: Six family members killed in Iowa shooting spree
+[2026-06-03 11:03:03] Попытка 1 для: Six family members killed in Iowa shooti
+[2026-06-03 11:03:04] Успешно, получено 554 символов
+[2026-06-03 11:03:05] Пауза 60 секунд...
+[2026-06-03 11:04:05] Обрабатываю: Minister due to speak after Mandelson messages reveal critic
+[2026-06-03 11:04:05] Попытка 1 для: Minister due to speak after Mandelson me
+[2026-06-03 11:04:06] Успешно, получено 749 символов
+[2026-06-03 11:04:06] === Блок midday завершён ===
