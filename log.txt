@@ -20183,3 +20183,37 @@ U.S. has violated ceasefire agr
 [2026-06-04 08:03:07] Попытка 1 для: Will SpaceX IPO make Elon Musk a trillio
 [2026-06-04 08:03:08] Успешно, получено 659 символов
 [2026-06-04 08:03:08] === Блок ai_morning завершён ===
+[2026-06-04 11:01:00] Загружено 1529 уже отправленных новостей
+[2026-06-04 11:01:00] === Запуск блока: midday ===
+[2026-06-04 11:01:00] Неизвестный источник (heat.com): What to expect from Spurs vs. Knicks 202
+[2026-06-04 11:01:00] Неизвестный источник (cnbc): Stock futures are little changed after S
+[2026-06-04 11:01:00] Неизвестный источник (stocktwits.com): Why Did MRVL, AVGO, HPE Stocks Climb To 
+[2026-06-04 11:01:00] Неизвестный источник (kabc-tv): Police say man barricaded himself inside
+[2026-06-04 11:01:00] Неизвестный источник (pcmag.com): The Nvidia RTX Spark Era Starts Here: Ha
+[2026-06-04 11:01:00] Неизвестный источник (variety): ‘Summer House’ Reunion Part 2 Bombshell:
+[2026-06-04 11:01:00] Неизвестный источник (nbcsports.com): Eagles made play for Myles Garrett, but 
+[2026-06-04 11:01:00] Неизвестный источник (rolling stone): ‘Euphoria’ Didn’t Deliver the Finale Fan
+[2026-06-04 11:01:00] Заблокированный источник (bleacher report): Mitchell Robinson Injury Updates, Rumors
+[2026-06-04 11:01:00] Пропускаю уже отправленную: Celebration, shock and scepticism follow Colombia’
+[2026-06-04 11:01:00] Неизвестный источник (404media.co): Microsoft Wants to 'Make People Addicted
+[2026-06-04 11:01:00] Неизвестный источник (phys.org): Plate tectonics shaped the Cradle of Civ
+[2026-06-04 11:01:00] Неизвестный источник (forbes): NASA’s $4 Billion Roman Space Telescope 
+[2026-06-04 11:01:00] Неизвестный источник (space.com): Massive boom over northeastern US was a 
+[2026-06-04 11:01:00] Старая новость (2026-06-01T22:14:56Z): Landmark cancer trial shows success agai
+[2026-06-04 11:01:00] Мировые новости: найдено 16 после фильтрации
+[2026-06-04 11:01:02] Обрабатываю: Trump Proposes New Levies of at Least 10% to Rebuild Tariff 
+[2026-06-04 11:01:02] Попытка 1 для: Trump Proposes New Levies of at Least 10
+[2026-06-04 11:01:04] Успешно, получено 747 символов
+[2026-06-04 11:01:04] Пауза 60 секунд...
+[2026-06-04 11:02:04] Обрабатываю: California primary election results for key 2026 races inclu
+[2026-06-04 11:02:04] Попытка 1 для: California primary election results for 
+[2026-06-04 11:02:05] Успешно, получено 685 символов
+[2026-06-04 11:02:05] Пауза 60 секунд...
+[2026-06-04 11:03:05] Обрабатываю: Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran
+[2026-06-04 11:03:05] Попытка 1 для: Iran fires missiles in Kuwait and Bahrai
+[2026-06-04 11:03:06] Успешно, получено 642 символов
+[2026-06-04 11:03:07] Пауза 60 секунд...
+[2026-06-04 11:04:07] Обрабатываю: Ukraine targets St Petersburg as ‘Putin’s Davos’ gets underw
+[2026-06-04 11:04:07] Попытка 1 для: Ukraine targets St Petersburg as ‘Putin’
+[2026-06-04 11:04:08] Успешно, получено 615 символов
+[2026-06-04 11:04:08] === Блок midday завершён ===
