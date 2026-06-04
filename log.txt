@@ -20134,3 +20134,52 @@ U.S. has violated ceasefire agr
 [2026-06-04 06:05:12] Попытка 1 для: Ukraine embassy flags 'serious concern' 
 [2026-06-04 06:05:13] Успешно, получено 729 символов
 [2026-06-04 06:05:14] === Блок morning завершён ===
+[2026-06-04 08:01:00] Загружено 1526 уже отправленных новостей
+[2026-06-04 08:01:00] === Запуск блока: ai_morning ===
+[2026-06-04 08:01:01] Неизвестный источник (prnewswire): Corrata Reimagines Mobile Device Securit
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Global Economy Risks Slump on Prolonged 
+[2026-06-04 08:01:01] Неизвестный источник (geeky gadgets): How AI Evolved from Alan Turing to ChatG
+[2026-06-04 08:01:01] Неизвестный источник (the next web): Musk allies back a private-sector DOGE a
+[2026-06-04 08:01:01] Неизвестный источник (antaranews.com): Creality 3D Successfully Listed in Hong 
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Stocks Extend Record Rally on AI, Crude 
+[2026-06-04 08:01:01] Неизвестный источник (rte): SpaceX plans to set IPO price at $135 pe
+[2026-06-04 08:01:01] Заблокированный источник (naturalnews.com): The Battle for Your Mind: Why Local, Unc
+[2026-06-04 08:01:01] Неизвестный источник (protothema.gr): Warning from study on Delos: The island 
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Stocks Extend Record Rally on AI, Crude 
+[2026-06-04 08:01:01] Неизвестный источник (cointelegraph): Modern robots impress, but are years awa
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Stocks Extend Record Rally on AI, Yen Ne
+[2026-06-04 08:01:01] Неизвестный источник (applevalleynewsnow.com): People are flooding AI chatbots with hea
+[2026-06-04 08:01:01] Неизвестный источник (businessline): CA firms to onboard interns under PMIS, 
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Asian Stocks Rise to Record, Yen Trades 
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Megaport to Raise $594 Million in Austra
+[2026-06-04 08:01:01] Неизвестный источник (dailymail.com): Sweet revenge for sacked Mamamia star as
+[2026-06-04 08:01:01] Нет фото: Tokyo's Nikkei 225 index tops 68,000 for
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Asian Stocks Rise to Record, Yen Trades 
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Sema4.ai’s autonomous agent building pla
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Asia Stocks Edge Up to Record, Yen Trade
+[2026-06-04 08:01:01] Неизвестный источник (cna): Exclusive-SpaceX plans to price record-s
+[2026-06-04 08:01:01] Неизвестный источник (cna): Exclusive-SpaceX plans to set IPO price 
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Asian Stocks Edge Up, Yen Nears 160 Per 
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Microsoft’s new Majorana 2 quantum chip 
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Trump signs scaled-back version of AI ex
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Federal government confirms it has acces
+[2026-06-04 08:01:01] Неизвестный источник (hbs.edu): Harvard Business School Announces 2026 R
+[2026-06-04 08:01:01] Неизвестный источник (financial post): Asian Stocks Set to Rise, Yen Nears 160 
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Microsoft launches Rayfin to let develop
+[2026-06-04 08:01:01] Неизвестный источник (prnewswire): HelloNation Article Explains Protecting 
+[2026-06-04 08:01:01] Неизвестный источник (coindesk): Bitcoin’s compute power dwarfs top 100 s
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Cyera raises $300M at $12B valuation, do
+[2026-06-04 08:01:01] Неизвестный источник (siliconangle news): Custom model training is bringing enterp
+[2026-06-04 08:01:01] AI новости: найдено 6 после фильтрации
+[2026-06-04 08:01:03] Обрабатываю: Heavily in debt, loss-making, with eyes on sending people to
+[2026-06-04 08:01:03] Попытка 1 для: Heavily in debt, loss-making, with eyes 
+[2026-06-04 08:01:05] Успешно, получено 719 символов
+[2026-06-04 08:01:05] Пауза 60 секунд...
+[2026-06-04 08:02:05] Обрабатываю: SpaceX plans to set IPO price at $135 per share, targeting $
+[2026-06-04 08:02:05] Попытка 1 для: SpaceX plans to set IPO price at $135 pe
+[2026-06-04 08:02:06] Успешно, получено 805 символов
+[2026-06-04 08:02:07] Пауза 60 секунд...
+[2026-06-04 08:03:07] Обрабатываю: Will SpaceX IPO make Elon Musk a trillionaire?
+[2026-06-04 08:03:07] Попытка 1 для: Will SpaceX IPO make Elon Musk a trillio
+[2026-06-04 08:03:08] Успешно, получено 659 символов
+[2026-06-04 08:03:08] === Блок ai_morning завершён ===
