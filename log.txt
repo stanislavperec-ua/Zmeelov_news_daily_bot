@@ -20383,3 +20383,53 @@ U.S. has violated ceasefire agr
 [2026-06-05 06:05:09] Попытка 1 для: European military aid fuels Ukraine dron
 [2026-06-05 06:05:10] Успешно, получено 757 символов
 [2026-06-05 06:05:11] === Блок morning завершён ===
+[2026-06-05 08:00:58] Загружено 1547 уже отправленных новостей
+[2026-06-05 08:00:58] === Запуск блока: ai_morning ===
+[2026-06-05 08:00:58] Неизвестный источник (pymnts.com): Amazon Wins When Retail Checkout Breaks
+[2026-06-05 08:00:58] Неизвестный источник (globenewswire): WellSpan Health and Philips Announce Lan
+[2026-06-05 08:00:58] Неизвестный источник (prnewswire): Infrastructure AI Unveils Revolutionary 
+[2026-06-05 08:00:58] Нет фото: Azerbaijan’s Bank ABB launches AI Conver
+[2026-06-05 08:00:58] Неизвестный источник (computerweekly.com): Interview: Clare Hickie, EMEA CTO, Workd
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): Startup Kodesage secures seed funding to
+[2026-06-05 08:00:58] Нет фото: Power Equipment Firm Innio’s Backers Rai
+[2026-06-05 08:00:58] Неизвестный источник (antaranews.com): UOB and FPT sign MoU to advance AI, tech
+[2026-06-05 08:00:58] Неизвестный источник (computerweekly.com): Cisco Live 26: Networks the key in post-
+[2026-06-05 08:00:58] Неизвестный источник (insurance journal): Trump Takes Hands-Off Approach to AI Cyb
+[2026-06-05 08:00:58] Неизвестный источник (computerweekly.com): AI boom creates connectivity challenge f
+[2026-06-05 08:00:58] Нет фото: Gates-Backed Commonwealth Fusion Says It
+[2026-06-05 08:00:58] Нет фото: AI companies are barreling toward huge W
+[2026-06-05 08:00:58] Неизвестный источник (juancole.com): Could Israel’s Wars Throw the Whole Worl
+[2026-06-05 08:00:58] Неизвестный источник (the diplomat): Can ASEAN’s Green Goals Survive Its Data
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): Nvidia snaps up Kumo AI, a predictive AI
+[2026-06-05 08:00:58] Неизвестный источник (new zealand herald): SpaceX aims to raise record US$75 billio
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): In policy paper, OpenAI diverges from Wh
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): SpaceX hopes to raise $75B when world’s 
+[2026-06-05 08:00:58] Неизвестный источник (prnewswire): Wiwynn and Shinwa Controls Announce Stra
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): Observability provider Coralogix nabs $2
+[2026-06-05 08:00:58] Неизвестный источник (jmir.org): Moving From Keywords to Contextual Meani
+[2026-06-05 08:00:58] Неизвестный источник (torproject.org): Supporting those who speak out
+[2026-06-05 08:00:58] Неизвестный источник (redhat.com): The path to autonomous intelligent netwo
+[2026-06-05 08:00:58] Неизвестный источник (dw (english)): Elon Musk's SpaceX aiming to raise $75bn
+[2026-06-05 08:00:58] Неизвестный источник (financial post): Asia’s Stock Open Clouded by Broadcom, O
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): Broadcom revenue miss stuns Wall Street,
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): Google launches Dreambeans, an AI app th
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): CrowdStrike shares fall as billings miss
+[2026-06-05 08:00:58] Неизвестный источник (siliconangle news): CrowdStrike shares fall as billings miss
+[2026-06-05 08:00:58] Нет фото: Bank of America Bucks AI Job Fears With 
+[2026-06-05 08:00:58] Неизвестный источник (yahoo entertainment): Where to watch Los Angeles Dodgers vs. A
+[2026-06-05 08:00:58] Внутренний дубль: Why Amazon has struggled to crack India
+[2026-06-05 08:00:58] Внутренний дубль: Why Amazon has struggled to crack India
+[2026-06-05 08:00:58] Внутренний дубль: Fintech WeRize raises $7 million led by Sony Innov
+[2026-06-05 08:00:58] AI новости: найдено 5 после фильтрации
+[2026-06-05 08:01:01] Обрабатываю: AI prescription: Infosys bags seven-year deal to upgrade For
+[2026-06-05 08:01:01] Попытка 1 для: AI prescription: Infosys bags seven-year
+[2026-06-05 08:01:02] Успешно, получено 679 символов
+[2026-06-05 08:01:02] Пауза 60 секунд...
+[2026-06-05 08:02:02] Обрабатываю: Why Amazon has struggled to crack the Indian market
+[2026-06-05 08:02:02] Попытка 1 для: Why Amazon has struggled to crack the In
+[2026-06-05 08:02:05] Успешно, получено 1037 символов
+[2026-06-05 08:02:06] Пауза 60 секунд...
+[2026-06-05 08:03:06] Обрабатываю: Fintech WeRize raises $28 million led by Sony Innovation Fun
+[2026-06-05 08:03:06] Попытка 1 для: Fintech WeRize raises $28 million led by
+[2026-06-05 08:03:07] Успешно, получено 898 символов
+[2026-06-05 08:03:08] === Блок ai_morning завершён ===
