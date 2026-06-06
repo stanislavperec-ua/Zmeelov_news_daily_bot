@@ -20755,3 +20755,48 @@ U.S. has violated ceasefire agr
 [2026-06-06 16:05:09] Попытка 1 для: Putin rebuffs European leaders on Ukrain
 [2026-06-06 16:05:10] Успешно, получено 836 символов
 [2026-06-06 16:05:10] === Блок evening завершён ===
+[2026-06-06 18:00:52] Загружено 1578 уже отправленных новостей
+[2026-06-06 18:00:52] === Запуск блока: ai_evening ===
+[2026-06-06 18:00:52] Неизвестный источник (pypi.org): mounts-project added to PyPI
+[2026-06-06 18:00:52] Неизвестный источник (wsb radio): Anthropic urges industry coordination as
+[2026-06-06 18:00:52] Неизвестный источник (globenewswire): AI + Blockchain Convergence Continues as
+[2026-06-06 18:00:52] Неизвестный источник (financial post): OpenAI would’ve ‘imploded’ if Altman did
+[2026-06-06 18:00:52] Неизвестный источник (financial post): Nasdaq 100 falls 3% as rotation out of t
+[2026-06-06 18:00:52] Нет фото: Nasdaq 100 falls 3% as rotation out of t
+[2026-06-06 18:00:52] Неизвестный источник (financial post): Nasdaq 100 Falls 3% as Rotation Out of T
+[2026-06-06 18:00:52] Неизвестный источник (ipwatchdog.com): Other Barks & Bites for Friday, June 5: 
+[2026-06-06 18:00:52] Неизвестный источник (siliconangle news): Augment Code launches Cosmos to bring ag
+[2026-06-06 18:00:52] Неизвестный источник (wsoc charlotte): Anthropic urges industry coordination as
+[2026-06-06 18:00:52] Неизвестный источник (wkmg news 6 & clickorlando): Anthropic urges a way to pause AI develo
+[2026-06-06 18:00:52] Неизвестный источник (thehour.com): Anthropic urges a way to pause AI develo
+[2026-06-06 18:00:52] Неизвестный источник (news-press): Tarpon fishing tourney in Gulf nets $226
+[2026-06-06 18:00:52] Неизвестный источник (financial post): Crypto slump intensifies as Ether and pr
+[2026-06-06 18:00:52] Неизвестный источник (prnewswire): AI, Climate Change Adaptation, and Human
+[2026-06-06 18:00:52] Неизвестный источник (thenation.com): We Took CBS’s Money. We Won’t Trade It f
+[2026-06-06 18:00:52] Неизвестный источник (texmed.org): Use of AI Chatbots Grows in Mental Healt
+[2026-06-06 18:00:52] Неизвестный источник (prnewswire): WESTERN RESERVE ACADEMY RECEIVES $10 MIL
+[2026-06-06 18:00:52] Неизвестный источник (techtarget.com): 3 energy-driven networking trends emergi
+[2026-06-06 18:00:52] Неизвестный источник (devops.com): Cloudflare Acquires VoidZero to Advance 
+[2026-06-06 18:00:52] Неизвестный источник (globenewswire): Alpha Compute Corp. (NASDAQ: ALP): $79.2
+[2026-06-06 18:00:52] Нет фото: Emerging Growth Research Releases Flash 
+[2026-06-06 18:00:52] Неизвестный источник (plos.org): Genomic insights into population structu
+[2026-06-06 18:00:52] Неизвестный источник (plos.org): Explainable IAOA-CNN-CBAM-SVR model for 
+[2026-06-06 18:00:52] Неизвестный источник (plos.org): Focusing on legal cases: Automatic class
+[2026-06-06 18:00:52] Неизвестный источник (plos.org): Numerical and experimental assessment of
+[2026-06-06 18:00:52] Неизвестный источник (hurriyet daily news): Türkiye launches anti-trust probe into M
+[2026-06-06 18:00:52] Неизвестный источник (the next web): A Chinese startup just dethroned Nvidia 
+[2026-06-06 18:00:52] Неизвестный источник (globenewswire): SurgePays Signs Master Services Agreemen
+[2026-06-06 18:00:52] Неизвестный источник (protothema.gr): New party secretary Kostas Kyranakis, Vo
+[2026-06-06 18:00:52] Нет фото: All In FutureTech Alliance Announces Sto
+[2026-06-06 18:00:52] Неизвестный источник (globenewswire): Early Stage Investors Watch Closely as S
+[2026-06-06 18:00:52] Неизвестный источник (ani news): Supreme Court Judges, Global Legal Schol
+[2026-06-06 18:00:52] Нет фото: Morgan Stanley Wealth Management and Gal
+[2026-06-06 18:00:52] Неизвестный источник (the conversation africa): How businesses with ties to Jeffrey Epst
+[2026-06-06 18:00:52] Нет фото: aix 0.0.32
+[2026-06-06 18:00:52] Неизвестный источник (financial post): Anthropic calls for AI pause button to l
+[2026-06-06 18:00:52] Нет фото: AMASS Brands Group Secures First U.S. Di
+[2026-06-06 18:00:52] AI новости: найдено 1 после фильтрации
+[2026-06-06 18:00:54] Обрабатываю: New York just passed a one-year temporary ban on data center
+[2026-06-06 18:00:54] Попытка 1 для: New York just passed a one-year temporar
+[2026-06-06 18:00:55] Успешно, получено 664 символов
+[2026-06-06 18:00:56] === Блок ai_evening завершён ===
