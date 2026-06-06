@@ -20617,3 +20617,53 @@ U.S. has violated ceasefire agr
 [2026-06-06 06:05:10] Попытка 1 для: News24 | US Congress defies Trump, passe
 [2026-06-06 06:05:11] Успешно, получено 880 символов
 [2026-06-06 06:05:12] === Блок morning завершён ===
+[2026-06-06 08:01:01] Загружено 1565 уже отправленных новостей
+[2026-06-06 08:01:01] === Запуск блока: ai_morning ===
+[2026-06-06 08:01:01] Неизвестный источник (the topeka capital-journal): What Kansas State AD said about potentia
+[2026-06-06 08:01:01] Неизвестный источник (financial post): China’s Crowded Solar Industry Pivots to
+[2026-06-06 08:01:01] Неизвестный источник (computerweekly.com): TeamViewer, Microsoft bring AI, AR for c
+[2026-06-06 08:01:01] Нет фото: Context Without Limits: A High-Performan
+[2026-06-06 08:01:01] Неизвестный источник (financial post): SNEC 2026: Sigenergy Reimagines Energy I
+[2026-06-06 08:01:01] Нет фото: Actors' union approves 4-year contract w
+[2026-06-06 08:01:01] Нет фото: 721. Exploring Platform Decay with Marth
+[2026-06-06 08:01:01] Неизвестный источник (israelnationalnews.com): Retire the word “Zionist." Call us what 
+[2026-06-06 08:01:01] Нет фото: Asian shares drop, with South Korea's Ko
+[2026-06-06 08:01:01] Неизвестный источник (naftemporiki.gr): Greek satellite Hyperion GR1 heading to 
+[2026-06-06 08:01:01] Неизвестный источник (dw (english)): What are Europe's alternatives to Instag
+[2026-06-06 08:01:01] Неизвестный источник (dw (english)): What are EU social media alternatives to
+[2026-06-06 08:01:01] Нет фото: Japan Aims to Replace Up to 14 Atomic Po
+[2026-06-06 08:01:01] Нет фото: Iron Age Nutrition Announces Launch of “
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): AI agent web traffic has surpassed that 
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): How SiriusXM and Snowflake are using AI 
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): Supabase raises $500M as AI coding tools
+[2026-06-06 08:01:01] Неизвестный источник (financial post): A Little-Known Indian Stock’s 530% Rally
+[2026-06-06 08:01:01] Неизвестный источник (antiwar.com): A Regional Crisis or a Protracted Intern
+[2026-06-06 08:01:01] Неизвестный источник (elastic.co): Agentic SOCs: The public sector’s new AI
+[2026-06-06 08:01:01] Нет фото: Precision timekeeping with atomic clocks
+[2026-06-06 08:01:01] Неизвестный источник (yahoo entertainment): Nominate Your Company for the 2026 AI Ex
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): Anthropic calls for global pause in AI d
+[2026-06-06 08:01:01] Неизвестный источник (tenable.com): The June 2026 AI Executive Order: What f
+[2026-06-06 08:01:01] Неизвестный источник (awful announcing): ESPN reportedly ‘evaluating’ use of AI i
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): Financial technology provider Ramp raise
+[2026-06-06 08:01:01] Неизвестный источник (fox news): AI boom: Demand for data centers drives 
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): Cloudflare acquires VoidZero, maker of t
+[2026-06-06 08:01:01] Неизвестный источник (motley fool australia): 3 excellent ASX ETFs for beginners to bu
+[2026-06-06 08:01:01] Неизвестный источник (jezebel): Breakdown of Consensus Reality Comes for
+[2026-06-06 08:01:01] Нет фото: World Wide Web pioneer calls for AI to p
+[2026-06-06 08:01:01] Неизвестный источник (financial post): News of the day: Canada’s AI strategy, i
+[2026-06-06 08:01:01] Нет фото: SOLV Energy Announces Full Exercise and 
+[2026-06-06 08:01:01] Неизвестный источник (siliconangle news): Five takeaways from the Cisco Live keyno
+[2026-06-06 08:01:01] Неизвестный источник (financial post): Canadian tech execs like the direction o
+[2026-06-06 08:01:01] AI новости: найдено 4 после фильтрации
+[2026-06-06 08:01:03] Обрабатываю: No fancy tech, no big investors: He started with Rs 30,000 a
+[2026-06-06 08:01:03] Попытка 1 для: No fancy tech, no big investors: He star
+[2026-06-06 08:01:05] Успешно, получено 835 символов
+[2026-06-06 08:01:05] Пауза 60 секунд...
+[2026-06-06 08:02:05] Обрабатываю: Nokia Oyj Stock Falls 6.15% Amid Profit-Taking Following Rec
+[2026-06-06 08:02:05] Попытка 1 для: Nokia Oyj Stock Falls 6.15% Amid Profit-
+[2026-06-06 08:02:06] Успешно, получено 766 символов
+[2026-06-06 08:02:07] Пауза 60 секунд...
+[2026-06-06 08:03:07] Обрабатываю: Central Bank’s Vasileios Madouros: The impact of the 2008 cr
+[2026-06-06 08:03:07] Попытка 1 для: Central Bank’s Vasileios Madouros: The i
+[2026-06-06 08:03:08] Успешно, получено 728 символов
+[2026-06-06 08:03:08] === Блок ai_morning завершён ===
