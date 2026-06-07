@@ -20904,3 +20904,37 @@ U.S. has violated ceasefire agr
 [2026-06-07 08:00:59] Попытка 1 для: Anthropic urges AI labs to pause, warns 
 [2026-06-07 08:01:00] Успешно, получено 724 символов
 [2026-06-07 08:01:01] === Блок ai_morning завершён ===
+[2026-06-07 11:00:57] Загружено 1586 уже отправленных новостей
+[2026-06-07 11:00:57] === Запуск блока: midday ===
+[2026-06-07 11:00:57] Неизвестный источник (radio free europe/ radio liberty): Ukraine Launches Scores Of Drones On Fin
+[2026-06-07 11:00:57] Неизвестный источник (heat.com): Turning Point: Knicks get close calls, b
+[2026-06-07 11:00:57] Неизвестный источник (the globe and mail): Your daily horoscope: June 6, 2026 - The
+[2026-06-07 11:00:57] Неизвестный источник (gameinformer.com): Here's Everything Announced During The S
+[2026-06-07 11:00:57] Неизвестный источник (hollywood reporter): ‘Buffy the Vampire Slayer’ Cast Pay Trib
+[2026-06-07 11:00:57] Неизвестный источник (profootballrumors.com): Myles Garrett Trade Fallout: Rams, Eagle
+[2026-06-07 11:00:57] Неизвестный источник (deadline): Murder Charges In James Handy’s Death Pa
+[2026-06-07 11:00:57] Неизвестный источник (the dallas morning news): Jurors see knife at center of Karmelo An
+[2026-06-07 11:00:57] Неизвестный источник (variety): ‘Final Fantasy VII: Revelation’ Set to C
+[2026-06-07 11:00:57] Неизвестный источник (macrumors): What to Expect From WWDC 2026: Gemini-Po
+[2026-06-07 11:00:57] Неизвестный источник (space.com): Astronauts on International Space Statio
+[2026-06-07 11:00:57] Неизвестный источник (phys.org): Deep-sea supergiant isopods last years w
+[2026-06-07 11:00:57] Неизвестный источник (ndtv news): Exclusive: Biggest Pancreatic Cancer Bre
+[2026-06-07 11:00:57] Старая новость (2026-06-05T05:29:58Z): I’ve gone hands-on with every Nvidia RTX
+[2026-06-07 11:00:57] Старая новость (2026-06-04T12:18:17Z): Upgraded ‘Severe’ Northern Lights Alert 
+[2026-06-07 11:00:57] Мировые новости: найдено 13 после фильтрации
+[2026-06-07 11:00:59] Обрабатываю: After decades of pelvic pain and 100-plus doctor visits, one
+[2026-06-07 11:00:59] Попытка 1 для: After decades of pelvic pain and 100-plu
+[2026-06-07 11:01:00] Успешно, получено 689 символов
+[2026-06-07 11:01:01] Пауза 60 секунд...
+[2026-06-07 11:02:01] Обрабатываю: Pope to find a secularized, polarized Spain where the Cathol
+[2026-06-07 11:02:01] Попытка 1 для: Pope to find a secularized, polarized Sp
+[2026-06-07 11:02:02] Успешно, получено 621 символов
+[2026-06-07 11:02:02] Пауза 60 секунд...
+[2026-06-07 11:03:02] Обрабатываю: Democrat Xavier Becerra advances to general election in race
+[2026-06-07 11:03:02] Попытка 1 для: Democrat Xavier Becerra advances to gene
+[2026-06-07 11:03:03] Успешно, получено 760 символов
+[2026-06-07 11:03:04] Пауза 60 секунд...
+[2026-06-07 11:04:04] Обрабатываю: Trump says he’s considering government stake in top AI compa
+[2026-06-07 11:04:04] Попытка 1 для: Trump says he’s considering government s
+[2026-06-07 11:04:05] Успешно, получено 922 символов
+[2026-06-07 11:04:06] === Блок midday завершён ===
