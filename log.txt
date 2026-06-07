@@ -20858,3 +20858,49 @@ U.S. has violated ceasefire agr
 [2026-06-07 06:05:09] Попытка 1 для: Five killed in south after Russian attac
 [2026-06-07 06:05:10] Успешно, получено 523 символов
 [2026-06-07 06:05:11] === Блок morning завершён ===
+[2026-06-07 08:00:56] Загружено 1585 уже отправленных новостей
+[2026-06-07 08:00:56] === Запуск блока: ai_morning ===
+[2026-06-07 08:00:57] Неизвестный источник (cbc news): Legionnaires' disease was discovered 50 
+[2026-06-07 08:00:57] Неизвестный источник (arxiv.org): [2606.03811] AI Agents Enable Adaptive C
+[2026-06-07 08:00:57] Неизвестный источник (medianama.com): Excerpt: Inside India’s AI deepfake indu
+[2026-06-07 08:00:57] Неизвестный источник (bradenkelley.com): The Anatomy of Agentic Trust
+[2026-06-07 08:00:57] Неизвестный источник (siliconangle news): US government could take stakes in major
+[2026-06-07 08:00:57] Неизвестный источник (fox news): The history behind the U.S. competition 
+[2026-06-07 08:00:57] Неизвестный источник (digital journal): LiDAR on fixed infrastructures: Is LiDAR
+[2026-06-07 08:00:57] Неизвестный источник (gizmodo.com): Bitcoin Price Hits Lowest Level Since Be
+[2026-06-07 08:00:57] Неизвестный источник (bleeding cool news): Action Comics #1099 Preview: Rocket Scie
+[2026-06-07 08:00:57] Неизвестный источник (thestreet): AT&T lands Rivian win as Wall Street see
+[2026-06-07 08:00:57] Нет фото: Trump calls for military to accelerate u
+[2026-06-07 08:00:57] Неизвестный источник (inside the magic): Corporate Fallout: Disney Braces for Ano
+[2026-06-07 08:00:57] Неизвестный источник (cbc news): U.S., Canadian officials warn of anticip
+[2026-06-07 08:00:57] Неизвестный источник (wwd): Material World: Ugg Uses Nuyarn, Solena 
+[2026-06-07 08:00:57] Нет фото: Alzai Health Corp. Announces TSX Venture
+[2026-06-07 08:00:57] Неизвестный источник (cryptoprowl.com): Weekly Wrap: Bitcoin Hits Two-Year Low A
+[2026-06-07 08:00:57] Неизвестный источник (pymnts.com): Verizon, AT&T and T-Mobile Are Done Lett
+[2026-06-07 08:00:57] Неизвестный источник (coindesk): Why diehard bitcoin purists aren’t sweat
+[2026-06-07 08:00:57] Неизвестный источник (globenewswire): Emerging Crypto Projects Focus on Infras
+[2026-06-07 08:00:57] Неизвестный источник (business insider): How paid influencers hype Polymarket's o
+[2026-06-07 08:00:57] Неизвестный источник (offgridsurvival.com): Dead Internet Theory: AI Bots Now Outnum
+[2026-06-07 08:00:57] Неизвестный источник (frontofficesports.com): How Sports Became Ground Zero for AI Slo
+[2026-06-07 08:00:57] Неизвестный источник (deadline): D.C.’s AI Honors Reflect Innovation Brea
+[2026-06-07 08:00:57] Неизвестный источник (dailymail.com): Scientists issue first-contact plan as t
+[2026-06-07 08:00:57] Неизвестный источник (internet): IronWorm and New Miasma Worm Variant Hit
+[2026-06-07 08:00:57] Неизвестный источник (coindesk): AI exposed a massive flaw in top crypto 
+[2026-06-07 08:00:57] Неизвестный источник (pypi.org): mounts-project added to PyPI
+[2026-06-07 08:00:57] Неизвестный источник (wsb radio): Anthropic urges industry coordination as
+[2026-06-07 08:00:57] Неизвестный источник (globenewswire): AI + Blockchain Convergence Continues as
+[2026-06-07 08:00:57] Неизвестный источник (financial post): OpenAI would’ve ‘imploded’ if Altman did
+[2026-06-07 08:00:57] Неизвестный источник (financial post): Nasdaq 100 falls 3% as rotation out of t
+[2026-06-07 08:00:57] Нет фото: Nasdaq 100 falls 3% as rotation out of t
+[2026-06-07 08:00:57] Неизвестный источник (financial post): Nasdaq 100 Falls 3% as Rotation Out of T
+[2026-06-07 08:00:57] Неизвестный источник (ipwatchdog.com): Other Barks & Bites for Friday, June 5: 
+[2026-06-07 08:00:57] Неизвестный источник (siliconangle news): Augment Code launches Cosmos to bring ag
+[2026-06-07 08:00:57] Неизвестный источник (wsoc charlotte): Anthropic urges industry coordination as
+[2026-06-07 08:00:57] Неизвестный источник (wkmg news 6 & clickorlando): Anthropic urges a way to pause AI develo
+[2026-06-07 08:00:57] Неизвестный источник (thehour.com): Anthropic urges a way to pause AI develo
+[2026-06-07 08:00:57] Неизвестный источник (news-press): Tarpon fishing tourney in Gulf nets $226
+[2026-06-07 08:00:57] AI новости: найдено 1 после фильтрации
+[2026-06-07 08:00:59] Обрабатываю: Anthropic urges AI labs to pause, warns humans risk losing c
+[2026-06-07 08:00:59] Попытка 1 для: Anthropic urges AI labs to pause, warns 
+[2026-06-07 08:01:00] Успешно, получено 724 символов
+[2026-06-07 08:01:01] === Блок ai_morning завершён ===
