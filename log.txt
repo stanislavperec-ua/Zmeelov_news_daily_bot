@@ -21096,3 +21096,38 @@ Nithya
 [2026-06-08 06:05:11] Попытка 1 для: Why did Ukraine strike St. Petersburg? #
 [2026-06-08 06:05:12] Успешно, получено 606 символов
 [2026-06-08 06:05:12] === Блок morning завершён ===
+[2026-06-08 08:01:04] Загружено 1603 уже отправленных новостей
+[2026-06-08 08:01:04] === Запуск блока: ai_morning ===
+[2026-06-08 08:01:04] Заблокированный источник (naturalnews.com): Pentagon’s “AI propaganda mill” targets 
+[2026-06-08 08:01:04] Неизвестный источник (autocar): Inside the Leapmotor-Stellantis deal tha
+[2026-06-08 08:01:04] Неизвестный источник (bleeding cool news): Bishop #1 Preview: Time-Traveling Mutant
+[2026-06-08 08:01:04] Неизвестный источник (national geographic): See how nature is bouncing back in these
+[2026-06-08 08:01:04] Неизвестный источник (gwern.net): Human-Like Neural Nets by Catapulting
+[2026-06-08 08:01:04] Неизвестный источник (digital journal): Generative AI shifts the question from “
+[2026-06-08 08:01:04] Неизвестный источник (globenewswire): Bouygues Telecom takes a major step forw
+[2026-06-08 08:01:04] Неизвестный источник (siliconangle news): Dell sharpens data protection strategy a
+[2026-06-08 08:01:04] Неизвестный источник (bitcoinist): Zcash Suffers Historic Collapse As Billi
+[2026-06-08 08:01:04] Неизвестный источник (comicbook.com): All 15 Villains Captain America Has Foug
+[2026-06-08 08:01:04] Пропускаю уже отправленную: Is USA ready?
+[2026-06-08 08:01:04] Неизвестный источник (wnd.com): The strange afterlife of fascism
+[2026-06-08 08:01:04] Неизвестный источник (marketbeat): IREN's 800MW Bet Flips the AI Power Swit
+[2026-06-08 08:01:04] Неизвестный источник (yahoo entertainment): Meta, Google Could Be Among Winners As F
+[2026-06-08 08:01:04] Неизвестный источник (researchbuzz.me): AI-Based Medication Monitoring, Subreddi
+[2026-06-08 08:01:04] Нет фото: All In FutureTech Alliance Provides Stra
+[2026-06-08 08:01:04] Нет фото: All In FutureTech Alliance Provides Stra
+[2026-06-08 08:01:04] Неизвестный источник (medical daily): The Forgotten Organ Hiding in Your Chest
+[2026-06-08 08:01:04] Нет фото: Hopepara com: A Strategic Blueprint for 
+[2026-06-08 08:01:04] Неизвестный источник (fortune): When good money goes bad: the question S
+[2026-06-08 08:01:04] Неизвестный источник (yahoo entertainment): When good money goes bad: the question S
+[2026-06-08 08:01:04] Неизвестный источник (pstechglobal.com): 2026 Digital Marketing Class: 3X Your Fr
+[2026-06-08 08:01:04] Неизвестный источник (salon): Officials powerless to stop 8 new data c
+[2026-06-08 08:01:04] Неизвестный источник (arabnews.jp): AI helps Saudi real estate shift from de
+[2026-06-08 08:01:04] AI новости: найдено 2 после фильтрации
+[2026-06-08 08:01:07] Обрабатываю: Opinion: Should decisions about whether AI can be used in wa
+[2026-06-08 08:01:07] Попытка 1 для: Opinion: Should decisions about whether 
+[2026-06-08 08:01:08] Успешно, получено 828 символов
+[2026-06-08 08:01:08] Пауза 60 секунд...
+[2026-06-08 08:02:08] Обрабатываю: AI’s elite celebrated in Washington as the public sours on d
+[2026-06-08 08:02:08] Попытка 1 для: AI’s elite celebrated in Washington as t
+[2026-06-08 08:02:09] Успешно, получено 793 символов
+[2026-06-08 08:02:10] === Блок ai_morning завершён ===
