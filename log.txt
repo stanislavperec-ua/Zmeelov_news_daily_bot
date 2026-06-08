@@ -21226,3 +21226,37 @@ Nithya
 [2026-06-08 16:05:13] Попытка 1 для: Byrne to discuss Irish EU presidency and
 [2026-06-08 16:05:14] Успешно, получено 626 символов
 [2026-06-08 16:05:14] === Блок evening завершён ===
+[2026-06-08 18:00:56] Загружено 1611 уже отправленных новостей
+[2026-06-08 18:00:56] === Запуск блока: ai_evening ===
+[2026-06-08 18:00:56] Неизвестный источник (the jerusalem post): 'Dead Internet is here': Machines, AI bo
+[2026-06-08 18:00:56] Неизвестный источник (siliconangle news): Snowflake, Databricks and the model make
+[2026-06-08 18:00:56] Нет фото: feagi 2.1.42
+[2026-06-08 18:00:56] Неизвестный источник (yahoo entertainment): Is Zoom Communications, Inc. (ZM) A Good
+[2026-06-08 18:00:56] Неизвестный источник (securityaffairs.com): Security Affairs newsletter Round 580 by
+[2026-06-08 18:00:56] Неизвестный источник (bleeding cool news): Green Lantern Corps #17 Preview: Black H
+[2026-06-08 18:00:56] Неизвестный источник (coindesk): Ethereum (ETH) News: Foundation cuts and
+[2026-06-08 18:00:56] Неизвестный источник (fortune): America turns 250. Its greatest innovati
+[2026-06-08 18:00:56] Нет фото: aidk-framework 1.0.15
+[2026-06-08 18:00:56] Заблокированный источник (naturalnews.com): Pentagon’s “AI propaganda mill” targets 
+[2026-06-08 18:00:56] Неизвестный источник (autocar): Inside the Leapmotor-Stellantis deal tha
+[2026-06-08 18:00:56] Неизвестный источник (bleeding cool news): Bishop #1 Preview: Time-Traveling Mutant
+[2026-06-08 18:00:56] Неизвестный источник (national geographic): See how nature is bouncing back in these
+[2026-06-08 18:00:56] Неизвестный источник (gwern.net): Human-Like Neural Nets by Catapulting
+[2026-06-08 18:00:56] Неизвестный источник (digital journal): Generative AI shifts the question from “
+[2026-06-08 18:00:56] Неизвестный источник (globenewswire): Bouygues Telecom takes a major step forw
+[2026-06-08 18:00:56] Неизвестный источник (siliconangle news): Dell sharpens data protection strategy a
+[2026-06-08 18:00:56] Неизвестный источник (bitcoinist): Zcash Suffers Historic Collapse As Billi
+[2026-06-08 18:00:56] Неизвестный источник (comicbook.com): All 15 Villains Captain America Has Foug
+[2026-06-08 18:00:56] AI новости: найдено 3 после фильтрации
+[2026-06-08 18:00:59] Обрабатываю: Young applicants discuss the challenges of today's job searc
+[2026-06-08 18:00:59] Попытка 1 для: Young applicants discuss the challenges 
+[2026-06-08 18:01:00] Успешно, получено 632 символов
+[2026-06-08 18:01:00] Пауза 60 секунд...
+[2026-06-08 18:02:00] Обрабатываю: Generac GNRC Stock 2026 Outlook: Buy or Sell the Power Backu
+[2026-06-08 18:02:00] Попытка 1 для: Generac GNRC Stock 2026 Outlook: Buy or 
+[2026-06-08 18:02:01] Успешно, получено 641 символов
+[2026-06-08 18:02:02] Пауза 60 секунд...
+[2026-06-08 18:03:02] Обрабатываю: Opinion: Should decisions about whether AI can be used in wa
+[2026-06-08 18:03:02] Попытка 1 для: Opinion: Should decisions about whether 
+[2026-06-08 18:03:03] Успешно, получено 941 символов
+[2026-06-08 18:03:04] === Блок ai_evening завершён ===
