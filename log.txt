@@ -21314,3 +21314,52 @@ Nithya
 [2026-06-09 06:05:16] Попытка 1 для: UK, Germany, France back ceasefire talks
 [2026-06-09 06:05:17] Успешно, получено 738 символов
 [2026-06-09 06:05:17] === Блок morning завершён ===
+[2026-06-09 08:01:02] Загружено 1619 уже отправленных новостей
+[2026-06-09 08:01:02] === Запуск блока: ai_morning ===
+[2026-06-09 08:01:02] Неизвестный источник (siliconangle news): Oriole Networks deploys photonic AI netw
+[2026-06-09 08:01:02] Неизвестный источник (financial post): Stocks, Bonds Fall as Mideast Strikes Li
+[2026-06-09 08:01:02] Нет фото: Cegid Closes Acquisition of Shine to Cre
+[2026-06-09 08:01:02] Нет фото: Apple expected to unveil new AI features
+[2026-06-09 08:01:02] Неизвестный источник (prnewswire): DL Holdings' Fourth "Victoria Harbour Ni
+[2026-06-09 08:01:02] Неизвестный источник (cointelegraph): Bitmine boosts Ethereum treasury to 5.54
+[2026-06-09 08:01:02] Неизвестный источник (cointelegraph): Bybit to offer tokenized SpaceX IPO acce
+[2026-06-09 08:01:02] Неизвестный источник (computerweekly.com): Infosecurity Europe 2026: AI turbo-charg
+[2026-06-09 08:01:02] Неизвестный источник (smallwarsjournal.com): Ideas Without Rank: Small Wars Journal a
+[2026-06-09 08:01:02] Неизвестный источник (landezine.com): Santa Clotilde Gardens by SCOB Architect
+[2026-06-09 08:01:02] Заблокированный источник (naturalnews.com): AI Is Dumbing Down the Masses and Interf
+[2026-06-09 08:01:02] Неизвестный источник (crypto briefing): Fetch.AI unveils full agentic infrastruc
+[2026-06-09 08:01:02] Неизвестный источник (globenewswire): WISeKey, The Hashgraph Group and Hedera 
+[2026-06-09 08:01:02] Неизвестный источник (globenewswire): Digital Realty Launches Malaysia Operati
+[2026-06-09 08:01:02] Неизвестный источник (computerweekly.com): How AI is being used to manage networks
+[2026-06-09 08:01:02] Неизвестный источник (crypto briefing): MIT researchers develop self-evolving AI
+[2026-06-09 08:01:02] Неизвестный источник (siamnews.net): Ascletis Reinforces Its Differentiated O
+[2026-06-09 08:01:02] Неизвестный источник (digital journal): The scramble for 6G and the gentle shark
+[2026-06-09 08:01:02] Неизвестный источник (financial post): Korea’s AI Impact Sparks Pressure Across
+[2026-06-09 08:01:02] Неизвестный источник (siliconangle news): Nvidia partners with South Korea’s SK Hy
+[2026-06-09 08:01:02] Нет фото: Legal & General Says Energy Transition i
+[2026-06-09 08:01:02] Неизвестный источник (financial post): Korean Stocks Tumble as Investors Rush t
+[2026-06-09 08:01:02] Неизвестный источник (financial post): Japan’s Growth Holds Up Despite Drop in 
+[2026-06-09 08:01:02] Неизвестный источник (bleeding cool news): Jay & Silent Bob: Jays of Future Past #1
+[2026-06-09 08:01:02] Неизвестный источник (national geographic): What to do in Mexico City, according to 
+[2026-06-09 08:01:02] Неизвестный источник (siliconangle news): OpenAI’s planned ‘superapp’ gets closer 
+[2026-06-09 08:01:02] Неизвестный источник (theregister.com): Our systems editor flew all the way to T
+[2026-06-09 08:01:02] Нет фото: Prediction of self-diffusion coefficient
+[2026-06-09 08:01:02] Неизвестный источник (space daily): The strange truth about today’s most pow
+[2026-06-09 08:01:02] Неизвестный источник (bleeding cool news): Supergirl #14 Preview: Bottled City, Bot
+[2026-06-09 08:01:02] Неизвестный источник (wnd.com): The urgent need to secure U.S. elections
+[2026-06-09 08:01:02] Неизвестный источник (bleeding cool news): Justice League: Dream Girls – A DC Pride
+[2026-06-09 08:01:02] Неизвестный источник (the jerusalem post): 'Dead Internet is here': Machines, AI bo
+[2026-06-09 08:01:02] Неизвестный источник (siliconangle news): Snowflake, Databricks and the model make
+[2026-06-09 08:01:02] Нет фото: feagi 2.1.42
+[2026-06-09 08:01:02] Неизвестный источник (yahoo entertainment): Is Zoom Communications, Inc. (ZM) A Good
+[2026-06-09 08:01:02] Неизвестный источник (securityaffairs.com): Security Affairs newsletter Round 580 by
+[2026-06-09 08:01:02] Неизвестный источник (bleeding cool news): Green Lantern Corps #17 Preview: Black H
+[2026-06-09 08:01:02] AI новости: найдено 2 после фильтрации
+[2026-06-09 08:01:05] Обрабатываю: Digital arrest: How India’s fastest-growing scam uses fake i
+[2026-06-09 08:01:05] Попытка 1 для: Digital arrest: How India’s fastest-grow
+[2026-06-09 08:01:06] Успешно, получено 933 символов
+[2026-06-09 08:01:07] Пауза 60 секунд...
+[2026-06-09 08:02:07] Обрабатываю: Full transcript of "Face the Nation with Margaret Brennan," 
+[2026-06-09 08:02:07] Попытка 1 для: Full transcript of "Face the Nation with
+[2026-06-09 08:02:08] Успешно, получено 554 символов
+[2026-06-09 08:02:08] === Блок ai_morning завершён ===
