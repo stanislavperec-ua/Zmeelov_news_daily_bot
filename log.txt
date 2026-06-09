@@ -21260,3 +21260,57 @@ Nithya
 [2026-06-08 18:03:02] Попытка 1 для: Opinion: Should decisions about whether 
 [2026-06-08 18:03:03] Успешно, получено 941 символов
 [2026-06-08 18:03:04] === Блок ai_evening завершён ===
+[2026-06-09 06:01:02] Загружено 1613 уже отправленных новостей
+[2026-06-09 06:01:02] === Запуск блока: morning ===
+[2026-06-09 06:01:02] Неизвестный источник (hollywood reporter): 2026 Tony Awards: Complete Winners List 
+[2026-06-09 06:01:02] Неизвестный источник (espn): Nelly Korda makes childhood dream come t
+[2026-06-09 06:01:02] Неизвестный источник (deadline): FCC Chair Brendan Carr Slams Scott Pelle
+[2026-06-09 06:01:02] Неизвестный источник (new york post): Knicks turned NYC into a sports dartboar
+[2026-06-09 06:01:02] Неизвестный источник (chapelboro.com): Owen Hull’s Walk-Off Delivers UNC Baseba
+[2026-06-09 06:01:02] Неизвестный источник (yahoo entertainment): Ebola outbreak live updates: WHO and Afr
+[2026-06-09 06:01:02] Неизвестный источник (phys.org): Atlantic 'cold blob' caused by weakening
+[2026-06-09 06:01:02] Неизвестный источник (pitchfork): Ariana Grande Launches First Tour Since 
+[2026-06-09 06:01:02] Неизвестный источник (macrumors): Best Look at Foldable iPhone Design Reve
+[2026-06-09 06:01:02] Старая новость (2026-06-07T00:52:07Z): NASA interested in Hubble reboost if cos
+[2026-06-09 06:01:02] Старая новость (2026-06-06T20:01:00Z): The disease detectives suiting up for th
+[2026-06-09 06:01:02] Старая новость (2026-06-06T12:30:00Z): The most hopeful cancer news in years - 
+[2026-06-09 06:01:02] Мировые новости: найдено 14 после фильтрации
+[2026-06-09 06:01:02] Заблокированный источник (naturalnews.com): Israel Expands Use of AI-Controlled Dron
+[2026-06-09 06:01:02] Заблокированный источник (naturalnews.com): Routes of Fire: A journey through the da
+[2026-06-09 06:01:02] Заблокированный источник (naturalnews.com): Putin Informed About Zelensky Letter, Kr
+[2026-06-09 06:01:02] Заблокированный источник (naturalnews.com): Russia’s Zakharova Says Moscow Will Moni
+[2026-06-09 06:01:02] Заблокированный источник (naturalnews.com): Zelensky Proposes Direct Meeting With Pu
+[2026-06-09 06:01:02] Нет фото: Thousands of Ballots Flood LA Mayor Race
+[2026-06-09 06:01:02] Нет фото: Nithya Raman overtakes Spencer Pratt — b
+[2026-06-09 06:01:02] Нет фото: As Ukraine fights off Russia's invasion,
+[2026-06-09 06:01:02] Нет фото: Huge Psilocybin Dose Has Incredible Effe
+[2026-06-09 06:01:02] Нет фото: Private jet bursts into flames while mak
+[2026-06-09 06:01:02] Нет фото: This Trial Is Becoming A DISASTER For Ka
+[2026-06-09 06:01:02] Нет фото: Christian Eriksen ‘conscious’ after anot
+[2026-06-09 06:01:02] Нет фото: Israel strikes Iran military targets aft
+[2026-06-09 06:01:02] Нет фото: Iran Israel War Live Updates: Israel str
+[2026-06-09 06:01:02] Украинские новости: найдено 2 после фильтрации
+[2026-06-09 06:01:03] Харьков: новостей не найдено
+[2026-06-09 06:01:05] Обрабатываю: Israel launches strikes on Iran after Tehran fires barrage o
+[2026-06-09 06:01:05] Попытка 1 для: Israel launches strikes on Iran after Te
+[2026-06-09 06:01:06] Успешно, получено 654 символов
+[2026-06-09 06:01:07] Пауза 60 секунд...
+[2026-06-09 06:02:07] Обрабатываю: China's Xi Jinping lands in North Korea to meet Kim Jong Un 
+[2026-06-09 06:02:07] Попытка 1 для: China's Xi Jinping lands in North Korea 
+[2026-06-09 06:02:08] Успешно, получено 509 символов
+[2026-06-09 06:02:08] Пауза 60 секунд...
+[2026-06-09 06:03:08] Обрабатываю: Tech sell-off widens as South Korea index plunges
+[2026-06-09 06:03:08] Попытка 1 для: Tech sell-off widens as South Korea inde
+[2026-06-09 06:03:09] Успешно, получено 622 символов
+[2026-06-09 06:03:10] Пауза 60 секунд...
+[2026-06-09 06:04:10] Обрабатываю: Graham Platner gets a lift from friendly Maine crowd after w
+[2026-06-09 06:04:10] Попытка 1 для: Graham Platner gets a lift from friendly
+[2026-06-09 06:04:11] Успешно, получено 728 символов
+[2026-06-09 06:04:14] Обрабатываю: Irish ‘solidarity’ with Ukraine leads to opening of ambitiou
+[2026-06-09 06:04:14] Попытка 1 для: Irish ‘solidarity’ with Ukraine leads to
+[2026-06-09 06:04:15] Успешно, получено 836 символов
+[2026-06-09 06:04:16] Пауза 60 секунд...
+[2026-06-09 06:05:16] Обрабатываю: UK, Germany, France back ceasefire talks between Ukraine and
+[2026-06-09 06:05:16] Попытка 1 для: UK, Germany, France back ceasefire talks
+[2026-06-09 06:05:17] Успешно, получено 738 символов
+[2026-06-09 06:05:17] === Блок morning завершён ===
