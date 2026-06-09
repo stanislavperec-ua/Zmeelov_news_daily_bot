@@ -21457,3 +21457,53 @@ Nithya
 [2026-06-09 16:04:20] Попытка 1 для: Capitol agenda: Five days to save FISA
 [2026-06-09 16:04:21] Успешно, получено 737 символов
 [2026-06-09 16:04:21] === Блок evening завершён ===
+[2026-06-09 18:00:59] Загружено 1627 уже отправленных новостей
+[2026-06-09 18:00:59] === Запуск блока: ai_evening ===
+[2026-06-09 18:00:59] Неизвестный источник (wwd): Support Systems: How the Denim Industry 
+[2026-06-09 18:00:59] Неизвестный источник (the daily caller): Truckers Replaced By Driverless Delivery
+[2026-06-09 18:00:59] Неизвестный источник (amazon.com): Better decisions at scale: How mathemati
+[2026-06-09 18:00:59] Неизвестный источник (dzone.com): The Big Data Architecture Blueprint: Cor
+[2026-06-09 18:00:59] Неизвестный источник (globenewswire): Ohio's Shale Energy Industry Attracts $2
+[2026-06-09 18:00:59] Неизвестный источник (theregister.com): ZTE Demonstrates Integrated AI, Connecti
+[2026-06-09 18:00:59] Неизвестный источник (amazon.com): Operationalizing AWS security: A maturit
+[2026-06-09 18:00:59] Неизвестный источник (globenewswire): Keytos Security and Carahsoft Partner to
+[2026-06-09 18:00:59] Неизвестный источник (onefootball.com): Grêmio doubles number of scouts to speed
+[2026-06-09 18:00:59] Неизвестный источник (siliconangle news): Pega expands AI platform with agent orch
+[2026-06-09 18:00:59] Неизвестный источник (yahoo entertainment): Is Amazon.com, Inc. (AMZN) A Good Stock 
+[2026-06-09 18:00:59] Неизвестный источник (financial post): Citadel Securities Sees Risk of Fed Forc
+[2026-06-09 18:00:59] Неизвестный источник (cna): How SpaceX President Gwynne Shotwell has
+[2026-06-09 18:00:59] Неизвестный источник (siliconangle news): On theCUBE Pod: Snowflake, Cisco and the
+[2026-06-09 18:00:59] Нет фото: Amazon Seeks to Raise at Least C$7 Billi
+[2026-06-09 18:00:59] Неизвестный источник (verdict): Telstra and Google expand their digital 
+[2026-06-09 18:00:59] Нет фото: AIFA Issues Formal Clarification and Ref
+[2026-06-09 18:00:59] Неизвестный источник (thestreet): Jobs Surprise: AI Cuts vs. Hiring
+[2026-06-09 18:00:59] Нет фото: AIFA Issues Formal Clarification and Ref
+[2026-06-09 18:00:59] Неизвестный источник (crypto briefing): France tests Arcadia AI system as Europe
+[2026-06-09 18:00:59] Неизвестный источник (plos.org): Statistics of cortical representational 
+[2026-06-09 18:00:59] Неизвестный источник (plos.org): Using the task-technology fit model to e
+[2026-06-09 18:00:59] Нет фото: Mitratech Legal Sweeps 2026 AI Recogniti
+[2026-06-09 18:00:59] Неизвестный источник (fortune): The women running Europe in 2026
+[2026-06-09 18:00:59] Неизвестный источник (financial post): Apple investors look for AI to power nex
+[2026-06-09 18:00:59] Неизвестный источник (bitcoinfoundation.org): Rardden Crypto Review 2026: Can You Trus
+[2026-06-09 18:00:59] Неизвестный источник (business insider): A consulting firm's AI chief explains wh
+[2026-06-09 18:00:59] Неизвестный источник (snopes.com): Are US, Israeli militaries integrating? 
+[2026-06-09 18:00:59] Неизвестный источник (computerweekly.com): Councils exit 10-year Capita deal to boo
+[2026-06-09 18:00:59] Неизвестный источник (landezine.com): Deadpan Drive-Bys
+[2026-06-09 18:00:59] Неизвестный источник (pyimagesearch.com): Run an Apache Airflow DAG with Docker Co
+[2026-06-09 18:00:59] Неизвестный источник (prnewswire): Subway® and Disney's Live-Action Moana C
+[2026-06-09 18:00:59] Неизвестный источник (globenewswire): A Next-Gen Intelligence Platform Operati
+[2026-06-09 18:00:59] Неизвестный источник (financial post): IMF chief warns world isn’t ready for sh
+[2026-06-09 18:00:59] Неизвестный источник (medianama.com): Ixigo buys Brevistay stake, invests in p
+[2026-06-09 18:00:59] AI новости: найдено 4 после фильтрации
+[2026-06-09 18:01:02] Обрабатываю: (VIDEO) Tim Cook's Final WWDC Keynote: Apple Focuses on AI U
+[2026-06-09 18:01:02] Попытка 1 для: (VIDEO) Tim Cook's Final WWDC Keynote: A
+[2026-06-09 18:01:03] Успешно, получено 634 символов
+[2026-06-09 18:01:03] Пауза 60 секунд...
+[2026-06-09 18:02:03] Обрабатываю: Alphabet GOOG Stock 2026 Outlook: Strong AI Momentum Makes I
+[2026-06-09 18:02:03] Попытка 1 для: Alphabet GOOG Stock 2026 Outlook: Strong
+[2026-06-09 18:02:04] Успешно, получено 720 символов
+[2026-06-09 18:02:04] Пауза 60 секунд...
+[2026-06-09 18:03:04] Обрабатываю: Tesla Shares Climb 3% in Early Trading Amid Strong EV and AI
+[2026-06-09 18:03:04] Попытка 1 для: Tesla Shares Climb 3% in Early Trading A
+[2026-06-09 18:03:05] Успешно, получено 966 символов
+[2026-06-09 18:03:06] === Блок ai_evening завершён ===
