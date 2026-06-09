@@ -21363,3 +21363,42 @@ Nithya
 [2026-06-09 08:02:07] Попытка 1 для: Full transcript of "Face the Nation with
 [2026-06-09 08:02:08] Успешно, получено 554 символов
 [2026-06-09 08:02:08] === Блок ai_morning завершён ===
+[2026-06-09 11:00:59] Загружено 1621 уже отправленных новостей
+[2026-06-09 11:00:59] === Запуск блока: midday ===
+[2026-06-09 11:01:00] Неизвестный источник (cnbc): U.S. stock futures mixed as Mideast tens
+[2026-06-09 11:01:00] Неизвестный источник (cnbc): Bidding war erupts for world’s oldest ba
+[2026-06-09 11:01:00] Неизвестный источник (yahoo entertainment): 'Tugs at my heart': Days-old moose calf 
+[2026-06-09 11:01:00] Неизвестный источник (mandatory): Ariana Grande’s Tour Performance Raises 
+[2026-06-09 11:01:00] Неизвестный источник (hollywood reporter): 2026 Tony Awards: Complete Winners List 
+[2026-06-09 11:01:00] Неизвестный источник (new york post): Mikal Bridges’ experience of 2-0 NBA Fin
+[2026-06-09 11:01:00] Неизвестный источник (espn): Nelly Korda makes childhood dream come t
+[2026-06-09 11:01:00] Неизвестный источник (hollywood reporter): Ali Louis Bourzgui Speaks up for Arab Th
+[2026-06-09 11:01:00] Неизвестный источник (kyivindependent.com): Zelensky, E3 leaders name 5 conditions f
+[2026-06-09 11:01:00] Неизвестный источник (gameinformer.com): Here's Everything Announced During The 2
+[2026-06-09 11:01:00] Неизвестный источник (chapelboro.com): Owen Hull’s Walk-Off Delivers UNC Baseba
+[2026-06-09 11:01:00] Неизвестный источник (the conversation africa): World Cup creates perfect conditions for
+[2026-06-09 11:01:00] Неизвестный источник (sports illustrated): 50 Parting Thoughts From the 2026 French
+[2026-06-09 11:01:00] Неизвестный источник (xbox.com): Halo: Campaign Evolved Launches July 28,
+[2026-06-09 11:01:00] Неизвестный источник (phys.org): Atlantic 'cold blob' caused by weakening
+[2026-06-09 11:01:00] Неизвестный источник (abc6onyourside.com): At least 12 people shot at Ohio street f
+[2026-06-09 11:01:00] Старая новость (2026-06-07T10:51:01Z): 1 million people flood Madrid streets to
+[2026-06-09 11:01:00] Старая новость (2026-06-07T00:52:07Z): NASA interested in Hubble reboost if cos
+[2026-06-09 11:01:00] Старая новость (2026-06-06T20:10:00Z): Ebola Outbreak: U.S. Doctor Recovers Aft
+[2026-06-09 11:01:00] Старая новость (2026-06-06T12:30:00Z): The most hopeful cancer news in years - 
+[2026-06-09 11:01:00] Мировые новости: найдено 10 после фильтрации
+[2026-06-09 11:01:02] Обрабатываю: 6 people stabbed at Penn Station. Here's what we know.
+[2026-06-09 11:01:02] Попытка 1 для: 6 people stabbed at Penn Station. Here's
+[2026-06-09 11:01:03] Успешно, получено 633 символов
+[2026-06-09 11:01:04] Пауза 60 секунд...
+[2026-06-09 11:02:04] Обрабатываю: Children's wellbeing slips across the U.S.
+[2026-06-09 11:02:04] Попытка 1 для: Children's wellbeing slips across the U.
+[2026-06-09 11:02:04] Успешно, получено 723 символов
+[2026-06-09 11:02:05] Пауза 60 секунд...
+[2026-06-09 11:03:05] Обрабатываю: Graham Platner gets a lift from friendly Maine crowd after w
+[2026-06-09 11:03:05] Попытка 1 для: Graham Platner gets a lift from friendly
+[2026-06-09 11:03:06] Успешно, получено 925 символов
+[2026-06-09 11:03:07] Пауза 60 секунд...
+[2026-06-09 11:04:07] Обрабатываю: Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips
+[2026-06-09 11:04:07] Попытка 1 для: Nvidia, SK Hynix Seal Multi-Year Pact to
+[2026-06-09 11:04:08] Успешно, получено 734 символов
+[2026-06-09 11:04:08] === Блок midday завершён ===
