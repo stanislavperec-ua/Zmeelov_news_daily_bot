@@ -21704,3 +21704,52 @@ Nithya
 [2026-06-10 16:06:19] Попытка 1 для: Four killed, 20 injured in Russian strik
 [2026-06-10 16:06:20] Успешно, получено 742 символов
 [2026-06-10 16:06:20] === Блок evening завершён ===
+[2026-06-10 18:01:04] Загружено 1650 уже отправленных новостей
+[2026-06-10 18:01:04] === Запуск блока: ai_evening ===
+[2026-06-10 18:01:05] Нет фото: GPU Accelerated High Capacity, AI-Ready 
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): The AI supersystem shift: Why Arista’s 1
+[2026-06-10 18:01:05] Неизвестный источник (frontiersin.org): Frontiers | Association between serum 25
+[2026-06-10 18:01:05] Неизвестный источник (lifetechnology.com): Glp-1 Drugs: Transforming Obesity and Di
+[2026-06-10 18:01:05] Неизвестный источник (psychology today): Psychology Is No Longer Alone
+[2026-06-10 18:01:05] Неизвестный источник (theregister.com): MIT boffins take electrospray nozzles ou
+[2026-06-10 18:01:05] Неизвестный источник (africasacountry.com): Not all empires look the same
+[2026-06-10 18:01:05] Неизвестный источник (new zealand herald): SpaceX IPO: Rockets, satellites and sky-
+[2026-06-10 18:01:05] Неизвестный источник (financial post): The 'biggest knock' against Canada's tra
+[2026-06-10 18:01:05] Неизвестный источник (forbes): Growing AI Cybersecurity Challenges Faci
+[2026-06-10 18:01:05] Заблокированный источник (rt): Saudi Arabia: Russia’s most important gu
+[2026-06-10 18:01:05] Неизвестный источник (bleeding cool news): Witchblade #22 Preview: Cyborg Assassins
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): Standard Bots raises $200M at $1B valuat
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): Earlytrade raises $10M to bring agentic 
+[2026-06-10 18:01:05] Неизвестный источник (bitcoinfoundation.org): Is Crypto Dead? Fear & Greed Index Hits 
+[2026-06-10 18:01:05] Неизвестный источник (forbes): Why AI Is Creating New Cybersecurity Ris
+[2026-06-10 18:01:05] Неизвестный источник (successful-blog.com): Apple iOS 27 Explained: New Siri AI, Fea
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): AWS debuts AWS FinOps Agent to help cust
+[2026-06-10 18:01:05] Нет фото: PMI Publishes World’s First Global Stand
+[2026-06-10 18:01:05] Нет фото: Crusoe Touts 5 Gigawatts’ Worth of Data 
+[2026-06-10 18:01:05] Неизвестный источник (telecomtv): What’s up with… SK Telecom, Telefonica D
+[2026-06-10 18:01:05] Неизвестный источник (globenewswire): GOV. DEWINE, LT. GOV. TRESSEL, JOBSOHIO 
+[2026-06-10 18:01:05] Неизвестный источник (bleeding cool news): Lady Mechanika: The Mechanical Menagerie
+[2026-06-10 18:01:05] Неизвестный источник (the conversation africa): Ocean monitoring is in trouble: without 
+[2026-06-10 18:01:05] Заблокированный источник (breitbart news): Mark Zuckerberg's Meta Launches Free 'Am
+[2026-06-10 18:01:05] Неизвестный источник (prnewswire): Data Center Liquid Cooling Market to Rea
+[2026-06-10 18:01:05] Неизвестный источник (financial post): S&P Extends Gain as Chipmakers Eye Best 
+[2026-06-10 18:01:05] Неизвестный источник (globenewswire): OnChain Music Announces Unified Platform
+[2026-06-10 18:01:05] Неизвестный источник (the punch): Nigerian students win big at global Huaw
+[2026-06-10 18:01:05] Нет фото: TRREB Welcomes Launch of Canada’s New Na
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): Datadog launches more than 100 features 
+[2026-06-10 18:01:05] Неизвестный источник (financial post): OpenAI joins a massive AI IPO pipeline n
+[2026-06-10 18:01:05] Неизвестный источник (livemint): Not Bitcoin or Ethereum: These were the 
+[2026-06-10 18:01:05] Неизвестный источник (prnewswire): MCG and Norton Healthcare to Highlight t
+[2026-06-10 18:01:05] Неизвестный источник (siliconangle news): Rental screening startup 100 acquires fr
+[2026-06-10 18:01:05] Неизвестный источник (globenewswire): Decent Holding Inc. Forms Partnership wi
+[2026-06-10 18:01:05] Неизвестный источник (brobible): National Football League Ignores John Ha
+[2026-06-10 18:01:05] Нет фото: INOVAIT and Government of Canada Fund Ne
+[2026-06-10 18:01:05] AI новости: найдено 2 после фильтрации
+[2026-06-10 18:01:07] Обрабатываю: Vertical Data and Ascenty Announce Partnership to Deploy AI 
+[2026-06-10 18:01:07] Попытка 1 для: Vertical Data and Ascenty Announce Partn
+[2026-06-10 18:01:08] Успешно, получено 1090 символов
+[2026-06-10 18:01:09] Пауза 60 секунд...
+[2026-06-10 18:02:09] Обрабатываю: What ‘soft skills’ are and why they’re more important than e
+[2026-06-10 18:02:09] Попытка 1 для: What ‘soft skills’ are and why they’re m
+[2026-06-10 18:02:10] Успешно, получено 913 символов
+[2026-06-10 18:02:11] === Блок ai_evening завершён ===
