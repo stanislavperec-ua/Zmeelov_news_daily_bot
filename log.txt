@@ -21507,3 +21507,62 @@ Nithya
 [2026-06-09 18:03:04] Попытка 1 для: Tesla Shares Climb 3% in Early Trading A
 [2026-06-09 18:03:05] Успешно, получено 966 символов
 [2026-06-09 18:03:06] === Блок ai_evening завершён ===
+[2026-06-10 06:01:00] Загружено 1630 уже отправленных новостей
+[2026-06-10 06:01:00] === Запуск блока: morning ===
+[2026-06-10 06:01:00] Неизвестный источник (apple newsroom): Apple introduces Siri AI, a profoundly m
+[2026-06-10 06:01:00] Неизвестный источник (espn): Wembanyama, Spurs stun Knicks in MSG to 
+[2026-06-10 06:01:00] Неизвестный источник (tmz): Nick Reiner Claims He's Being Blocked Fr
+[2026-06-10 06:01:00] Неизвестный источник (dawgnation): Amid Georgia directive to not schedule T
+[2026-06-10 06:01:00] Неизвестный источник (entertainment weekly): 'Wicked' actors Ariana Grande and Ethan 
+[2026-06-10 06:01:00] Неизвестный источник (cnbc): USDA Secretary Rollins calls Texas ag ch
+[2026-06-10 06:01:00] Неизвестный источник (macrumors): iOS 27 Tidbits: Share a Phone Number on 
+[2026-06-10 06:01:00] Неизвестный источник (tmz): Karmelo Anthony Murder Trial Detective S
+[2026-06-10 06:01:00] Неизвестный источник (marketwatch): Stock Market News June 8, 2026: Dow ends
+[2026-06-10 06:01:00] Заблокированный источник (bleacher report): Check Out Knicks Shirts Given to All Fan
+[2026-06-10 06:01:00] Нет фото: Targeting Cancer-Specific Mutations with
+[2026-06-10 06:01:00] Неизвестный источник (stylecaster): Taylor Swift Wedding Leak Officially Lea
+[2026-06-10 06:01:00] Неизвестный источник (dw (english)): Trump DOJ to denaturalize 17 US citizens
+[2026-06-10 06:01:00] Неизвестный источник (ksl.com): The late-night eating habit that may thr
+[2026-06-10 06:01:00] Неизвестный источник (sfgate): Updated vote counts show how every Calif
+[2026-06-10 06:01:00] Неизвестный источник (space.com): Why do Venus and Jupiter meet up in the 
+[2026-06-10 06:01:00] Неизвестный источник (pbs): A 7.8 magnitude quake in the Philippines
+[2026-06-10 06:01:00] Неизвестный источник (forbes): Musk Joins Trump In Boosting Unsubstanti
+[2026-06-10 06:01:00] Неизвестный источник (medical xpress): Some fruits and vegetables are especiall
+[2026-06-10 06:01:00] Старая новость (2026-06-07T09:00:00Z): Bumblebees have tiny brains but they can
+[2026-06-10 06:01:00] Мировые новости: найдено 10 после фильтрации
+[2026-06-10 06:01:01] Заблокированный источник (naturalnews.com): Iran Parliament Speaker Says Country to 
+[2026-06-10 06:01:01] Заблокированный источник (naturalnews.com): The Quagmire Doctrine: When the empire’s
+[2026-06-10 06:01:01] Заблокированный источник (naturalnews.com): The Iran War is quietly starving million
+[2026-06-10 06:01:01] Заблокированный источник (naturalnews.com): Garland: How America lost the future to 
+[2026-06-10 06:01:01] Нет фото: NATO jets shoot down drone over Latvia, 
+[2026-06-10 06:01:01] Нет фото: Ancient Map Appears to Point to the Loca
+[2026-06-10 06:01:01] Нет фото: A Massive Hidden Planet May Be Lurking B
+[2026-06-10 06:01:01] Нет фото: Elon Musk shows detailed design of AI da
+[2026-06-10 06:01:01] Украинские новости: найдено 3 после фильтрации
+[2026-06-10 06:01:01] Нет фото: Ukrainian strikes hit oil sites in Russi
+[2026-06-10 06:01:01] Нет фото: Today's top news: Afghanistan, Lebanon, 
+[2026-06-10 06:01:01] Нет фото: Next-generation interceptors: Ukrainian 
+[2026-06-10 06:01:01] Харьков: новостей не найдено
+[2026-06-10 06:01:03] Обрабатываю: Pentagon labels tech giant Alibaba and electric car maker BY
+[2026-06-10 06:01:03] Попытка 1 для: Pentagon labels tech giant Alibaba and e
+[2026-06-10 06:01:04] Успешно, получено 654 символов
+[2026-06-10 06:01:04] Пауза 60 секунд...
+[2026-06-10 06:02:04] Обрабатываю: Trump’s $100,000 fee on H-1B visas for highly skilled worker
+[2026-06-10 06:02:04] Попытка 1 для: Trump’s $100,000 fee on H-1B visas for h
+[2026-06-10 06:02:05] Успешно, получено 665 символов
+[2026-06-10 06:02:06] Пауза 60 секунд...
+[2026-06-10 06:03:06] Обрабатываю: Republicans hope Trump retreats on Pulte to save spy law
+[2026-06-10 06:03:06] Попытка 1 для: Republicans hope Trump retreats on Pulte
+[2026-06-10 06:03:07] Успешно, получено 729 символов
+[2026-06-10 06:03:07] Пауза 60 секунд...
+[2026-06-10 06:04:07] Обрабатываю: Instagram is finally letting everyone reorganize their profi
+[2026-06-10 06:04:07] Попытка 1 для: Instagram is finally letting everyone re
+[2026-06-10 06:04:08] Успешно, получено 739 символов
+[2026-06-10 06:04:11] Обрабатываю: Ukraine, Russia trade fire as Zelenskyy allies back call for
+[2026-06-10 06:04:11] Попытка 1 для: Ukraine, Russia trade fire as Zelenskyy 
+[2026-06-10 06:04:12] Успешно, получено 656 символов
+[2026-06-10 06:04:13] Пауза 60 секунд...
+[2026-06-10 06:05:13] Обрабатываю: The bad blood between Poland and Ukraine left over from Worl
+[2026-06-10 06:05:13] Попытка 1 для: The bad blood between Poland and Ukraine
+[2026-06-10 06:05:14] Успешно, получено 756 символов
+[2026-06-10 06:05:14] === Блок morning завершён ===
