@@ -21566,3 +21566,51 @@ Nithya
 [2026-06-10 06:05:13] Попытка 1 для: The bad blood between Poland and Ukraine
 [2026-06-10 06:05:14] Успешно, получено 756 символов
 [2026-06-10 06:05:14] === Блок morning завершён ===
+[2026-06-10 08:01:03] Загружено 1636 уже отправленных новостей
+[2026-06-10 08:01:03] === Запуск блока: ai_morning ===
+[2026-06-10 08:01:03] Неизвестный источник (the tribune india): India's First Advanced Electric Vehicle 
+[2026-06-10 08:01:03] Неизвестный источник (prnewswire): XRP Healthcare Reports More Than 74,000 
+[2026-06-10 08:01:03] Неизвестный источник (financial post): Estonia Raises the Bar for Secure Digita
+[2026-06-10 08:01:03] Неизвестный источник (the local germany): Today in Germany: A roundup of the lates
+[2026-06-10 08:01:03] Неизвестный источник (adweek): The 2026 ADWEEK 50 Are Up for the Challe
+[2026-06-10 08:01:03] Неизвестный источник (livemint): Paytm to hire 4,000 employees by March 2
+[2026-06-10 08:01:03] Неизвестный источник (citationneeded.news): Tech Influence Watch
+[2026-06-10 08:01:03] Неизвестный источник (protothema.gr): Mitsotakis, Chania and the decision for 
+[2026-06-10 08:01:03] Неизвестный источник (antaranews.com): Indonesia eyes AI to accelerate 5G netwo
+[2026-06-10 08:01:03] Неизвестный источник (mit.edu): 3D-printed devices could streamline the 
+[2026-06-10 08:01:03] Неизвестный источник (antaranews.com): RI seeks alternatives routes to cut inte
+[2026-06-10 08:01:03] Нет фото: China’s exports jump 19.4% in May from a
+[2026-06-10 08:01:03] Неизвестный источник (itnews): Apple bumps up security in fresh operati
+[2026-06-10 08:01:03] Неизвестный источник (financial post): China’s Exports Surge Tops Forecasts as 
+[2026-06-10 08:01:03] Неизвестный источник (fox news): ESPN pulls use of AI images from NBA Fin
+[2026-06-10 08:01:03] Неизвестный источник (siliconangle news): AI infrastructure cost control startup P
+[2026-06-10 08:01:03] Неизвестный источник (siliconangle news): FinOps FOCUS specification becomes the c
+[2026-06-10 08:01:03] Неизвестный источник (siliconangle news): OpenAI confidentially files its IPO pape
+[2026-06-10 08:01:03] Неизвестный источник (motley fool australia): Why are ASX 200 tech stocks like WiseTec
+[2026-06-10 08:01:03] Неизвестный источник (siliconangle news): Google upgrades NotebookLM to Gemini 3.5
+[2026-06-10 08:01:03] Неизвестный источник (the punch): ABU students win three Huawei ICT awards
+[2026-06-10 08:01:03] Неизвестный источник (redhat.com): The AI-enabled enterprise: Why we are ap
+[2026-06-10 08:01:03] Неизвестный источник (r-bloggers.com): Eleven Latin American Voices for Open Sc
+[2026-06-10 08:01:03] Неизвестный источник (hoover.org): Freedom Of Navigation In An Age Of Preci
+[2026-06-10 08:01:03] Неизвестный источник (financial post): Nasdaq is tanking again as the tech sell
+[2026-06-10 08:01:03] Неизвестный источник (financial post): Asian Stocks Set to Rebound on Iran, AI 
+[2026-06-10 08:01:03] Неизвестный источник (computerweekly.com): Why voice is becoming India’s next payme
+[2026-06-10 08:01:03] Неизвестный источник (jmir.org): Artificial Intelligence Governance in He
+[2026-06-10 08:01:03] Неизвестный источник (wnd.com): ‘Clear and present danger’: U.S. trucker
+[2026-06-10 08:01:03] Неизвестный источник (siliconangle news): Apple refines Liquid Glass design and ex
+[2026-06-10 08:01:03] Неизвестный источник (prnewswire): KinoSec Launches a Cross-Domain Autonomo
+[2026-06-10 08:01:03] Неизвестный источник (digital journal): From semiconductor verification to AI in
+[2026-06-10 08:01:03] Внутренний дубль: Paytm plans 10% staff increase in AI pivot with so
+[2026-06-10 08:01:03] AI новости: найдено 7 после фильтрации
+[2026-06-10 08:01:05] Обрабатываю: India's First Advanced Electric Vehicle Centre of Excellence
+[2026-06-10 08:01:05] Попытка 1 для: India's First Advanced Electric Vehicle 
+[2026-06-10 08:01:07] Успешно, получено 844 символов
+[2026-06-10 08:01:07] Пауза 60 секунд...
+[2026-06-10 08:02:07] Обрабатываю: India's biggest trade bet comes with six red flags
+[2026-06-10 08:02:07] Попытка 1 для: India's biggest trade bet comes with six
+[2026-06-10 08:02:08] Успешно, получено 893 символов
+[2026-06-10 08:02:09] Пауза 60 секунд...
+[2026-06-10 08:03:09] Обрабатываю: Paytm plans 10% staff increase in AI pivot, to lay off 400
+[2026-06-10 08:03:09] Попытка 1 для: Paytm plans 10% staff increase in AI piv
+[2026-06-10 08:03:10] Успешно, получено 874 символов
+[2026-06-10 08:03:11] === Блок ai_morning завершён ===
