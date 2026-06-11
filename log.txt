@@ -21818,3 +21818,46 @@ Nithya
 [2026-06-11 06:06:17] Попытка 1 для: Four killed, 20 injured in Russian strik
 [2026-06-11 06:06:18] Успешно, получено 719 символов
 [2026-06-11 06:06:18] === Блок morning завершён ===
+[2026-06-11 08:01:05] Загружено 1658 уже отправленных новостей
+[2026-06-11 08:01:05] === Запуск блока: ai_morning ===
+[2026-06-11 08:01:05] Неизвестный источник (c-sharpcorner.com): How to Build Cost-Aware AI Applications 
+[2026-06-11 08:01:05] Неизвестный источник (c-sharpcorner.com): Local AI Inference in .NET: Running Mode
+[2026-06-11 08:01:05] Неизвестный источник (geeky gadgets): Forget Apple Intelligence: 10 Massive WW
+[2026-06-11 08:01:05] Заблокированный источник (naturalnews.com): China bets $295 billion on homegrown AI 
+[2026-06-11 08:01:05] Неизвестный источник (c-sharpcorner.com): Microsoft Execution Containers (MXC): Se
+[2026-06-11 08:01:05] Неизвестный источник (antaranews.com): Energy, AI anchor Indonesia-South Korea 
+[2026-06-11 08:01:05] Неизвестный источник (businessline): SpaceX aims to launch orbital AI computi
+[2026-06-11 08:01:05] Нет фото: Global Firms Rebuff Private Credit Fears
+[2026-06-11 08:01:05] Неизвестный источник (bleeding cool news): Archie x Army of Darkness #5 Preview: Ne
+[2026-06-11 08:01:05] Неизвестный источник (financial post): Chinese Consumer Inflation Unexpectedly 
+[2026-06-11 08:01:05] Неизвестный источник (cna): Google Cloud outage in India after third
+[2026-06-11 08:01:05] Неизвестный источник (siliconangle news): Google’s Gemini 3.5 Live Translate enabl
+[2026-06-11 08:01:05] Неизвестный источник (siliconangle news): NinjaOne raises $400M+ for its endpoint 
+[2026-06-11 08:01:05] Неизвестный источник (citationneeded.news): Molly White launches Tech Influence Watc
+[2026-06-11 08:01:05] Неизвестный источник (antiwar.com): Section 224: How Far Should America’s Se
+[2026-06-11 08:01:05] Неизвестный источник (soldiersystems.net): Sentient Fortress: Engineering Future Ar
+[2026-06-11 08:01:05] Нет фото: Multimodal Health Monitoring and Therano
+[2026-06-11 08:01:05] Неизвестный источник (cna): SpaceX aims to launch orbital AI computi
+[2026-06-11 08:01:05] Неизвестный источник (siliconangle news): SailPoint shares fall despite earnings b
+[2026-06-11 08:01:05] Неизвестный источник (financial post): Asian Stocks Set to Fall After Volatile 
+[2026-06-11 08:01:05] Неизвестный источник (prnewswire): Rockefeller Foundation Mobilizes $450M+ 
+[2026-06-11 08:01:05] Нет фото: RoGO Communications Partners with AugSen
+[2026-06-11 08:01:05] Неизвестный источник (activistpost.com): How Washington is Silently Tokenizing Yo
+[2026-06-11 08:01:05] Неизвестный источник (financial post): News of the day: Canadian trade surplus,
+[2026-06-11 08:01:05] Неизвестный источник (financial post): GM Pivots to Energy Storage on AI Demand
+[2026-06-11 08:01:05] Неизвестный источник (siliconangle news): Three insights you might have missed fro
+[2026-06-11 08:01:05] Неизвестный источник (computerweekly.com): Brace for cloud price hikes and AI failu
+[2026-06-11 08:01:05] Неизвестный источник (abcnews.com): Unmanned drone boat rescues 2 crew...
+[2026-06-11 08:01:05] AI новости: найдено 12 после фильтрации
+[2026-06-11 08:01:08] Обрабатываю: Meesho: Why Jefferies believes the stock could rally 34% fro
+[2026-06-11 08:01:08] Попытка 1 для: Meesho: Why Jefferies believes the stock
+[2026-06-11 08:01:08] Успешно, получено 546 символов
+[2026-06-11 08:01:09] Пауза 60 секунд...
+[2026-06-11 08:02:09] Обрабатываю: The experts’ view: What does a graduate programme offer and 
+[2026-06-11 08:02:09] Попытка 1 для: The experts’ view: What does a graduate 
+[2026-06-11 08:02:10] Успешно, получено 759 символов
+[2026-06-11 08:02:11] Пауза 60 секунд...
+[2026-06-11 08:03:11] Обрабатываю: State to invest €460m to set up seven advanced tech research
+[2026-06-11 08:03:11] Попытка 1 для: State to invest €460m to set up seven ad
+[2026-06-11 08:03:11] Успешно, получено 659 символов
+[2026-06-11 08:03:12] === Блок ai_morning завершён ===
