@@ -22055,3 +22055,51 @@ Nithya
 [2026-06-12 06:05:34] Попытка 1 для: The EU plan to add seven new member coun
 [2026-06-12 06:05:35] Успешно, получено 651 символов
 [2026-06-12 06:05:35] === Блок morning завершён ===
+[2026-06-12 08:00:58] Загружено 1679 уже отправленных новостей
+[2026-06-12 08:00:58] === Запуск блока: ai_morning ===
+[2026-06-12 08:00:59] Неизвестный источник (inside higher ed): Stop the Nomenclature Nonsense
+[2026-06-12 08:00:59] Неизвестный источник (cointelegraph): US lawmakers seek coordinated federal re
+[2026-06-12 08:00:59] Неизвестный источник (prnewswire): IHH Healthcare Collaborates with Infosys
+[2026-06-12 08:00:59] Неизвестный источник (prnewswire): IHH Healthcare Collaborates with Infosys
+[2026-06-12 08:00:59] Неизвестный источник (computerweekly.com): Cyber resilience and female leadership: 
+[2026-06-12 08:00:59] Заблокированный источник (naturalnews.com): War or No War – Why Silver Matters More 
+[2026-06-12 08:00:59] Заблокированный источник (naturalnews.com): Experts Warn Rogue AI Agents With Crypto
+[2026-06-12 08:00:59] Неизвестный источник (c-sharpcorner.com): AI Testing Gap: Why Developers Adopt Cod
+[2026-06-12 08:00:59] Неизвестный источник (c-sharpcorner.com): Local-First AI Development: Running Ente
+[2026-06-12 08:00:59] Неизвестный источник (antaranews.com): Indonesia prioritizes AI talent to achie
+[2026-06-12 08:00:59] Неизвестный источник (financial post): Europe Margins Poised for First Growth S
+[2026-06-12 08:00:59] Неизвестный источник (newsonjapan.com): Local Governments in Japan Tap Into AI
+[2026-06-12 08:00:59] Неизвестный источник (computerweekly.com): Wi-Fi 7 gains ground but advanced Wi-Fi 
+[2026-06-12 08:00:59] Неизвестный источник (americanthinker.com): The Future of AI
+[2026-06-12 08:00:59] Неизвестный источник (whio): Asian shares edge lower after Wall Stree
+[2026-06-12 08:00:59] Неизвестный источник (antaranews.com): Fortinet launches Singapore NDR cloud Po
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Data center infrastructure startup Tenso
+[2026-06-12 08:00:59] Нет фото: Asian shares slip after another sell-off
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): With chatbot regulation, Canada proposes
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Anthropic’s Dario Amodei wants governmen
+[2026-06-12 08:00:59] Неизвестный источник (next big future): Why SpaceX Needed $75 Billion from the I
+[2026-06-12 08:00:59] Нет фото: A novel approach for forecasting algal b
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Oracle’s AI investments spook investors 
+[2026-06-12 08:00:59] Неизвестный источник (crypto briefing): James Chanos questions SpaceX valuation 
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Microsoft patches record 200-plus vulner
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Neura Robotics to raise up to $1.4B from
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Securing the AI workforce: Zscaler’s zer
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Visa partners with OpenAI to let AI agen
+[2026-06-12 08:00:59] Неизвестный источник (financial post): Asian Stocks to Fall, Oil Rises as US St
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Automated governance is FinOps’ next fro
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): HPE’s Unleash AI takes aim at the ‘AI pi
+[2026-06-12 08:00:59] Неизвестный источник (frontiersin.org): Frontiers | Association of vitamin D def
+[2026-06-12 08:00:59] Неизвестный источник (siliconangle news): Dell’s Microsoft/AMD collaboration: Thre
+[2026-06-12 08:00:59] Нет фото: Meta, X to Face Moratorium on Users Unde
+[2026-06-12 08:00:59] Неизвестный источник (financial post): Meta, X to face moratorium on Canadian u
+[2026-06-12 08:00:59] Неизвестный источник (calgary herald): Alberta may see ‘gigawatt-scale’ AI data
+[2026-06-12 08:00:59] Неизвестный источник (financial post): News of the day: Bank of Canada holds ra
+[2026-06-12 08:00:59] AI новости: найдено 2 после фильтрации
+[2026-06-12 08:01:01] Обрабатываю: TCS and Anthropic launch global premier partnership to drive
+[2026-06-12 08:01:01] Попытка 1 для: TCS and Anthropic launch global premier 
+[2026-06-12 08:01:02] Успешно, получено 434 символов
+[2026-06-12 08:01:02] Пауза 60 секунд...
+[2026-06-12 08:02:02] Обрабатываю: Meta partners with Reliance to set up its first data centre 
+[2026-06-12 08:02:02] Попытка 1 для: Meta partners with Reliance to set up it
+[2026-06-12 08:02:03] Успешно, получено 784 символов
+[2026-06-12 08:02:05] === Блок ai_morning завершён ===
