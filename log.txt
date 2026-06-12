@@ -22194,3 +22194,47 @@ Nithya
 [2026-06-12 16:05:13] Попытка 1 для: Luigi Scazzieri quoted in Euronews on th
 [2026-06-12 16:05:14] Успешно, получено 745 символов
 [2026-06-12 16:05:14] === Блок evening завершён ===
+[2026-06-12 18:00:59] Загружено 1691 уже отправленных новостей
+[2026-06-12 18:00:59] === Запуск блока: ai_evening ===
+[2026-06-12 18:00:59] Неизвестный источник (databricks.com): Welcoming the first cohort of Databricks
+[2026-06-12 18:00:59] Неизвестный источник (siliconangle news): QumulusAI and the shift from GPU scarcit
+[2026-06-12 18:00:59] Неизвестный источник (crypto briefing): Musk to speak at ASML event ahead of Spa
+[2026-06-12 18:00:59] Неизвестный источник (prnewswire): GPU as a Service Market to Reach USD 14.
+[2026-06-12 18:00:59] Неизвестный источник (yahoo entertainment): Meta Platforms, Inc. (META) Is A Top AI 
+[2026-06-12 18:00:59] Неизвестный источник (cnbc): From startup to $1.8 trillion: The inves
+[2026-06-12 18:00:59] Неизвестный источник (cnbc): Ahead of SpaceX IPO, Elon Musk addresses
+[2026-06-12 18:00:59] Неизвестный источник (trefis): Is Meta Spending Too Much On AI?
+[2026-06-12 18:00:59] Неизвестный источник (common dreams): Corporate Tax Dodgers’ Lobbying and Poli
+[2026-06-12 18:00:59] Неизвестный источник (forbes): A New Trump Rule Threatens Research Behi
+[2026-06-12 18:00:59] Неизвестный источник (siliconangle news): Coinbase for Agents lets AI assistants t
+[2026-06-12 18:00:59] Неизвестный источник (internet): The Gentlemen Ransomware Claims 478 Vict
+[2026-06-12 18:00:59] Неизвестный источник (theregister.com): ZTE wins three Selular Award 2026 honors
+[2026-06-12 18:00:59] Неизвестный источник (pymnts.com): CISA Shifts Focus to Risk Management Ami
+[2026-06-12 18:00:59] Неизвестный источник (prnewswire): The Truth About Global Brands
+[2026-06-12 18:00:59] Неизвестный источник (gizmodo.com): OpenAI Adds Fuel to Republican Drive to 
+[2026-06-12 18:00:59] Неизвестный источник (common dreams): Alarmed by 'Rapid, Unregulated Rise' of 
+[2026-06-12 18:00:59] Нет фото: CVPR 2026 Honors the Year's Most Innovat
+[2026-06-12 18:00:59] Неизвестный источник (new york post): Elon Musk’s SpaceX IPO draws $70B in ord
+[2026-06-12 18:00:59] Неизвестный источник (siliconangle news): PhoenixAI raises $80M to drive the devel
+[2026-06-12 18:00:59] Неизвестный источник (business insider): A logistics company designed an AI tool 
+[2026-06-12 18:00:59] Нет фото: CoreWeave AI Funding Goes Global With Fi
+[2026-06-12 18:00:59] Неизвестный источник (globenewswire): HyperNova 60B leads Artificial Analysis 
+[2026-06-12 18:00:59] Неизвестный источник (crypto briefing): SpaceX outlines IPO ambitions with six k
+[2026-06-12 18:00:59] Неизвестный источник (prnewswire): TESCO Metering Launches Universal SIM Ca
+[2026-06-12 18:00:59] Неизвестный источник (businessline): TN Chief Minister Vijay seeks greater Ce
+[2026-06-12 18:00:59] Неизвестный источник (techtarget.com): Abridge expands clinical intelligence pl
+[2026-06-12 18:00:59] Неизвестный источник (new haven register): Anthropic announces 'Claude Corps' to te
+[2026-06-12 18:00:59] Неизвестный источник (telecomtv): What’s up with… Sovereign cloud in Italy
+[2026-06-12 18:00:59] Неизвестный источник (siliconangle news): Blue Yonder pushes supply chain AI towar
+[2026-06-12 18:00:59] Нет фото: Survey Reveals 85% of Canadians Trust Pr
+[2026-06-12 18:00:59] Неизвестный источник (prnewswire): NatGasHub.com and Databricks Integration
+[2026-06-12 18:00:59] Неизвестный источник (financial post): DoorDash built an AI chatbot to help wit
+[2026-06-12 18:00:59] Неизвестный источник (plos.org): MicroRNA target gene prediction model ba
+[2026-06-12 18:00:59] Неизвестный источник (plos.org): TL-DETR: Efficient transmission line def
+[2026-06-12 18:00:59] Неизвестный источник (plos.org): Gaze dynamics prior to navigation suppor
+[2026-06-12 18:00:59] Неизвестный источник (prnewswire): Fleetworthy and Lytx Announce Integratio
+[2026-06-12 18:00:59] AI новости: найдено 1 после фильтрации
+[2026-06-12 18:01:01] Обрабатываю: Why Google is investing millions in electricians, welders an
+[2026-06-12 18:01:01] Попытка 1 для: Why Google is investing millions in elec
+[2026-06-12 18:01:03] Успешно, получено 932 символов
+[2026-06-12 18:01:03] === Блок ai_evening завершён ===
