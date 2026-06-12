@@ -22000,3 +22000,58 @@ Nithya
 [2026-06-11 18:03:15] Попытка 1 для: Scientists propose a radical new theory 
 [2026-06-11 18:03:16] Успешно, получено 586 символов
 [2026-06-11 18:03:17] === Блок ai_evening завершён ===
+[2026-06-12 06:01:01] Загружено 1673 уже отправленных новостей
+[2026-06-12 06:01:01] === Запуск блока: morning ===
+[2026-06-12 06:01:01] Неизвестный источник (yahoo entertainment): NBA Finals: Victor Wembanyama draws flag
+[2026-06-12 06:01:01] Неизвестный источник (nbcsports.com): Texas Tech booster Cody Campbell on Bren
+[2026-06-12 06:01:01] Неизвестный источник (heat.com): Taylor Swift attends 2026 NBA Finals Gam
+[2026-06-12 06:01:01] Неизвестный источник (investor's business daily): Dow Jones Futures Rise, Oil Pops, Oracle
+[2026-06-12 06:01:01] Неизвестный источник (heat.com): Live Updates: Spurs, Knicks vie for cruc
+[2026-06-12 06:01:01] Неизвестный источник (cnbc): CNBC Daily Open: Trump expresses 'love' 
+[2026-06-12 06:01:01] Неизвестный источник (hollywood reporter): ’24 Jump Street’ in the Works With Jonah
+[2026-06-12 06:01:01] Неизвестный источник (the dallas morning news): Karmelo Anthony lawyers file notice of a
+[2026-06-12 06:01:01] Заблокированный источник (sciencealert): A Strange 'Cold Blob' in The Atlantic Si
+[2026-06-12 06:01:01] Неизвестный источник (macrumors): Apple Shares Massive List of Over 250 Ch
+[2026-06-12 06:01:01] Неизвестный источник (intouch weekly): Failed Mayoral Candidate Spencer Pratt R
+[2026-06-12 06:01:01] Неизвестный источник (space.com): Jupiter and Venus looked spectacular in 
+[2026-06-12 06:01:01] Неизвестный источник (sports illustrated): Duped By Fake Practice Stats, LeSean McC
+[2026-06-12 06:01:01] Неизвестный источник (tmz): 'RHOA' Drew Sidora's Divorce Finalized: 
+[2026-06-12 06:01:01] Неизвестный источник (9to5google.com): Lenovo’s new rugged Android tablet has a
+[2026-06-12 06:01:01] Неизвестный источник (post magazine): Beijing detects suspected Japanese spy p
+[2026-06-12 06:01:01] Старая новость (2026-06-10T00:54:00Z): 2026 AHA/ACC/ADA/ASN Guideline for the P
+[2026-06-12 06:01:01] Мировые новости: найдено 14 после фильтрации
+[2026-06-12 06:01:01] Заблокированный источник (naturalnews.com): Report: U.S. Nuclear Weapons Spending Ex
+[2026-06-12 06:01:01] Заблокированный источник (naturalnews.com): Ukrainian Missile Strike Hits Regional C
+[2026-06-12 06:01:01] Заблокированный источник (naturalnews.com): Russia and China forging energy alliance
+[2026-06-12 06:01:01] Нет фото: Pierce County declines charges against t
+[2026-06-12 06:01:01] Нет фото: Teens are being banned from bowling alle
+[2026-06-12 06:01:01] Нет фото: REPORT: Karmelo Anthony Placed in Isolat
+[2026-06-12 06:01:01] Нет фото: Correction: The prevalence of mental hea
+[2026-06-12 06:01:01] Нет фото: Karmelo Anthony’s GiveSendGo Page Taken 
+[2026-06-12 06:01:01] Украинские новости: найдено 3 после фильтрации
+[2026-06-12 06:01:02] Харьков: новостей не найдено
+[2026-06-12 06:01:04] Обрабатываю: U.S. bombs Iran for second straight night
+[2026-06-12 06:01:04] Попытка 1 для: U.S. bombs Iran for second straight nigh
+[2026-06-12 06:01:05] Успешно, получено 527 символов
+[2026-06-12 06:01:05] Пауза 60 секунд...
+[2026-06-12 06:02:05] Обрабатываю: A new wave of anti-immigrant violence hits U.K. as riots con
+[2026-06-12 06:02:05] Попытка 1 для: A new wave of anti-immigrant violence hi
+[2026-06-12 06:02:11] Ошибка (попытка 1): Error code: 503 - {'error': {'message': 'llama-3.3-70b-versatile is currently over capacity. Please try again and back off exponentially. Visit https:
+[2026-06-12 06:02:21] Попытка 2 для: A new wave of anti-immigrant violence hi
+[2026-06-12 06:02:26] Успешно, получено 909 символов
+[2026-06-12 06:02:26] Пауза 60 секунд...
+[2026-06-12 06:03:26] Обрабатываю: Apple’s new Siri AI knows when to shut up
+[2026-06-12 06:03:26] Попытка 1 для: Apple’s new Siri AI knows when to shut u
+[2026-06-12 06:03:27] Успешно, получено 693 символов
+[2026-06-12 06:03:28] Пауза 60 секунд...
+[2026-06-12 06:04:28] Обрабатываю: Democrats reluctantly accept Platner as GOP wields his candi
+[2026-06-12 06:04:28] Попытка 1 для: Democrats reluctantly accept Platner as 
+[2026-06-12 06:04:29] Успешно, получено 590 символов
+[2026-06-12 06:04:32] Обрабатываю: Guerrillas With FPV Drones: Ukrainian Battlefield Lessons fo
+[2026-06-12 06:04:32] Попытка 1 для: Guerrillas With FPV Drones: Ukrainian Ba
+[2026-06-12 06:04:33] Успешно, получено 688 символов
+[2026-06-12 06:04:34] Пауза 60 секунд...
+[2026-06-12 06:05:34] Обрабатываю: The EU plan to add seven new member countries, including Ukr
+[2026-06-12 06:05:34] Попытка 1 для: The EU plan to add seven new member coun
+[2026-06-12 06:05:35] Успешно, получено 651 символов
+[2026-06-12 06:05:35] === Блок morning завершён ===
