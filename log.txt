@@ -22301,3 +22301,51 @@ Nithya
 [2026-06-13 06:05:14] Попытка 1 для: Ukraine hits fuel supplies to Crimea, sp
 [2026-06-13 06:05:15] Успешно, получено 789 символов
 [2026-06-13 06:05:16] === Блок morning завершён ===
+[2026-06-13 08:00:59] Загружено 1698 уже отправленных новостей
+[2026-06-13 08:00:59] === Запуск блока: ai_morning ===
+[2026-06-13 08:00:59] Неизвестный источник (smashingmagazine.com): The Impact Of Humanoid Robots On Humanit
+[2026-06-13 08:00:59] Неизвестный источник (rte): SpaceX IPO makes Elon Musk the world's f
+[2026-06-13 08:00:59] Неизвестный источник (the local germany): Today in Germany: A roundup of the lates
+[2026-06-13 08:00:59] Неизвестный источник (counterpunch): Roaming Charges: Data My Eyes
+[2026-06-13 08:00:59] Неизвестный источник (counterpunch): America the Unfree—Home of the Policed, 
+[2026-06-13 08:00:59] Нет фото: Copper Prices Surge With Mining Stocks a
+[2026-06-13 08:00:59] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Root Cause Analysis 
+[2026-06-13 08:00:59] Неизвестный источник (c-sharpcorner.com): Building Production-Ready Local AI Solut
+[2026-06-13 08:00:59] Нет фото: perforatedai 3.2.1
+[2026-06-13 08:00:59] Неизвестный источник (c-sharpcorner.com): Is Your Legacy .NET Application Ready fo
+[2026-06-13 08:00:59] Неизвестный источник (pr newswire uk): Unilumin at WOO 2026 London: Engineering
+[2026-06-13 08:00:59] Неизвестный источник (prnewswire): Unilumin at WOO 2026 London: Engineering
+[2026-06-13 08:00:59] Неизвестный источник (motley fool australia): 5 ASX ETFs for beginners with $500
+[2026-06-13 08:00:59] Неизвестный источник (livemint): Elon Musk's net worth is set to cross $1
+[2026-06-13 08:00:59] Неизвестный источник (crypto briefing): SpaceX raises $75B in the largest IPO in
+[2026-06-13 08:00:59] Неизвестный источник (the punch): AI can’t replace humans in brand buildin
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): Adobe beats expectations but another top
+[2026-06-13 08:00:59] Неизвестный источник (forbes): Why Drones Are Becoming The New Norm For
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): OpenAI acquires AI agent orchestration s
+[2026-06-13 08:00:59] Неизвестный источник (forbes): SpaceX IPO Lines Up $230 Billion Windfal
+[2026-06-13 08:00:59] Неизвестный источник (redhat.com): Architecting true autonomy with a level 
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): After raising record $75B in IPO, Elon M
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): Elon Musk’s SpaceX raises record-breakin
+[2026-06-13 08:00:59] Неизвестный источник (tenable.com): CISA BOD 26-04: Frequently asked questio
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): Upriver raises $14M to automate enterpri
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): Helix launches with $10B+ in funding to 
+[2026-06-13 08:00:59] Неизвестный источник (businessline): SpaceX IPO pushes Elon Musk’s net worth 
+[2026-06-13 08:00:59] Неизвестный источник (shtfplan.com): War or No War – Why Silver Matters More 
+[2026-06-13 08:00:59] Неизвестный источник (new york post): Anti-Paramount-Warner Bros. Block the Me
+[2026-06-13 08:00:59] Нет фото: Anthropic announces 'Claude Corps' to te
+[2026-06-13 08:00:59] Неизвестный источник (the daily caller): Demystifying America’s Chips War With Ch
+[2026-06-13 08:00:59] Неизвестный источник (digital journal): Cybersecurity risks continue to challeng
+[2026-06-13 08:00:59] Неизвестный источник (financial post): Former xAI staffer says he was fired for
+[2026-06-13 08:00:59] Неизвестный источник (siliconangle news): Jeff Bezos’ Prometheus raises $12B to ac
+[2026-06-13 08:00:59] Неизвестный источник (the conversation africa): Friday essay: despite the AI hype, some 
+[2026-06-13 08:00:59] Внутренний дубль: SpaceX IPO makes Elon Musk the world's first trill
+[2026-06-13 08:00:59] Внутренний дубль: SpaceX IPO makes Elon Musk the world's first trill
+[2026-06-13 08:00:59] AI новости: найдено 2 после фильтрации
+[2026-06-13 08:01:02] Обрабатываю: SpaceX IPO makes Elon Musk the world’s first trillionaire
+[2026-06-13 08:01:02] Попытка 1 для: SpaceX IPO makes Elon Musk the world’s f
+[2026-06-13 08:01:03] Успешно, получено 725 символов
+[2026-06-13 08:01:03] Пауза 60 секунд...
+[2026-06-13 08:02:03] Обрабатываю: Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable
+[2026-06-13 08:02:03] Попытка 1 для: Musk’s $1.8 trillion SpaceX IPO could be
+[2026-06-13 08:02:04] Успешно, получено 692 символов
+[2026-06-13 08:02:05] === Блок ai_morning завершён ===
