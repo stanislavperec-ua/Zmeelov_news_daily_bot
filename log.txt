@@ -22426,3 +22426,53 @@ Nithya
 [2026-06-13 16:05:13] Успешно, получено 597 символов
 [2026-06-13 16:05:14] Фото не отправилось: 400
 [2026-06-13 16:05:15] === Блок evening завершён ===
+[2026-06-13 18:00:57] Загружено 1710 уже отправленных новостей
+[2026-06-13 18:00:57] === Запуск блока: ai_evening ===
+[2026-06-13 18:00:57] Неизвестный источник (esquire.com): Every Steven Spielberg Movie, Ranked
+[2026-06-13 18:00:57] Неизвестный источник (programmablemutter.com): Filing includes plans for cities -- on o
+[2026-06-13 18:00:57] Неизвестный источник (financial post): Elon Musk becomes world’s first trillion
+[2026-06-13 18:00:57] Неизвестный источник (thewrap): The Ledger: The Human Investing Approach
+[2026-06-13 18:00:57] Неизвестный источник (the daily caller): SpaceX Opens At $150 A Share, Breaks $2 
+[2026-06-13 18:00:57] Неизвестный источник (soundtelegraph.com.au): SpaceX IPO: Elon Musk’s AI, space compan
+[2026-06-13 18:00:57] Неизвестный источник (globenewswire): AVAV Shareholder Alert: July 27, 2026 Le
+[2026-06-13 18:00:57] Неизвестный источник (psychology today): How to Think About AI Without Splitting 
+[2026-06-13 18:00:57] Неизвестный источник (cnbc): SpaceX COO Shotwell says Tesla tie-up ‘m
+[2026-06-13 18:00:57] Неизвестный источник (globenewswire): The Gross Law Firm Reminds Shareholders 
+[2026-06-13 18:00:57] Неизвестный источник (prnewswire): Cybersecurity Market to Reach USD 663.2 
+[2026-06-13 18:00:57] Неизвестный источник (siliconangle news): ChatSee raises $6.5M to build ‘failure m
+[2026-06-13 18:00:57] Нет фото: DEWA Organises Second Agentic AI Retreat
+[2026-06-13 18:00:57] Неизвестный источник (ubergizmo): Google Gemini AI Exploited In Massive In
+[2026-06-13 18:00:57] Неизвестный источник (freelock.com): Freelock Blog: Against Inevitability
+[2026-06-13 18:00:57] Нет фото: The New Bottleneck Isn’t Computing Power
+[2026-06-13 18:00:57] Неизвестный источник (globenewswire): The New Bottleneck Isn’t Computing Power
+[2026-06-13 18:00:57] Неизвестный источник (fortune): ‘I gave SpaceX less than a 10% chance of
+[2026-06-13 18:00:57] Неизвестный источник (fortune): SpaceX valuation now at over $2 trillion
+[2026-06-13 18:00:57] Неизвестный источник (crypto briefing): Fetch.ai builds uAgent integrating with 
+[2026-06-13 18:00:57] Неизвестный источник (insurance journal): Scammers Used Gemini AI to Help Build Sp
+[2026-06-13 18:00:57] Неизвестный источник (wnd.com): Google files lawsuit against Chinese ‘or
+[2026-06-13 18:00:57] Неизвестный источник (plos.org): A new method for augmenting short time s
+[2026-06-13 18:00:57] Неизвестный источник (plos.org): Cross-dataset benchmarking of machine le
+[2026-06-13 18:00:57] Неизвестный источник (androidguys): Google Integrates Gemini AI into TCL Goo
+[2026-06-13 18:00:57] Неизвестный источник (globenewswire): SEALSQ and WISeKey Update Progress on th
+[2026-06-13 18:00:57] Неизвестный источник (military.com): Section 622 Amendment Makes Israel Intel
+[2026-06-13 18:00:57] Нет фото: Aymer AI Announces Venture to Develop 90
+[2026-06-13 18:00:57] Неизвестный источник (www.nrc.nl): Silicon Valley needs to get God
+[2026-06-13 18:00:57] Неизвестный источник (prnewswire): GELITA Unveils Next-Generation Excipient
+[2026-06-13 18:00:57] Нет фото: NetworkNewsAudio Announces Audio Press R
+[2026-06-13 18:00:57] Неизвестный источник (globenewswire): NetworkNewsAudio Announces Audio Press R
+[2026-06-13 18:00:57] Неизвестный источник (the conversation africa): Trump’s AI security order acknowledges r
+[2026-06-13 18:00:57] Нет фото: aait 4.0.3
+[2026-06-13 18:00:57] Неизвестный источник (cnbc): Small investors scrambled to get in on t
+[2026-06-13 18:00:57] AI новости: найдено 4 после фильтрации
+[2026-06-13 18:01:00] Обрабатываю: SpaceX IPO: Elon Musk’s AI, space company begins trading wit
+[2026-06-13 18:01:00] Попытка 1 для: SpaceX IPO: Elon Musk’s AI, space compan
+[2026-06-13 18:01:01] Успешно, получено 639 символов
+[2026-06-13 18:01:01] Пауза 60 секунд...
+[2026-06-13 18:02:01] Обрабатываю: Elon Musk’s Self-Contradictory Military Policy
+[2026-06-13 18:02:01] Попытка 1 для: Elon Musk’s Self-Contradictory Military 
+[2026-06-13 18:02:02] Успешно, получено 457 символов
+[2026-06-13 18:02:02] Пауза 60 секунд...
+[2026-06-13 18:03:02] Обрабатываю: Lenskart draws big money; Meesho to buy Kirana Club
+[2026-06-13 18:03:02] Попытка 1 для: Lenskart draws big money; Meesho to buy 
+[2026-06-13 18:03:03] Успешно, получено 459 символов
+[2026-06-13 18:03:04] === Блок ai_evening завершён ===
