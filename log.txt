@@ -22349,3 +22349,35 @@ Nithya
 [2026-06-13 08:02:03] Попытка 1 для: Musk’s $1.8 trillion SpaceX IPO could be
 [2026-06-13 08:02:04] Успешно, получено 692 символов
 [2026-06-13 08:02:05] === Блок ai_morning завершён ===
+[2026-06-13 11:00:57] Загружено 1700 уже отправленных новостей
+[2026-06-13 11:00:57] === Запуск блока: midday ===
+[2026-06-13 11:00:57] Неизвестный источник (tmz): 'Top Gun: Maverick' Actor James Handy Di
+[2026-06-13 11:00:57] Неизвестный источник (variety): Taylor Swift Thanks Family, Tears Up at 
+[2026-06-13 11:00:57] Неизвестный источник (9to5mac): Apple’s third-generation Foundation Mode
+[2026-06-13 11:00:57] Неизвестный источник (heat.com): What They’re Saying: Knicks complete his
+[2026-06-13 11:00:57] Неизвестный источник (cnbc): Stock futures tick higher as Wall Street
+[2026-06-13 11:00:57] Неизвестный источник (entertainment weekly): Mariska Hargitay says Knicks comeback wi
+[2026-06-13 11:00:57] Неизвестный источник (9to5mac): WhatsApp rolling out multi-account suppo
+[2026-06-13 11:00:57] Неизвестный источник (yahoo entertainment): Trump phone teardown confirms it's nearl
+[2026-06-13 11:00:57] Неизвестный источник (9to5google.com): Telegram brings back its Wear OS app aft
+[2026-06-13 11:00:57] Неизвестный источник (phys.org): First global map of mycorrhizal fungi re
+[2026-06-13 11:00:57] Неизвестный источник (space.com): Don't miss this beautiful 3-planet parad
+[2026-06-13 11:00:57] Старая новость (2026-06-11T09:03:08Z): Georgia hospitals test ‘game-changer’ pa
+[2026-06-13 11:00:57] Старая новость (2026-06-10T21:00:00Z): James Webb Space Telescope finds evidenc
+[2026-06-13 11:00:57] Мировые новости: найдено 12 после фильтрации
+[2026-06-13 11:00:59] Обрабатываю: 1 killed in Iowa as severe storms, suspected tornadoes slam 
+[2026-06-13 11:00:59] Попытка 1 для: 1 killed in Iowa as severe storms, suspe
+[2026-06-13 11:01:01] Успешно, получено 596 символов
+[2026-06-13 11:01:01] Пауза 60 секунд...
+[2026-06-13 11:02:01] Обрабатываю: Can smartphones help explain the drop in birth rates?
+[2026-06-13 11:02:01] Попытка 1 для: Can smartphones help explain the drop in
+[2026-06-13 11:02:02] Успешно, получено 536 символов
+[2026-06-13 11:02:02] Пауза 60 секунд...
+[2026-06-13 11:03:02] Обрабатываю: SpaceX Shares Indicated More Than 35% Higher in Shadow Tradi
+[2026-06-13 11:03:02] Попытка 1 для: SpaceX Shares Indicated More Than 35% Hi
+[2026-06-13 11:03:03] Успешно, получено 548 символов
+[2026-06-13 11:03:04] Пауза 60 секунд...
+[2026-06-13 11:04:04] Обрабатываю: Trump claims Iran deal reached, Tehran says no "final decisi
+[2026-06-13 11:04:04] Попытка 1 для: Trump claims Iran deal reached, Tehran s
+[2026-06-13 11:04:04] Успешно, получено 530 символов
+[2026-06-13 11:04:05] === Блок midday завершён ===
