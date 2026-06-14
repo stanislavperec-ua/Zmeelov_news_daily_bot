@@ -22581,3 +22581,37 @@ Nithya
 [2026-06-14 08:01:03] Попытка 1 для: Russia, Land of the Unpredictable Past
 [2026-06-14 08:01:04] Успешно, получено 551 символов
 [2026-06-14 08:01:04] === Блок ai_morning завершён ===
+[2026-06-14 11:01:02] Загружено 1721 уже отправленных новостей
+[2026-06-14 11:01:02] === Запуск блока: midday ===
+[2026-06-14 11:01:02] Неизвестный источник (cnbc): Switzerland is voting on whether to cap 
+[2026-06-14 11:01:02] Неизвестный источник (fortune): Anthropic disables Fable and Mythos AI m
+[2026-06-14 11:01:02] Неизвестный источник (yahoo entertainment): Folarin Balogun scores twice as USMNT be
+[2026-06-14 11:01:02] Неизвестный источник (247sports): Former Ohio State DE Jonathon Cooper arr
+[2026-06-14 11:01:02] Неизвестный источник (wwd): A Closer Look at Mary-Kate and Ashley's 
+[2026-06-14 11:01:02] Неизвестный источник (pbs): Judge rules Trump can stage UFC fights o
+[2026-06-14 11:01:02] Неизвестный источник (usa today): Emily Ratajkowski says she rejects the l
+[2026-06-14 11:01:02] Неизвестный источник (slate magazine): She Might Be Our Biggest Twentysomething
+[2026-06-14 11:01:02] Неизвестный источник (phys.org): Nuclear clocks tick for the first time -
+[2026-06-14 11:01:02] Неизвестный источник (wccftech): Huawei’s HarmonyOS Can Be Further Optimi
+[2026-06-14 11:01:02] Неизвестный источник (9to5mac): Siri AI is coming to newer Apple devices
+[2026-06-14 11:01:02] Старая новость (2026-06-12T07:16:20Z): Don't miss this beautiful 3-planet parad
+[2026-06-14 11:01:02] Старая новость (2026-06-11T18:46:12Z): Earth's underground fungal network is so
+[2026-06-14 11:01:02] Старая новость (2026-06-11T17:30:00Z): Meta’s Edits app is getting an AI assist
+[2026-06-14 11:01:02] Старая новость (2026-06-11T14:39:53Z): Put Your Paws Up for Pokémon Playful Par
+[2026-06-14 11:01:02] Мировые новости: найдено 13 после фильтрации
+[2026-06-14 11:01:05] Обрабатываю: John Healey wanted UK to join global investment bank to rais
+[2026-06-14 11:01:05] Попытка 1 для: John Healey wanted UK to join global inv
+[2026-06-14 11:01:06] Успешно, получено 742 символов
+[2026-06-14 11:01:06] Пауза 60 секунд...
+[2026-06-14 11:02:06] Обрабатываю: Pope Leo XIV's flight home from Spain was grounded so the ki
+[2026-06-14 11:02:06] Попытка 1 для: Pope Leo XIV's flight home from Spain wa
+[2026-06-14 11:02:07] Успешно, получено 596 символов
+[2026-06-14 11:02:08] Пауза 60 секунд...
+[2026-06-14 11:03:08] Обрабатываю: Gene Shalit, ‘Today’ movie critic and purveyor of puns, dies
+[2026-06-14 11:03:08] Попытка 1 для: Gene Shalit, ‘Today’ movie critic and pu
+[2026-06-14 11:03:09] Успешно, получено 768 символов
+[2026-06-14 11:03:09] Пауза 60 секунд...
+[2026-06-14 11:04:09] Обрабатываю: Tent collapses during Virginia church's 20th anniversary cel
+[2026-06-14 11:04:09] Попытка 1 для: Tent collapses during Virginia church's 
+[2026-06-14 11:04:10] Успешно, получено 791 символов
+[2026-06-14 11:04:11] === Блок midday завершён ===
