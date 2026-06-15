@@ -22787,3 +22787,47 @@ Nithya
 [2026-06-15 06:05:24] Успешно, получено 453 символов
 [2026-06-15 06:05:24] Фото не отправилось: 400
 [2026-06-15 06:05:25] === Блок morning завершён ===
+[2026-06-15 08:01:02] Загружено 1738 уже отправленных новостей
+[2026-06-15 08:01:02] === Запуск блока: ai_morning ===
+[2026-06-15 08:01:03] Неизвестный источник (newsdrum.in): Amazon to expand automation use in inven
+[2026-06-15 08:01:03] Неизвестный источник (businessline): Amazon to expand automation use in inven
+[2026-06-15 08:01:03] Неизвестный источник (crypto briefing): CoinFund founder advocates decentralized
+[2026-06-15 08:01:03] Неизвестный источник (snopes.com): Don't believe claim Trump called Warren 
+[2026-06-15 08:01:03] Неизвестный источник (activistpost.com): How to Eat Healthy When Food Scarcity Ki
+[2026-06-15 08:01:03] Неизвестный источник (business insider): The data center boom is colliding with t
+[2026-06-15 08:01:03] Неизвестный источник (siliconangle news): Mozilla Data Collective seeks to build A
+[2026-06-15 08:01:03] Нет фото: Trump to Meet With Mideast Partners on S
+[2026-06-15 08:01:03] Заблокированный источник (midland reporter-telegram): From rockets to brain implants, here's a
+[2026-06-15 08:01:03] Неизвестный источник (decrypt): Google Sues Chinese Crime Group for Alle
+[2026-06-15 08:01:03] Неизвестный источник (researchbuzz.me): CEE AI Index 2026, Irish-Language Televi
+[2026-06-15 08:01:03] Неизвестный источник (9to5mac): Apple @ Work: Why Gen-AI will not cause 
+[2026-06-15 08:01:03] Неизвестный источник (bleeding cool news): Absolute Green Arrow #2 Preview: Ollie's
+[2026-06-15 08:01:03] Неизвестный источник (businessline): Elon Musk’s empire: Here’s a look at wha
+[2026-06-15 08:01:03] Неизвестный источник (fortune): More and more of Musk’s companies end up
+[2026-06-15 08:01:03] Неизвестный источник (yahoo entertainment): Is Accelerant Holdings (ARX) A Good Stoc
+[2026-06-15 08:01:03] Неизвестный источник (globenewswire): FemiCore (Official Website & Authenticit
+[2026-06-15 08:01:03] Неизвестный источник (cryptoslate): Bitcoin faces one of its biggest mining 
+[2026-06-15 08:01:03] Неизвестный источник (abcnews.com): From rockets to brain implants, here's a
+[2026-06-15 08:01:03] Неизвестный источник (financial post): There’s a Bug in the Gold Trade as Miner
+[2026-06-15 08:01:03] Нет фото: From rockets to brain implants, here's a
+[2026-06-15 08:01:03] Неизвестный источник (scientific american): World Cup camera coverage poses a moving
+[2026-06-15 08:01:03] Неизвестный источник (financial post): Charting the Global Economy: War Pushes 
+[2026-06-15 08:01:03] Неизвестный источник (forbes): At $23,000 An IVF Cycle, Fertility Benef
+[2026-06-15 08:01:03] Неизвестный источник (forbes): How To Avoid Text Scams And Spot Red Fla
+[2026-06-15 08:01:03] Неизвестный источник (financial post): Gwyn Morgan: Apply some intelligence. AI
+[2026-06-15 08:01:03] Неизвестный источник (forbes): Why A $1.77 Trillion SpaceX IPO Could ‘P
+[2026-06-15 08:01:03] Неизвестный источник (business insider): Photos of key moments in SpaceX history,
+[2026-06-15 08:01:03] Неизвестный источник (zdnet): I usually avoid on-ear headphones, but M
+[2026-06-15 08:01:03] AI новости: найдено 4 после фильтрации
+[2026-06-15 08:01:05] Обрабатываю: Amazon to expand automation use in inventory management at I
+[2026-06-15 08:01:05] Попытка 1 для: Amazon to expand automation use in inven
+[2026-06-15 08:01:06] Успешно, получено 621 символов
+[2026-06-15 08:01:07] Пауза 60 секунд...
+[2026-06-15 08:02:07] Обрабатываю: India leads consensus on future of agriculture as BRICS adop
+[2026-06-15 08:02:07] Попытка 1 для: India leads consensus on future of agric
+[2026-06-15 08:02:08] Успешно, получено 724 символов
+[2026-06-15 08:02:08] Пауза 60 секунд...
+[2026-06-15 08:03:08] Обрабатываю: How can self-driving cars see better? Make their sensors mor
+[2026-06-15 08:03:08] Попытка 1 для: How can self-driving cars see better? Ma
+[2026-06-15 08:03:09] Успешно, получено 825 символов
+[2026-06-15 08:03:10] === Блок ai_morning завершён ===
