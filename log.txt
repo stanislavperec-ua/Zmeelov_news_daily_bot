@@ -22931,3 +22931,43 @@ Nithya
 [2026-06-15 16:05:27] Успешно, получено 667 символов
 [2026-06-15 16:05:27] Фото не отправилось: 400
 [2026-06-15 16:05:28] === Блок evening завершён ===
+[2026-06-15 18:01:24] Загружено 1749 уже отправленных новостей
+[2026-06-15 18:01:24] === Запуск блока: ai_evening ===
+[2026-06-15 18:01:24] Нет фото: Carney Says Anthropic Ban Shows Risk of 
+[2026-06-15 18:01:24] Неизвестный источник (financial post): Carney says Anthropic ban shows risk of 
+[2026-06-15 18:01:24] Неизвестный источник (business insider): Inside the whirlwind 24 hours that led t
+[2026-06-15 18:01:24] Неизвестный источник (bleeding cool news): Magik and Colossus #5 Preview: Rasputin 
+[2026-06-15 18:01:24] Неизвестный источник (fortune): ‘The cost of compute is far beyond the c
+[2026-06-15 18:01:24] Неизвестный источник (the daily caller): Some Congressional Lawmakers Have Attemp
+[2026-06-15 18:01:24] Неизвестный источник (prnewswire): Orbis International's Flying Eye Hospita
+[2026-06-15 18:01:24] Неизвестный источник (antaranews.com): Indonesia leverages BRICS to accelerate 
+[2026-06-15 18:01:24] Неизвестный источник (deccan chronicle): Jio Platforms Breaks Into Global Top 20 
+[2026-06-15 18:01:24] Неизвестный источник (marketbeat): NFJ Investment Group LLC Has $25.43 Mill
+[2026-06-15 18:01:24] Неизвестный источник (livemint): Jio Platforms breaks into global top 20 
+[2026-06-15 18:01:24] Неизвестный источник (cnbc): Elon Musk drifted from Larry Page over a
+[2026-06-15 18:01:24] Неизвестный источник (tom's hardware uk): AI cryptomining network's 320,000 RTX 30
+[2026-06-15 18:01:24] Неизвестный источник (florida politics): Law enforcement relied too heavily on AI
+[2026-06-15 18:01:24] Неизвестный источник (android authority): I let Claude audit my messy Home Assista
+[2026-06-15 18:01:24] Нет фото: Streeting Pledges Global Talent Drive, N
+[2026-06-15 18:01:24] Нет фото: Trump tried to block state AI regulation
+[2026-06-15 18:01:24] Неизвестный источник (protothema.gr): Elon Musk & SpaceX: How the “failed idea
+[2026-06-15 18:01:24] Неизвестный источник (newsdrum.in): Amazon to expand automation use in inven
+[2026-06-15 18:01:24] Неизвестный источник (businessline): Amazon to expand automation use in inven
+[2026-06-15 18:01:24] Неизвестный источник (crypto briefing): CoinFund founder advocates decentralized
+[2026-06-15 18:01:24] Неизвестный источник (snopes.com): Don't believe claim Trump called Warren 
+[2026-06-15 18:01:24] Неизвестный источник (activistpost.com): How to Eat Healthy When Food Scarcity Ki
+[2026-06-15 18:01:24] Неизвестный источник (business insider): The data center boom is colliding with t
+[2026-06-15 18:01:24] Неизвестный источник (siliconangle news): Mozilla Data Collective seeks to build A
+[2026-06-15 18:01:24] AI новости: найдено 3 после фильтрации
+[2026-06-15 18:01:27] Обрабатываю: Orbis International's Flying Eye Hospital Arrives in Peru to
+[2026-06-15 18:01:27] Попытка 1 для: Orbis International's Flying Eye Hospita
+[2026-06-15 18:01:28] Успешно, получено 805 символов
+[2026-06-15 18:01:29] Пауза 60 секунд...
+[2026-06-15 18:02:29] Обрабатываю: Business lesson from world's first trillionaire Elon Musk: '
+[2026-06-15 18:02:29] Попытка 1 для: Business lesson from world's first trill
+[2026-06-15 18:02:30] Успешно, получено 700 символов
+[2026-06-15 18:02:30] Пауза 60 секунд...
+[2026-06-15 18:03:30] Обрабатываю: Amazon to expand automation use in inventory management at I
+[2026-06-15 18:03:30] Попытка 1 для: Amazon to expand automation use in inven
+[2026-06-15 18:03:31] Успешно, получено 637 символов
+[2026-06-15 18:03:32] === Блок ai_evening завершён ===
