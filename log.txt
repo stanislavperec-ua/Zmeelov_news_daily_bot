@@ -22831,3 +22831,41 @@ Nithya
 [2026-06-15 08:03:08] Попытка 1 для: How can self-driving cars see better? Ma
 [2026-06-15 08:03:09] Успешно, получено 825 символов
 [2026-06-15 08:03:10] === Блок ai_morning завершён ===
+[2026-06-15 11:01:13] Загружено 1739 уже отправленных новостей
+[2026-06-15 11:01:13] === Запуск блока: midday ===
+[2026-06-15 11:01:13] Неизвестный источник (heat.com): Jalen Brunson wins Bill Russell trophy a
+[2026-06-15 11:01:13] Неизвестный источник (hollywood reporter): Spike Lee, Timothée Chalamet, Ben Stille
+[2026-06-15 11:01:13] Неизвестный источник (sfgate): Horoscope for Sunday, 06/14/26 by Christ
+[2026-06-15 11:01:13] Неизвестный источник (nbcsports.com): U.S. debut in World Cup generates 24.886
+[2026-06-15 11:01:13] Неизвестный источник (mma fighting): Khamzat Chimaev, Dillon Danis get into h
+[2026-06-15 11:01:13] Неизвестный источник (bgr): Scientists Just Discovered A Way To Reve
+[2026-06-15 11:01:13] Неизвестный источник (9to5mac): iOS 27 adds an all-new app to your iPhon
+[2026-06-15 11:01:13] Неизвестный источник (entertainment weekly): ABC New York's Bill Ritter reveals Alzhe
+[2026-06-15 11:01:13] Неизвестный источник (spacenews): Revised Artemis lunar lander plans take 
+[2026-06-15 11:01:13] Неизвестный источник (pbs): Judge orders restoration of National Par
+[2026-06-15 11:01:13] Неизвестный источник (medical news today): Sugar-free, low-fat diet tied to insulin
+[2026-06-15 11:01:13] Неизвестный источник (barron's): The Stock Market Survived the SpaceX IPO
+[2026-06-15 11:01:13] Неизвестный источник (nj.com): It’s not Ebola you need to be worried ab
+[2026-06-15 11:01:13] Старая новость (2026-06-13T10:30:09Z): Apple’s big Siri update is here. Now the
+[2026-06-15 11:01:13] Старая новость (2026-06-13T09:01:01Z): In Lancaster, measles cases are rising a
+[2026-06-15 11:01:13] Старая новость (2026-06-13T04:32:48Z): Justice Department approves Paramount’s 
+[2026-06-15 11:01:13] Старая новость (2026-06-13T01:31:00Z): 'Real-life Project Hail Mary': Scientist
+[2026-06-15 11:01:13] Старая новость (2026-06-12T16:05:00Z): I held the Trump phone - The Verge
+[2026-06-15 11:01:13] Старая новость (2026-06-12T12:02:28Z): Minecraft 26.2 Release Candidate 2 - Min
+[2026-06-15 11:01:13] Мировые новости: найдено 8 после фильтрации
+[2026-06-15 11:01:16] Обрабатываю: Anthropic had 90 minutes to take down Fable after Trump admi
+[2026-06-15 11:01:16] Попытка 1 для: Anthropic had 90 minutes to take down Fa
+[2026-06-15 11:01:17] Успешно, получено 756 символов
+[2026-06-15 11:01:17] Пауза 60 секунд...
+[2026-06-15 11:02:17] Обрабатываю: Trump says US-Iran deal to be signed on Sunday as Tehran cas
+[2026-06-15 11:02:17] Попытка 1 для: Trump says US-Iran deal to be signed on 
+[2026-06-15 11:02:18] Успешно, получено 787 символов
+[2026-06-15 11:02:19] Пауза 60 секунд...
+[2026-06-15 11:03:19] Обрабатываю: Emmanuel Macron and Donald Trump test their bruised bromance
+[2026-06-15 11:03:19] Попытка 1 для: Emmanuel Macron and Donald Trump test th
+[2026-06-15 11:03:20] Успешно, получено 616 символов
+[2026-06-15 11:03:21] Пауза 60 секунд...
+[2026-06-15 11:04:21] Обрабатываю: Fighter jet crashes in Washington state, sparking wildfire
+[2026-06-15 11:04:21] Попытка 1 для: Fighter jet crashes in Washington state,
+[2026-06-15 11:04:22] Успешно, получено 699 символов
+[2026-06-15 11:04:22] === Блок midday завершён ===
