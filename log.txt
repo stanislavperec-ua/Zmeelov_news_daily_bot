@@ -23082,3 +23082,43 @@ Nithya
 [2026-06-16 08:03:11] Попытка 1 для: DBS optimistic about India’s long-term s
 [2026-06-16 08:03:12] Успешно, получено 739 символов
 [2026-06-16 08:03:12] === Блок ai_morning завершён ===
+[2026-06-16 11:01:05] Загружено 1761 уже отправленных новостей
+[2026-06-16 11:01:05] === Запуск блока: midday ===
+[2026-06-16 11:01:05] Неизвестный источник (yahoo entertainment): UFC Freedom 250 results: Justin Gaethje 
+[2026-06-16 11:01:05] Неизвестный источник (tmz): Ex-NBA Star Dwight Howard Claims Estrang
+[2026-06-16 11:01:05] Заблокированный источник (martha stewart): What to Do If You Find a Tick on Your Bo
+[2026-06-16 11:01:05] Неизвестный источник (deadline): Anne Schedeen Dies: Actress Who Played ‘
+[2026-06-16 11:01:05] Неизвестный источник (daily beast): Trump, 80, Gets Ultimate Birthday Humili
+[2026-06-16 11:01:05] Неизвестный источник (nhl news): Carolina Hurricanes Win 2026 Stanley Cup
+[2026-06-16 11:01:05] Заблокированный источник (motorsport.com): Lewis Hamilton's first Ferrari win leave
+[2026-06-16 11:01:05] Неизвестный источник (atlanta journal constitution): In a surprise twist, Brian Kemp endorses
+[2026-06-16 11:01:05] Неизвестный источник (cnbc): Stock futures jump after the U.S. and Ir
+[2026-06-16 11:01:05] Неизвестный источник (dw (english)): G7 protesters clash with police in Genev
+[2026-06-16 11:01:05] Неизвестный источник (9to5google.com): Google ads tease next Pixel Drop with Sc
+[2026-06-16 11:01:05] Неизвестный источник (variety): An NYPD Officer Said I Could Climb A Str
+[2026-06-16 11:01:05] Неизвестный источник (newser): Behind the Scenes at World Cup, Lots of 
+[2026-06-16 11:01:05] Неизвестный источник (gamerant): Destiny 2 Players Find Quick Farm For Ne
+[2026-06-16 11:01:05] Неизвестный источник (yahoo entertainment): World's most infectious disease case fou
+[2026-06-16 11:01:05] Неизвестный источник (warhammer-community.com): Sunday Preview – Hedonites head into bat
+[2026-06-16 11:01:05] Неизвестный источник (barron's): SpaceX Stock Began Trading. What’s Ahead
+[2026-06-16 11:01:05] Неизвестный источник (the next web): Why Apple built a third-party AI system 
+[2026-06-16 11:01:05] Неизвестный источник (futurism): Scientists Investigate Strange Rumbling 
+[2026-06-16 11:01:05] Старая новость (2026-06-13T17:19:56Z): Revised Artemis lunar lander plans take 
+[2026-06-16 11:01:05] Старая новость (2026-06-13T13:57:48Z): San Andreas Fault stress hits 1,000-year
+[2026-06-16 11:01:05] Мировые новости: найдено 12 после фильтрации
+[2026-06-16 11:01:07] Обрабатываю: US-Iran to sign a ‘peace deal’ on Friday: What we know
+[2026-06-16 11:01:07] Попытка 1 для: US-Iran to sign a ‘peace deal’ on Friday
+[2026-06-16 11:01:09] Успешно, получено 801 символов
+[2026-06-16 11:01:09] Пауза 60 секунд...
+[2026-06-16 11:02:09] Обрабатываю: Oil prices fall on US, Iran deal announcement
+[2026-06-16 11:02:09] Попытка 1 для: Oil prices fall on US, Iran deal announc
+[2026-06-16 11:02:10] Успешно, получено 652 символов
+[2026-06-16 11:02:10] Пауза 60 секунд...
+[2026-06-16 11:03:10] Обрабатываю: Marius Borg Hoiby, stepson of Norway’s crown prince convicte
+[2026-06-16 11:03:10] Попытка 1 для: Marius Borg Hoiby, stepson of Norway’s c
+[2026-06-16 11:03:12] Успешно, получено 805 символов
+[2026-06-16 11:03:12] Пауза 60 секунд...
+[2026-06-16 11:04:12] Обрабатываю: 12 dead in Missouri skydiving plane crash, officials say
+[2026-06-16 11:04:12] Попытка 1 для: 12 dead in Missouri skydiving plane cras
+[2026-06-16 11:04:13] Успешно, получено 640 символов
+[2026-06-16 11:04:13] === Блок midday завершён ===
