@@ -23037,3 +23037,48 @@ Nithya
 [2026-06-16 06:06:22] Попытка 1 для: Russian attack sets fire to religious si
 [2026-06-16 06:06:23] Успешно, получено 587 символов
 [2026-06-16 06:06:24] === Блок morning завершён ===
+[2026-06-16 08:01:05] Загружено 1758 уже отправленных новостей
+[2026-06-16 08:01:05] === Запуск блока: ai_morning ===
+[2026-06-16 08:01:05] Неизвестный источник (frontiersin.org): Successful Psilocybin Treatment of Alzhe
+[2026-06-16 08:01:05] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Architecture Review 
+[2026-06-16 08:01:05] Неизвестный источник (financial post): Schneider Electric and Hon Hai Technolog
+[2026-06-16 08:01:05] Нет фото: Surfing, Sun, and Skin Cancer Risk: A Pe
+[2026-06-16 08:01:05] Неизвестный источник (financial post): Hong Kong Leader Says He’s Yet to Consid
+[2026-06-16 08:01:05] Неизвестный источник (bleeding cool news): Sorcerer Supreme #7 Preview: Wanda's Mag
+[2026-06-16 08:01:05] Неизвестный источник (americanthinker.com): SpaceX IPO: Orbital data centers
+[2026-06-16 08:01:05] Неизвестный источник (computerweekly.com): European Union unveils €8m 6G smart netw
+[2026-06-16 08:01:05] Неизвестный источник (rising kashmir daily english newspaper): From Data to Delivery: How ICMR Is Rewir
+[2026-06-16 08:01:05] Неизвестный источник (businessline): Milky Mist updating books with FY26 numb
+[2026-06-16 08:01:05] Неизвестный источник (businessline): 16 stocks including RIL, TCS, Tata Motor
+[2026-06-16 08:01:05] Неизвестный источник (itnews): SA Water makes its interim CIO permanent
+[2026-06-16 08:01:05] Неизвестный источник (the punch): Mobile operators pay $810bn in global ta
+[2026-06-16 08:01:05] Неизвестный источник (siliconangle news): White House forces Anthropic to disable 
+[2026-06-16 08:01:05] Нет фото: Google CEO Sundar Pichai passes on artif
+[2026-06-16 08:01:05] Неизвестный источник (smartdatacollective.com): How AI Helps Businesses Get More From So
+[2026-06-16 08:01:05] Неизвестный источник (siliconangle news): 10 best practices for optimizing generat
+[2026-06-16 08:01:05] Неизвестный источник (bleeding cool news): End of Life #5 Preview: Eddie Hits Rock 
+[2026-06-16 08:01:05] Нет фото: Canadian Prime Minister Mark Carney says
+[2026-06-16 08:01:05] Неизвестный источник (digital journal): Expansion of AI-enabled imaging in routi
+[2026-06-16 08:01:05] Нет фото: Carney Says Anthropic Ban Shows Risk of 
+[2026-06-16 08:01:05] Неизвестный источник (financial post): Carney says Anthropic ban shows risk of 
+[2026-06-16 08:01:05] Неизвестный источник (business insider): Inside the whirlwind 24 hours that led t
+[2026-06-16 08:01:05] Неизвестный источник (bleeding cool news): Magik and Colossus #5 Preview: Rasputin 
+[2026-06-16 08:01:05] Неизвестный источник (fortune): ‘The cost of compute is far beyond the c
+[2026-06-16 08:01:05] Неизвестный источник (the daily caller): Some Congressional Lawmakers Have Attemp
+[2026-06-16 08:01:05] Неизвестный источник (prnewswire): Orbis International's Flying Eye Hospita
+[2026-06-16 08:01:05] Неизвестный источник (antaranews.com): Indonesia leverages BRICS to accelerate 
+[2026-06-16 08:01:05] Неизвестный источник (deccan chronicle): Jio Platforms Breaks Into Global Top 20 
+[2026-06-16 08:01:05] Неизвестный источник (marketbeat): NFJ Investment Group LLC Has $25.43 Mill
+[2026-06-16 08:01:05] AI новости: найдено 10 после фильтрации
+[2026-06-16 08:01:08] Обрабатываю: SpaceX and Google Forge $30 Billion AI Infrastructure Partne
+[2026-06-16 08:01:08] Попытка 1 для: SpaceX and Google Forge $30 Billion AI I
+[2026-06-16 08:01:09] Успешно, получено 1012 символов
+[2026-06-16 08:01:09] Пауза 60 секунд...
+[2026-06-16 08:02:09] Обрабатываю: The old health insurance model sees hospitalisation as an in
+[2026-06-16 08:02:09] Попытка 1 для: The old health insurance model sees hosp
+[2026-06-16 08:02:10] Успешно, получено 850 символов
+[2026-06-16 08:02:11] Пауза 60 секунд...
+[2026-06-16 08:03:11] Обрабатываю: DBS optimistic about India’s long-term structural growth: Ch
+[2026-06-16 08:03:11] Попытка 1 для: DBS optimistic about India’s long-term s
+[2026-06-16 08:03:12] Успешно, получено 739 символов
+[2026-06-16 08:03:12] === Блок ai_morning завершён ===
