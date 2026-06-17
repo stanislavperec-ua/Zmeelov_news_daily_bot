@@ -23302,3 +23302,54 @@ Nithya
 [2026-06-17 06:06:24] Успешно, получено 591 символов
 [2026-06-17 06:06:24] Фото не отправилось: 400
 [2026-06-17 06:06:25] === Блок morning завершён ===
+[2026-06-17 08:01:02] Загружено 1778 уже отправленных новостей
+[2026-06-17 08:01:02] === Запуск блока: ai_morning ===
+[2026-06-17 08:01:03] Неизвестный источник (variety): ‘Vikram Betal’ AI-Enabled Film Set at In
+[2026-06-17 08:01:03] Неизвестный источник (financial post): Equity Market Still Has a Long To-Do Lis
+[2026-06-17 08:01:03] Нет фото: Anthropic Holds Talks With US in Bid to 
+[2026-06-17 08:01:03] Неизвестный источник (globenewswire): Fiserv Announces Launch of Tender Offers
+[2026-06-17 08:01:03] Неизвестный источник (lazutkin.com): Cheating as a programming discipline
+[2026-06-17 08:01:03] Неизвестный источник (c-sharpcorner.com): Using Small Language Models (SLMs) in En
+[2026-06-17 08:01:03] Неизвестный источник (protothema.gr): Expansion of digital audits: Weddings, b
+[2026-06-17 08:01:03] Неизвестный источник (computerweekly.com): Cisco: 36 months to modernise networks b
+[2026-06-17 08:01:03] Нет фото: hurricane-net 0.1.4
+[2026-06-17 08:01:03] Неизвестный источник (cointelegraph): Anthropic shutdown makes a strong case f
+[2026-06-17 08:01:03] Неизвестный источник (digiday): Ad Tech Briefing: The shifting tides beh
+[2026-06-17 08:01:03] Неизвестный источник (americanthinker.com): Has America Lost The Strategic Game In T
+[2026-06-17 08:01:03] Неизвестный источник (motley fool australia): Gina Rinehart just made US$425 million f
+[2026-06-17 08:01:03] Неизвестный источник (space daily): SpaceX raises a record $75 billion in it
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): GPU infrastructure management startup Hy
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): AI agent authorization startup Arcade na
+[2026-06-17 08:01:03] Неизвестный источник (the punch): Expert lauded for introducing four-langu
+[2026-06-17 08:01:03] Неизвестный источник (globenewswire): isolved Honors Top-Performing Partners a
+[2026-06-17 08:01:03] Нет фото: Pythagorean fuzzy time series approach b
+[2026-06-17 08:01:03] Неизвестный источник (activistpost.com): New Book Details Blueprint for Decentral
+[2026-06-17 08:01:03] Неизвестный источник (databricks.com): Databricks announces 2026 global partner
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): SailPoint acquires AI agent security sta
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): AMD buys data center memory optimization
+[2026-06-17 08:01:03] Неизвестный источник (business insider): Trump officials meet with Anthropic to d
+[2026-06-17 08:01:03] Неизвестный источник (cnbc): CNBC's The China Connection newsletter: 
+[2026-06-17 08:01:03] Неизвестный источник (prnewswire): New Book Exposes the Hidden Infrastructu
+[2026-06-17 08:01:03] Неизвестный источник (financial post): Canada Moves to Restrict Use of Personal
+[2026-06-17 08:01:03] Неизвестный источник (financial post): Canada to restrict use of personal data 
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): Radical Numerics launches with $50M to b
+[2026-06-17 08:01:03] Неизвестный источник (financial post): News of the day: More rental housing, lo
+[2026-06-17 08:01:03] Нет фото: AlphaGen Clarifies Matters to be Conside
+[2026-06-17 08:01:03] Неизвестный источник (biztoc.com): AI Scam Surge Prompts Google to File Law
+[2026-06-17 08:01:03] Неизвестный источник (siliconangle news): Salesforce to acquire customer service a
+[2026-06-17 08:01:03] Неизвестный источник (crypto briefing): CFTC hires SEC adviser with blockchain f
+[2026-06-17 08:01:03] Нет фото: Cybersecurity executives urge the Trump 
+[2026-06-17 08:01:03] Неизвестный источник (pymnts.com): AI Scam Surge Prompts Google to File Law
+[2026-06-17 08:01:03] AI новости: найдено 3 после фильтрации
+[2026-06-17 08:01:05] Обрабатываю: India's 5G subscriptions to cross 1.1 billion by 2031; Mobil
+[2026-06-17 08:01:05] Попытка 1 для: India's 5G subscriptions to cross 1.1 bi
+[2026-06-17 08:01:06] Успешно, получено 698 символов
+[2026-06-17 08:01:07] Пауза 60 секунд...
+[2026-06-17 08:02:07] Обрабатываю: Adani Ports to invest up to $100 million with Kaleris to acc
+[2026-06-17 08:02:07] Попытка 1 для: Adani Ports to invest up to $100 million
+[2026-06-17 08:02:08] Успешно, получено 762 символов
+[2026-06-17 08:02:08] Пауза 60 секунд...
+[2026-06-17 08:03:08] Обрабатываю: Inside KPMG's AI report scandal: False claims, bogus case st
+[2026-06-17 08:03:08] Попытка 1 для: Inside KPMG's AI report scandal: False c
+[2026-06-17 08:03:09] Успешно, получено 844 символов
+[2026-06-17 08:03:10] === Блок ai_morning завершён ===
