@@ -23443,3 +23443,53 @@ Nithya
 [2026-06-17 16:06:26] Попытка 1 для: Day 1,574 of WW3. Moscow double-taps res
 [2026-06-17 16:06:27] Успешно, получено 544 символов
 [2026-06-17 16:06:27] === Блок evening завершён ===
+[2026-06-17 18:01:08] Загружено 1792 уже отправленных новостей
+[2026-06-17 18:01:08] === Запуск блока: ai_evening ===
+[2026-06-17 18:01:08] Неизвестный источник (nakedcapitalism.com): Coffee Break: Armed Madhouse – Unicorns 
+[2026-06-17 18:01:08] Нет фото: XR and AI Leap into the Future at Augmen
+[2026-06-17 18:01:08] Неизвестный источник (financial post): RBC’s McKay says he’s using AI every day
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): HPE expands self-driving networking stra
+[2026-06-17 18:01:08] Нет фото: Goldman Tops $1 Trillion of M&A, Fastest
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): Qualcomm takes spatial computing into th
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): Xreal unveils Aura, its lightweight smar
+[2026-06-17 18:01:08] Нет фото: HPE Boosts Networking Gear for AI Client
+[2026-06-17 18:01:08] Неизвестный источник (core77.com): Congratulations To The 2026 Core77 Desig
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): HPE expands Private Cloud AI factory por
+[2026-06-17 18:01:08] Нет фото: RBC CEO McKay Sees AI Fueling ‘Insatiabl
+[2026-06-17 18:01:08] Неизвестный источник (financial post): BCE cuts 1% of jobs as it focuses on AI,
+[2026-06-17 18:01:08] Неизвестный источник (military.com): Future Military Satellites Could Operate
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): SiMa.ai cuts physical AI deployment from
+[2026-06-17 18:01:08] Неизвестный источник (microsoft.com): Modernize your data with Azure Storage: 
+[2026-06-17 18:01:08] Неизвестный источник (financial post): SpaceX set to overtake Microsoft, Amazon
+[2026-06-17 18:01:08] Неизвестный источник (businessline): Atmanirbhar AI
+[2026-06-17 18:01:08] Нет фото: UBC MOSAIC and LifeLabs Unlock New Ways 
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): How Spacelift blends AI experimentation 
+[2026-06-17 18:01:08] Неизвестный источник (prnewswire): Global Auto Keratometer Market: Growth, 
+[2026-06-17 18:01:08] Неизвестный источник (globenewswire): UBC MOSAIC and LifeLabs Unlock New Ways 
+[2026-06-17 18:01:08] Нет фото: VisionWave Holdings, Inc. Announces Fili
+[2026-06-17 18:01:08] Неизвестный источник (globenewswire): VisionWave Holdings, Inc. Announces Fili
+[2026-06-17 18:01:08] Неизвестный источник (livemint): Turtlemint bets on AI transformation as 
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): Terra Security uses agentic AI to find r
+[2026-06-17 18:01:08] Неизвестный источник (nextgov): Lynx supercomputing cluster enters produ
+[2026-06-17 18:01:08] Неизвестный источник (bitcoinfoundation.org): Top AI Crypto Tokens June 2026: FET, RND
+[2026-06-17 18:01:08] Неизвестный источник (insurance journal): AM Best: Data Centers Pose Risks Beyond 
+[2026-06-17 18:01:08] Неизвестный источник (crypto briefing): Coinbase confirms AI agents will spend x
+[2026-06-17 18:01:08] Неизвестный источник (the diplomat): Japan Eyes a Homegrown FMS System as Def
+[2026-06-17 18:01:08] Неизвестный источник (siliconangle news): Okta expands Google Cloud partnership to
+[2026-06-17 18:01:08] Неизвестный источник (techtarget.com): SLAs for disaster recovery: Free templat
+[2026-06-17 18:01:08] Нет фото: UK Regulator Weighs Cutting Data Center 
+[2026-06-17 18:01:08] Неизвестный источник (pharmatutor.org): AI Expands Pharmaceutical Marketing Beyo
+[2026-06-17 18:01:08] Нет фото: DIAGNOS Submits Modified and Updated Hea
+[2026-06-17 18:01:08] AI новости: найдено 5 после фильтрации
+[2026-06-17 18:01:10] Обрабатываю: SpaceX leapfrogs Amazon to become world’s fifth-most valuabl
+[2026-06-17 18:01:10] Попытка 1 для: SpaceX leapfrogs Amazon to become world’
+[2026-06-17 18:01:11] Успешно, получено 628 символов
+[2026-06-17 18:01:12] Пауза 60 секунд...
+[2026-06-17 18:02:12] Обрабатываю: 10 Fun Facts About DoorDash in 2026 Highlighting Record Grow
+[2026-06-17 18:02:12] Попытка 1 для: 10 Fun Facts About DoorDash in 2026 High
+[2026-06-17 18:02:13] Успешно, получено 753 символов
+[2026-06-17 18:02:13] Пауза 60 секунд...
+[2026-06-17 18:03:13] Обрабатываю: SpaceX to Acquire AI Coding Startup Cursor in $60 Billion De
+[2026-06-17 18:03:13] Попытка 1 для: SpaceX to Acquire AI Coding Startup Curs
+[2026-06-17 18:03:14] Успешно, получено 847 символов
+[2026-06-17 18:03:14] === Блок ai_evening завершён ===
