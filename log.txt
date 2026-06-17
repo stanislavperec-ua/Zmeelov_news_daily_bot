@@ -23353,3 +23353,40 @@ Nithya
 [2026-06-17 08:03:08] Попытка 1 для: Inside KPMG's AI report scandal: False c
 [2026-06-17 08:03:09] Успешно, получено 844 символов
 [2026-06-17 08:03:10] === Блок ai_morning завершён ===
+[2026-06-17 11:01:03] Загружено 1781 уже отправленных новостей
+[2026-06-17 11:01:03] === Запуск блока: midday ===
+[2026-06-17 11:01:03] Неизвестный источник (espn): MLB decries use of personal writings on 
+[2026-06-17 11:01:03] Неизвестный источник (nbcsports.com): Texas Tech will not attempt to recover N
+[2026-06-17 11:01:03] Неизвестный источник (rolling stone): Jelly Roll Files for Divorce From Bunnie
+[2026-06-17 11:01:03] Неизвестный источник (dw (english)): EU, Ukraine start formal accession talks
+[2026-06-17 11:01:03] Неизвестный источник (entertainment weekly): NYC mayor seemingly confirms Taylor Swif
+[2026-06-17 11:01:03] Неизвестный источник (9to5mac): Sign in with Apple and Hide My Email are
+[2026-06-17 11:01:03] Неизвестный источник (honolulu star-advertiser): Dow closes at record high as U.S.-Iran d
+[2026-06-17 11:01:03] Неизвестный источник (macrumors): Siri AI in iOS 27: Features, Requirement
+[2026-06-17 11:01:03] Неизвестный источник (gamesindustry.biz): Xbox is reportedly considering closing S
+[2026-06-17 11:01:03] Неизвестный источник (thewrap): ‘Disclosure Day’ Ending, Explained: Scre
+[2026-06-17 11:01:03] Неизвестный источник (space.com): Astrobotic unveils Griffin-1 lunar lande
+[2026-06-17 11:01:03] Неизвестный источник (pbs): Senate candidate with same name as incum
+[2026-06-17 11:01:03] Неизвестный источник (sfgate): Measles case detected at SFO days before
+[2026-06-17 11:01:03] Неизвестный источник (barron's): Why Fox Stock Is Tumbling After $22 Bill
+[2026-06-17 11:01:03] Неизвестный источник (nasa): NASA’s SpaceX CRS-34 Dragon Returns Pack
+[2026-06-17 11:01:03] Неизвестный источник (forbes): Why Does A Tarp Still Block The Kennedy 
+[2026-06-17 11:01:03] Старая новость (2026-06-15T07:43:24Z): On June 9, 2026, NASA named Italian astr
+[2026-06-17 11:01:03] Старая новость (2026-06-14T19:46:13Z): Menopause: Hormone therapy linked to 69%
+[2026-06-17 11:01:03] Мировые новости: найдено 10 после фильтрации
+[2026-06-17 11:01:06] Обрабатываю: On a ‘beautiful day for jumping,’ a plane of skydivers plumm
+[2026-06-17 11:01:06] Попытка 1 для: On a ‘beautiful day for jumping,’ a plan
+[2026-06-17 11:01:07] Успешно, получено 579 символов
+[2026-06-17 11:01:07] Пауза 60 секунд...
+[2026-06-17 11:02:07] Обрабатываю: UFC boss Dana White says 'never again' to another White Hous
+[2026-06-17 11:02:07] Попытка 1 для: UFC boss Dana White says 'never again' t
+[2026-06-17 11:02:08] Успешно, получено 775 символов
+[2026-06-17 11:02:09] Пауза 60 секунд...
+[2026-06-17 11:03:09] Обрабатываю: Iran World Cup team coach says it was ordered out of U.S. ri
+[2026-06-17 11:03:09] Попытка 1 для: Iran World Cup team coach says it was or
+[2026-06-17 11:03:10] Успешно, получено 637 символов
+[2026-06-17 11:03:10] Пауза 60 секунд...
+[2026-06-17 11:04:10] Обрабатываю: Trump claims victory over Iran, but deal is silent on nuclea
+[2026-06-17 11:04:10] Попытка 1 для: Trump claims victory over Iran, but deal
+[2026-06-17 11:04:11] Успешно, получено 531 символов
+[2026-06-17 11:04:11] === Блок midday завершён ===
