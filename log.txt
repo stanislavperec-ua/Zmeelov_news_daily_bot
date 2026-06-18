@@ -23559,3 +23559,50 @@ Nithya
 [2026-06-18 06:06:23] Попытка 1 для: Day 1,574 of WW3. Moscow double-taps res
 [2026-06-18 06:06:24] Успешно, получено 674 символов
 [2026-06-18 06:06:25] === Блок morning завершён ===
+[2026-06-18 08:01:14] Загружено 1801 уже отправленных новостей
+[2026-06-18 08:01:14] === Запуск блока: ai_morning ===
+[2026-06-18 08:01:14] Неизвестный источник (aletihad.ae): Investcorp acquires stake in UAE-based I
+[2026-06-18 08:01:14] Нет фото: SpaceX Goes Public: SPCX Now Available t
+[2026-06-18 08:01:14] Неизвестный источник (globenewswire): SpaceX Goes Public: SPCX Now Available t
+[2026-06-18 08:01:14] Нет фото: 2026 Top Trends in Academic Libraries: A
+[2026-06-18 08:01:14] Нет фото: BOK Warns AI-Driven Bonus Windfalls May 
+[2026-06-18 08:01:14] Неизвестный источник (globenewswire): Building the World’s First AI-Powered In
+[2026-06-18 08:01:14] Неизвестный источник (c-sharpcorner.com): AI-Augmented Software Architecture Revie
+[2026-06-18 08:01:14] Неизвестный источник (c-sharpcorner.com): How to Implement AI-Assisted Database Qu
+[2026-06-18 08:01:14] Неизвестный источник (computerweekly.com): HPE Discover 2026: Neri heralds ‘unique’
+[2026-06-18 08:01:14] Неизвестный источник (barrettmedia.com): Ten Years Of Locked On: The Rise of a Po
+[2026-06-18 08:01:14] Неизвестный источник (globenewswire): DMG Blockchain Solutions Inc. Announces 
+[2026-06-18 08:01:14] Неизвестный источник (tennessean): Andrew Brunette will remain coach of Nas
+[2026-06-18 08:01:14] Неизвестный источник (computerweekly.com): Why AI monetisation, not 6G, is the real
+[2026-06-18 08:01:14] Неизвестный источник (antaranews.com): Generali reveals Redion - the new brand 
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): Sweeping Android 17 update brings new AI
+[2026-06-18 08:01:14] Неизвестный источник (the conversation africa): Your AI habit is wasting precious resour
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): China’s DeepSeek reportedly raises $7.4B
+[2026-06-18 08:01:14] Неизвестный источник (antaranews.com): Boomi Study Finds APAC Organisations Ris
+[2026-06-18 08:01:14] Нет фото: A CD index guided ensemble framework for
+[2026-06-18 08:01:14] Нет фото: Medical innovation in LMICs: can India l
+[2026-06-18 08:01:14] Неизвестный источник (globenewswire): Nano Dimension and Infinite Epigenetics 
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): Databricks’ new agentic coworker Genie O
+[2026-06-18 08:01:14] Неизвестный источник (the punch): CBN bets on digital payments for economi
+[2026-06-18 08:01:14] Неизвестный источник (pymnts.com): OpenAI Readies Deployment of ChatGPT for
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): Databricks acquires cyberattack detectio
+[2026-06-18 08:01:14] Нет фото: Brookfield-Backed Data Center Firm Csqua
+[2026-06-18 08:01:14] Неизвестный источник (financial post): Brookfield-backed data centre firm Csqua
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): The AGI moment? Databricks’ new releases
+[2026-06-18 08:01:14] Неизвестный источник (cnbc): Jim Cramer says SpaceX investors aren't 
+[2026-06-18 08:01:14] Неизвестный источник (siliconangle news): Bland raises $50M to automate complex, h
+[2026-06-18 08:01:14] Неизвестный источник (financial post): News of the day: Home sales gain, stella
+[2026-06-18 08:01:14] Неизвестный источник (globenewswire): Verizon’s Ready to keep you Connected as
+[2026-06-18 08:01:14] AI новости: найдено 7 после фильтрации
+[2026-06-18 08:01:16] Обрабатываю: China's six-network plan signals a long-term infrastructure 
+[2026-06-18 08:01:16] Попытка 1 для: China's six-network plan signals a long-
+[2026-06-18 08:01:17] Успешно, получено 621 символов
+[2026-06-18 08:01:18] Пауза 60 секунд...
+[2026-06-18 08:02:18] Обрабатываю: Visualizing the impact of quenched disorder on 2D electron W
+[2026-06-18 08:02:18] Попытка 1 для: Visualizing the impact of quenched disor
+[2026-06-18 08:02:19] Успешно, получено 1050 символов
+[2026-06-18 08:02:20] Пауза 60 секунд...
+[2026-06-18 08:03:20] Обрабатываю: Cortical development dynamics across autism spectrum disorde
+[2026-06-18 08:03:20] Попытка 1 для: Cortical development dynamics across aut
+[2026-06-18 08:03:21] Успешно, получено 655 символов
+[2026-06-18 08:03:21] === Блок ai_morning завершён ===
