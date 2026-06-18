@@ -23710,3 +23710,52 @@ Nithya
 [2026-06-18 16:07:09] Попытка 1 для: Eritrea: A Model of a Primary Health Car
 [2026-06-18 16:07:11] Успешно, получено 723 символов
 [2026-06-18 16:07:11] === Блок evening завершён ===
+[2026-06-18 18:01:03] Загружено 1814 уже отправленных новостей
+[2026-06-18 18:01:03] === Запуск блока: ai_evening ===
+[2026-06-18 18:01:03] Неизвестный источник (the points guy): Summer travel checklist: 12 things to do
+[2026-06-18 18:01:03] Нет фото: Mercurius Media Capital Invests $5 Milli
+[2026-06-18 18:01:03] Неизвестный источник (siliconangle news): Vercel launches a new framework and ente
+[2026-06-18 18:01:03] Нет фото: Better Play Initiative Releases New Repo
+[2026-06-18 18:01:03] Неизвестный источник (siliconangle news): Odyssey raises $310M at a $1.45B valuati
+[2026-06-18 18:01:03] Неизвестный источник (fortune): Brinker’s CIO spent years rebuilding res
+[2026-06-18 18:01:03] Неизвестный источник (yahoo entertainment): Jim Cramer on SpaceX: “The Long-Term Ups
+[2026-06-18 18:01:03] Нет фото: Hyperscalers to Get Clarity on How to Sp
+[2026-06-18 18:01:03] Нет фото: CorelDRAW Graphics Suite 2026 v27.1.0.25
+[2026-06-18 18:01:03] Неизвестный источник (crypto briefing): EarnOS raises $18.5 million and launches
+[2026-06-18 18:01:03] Неизвестный источник (globenewswire): Digital Realty Launches ServiceFabric® M
+[2026-06-18 18:01:03] Неизвестный источник (the next web): China’s new five-year plan makes trackin
+[2026-06-18 18:01:03] Неизвестный источник (businessline): AI to power India’s fight against cyber 
+[2026-06-18 18:01:03] Неизвестный источник (new york post): Inside Peter Thiel’s secretive, invite-o
+[2026-06-18 18:01:03] Нет фото: BofA Exec Sees AI Expanding Its Dominati
+[2026-06-18 18:01:03] Нет фото: mfai 7.2.1
+[2026-06-18 18:01:03] Неизвестный источник (prnewswire): Elevate UV Filter Bemotrizinol with LexF
+[2026-06-18 18:01:03] Неизвестный источник (space daily): The environmental impact of watching one
+[2026-06-18 18:01:03] Неизвестный источник (theregister.com): AWS hypes continuous agentic DevOps, put
+[2026-06-18 18:01:03] Неизвестный источник (dailymail.com): SpaceX now more valuable than Amazon but
+[2026-06-18 18:01:03] Неизвестный источник (financial post): Google’s Gemini-powered AI home speaker 
+[2026-06-18 18:01:03] Нет фото: All In FutureTech Alliance Inc. Announce
+[2026-06-18 18:01:03] Неизвестный источник (globenewswire): Uninterruptible Power Supply (UPS) Marke
+[2026-06-18 18:01:03] Неизвестный источник (business insider): Anthropic's Dario Amodei and OpenAI's Sa
+[2026-06-18 18:01:03] Неизвестный источник (wptavern.com): #221 – Rahul Bansal on Using AI Everywhe
+[2026-06-18 18:01:03] Неизвестный источник (plos.org): LXNet: A lightweight CNN for lung diseas
+[2026-06-18 18:01:03] Неизвестный источник (plos.org): A semantic segmentation model to predict
+[2026-06-18 18:01:03] Неизвестный источник (plos.org): Machine learning-driven identification o
+[2026-06-18 18:01:03] Неизвестный источник (oreilly.com): The Case Against Building Your Own Agent
+[2026-06-18 18:01:03] Неизвестный источник (abajournal.com): What is vibe coding, and how could it he
+[2026-06-18 18:01:03] Неизвестный источник (the next web): Grok helped strike 2,000 targets at Iran
+[2026-06-18 18:01:03] Нет фото: mfai 7.2.0
+[2026-06-18 18:01:03] Неизвестный источник (prnewswire): AI Innovator Priya Lakhani OBE to Join t
+[2026-06-18 18:01:03] Неизвестный источник (financial post): SpaceX heads toward fourth day of gains 
+[2026-06-18 18:01:03] Неизвестный источник (prnewswire): LUNAI BIOWORKS: CEO LETTER TO SHAREHOLDE
+[2026-06-18 18:01:03] Неизвестный источник (financial post): Medventions Partners With Mitacs to Supp
+[2026-06-18 18:01:03] Неизвестный источник (prnewswire): eMazzanti Technologies President Carl Ma
+[2026-06-18 18:01:03] Неизвестный источник (siliconangle news): Everpure accelerates AI workloads with D
+[2026-06-18 18:01:03] AI новости: найдено 2 после фильтрации
+[2026-06-18 18:01:05] Обрабатываю: Delhi HC seeks govt reply on Telegram plea against NEET exam
+[2026-06-18 18:01:05] Попытка 1 для: Delhi HC seeks govt reply on Telegram pl
+[2026-06-18 18:01:07] Успешно, получено 669 символов
+[2026-06-18 18:01:07] Пауза 60 секунд...
+[2026-06-18 18:02:07] Обрабатываю: SpaceX Stock Dips as Post-IPO Volatility Hits New Public Com
+[2026-06-18 18:02:07] Попытка 1 для: SpaceX Stock Dips as Post-IPO Volatility
+[2026-06-18 18:02:08] Успешно, получено 683 символов
+[2026-06-18 18:02:09] === Блок ai_evening завершён ===
