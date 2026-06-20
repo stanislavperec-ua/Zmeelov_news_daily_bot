@@ -24081,3 +24081,48 @@ Nithya
 [2026-06-20 06:05:22] Попытка 1 для: Black rain in Moscow after Ukrainian dro
 [2026-06-20 06:05:23] Успешно, получено 681 символов
 [2026-06-20 06:05:24] === Блок morning завершён ===
+[2026-06-20 08:01:05] Загружено 1842 уже отправленных новостей
+[2026-06-20 08:01:05] === Запуск блока: ai_morning ===
+[2026-06-20 08:01:05] Неизвестный источник (fortune): How FIFA restructured the World Cup into
+[2026-06-20 08:01:05] Неизвестный источник (thehour.com): Federal regulators order grid operators 
+[2026-06-20 08:01:05] Неизвестный источник (libraryjournal.com): Archiving with AI [Library Journal]
+[2026-06-20 08:01:05] Неизвестный источник (financial post): Goldman, Barclays Strategists Raise Targ
+[2026-06-20 08:01:05] Неизвестный источник (c-sharpcorner.com): AI Operational Readiness Reviews: A Guid
+[2026-06-20 08:01:05] Неизвестный источник (c-sharpcorner.com): Implementing AI-Based Release Readiness 
+[2026-06-20 08:01:05] Неизвестный источник (c-sharpcorner.com): AI Security Validation Frameworks for En
+[2026-06-20 08:01:05] Неизвестный источник (protothema.gr): Kilaidonis and the…Rafina approach, Sama
+[2026-06-20 08:01:05] Неизвестный источник (c-sharpcorner.com): Designing Enterprise AI Fallback Mechani
+[2026-06-20 08:01:05] Неизвестный источник (c-sharpcorner.com): AI Application Resilience Patterns: Hand
+[2026-06-20 08:01:05] Неизвестный источник (europesays.com): Agentic marketing AI startup Gradial gra
+[2026-06-20 08:01:05] Неизвестный источник (financial post): Traders’ Latest AI-Related Play Is a Str
+[2026-06-20 08:01:05] Неизвестный источник (pypi.org): open-news-api added to PyPI
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Fabrix.ai demonstrates production-grade 
+[2026-06-20 08:01:05] Неизвестный источник (businessline): Reliance AGM 2026: Jio IPO, AI push and 
+[2026-06-20 08:01:05] Неизвестный источник (computerweekly.com): Keysight’s chief technologist on the pat
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Agentic marketing AI startup Gradial gra
+[2026-06-20 08:01:05] Неизвестный источник (vettedconsumer.com): GLM-5.2: The Most Powerful Open Model ye
+[2026-06-20 08:01:05] Неизвестный источник (aresluna.org): Marcin Wichary on designing finger-frien
+[2026-06-20 08:01:05] Неизвестный источник (digital journal): Ethnie Xu is making built-environment kn
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Architect Labs nabs $24M to speed up chi
+[2026-06-20 08:01:05] Неизвестный источник (r-bloggers.com): EuroBioC2026 conference recap
+[2026-06-20 08:01:05] Неизвестный источник (activistpost.com): By early 2026, several European insurers
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): President Trump claims Apple has agreed 
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Prem seeks $100M Series A as export bans
+[2026-06-20 08:01:05] Неизвестный источник (pymnts.com): AI and Digital Money’s Next Test is Prov
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Game-clip AI startup General Intuition i
+[2026-06-20 08:01:05] Неизвестный источник (siliconangle news): Dream raises $260M for its sovereign AI 
+[2026-06-20 08:01:05] Нет фото: USW welcomes workers at Permanent Softwa
+[2026-06-20 08:01:05] Неизвестный источник (pymnts.com): Midjourney Enters Medical Imaging With 6
+[2026-06-20 08:01:05] AI новости: найдено 9 после фильтрации
+[2026-06-20 08:01:08] Обрабатываю: All eyes on Reliance AGM as Street awaits Jio IPO roadmap
+[2026-06-20 08:01:08] Попытка 1 для: All eyes on Reliance AGM as Street await
+[2026-06-20 08:01:09] Успешно, получено 574 символов
+[2026-06-20 08:01:09] Пауза 60 секунд...
+[2026-06-20 08:02:09] Обрабатываю: Europe unveils a new tank to neutralise drones: Check how US
+[2026-06-20 08:02:09] Попытка 1 для: Europe unveils a new tank to neutralise 
+[2026-06-20 08:02:10] Успешно, получено 804 символов
+[2026-06-20 08:02:10] Пауза 60 секунд...
+[2026-06-20 08:03:10] Обрабатываю: SpaceX's next frontier: AI, growth and investor expectations
+[2026-06-20 08:03:10] Попытка 1 для: SpaceX's next frontier: AI, growth and i
+[2026-06-20 08:03:12] Успешно, получено 816 символов
+[2026-06-20 08:03:12] === Блок ai_morning завершён ===
