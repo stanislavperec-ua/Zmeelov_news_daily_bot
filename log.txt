@@ -24126,3 +24126,40 @@ Nithya
 [2026-06-20 08:03:10] Попытка 1 для: SpaceX's next frontier: AI, growth and i
 [2026-06-20 08:03:12] Успешно, получено 816 символов
 [2026-06-20 08:03:12] === Блок ai_morning завершён ===
+[2026-06-20 11:01:02] Загружено 1845 уже отправленных новостей
+[2026-06-20 11:01:02] === Запуск блока: midday ===
+[2026-06-20 11:01:02] Неизвестный источник (yahoo entertainment): Warsh wants markets to guide the Fed, no
+[2026-06-20 11:01:02] Неизвестный источник (espn): World Cup 2026 Power Rankings after one 
+[2026-06-20 11:01:02] Неизвестный источник (cnbc): Asia markets fall as investors assess du
+[2026-06-20 11:01:02] Неизвестный источник (deadline): ‘Toy Story 5’ Heading To Franchise Recor
+[2026-06-20 11:01:02] Неизвестный источник (san francisco chronicle): In bid to make a deal, billionaire tax b
+[2026-06-20 11:01:02] Неизвестный источник (yahoo entertainment): U.S. Open: Wyndham Clark cashes in after
+[2026-06-20 11:01:02] Неизвестный источник (wtop): Blue paint on bottom of Reflecting Pool 
+[2026-06-20 11:01:02] Неизвестный источник (rolling stone): Bunnie Xo Reveals She and Jelly Roll Are
+[2026-06-20 11:01:02] Неизвестный источник (usa today): Singer Oliver Tree confirmed dead in hel
+[2026-06-20 11:01:02] Неизвестный источник (ksl.com): Proposed immigrant detention center site
+[2026-06-20 11:01:02] Неизвестный источник (9to5google.com): Gemini Live can now access your past cha
+[2026-06-20 11:01:02] Неизвестный источник (kabc-tv): Former child actor Daveigh Chase, voice 
+[2026-06-20 11:01:02] Неизвестный источник (barron's): SpaceX Stock Plunges Despite Getting 2 B
+[2026-06-20 11:01:02] Неизвестный источник (phys.org): Fossilized babies of ancient crocodile-l
+[2026-06-20 11:01:02] Неизвестный источник (futurism): Google’s AI Overviews Feature Is Telling
+[2026-06-20 11:01:02] Неизвестный источник (gizmodo.com): Sennheiser Joins the Open Wireless Earbu
+[2026-06-20 11:01:02] Старая новость (2026-06-18T08:30:00Z): Snap Specs combine smart glasses with ri
+[2026-06-20 11:01:02] Старая новость (2026-06-17T13:25:00Z): RFK Jr. orders American exposed to hanta
+[2026-06-20 11:01:02] Мировые новости: найдено 12 после фильтрации
+[2026-06-20 11:01:04] Обрабатываю: U.S.-Iran talks postponed as Vance cancels trip and Israel i
+[2026-06-20 11:01:04] Попытка 1 для: U.S.-Iran talks postponed as Vance cance
+[2026-06-20 11:01:05] Успешно, получено 645 символов
+[2026-06-20 11:01:06] Пауза 60 секунд...
+[2026-06-20 11:02:06] Обрабатываю: Oil prices are falling and stocks are up. Traders worry they
+[2026-06-20 11:02:06] Попытка 1 для: Oil prices are falling and stocks are up
+[2026-06-20 11:02:07] Успешно, получено 658 символов
+[2026-06-20 11:02:07] Пауза 60 секунд...
+[2026-06-20 11:03:07] Обрабатываю: Man arrested after boy injured in zoo crocodile enclosure
+[2026-06-20 11:03:07] Попытка 1 для: Man arrested after boy injured in zoo cr
+[2026-06-20 11:03:08] Успешно, получено 741 символов
+[2026-06-20 11:03:09] Пауза 60 секунд...
+[2026-06-20 11:04:09] Обрабатываю: Democrat Hannah Pingree and MAGA ally Bobby Charles will fac
+[2026-06-20 11:04:09] Попытка 1 для: Democrat Hannah Pingree and MAGA ally Bo
+[2026-06-20 11:04:10] Успешно, получено 930 символов
+[2026-06-20 11:04:11] === Блок midday завершён ===
