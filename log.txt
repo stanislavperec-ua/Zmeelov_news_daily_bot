@@ -24756,3 +24756,24 @@ Nithya
 [2026-06-22 16:06:25] Попытка 1 для: Russia strikes an apartment building in 
 [2026-06-22 16:06:26] Успешно, получено 771 символов
 [2026-06-22 16:06:27] === Блок evening завершён ===
+[2026-06-22 18:01:05] Загружено 1891 уже отправленных новостей
+[2026-06-22 18:01:05] === Запуск блока: ai_evening ===
+[2026-06-22 18:01:05] Неизвестный источник (bleeding cool news): The Infernal Hulk #8 Preview: Heroes Go 
+[2026-06-22 18:01:05] Неизвестный источник (variety): Netflix, A24 and Focus Pass on Luca Guad
+[2026-06-22 18:01:05] Неизвестный источник (pypi.org): prete added to PyPI
+[2026-06-22 18:01:05] Нет фото: pybibx 5.9.5
+[2026-06-22 18:01:05] Неизвестный источник (financial post): Soaring Profits in EM Build the Case for
+[2026-06-22 18:01:05] Неизвестный источник (business insider): Creators are the new kings of advertisin
+[2026-06-22 18:01:05] Неизвестный источник (usa today): Graduation controversies reported across
+[2026-06-22 18:01:05] Неизвестный источник (the new republic): The AI Ghost in the Nuclear War Machine
+[2026-06-22 18:01:05] Неизвестный источник (crypto briefing): Fetch.ai publishes tutorial for building
+[2026-06-22 18:01:05] Неизвестный источник (variety): Viu CEO Says Nearly 20% of Long-Form Use
+[2026-06-22 18:01:05] Неизвестный источник (bleeding cool news): Moonstar #4 Preview: Dani's Ultimate Sop
+[2026-06-22 18:01:05] Неизвестный источник (soldiersystems.net): Army Innovators Automate Path to Zero Tr
+[2026-06-22 18:01:05] Неизвестный источник (crypto briefing): OpenAI partners with Open Network Lab fo
+[2026-06-22 18:01:05] Нет фото: radiate 0.0.14
+[2026-06-22 18:01:05] Неизвестный источник (crypto briefing): Jack Dorsey calls for elimination of mid
+[2026-06-22 18:01:05] Неизвестный источник (bleeding cool news): Detective Comics #1110 Preview: Dinah's 
+[2026-06-22 18:01:05] AI новости: найдено 0 после фильтрации
+[2026-06-22 18:01:05] ⚠️ Блок *AI вечер* (22.06.2026) — новостей не найдено!
+[2026-06-22 18:01:05] === Блок ai_evening завершён ===
