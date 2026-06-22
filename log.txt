@@ -24610,3 +24610,45 @@ Nithya
 [2026-06-22 06:06:22] Попытка 1 для: Russia strikes an apartment building in 
 [2026-06-22 06:06:23] Успешно, получено 589 символов
 [2026-06-22 06:06:24] === Блок morning завершён ===
+[2026-06-22 08:01:08] Загружено 1884 уже отправленных новостей
+[2026-06-22 08:01:08] === Запуск блока: ai_morning ===
+[2026-06-22 08:01:08] Неизвестный источник (bleeding cool news): Moonstar #4 Preview: Dani's Ultimate Sop
+[2026-06-22 08:01:08] Неизвестный источник (soldiersystems.net): Army Innovators Automate Path to Zero Tr
+[2026-06-22 08:01:08] Неизвестный источник (crypto briefing): OpenAI partners with Open Network Lab fo
+[2026-06-22 08:01:08] Нет фото: radiate 0.0.14
+[2026-06-22 08:01:08] Неизвестный источник (crypto briefing): Jack Dorsey calls for elimination of mid
+[2026-06-22 08:01:08] Неизвестный источник (bleeding cool news): Detective Comics #1110 Preview: Dinah's 
+[2026-06-22 08:01:08] Неизвестный источник (soldiersystems.net): 7th ID Conducts Redesignation Ceremony
+[2026-06-22 08:01:08] Неизвестный источник (siliconangle news): AI, user data and the asymmetry of under
+[2026-06-22 08:01:08] Неизвестный источник (siliconangle news): Agentic AI’s challenge is getting agents
+[2026-06-22 08:01:08] Неизвестный источник (globenewswire): AI Crypto Presale Ruvi AI Sells 99% of P
+[2026-06-22 08:01:08] Неизвестный источник (hot hardware): AI-Powered Holographic Display Could Bri
+[2026-06-22 08:01:08] Неизвестный источник (oilprice.com): The U.S. States Leading the Backlash Aga
+[2026-06-22 08:01:08] Неизвестный источник (antaranews.com): Jakarta ranks 53rd in World's Best Citie
+[2026-06-22 08:01:08] Неизвестный источник (windows central): I read this Age of Empires II essay on h
+[2026-06-22 08:01:08] Неизвестный источник (cryptoslate): AI is pushing crypto media into a fight 
+[2026-06-22 08:01:08] Неизвестный источник (pcmag.com): Amazon MGM Studios Dumps Upcoming OpenAI
+[2026-06-22 08:01:08] Неизвестный источник (the new york review of books): Variations on Broken Eggs
+[2026-06-22 08:01:08] Неизвестный источник (www.lrt.lt): Lithuanian startup launches open-source 
+[2026-06-22 08:01:08] Неизвестный источник (crypto briefing): Lloyds Banking Group to hire 300 tech ex
+[2026-06-22 08:01:08] Неизвестный источник (financial post): What’s in store for Canadian shoppers: F
+[2026-06-22 08:01:08] Неизвестный источник (salon): Businesses with ties to Jeffrey Epstein 
+[2026-06-22 08:01:08] Неизвестный источник (thejournal.ie): 'We have the power to change the interne
+[2026-06-22 08:01:08] Неизвестный источник (android authority): Google Assistant ruined my smart home se
+[2026-06-22 08:01:08] Неизвестный источник (thestreet): Goldman Sachs projects staggering SpaceX
+[2026-06-22 08:01:08] Неизвестный источник (new atlas): Uber, Wayve and Stellantis join forces t
+[2026-06-22 08:01:08] Нет фото: Michael Hudson and Radhika Desai: Iran D
+[2026-06-22 08:01:08] Неизвестный источник (financial post): Europe’s Stocks Are Back in the Lead as 
+[2026-06-22 08:01:08] AI новости: найдено 3 после фильтрации
+[2026-06-22 08:01:11] Обрабатываю: Big tech stock buybacks vanish as AI spending spree eats up 
+[2026-06-22 08:01:11] Попытка 1 для: Big tech stock buybacks vanish as AI spe
+[2026-06-22 08:01:11] Успешно, получено 736 символов
+[2026-06-22 08:01:12] Пауза 60 секунд...
+[2026-06-22 08:02:12] Обрабатываю: SpaceX valuation hinges on uncertain AI economics, says Prof
+[2026-06-22 08:02:12] Попытка 1 для: SpaceX valuation hinges on uncertain AI 
+[2026-06-22 08:02:13] Успешно, получено 879 символов
+[2026-06-22 08:02:14] Пауза 60 секунд...
+[2026-06-22 08:03:14] Обрабатываю: A German and a Chinese walk into a hot Indian corporate batt
+[2026-06-22 08:03:14] Попытка 1 для: A German and a Chinese walk into a hot I
+[2026-06-22 08:03:15] Успешно, получено 889 символов
+[2026-06-22 08:03:16] === Блок ai_morning завершён ===
