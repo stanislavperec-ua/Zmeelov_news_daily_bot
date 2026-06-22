@@ -24652,3 +24652,47 @@ Nithya
 [2026-06-22 08:03:14] Попытка 1 для: A German and a Chinese walk into a hot I
 [2026-06-22 08:03:15] Успешно, получено 889 символов
 [2026-06-22 08:03:16] === Блок ai_morning завершён ===
+[2026-06-22 11:01:05] Загружено 1884 уже отправленных новостей
+[2026-06-22 11:01:05] === Запуск блока: midday ===
+[2026-06-22 11:01:05] Неизвестный источник (ktla los angeles): Newsom declares State of Emergency for B
+[2026-06-22 11:01:05] Неизвестный источник (kutv 2news): Evacuations underway for ranches north o
+[2026-06-22 11:01:05] Неизвестный источник (usa today): Iran accuses US, Israel of ceasefire vio
+[2026-06-22 11:01:05] Неизвестный источник (247sports): North Carolina Falls to Oklahoma, 9-3, i
+[2026-06-22 11:01:05] Неизвестный источник (post magazine): Italy’s Meloni let Trump’s jibes slide f
+[2026-06-22 11:01:05] Неизвестный источник (fox news): H5N1 bird flu confirmed in Australia for
+[2026-06-22 11:01:05] Неизвестный источник (understandingwar.org): Iran Update Special Report, June 20, 202
+[2026-06-22 11:01:05] Неизвестный источник (cnbc): Report says UK PM Starmer ready to quit,
+[2026-06-22 11:01:05] Неизвестный источник (wtop): Measles case confirmed in Maryland resid
+[2026-06-22 11:01:05] Неизвестный источник (fox news): Obama Presidential Center follows widely
+[2026-06-22 11:01:05] Неизвестный источник (sports illustrated): Why USMNT’s Alex Freeman, Son of NFL Leg
+[2026-06-22 11:01:05] Неизвестный источник (mma fighting): UFC Vegas 119 Results: Kape vs. Horiguch
+[2026-06-22 11:01:05] Неизвестный источник (variety): Jennifer Aniston Posts Heartfelt Tribute
+[2026-06-22 11:01:05] Неизвестный источник (gizmodo.com): Netflix May Invite The Daniels to Its ‘S
+[2026-06-22 11:01:05] Неизвестный источник (hollywood reporter): ‘Toy Story 5’ Headed to $160M for Bigges
+[2026-06-22 11:01:05] Неизвестный источник (marketwatch): The initial SpaceX frenzy is cooling off
+[2026-06-22 11:01:05] Неизвестный источник (abcnews.com): Warsh's gamble: A quieter Federal Reserv
+[2026-06-22 11:01:05] Неизвестный источник (pbs): Utah marks a year of battling measles, w
+[2026-06-22 11:01:05] Старая новость (2026-06-20T11:00:09Z): Did Anthropic talk its way into an AI ex
+[2026-06-22 11:01:05] Старая новость (2026-06-20T01:49:41Z): Grand Theft Auto 6 Trailer 3: Expected R
+[2026-06-22 11:01:05] Старая новость (2026-06-19T19:11:21Z): Some tropical butterfly species have unl
+[2026-06-22 11:01:05] Старая новость (2026-06-19T18:07:52Z): More than 70 medics infected with Ebola 
+[2026-06-22 11:01:05] Старая новость (2026-06-19T17:54:00Z): Here's why experts are warning Californi
+[2026-06-22 11:01:05] Старая новость (2026-06-19T17:00:05Z): Meet ERNEST, NASA’s Next-Generation Rove
+[2026-06-22 11:01:05] Старая новость (2026-06-19T16:00:00Z): 'No one thought it was going to be possi
+[2026-06-22 11:01:05] Мировые новости: найдено 7 после фильтрации
+[2026-06-22 11:01:08] Обрабатываю: US Vice President JD Vance arrives in Switzerland to launch 
+[2026-06-22 11:01:08] Попытка 1 для: US Vice President JD Vance arrives in Sw
+[2026-06-22 11:01:09] Успешно, получено 760 символов
+[2026-06-22 11:01:09] Пауза 60 секунд...
+[2026-06-22 11:02:09] Обрабатываю: Polish president strips Zelensky of honor after special forc
+[2026-06-22 11:02:09] Попытка 1 для: Polish president strips Zelensky of hono
+[2026-06-22 11:02:10] Успешно, получено 847 символов
+[2026-06-22 11:02:11] Пауза 60 секунд...
+[2026-06-22 11:03:11] Обрабатываю: Wyndham Clark turning the US Open into a runaway. Scheffler 
+[2026-06-22 11:03:11] Попытка 1 для: Wyndham Clark turning the US Open into a
+[2026-06-22 11:03:12] Успешно, получено 841 символов
+[2026-06-22 11:03:13] Пауза 60 секунд...
+[2026-06-22 11:04:13] Обрабатываю: Extreme heat expected again at the Grand Canyon after 3 hike
+[2026-06-22 11:04:13] Попытка 1 для: Extreme heat expected again at the Grand
+[2026-06-22 11:04:14] Успешно, получено 795 символов
+[2026-06-22 11:04:15] === Блок midday завершён ===
