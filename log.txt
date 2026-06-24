@@ -25131,3 +25131,43 @@ Nithya
 [2026-06-24 08:01:09] AI новости: найдено 0 после фильтрации
 [2026-06-24 08:01:10] ⚠️ Блок *AI утро* (24.06.2026) — новостей не найдено!
 [2026-06-24 08:01:10] === Блок ai_morning завершён ===
+[2026-06-24 11:01:09] Загружено 1915 уже отправленных новостей
+[2026-06-24 11:01:09] === Запуск блока: midday ===
+[2026-06-24 11:01:09] Неизвестный источник (barron's): Micron Stock Dives After Memory Chip Riv
+[2026-06-24 11:01:09] Неизвестный источник (cnbc): U.S. issues sweeping Iran oil sanctions 
+[2026-06-24 11:01:09] Неизвестный источник (tmz): Sexyy Red Claims $500K In Handbags, Jewe
+[2026-06-24 11:01:09] Неизвестный источник (mashable): Prime Day is almost here: We found 50+ d
+[2026-06-24 11:01:09] Неизвестный источник (heat.com): Reports: Heat acquire Giannis Antetokoun
+[2026-06-24 11:01:09] Неизвестный источник (ktla los angeles): 2 dead, child injured after gunman opens
+[2026-06-24 11:01:09] Неизвестный источник (usa today): Clive Davis, music titan behind Whitney 
+[2026-06-24 11:01:09] Неизвестный источник (espn): Sources: Wolves to trade Randle to Nets;
+[2026-06-24 11:01:09] Заблокированный источник (sciencealert): Strength Training Is Linked to Longevity
+[2026-06-24 11:01:09] Неизвестный источник (cnbc): S&P 500 futures are little changed after
+[2026-06-24 11:01:09] Неизвестный источник (macrumors): Everything New in iOS 27 Beta 2 - MacRum
+[2026-06-24 11:01:09] Неизвестный источник (samsung.com): Samsung Unveils Industry’s Fastest UFS 5
+[2026-06-24 11:01:09] Неизвестный источник (cbs sports): Inside the stay-or-go transfer decisions
+[2026-06-24 11:01:09] Неизвестный источник (unicef): As Ebola cases hit 1,000, almost 3 milli
+[2026-06-24 11:01:09] Неизвестный источник (vox): The race splitting Zohran Mamdani’s coal
+[2026-06-24 11:01:09] Неизвестный источник (space.com): NASA's Roman Space Telescope arrives in 
+[2026-06-24 11:01:09] Неизвестный источник (kgo-tv): Tell the FCC to Keep KGO-TV on the Air! 
+[2026-06-24 11:01:09] Неизвестный источник (page six): ‘House of the Dragon’ showrunner defends
+[2026-06-24 11:01:09] Неизвестный источник (gameinformer.com): Valve's Steam Machine Costs Between $1,0
+[2026-06-24 11:01:09] Неизвестный источник (nasa): NASA’s Webb Finds Clues to Ancient, Dist
+[2026-06-24 11:01:09] Старая новость (2026-06-22T08:51:07Z): A blood test that screens for multiple t
+[2026-06-24 11:01:09] Мировые новости: найдено 14 после фильтрации
+[2026-06-24 11:01:12] Обрабатываю: ‘What ceasefire?’: In northern Israel, locals doubt an agree
+[2026-06-24 11:01:12] Попытка 1 для: ‘What ceasefire?’: In northern Israel, l
+[2026-06-24 11:01:13] Успешно, получено 514 символов
+[2026-06-24 11:01:14] Пауза 60 секунд...
+[2026-06-24 11:02:14] Обрабатываю: A dead duck was seen in the Reflecting Pool. Then two more w
+[2026-06-24 11:02:14] Попытка 1 для: A dead duck was seen in the Reflecting P
+[2026-06-24 11:02:15] Успешно, получено 721 символов
+[2026-06-24 11:02:16] Пауза 60 секунд...
+[2026-06-24 11:03:16] Обрабатываю: Authorities arrest 2 more suspects in planned attack on Trum
+[2026-06-24 11:03:16] Попытка 1 для: Authorities arrest 2 more suspects in pl
+[2026-06-24 11:03:17] Успешно, получено 752 символов
+[2026-06-24 11:03:17] Пауза 60 секунд...
+[2026-06-24 11:04:17] Обрабатываю: Gunman kills an officer at a Montreal hotel before being sho
+[2026-06-24 11:04:17] Попытка 1 для: Gunman kills an officer at a Montreal ho
+[2026-06-24 11:04:18] Успешно, получено 596 символов
+[2026-06-24 11:04:19] === Блок midday завершён ===
