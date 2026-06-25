@@ -25380,3 +25380,43 @@ Nithya
 [2026-06-25 08:01:05] AI новости: найдено 0 после фильтрации
 [2026-06-25 08:01:05] ⚠️ Блок *AI утро* (25.06.2026) — новостей не найдено!
 [2026-06-25 08:01:05] === Блок ai_morning завершён ===
+[2026-06-25 11:01:03] Загружено 1933 уже отправленных новостей
+[2026-06-25 11:01:03] === Запуск блока: midday ===
+[2026-06-25 11:01:04] Неизвестный источник (unicef): As Ebola cases hit 1,000, almost 3 milli
+[2026-06-25 11:01:04] Неизвестный источник (yahoo entertainment): Stock market today: S&P 500, Nasdaq hit 
+[2026-06-25 11:01:04] Неизвестный источник (mashable): Prime Day is here: We found 65+ deals to
+[2026-06-25 11:01:04] Неизвестный источник (mashable): 35+ of the best Prime Day tech deals, ac
+[2026-06-25 11:01:04] Неизвестный источник (tmz): Jesse James' Wife Bonnie Rotten Charged 
+[2026-06-25 11:01:04] Неизвестный источник (espn): 2026 NBA draft: Round 1 winners, surpris
+[2026-06-25 11:01:04] Неизвестный источник (cnbc): Brent falls below $76, notching its lowe
+[2026-06-25 11:01:04] Неизвестный источник (responsiblestatecraft.org): Starmer's exit exposes dirty secret: UK 
+[2026-06-25 11:01:04] Неизвестный источник (andscape.com): AJ Dybantsa a beacon of light for Wizard
+[2026-06-25 11:01:04] Неизвестный источник (business insider): Elon Musk loses his trillionaire status 
+[2026-06-25 11:01:04] Неизвестный источник (pbs): A decade after Brexit, UK voters reflect
+[2026-06-25 11:01:04] Неизвестный источник (space.com): What is Starfall? A look at SpaceX's mys
+[2026-06-25 11:01:04] Неизвестный источник (gizmodo.com): 'Magic School Bus' Live-Action Movie Kic
+[2026-06-25 11:01:04] Неизвестный источник (deadline): ‘Toy Story 5’ Soars To Best Monday Of 20
+[2026-06-25 11:01:04] Неизвестный источник (techpowerup.com): Pre-RAMpocalypse Steam Machine Pricing w
+[2026-06-25 11:01:04] Неизвестный источник (espn): Taylor Swift attends Tight End Universit
+[2026-06-25 11:01:04] Неизвестный источник (miami herald): What 15 analysts, national voices are sa
+[2026-06-25 11:01:04] Неизвестный источник (pcmag.com): 11 of the Best Discounts on Desktop PCs 
+[2026-06-25 11:01:04] Неизвестный источник (9to5google.com): Latest Galaxy Watch 9 leaks show updated
+[2026-06-25 11:01:04] Старая новость (2026-06-23T05:01:22Z): Bird Flu Has Reached The Last Free Conti
+[2026-06-25 11:01:04] Старая новость (2026-06-22T20:00:00Z): NASA's Roman Space Telescope arrives in 
+[2026-06-25 11:01:04] Мировые новости: найдено 9 после фильтрации
+[2026-06-25 11:01:06] Обрабатываю: Archaeologists find huge Viking textile production site in D
+[2026-06-25 11:01:06] Попытка 1 для: Archaeologists find huge Viking textile 
+[2026-06-25 11:01:07] Успешно, получено 732 символов
+[2026-06-25 11:01:08] Пауза 60 секунд...
+[2026-06-25 11:02:08] Обрабатываю: Mamdani-backed candidates sweep House primaries in NYC. See 
+[2026-06-25 11:02:08] Попытка 1 для: Mamdani-backed candidates sweep House pr
+[2026-06-25 11:02:09] Успешно, получено 698 символов
+[2026-06-25 11:02:09] Пауза 60 секунд...
+[2026-06-25 11:03:09] Обрабатываю: Former Utah House Democrat wins primary for redistricted sea
+[2026-06-25 11:03:09] Попытка 1 для: Former Utah House Democrat wins primary 
+[2026-06-25 11:03:11] Успешно, получено 669 символов
+[2026-06-25 11:03:11] Пауза 60 секунд...
+[2026-06-25 11:04:11] Обрабатываю: Eight sentenced to 450 years in prison over anti-ICE riot wh
+[2026-06-25 11:04:11] Попытка 1 для: Eight sentenced to 450 years in prison o
+[2026-06-25 11:04:12] Успешно, получено 626 символов
+[2026-06-25 11:04:12] === Блок midday завершён ===
