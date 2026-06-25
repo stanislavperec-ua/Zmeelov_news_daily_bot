@@ -25477,3 +25477,55 @@ Nithya
 [2026-06-25 16:05:17] Успешно, получено 664 символов
 [2026-06-25 16:05:17] Фото не отправилось: 400
 [2026-06-25 16:05:17] === Блок evening завершён ===
+[2026-06-25 18:01:07] Загружено 1942 уже отправленных новостей
+[2026-06-25 18:01:07] === Запуск блока: ai_evening ===
+[2026-06-25 18:01:07] Неизвестный источник (wwd): Samsung Taps InMobi’s Glance to Deliver 
+[2026-06-25 18:01:07] Нет фото: The Intergalactic Fermi Problem
+[2026-06-25 18:01:07] Неизвестный источник (prnewswire): Children's Hospital of Philadelphia Rese
+[2026-06-25 18:01:07] Неизвестный источник (okfn.org): Open Knowledge and Critical Infrastructu
+[2026-06-25 18:01:07] Неизвестный источник (pymnts.com): Samsung Teams With Glance to Put Agentic
+[2026-06-25 18:01:07] Нет фото: Doncasters US IPO Said to Be More than 3
+[2026-06-25 18:01:07] Неизвестный источник (pymnts.com): Thredd Turns to Visa to Advance Cloud-Fi
+[2026-06-25 18:01:07] Неизвестный источник (financial post): Cracks in the AI narrative seem more ser
+[2026-06-25 18:01:07] Неизвестный источник (music business worldwide): Judge Dismisses Class Action Against Spo
+[2026-06-25 18:01:07] Неизвестный источник (nasa): Spacewalk Preps and Human Research Fill 
+[2026-06-25 18:01:07] Неизвестный источник (dw (english)): How Big Tech is changing journalism
+[2026-06-25 18:01:07] Нет фото: US Largest Grid Updates Emergency Plan a
+[2026-06-25 18:01:07] Неизвестный источник (siliconangle news): HelloTwin launches ‘Digital Authority’ t
+[2026-06-25 18:01:07] Неизвестный источник (siliconangle news): Three insights you may have missed from 
+[2026-06-25 18:01:07] Неизвестный источник (fortune): Robert Wright sees an ‘earthquake’ comin
+[2026-06-25 18:01:07] Неизвестный источник (techradar): Broadcom and OpenAI debut Jalapeño Intel
+[2026-06-25 18:01:07] Неизвестный источник (thestreet): Veteran trader says one trend could send
+[2026-06-25 18:01:07] Нет фото: Sunrun Surges Over 30% on Tesla Deal to 
+[2026-06-25 18:01:07] Неизвестный источник (globenewswire): US AI and Carahsoft Partner to Bring Int
+[2026-06-25 18:01:07] Нет фото: Hyperscalers Ditch Canada Investor Calls
+[2026-06-25 18:01:07] Нет фото: Edsger Dijkstra's Library (Housed and Ar
+[2026-06-25 18:01:07] Неизвестный источник (siliconangle news): Beyond the $7.8B in deals: Why Wall Stre
+[2026-06-25 18:01:07] Неизвестный источник (globalresearch.ca): From Saigon to Hormuz: The Culture of Re
+[2026-06-25 18:01:07] Неизвестный источник (prnewswire): Majors Management and ResultStack Launch
+[2026-06-25 18:01:07] Неизвестный источник (mondoweiss): Israel is tearing down the American orde
+[2026-06-25 18:01:07] Неизвестный источник (financial post): Stocks Halt AI-Fueled Rout Before Micron
+[2026-06-25 18:01:07] Неизвестный источник (financial post): Tech stocks set to bounce after US$1.3 t
+[2026-06-25 18:01:07] Неизвестный источник (plos.org): Decoding visual object recognition from 
+[2026-06-25 18:01:07] Неизвестный источник (plos.org): Dynamic financial tail risk networks: A 
+[2026-06-25 18:01:07] Неизвестный источник (plos.org): Normative assembly rule reveals fairness
+[2026-06-25 18:01:07] Неизвестный источник (the next web): Sentient Foundation launches $42M progra
+[2026-06-25 18:01:07] Неизвестный источник (globenewswire): Sentient Foundation Commits $42 Million 
+[2026-06-25 18:01:07] Нет фото: OpenAI and Broadcom Unveil AI Chip to Ru
+[2026-06-25 18:01:07] Нет фото: AI is an energy and water hog, here's wh
+[2026-06-25 18:01:07] Неизвестный источник (financial post): Amazon Prime Day household spending down
+[2026-06-25 18:01:07] Неизвестный источник (siliconangle news): Coval raises $28M as enterprises push vo
+[2026-06-25 18:01:07] Неизвестный источник (siliconangle news): Kinoa pushes AI-native mobile app revenu
+[2026-06-25 18:01:07] AI новости: найдено 3 после фильтрации
+[2026-06-25 18:01:10] Обрабатываю: Sunrun Stock Soars 19% on 16-Gigawatt Power Deal With Tesla 
+[2026-06-25 18:01:10] Попытка 1 для: Sunrun Stock Soars 19% on 16-Gigawatt Po
+[2026-06-25 18:01:11] Успешно, получено 920 символов
+[2026-06-25 18:01:12] Пауза 60 секунд...
+[2026-06-25 18:02:12] Обрабатываю: Vanilla Ice’s American Dream
+[2026-06-25 18:02:12] Попытка 1 для: Vanilla Ice’s American Dream
+[2026-06-25 18:02:13] Успешно, получено 654 символов
+[2026-06-25 18:02:13] Пауза 60 секунд...
+[2026-06-25 18:03:13] Обрабатываю: Washington’s Middle East Military Presence Is Uniquely Count
+[2026-06-25 18:03:13] Попытка 1 для: Washington’s Middle East Military Presen
+[2026-06-25 18:03:14] Успешно, получено 855 символов
+[2026-06-25 18:03:15] === Блок ai_evening завершён ===
