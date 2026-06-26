@@ -25529,3 +25529,55 @@ Nithya
 [2026-06-25 18:03:13] Попытка 1 для: Washington’s Middle East Military Presen
 [2026-06-25 18:03:14] Успешно, получено 855 символов
 [2026-06-25 18:03:15] === Блок ai_evening завершён ===
+[2026-06-26 06:01:03] Загружено 1945 уже отправленных новостей
+[2026-06-26 06:01:03] === Запуск блока: morning ===
+[2026-06-26 06:01:03] Неизвестный источник (cnbc): S&P 500 futures rise as Micron surges af
+[2026-06-26 06:01:03] Неизвестный источник (espn): 2026 NBA draft grades: Winners, losers f
+[2026-06-26 06:01:03] Неизвестный источник (kcra sacramento): Magnitude 5.6 earthquake rattles Norther
+[2026-06-26 06:01:03] Неизвестный источник (hoopsrumors.com): Charania: Celtics "Actively Engaged" In 
+[2026-06-26 06:01:03] Неизвестный источник (investopedia): Micron Stock Soars as Results Blow Past 
+[2026-06-26 06:01:03] Неизвестный источник (variety): Leonard Cohen Estate Objects to Trump’s 
+[2026-06-26 06:01:03] Пропускаю уже отправленную: Extreme heat is melting national records across Eu
+[2026-06-26 06:01:03] Неизвестный источник (space.com): This is the largest and most detailed im
+[2026-06-26 06:01:03] Неизвестный источник (the conversation africa): The military traded its flu vaccine mand
+[2026-06-26 06:01:03] Неизвестный источник (deseret news): What was in the COVID-19 vaccine study C
+[2026-06-26 06:01:03] Неизвестный источник (intouch weekly): Christina Ricci and Ex James Heerdegen B
+[2026-06-26 06:01:03] Неизвестный источник (hollywood reporter): Kelly Reilly and Cole Hauser on How ‘Dut
+[2026-06-26 06:01:03] Неизвестный источник (variety): Toy Story 5 to Beat Supergirl, Jackass a
+[2026-06-26 06:01:03] Неизвестный источник (yahoo entertainment): Prime Day deals are live: Shop today’s b
+[2026-06-26 06:01:03] Неизвестный источник (spacenews): SpaceX launches secretive Starfall reent
+[2026-06-26 06:01:03] Мировые новости: найдено 17 после фильтрации
+[2026-06-26 06:01:04] Заблокированный источник (naturalnews.com): U.K. Tests Long-Range Missile for Ukrain
+[2026-06-26 06:01:04] Заблокированный источник (naturalnews.com): Ritter Accuses Google’s Eric Schmidt of 
+[2026-06-26 06:01:04] Нет фото: Back-To-Back Earthquakes Rock Venezuela,
+[2026-06-26 06:01:04] Нет фото: Biden-Appointed Judge Blocks ICE Agents 
+[2026-06-26 06:01:04] Нет фото: More Than 60 Million Stars Glimmer In Th
+[2026-06-26 06:01:04] Заблокированный источник (rt): Historic 400-year-old German brewery fil
+[2026-06-26 06:01:04] Нет фото: Astronomy Picture of the Day - SDO Obser
+[2026-06-26 06:01:04] Нет фото: At the link, a man sings "You better wat
+[2026-06-26 06:01:04] Нет фото: Mutant sewer rats spreading through majo
+[2026-06-26 06:01:04] Нет фото: Moscow Oil Refinery Unlikely to Resume P
+[2026-06-26 06:01:04] Нет фото: Ukraine strikes on Russian bridges becom
+[2026-06-26 06:01:04] Нет фото: 7.1 magnitude earthquake strikes Venezue
+[2026-06-26 06:01:04] Заблокированный источник (rt): Von der Leyen investigated over secret g
+[2026-06-26 06:01:04] Украинские новости: найдено 1 после фильтрации
+[2026-06-26 06:01:04] Харьков: новостей не найдено
+[2026-06-26 06:01:06] Обрабатываю: Eric Adams confidant Frank Carone indicted in $120,000 bribe
+[2026-06-26 06:01:06] Попытка 1 для: Eric Adams confidant Frank Carone indict
+[2026-06-26 06:01:09] Успешно, получено 779 символов
+[2026-06-26 06:01:10] Пауза 60 секунд...
+[2026-06-26 06:02:10] Обрабатываю: Strong earthquake hits Venezuela as buildings collapse in Ca
+[2026-06-26 06:02:10] Попытка 1 для: Strong earthquake hits Venezuela as buil
+[2026-06-26 06:02:11] Успешно, получено 674 символов
+[2026-06-26 06:02:11] Пауза 60 секунд...
+[2026-06-26 06:03:11] Обрабатываю: 23 small products that made a huge difference in our lives a
+[2026-06-26 06:03:11] Попытка 1 для: 23 small products that made a huge diffe
+[2026-06-26 06:03:12] Успешно, получено 811 символов
+[2026-06-26 06:03:13] Пауза 60 секунд...
+[2026-06-26 06:04:13] Обрабатываю: Astronomers find biggest super-puff planets yet that are lig
+[2026-06-26 06:04:13] Попытка 1 для: Astronomers find biggest super-puff plan
+[2026-06-26 06:04:14] Успешно, получено 610 символов
+[2026-06-26 06:04:17] Обрабатываю: Two-thirds of Russian Ballistic Missiles Breach Ukraine’s Ai
+[2026-06-26 06:04:17] Попытка 1 для: Two-thirds of Russian Ballistic Missiles
+[2026-06-26 06:04:18] Успешно, получено 865 символов
+[2026-06-26 06:04:18] === Блок morning завершён ===
