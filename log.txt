@@ -25718,3 +25718,53 @@ Nithya
 [2026-06-26 16:05:19] Попытка 1 для: Poland, Ukraine hold key conference with
 [2026-06-26 16:05:20] Успешно, получено 757 символов
 [2026-06-26 16:05:20] === Блок evening завершён ===
+[2026-06-26 18:01:01] Загружено 1963 уже отправленных новостей
+[2026-06-26 18:01:01] === Запуск блока: ai_evening ===
+[2026-06-26 18:01:02] Неизвестный источник (tennessean): Will the Predators move up in 2026 NHL D
+[2026-06-26 18:01:02] Неизвестный источник (tennessean): Will the Predators move up in 2026 NHL D
+[2026-06-26 18:01:02] Неизвестный источник (successful-blog.com): What Is Blockchain Technology? A Simple 
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Premarket Acquires Maklare AI to Build R
+[2026-06-26 18:01:02] Неизвестный источник (biztoc.com): Tesla and Waymo duel in the robotaxi rac
+[2026-06-26 18:01:02] Неизвестный источник (siliconangle news): Runpod raises $100M to build the leading
+[2026-06-26 18:01:02] Неизвестный источник (cryptoslate): Bitcoin’s bear market struggle is killin
+[2026-06-26 18:01:02] Неизвестный источник (siliconangle news): TrueFoundry acquires MLOps pioneer Seldo
+[2026-06-26 18:01:02] Неизвестный источник (vulture): Amazon, Artificial, and the New (Old) Ho
+[2026-06-26 18:01:02] Неизвестный источник (siliconangle news): New MCP specification kills old risks bu
+[2026-06-26 18:01:02] Неизвестный источник (yahoo entertainment): Janus Henderson Global Sustainable Equit
+[2026-06-26 18:01:02] Неизвестный источник (ani news): US announces PaxPass to streamline the m
+[2026-06-26 18:01:02] Неизвестный источник (financial post): SK Hynix, Microns solidify the memory ch
+[2026-06-26 18:01:02] Неизвестный источник (amazon.com): Implementing super resolution by deployi
+[2026-06-26 18:01:02] Неизвестный источник (marketwatch): Tesla and Waymo duel in the robotaxi rac
+[2026-06-26 18:01:02] Неизвестный источник (globenewswire): Global Aerospace Provides Insights on Un
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Landmark Study Demonstrates Clairyon's A
+[2026-06-26 18:01:02] Неизвестный источник (cnbc): Chan Zuckerberg Biohub to open new rare 
+[2026-06-26 18:01:02] Неизвестный источник (github.com): Show HN: Open-source 3D SAT SCORM packag
+[2026-06-26 18:01:02] Неизвестный источник (yahoo entertainment): Wall Street analyst predicts massive IPO
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Health Union Launches 2027 Innovation Su
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Winners Announced in the 21st Annual 202
+[2026-06-26 18:01:02] Неизвестный источник (siliconangle news): Exclusive: Chainguard extends Repository
+[2026-06-26 18:01:02] Неизвестный источник (cointelegraph): Why Wall Street values some crypto firms
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Sandler Partners Adds Pricing to SCOUT E
+[2026-06-26 18:01:02] Неизвестный источник (cointelegraph): Story Protocol rebrands to DATA Foundati
+[2026-06-26 18:01:02] Неизвестный источник (crypto briefing): US proposes AI partnership with EU to se
+[2026-06-26 18:01:02] Неизвестный источник (the next web): Alan raises €480M led by Prosus at a €5.
+[2026-06-26 18:01:02] Неизвестный источник (globenewswire): RWS Language Weaver Pro Awarded 2026 “Ma
+[2026-06-26 18:01:02] Неизвестный источник (globenewswire): Registration Now Open for the 2026 Leade
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Content Delivery Network (CDN) Market to
+[2026-06-26 18:01:02] Неизвестный источник (globenewswire): Vaspian Partners with BlueMesh to Bring 
+[2026-06-26 18:01:02] Неизвестный источник (plos.org): A compact wideband Wilkinson Power Divid
+[2026-06-26 18:01:02] Неизвестный источник (prnewswire): Playground Global and Matter Venture Par
+[2026-06-26 18:01:02] Неизвестный источник (smithsonian.com): Gray Whales Are Getting Struck by Ships 
+[2026-06-26 18:01:02] AI новости: найдено 5 после фильтрации
+[2026-06-26 18:01:04] Обрабатываю: Cetera Acquires Marmo Financial Group, Expanding Its Nationa
+[2026-06-26 18:01:04] Попытка 1 для: Cetera Acquires Marmo Financial Group, E
+[2026-06-26 18:01:05] Успешно, получено 649 символов
+[2026-06-26 18:01:06] Пауза 60 секунд...
+[2026-06-26 18:02:06] Обрабатываю: Bio-Techne Shares Surge 19 Percent as Life Sciences Tools Pr
+[2026-06-26 18:02:06] Попытка 1 для: Bio-Techne Shares Surge 19 Percent as Li
+[2026-06-26 18:02:07] Успешно, получено 1013 символов
+[2026-06-26 18:02:08] Пауза 60 секунд...
+[2026-06-26 18:03:08] Обрабатываю: US announces PaxPass to streamline the movement of critical 
+[2026-06-26 18:03:08] Попытка 1 для: US announces PaxPass to streamline the m
+[2026-06-26 18:03:09] Успешно, получено 822 символов
+[2026-06-26 18:03:10] === Блок ai_evening завершён ===
