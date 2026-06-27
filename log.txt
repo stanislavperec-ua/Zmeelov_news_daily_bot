@@ -25875,3 +25875,37 @@ Nithya
 [2026-06-27 08:03:10] Попытка 1 для: Amazon will look at acquisitions, contin
 [2026-06-27 08:03:11] Успешно, получено 936 символов
 [2026-06-27 08:03:13] === Блок ai_morning завершён ===
+[2026-06-27 11:01:01] Загружено 1976 уже отправленных новостей
+[2026-06-27 11:01:01] === Запуск блока: midday ===
+[2026-06-27 11:01:01] Неизвестный источник (cnbc): Global tech sell-off deepens as South Ko
+[2026-06-27 11:01:01] Неизвестный источник (dw (english)): King Charles won't live in Buckingham Pa
+[2026-06-27 11:01:01] Неизвестный источник (daily beast): Trump’s Tacky State Fair Suffers Literal
+[2026-06-27 11:01:01] Неизвестный источник (deadline): ‘The Bear’ Is Over: Here’s What Happens 
+[2026-06-27 11:01:01] Неизвестный источник (wabc-tv): Final Rent Guidelines Board vote approve
+[2026-06-27 11:01:01] Неизвестный источник (kabc-tv): Jonathan Rinderknecht: Jurors deadlocked
+[2026-06-27 11:01:01] Неизвестный источник (hollywood reporter): ‘Grand Theft Auto VI’ Going Digital-Only
+[2026-06-27 11:01:01] Пропускаю уже отправленную: Reflecting Pool liner was cut with a sharp knife o
+[2026-06-27 11:01:01] Неизвестный источник (just jared): Tom Sandoval’s Girlfriend Victoria Lee R
+[2026-06-27 11:01:01] Неизвестный источник (rediff.com): Bangladesh turns to China on Teesta: Sho
+[2026-06-27 11:01:01] Неизвестный источник (boston.com): NBA Insider on Jaylen Brown: ‘He’s going
+[2026-06-27 11:01:01] Неизвестный источник (theregister.com): Perseverance rover finds even more signs
+[2026-06-27 11:01:01] Неизвестный источник (sb nation): NBA Draft grades for all 30 teams’ full 
+[2026-06-27 11:01:01] Неизвестный источник (fox news): 12-year-old boy rushed to hospital after
+[2026-06-27 11:01:01] Старая новость (2026-06-24T21:28:39Z): US ends hantavirus outbreak response wit
+[2026-06-27 11:01:01] Мировые новости: найдено 12 после фильтрации
+[2026-06-27 11:01:04] Обрабатываю: Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz a
+[2026-06-27 11:01:04] Попытка 1 для: Iran-U.S. Updates: Iran strikes vessel i
+[2026-06-27 11:01:05] Успешно, получено 734 символов
+[2026-06-27 11:01:05] Пауза 60 секунд...
+[2026-06-27 11:02:05] Обрабатываю: Supreme Court hands Trump major victories on his immigration
+[2026-06-27 11:02:05] Попытка 1 для: Supreme Court hands Trump major victorie
+[2026-06-27 11:02:06] Успешно, получено 617 символов
+[2026-06-27 11:02:07] Пауза 60 секунд...
+[2026-06-27 11:03:07] Обрабатываю: We Found 359+ Best Amazon Prime Day Deals After Shifting Thr
+[2026-06-27 11:03:07] Попытка 1 для: We Found 359+ Best Amazon Prime Day Deal
+[2026-06-27 11:03:08] Успешно, получено 739 символов
+[2026-06-27 11:03:08] Пауза 60 секунд...
+[2026-06-27 11:04:08] Обрабатываю: Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf
+[2026-06-27 11:04:08] Попытка 1 для: Rubio’s new job? Selling Trump’s Iran de
+[2026-06-27 11:04:09] Успешно, получено 756 символов
+[2026-06-27 11:04:10] === Блок midday завершён ===
