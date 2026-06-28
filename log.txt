@@ -26023,3 +26023,63 @@ Nithya
 [2026-06-27 18:03:03] Попытка 1 для: The uplifting values of ‘Jackass’ | CNN
 [2026-06-27 18:03:04] Успешно, получено 406 символов
 [2026-06-27 18:03:04] === Блок ai_evening завершён ===
+[2026-06-28 06:01:06] Загружено 1989 уже отправленных новостей
+[2026-06-28 06:01:06] === Запуск блока: morning ===
+[2026-06-28 06:01:06] Неизвестный источник (fox news): Mets reporter dissects team's miserable 
+[2026-06-28 06:01:06] Неизвестный источник (houston chronicle): Texas becomes first state to mandate stu
+[2026-06-28 06:01:06] Неизвестный источник (abcnews.com): Saks officially emerges from Chapter 11 
+[2026-06-28 06:01:06] Неизвестный источник (deadline): ‘Toy Story 5’ Looks To Cross $300M, ‘Sup
+[2026-06-28 06:01:06] Неизвестный источник (espn): 2026 NHL draft updates: 7-round, 32-team
+[2026-06-28 06:01:06] Неизвестный источник (usa today): Great American State Fair opens with pow
+[2026-06-28 06:01:06] Неизвестный источник (marketwatch): Oil prices move up in after-hours tradin
+[2026-06-28 06:01:06] Неизвестный источник (yahoo entertainment): Stock market today: S&P 500, Nasdaq snap
+[2026-06-28 06:01:06] Неизвестный источник (lancasteronline): Doctors warn of severe adult measles cas
+[2026-06-28 06:01:06] Неизвестный источник (boston.com): Here’s the Celtics’ reported asking pric
+[2026-06-28 06:01:06] Неизвестный источник (cnbc): Gavin Newsom calls for national billiona
+[2026-06-28 06:01:06] Неизвестный источник (pro football network): ‘Already Legally Married’ — Taylor Swift
+[2026-06-28 06:01:06] Неизвестный источник (variety): Millie Bobby Brown, David Harbour Set Ne
+[2026-06-28 06:01:06] Неизвестный источник (nasa): NASA Identifies More Than 40 Space Techn
+[2026-06-28 06:01:06] Неизвестный источник (entertainment weekly): 'The Bear' season 5 ending explained: Wh
+[2026-06-28 06:01:06] Неизвестный источник (space.com): NASA is paying $30 million for a 1st-of-
+[2026-06-28 06:01:06] Старая новость (2026-06-26T05:37:13Z): These Foods Could Help Lower Your Dement
+[2026-06-28 06:01:06] Старая новость (2026-06-25T23:43:00Z): Jamestown Canyon virus detected in Charl
+[2026-06-28 06:01:06] Старая новость (2026-06-25T20:25:09Z): DuckDuckGo, Unable to Resist the Pull of
+[2026-06-28 06:01:06] Мировые новости: найдено 15 после фильтрации
+[2026-06-28 06:01:06] Заблокированный источник (naturalnews.com): The Coming Famine: How war and empire ar
+[2026-06-28 06:01:06] Заблокированный источник (naturalnews.com): U.S. Warns EU of Potential LNG Supply Di
+[2026-06-28 06:01:06] Нет фото: A Star Passed So Close To The Sun 2.5 Mi
+[2026-06-28 06:01:06] Нет фото: Semi-truck driver runs from fiery wreck 
+[2026-06-28 06:01:06] Заблокированный источник (rt): Ukrainian regiment commander suspended o
+[2026-06-28 06:01:06] Нет фото: JonBenét Ramsey Investigation in Questio
+[2026-06-28 06:01:06] Заблокированный источник (thegatewaypundit.com): Ukraine Oil Refinery Strikes and Russia’
+[2026-06-28 06:01:06] Заблокированный источник (pravda.com.ua): Ігор Смешко: The New World Order Will Be
+[2026-06-28 06:01:06] Нет фото: Ukraine launches what appears to be one 
+[2026-06-28 06:01:06] Нет фото: Starmersim
+[2026-06-28 06:01:06] Украинские новости: найдено 7 после фильтрации
+[2026-06-28 06:01:06] Заблокированный источник (breitbart news): Ukraine Launches Major Series of Drone S
+[2026-06-28 06:01:06] Харьков: новостей не найдено
+[2026-06-28 06:01:09] Обрабатываю: Live updates: Over 900 dead in Venezuela earthquakes as resc
+[2026-06-28 06:01:09] Попытка 1 для: Live updates: Over 900 dead in Venezuela
+[2026-06-28 06:01:10] Успешно, получено 855 символов
+[2026-06-28 06:01:11] Пауза 60 секунд...
+[2026-06-28 06:02:11] Обрабатываю: Small aircraft crashes into Beijing’s tallest building, vide
+[2026-06-28 06:02:11] Попытка 1 для: Small aircraft crashes into Beijing’s ta
+[2026-06-28 06:02:12] Успешно, получено 660 символов
+[2026-06-28 06:02:12] Фото не отправилось: 400
+[2026-06-28 06:02:13] Пауза 60 секунд...
+[2026-06-28 06:03:13] Обрабатываю: US conducts strikes on Iran after attack on cargo ship
+[2026-06-28 06:03:13] Попытка 1 для: US conducts strikes on Iran after attack
+[2026-06-28 06:03:13] Успешно, получено 579 символов
+[2026-06-28 06:03:14] Пауза 60 секунд...
+[2026-06-28 06:04:14] Обрабатываю: OpenAI limits its latest ChatGPT product to Trump-approved c
+[2026-06-28 06:04:14] Попытка 1 для: OpenAI limits its latest ChatGPT product
+[2026-06-28 06:04:15] Успешно, получено 718 символов
+[2026-06-28 06:04:18] Обрабатываю: Russia's Lavrov Admits That Anchorage Only Bought Time For U
+[2026-06-28 06:04:18] Попытка 1 для: Russia's Lavrov Admits That Anchorage On
+[2026-06-28 06:04:19] Успешно, получено 664 символов
+[2026-06-28 06:04:19] Фото не отправилось: 400
+[2026-06-28 06:04:20] Пауза 60 секунд...
+[2026-06-28 06:05:20] Обрабатываю: Russian defense ministry intercepts 660 Ukrainian drones as 
+[2026-06-28 06:05:20] Попытка 1 для: Russian defense ministry intercepts 660 
+[2026-06-28 06:05:21] Успешно, получено 736 символов
+[2026-06-28 06:05:21] === Блок morning завершён ===
