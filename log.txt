@@ -26083,3 +26083,52 @@ Nithya
 [2026-06-28 06:05:20] Попытка 1 для: Russian defense ministry intercepts 660 
 [2026-06-28 06:05:21] Успешно, получено 736 символов
 [2026-06-28 06:05:21] === Блок morning завершён ===
+[2026-06-28 08:01:01] Загружено 1995 уже отправленных новостей
+[2026-06-28 08:01:01] === Запуск блока: ai_morning ===
+[2026-06-28 08:01:01] Нет фото: Vietnam Tech Summit 2026 to Bring AI Lea
+[2026-06-28 08:01:01] Неизвестный источник (dailymail.com): Britain's top fund managers have confide
+[2026-06-28 08:01:01] Неизвестный источник (globenewswire): XMax Announces Up to Approximately US$25
+[2026-06-28 08:01:01] Неизвестный источник (bleeding cool news): 100 Bullets: The US of Anger #1 Preview:
+[2026-06-28 08:01:01] Неизвестный источник (onefootball.com): Semi-automated offside: final tweaks
+[2026-06-28 08:01:01] Неизвестный источник (devops.com): From Phishing to Vishing: Why DevSecOps 
+[2026-06-28 08:01:01] Неизвестный источник (inside the magic): The Silicon Frontier: Inside Disney’s Se
+[2026-06-28 08:01:01] Неизвестный источник (siliconangle news): Unconventional AI debuts oscillator-base
+[2026-06-28 08:01:01] Неизвестный источник (globenewswire): Helport AI Reports First Half Fiscal Yea
+[2026-06-28 08:01:01] Неизвестный источник (indiewire): A24 Will Survive the AI Backlash, but So
+[2026-06-28 08:01:01] Неизвестный источник (singularity hub): Orbital Data Centers Are Seductive on Pa
+[2026-06-28 08:01:01] Неизвестный источник (new york post): San Diego school buys disturbing new tec
+[2026-06-28 08:01:01] Неизвестный источник (thestreet): OpenAI IPO delay sends AI tokens crashin
+[2026-06-28 08:01:01] Неизвестный источник (jmir.org): Feasibility and Acceptability of mPallCa
+[2026-06-28 08:01:01] Неизвестный источник (frontiersin.org): Frontiers | Beyond entertainment: how in
+[2026-06-28 08:01:01] Заблокированный источник (breitbart news): Analyst Suggests SpaceX Could Acquire T-
+[2026-06-28 08:01:01] Неизвестный источник (siliconangle news): Challenges to AI innovation in telecom: 
+[2026-06-28 08:01:01] Неизвестный источник (wwd): How Hex Advisory Group is Flipping the C
+[2026-06-28 08:01:01] Неизвестный источник (crypto briefing): SpaceX plans Starmind, an AI network pow
+[2026-06-28 08:01:01] Неизвестный источник (pymnts.com): New Nacha Rules Push Banks to Widen ACH 
+[2026-06-28 08:01:01] Неизвестный источник (globenewswire): Cosmos Health Signs Distribution Agreeme
+[2026-06-28 08:01:01] Неизвестный источник (24/7 wall st.): Analyst Behind $250 SpaceX Target Says P
+[2026-06-28 08:01:01] Неизвестный источник (moneycontrol): Uber's Prabhjeet Singh to join OpenAI as
+[2026-06-28 08:01:01] Неизвестный источник (odditycentral.com): Popularity of AI-Generated Short Dramas 
+[2026-06-28 08:01:01] Нет фото: Fiber, AI leading to unprecedented usage
+[2026-06-28 08:01:01] Неизвестный источник (phillymag.com): 76 Other Ways Philly Changed the World
+[2026-06-28 08:01:01] Неизвестный источник (globenewswire): The Gross Law Firm Reminds AeroVironment
+[2026-06-28 08:01:01] Неизвестный источник (mit.edu): How data centers can better manage energ
+[2026-06-28 08:01:01] Неизвестный источник (businessline): Disruptions cannot be reversed overnight
+[2026-06-28 08:01:01] Неизвестный источник (indiewire): The AI Debate Will Be Awards Season’s Bi
+[2026-06-28 08:01:01] Неизвестный источник (prnewswire): Elea Announces the Amazon Region's First
+[2026-06-28 08:01:01] Неизвестный источник (financial post): Global Tech Stocks, Chipmakers Sell Off,
+[2026-06-28 08:01:01] Неизвестный источник (plos.org): Cross-domain zero-shot semantic segmenta
+[2026-06-28 08:01:01] Неизвестный источник (cointelegraph): Framework Ventures raises $400M to inves
+[2026-06-28 08:01:01] Неизвестный источник (techtarget.com): HHS aims to strengthen TEFCA through gre
+[2026-06-28 08:01:01] Неизвестный источник (military.com): Best Military Jobs for Cybersecurity and
+[2026-06-28 08:01:01] Неизвестный источник (businessline): Tilaknagar Industries acquires 36.17% st
+[2026-06-28 08:01:01] Неизвестный источник (eurogamer.net): GTA 6 takes aim at TikTok with a new soc
+[2026-06-28 08:01:01] AI новости: найдено 2 после фильтрации
+[2026-06-28 08:01:03] Обрабатываю: Tesla Shares Advance More Than 3 Percent as EV Maker Maintai
+[2026-06-28 08:01:03] Попытка 1 для: Tesla Shares Advance More Than 3 Percent
+[2026-06-28 08:01:05] Успешно, получено 903 символов
+[2026-06-28 08:01:05] Пауза 60 секунд...
+[2026-06-28 08:02:05] Обрабатываю: Could China’s 6-tonne autonomous aircraft change who control
+[2026-06-28 08:02:05] Попытка 1 для: Could China’s 6-tonne autonomous aircraf
+[2026-06-28 08:02:06] Успешно, получено 408 символов
+[2026-06-28 08:02:06] === Блок ai_morning завершён ===
