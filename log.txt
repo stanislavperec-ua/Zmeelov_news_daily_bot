@@ -26132,3 +26132,44 @@ Nithya
 [2026-06-28 08:02:05] Попытка 1 для: Could China’s 6-tonne autonomous aircraf
 [2026-06-28 08:02:06] Успешно, получено 408 символов
 [2026-06-28 08:02:06] === Блок ai_morning завершён ===
+[2026-06-28 11:01:02] Загружено 1995 уже отправленных новостей
+[2026-06-28 11:01:02] === Запуск блока: midday ===
+[2026-06-28 11:01:02] Неизвестный источник (sfgate): Prime Day ends tonight. These deals are 
+[2026-06-28 11:01:02] Неизвестный источник (mashable): Best Prime Day laptop deals: Save up to 
+[2026-06-28 11:01:02] Неизвестный источник (yahoo entertainment): No one seems happier about Mets manager 
+[2026-06-28 11:01:02] Неизвестный источник (cbs sports): France roasts Norway: Ousmane Dembélé st
+[2026-06-28 11:01:02] Неизвестный источник (variety): ‘Life, Larry’ Director Jeff Schaffer on 
+[2026-06-28 11:01:02] Неизвестный источник (boston.com): NBA Rumor Roundup: The latest reports on
+[2026-06-28 11:01:02] Неизвестный источник (abcnews.com): Saks officially emerges from Chapter 11 
+[2026-06-28 11:01:02] Неизвестный источник (deadline): ‘Toy Story 5’ Looks To Cross $300M, ‘Sup
+[2026-06-28 11:01:02] Неизвестный источник (espn): 2026 NHL draft updates: 7-round, 32-team
+[2026-06-28 11:01:02] Неизвестный источник (kabc-tv): Jonathan Rinderknecht: Judge declares mi
+[2026-06-28 11:01:02] Неизвестный источник (state.gov): The United States, Israel and Lebanon Si
+[2026-06-28 11:01:02] Неизвестный источник (lancasteronline): Doctors warn of severe adult measles cas
+[2026-06-28 11:01:02] Неизвестный источник (wccftech): “The Cheaper the Better,” Says Valve Abo
+[2026-06-28 11:01:02] Неизвестный источник (medical news today): Alzheimer's: Anti-inflammatory diet may 
+[2026-06-28 11:01:02] Неизвестный источник (nasa): NASA Identifies More Than 40 Space Techn
+[2026-06-28 11:01:02] Неизвестный источник (entertainment weekly): 'The Bear' season 5 ending explained: Wh
+[2026-06-28 11:01:02] Пропускаю уже отправленную: The strawberry moon will soon rise. When to look u
+[2026-06-28 11:01:02] Неизвестный источник (space.com): NASA is paying $30 million for a 1st-of-
+[2026-06-28 11:01:02] Старая новость (2026-06-26T10:32:19Z): Prime Day deals end tonight — I hand-pic
+[2026-06-28 11:01:02] Старая новость (2026-06-26T02:04:47Z): Humans And Apes Have Laughed The Same Wa
+[2026-06-28 11:01:02] Старая новость (2026-06-25T23:43:00Z): Jamestown Canyon virus detected in Charl
+[2026-06-28 11:01:02] Мировые новости: найдено 12 после фильтрации
+[2026-06-28 11:01:05] Обрабатываю: Trump’s endorsement faces another test in Louisiana Senate p
+[2026-06-28 11:01:05] Попытка 1 для: Trump’s endorsement faces another test i
+[2026-06-28 11:01:06] Успешно, получено 876 символов
+[2026-06-28 11:01:06] Пауза 60 секунд...
+[2026-06-28 11:02:06] Обрабатываю: US strikes Iran after attack on cargo ship
+[2026-06-28 11:02:06] Попытка 1 для: US strikes Iran after attack on cargo sh
+[2026-06-28 11:02:07] Успешно, получено 600 символов
+[2026-06-28 11:02:08] Пауза 60 секунд...
+[2026-06-28 11:03:08] Обрабатываю: Crucial window for rescuing survivors narrows as Venezuela e
+[2026-06-28 11:03:08] Попытка 1 для: Crucial window for rescuing survivors na
+[2026-06-28 11:03:09] Успешно, получено 565 символов
+[2026-06-28 11:03:09] Пауза 60 секунд...
+[2026-06-28 11:04:09] Обрабатываю: Pete Buttigieg recounts being separated from his children af
+[2026-06-28 11:04:09] Попытка 1 для: Pete Buttigieg recounts being separated 
+[2026-06-28 11:04:10] Успешно, получено 745 символов
+[2026-06-28 11:04:10] Фото не отправилось: 400
+[2026-06-28 11:04:11] === Блок midday завершён ===
