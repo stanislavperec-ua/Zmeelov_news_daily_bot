@@ -26378,3 +26378,41 @@ Nithya
 [2026-06-29 08:01:12] Попытка 1 для: 'Humans behave better when watched': Xpr
 [2026-06-29 08:01:13] Успешно, получено 756 символов
 [2026-06-29 08:01:13] === Блок ai_morning завершён ===
+[2026-06-29 11:01:02] Загружено 2012 уже отправленных новостей
+[2026-06-29 11:01:02] === Запуск блока: midday ===
+[2026-06-29 11:01:02] Неизвестный источник (mma fighting): PFL San Diego salaries: Main event fight
+[2026-06-29 11:01:02] Неизвестный источник (wlky louisville): Beshear declares state of emergency as f
+[2026-06-29 11:01:02] Неизвестный источник (espn): 2026 NHL draft grades: Best, worst, most
+[2026-06-29 11:01:02] Неизвестный источник (theanalyst.com): Panama 0-2 England Stats: Record-Breakin
+[2026-06-29 11:01:02] Неизвестный источник (fox news): Breaking down the United States' path to
+[2026-06-29 11:01:02] Неизвестный источник (yahoo entertainment): Marjorie Taylor Greene Says It Is 'Awful
+[2026-06-29 11:01:02] Неизвестный источник (variety): Elon Musk Posts Armie Hammer’s Controver
+[2026-06-29 11:01:02] Неизвестный источник (rolling stone): Stevie Nicks Will Be at Taylor Swift’s W
+[2026-06-29 11:01:02] Неизвестный источник (hollywood reporter): ‘Supergirl’ Landing in Second Place at B
+[2026-06-29 11:01:02] Неизвестный источник (investor's business daily): It's Official: SpaceX To Join Nasdaq 100
+[2026-06-29 11:01:02] Неизвестный источник (eurogamer.net): GTA 6 has no plans for a post-launch phy
+[2026-06-29 11:01:02] Старая новость (2026-06-27T11:00:54Z): U.S. may have lost a ‘crown jewel’ of pu
+[2026-06-29 11:01:02] Старая новость (2026-06-27T11:00:00Z): Science news this week: Life on Mars, we
+[2026-06-29 11:01:02] Старая новость (2026-06-27T00:44:26Z): RI man contracts rare tick-borne ‘Powass
+[2026-06-29 11:01:02] Старая новость (2026-06-26T22:04:24Z): Georgian just one number away from winni
+[2026-06-29 11:01:02] Старая новость (2026-06-26T19:00:00Z): Doctors warn of severe adult measles cas
+[2026-06-29 11:01:02] Старая новость (2026-06-26T18:19:00Z): Gemini’s new Google Play Store integrati
+[2026-06-29 11:01:02] Старая новость (2026-06-26T15:38:38Z): NASA Identifies More Than 40 Space Techn
+[2026-06-29 11:01:02] Старая новость (2026-06-26T12:00:00Z): NASA is paying $30 million for a 1st-of-
+[2026-06-29 11:01:02] Мировые новости: найдено 11 после фильтрации
+[2026-06-29 11:01:05] Обрабатываю: Iran attacks Bahrain and Kuwait following US strikes and thr
+[2026-06-29 11:01:05] Попытка 1 для: Iran attacks Bahrain and Kuwait followin
+[2026-06-29 11:01:06] Успешно, получено 706 символов
+[2026-06-29 11:01:07] Пауза 60 секунд...
+[2026-06-29 11:02:07] Обрабатываю: How the World Cup became a victory lap for Trump ally El Tig
+[2026-06-29 11:02:07] Попытка 1 для: How the World Cup became a victory lap f
+[2026-06-29 11:02:08] Успешно, получено 924 символов
+[2026-06-29 11:02:09] Пауза 60 секунд...
+[2026-06-29 11:03:09] Обрабатываю: Trump gets the complete domination he wanted in Louisiana
+[2026-06-29 11:03:09] Попытка 1 для: Trump gets the complete domination he wa
+[2026-06-29 11:03:10] Успешно, получено 654 символов
+[2026-06-29 11:03:11] Пауза 60 секунд...
+[2026-06-29 11:04:11] Обрабатываю: So, about that saga of Trump’s reflecting pool . . .
+[2026-06-29 11:04:11] Попытка 1 для: So, about that saga of Trump’s reflectin
+[2026-06-29 11:04:12] Успешно, получено 377 символов
+[2026-06-29 11:04:12] === Блок midday завершён ===
