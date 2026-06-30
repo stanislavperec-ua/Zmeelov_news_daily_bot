@@ -26626,3 +26626,35 @@ Nithya
 [2026-06-30 08:03:12] Попытка 1 для: Bitcoin is boring. Bring on AI, space an
 [2026-06-30 08:03:13] Успешно, получено 782 символов
 [2026-06-30 08:03:14] === Блок ai_morning завершён ===
+[2026-06-30 11:01:06] Загружено 2034 уже отправленных новостей
+[2026-06-30 11:01:06] === Запуск блока: midday ===
+[2026-06-30 11:01:06] Неизвестный источник (comcast.com): Comcast Announces Plans to Separate Medi
+[2026-06-30 11:01:06] Неизвестный источник (mission local): 🌈 San Francisco Pride caps a protest-hea
+[2026-06-30 11:01:06] Неизвестный источник (pgatour.com): Scottie Scheffler forces Monday playoff 
+[2026-06-30 11:01:06] Неизвестный источник (cnbc): Stock futures edge higher, Asia mixed as
+[2026-06-30 11:01:06] Неизвестный источник (deadline): BET Awards 2026 Red Carpet Photos: See A
+[2026-06-30 11:01:06] Неизвестный источник (usa today): Trump says Reflecting Pool 'in full use,
+[2026-06-30 11:01:06] Неизвестный источник (fortune): Supergirl is among DC's worst flops and 
+[2026-06-30 11:01:06] Неизвестный источник (tweaktown): Suspicious Steam Machine clone from Chin
+[2026-06-30 11:01:06] Неизвестный источник (forbes): Apple iPhone 18 Pro Release Schedule: Wh
+[2026-06-30 11:01:06] Неизвестный источник (wral.com): Look up Monday evening for the full stra
+[2026-06-30 11:01:06] Неизвестный источник (forbes): Biden Calls Trump A ‘Loser’ Over Reflect
+[2026-06-30 11:01:06] Старая новость (2026-06-28T10:03:53Z): This Famously Weird 'Pink Planet' May Ha
+[2026-06-30 11:01:06] Старая новость (2026-06-27T21:27:37Z): Instagram is testing more ways to custom
+[2026-06-30 11:01:06] Мировые новости: найдено 14 после фильтрации
+[2026-06-30 11:01:10] Обрабатываю: Column | What a gastroenterologist wants you to know about b
+[2026-06-30 11:01:10] Попытка 1 для: Column | What a gastroenterologist wants
+[2026-06-30 11:01:11] Успешно, получено 532 символов
+[2026-06-30 11:01:11] Пауза 60 секунд...
+[2026-06-30 11:02:11] Обрабатываю: Scotland was the 'murder capital of Europe'. Then it started
+[2026-06-30 11:02:11] Попытка 1 для: Scotland was the 'murder capital of Euro
+[2026-06-30 11:02:12] Успешно, получено 781 символов
+[2026-06-30 11:02:13] Пауза 60 секунд...
+[2026-06-30 11:03:13] Обрабатываю: Samsung and SK Hynix plan $600bn chipmaking expansion
+[2026-06-30 11:03:13] Попытка 1 для: Samsung and SK Hynix plan $600bn chipmak
+[2026-06-30 11:03:14] Успешно, получено 660 символов
+[2026-06-30 11:03:15] Пауза 60 секунд...
+[2026-06-30 11:04:15] Обрабатываю: China targets more Japanese companies with export controls
+[2026-06-30 11:04:15] Попытка 1 для: China targets more Japanese companies wi
+[2026-06-30 11:04:16] Успешно, получено 641 символов
+[2026-06-30 11:04:16] === Блок midday завершён ===
