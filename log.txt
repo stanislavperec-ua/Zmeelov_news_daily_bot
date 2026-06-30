@@ -26579,3 +26579,50 @@ Nithya
 [2026-06-30 06:06:18] Попытка 1 для: Ukrainian forces set fire to large Russi
 [2026-06-30 06:06:20] Успешно, получено 947 символов
 [2026-06-30 06:06:20] === Блок morning завершён ===
+[2026-06-30 08:01:06] Загружено 2031 уже отправленных новостей
+[2026-06-30 08:01:06] === Запуск блока: ai_morning ===
+[2026-06-30 08:01:06] Неизвестный источник (financial post): Korean Stocks Rebound as Samsung, SK Hyn
+[2026-06-30 08:01:06] Неизвестный источник (abcnews.com): Nvidia's AI chip sales in China stall, a
+[2026-06-30 08:01:06] Заблокированный источник (naturalnews.com): The Coming Energy Lockdown: Why Your Kil
+[2026-06-30 08:01:06] Неизвестный источник (abcnews.com): Nvidia's AI chip sales in China stall, a
+[2026-06-30 08:01:06] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Deployment Risk Asse
+[2026-06-30 08:01:06] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Database Query Optim
+[2026-06-30 08:01:06] Неизвестный источник (c-sharpcorner.com): Building AI-Powered Infrastructure Drift
+[2026-06-30 08:01:06] Неизвестный источник (wdiv clickondetroit): Asian shares are mixed as tech stocks fa
+[2026-06-30 08:01:06] Неизвестный источник (iamagazine.com): Help Clients Turn Health Benefits Into a
+[2026-06-30 08:01:06] Неизвестный источник (businessline): Nvidia's AI chip sales in China stall, a
+[2026-06-30 08:01:06] Неизвестный источник (c-sharpcorner.com): AI-Assisted Kubernetes Troubleshooting f
+[2026-06-30 08:01:06] Нет фото: Nvidia's AI chip sales in China stall, a
+[2026-06-30 08:01:06] Нет фото: Turing Award Laureate Joseph Sifakis App
+[2026-06-30 08:01:06] Неизвестный источник (computerweekly.com): ITS, Nufibre extend UK broadband offerin
+[2026-06-30 08:01:06] Неизвестный источник (protothema.gr): What they believe at M.M. (and Tsipras) 
+[2026-06-30 08:01:06] Неизвестный источник (antaranews.com): 10 winners selected at 9th edition of St
+[2026-06-30 08:01:06] Неизвестный источник (cleantechnica): Exploring How to Get More Solar & Batter
+[2026-06-30 08:01:06] Неизвестный источник (financial post): China Says Tech Growth a Challenge to Pr
+[2026-06-30 08:01:06] Неизвестный источник (screen rant): Prime Video's 5-Season Cyberpunk Crime T
+[2026-06-30 08:01:06] Неизвестный источник (nlppeople.com): Senior AI Data Scientist
+[2026-06-30 08:01:06] Нет фото: neopatient 0.1.0
+[2026-06-30 08:01:06] Нет фото: neopatient added to PyPI
+[2026-06-30 08:01:06] Неизвестный источник (24/7 wall st.): Forget Prime Day. Amazon’s AI Empire Mak
+[2026-06-30 08:01:06] Неизвестный источник (globenewswire): World’s First AGI ‘Smart City’ Clinical 
+[2026-06-30 08:01:06] Неизвестный источник (ani news): "Not new": Luca Guadagnino not surprised
+[2026-06-30 08:01:06] Неизвестный источник (oilprice.com): Egypt Targets 60% Renewable Electricity 
+[2026-06-30 08:01:06] Неизвестный источник (siliconangle news): Don’t surrender data control in pursuit 
+[2026-06-30 08:01:06] Неизвестный источник (decrypt): The Future Cyberpunk Imagined Is Here: H
+[2026-06-30 08:01:06] Неизвестный источник (the denver post): A costly, scorched-earth Denver primary 
+[2026-06-30 08:01:06] Нет фото: United Russia Party Congress
+[2026-06-30 08:01:06] Неизвестный источник (crypto briefing): Most chances created at the 2026 World C
+[2026-06-30 08:01:06] Неизвестный источник (financial post): Europe’s Hunt for AI Stocks Leads to Pow
+[2026-06-30 08:01:06] AI новости: найдено 6 после фильтрации
+[2026-06-30 08:01:09] Обрабатываю: Bronze tugboat propellers worth $2m stolen in WA's north
+[2026-06-30 08:01:09] Попытка 1 для: Bronze tugboat propellers worth $2m stol
+[2026-06-30 08:01:10] Успешно, получено 709 символов
+[2026-06-30 08:01:11] Пауза 60 секунд...
+[2026-06-30 08:02:11] Обрабатываю: Singapore Airlines gender diversity progress
+[2026-06-30 08:02:11] Попытка 1 для: Singapore Airlines gender diversity prog
+[2026-06-30 08:02:12] Успешно, получено 555 символов
+[2026-06-30 08:02:12] Пауза 60 секунд...
+[2026-06-30 08:03:12] Обрабатываю: Bitcoin is boring. Bring on AI, space and JGB tokens: Andy M
+[2026-06-30 08:03:12] Попытка 1 для: Bitcoin is boring. Bring on AI, space an
+[2026-06-30 08:03:13] Успешно, получено 782 символов
+[2026-06-30 08:03:14] === Блок ai_morning завершён ===
