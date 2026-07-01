@@ -26839,3 +26839,50 @@ Nithya
 [2026-07-01 06:06:26] Попытка 1 для: Scottish man missing and feared dead in 
 [2026-07-01 06:06:27] Успешно, получено 692 символов
 [2026-07-01 06:06:27] === Блок morning завершён ===
+[2026-07-01 08:01:11] Загружено 2054 уже отправленных новостей
+[2026-07-01 08:01:11] === Запуск блока: ai_morning ===
+[2026-07-01 08:01:12] Неизвестный источник (bizbrief.ie): How Micro-Moments Are Rewriting Mobile S
+[2026-07-01 08:01:12] Неизвестный источник (protothema.gr): The Athenian Riviera – The new epicenter
+[2026-07-01 08:01:12] Неизвестный источник (github.com): Show HN: Cloud Inefficiency Audit – a lo
+[2026-07-01 08:01:12] Неизвестный источник (arkansas online): Indexes see gains, offset last week loss
+[2026-07-01 08:01:12] Неизвестный источник (moneycontrol): Rs 100 cashback on a Rs 300 order: Amazo
+[2026-07-01 08:01:12] Неизвестный источник (inside higher ed): Universities Need an R&D Lab for Academi
+[2026-07-01 08:01:12] Неизвестный источник (sebastianraschka.com): Using Local Coding Agents - by Sebastian
+[2026-07-01 08:01:12] Неизвестный источник (abcnews.com): How global scammers use US tech to fleec
+[2026-07-01 08:01:12] Неизвестный источник (abcnews.com): Four days to make victims fall in love: 
+[2026-07-01 08:01:12] Неизвестный источник (computerweekly.com): Interview: How the CIO of Unilever deliv
+[2026-07-01 08:01:12] Неизвестный источник (c-sharpcorner.com): Building an AI-Powered Root Cause Analys
+[2026-07-01 08:01:12] Нет фото: Methodology for AP/'FRONTLINE' investiga
+[2026-07-01 08:01:12] Неизвестный источник (financial post): Sigenergy Breaks Ground on Phase II Inte
+[2026-07-01 08:01:12] Неизвестный источник (bleeding cool news): Hellboy: Seed of Destruction #1 (Facsimi
+[2026-07-01 08:01:12] Неизвестный источник (financial post): China’s Manufacturing Activity Returns t
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): Omen AI raises $31M to help data centers
+[2026-07-01 08:01:12] Неизвестный источник (crypto briefing): Ionic Digital files for NASDAQ direct li
+[2026-07-01 08:01:12] Неизвестный источник (vanguard): AI will drive Africa’s sustainable devel
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): Software testing startup Arato gets $10M
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): Software testing startup Arato gets $10M
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): AI software development startup 8090 nab
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): Straiker lands $64M to defend enterprise
+[2026-07-01 08:01:12] Неизвестный источник (financial post): News of the day: Return to office report
+[2026-07-01 08:01:12] Неизвестный источник (financial post): The first gate of trust
+[2026-07-01 08:01:12] Неизвестный источник (crypto briefing): Ionic Digital files for direct listing o
+[2026-07-01 08:01:12] Неизвестный источник (siliconangle news): South Korea launches $584B chip manufact
+[2026-07-01 08:01:12] Неизвестный источник (newser): AI Stocks Help S&P 500 Break 5-Day Losin
+[2026-07-01 08:01:12] Неизвестный источник (observer): Behind This $25K Electric Truck Is Jeff 
+[2026-07-01 08:01:12] Неизвестный источник (commercial observer): René Morkos of ALICE Technologies: 5 Que
+[2026-07-01 08:01:12] Неизвестный источник (financial post): Copper slips as traders eye Iran peace t
+[2026-07-01 08:01:12] Неизвестный источник (crypto briefing): Uniswap V4 proposal submitted for deploy
+[2026-07-01 08:01:12] Неизвестный источник (business insider): Newsom, Anthropic ink deal to expand gov
+[2026-07-01 08:01:12] AI новости: найдено 6 после фильтрации
+[2026-07-01 08:01:14] Обрабатываю: A girlfriend who never existed and fake friends. How Graham 
+[2026-07-01 08:01:14] Попытка 1 для: A girlfriend who never existed and fake 
+[2026-07-01 08:01:15] Успешно, получено 823 символов
+[2026-07-01 08:01:16] Пауза 60 секунд...
+[2026-07-01 08:02:16] Обрабатываю: How global scammers use US tech to fleece people
+[2026-07-01 08:02:16] Попытка 1 для: How global scammers use US tech to fleec
+[2026-07-01 08:02:17] Успешно, получено 682 символов
+[2026-07-01 08:02:18] Пауза 60 секунд...
+[2026-07-01 08:03:18] Обрабатываю: AI and other American technologies fuel the scam industry
+[2026-07-01 08:03:18] Попытка 1 для: AI and other American technologies fuel 
+[2026-07-01 08:03:19] Успешно, получено 973 символов
+[2026-07-01 08:03:19] === Блок ai_morning завершён ===
