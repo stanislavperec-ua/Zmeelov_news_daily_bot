@@ -27032,3 +27032,58 @@ Nithya
 [2026-07-01 18:03:22] Попытка 1 для: Meet the $500,000 ChatGPT-powered humano
 [2026-07-01 18:03:23] Успешно, получено 746 символов
 [2026-07-01 18:03:23] === Блок ai_evening завершён ===
+[2026-07-02 06:01:12] Загружено 2071 уже отправленных новостей
+[2026-07-02 06:01:12] === Запуск блока: morning ===
+[2026-07-02 06:01:12] Неизвестный источник (yahoo entertainment): NBA free agency news 2026: LeBron James 
+[2026-07-02 06:01:12] Неизвестный источник (espn): LeBron James informs Lakers he plans to 
+[2026-07-02 06:01:12] Неизвестный источник (cnbc): Nike is set to report earnings after the
+[2026-07-02 06:01:12] Пропускаю уже отправленную: Supreme Court strikes down long-standing campaign 
+[2026-07-02 06:01:12] Пропускаю уже отправленную: Explosion in Monaco reportedly wounds Ukrainian ty
+[2026-07-02 06:01:12] Неизвестный источник (deadline): Blake Lively Wants $8M In Legal Fees Fro
+[2026-07-02 06:01:12] Неизвестный источник (fox news): WATCH: Fights break out at Russian gas s
+[2026-07-02 06:01:12] Неизвестный источник (thewrap): Why ‘Supergirl’ Crashed at the Box Offic
+[2026-07-02 06:01:12] Неизвестный источник (sfgate): Bay Area's USMNT World Cup match ticket 
+[2026-07-02 06:01:12] Неизвестный источник (kitco news): Spot gold spikes to session high $4,048/
+[2026-07-02 06:01:12] Неизвестный источник (people): 6-Year-Old Girl Bitten by Rabid Bat Whil
+[2026-07-02 06:01:12] Неизвестный источник (9to5mac): Proton launches Lumo 2.0 with image gene
+[2026-07-02 06:01:12] Неизвестный источник (business insider): How Microsoft became the black sheep of 
+[2026-07-02 06:01:12] Неизвестный источник (android authority): Google Play Store is getting faster ever
+[2026-07-02 06:01:12] Неизвестный источник (forbes): In Photos: ‘Strawberry Moon’ Lights Up N
+[2026-07-02 06:01:12] Старая новость (2026-06-29T21:55:42Z): Martinelli scores late as Brazil beat Ja
+[2026-07-02 06:01:12] Старая новость (2026-06-29T17:42:39Z): Scientists Found Ancient Human DNA on Ca
+[2026-07-02 06:01:12] Мировые новости: найдено 11 после фильтрации
+[2026-07-02 06:01:12] Заблокированный источник (naturalnews.com): Twelve injured in Ukrainian drone strike
+[2026-07-02 06:01:12] Нет фото: Ukrainian drone attacks on oil refinerie
+[2026-07-02 06:01:12] Заблокированный источник (sputnikglobe.com): Italy Blocks NATO Military Aid for Ukrai
+[2026-07-02 06:01:12] Нет фото: Heartbreak for Hakeem Jeffries: Another 
+[2026-07-02 06:01:12] Нет фото: POLITICAL EARTHQUAKE: 29-Year-Old Democr
+[2026-07-02 06:01:12] Украинские новости: найдено 3 после фильтрации
+[2026-07-02 06:01:13] Харьков: найдена новость — Ukrainian beauty queen sparks fury in her homeland
+[2026-07-02 06:01:16] Обрабатываю: The largest digital camera ever built begins decade-long sur
+[2026-07-02 06:01:16] Попытка 1 для: The largest digital camera ever built be
+[2026-07-02 06:01:17] Успешно, получено 694 символов
+[2026-07-02 06:01:17] Пауза 60 секунд...
+[2026-07-02 06:02:17] Обрабатываю: Supreme Court takes up challenges to AR-15 bans
+[2026-07-02 06:02:17] Попытка 1 для: Supreme Court takes up challenges to AR-
+[2026-07-02 06:02:18] Успешно, получено 740 символов
+[2026-07-02 06:02:19] Пауза 60 секунд...
+[2026-07-02 06:03:19] Обрабатываю: NASA aims to save a sinking space telescope with a rendezvou
+[2026-07-02 06:03:19] Попытка 1 для: NASA aims to save a sinking space telesc
+[2026-07-02 06:03:20] Успешно, получено 660 символов
+[2026-07-02 06:03:21] Пауза 60 секунд...
+[2026-07-02 06:04:21] Обрабатываю: DOJ investigating Gallego for campaign finance violations
+[2026-07-02 06:04:21] Попытка 1 для: DOJ investigating Gallego for campaign f
+[2026-07-02 06:04:22] Успешно, получено 860 символов
+[2026-07-02 06:04:25] Обрабатываю: Ukraine expands missile strikes inside Russia, triggering al
+[2026-07-02 06:04:25] Попытка 1 для: Ukraine expands missile strikes inside R
+[2026-07-02 06:04:26] Успешно, получено 924 символов
+[2026-07-02 06:04:27] Пауза 60 секунд...
+[2026-07-02 06:05:27] Обрабатываю: Putin Says No Ukraine Peace Deal Was Reached With Trump
+[2026-07-02 06:05:27] Попытка 1 для: Putin Says No Ukraine Peace Deal Was Rea
+[2026-07-02 06:05:28] Успешно, получено 751 символов
+[2026-07-02 06:05:29] Фото не отправилось: 400
+[2026-07-02 06:05:29] Пауза 60 секунд...
+[2026-07-02 06:06:29] Обрабатываю: Ukrainian beauty queen sparks fury in her homeland over lavi
+[2026-07-02 06:06:29] Попытка 1 для: Ukrainian beauty queen sparks fury in he
+[2026-07-02 06:06:31] Успешно, получено 531 символов
+[2026-07-02 06:06:31] === Блок morning завершён ===
