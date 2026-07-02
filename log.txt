@@ -27135,3 +27135,41 @@ Nithya
 [2026-07-02 08:03:15] Попытка 1 для: Towards the construction of a virtual ye
 [2026-07-02 08:03:16] Успешно, получено 666 символов
 [2026-07-02 08:03:16] === Блок ai_morning завершён ===
+[2026-07-02 11:01:06] Загружено 2080 уже отправленных новостей
+[2026-07-02 11:01:06] === Запуск блока: midday ===
+[2026-07-02 11:01:06] Неизвестный источник (yahoo entertainment): NBA free agency news 2026: LeBron James 
+[2026-07-02 11:01:06] Неизвестный источник (espn): LeBron James informs Lakers he plans to 
+[2026-07-02 11:01:06] Пропускаю уже отправленную: NASA aims to save a sinking space telescope with a
+[2026-07-02 11:01:06] Неизвестный источник (cnbc): Nike is set to report earnings after the
+[2026-07-02 11:01:06] Неизвестный источник (deadline): Blake Lively Wants $8M In Legal Fees Fro
+[2026-07-02 11:01:06] Неизвестный источник (fox news): WATCH: Fights break out at Russian gas s
+[2026-07-02 11:01:06] Неизвестный источник (thewrap): Why ‘Supergirl’ Crashed at the Box Offic
+[2026-07-02 11:01:06] Неизвестный источник (sfgate): Bay Area's USMNT World Cup match ticket 
+[2026-07-02 11:01:06] Старая новость (2026-06-30T11:00:00Z): Spot gold spikes to session high $4,048/
+[2026-07-02 11:01:06] Старая новость (2026-06-30T10:32:19Z): 6 ways to shift your stress mindset to d
+[2026-07-02 11:01:06] Старая новость (2026-06-30T10:09:42Z): 6-Year-Old Girl Bitten by Rabid Bat Whil
+[2026-07-02 11:01:06] Старая новость (2026-06-30T10:00:00Z): Proton launches Lumo 2.0 with image gene
+[2026-07-02 11:01:06] Старая новость (2026-06-30T09:50:06Z): How Microsoft became the black sheep of 
+[2026-07-02 11:01:06] Старая новость (2026-06-30T07:55:49Z): Google Play Store is getting faster ever
+[2026-07-02 11:01:06] Старая новость (2026-06-30T07:37:57Z): DR Congo says 1,307 Ebola cases confirme
+[2026-07-02 11:01:06] Старая новость (2026-06-30T07:22:02Z): Scientists may have finally found how Al
+[2026-07-02 11:01:06] Старая новость (2026-06-30T07:00:35Z): In Photos: ‘Strawberry Moon’ Lights Up N
+[2026-07-02 11:01:06] Старая новость (2026-06-29T21:55:42Z): Martinelli scores late as Brazil beat Ja
+[2026-07-02 11:01:06] Старая новость (2026-06-29T17:42:39Z): Scientists Found Ancient Human DNA on Ca
+[2026-07-02 11:01:06] Мировые новости: найдено 9 после фильтрации
+[2026-07-02 11:01:09] Обрабатываю: The largest digital camera ever built begins decade-long sur
+[2026-07-02 11:01:09] Попытка 1 для: The largest digital camera ever built be
+[2026-07-02 11:01:10] Успешно, получено 584 символов
+[2026-07-02 11:01:10] Пауза 60 секунд...
+[2026-07-02 11:02:10] Обрабатываю: Supreme Court takes up challenges to AR-15 bans
+[2026-07-02 11:02:10] Попытка 1 для: Supreme Court takes up challenges to AR-
+[2026-07-02 11:02:11] Успешно, получено 1245 символов
+[2026-07-02 11:02:12] Пауза 60 секунд...
+[2026-07-02 11:03:12] Обрабатываю: DOJ investigating Gallego for campaign finance violations
+[2026-07-02 11:03:12] Попытка 1 для: DOJ investigating Gallego for campaign f
+[2026-07-02 11:03:13] Успешно, получено 755 символов
+[2026-07-02 11:03:14] Пауза 60 секунд...
+[2026-07-02 11:04:14] Обрабатываю: Supreme Court strikes down long-standing campaign finance re
+[2026-07-02 11:04:14] Попытка 1 для: Supreme Court strikes down long-standing
+[2026-07-02 11:04:15] Успешно, получено 710 символов
+[2026-07-02 11:04:15] === Блок midday завершён ===
