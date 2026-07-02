@@ -27228,3 +27228,52 @@ Nithya
 [2026-07-02 16:03:21] Попытка 1 для: NASA aims to save a sinking space telesc
 [2026-07-02 16:03:22] Успешно, получено 540 символов
 [2026-07-02 16:03:22] === Блок evening завершён ===
+[2026-07-02 18:01:11] Загружено 2080 уже отправленных новостей
+[2026-07-02 18:01:11] === Запуск блока: ai_evening ===
+[2026-07-02 18:01:11] Нет фото: Secretary-General Stresses Need to Keep 
+[2026-07-02 18:01:11] Нет фото: optima-ml 0.4.0a3.post2
+[2026-07-02 18:01:11] Неизвестный источник (pcmag.com): New Studio Picks Up Sam Altman Movie Aft
+[2026-07-02 18:01:11] Нет фото: US Aluminum Smelter Idled Since 2024 to 
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): National Holding Company Acquires Moving
+[2026-07-02 18:01:11] Неизвестный источник (variety): Could Luca Guadagnino’s ‘Artificial’ Be 
+[2026-07-02 18:01:11] Неизвестный источник (cleantechnica): Swimming Against The Anti-EV Tide, BMW W
+[2026-07-02 18:01:11] Неизвестный источник (fortune): How foodservice giant Sodexo is embracin
+[2026-07-02 18:01:11] Неизвестный источник (siliconangle news): Neurologyca launches research labs to he
+[2026-07-02 18:01:11] Неизвестный источник (financial post): Jeppesen ForeFlight Unveils Agentic AI S
+[2026-07-02 18:01:11] Неизвестный источник (globenewswire): Jeppesen ForeFlight Unveils Agentic AI S
+[2026-07-02 18:01:11] Неизвестный источник (siliconangle news): TwelveLabs raises $100M to bring superin
+[2026-07-02 18:01:11] Неизвестный источник (globenewswire): Kharon Named “Risk Management Company of
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): In an Age of Artificial Intelligence, Re
+[2026-07-02 18:01:11] Неизвестный источник (globenewswire): Row64 and Carahsoft Partner to Deliver R
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): Magnify Ventures Launches New Fund to Bu
+[2026-07-02 18:01:11] Неизвестный источник (zdnet): Want a private ChatGPT alternative? How 
+[2026-07-02 18:01:11] Неизвестный источник (bgr): China Plans To Launch A Satellite System
+[2026-07-02 18:01:11] Нет фото: Trump administration lifts restrictions 
+[2026-07-02 18:01:11] Неизвестный источник (siliconangle news): Armadin details full sandbox escape in C
+[2026-07-02 18:01:11] Неизвестный источник (financial post): US Manufacturing Expands at Slower Pace,
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): Improving Appoints Ashok Iyengar as Exec
+[2026-07-02 18:01:11] Неизвестный источник (plos.org): Motivational and psychological variables
+[2026-07-02 18:01:11] Неизвестный источник (plos.org): Double DQN-based secrecy energy efficien
+[2026-07-02 18:01:11] Неизвестный источник (plos.org): Determining optimal practices for foal w
+[2026-07-02 18:01:11] Неизвестный источник (plos.org): A mathematical analysis of math anxiety 
+[2026-07-02 18:01:11] Неизвестный источник (the jerusalem post): Australian unicorn Airwallex plans expan
+[2026-07-02 18:01:11] Неизвестный источник (financial post): OXMIQ Raises $35 Million to Scale OxCore
+[2026-07-02 18:01:11] Неизвестный источник (globenewswire): Consumer Finance Market to Surge to $2.3
+[2026-07-02 18:01:11] Неизвестный источник (frontiersin.org): Frontiers | The gut-brain axis and anxie
+[2026-07-02 18:01:11] Неизвестный источник (siliconangle news): Exabeam doubles AI detection coverage an
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): Intersignal Releases Braid v0.2, Advanci
+[2026-07-02 18:01:11] Нет фото: mfai 7.3.1
+[2026-07-02 18:01:11] Нет фото: Taiwan Semiconductor Suppliers Are Movin
+[2026-07-02 18:01:11] Неизвестный источник (globenewswire): Taiwan Semiconductor Suppliers Are Movin
+[2026-07-02 18:01:11] Неизвестный источник (livemint): Digital standards, AI rules key to futur
+[2026-07-02 18:01:11] Неизвестный источник (prnewswire): S&P GLOBAL INC. COMPLETES SEPARATION OF 
+[2026-07-02 18:01:11] Неизвестный источник (computerweekly.com): Tata Communications strengthens India-Si
+[2026-07-02 18:01:11] AI новости: найдено 2 после фильтрации
+[2026-07-02 18:01:13] Обрабатываю: Desert Oasis Healthcare Celebrates Official 45th Anniversary
+[2026-07-02 18:01:13] Попытка 1 для: Desert Oasis Healthcare Celebrates Offic
+[2026-07-02 18:01:15] Успешно, получено 654 символов
+[2026-07-02 18:01:15] Пауза 60 секунд...
+[2026-07-02 18:02:15] Обрабатываю: Figma Shares Surge Over 8 Percent Amid AI Features and Stron
+[2026-07-02 18:02:15] Попытка 1 для: Figma Shares Surge Over 8 Percent Amid A
+[2026-07-02 18:02:17] Успешно, получено 927 символов
+[2026-07-02 18:02:18] === Блок ai_evening завершён ===
