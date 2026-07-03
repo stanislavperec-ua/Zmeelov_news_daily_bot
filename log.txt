@@ -27318,3 +27318,51 @@ Nithya
 [2026-07-03 06:05:25] Попытка 1 для: Russia launches massive missile assault 
 [2026-07-03 06:05:26] Успешно, получено 763 символов
 [2026-07-03 06:05:27] === Блок morning завершён ===
+[2026-07-03 08:01:15] Загружено 2088 уже отправленных новостей
+[2026-07-03 08:01:15] === Запуск блока: ai_morning ===
+[2026-07-03 08:01:15] Неизвестный источник (prnewswire): Intesa Sanpaolo Brings its Digital Infra
+[2026-07-03 08:01:15] Неизвестный источник (bitcoinfoundation.org): Robinhood Stock Soars 8% Amid Robinhood 
+[2026-07-03 08:01:15] Неизвестный источник (globenewswire): Telia Lietuva invests EUR 7.1 million to
+[2026-07-03 08:01:15] Неизвестный источник (computerweekly.com): Data dive: Kill switch and catch-up – ca
+[2026-07-03 08:01:15] Нет фото: Asian stocks mostly decline on a sell-of
+[2026-07-03 08:01:15] Нет фото: Japan’s Takaichi to Meet Modi on First O
+[2026-07-03 08:01:15] Неизвестный источник (c-sharpcorner.com): The Cybernetic Proletariat: Humanoids, A
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Homebuilding AI startup Higharc bags $90
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): AI stock trading startup EquiLibre raise
+[2026-07-03 08:01:15] Неизвестный источник (cnbc): Inside India newsletter: Amazon, Walmart
+[2026-07-03 08:01:15] Неизвестный источник (soldiersystems.net): Army Researchers Modernize Breaching for
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Raja Koduri’s Oxmiq Labs raises $35M to 
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Verkada takes Nvidia investment to expan
+[2026-07-03 08:01:15] Неизвестный источник (financial post): Perma-Bull Tech Analyst Dan Ives Departs
+[2026-07-03 08:01:15] Неизвестный источник (dailymail.com): Audacity of Trump's billion-dollar haul 
+[2026-07-03 08:01:15] Неизвестный источник (the punch): Nigeria, AfCFTA push Africa’s $180bn dig
+[2026-07-03 08:01:15] Неизвестный источник (computerweekly.com): Japan revises AI strategy amid frontier 
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Meta shares jump 9% on reported plan to 
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Report: SpaceX showed investors an AI de
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Venice raises $65M at $1B valuation for 
+[2026-07-03 08:01:15] Неизвестный источник (forbes): The Increasingly Shaky Pillars Of Americ
+[2026-07-03 08:01:15] Неизвестный источник (observer): 12 Immigrant Founders Driving America’s 
+[2026-07-03 08:01:15] Нет фото: SpaceX Showed Investors Prototype of Elo
+[2026-07-03 08:01:15] Неизвестный источник (kqed): Sam Altman, OpenAI Movie Filmed in San F
+[2026-07-03 08:01:15] Нет фото: Musk Ally Gracias Eyes Bets in AI, Energ
+[2026-07-03 08:01:15] Неизвестный источник (globenewswire): Global Accounts Receivable Automation Ma
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): Together AI raises $800M to grow its AI-
+[2026-07-03 08:01:15] Неизвестный источник (blogspot.com): Ημερήσια Γεωπολιτική Επισκόπηση - 01/07/
+[2026-07-03 08:01:15] Неизвестный источник (digitalcommerce360): Visa sees AI investments, consumer adjus
+[2026-07-03 08:01:15] Неизвестный источник (siliconangle news): AWS turbocharges log analytics in Amazon
+[2026-07-03 08:01:15] Неизвестный источник (financial post): Michael Burry’s Short Call Dents Caterpi
+[2026-07-03 08:01:15] Неизвестный источник (frontiersin.org): Frontiers | A cross-sectional study on t
+[2026-07-03 08:01:15] Нет фото: Old Dominion University Launches First P
+[2026-07-03 08:01:15] AI новости: найдено 5 после фильтрации
+[2026-07-03 08:01:17] Обрабатываю: A coastal city in the south is quietly powering India's AI f
+[2026-07-03 08:01:17] Попытка 1 для: A coastal city in the south is quietly p
+[2026-07-03 08:01:19] Успешно, получено 943 символов
+[2026-07-03 08:01:19] Пауза 60 секунд...
+[2026-07-03 08:02:19] Обрабатываю: ShareChat eyes $400 million IPO next year after turning oper
+[2026-07-03 08:02:19] Попытка 1 для: ShareChat eyes $400 million IPO next yea
+[2026-07-03 08:02:20] Успешно, получено 893 символов
+[2026-07-03 08:02:21] Пауза 60 секунд...
+[2026-07-03 08:03:21] Обрабатываю: Cross River Expands Stripe Issuing Partnership to Help Power
+[2026-07-03 08:03:21] Попытка 1 для: Cross River Expands Stripe Issuing Partn
+[2026-07-03 08:03:22] Успешно, получено 502 символов
+[2026-07-03 08:03:22] === Блок ai_morning завершён ===
