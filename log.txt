@@ -27462,3 +27462,53 @@ Nithya
 [2026-07-03 16:05:25] Успешно, получено 654 символов
 [2026-07-03 16:05:26] Фото не отправилось: 400
 [2026-07-03 16:05:26] === Блок evening завершён ===
+[2026-07-03 18:01:09] Загружено 2101 уже отправленных новостей
+[2026-07-03 18:01:09] === Запуск блока: ai_evening ===
+[2026-07-03 18:01:10] Неизвестный источник (prnewswire): In HelloNation, Dental Expert Dustin Plu
+[2026-07-03 18:01:10] Неизвестный источник (esquire.com): Why a Movie About OpenAI’s Sam Altman Te
+[2026-07-03 18:01:10] Неизвестный источник (haaretz): Bold, almost reckless: Israeli scientist
+[2026-07-03 18:01:10] Неизвестный источник (advocate.com): Is Goose, the Grindr alternative, using 
+[2026-07-03 18:01:10] Неизвестный источник (prnewswire): UrbanGeekz CEO Kunbi Tinuoye Joins TechL
+[2026-07-03 18:01:10] Неизвестный источник (fortune): Trump’s $46 billion ‘smart wall’ with Me
+[2026-07-03 18:01:10] Неизвестный источник (financial post): EG’s gas-station firm Cumberland Farms f
+[2026-07-03 18:01:10] Неизвестный источник (businessline): IAMAI Launches AI Council of India to bu
+[2026-07-03 18:01:10] Нет фото: Canada’s Pembina Advances Gas-Fired Data
+[2026-07-03 18:01:10] Нет фото: a16z generative ai
+[2026-07-03 18:01:10] Нет фото: Oilfield-Contractor Pay Hits Fresh Recor
+[2026-07-03 18:01:10] Неизвестный источник (financial post): Ontario startup’s humanoid robots aim to
+[2026-07-03 18:01:10] Неизвестный источник (siliconangle news): Pinecone releases Nexus into public prev
+[2026-07-03 18:01:10] Неизвестный источник (siliconangle news): CarbonSix raises $40M to deliver intelli
+[2026-07-03 18:01:10] Неизвестный источник (globenewswire): Tripo AI Raises $150 Million in Series A
+[2026-07-03 18:01:10] Нет фото: Heat adds to strains on areas with data 
+[2026-07-03 18:01:10] Нет фото: Insurity Unveils Agenda for Excellence i
+[2026-07-03 18:01:10] Неизвестный источник (prnewswire): PA ATTORNEY GENERAL DAVE SUNDAY, ERIE IN
+[2026-07-03 18:01:10] Неизвестный источник (computerweekly.com): UKtech50 2026: The most influential peop
+[2026-07-03 18:01:10] Неизвестный источник (financial post): IQM Quantum Computers Becomes First Euro
+[2026-07-03 18:01:10] Неизвестный источник (yahoo entertainment): $1 million or less in assets? You may no
+[2026-07-03 18:01:10] Неизвестный источник (next big future): 100X Gains from Full Stack Co-Design. AI
+[2026-07-03 18:01:10] Неизвестный источник (financial post): Tesla Vehicle Sales Jump 25%, Far Exceed
+[2026-07-03 18:01:10] Неизвестный источник (pymnts.com): Visa and BBVA Prove Today’s Rails Can Ha
+[2026-07-03 18:01:10] Неизвестный источник (pymnts.com): Visa Lets Banks Access Its In-House Cybe
+[2026-07-03 18:01:10] Неизвестный источник (yahoo entertainment): Big win for humans! Ford rehired 350 'gr
+[2026-07-03 18:01:10] Неизвестный источник (pr newswire uk): Data Center Solutions Market worth $1,33
+[2026-07-03 18:01:10] Неизвестный источник (prnewswire): Data Center Solutions Market worth $1,33
+[2026-07-03 18:01:10] Неизвестный источник (plos.org): Disinhibitory signaling enables flexible
+[2026-07-03 18:01:10] Неизвестный источник (page six): Scribe sells ‘cutthroat’ Kalshi and Poly
+[2026-07-03 18:01:10] Неизвестный источник (crypto briefing): Microsoft’s ‘Frontier Company’ buzz is m
+[2026-07-03 18:01:10] Неизвестный источник (financial post): Meta is planning a cloud business to sel
+[2026-07-03 18:01:10] Неизвестный источник (globenewswire): VEON Group CEO Meets with Kazakh Preside
+[2026-07-03 18:01:10] Неизвестный источник (siliconangle news): Tripo AI secures additional $150M in fun
+[2026-07-03 18:01:10] Неизвестный источник (business insider): This startup wants to turn the world int
+[2026-07-03 18:01:10] AI новости: найдено 5 после фильтрации
+[2026-07-03 18:01:12] Обрабатываю: India, Japan deepen AI cooperation across full tech stack; a
+[2026-07-03 18:01:12] Попытка 1 для: India, Japan deepen AI cooperation acros
+[2026-07-03 18:01:14] Успешно, получено 994 символов
+[2026-07-03 18:01:14] Пауза 60 секунд...
+[2026-07-03 18:02:14] Обрабатываю: Tesla Shares Slide Despite Record Q2 Deliveries as Investors
+[2026-07-03 18:02:14] Попытка 1 для: Tesla Shares Slide Despite Record Q2 Del
+[2026-07-03 18:02:15] Успешно, получено 907 символов
+[2026-07-03 18:02:16] Пауза 60 секунд...
+[2026-07-03 18:03:16] Обрабатываю: Amazon Stock Rises as Prime Day Success and AWS AI Demand Dr
+[2026-07-03 18:03:16] Попытка 1 для: Amazon Stock Rises as Prime Day Success 
+[2026-07-03 18:03:17] Успешно, получено 663 символов
+[2026-07-03 18:03:17] === Блок ai_evening завершён ===
