@@ -27366,3 +27366,37 @@ Nithya
 [2026-07-03 08:03:21] Попытка 1 для: Cross River Expands Stripe Issuing Partn
 [2026-07-03 08:03:22] Успешно, получено 502 символов
 [2026-07-03 08:03:22] === Блок ai_morning завершён ===
+[2026-07-03 11:01:08] Загружено 2091 уже отправленных новостей
+[2026-07-03 11:01:08] === Запуск блока: midday ===
+[2026-07-03 11:01:08] Неизвестный источник (tmz): Heather Locklear’s BF Lorenzo Lamas Set 
+[2026-07-03 11:01:08] Неизвестный источник (cnbc): Stock futures edge up after weak start t
+[2026-07-03 11:01:08] Неизвестный источник (newsnationnow.com): Boy dies from rabies after waking up to 
+[2026-07-03 11:01:08] Неизвестный источник (9to5mac): Apple reportedly orders 10M foldable iPh
+[2026-07-03 11:01:08] Заблокированный источник (sciencealert): For The First Time, Scientists Say They'
+[2026-07-03 11:01:08] Неизвестный источник (hoopsrumors.com): Details On 2028 Pick Involved In Celtics
+[2026-07-03 11:01:08] Неизвестный источник (cnbc): Europe wants to rebalance trade with Bei
+[2026-07-03 11:01:08] Неизвестный источник (pbs): What we know about Taylor Swift and Trav
+[2026-07-03 11:01:08] Неизвестный источник (fox business): What are the main sticking points in the
+[2026-07-03 11:01:08] Неизвестный источник (espn): England 2-1 Congo DR: Harry Kane saves T
+[2026-07-03 11:01:08] Неизвестный источник (cinemablend): Where Is All This Supergirl Hate Coming 
+[2026-07-03 11:01:08] Неизвестный источник (fox news): FBI official pushes back on claims that 
+[2026-07-03 11:01:08] Неизвестный источник (fox business): Sony to end physical PlayStation game di
+[2026-07-03 11:01:08] Старая новость (2026-07-01T09:00:00Z): New disease threats follow Trump adminis
+[2026-07-03 11:01:08] Старая новость (2026-06-30T22:39:39Z): NASA barrels ahead with moon base plans,
+[2026-07-03 11:01:08] Мировые новости: найдено 17 после фильтрации
+[2026-07-03 11:01:11] Обрабатываю: China’s new ethnic unity law extends its legal reach oversea
+[2026-07-03 11:01:11] Попытка 1 для: China’s new ethnic unity law extends its
+[2026-07-03 11:01:12] Успешно, получено 598 символов
+[2026-07-03 11:01:12] Пауза 60 секунд...
+[2026-07-03 11:02:12] Обрабатываю: South Korean Stocks Tumble 6% as AI Jitters Hurt Chipmakers
+[2026-07-03 11:02:12] Попытка 1 для: South Korean Stocks Tumble 6% as AI Jitt
+[2026-07-03 11:02:14] Успешно, получено 806 символов
+[2026-07-03 11:02:14] Пауза 60 секунд...
+[2026-07-03 11:03:14] Обрабатываю: U.S. beats Bosnia-Herzegovina 2-0 to advance to round of 16 
+[2026-07-03 11:03:14] Попытка 1 для: U.S. beats Bosnia-Herzegovina 2-0 to adv
+[2026-07-03 11:03:16] Успешно, получено 701 символов
+[2026-07-03 11:03:16] Пауза 60 секунд...
+[2026-07-03 11:04:16] Обрабатываю: West Nile virus is surging earlier than it has in decades. H
+[2026-07-03 11:04:16] Попытка 1 для: West Nile virus is surging earlier than 
+[2026-07-03 11:04:17] Успешно, получено 700 символов
+[2026-07-03 11:04:18] === Блок midday завершён ===
