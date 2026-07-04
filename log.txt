@@ -27619,3 +27619,37 @@ Nithya
 [2026-07-04 08:01:11] Попытка 1 для: A blockchain-enabled IoT framework for s
 [2026-07-04 08:01:13] Успешно, получено 842 символов
 [2026-07-04 08:01:13] === Блок ai_morning завершён ===
+[2026-07-04 11:01:12] Загружено 2111 уже отправленных новостей
+[2026-07-04 11:01:12] === Запуск блока: midday ===
+[2026-07-04 11:01:12] Неизвестный источник (space.com): NASA to launch rescue mission July 2 to 
+[2026-07-04 11:01:12] Неизвестный источник (huffpost): Trump White House’s Taylor Swift Stunt E
+[2026-07-04 11:01:12] Неизвестный источник (wfmz allentown): Taylor Swift, Travis Kelce donate $1M to
+[2026-07-04 11:01:12] Неизвестный источник (variety): Madonna’s Dance Floor-Dominating ‘Confes
+[2026-07-04 11:01:12] Неизвестный источник (wdiv clickondetroit): Wayne County health officials track 27 p
+[2026-07-04 11:01:12] Неизвестный источник (macrumors): Apple Responds to Lawsuit Filed by Three
+[2026-07-04 11:01:12] Неизвестный источник (fox news): 'Milestone': Scientists claim to build s
+[2026-07-04 11:01:12] Неизвестный источник (9to5mac): iOS 27 helps apps detect when a user may
+[2026-07-04 11:01:12] Неизвестный источник (sfstandard.com): Kawakami: Waiting for LeBron — Moody in 
+[2026-07-04 11:01:12] Неизвестный источник (fox business): What are the investment options for Trum
+[2026-07-04 11:01:12] Неизвестный источник (android authority): Galaxy S27 Pro and Ultra leak hints at a
+[2026-07-04 11:01:12] Неизвестный источник (colorado public radio): Aspen Acres fire: "There will be expansi
+[2026-07-04 11:01:12] Неизвестный источник (newsnationnow.com): Beachgoers warned of flesh-eating bacter
+[2026-07-04 11:01:12] Старая новость (2026-07-02T10:51:47Z): SpaceX Investors Get Preview of Musk’s A
+[2026-07-04 11:01:12] Старая новость (2026-07-01T19:29:28Z): ‘The greatest cosmic movie ever made’: H
+[2026-07-04 11:01:12] Мировые новости: найдено 16 после фильтрации
+[2026-07-04 11:01:15] Обрабатываю: Croatia vs. Portugal: What happened in those final, chaotic 
+[2026-07-04 11:01:15] Попытка 1 для: Croatia vs. Portugal: What happened in t
+[2026-07-04 11:01:16] Успешно, получено 533 символов
+[2026-07-04 11:01:17] Пауза 60 секунд...
+[2026-07-04 11:02:17] Обрабатываю: California farmer and food marketer spar over who can sell w
+[2026-07-04 11:02:17] Попытка 1 для: California farmer and food marketer spar
+[2026-07-04 11:02:18] Успешно, получено 777 символов
+[2026-07-04 11:02:18] Пауза 60 секунд...
+[2026-07-04 11:03:18] Обрабатываю: Australian officials ask fans to respect the privacy of Neil
+[2026-07-04 11:03:18] Попытка 1 для: Australian officials ask fans to respect
+[2026-07-04 11:03:19] Успешно, получено 750 символов
+[2026-07-04 11:03:20] Пауза 60 секунд...
+[2026-07-04 11:04:20] Обрабатываю: The AI Trade Is Losing One of Its Key Signals
+[2026-07-04 11:04:20] Попытка 1 для: The AI Trade Is Losing One of Its Key Si
+[2026-07-04 11:04:21] Успешно, получено 723 символов
+[2026-07-04 11:04:22] === Блок midday завершён ===
