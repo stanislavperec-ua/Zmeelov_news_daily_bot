@@ -27865,3 +27865,42 @@ Nithya
 [2026-07-05 08:03:22] Попытка 1 для: China's warning reveals what really happ
 [2026-07-05 08:03:23] Успешно, получено 577 символов
 [2026-07-05 08:03:23] === Блок ai_morning завершён ===
+[2026-07-05 11:01:13] Загружено 2133 уже отправленных новостей
+[2026-07-05 11:01:13] === Запуск блока: midday ===
+[2026-07-05 11:01:14] Неизвестный источник (kyivindependent.com): St. Petersburg oil terminal reportedly s
+[2026-07-05 11:01:14] Неизвестный источник (cbs sports): Cabo Verde's dream World Cup ends agains
+[2026-07-05 11:01:14] Неизвестный источник (hollywood reporter): Donald Trump Tries to Troll Taylor Swift
+[2026-07-05 11:01:14] Неизвестный источник (rolling stone): Brad Paisley, Kimberly Williams-Paisley 
+[2026-07-05 11:01:14] Нет фото: Trump administration’s interpretation of
+[2026-07-05 11:01:14] Пропускаю уже отправленную: Thousands forced to evacuate in Colorado as wildfi
+[2026-07-05 11:01:14] Неизвестный источник (whyy): Extreme heat forced Philly to cancel its
+[2026-07-05 11:01:14] Неизвестный источник (pbs): Rescue mission launches to save NASA tel
+[2026-07-05 11:01:14] Неизвестный источник (phillyvoice.com): Flyers tender offer sheet to Ducks cente
+[2026-07-05 11:01:14] Неизвестный источник (gsmarena.com): Samsung Galaxy Z Fold8, Fold8 Ultra, Fli
+[2026-07-05 11:01:14] Неизвестный источник (motor1 ): Ferrari Finally Brought Back The Manual—
+[2026-07-05 11:01:14] Неизвестный источник (phys.org): JWST discovers a new barred spiral galax
+[2026-07-05 11:01:14] Неизвестный источник (gamesindustry.biz): "We are profoundly disappointed by Sony'
+[2026-07-05 11:01:14] Неизвестный источник (wls-tv): Chicago weather forecast: 3 children dea
+[2026-07-05 11:01:14] Старая новость (2026-07-03T10:00:00Z): 'It's more than a hope, it's a guarantee
+[2026-07-05 11:01:14] Старая новость (2026-07-03T09:00:38Z): Unemployment dipped, but more people lef
+[2026-07-05 11:01:14] Старая новость (2026-07-03T08:15:08Z): Korea Said to Prepare for Currency Flow 
+[2026-07-05 11:01:14] Старая новость (2026-07-02T16:34:29Z): Tick season is expected to be worse than
+[2026-07-05 11:01:14] Старая новость (2026-07-02T16:25:00Z): Researchers launch study on Ebola treatm
+[2026-07-05 11:01:14] Старая новость (2026-07-02T13:00:20Z): Resident Evil Officially Returns With Ne
+[2026-07-05 11:01:14] Мировые новости: найдено 7 после фильтрации
+[2026-07-05 11:01:16] Обрабатываю: Trump returns to Mount Rushmore after years of hinting he be
+[2026-07-05 11:01:16] Попытка 1 для: Trump returns to Mount Rushmore after ye
+[2026-07-05 11:01:17] Успешно, получено 657 символов
+[2026-07-05 11:01:18] Пауза 60 секунд...
+[2026-07-05 11:02:18] Обрабатываю: Reflections on America's 250th birthday
+[2026-07-05 11:02:18] Попытка 1 для: Reflections on America's 250th birthday
+[2026-07-05 11:02:19] Успешно, получено 704 символов
+[2026-07-05 11:02:20] Пауза 60 секунд...
+[2026-07-05 11:03:20] Обрабатываю: Iran begins dayslong funeral for the late Supreme Leader Aya
+[2026-07-05 11:03:20] Попытка 1 для: Iran begins dayslong funeral for the lat
+[2026-07-05 11:03:21] Успешно, получено 695 символов
+[2026-07-05 11:03:21] Пауза 60 секунд...
+[2026-07-05 11:04:21] Обрабатываю: Family-owned company prepares to put on the largest firework
+[2026-07-05 11:04:21] Попытка 1 для: Family-owned company prepares to put on 
+[2026-07-05 11:04:22] Успешно, получено 552 символов
+[2026-07-05 11:04:23] === Блок midday завершён ===
