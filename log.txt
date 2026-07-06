@@ -28068,3 +28068,35 @@ Nithya
 [2026-07-06 06:06:30] Попытка 1 для: Day 1,592 of WW3: Putin announces plans 
 [2026-07-06 06:06:31] Успешно, получено 751 символов
 [2026-07-06 06:06:32] === Блок morning завершён ===
+[2026-07-06 08:01:15] Загружено 2152 уже отправленных новостей
+[2026-07-06 08:01:15] === Запуск блока: ai_morning ===
+[2026-07-06 08:01:15] Неизвестный источник (forbes): The Secret Of Why These Eleven Words Are
+[2026-07-06 08:01:15] Неизвестный источник (prnewswire): Beyond the Credential: As AI Erases the 
+[2026-07-06 08:01:15] Заблокированный источник (naturalnews.com): Nvidia Introduces New AI Compute Model a
+[2026-07-06 08:01:15] Неизвестный источник (substack.com): The Inside Story Of Leverage Research 1.
+[2026-07-06 08:01:15] Неизвестный источник (space daily): A 2013 study found that bottlenose dolph
+[2026-07-06 08:01:15] Неизвестный источник (financial post): Investors Looking for Shelter From AI St
+[2026-07-06 08:01:15] Неизвестный источник (the punch): Talent is everywhere, opportunity is not
+[2026-07-06 08:01:15] Нет фото: geoai-py 0.41.0
+[2026-07-06 08:01:15] Неизвестный источник (mercola.com): Blood Clots May Be the Root Cause of All
+[2026-07-06 08:01:15] Неизвестный источник (yahoo entertainment): Elon Musk Calls Report on SpaceX AI Hand
+[2026-07-06 08:01:15] Неизвестный источник (bleeding cool news): Bleeding Hearts #6 Preview: Zombies Thro
+[2026-07-06 08:01:15] Неизвестный источник (marketbeat): These Stocks Could Win as Wall Street Lo
+[2026-07-06 08:01:15] Неизвестный источник (yahoo entertainment): Strong SoC Platforms Demand Assert Ambar
+[2026-07-06 08:01:15] Неизвестный источник (the daily caller): Five American Inventions That Changed Th
+[2026-07-06 08:01:15] Неизвестный источник (financial post): Charting the Global Economy: US Hiring S
+[2026-07-06 08:01:15] Неизвестный источник (yahoo entertainment): GM lays off over 1,000 workers at Detroi
+[2026-07-06 08:01:15] Неизвестный источник (zycrypto): RippleX Engineer Reveals XRP Ledger’s Pu
+[2026-07-06 08:01:15] AI новости: найдено 3 после фильтрации
+[2026-07-06 08:01:17] Обрабатываю: DOGE self-deletes on July 4th. The grand experiment fell apa
+[2026-07-06 08:01:17] Попытка 1 для: DOGE self-deletes on July 4th. The grand
+[2026-07-06 08:01:19] Успешно, получено 745 символов
+[2026-07-06 08:01:19] Пауза 60 секунд...
+[2026-07-06 08:02:19] Обрабатываю: India's factory boom comes with a growing cyber bill
+[2026-07-06 08:02:19] Попытка 1 для: India's factory boom comes with a growin
+[2026-07-06 08:02:20] Успешно, получено 728 символов
+[2026-07-06 08:02:21] Пауза 60 секунд...
+[2026-07-06 08:03:21] Обрабатываю: Modi in Indonesia: India forming a BrahMos belt in China’s b
+[2026-07-06 08:03:21] Попытка 1 для: Modi in Indonesia: India forming a BrahM
+[2026-07-06 08:03:22] Успешно, получено 816 символов
+[2026-07-06 08:03:22] === Блок ai_morning завершён ===
