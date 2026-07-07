@@ -28306,3 +28306,52 @@ Nithya
 [2026-07-07 06:05:36] Успешно, получено 893 символов
 [2026-07-07 06:05:37] Фото не отправилось: 400
 [2026-07-07 06:05:37] === Блок morning завершён ===
+[2026-07-07 08:01:23] Загружено 2169 уже отправленных новостей
+[2026-07-07 08:01:23] === Запуск блока: ai_morning ===
+[2026-07-07 08:01:23] Неизвестный источник (pymnts.com): Credit Unions Fight Fraud by Connecting 
+[2026-07-07 08:01:23] Неизвестный источник (computerweekly.com): Channel moves: Who’s gone where?
+[2026-07-07 08:01:23] Неизвестный источник (c-sharpcorner.com): Graph Database vs Vector Database: Under
+[2026-07-07 08:01:23] Заблокированный источник (naturalnews.com): Big Tech is scrambling to secure scalabl
+[2026-07-07 08:01:23] Заблокированный источник (naturalnews.com): Drones Use Machine Learning to Predict M
+[2026-07-07 08:01:23] Неизвестный источник (music ally): Want to know how the major labels see AI
+[2026-07-07 08:01:23] Неизвестный источник (prospect magazine): Life at the end of the metaverse
+[2026-07-07 08:01:23] Неизвестный источник (siamnews.net): Ascletis Submits Two IND Applications to
+[2026-07-07 08:01:23] Нет фото: Hexagon Agility receives significant ord
+[2026-07-07 08:01:23] Неизвестный источник (healthindustryhub.com.au): Healthcare manufacturers push for ‘singl
+[2026-07-07 08:01:23] Неизвестный источник (globenewswire): TIENS VMOMENT Wins Wprost "Business Inno
+[2026-07-07 08:01:23] Неизвестный источник (computerweekly.com): CW@60: A career in data - it's all about
+[2026-07-07 08:01:23] Неизвестный источник (biztoc.com): Nvidia CEO Jensen Huang Highlighted a Ne
+[2026-07-07 08:01:23] Нет фото: How do black-footed ferrets camouflage?
+[2026-07-07 08:01:23] Неизвестный источник (financial post): Ringgit May Rebound on Capital Flow Meas
+[2026-07-07 08:01:23] Неизвестный источник (nlppeople.com): AI & Machine Learning Engineering Consul
+[2026-07-07 08:01:23] Неизвестный источник (new zealand herald): Re-embracing fossil fuel: AT getting 8 n
+[2026-07-07 08:01:23] Неизвестный источник (siliconangle news): Amazon’s Mechanical Turk service now on 
+[2026-07-07 08:01:23] Неизвестный источник (computerweekly.com): How Zoho’s full-stack strategy keeps it 
+[2026-07-07 08:01:23] Неизвестный источник (motley fool australia): Why did Megaport shares smash the ASX 20
+[2026-07-07 08:01:23] Неизвестный источник (onefootball.com):  Belgian FA reacts after Balogun's card 
+[2026-07-07 08:01:23] Неизвестный источник (feliciarembrandt.com): The Deceptive Marketing of 'Real Pride' 
+[2026-07-07 08:01:23] Неизвестный источник (blogspot.com): Ημερήσια Γεωπολιτική Επισκόπηση - 05/07/
+[2026-07-07 08:01:23] Неизвестный источник (gossiplankanews.com): Elon Musk's 'Satellite Phones' for the W
+[2026-07-07 08:01:23] Неизвестный источник (newsonjapan.com): What Should Japan Do About Nuclear Waste
+[2026-07-07 08:01:23] Неизвестный источник (onefootball.com):  FIFA overturns Folarin Balogun's red ca
+[2026-07-07 08:01:23] Неизвестный источник (wattsupwiththat.com): Low Cost Chinese Coal Power is Driving a
+[2026-07-07 08:01:23] Неизвестный источник (biztoc.com): The AI Supercycle Needs More Than Just C
+[2026-07-07 08:01:23] Неизвестный источник (dw (english)): Students leave Gaza to continue studies,
+[2026-07-07 08:01:23] Неизвестный источник (siliconangle news): Alex Karp, frontier models and the real 
+[2026-07-07 08:01:23] Неизвестный источник (globenewswire): Frontier AI Smart Cities Tech License Pa
+[2026-07-07 08:01:23] Неизвестный источник (bleeding cool news): Green Lantern Corps #18 Preview: Emotion
+[2026-07-07 08:01:23] Неизвестный источник (dailymail.com): Nine signs mega AI media deal - amid doz
+[2026-07-07 08:01:23] Пропускаю уже отправленную: Apple iPhone 18 Pro Rumored to Feature In-House C2
+[2026-07-07 08:01:23] AI новости: найдено 5 после фильтрации
+[2026-07-07 08:01:25] Обрабатываю: We need to know who will control our health data when record
+[2026-07-07 08:01:25] Попытка 1 для: We need to know who will control our hea
+[2026-07-07 08:01:26] Успешно, получено 856 символов
+[2026-07-07 08:01:27] Пауза 60 секунд...
+[2026-07-07 08:02:27] Обрабатываю: AI creating new consumer demands, biz opportunities beyond p
+[2026-07-07 08:02:27] Попытка 1 для: AI creating new consumer demands, biz op
+[2026-07-07 08:02:28] Успешно, получено 886 символов
+[2026-07-07 08:02:28] Пауза 60 секунд...
+[2026-07-07 08:03:28] Обрабатываю: Jio IPO puts telecom in focus: Why the sector's growth story
+[2026-07-07 08:03:28] Попытка 1 для: Jio IPO puts telecom in focus: Why the s
+[2026-07-07 08:03:29] Успешно, получено 818 символов
+[2026-07-07 08:03:30] === Блок ai_morning завершён ===
