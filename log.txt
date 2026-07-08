@@ -28598,3 +28598,50 @@ Nithya
 [2026-07-08 08:01:31] Попытка 1 для: Mapping the path to clinical implementat
 [2026-07-08 08:01:32] Успешно, получено 672 символов
 [2026-07-08 08:01:32] === Блок ai_morning завершён ===
+[2026-07-08 11:01:33] Загружено 2189 уже отправленных новостей
+[2026-07-08 11:01:33] === Запуск блока: midday ===
+[2026-07-08 11:01:34] Неизвестный источник (hollywood reporter): “U.S. Soccer Is Not Ready for Primetime”
+[2026-07-08 11:01:34] Неизвестный источник (tmz): Nipsey Hussle Kids Receive Inheritance F
+[2026-07-08 11:01:34] Неизвестный источник (seeking alpha): SpaceX lands bullish ratings from Morgan
+[2026-07-08 11:01:34] Неизвестный источник (space.com): SpaceX launches 81 satellites to orbit f
+[2026-07-08 11:01:34] Неизвестный источник (wccftech): Xbox Layoffs Have Reportedly Gutted id S
+[2026-07-08 11:01:34] Неизвестный источник (big think): Famous study in error: the Universe isn’
+[2026-07-08 11:01:34] Неизвестный источник (business insider): Ukrainian drones flew all the way to Sib
+[2026-07-08 11:01:34] Неизвестный источник (investing.com): Asia stocks fall as AI valuation fears o
+[2026-07-08 11:01:34] Неизвестный источник (cageside seats): CM Punk returns to Raw in Chicago, wins 
+[2026-07-08 11:01:34] Неизвестный источник (cnbc): Trump heads to Turkey as NATO is straine
+[2026-07-08 11:01:34] Неизвестный источник (fox news): New Yorker suing ICE after officers went
+[2026-07-08 11:01:34] Неизвестный источник (ksat san antonio): What is Cyclospora cayetanensis? CDC rep
+[2026-07-08 11:01:34] Неизвестный источник (espn): Celtics' Stevens cites 'challenging' pat
+[2026-07-08 11:01:34] Неизвестный источник (cnbc): Stock futures are little changed after D
+[2026-07-08 11:01:34] Неизвестный источник (gizmodo.com): ‘Don’t Die’ Guy Bryan Johnson Says He Ha
+[2026-07-08 11:01:34] Неизвестный источник (digitalfoundry.net): "Don't Kill the Disc": Petition Against 
+[2026-07-08 11:01:34] Неизвестный источник (variety): ‘The Odyssey’ First Reactions Are Raves 
+[2026-07-08 11:01:34] Неизвестный источник (macrumors): Apple Intelligence Home Features Require
+[2026-07-08 11:01:34] Неизвестный источник (wabc-tv): NYC's Upper East Side experiencing clust
+[2026-07-08 11:01:34] Неизвестный источник (usni.org): China Tests Submarine-launched Ballistic
+[2026-07-08 11:01:34] Неизвестный источник (wwd): Jonathan Anderson Reveals New Details Ab
+[2026-07-08 11:01:34] Неизвестный источник (wspa 7news): Newly named Clemson president opts to st
+[2026-07-08 11:01:34] Неизвестный источник (pbs): Former officer describes finding a 'snip
+[2026-07-08 11:01:34] Неизвестный источник (9to5google.com): ‘Careless’ Nothing Ear (3a) leak shows v
+[2026-07-08 11:01:34] Неизвестный источник (abcnews.com): Ebola deaths in Congo top 500 as health 
+[2026-07-08 11:01:34] Старая новость (2026-07-06T10:30:00Z): ‘I’m Now Broke’: Meet The Investors Who 
+[2026-07-08 11:01:34] Старая новость (2026-07-06T07:02:01Z): Apple’s iPhone Air 2 Design Just Leaked 
+[2026-07-08 11:01:34] Старая новость (2026-07-05T16:17:08Z): New Quantum Sensor Opens a Window Into t
+[2026-07-08 11:01:34] Мировые новости: найдено 6 после фильтрации
+[2026-07-08 11:01:36] Обрабатываю: Explosions rock Damascus, wounding 18, as French President M
+[2026-07-08 11:01:36] Попытка 1 для: Explosions rock Damascus, wounding 18, a
+[2026-07-08 11:01:38] Успешно, получено 846 символов
+[2026-07-08 11:01:38] Пауза 60 секунд...
+[2026-07-08 11:02:38] Обрабатываю: Democrats begin pulling Platner endorsements after Maine can
+[2026-07-08 11:02:38] Попытка 1 для: Democrats begin pulling Platner endorsem
+[2026-07-08 11:02:39] Успешно, получено 660 символов
+[2026-07-08 11:02:40] Пауза 60 секунд...
+[2026-07-08 11:03:40] Обрабатываю: ‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun r
+[2026-07-08 11:03:40] Попытка 1 для: ‘MAGA agenda on display’: FIFA, Trump sl
+[2026-07-08 11:03:41] Успешно, получено 696 символов
+[2026-07-08 11:03:42] Пауза 60 секунд...
+[2026-07-08 11:04:42] Обрабатываю: Ronaldo says his last World Cup is over but Portugal decisio
+[2026-07-08 11:04:42] Попытка 1 для: Ronaldo says his last World Cup is over 
+[2026-07-08 11:04:43] Успешно, получено 750 символов
+[2026-07-08 11:04:43] === Блок midday завершён ===
