@@ -28877,3 +28877,41 @@ Nithya
 [2026-07-09 08:03:36] Попытка 1 для: T-Mobile Appoints Chris Sambar Chief Ent
 [2026-07-09 08:03:37] Успешно, получено 764 символов
 [2026-07-09 08:03:37] === Блок ai_morning завершён ===
+[2026-07-09 11:01:33] Загружено 2211 уже отправленных новостей
+[2026-07-09 11:01:33] === Запуск блока: midday ===
+[2026-07-09 11:01:33] Неизвестный источник (cnbc): Stock futures are little changed as inve
+[2026-07-09 11:01:33] Неизвестный источник (cnbc): Apple commits $30 billion to Broadcom fo
+[2026-07-09 11:01:33] Неизвестный источник (kprc click2houston): ICE agent shoot, kills undocumented immi
+[2026-07-09 11:01:33] Неизвестный источник (cnbc): Denmark PM vows to defend Greenland afte
+[2026-07-09 11:01:33] Неизвестный источник (fox sports): 2026 World Cup Round Of 16 Power Ranking
+[2026-07-09 11:01:33] Неизвестный источник (9to5google.com): Meta & Ray-Ban glasses rolling out manda
+[2026-07-09 11:01:33] Неизвестный источник (phys.org): NASA's New Horizons spacecraft wakes fro
+[2026-07-09 11:01:33] Неизвестный источник (yahoo entertainment): SpaceX stock now enters the post-honeymo
+[2026-07-09 11:01:33] Неизвестный источник (just jared): Bunnie Xo Spotted Kissing Netflix Realit
+[2026-07-09 11:01:33] Неизвестный источник (zdnet): Samsung unveils Galaxy Z Fold 8 deal for
+[2026-07-09 11:01:33] Неизвестный источник (space.com): James Webb Space Telescope celebrates it
+[2026-07-09 11:01:33] Неизвестный источник (eater): Everything We Know About the Food Served
+[2026-07-09 11:01:33] Неизвестный источник (marketwatch): Dow ends lower, S&P 500 and Nasdaq fall 
+[2026-07-09 11:01:33] Неизвестный источник (orlando sentinel): Federal court strikes down Florida’s Sto
+[2026-07-09 11:01:33] Неизвестный источник (the mercury news): Prince Harry’s ‘crushing’ court loss cou
+[2026-07-09 11:01:33] Неизвестный источник (spacenews): SpaceX launches Transporter-17 amid conc
+[2026-07-09 11:01:33] Неизвестный источник (gamesindustry.biz): "We simply spread ourselves too thin" – 
+[2026-07-09 11:01:33] Старая новость (2026-07-06T22:45:00Z): Scientists just created the most lifelik
+[2026-07-09 11:01:33] Старая новость (2026-07-06T17:30:11Z): The foldable iPhone may be in short supp
+[2026-07-09 11:01:33] Мировые новости: найдено 10 после фильтрации
+[2026-07-09 11:01:36] Обрабатываю: Live updates: Officials ‘confident’ high-rise at risk of par
+[2026-07-09 11:01:36] Попытка 1 для: Live updates: Officials ‘confident’ high
+[2026-07-09 11:01:37] Успешно, получено 654 символов
+[2026-07-09 11:01:37] Пауза 60 секунд...
+[2026-07-09 11:02:37] Обрабатываю: DOJ warns of criminal charges for state election officials i
+[2026-07-09 11:02:37] Попытка 1 для: DOJ warns of criminal charges for state 
+[2026-07-09 11:02:38] Успешно, получено 757 символов
+[2026-07-09 11:02:40] Пауза 60 секунд...
+[2026-07-09 11:03:40] Обрабатываю: Le Pen’s French presidential bid dashes EU hopes for a Melon
+[2026-07-09 11:03:40] Попытка 1 для: Le Pen’s French presidential bid dashes 
+[2026-07-09 11:03:41] Успешно, получено 684 символов
+[2026-07-09 11:03:42] Пауза 60 секунд...
+[2026-07-09 11:04:42] Обрабатываю: Suspect ate Chick-fil-A and interacted with Charlie Kirk sta
+[2026-07-09 11:04:42] Попытка 1 для: Suspect ate Chick-fil-A and interacted w
+[2026-07-09 11:04:42] Успешно, получено 562 символов
+[2026-07-09 11:04:43] === Блок midday завершён ===
