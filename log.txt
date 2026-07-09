@@ -28828,3 +28828,52 @@ Nithya
 [2026-07-09 06:06:56] Попытка 1 для: FG mourns Nigerian medical graduate kill
 [2026-07-09 06:06:58] Успешно, получено 772 символов
 [2026-07-09 06:06:58] === Блок morning завершён ===
+[2026-07-09 08:01:29] Загружено 2208 уже отправленных новостей
+[2026-07-09 08:01:29] === Запуск блока: ai_morning ===
+[2026-07-09 08:01:30] Неизвестный источник (financial post): Temasek Assets Break $400 Billion as AI 
+[2026-07-09 08:01:30] Нет фото: Temasek Open to Gas Investments as Middl
+[2026-07-09 08:01:30] Неизвестный источник (financial post): FPT Releases Global Study on Scaling Ent
+[2026-07-09 08:01:30] Неизвестный источник (ehealthcaresolutions.com): Healthcare Interoperability APIs: New Ma
+[2026-07-09 08:01:30] Неизвестный источник (lewrockwell.com): The US War on Iran Continues
+[2026-07-09 08:01:30] Неизвестный источник (cointelegraph): Secret Network cites AI exploit risks in
+[2026-07-09 08:01:30] Нет фото: mindupload 1.5.3
+[2026-07-09 08:01:30] Неизвестный источник (crypto briefing): Bitmine acquires 40,000 Ethereum for $72
+[2026-07-09 08:01:30] Неизвестный источник (dailymail.com): Mamamia breaks its silence as axed podca
+[2026-07-09 08:01:30] Нет фото: mindupload 1.5.2
+[2026-07-09 08:01:30] Нет фото: mindupload 1.5.1
+[2026-07-09 08:01:30] Нет фото: mindupload added to PyPI
+[2026-07-09 08:01:30] Неизвестный источник (siliconangle news): Meta launches image generation model wit
+[2026-07-09 08:01:30] Неизвестный источник (siliconangle news): Microsoft is reportedly ditching OpenAI’
+[2026-07-09 08:01:30] Неизвестный источник (financial post): Oil Jumps on Iran Attack, Asian Stocks S
+[2026-07-09 08:01:30] Неизвестный источник (siliconangle news): Report: China’s DeepSeek follows OpenAI 
+[2026-07-09 08:01:30] Неизвестный источник (vanguard): Telcables launches sovereign AI infrastr
+[2026-07-09 08:01:30] Неизвестный источник (prnewswire): Federal Agencies and State Gaming Regula
+[2026-07-09 08:01:30] Неизвестный источник (siliconangle news): Amazon launches $25B bond sale to fund A
+[2026-07-09 08:01:30] Неизвестный источник (financial post): News of the day: Trade surplus widens, C
+[2026-07-09 08:01:30] Неизвестный источник (next big future): More Pentagon Satellite Contracts for Sp
+[2026-07-09 08:01:30] Неизвестный источник (financial post): Tech Rout Deepens as Chipmakers Fall; Sp
+[2026-07-09 08:01:30] Заблокированный источник (barchart.com): Stock Indexes Fall as Chip Stocks Sink a
+[2026-07-09 08:01:30] Неизвестный источник (globenewswire): Flyte Partners with LifeVac to Equip Eve
+[2026-07-09 08:01:30] Неизвестный источник (activistpost.com): AI’s Bitcoin Moment: Why the Open-Source
+[2026-07-09 08:01:30] Неизвестный источник (southflbusinessnews.com): South Fl AI Marketing Race: BoardroomPR 
+[2026-07-09 08:01:30] Неизвестный источник (fortune): Palantir CEO Alex Karp is wrong about th
+[2026-07-09 08:01:30] Неизвестный источник (pymnts.com): China Weighs Blocking Foreign Access to 
+[2026-07-09 08:01:30] Нет фото: DIAGNOS to Extend the Exercise Period of
+[2026-07-09 08:01:30] Неизвестный источник (variety): ‘The Sopranos’ Creator David Chase on Ma
+[2026-07-09 08:01:30] Неизвестный источник (financial post): Stalled AI rally has more eyeing old-gua
+[2026-07-09 08:01:30] Неизвестный источник (businessline): Fractal Selected as Preferred Services P
+[2026-07-09 08:01:30] Неизвестный источник (siliconangle news): Anthropic brings Cowork out of the deskt
+[2026-07-09 08:01:30] Неизвестный источник (globenewswire): CCST Launches California AI Science Resi
+[2026-07-09 08:01:30] AI новости: найдено 6 после фильтрации
+[2026-07-09 08:01:32] Обрабатываю: New AI model reveals how neutron star mergers forge heavy el
+[2026-07-09 08:01:32] Попытка 1 для: New AI model reveals how neutron star me
+[2026-07-09 08:01:33] Успешно, получено 847 символов
+[2026-07-09 08:01:34] Пауза 60 секунд...
+[2026-07-09 08:02:34] Обрабатываю: US Stock Market: Starship, AI ambitions fuel bullish Wall St
+[2026-07-09 08:02:34] Попытка 1 для: US Stock Market: Starship, AI ambitions 
+[2026-07-09 08:02:35] Успешно, получено 581 символов
+[2026-07-09 08:02:36] Пауза 60 секунд...
+[2026-07-09 08:03:36] Обрабатываю: T-Mobile Appoints Chris Sambar Chief Enterprise Officer and 
+[2026-07-09 08:03:36] Попытка 1 для: T-Mobile Appoints Chris Sambar Chief Ent
+[2026-07-09 08:03:37] Успешно, получено 764 символов
+[2026-07-09 08:03:37] === Блок ai_morning завершён ===
