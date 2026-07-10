@@ -29135,3 +29135,39 @@ Nithya
 [2026-07-10 08:03:30] Попытка 1 для: Biological aging clocks in health and di
 [2026-07-10 08:03:31] Успешно, получено 610 символов
 [2026-07-10 08:03:32] === Блок ai_morning завершён ===
+[2026-07-10 11:01:24] Загружено 2233 уже отправленных новостей
+[2026-07-10 11:01:24] === Запуск блока: midday ===
+[2026-07-10 11:01:24] Неизвестный источник (cnbc): Ukraine’s drone playbook is wreaking hav
+[2026-07-10 11:01:24] Неизвестный источник (cnbc): S&P 500 futures are little changed as tr
+[2026-07-10 11:01:24] Неизвестный источник (mma mania): Midnight Mania! ‘Innocent Man’ Mac Final
+[2026-07-10 11:01:24] Неизвестный источник (cbs sports): Chicago Cubs vs. Baltimore Orioles Resul
+[2026-07-10 11:01:24] Неизвестный источник (hollywood reporter): Justin Baldoni Breaks Silence on ‘It End
+[2026-07-10 11:01:24] Неизвестный источник (wabc-tv): New York City health officials search fo
+[2026-07-10 11:01:24] Пропускаю уже отправленную: Graham Platner ends U.S. Senate campaign in Maine 
+[2026-07-10 11:01:24] Неизвестный источник (wlky louisville): Norton warns parasitic infection causing
+[2026-07-10 11:01:24] Неизвестный источник (space.com): Watch a SpaceX Falcon 9 rocket launch fo
+[2026-07-10 11:01:24] Неизвестный источник (awful announcing): Landon Donovan: USMNT players, staff, sp
+[2026-07-10 11:01:24] Неизвестный источник (yahoo entertainment): Labor force participation falls to 61.5%
+[2026-07-10 11:01:24] Неизвестный источник (wlwt cincinnati): Kentucky Gov. Beshear asks Mitch McConne
+[2026-07-10 11:01:24] Неизвестный источник (houston public media): Relatives of Houston man fatally shot by
+[2026-07-10 11:01:24] Неизвестный источник (9to5google.com): Gemini on Nest Hub redesigns weather and
+[2026-07-10 11:01:24] Неизвестный источник (internet): Ubiquiti Patches Critical UniFi Flaws Ac
+[2026-07-10 11:01:24] Неизвестный источник (forbes): iPhone 18 Pro And iPhone 18 Pro Max Rele
+[2026-07-10 11:01:24] Старая новость (2026-07-08T07:15:00Z): Astronomers perplexed by new James Webb 
+[2026-07-10 11:01:24] Мировые новости: найдено 13 после фильтрации
+[2026-07-10 11:01:27] Обрабатываю: The actors of ‘The Pitt’ own the Emmy acting categories with
+[2026-07-10 11:01:27] Попытка 1 для: The actors of ‘The Pitt’ own the Emmy ac
+[2026-07-10 11:01:28] Успешно, получено 485 символов
+[2026-07-10 11:01:28] Пауза 60 секунд...
+[2026-07-10 11:02:28] Обрабатываю: Egypt complains officials were biased in World Cup loss to A
+[2026-07-10 11:02:28] Попытка 1 для: Egypt complains officials were biased in
+[2026-07-10 11:02:29] Успешно, получено 560 символов
+[2026-07-10 11:02:30] Пауза 60 секунд...
+[2026-07-10 11:03:30] Обрабатываю: Trump flies partway home from Turkey in an old Air Force One
+[2026-07-10 11:03:30] Попытка 1 для: Trump flies partway home from Turkey in 
+[2026-07-10 11:03:31] Успешно, получено 585 символов
+[2026-07-10 11:03:32] Пауза 60 секунд...
+[2026-07-10 11:04:32] Обрабатываю: Live Updates: U.S., Iran trade more strikes after Trump says
+[2026-07-10 11:04:32] Попытка 1 для: Live Updates: U.S., Iran trade more stri
+[2026-07-10 11:04:33] Успешно, получено 922 символов
+[2026-07-10 11:04:34] === Блок midday завершён ===
