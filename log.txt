@@ -29085,3 +29085,53 @@ Nithya
 [2026-07-10 06:06:38] Попытка 1 для: EMERGENCY Opens Two New Health Clinics i
 [2026-07-10 06:06:39] Успешно, получено 652 символов
 [2026-07-10 06:06:39] === Блок morning завершён ===
+[2026-07-10 08:01:23] Загружено 2230 уже отправленных новостей
+[2026-07-10 08:01:23] === Запуск блока: ai_morning ===
+[2026-07-10 08:01:23] Нет фото: Malaysia Holds Rates on Modest Inflation
+[2026-07-10 08:01:23] Неизвестный источник (prnewswire): Linux Foundation Announces Intent to Lau
+[2026-07-10 08:01:23] Нет фото: mindupload 1.5.6
+[2026-07-10 08:01:23] Нет фото: Thailand Approves $688 Million Investmen
+[2026-07-10 08:01:23] Неизвестный источник (geeky gadgets): Samsung Galaxy Z Fold 8 Wide: Samsung’s 
+[2026-07-10 08:01:23] Неизвестный источник (the conversation africa): How a nationwide Telstra outage rocked t
+[2026-07-10 08:01:23] Неизвестный источник (venturebeat): Anthropic's new "J-lens" reveals a silen
+[2026-07-10 08:01:23] Неизвестный источник (financial post): China’s Reflation Shows Signs of Peaking
+[2026-07-10 08:01:23] Нет фото: mindupload 1.5.5
+[2026-07-10 08:01:23] Неизвестный источник (financial post): China’s Top Solar Firm Makes Switch From
+[2026-07-10 08:01:23] Неизвестный источник (businessnewsthisweek.com): International Workshop on AI-Driven Semi
+[2026-07-10 08:01:23] Неизвестный источник (financial post): China’s Reflation Shows Signs of Peaking
+[2026-07-10 08:01:23] Неизвестный источник (financial post): Recruiters Shift Focus to Specialized AI
+[2026-07-10 08:01:23] Нет фото: mindupload 1.5.4
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): PitchBook: US venture funding hits $412.
+[2026-07-10 08:01:23] Неизвестный источник (prnewswire): Terranean Herbs Strengthens Commitment t
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): Meta reportedly testing prototype AI spe
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): Prime Intellect raises $130M at $1B valu
+[2026-07-10 08:01:23] Нет фото: Insilico Medicine Releases Positive Prof
+[2026-07-10 08:01:23] Неизвестный источник (dailymail.com): Tucker Carlson is building a third party
+[2026-07-10 08:01:23] Неизвестный источник (mercola.com): Study: Anxiety and Depression Drive Glob
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): SpaceXAI’s newest AI model Grok 4.5 dram
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): OpenAI launches GPT-Live voice model ser
+[2026-07-10 08:01:23] Неизвестный источник (digital journal): Meta bets $13 billion on Alberta with fi
+[2026-07-10 08:01:23] Неизвестный источник (snopes.com): Trump-endorsed 'Freedom Fuel' gas statio
+[2026-07-10 08:01:23] Нет фото: Nvidia Rival Positron Holds Talks to Rai
+[2026-07-10 08:01:23] Неизвестный источник (activistpost.com): The Secret History of Polymarket – Part 
+[2026-07-10 08:01:23] Неизвестный источник (us weekly): 'Born This Way' Star Cristina Sanz Dead 
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): Inference chip startup SambaNova valued 
+[2026-07-10 08:01:23] Неизвестный источник (siliconangle news): Solidigm targets the intelligence layer 
+[2026-07-10 08:01:23] Заблокированный источник (barchart.com): PLUG Stock Alert: Plug Power Just Scored
+[2026-07-10 08:01:23] Нет фото: California Chosen for Peak Energy’s Sodi
+[2026-07-10 08:01:23] Неизвестный источник (cryptoslate): BNB Chain makes 1,000,000 TPS moonshot b
+[2026-07-10 08:01:23] Нет фото: Meta to Build First Data Center in Canad
+[2026-07-10 08:01:23] Неизвестный источник (amazon.com): Introducing Claude apps gateway for AWS
+[2026-07-10 08:01:23] AI новости: найдено 5 после фильтрации
+[2026-07-10 08:01:26] Обрабатываю: The Pacific is no longer distant for India
+[2026-07-10 08:01:26] Попытка 1 для: The Pacific is no longer distant for Ind
+[2026-07-10 08:01:27] Успешно, получено 633 символов
+[2026-07-10 08:01:28] Пауза 60 секунд...
+[2026-07-10 08:02:28] Обрабатываю: Graduating without a thesis: meet the people getting ‘practi
+[2026-07-10 08:02:28] Попытка 1 для: Graduating without a thesis: meet the pe
+[2026-07-10 08:02:29] Успешно, получено 998 символов
+[2026-07-10 08:02:30] Пауза 60 секунд...
+[2026-07-10 08:03:30] Обрабатываю: Biological aging clocks in health and disease
+[2026-07-10 08:03:30] Попытка 1 для: Biological aging clocks in health and di
+[2026-07-10 08:03:31] Успешно, получено 610 символов
+[2026-07-10 08:03:32] === Блок ai_morning завершён ===
