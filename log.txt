@@ -29390,3 +29390,39 @@ Nithya
 [2026-07-11 08:03:36] Попытка 1 для: JPC Connectivity June revenue hits a new
 [2026-07-11 08:03:37] Успешно, получено 823 символов
 [2026-07-11 08:03:38] === Блок ai_morning завершён ===
+[2026-07-11 11:01:22] Загружено 2253 уже отправленных новостей
+[2026-07-11 11:01:22] === Запуск блока: midday ===
+[2026-07-11 11:01:22] Неизвестный источник (fox8.com): Ohio counties with cases of diarrhea par
+[2026-07-11 11:01:22] Неизвестный источник (cnbc): Ukraine escalates attacks on tankers nea
+[2026-07-11 11:01:22] Неизвестный источник (yahoo entertainment): Chip giant SK Hynix raises $26.5 billion
+[2026-07-11 11:01:22] Неизвестный источник (the-independent.com): Dwayne Johnson receives career-worst rev
+[2026-07-11 11:01:22] Неизвестный источник (propublica): Trump Pushes Out Remaining Members of Bi
+[2026-07-11 11:01:22] Неизвестный источник (fox news): LA Galaxy coach Greg Vanney says Team US
+[2026-07-11 11:01:22] Неизвестный источник (espn): France's Kylian Mbappé allays any World 
+[2026-07-11 11:01:22] Неизвестный источник (9to5google.com): Google starts rolling out local Document
+[2026-07-11 11:01:22] Заблокированный источник (bleacher report): New LeBron James Rumors on NBA Teams Sen
+[2026-07-11 11:01:22] Неизвестный источник (tech xplore): Birdlike robot swims underwater, then fl
+[2026-07-11 11:01:22] Неизвестный источник (yahoo entertainment): SpaceX stock in focus as launch, Starlin
+[2026-07-11 11:01:22] Неизвестный источник (hollywood reporter): Emmy Predictions via Feinberg Forecast: 
+[2026-07-11 11:01:22] Неизвестный источник (newser): WHO: Global Cancer Cases May Surge Almos
+[2026-07-11 11:01:22] Неизвестный источник (9to5google.com): Samsung shares first official glimpse at
+[2026-07-11 11:01:22] Старая новость (2026-07-09T09:00:05Z): Ancient fossil may reveal animal kingdom
+[2026-07-11 11:01:22] Старая новость (2026-07-09T04:00:01Z): The smell of dark chocolate could make a
+[2026-07-11 11:01:22] Старая новость (2026-07-08T16:39:48Z): Google updates Android Bench with new LL
+[2026-07-11 11:01:22] Мировые новости: найдено 16 после фильтрации
+[2026-07-11 11:01:24] Обрабатываю: Live updates: Iran’s slain leader buried after days of strik
+[2026-07-11 11:01:24] Попытка 1 для: Live updates: Iran’s slain leader buried
+[2026-07-11 11:01:26] Успешно, получено 632 символов
+[2026-07-11 11:01:26] Пауза 60 секунд...
+[2026-07-11 11:02:26] Обрабатываю: Migrants who saw man killed by ICE in Houston say he did not
+[2026-07-11 11:02:26] Попытка 1 для: Migrants who saw man killed by ICE in Ho
+[2026-07-11 11:02:27] Успешно, получено 1057 символов
+[2026-07-11 11:02:28] Пауза 60 секунд...
+[2026-07-11 11:03:28] Обрабатываю: Live Updates: Iran and U.S. ramp up tit-for-tat strikes as K
+[2026-07-11 11:03:28] Попытка 1 для: Live Updates: Iran and U.S. ramp up tit-
+[2026-07-11 11:03:29] Успешно, получено 773 символов
+[2026-07-11 11:03:29] Пауза 60 секунд...
+[2026-07-11 11:04:29] Обрабатываю: Fed chief taps Trump ally Marc Andreessen to advise on how A
+[2026-07-11 11:04:29] Попытка 1 для: Fed chief taps Trump ally Marc Andreesse
+[2026-07-11 11:04:30] Успешно, получено 789 символов
+[2026-07-11 11:04:31] === Блок midday завершён ===
