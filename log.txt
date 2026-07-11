@@ -29480,3 +29480,51 @@ Nithya
 [2026-07-11 16:06:38] Попытка 1 для: 4-0 win against Kharkiv to end training 
 [2026-07-11 16:06:40] Успешно, получено 616 символов
 [2026-07-11 16:06:40] === Блок evening завершён ===
+[2026-07-11 18:01:20] Загружено 2262 уже отправленных новостей
+[2026-07-11 18:01:20] === Запуск блока: ai_evening ===
+[2026-07-11 18:01:20] Неизвестный источник (siliconangle news): Pulling out the AI stops at RAISE Paris
+[2026-07-11 18:01:20] Неизвестный источник (screen rant): 6 New Upcoming Sci-Fi TV Shows Based on 
+[2026-07-11 18:01:20] Неизвестный источник (wccftech): Intel EMIB-T Breaks Past Existing AI & H
+[2026-07-11 18:01:20] Неизвестный источник (macdailynews.com): Apple eyes PrismML to run huge AI models
+[2026-07-11 18:01:20] Нет фото: US Eases Export Curbs on UAE, Opening Do
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Alpha Compute Corp. Completes Wind-Down 
+[2026-07-11 18:01:20] Неизвестный источник (marketbeat): Delta Air Lines Q2 Earnings Call Highlig
+[2026-07-11 18:01:20] Неизвестный источник (atlassian.com): How to automate product workflows with A
+[2026-07-11 18:01:20] Неизвестный источник (pr newswire uk): WYF Launches Global AI Talent Compact at
+[2026-07-11 18:01:20] Неизвестный источник (prnewswire): WYF Launches Global AI Talent Compact at
+[2026-07-11 18:01:20] Неизвестный источник (ergo.org): Computation as a Universal and Fundament
+[2026-07-11 18:01:20] Неизвестный источник (next big future): Technology and Plan for the Next 100K Sp
+[2026-07-11 18:01:20] Неизвестный источник (raspberrypi.org): Empowering global AI literacy: Translati
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Adobe's Strategic Acquisition of Rephras
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Autonomous Vehicle Edge Compute Rig Mark
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): AI in Transportation Market Set to Surge
+[2026-07-11 18:01:20] Неизвестный источник (siliconangle news): AI model mania and the new chip gold rus
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): SourcingGPT Revolutionizes Trade Show So
+[2026-07-11 18:01:20] Неизвестный источник (plos.org): Edge-intelligent safelink-V2X: A low-lat
+[2026-07-11 18:01:20] Неизвестный источник (plos.org): AI-guided identification of natural CTSL
+[2026-07-11 18:01:20] Неизвестный источник (plos.org): Compression therapies for venous leg ulc
+[2026-07-11 18:01:20] Неизвестный источник (businessline): Nita Ambani Announces India-America Heal
+[2026-07-11 18:01:20] Неизвестный источник (financial post): Retail Traders Chase Shiny Objects But R
+[2026-07-11 18:01:20] Неизвестный источник (livemint): JSW Dulux to repopularise Dulux brand ac
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): SEALSQ and Quobly Sign $5 Million Commer
+[2026-07-11 18:01:20] Неизвестный источник (deadline): International Insider: Sky Buys ITV; Ban
+[2026-07-11 18:01:20] Неизвестный источник (yle news): Digital crooks don't take holidays: AI-p
+[2026-07-11 18:01:20] Неизвестный источник (bitcoinfoundation.org): Sentient (SENT) Price Prediction: Can Th
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Silicon Interposer Market Size to Hit US
+[2026-07-11 18:01:20] Неизвестный источник (business insider): Israel is readying its combat-proven Arr
+[2026-07-11 18:01:20] Нет фото: Europe’s Gathering Backlash Against Pala
+[2026-07-11 18:01:20] Неизвестный источник (financial post): Europe’s Earnings Momentum Is Taking Off
+[2026-07-11 18:01:20] Нет фото: Modernizing IBM i Applications
+[2026-07-11 18:01:20] Неизвестный источник (dw (english)): Germany's richest man takes on Big Tech
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Energy and Utilities Analytics Market Re
+[2026-07-11 18:01:20] Неизвестный источник (globenewswire): Cloud Computing Surge Fuels Data Center 
+[2026-07-11 18:01:20] Неизвестный источник (marketbeat): Copart's Incoming CEO Jay Adair Signals 
+[2026-07-11 18:01:20] AI новости: найдено 2 после фильтрации
+[2026-07-11 18:01:23] Обрабатываю: Taliban declares war on smartphones
+[2026-07-11 18:01:23] Попытка 1 для: Taliban declares war on smartphones
+[2026-07-11 18:01:24] Успешно, получено 646 символов
+[2026-07-11 18:01:24] Пауза 60 секунд...
+[2026-07-11 18:02:24] Обрабатываю: Trump grants Kyiv Patriots licences: What’s next in the Russ
+[2026-07-11 18:02:24] Попытка 1 для: Trump grants Kyiv Patriots licences: Wha
+[2026-07-11 18:02:25] Успешно, получено 701 символов
+[2026-07-11 18:02:26] === Блок ai_evening завершён ===
