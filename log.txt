@@ -29341,3 +29341,52 @@ Nithya
 [2026-07-11 06:06:46] Попытка 1 для: 4-0 win against Kharkiv to end training 
 [2026-07-11 06:06:47] Успешно, получено 746 символов
 [2026-07-11 06:06:49] === Блок morning завершён ===
+[2026-07-11 08:01:30] Загружено 2250 уже отправленных новостей
+[2026-07-11 08:01:30] === Запуск блока: ai_morning ===
+[2026-07-11 08:01:31] Неизвестный источник (crypto briefing): European Investment Bank launches €80B i
+[2026-07-11 08:01:31] Неизвестный источник (financial post): Gold Steadies as Traders Weigh Mideast T
+[2026-07-11 08:01:31] Неизвестный источник (inside higher ed): Global Cooperation Needed to Tackle ‘Dis
+[2026-07-11 08:01:31] Нет фото: What would a person with a 500 IQ be lik
+[2026-07-11 08:01:31] Неизвестный источник (insurance journal): Viewpoint: Second-Hand Risk – The Growin
+[2026-07-11 08:01:31] Неизвестный источник (financial post): Adani Flagship Is the Next Big India Pic
+[2026-07-11 08:01:31] Неизвестный источник (siliconangle news): Web data scraping infrastructure startup
+[2026-07-11 08:01:31] Неизвестный источник (globenewswire): CICC Successfully Held the 4th China–Sou
+[2026-07-11 08:01:31] Нет фото: MindRank Announces $52 Million Series B 
+[2026-07-11 08:01:31] Неизвестный источник (siliconangle news): Memory chip giant SK hynix bags $26.5B i
+[2026-07-11 08:01:31] Неизвестный источник (israelnationalnews.com): The trillion-dollar campaign to conquer 
+[2026-07-11 08:01:31] Неизвестный источник (next big future): SpaceX Could Turn Dish’s Abandoned 5G Ne
+[2026-07-11 08:01:31] Нет фото: Efficient bicycle-sharing rebalancing vi
+[2026-07-11 08:01:31] Неизвестный источник (nlppeople.com): Executive Director – Applied Artificial 
+[2026-07-11 08:01:31] Неизвестный источник (new york post): Elon Musk’s plans to colonize space laun
+[2026-07-11 08:01:31] Неизвестный источник (siliconangle news): Mercor buys Deeptune to build training e
+[2026-07-11 08:01:31] Неизвестный источник (cnbc): New Fed task force members share Chairma
+[2026-07-11 08:01:31] Неизвестный источник (yahoo entertainment): Chamath Palihapitiya Says Meta 'Complete
+[2026-07-11 08:01:31] Неизвестный источник (financial post): Asian Stocks Set to Gain After US Chipma
+[2026-07-11 08:01:31] Нет фото: VerticalScope Announces Strategic Invest
+[2026-07-11 08:01:31] Неизвестный источник (decrypt): Avalanche Treasury Firm AVAX One Reclaim
+[2026-07-11 08:01:31] Неизвестный источник (devops.com): IBM and Red Hat Launch Lightwell Catalog
+[2026-07-11 08:01:31] Неизвестный источник (forbes): Meta AI Data Center Linked To Rare Bacte
+[2026-07-11 08:01:31] Неизвестный источник (siliconangle news): AI agent startup Lyzr reportedly raising
+[2026-07-11 08:01:31] Неизвестный источник (new york post): Jeb Bush hails President Trump for decim
+[2026-07-11 08:01:31] Неизвестный источник (pymnts.com): Amazon and Walmart’s AI Shopping Race Is
+[2026-07-11 08:01:31] Неизвестный источник (prnewswire): Genpact Partners with Nestlé Business So
+[2026-07-11 08:01:31] Неизвестный источник (financial post): Saudis eye Canadian assets as investment
+[2026-07-11 08:01:31] Нет фото: Saudis Eye Canada Assets as PIF Accepts 
+[2026-07-11 08:01:31] Неизвестный источник (crypto briefing): Sentinel’s SENT token surges 20% after R
+[2026-07-11 08:01:31] Заблокированный источник (barchart.com): Cloudflare Just Struck a Deal with OpenA
+[2026-07-11 08:01:31] Неизвестный источник (yahoo entertainment): Amazon.com, Inc. (AMZN) Advances Leo Sat
+[2026-07-11 08:01:31] Нет фото: Microsoft’s Emissions Surged 25% in 2025
+[2026-07-11 08:01:31] Неизвестный источник (marketbeat): Bassett Furniture Industries Q2 Earnings
+[2026-07-11 08:01:31] AI новости: найдено 5 после фильтрации
+[2026-07-11 08:01:33] Обрабатываю: With AI, a movie trailer is now just a prompt away
+[2026-07-11 08:01:33] Попытка 1 для: With AI, a movie trailer is now just a p
+[2026-07-11 08:01:34] Успешно, получено 628 символов
+[2026-07-11 08:01:34] Пауза 60 секунд...
+[2026-07-11 08:02:34] Обрабатываю: Cost Satisfaction Up but Rising Demand Puts Enterprise Inter
+[2026-07-11 08:02:34] Попытка 1 для: Cost Satisfaction Up but Rising Demand P
+[2026-07-11 08:02:35] Успешно, получено 960 символов
+[2026-07-11 08:02:36] Пауза 60 секунд...
+[2026-07-11 08:03:36] Обрабатываю: JPC Connectivity June revenue hits a new high on AI data cen
+[2026-07-11 08:03:36] Попытка 1 для: JPC Connectivity June revenue hits a new
+[2026-07-11 08:03:37] Успешно, получено 823 символов
+[2026-07-11 08:03:38] === Блок ai_morning завершён ===
