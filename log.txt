@@ -29634,3 +29634,37 @@ Nithya
 [2026-07-12 08:02:26] Попытка 1 для: Apple files lawsuit accusing ChatGPT mak
 [2026-07-12 08:02:27] Успешно, получено 629 символов
 [2026-07-12 08:02:27] === Блок ai_morning завершён ===
+[2026-07-12 11:01:20] Загружено 2272 уже отправленных новостей
+[2026-07-12 11:01:20] === Запуск блока: midday ===
+[2026-07-12 11:01:20] Неизвестный источник (cnbc): Trump threatens to 'decimate' Iran if it
+[2026-07-12 11:01:20] Неизвестный источник (mlb.com): MLB Pipeline's final mock draft predicti
+[2026-07-12 11:01:20] Неизвестный источник (hello!): Taylor Swift and Travis Kelce's next app
+[2026-07-12 11:01:20] Неизвестный источник (pbs): What we know about death of Nolan Wells,
+[2026-07-12 11:01:20] Неизвестный источник (the comeback): Belgium eliminated from World Cup after 
+[2026-07-12 11:01:20] Неизвестный источник (macrumors): iOS 27: What's New With the Mail App - M
+[2026-07-12 11:01:20] Неизвестный источник (android authority): Pixel 11 Pro Fold FCC listing adds suppo
+[2026-07-12 11:01:20] Неизвестный источник (the texas tribune): Days after fatal ICE shooting, Texas GOP
+[2026-07-12 11:01:20] Неизвестный источник (mashable): OpenAI is shutting down its Atlas web br
+[2026-07-12 11:01:20] Неизвестный источник (kotaku): EB Games Leaves Pokémon Fans Furious Wit
+[2026-07-12 11:01:20] Старая новость (2026-07-10T06:33:38Z): Ebola death toll reaches 600, as new cas
+[2026-07-12 11:01:20] Старая новость (2026-07-09T18:51:09Z): The Pollution Being Churned Out by AI Da
+[2026-07-12 11:01:20] Старая новость (2026-07-09T18:22:00Z): NASA seeks research volunteers to spend 
+[2026-07-12 11:01:20] Старая новость (2026-07-09T18:00:12Z): Birdlike robot swims underwater, then fl
+[2026-07-12 11:01:20] Старая новость (2026-07-09T15:32:25Z): SpaceX stock in focus as launch, Starlin
+[2026-07-12 11:01:20] Мировые новости: найдено 14 после фильтрации
+[2026-07-12 11:01:23] Обрабатываю: Judge vacates convictions of 4 Proud Boys in Jan. 6 Capitol 
+[2026-07-12 11:01:23] Попытка 1 для: Judge vacates convictions of 4 Proud Boy
+[2026-07-12 11:01:24] Успешно, получено 747 символов
+[2026-07-12 11:01:24] Пауза 60 секунд...
+[2026-07-12 11:02:24] Обрабатываю: 15 Indian tourists were killed after a speedboat capsized in
+[2026-07-12 11:02:24] Попытка 1 для: 15 Indian tourists were killed after a s
+[2026-07-12 11:02:25] Успешно, получено 794 символов
+[2026-07-12 11:02:26] Пауза 60 секунд...
+[2026-07-12 11:03:26] Обрабатываю: A bin, two foxes and a mystic: the candidates fighting Clact
+[2026-07-12 11:03:26] Попытка 1 для: A bin, two foxes and a mystic: the candi
+[2026-07-12 11:03:27] Успешно, получено 567 символов
+[2026-07-12 11:03:27] Пауза 60 секунд...
+[2026-07-12 11:04:27] Обрабатываю: Randolph Mantooth, who played medic in NBC’s ‘Emergency!’, d
+[2026-07-12 11:04:27] Попытка 1 для: Randolph Mantooth, who played medic in N
+[2026-07-12 11:04:29] Успешно, получено 773 символов
+[2026-07-12 11:04:29] === Блок midday завершён ===
