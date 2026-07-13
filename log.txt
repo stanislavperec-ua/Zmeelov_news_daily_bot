@@ -29829,3 +29829,30 @@ Nithya
 [2026-07-13 06:05:45] Попытка 1 для: Gas queues grow as Ukraine targets Russi
 [2026-07-13 06:05:46] Успешно, получено 647 символов
 [2026-07-13 06:05:47] === Блок morning завершён ===
+[2026-07-13 08:01:26] Загружено 2290 уже отправленных новостей
+[2026-07-13 08:01:26] === Запуск блока: ai_morning ===
+[2026-07-13 08:01:26] Неизвестный источник (thejournal.ie): Sitdown Sunday: The strange story behind
+[2026-07-13 08:01:26] Неизвестный источник (venkateshrao.com): A Tale of Two Theories (of Coordination)
+[2026-07-13 08:01:26] Неизвестный источник (vanguard): When Dead SIMs Died: How the NCC clean-u
+[2026-07-13 08:01:26] Неизвестный источник (github.com): Show HN: Levee – a self-tuning circuit b
+[2026-07-13 08:01:26] Нет фото: Physics-informed-GPR data augmentation f
+[2026-07-13 08:01:26] Неизвестный источник (bleeding cool news): Dark Knights of Steel II #1 Preview: Med
+[2026-07-13 08:01:26] Неизвестный источник (truthout): NextEra’s Acquisition of Dominion Energy
+[2026-07-13 08:01:26] Неизвестный источник (marketbeat): Veritone Maps AI Growth Push as Oracle P
+[2026-07-13 08:01:26] Неизвестный источник (israelnationalnews.com): The Rafah Sandbox: The Peace Council Pla
+[2026-07-13 08:01:26] Неизвестный источник (siliconangle news): What Is sovereign AI — and why it will d
+[2026-07-13 08:01:26] Неизвестный источник (refractor.io): Why evolution doesn't want you to sleep 
+[2026-07-13 08:01:26] Неизвестный источник (oilprice.com): Can Europe Beat the Heat Without More Ai
+[2026-07-13 08:01:26] Неизвестный источник (bleeding cool news): Batwoman #5 Preview: Kate Volunteers as 
+[2026-07-13 08:01:26] Неизвестный источник (mother jones): Dam Removals Helped Bring About a Stunni
+[2026-07-13 08:01:26] Неизвестный источник (financial post): Airlines are filling planes with passeng
+[2026-07-13 08:01:26] Неизвестный источник (antaranews.com): Indonesia urges culture-centered digital
+[2026-07-13 08:01:26] AI новости: найдено 2 после фильтрации
+[2026-07-13 08:01:28] Обрабатываю: Tripura signs Google, Salesforce MoUs at business conclave
+[2026-07-13 08:01:28] Попытка 1 для: Tripura signs Google, Salesforce MoUs at
+[2026-07-13 08:01:30] Успешно, получено 711 символов
+[2026-07-13 08:01:30] Пауза 60 секунд...
+[2026-07-13 08:02:30] Обрабатываю: Karnataka CM Shivakumar warns police against 'deals', warns 
+[2026-07-13 08:02:30] Попытка 1 для: Karnataka CM Shivakumar warns police aga
+[2026-07-13 08:02:31] Успешно, получено 882 символов
+[2026-07-13 08:02:31] === Блок ai_morning завершён ===
