@@ -29960,3 +29960,25 @@ Nithya
 [2026-07-13 16:06:51] Попытка 1 для: Calling for help! Britain's mobile phone
 [2026-07-13 16:06:52] Успешно, получено 984 символов
 [2026-07-13 16:06:52] === Блок evening завершён ===
+[2026-07-13 18:01:30] Загружено 2301 уже отправленных новостей
+[2026-07-13 18:01:30] === Запуск блока: ai_evening ===
+[2026-07-13 18:01:30] Неизвестный источник (globenewswire): QAIAx Clinical Trial: AGI Alternative Se
+[2026-07-13 18:01:30] Неизвестный источник (thestrategystory.com): CVS Health Business Model: How CVS Healt
+[2026-07-13 18:01:30] Неизвестный источник (siliconangle news): Faith Tech: Pat Gelsinger steers Gloo’s 
+[2026-07-13 18:01:30] Неизвестный источник (thestreet): Spectrum makes significant decision as c
+[2026-07-13 18:01:30] Неизвестный источник (businessline): Airtel remains a reliable, privileged pa
+[2026-07-13 18:01:30] Неизвестный источник (uxdesign.cc): Did you verify that — or was it just too
+[2026-07-13 18:01:30] Неизвестный источник (thejournal.ie): Sitdown Sunday: The strange story behind
+[2026-07-13 18:01:30] Неизвестный источник (venkateshrao.com): A Tale of Two Theories (of Coordination)
+[2026-07-13 18:01:30] Неизвестный источник (vanguard): When Dead SIMs Died: How the NCC clean-u
+[2026-07-13 18:01:30] Неизвестный источник (github.com): Show HN: Levee – a self-tuning circuit b
+[2026-07-13 18:01:30] Нет фото: Physics-informed-GPR data augmentation f
+[2026-07-13 18:01:30] Неизвестный источник (bleeding cool news): Dark Knights of Steel II #1 Preview: Med
+[2026-07-13 18:01:30] Неизвестный источник (truthout): NextEra’s Acquisition of Dominion Energy
+[2026-07-13 18:01:30] Неизвестный источник (marketbeat): Veritone Maps AI Growth Push as Oracle P
+[2026-07-13 18:01:30] Неизвестный источник (israelnationalnews.com): The Rafah Sandbox: The Peace Council Pla
+[2026-07-13 18:01:30] AI новости: найдено 1 после фильтрации
+[2026-07-13 18:01:32] Обрабатываю: Apple sues OpenAI after ex-engineer's 'LOL, I found out I ca
+[2026-07-13 18:01:32] Попытка 1 для: Apple sues OpenAI after ex-engineer's 'L
+[2026-07-13 18:01:34] Успешно, получено 787 символов
+[2026-07-13 18:01:34] === Блок ai_evening завершён ===
