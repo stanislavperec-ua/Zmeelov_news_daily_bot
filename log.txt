@@ -30041,3 +30041,42 @@ Nithya
 [2026-07-14 06:06:40] Попытка 1 для: Calling for help! Britain's mobile phone
 [2026-07-14 06:06:41] Успешно, получено 564 символов
 [2026-07-14 06:06:41] === Блок morning завершён ===
+[2026-07-14 08:01:26] Загружено 2308 уже отправленных новостей
+[2026-07-14 08:01:26] === Запуск блока: ai_morning ===
+[2026-07-14 08:01:26] Неизвестный источник (globenewswire): PANIM Emerges from Stealth to Build Dist
+[2026-07-14 08:01:26] Нет фото: Goldman Backs Drone Startup Helsing at $
+[2026-07-14 08:01:26] Неизвестный источник (undercodetesting.com): AI-Powered Digital Marketing: The Cybers
+[2026-07-14 08:01:26] Неизвестный источник (protothema.gr): Tourism heads for a record, Tsipras… swi
+[2026-07-14 08:01:26] Заблокированный источник (naturalnews.com): How to Survive the AI Human Exterminatio
+[2026-07-14 08:01:26] Неизвестный источник (c-sharpcorner.com): How to Build Local-First AI Applications
+[2026-07-14 08:01:26] Неизвестный источник (archdaily): Belonging to the Earth: Architecture in 
+[2026-07-14 08:01:26] Нет фото: Deepening Collaboration in AI-Powered R&
+[2026-07-14 08:01:26] Неизвестный источник (vanguard): Bridge Leadership Foundation marks 15 ye
+[2026-07-14 08:01:26] Неизвестный источник (pymnts.com): Musk and Altman Sling Scam Accusations F
+[2026-07-14 08:01:26] Нет фото: Author Correction: The STARD-AI reportin
+[2026-07-14 08:01:26] Неизвестный источник (bleeding cool news): New Titans #37 Preview: Cyborg's Trust I
+[2026-07-14 08:01:26] Неизвестный источник (landezine.com): They Were Always About Landscape. Shifti
+[2026-07-14 08:01:26] Неизвестный источник (financial post): 7-Eleven Owner Drops Go-It-Alone Strateg
+[2026-07-14 08:01:26] Неизвестный источник (financial post): 7-Eleven owner drops go-it-alone strateg
+[2026-07-14 08:01:26] Заблокированный источник (barchart.com): The U.S. Is Considering Removing Steerin
+[2026-07-14 08:01:26] Неизвестный источник (digital journal): AI gets a ‘cerebellum’: Brain-inspired e
+[2026-07-14 08:01:26] Неизвестный источник (bleeding cool news): Lobo #5 Preview: The Main Man's Comeback
+[2026-07-14 08:01:26] Неизвестный источник (globenewswire): QAIAx Clinical Trial: AGI Alternative Se
+[2026-07-14 08:01:26] Неизвестный источник (thestrategystory.com): CVS Health Business Model: How CVS Healt
+[2026-07-14 08:01:26] Неизвестный источник (siliconangle news): Faith Tech: Pat Gelsinger steers Gloo’s 
+[2026-07-14 08:01:26] Неизвестный источник (thestreet): Spectrum makes significant decision as c
+[2026-07-14 08:01:26] Неизвестный источник (businessline): Airtel remains a reliable, privileged pa
+[2026-07-14 08:01:26] Неизвестный источник (uxdesign.cc): Did you verify that — or was it just too
+[2026-07-14 08:01:26] AI новости: найдено 3 после фильтрации
+[2026-07-14 08:01:28] Обрабатываю: TCS, HCL Tech, Infosys, other IT stocks rally up to 6%, Nift
+[2026-07-14 08:01:28] Попытка 1 для: TCS, HCL Tech, Infosys, other IT stocks 
+[2026-07-14 08:01:30] Успешно, получено 705 символов
+[2026-07-14 08:01:30] Пауза 60 секунд...
+[2026-07-14 08:02:30] Обрабатываю: UBS initiates coverage on CarTrade Tech with Buy rating, see
+[2026-07-14 08:02:30] Попытка 1 для: UBS initiates coverage on CarTrade Tech 
+[2026-07-14 08:02:32] Успешно, получено 757 символов
+[2026-07-14 08:02:33] Пауза 60 секунд...
+[2026-07-14 08:03:33] Обрабатываю: Apple sues OpenAI after ex-engineer's 'LOL, I found out I ca
+[2026-07-14 08:03:33] Попытка 1 для: Apple sues OpenAI after ex-engineer's 'L
+[2026-07-14 08:03:34] Успешно, получено 643 символов
+[2026-07-14 08:03:34] === Блок ai_morning завершён ===
