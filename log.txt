@@ -29982,3 +29982,62 @@ Nithya
 [2026-07-13 18:01:32] Попытка 1 для: Apple sues OpenAI after ex-engineer's 'L
 [2026-07-13 18:01:34] Успешно, получено 787 символов
 [2026-07-13 18:01:34] === Блок ai_evening завершён ===
+[2026-07-14 06:01:26] Загружено 2302 уже отправленных новостей
+[2026-07-14 06:01:26] === Запуск блока: morning ===
+[2026-07-14 06:01:26] Неизвестный источник (deadline): Sam Neill Dead; Jurassic Park Actor Was 
+[2026-07-14 06:01:26] Неизвестный источник (tennessean): NASCAR Cup Series race at Atlanta restar
+[2026-07-14 06:01:26] Неизвестный источник (cnbc): Stock futures slip after U.S., Iran exch
+[2026-07-14 06:01:26] Неизвестный источник (wabc-tv): Security breach causes chaos, delays sta
+[2026-07-14 06:01:26] Неизвестный источник (hollywood reporter): Stephen Chow’s ‘Kung Fu Soccer’ Kicks Of
+[2026-07-14 06:01:26] Неизвестный источник (wmur manchester): What to know: Two cases of cyclosporiasi
+[2026-07-14 06:01:26] Неизвестный источник (variety): ‘Love Island USA’ Season 8 Crowns Its Wi
+[2026-07-14 06:01:26] Неизвестный источник (forbes): iPhone 18 Pro Release Date: Apple’s Stra
+[2026-07-14 06:01:26] Неизвестный источник (space daily): Scientists examining samples returned fr
+[2026-07-14 06:01:26] Неизвестный источник (espn): How Jannik Sinner won Wimbledon -- and t
+[2026-07-14 06:01:26] Неизвестный источник (cnbc): Federal monitor says UAW head Shawn Fain
+[2026-07-14 06:01:26] Неизвестный источник (ktla los angeles): Southern California company wants to bri
+[2026-07-14 06:01:26] Неизвестный источник (bostonsportsjournal.com): MLB Notebook: Red Sox’ bold draft, Brody
+[2026-07-14 06:01:26] Неизвестный источник (macrumors): Apple's M7 Ultra Chip Designed to Match 
+[2026-07-14 06:01:26] Неизвестный источник (phys.org): Gravitational waves reveal hidden popula
+[2026-07-14 06:01:26] Неизвестный источник (yahoo entertainment): A Trump Account could make your kid a mi
+[2026-07-14 06:01:26] Старая новость (2026-07-11T23:21:44Z): Guggenheim Museum among NYC buildings th
+[2026-07-14 06:01:26] Старая новость (2026-07-11T23:20:23Z): Another US citizen tests positive for Eb
+[2026-07-14 06:01:26] Мировые новости: найдено 11 после фильтрации
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Why the Death of Lindsey Graham Is Celeb
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Russia Bans Diesel Exports Following Ukr
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Zakharova Rejects Zelenskyâs Claims on
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Ukraine Unlikely to Produce Patriot Miss
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Russia subverts sanctions by acquiring m
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Ankara Declaration Signals Shift to NATO
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): Russia’s Massive Strike on Gas Wells is 
+[2026-07-14 06:01:26] Заблокированный источник (naturalnews.com): NATO Summit in Ankara Launches Multiple 
+[2026-07-14 06:01:26] Нет фото: US bought 2000 F-Drones F10 attack UAVs 
+[2026-07-14 06:01:26] Украинские новости: найдено 9 после фильтрации
+[2026-07-14 06:01:26] Харьков: найдена новость — Calling for help! Britain's mobile phone signal wo
+[2026-07-14 06:01:29] Обрабатываю: US ends latest round of airstrikes on Iran after Tehran stri
+[2026-07-14 06:01:29] Попытка 1 для: US ends latest round of airstrikes on Ir
+[2026-07-14 06:01:30] Успешно, получено 800 символов
+[2026-07-14 06:01:30] Пауза 60 секунд...
+[2026-07-14 06:02:30] Обрабатываю: July 12, 2026 — US launches strikes on Iran for a second nig
+[2026-07-14 06:02:30] Попытка 1 для: July 12, 2026 — US launches strikes on I
+[2026-07-14 06:02:31] Успешно, получено 583 символов
+[2026-07-14 06:02:32] Пауза 60 секунд...
+[2026-07-14 06:03:32] Обрабатываю: Oil prices jump as US and Iran trade attacks over Strait of 
+[2026-07-14 06:03:32] Попытка 1 для: Oil prices jump as US and Iran trade att
+[2026-07-14 06:03:33] Успешно, получено 676 символов
+[2026-07-14 06:03:33] Пауза 60 секунд...
+[2026-07-14 06:04:33] Обрабатываю: Want to own a real T. rex? It could cost you $30 million
+[2026-07-14 06:04:33] Попытка 1 для: Want to own a real T. rex? It could cost
+[2026-07-14 06:04:34] Успешно, получено 546 символов
+[2026-07-14 06:04:37] Обрабатываю: Russia launches drone barrage across Ukraine, hitting key re
+[2026-07-14 06:04:37] Попытка 1 для: Russia launches drone barrage across Ukr
+[2026-07-14 06:04:38] Успешно, получено 716 символов
+[2026-07-14 06:04:38] Пауза 60 секунд...
+[2026-07-14 06:05:38] Обрабатываю: Western allies to meet in Paris for Ukraine air-defense comm
+[2026-07-14 06:05:38] Попытка 1 для: Western allies to meet in Paris for Ukra
+[2026-07-14 06:05:39] Успешно, получено 624 символов
+[2026-07-14 06:05:40] Пауза 60 секунд...
+[2026-07-14 06:06:40] Обрабатываю: Calling for help! Britain's mobile phone signal worse than K
+[2026-07-14 06:06:40] Попытка 1 для: Calling for help! Britain's mobile phone
+[2026-07-14 06:06:41] Успешно, получено 564 символов
+[2026-07-14 06:06:41] === Блок morning завершён ===
