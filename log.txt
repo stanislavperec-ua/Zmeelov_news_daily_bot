@@ -30080,3 +30080,38 @@ Nithya
 [2026-07-14 08:03:33] Попытка 1 для: Apple sues OpenAI after ex-engineer's 'L
 [2026-07-14 08:03:34] Успешно, получено 643 символов
 [2026-07-14 08:03:34] === Блок ai_morning завершён ===
+[2026-07-14 11:01:26] Загружено 2310 уже отправленных новостей
+[2026-07-14 11:01:26] === Запуск блока: midday ===
+[2026-07-14 11:01:27] Неизвестный источник (hollywood reporter): Jay-Z Addresses Three-Hour Delay at Yank
+[2026-07-14 11:01:27] Неизвестный источник (cnbc): Europe's Anduril rival Helsing raises $1
+[2026-07-14 11:01:27] Неизвестный источник (cnbc): U.S. and Iran exchange strikes as Strait
+[2026-07-14 11:01:27] Неизвестный источник (espn): Fever beat Aces again as Caitlin Clark s
+[2026-07-14 11:01:27] Неизвестный источник (android authority): Pixel 11 Pro Fold leak shows off Google'
+[2026-07-14 11:01:27] Неизвестный источник (wmur manchester): What to know: Two cases of cyclosporiasi
+[2026-07-14 11:01:27] Неизвестный источник (variety): ‘Love Island USA’ Season 8 Crowns Its Wi
+[2026-07-14 11:01:27] Неизвестный источник (france 24 english): Fontainebleau forest near Paris hit by '
+[2026-07-14 11:01:27] Неизвестный источник (forbes): iPhone 18 Pro Release Date: Apple’s Stra
+[2026-07-14 11:01:27] Неизвестный источник (space daily): Scientists examining samples returned fr
+[2026-07-14 11:01:27] Заблокированный источник (bleacher report): Conor McGregor's Knee Was 'Never an Issu
+[2026-07-14 11:01:27] Неизвестный источник (sports illustrated): 50 Parting Thoughts From 2026 Wimbledon 
+[2026-07-14 11:01:27] Неизвестный источник (ktla los angeles): Southern California company wants to bri
+[2026-07-14 11:01:27] Неизвестный источник (forbes): Live Action ‘Moana’ Disappoints With $43
+[2026-07-14 11:01:27] Неизвестный источник (phys.org): Self‑building molecular rings bring next
+[2026-07-14 11:01:27] Старая новость (2026-07-12T01:55:37Z): Windows 11 Copilot now tells you what’s 
+[2026-07-14 11:01:27] Мировые новости: найдено 15 после фильтрации
+[2026-07-14 11:01:29] Обрабатываю: Sam Neill, actor known for ‘Jurassic Park,’ dies at 78
+[2026-07-14 11:01:29] Попытка 1 для: Sam Neill, actor known for ‘Jurassic Par
+[2026-07-14 11:01:30] Успешно, получено 607 символов
+[2026-07-14 11:01:31] Пауза 60 секунд...
+[2026-07-14 11:02:31] Обрабатываю: Oil prices jump and world shares are mixed as US and Iran ca
+[2026-07-14 11:02:31] Попытка 1 для: Oil prices jump and world shares are mix
+[2026-07-14 11:02:32] Успешно, получено 752 символов
+[2026-07-14 11:02:33] Пауза 60 секунд...
+[2026-07-14 11:03:33] Обрабатываю: 'Once it's gone, it's gone': How to future-proof your hearin
+[2026-07-14 11:03:33] Попытка 1 для: 'Once it's gone, it's gone': How to futu
+[2026-07-14 11:03:34] Успешно, получено 695 символов
+[2026-07-14 11:03:34] Пауза 60 секунд...
+[2026-07-14 11:04:34] Обрабатываю: US and Iran vie for Strait of Hormuz, waterway key to global
+[2026-07-14 11:04:34] Попытка 1 для: US and Iran vie for Strait of Hormuz, wa
+[2026-07-14 11:04:36] Успешно, получено 793 символов
+[2026-07-14 11:04:36] === Блок midday завершён ===
