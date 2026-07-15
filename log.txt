@@ -30264,3 +30264,55 @@ Nithya
 [2026-07-15 06:05:44] Попытка 1 для: European troops join Paris Bastille Day 
 [2026-07-15 06:05:46] Успешно, получено 808 символов
 [2026-07-15 06:05:46] === Блок morning завершён ===
+[2026-07-15 08:01:30] Загружено 2327 уже отправленных новостей
+[2026-07-15 08:01:30] === Запуск блока: ai_morning ===
+[2026-07-15 08:01:30] Неизвестный источник (the next web): Nvidia builds a white list: more than ha
+[2026-07-15 08:01:30] Неизвестный источник (antaranews.com): Navigating AI bubble: Balancing innovati
+[2026-07-15 08:01:30] Неизвестный источник (inside higher ed): Western Governors President on the State
+[2026-07-15 08:01:30] Неизвестный источник (financial post): Europe Set for Strongest Earnings Growth
+[2026-07-15 08:01:30] Нет фото: London Startup Acquires Dutch Competitor
+[2026-07-15 08:01:30] Неизвестный источник (prnewswire): TCS Becomes Technology and Innovation Pa
+[2026-07-15 08:01:30] Неизвестный источник (radaronline.com): Astrotourism in the UAE: Where Ancient H
+[2026-07-15 08:01:30] Нет фото: How do male birds fertilize eggs?
+[2026-07-15 08:01:30] Неизвестный источник (prnewswire): Robo.ai Announces Core Executive Appoint
+[2026-07-15 08:01:30] Неизвестный источник (prnewswire): Robo.ai Announces Core Executive Appoint
+[2026-07-15 08:01:30] Нет фото: China’s Green-Tech Exports Surge on Ener
+[2026-07-15 08:01:30] Нет фото: Pure DC Building Finland AI Data Center,
+[2026-07-15 08:01:30] Неизвестный источник (healthinsurance.org): Can AI help you shop for health insuranc
+[2026-07-15 08:01:30] Неизвестный источник (lewrockwell.com): While the Political Circus Distracts Us,
+[2026-07-15 08:01:30] Неизвестный источник (americanthinker.com): Belgium's Car Toll Desperation Move
+[2026-07-15 08:01:30] Неизвестный источник (mit.edu): MIT engineers find a precise way to grow
+[2026-07-15 08:01:30] Неизвестный источник (financial post): South Korea Turns More Bullish on Econom
+[2026-07-15 08:01:30] Неизвестный источник (carnegie mellon university): A Guide to the Convergence of Electronic
+[2026-07-15 08:01:30] Неизвестный источник (globenewswire): Nokia and Taiwan Mobile extend 5G partne
+[2026-07-15 08:01:30] Неизвестный источник (siliconangle news): Meta boosts investment in Hyperion data 
+[2026-07-15 08:01:30] Неизвестный источник (financial post): Singapore’s Economic Growth Slows to 5.7
+[2026-07-15 08:01:30] Неизвестный источник (bleeding cool news): Star Wars: Galaxy's Edge – Echoes of the
+[2026-07-15 08:01:30] Нет фото: Must Read 26.03: Jennifer Burns - Does P
+[2026-07-15 08:01:30] Неизвестный источник (siliconangle news): Spatial AI startup Augmodo raises $21M t
+[2026-07-15 08:01:30] Неизвестный источник (financial post): Oil Holds Gains as Iran Stokes Inflation
+[2026-07-15 08:01:30] Неизвестный источник (motley fool australia): 3 ASX ETFs with strong long-term growth 
+[2026-07-15 08:01:30] Неизвестный источник (amazon.com): OpenAI GPT-5.6 Sol, Terra, and Luna are 
+[2026-07-15 08:01:30] Неизвестный источник (siliconangle news): Prominent economists, tech executives ca
+[2026-07-15 08:01:30] Неизвестный источник (the conversation africa): An AI lab says chatbots have what may be
+[2026-07-15 08:01:30] Неизвестный источник (mit.edu): How MIT students are helping to prevent 
+[2026-07-15 08:01:30] Неизвестный источник (the punch): Customs auction 20,500 litres of petrol 
+[2026-07-15 08:01:30] Неизвестный источник (rutlandherald.com): AP Technology SummaryBrief at 10:16 a.m.
+[2026-07-15 08:01:30] Неизвестный источник (financial post): RBC expands credit derivatives trading a
+[2026-07-15 08:01:30] Неизвестный источник (financial post): RBC Expands Credit Derivatives Trading a
+[2026-07-15 08:01:30] Нет фото: Coffee Break: Will the Trump Admin Make 
+[2026-07-15 08:01:30] Нет фото: Brightspeed Business launches 8 Gbps fib
+[2026-07-15 08:01:30] Нет фото: Sunrun Offers Solar Users Hundreds Per M
+[2026-07-15 08:01:30] AI новости: найдено 3 после фильтрации
+[2026-07-15 08:01:33] Обрабатываю: Spy agency warns active Russian hackers targeting Australian
+[2026-07-15 08:01:33] Попытка 1 для: Spy agency warns active Russian hackers 
+[2026-07-15 08:01:34] Успешно, получено 815 символов
+[2026-07-15 08:01:35] Пауза 60 секунд...
+[2026-07-15 08:02:35] Обрабатываю: TCS’ annualised AI revenue rises to $2.6 billion in Q1
+[2026-07-15 08:02:35] Попытка 1 для: TCS’ annualised AI revenue rises to $2.6
+[2026-07-15 08:02:36] Успешно, получено 794 символов
+[2026-07-15 08:02:37] Пауза 60 секунд...
+[2026-07-15 08:03:37] Обрабатываю: TCS dividend alert! Last day to buy IT bellwether's stocks f
+[2026-07-15 08:03:37] Попытка 1 для: TCS dividend alert! Last day to buy IT b
+[2026-07-15 08:03:38] Успешно, получено 839 символов
+[2026-07-15 08:03:38] === Блок ai_morning завершён ===
