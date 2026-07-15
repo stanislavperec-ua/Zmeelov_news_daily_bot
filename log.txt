@@ -30217,3 +30217,50 @@ Nithya
 [2026-07-14 18:02:36] Попытка 1 для: Intel to invest €5bn in Leixlip campus
 [2026-07-14 18:02:37] Успешно, получено 733 символов
 [2026-07-14 18:02:38] === Блок ai_evening завершён ===
+[2026-07-15 06:01:30] Загружено 2321 уже отправленных новостей
+[2026-07-15 06:01:30] === Запуск блока: morning ===
+[2026-07-15 06:01:31] Неизвестный источник (yahoo entertainment): 2026 MLB Home Run Derby live updates: Br
+[2026-07-15 06:01:31] Неизвестный источник (the detroit news): Parasitic outbreak of cyclosporiasis lin
+[2026-07-15 06:01:31] Неизвестный источник (usa today): Musicians, DJ among 10 dead after plane 
+[2026-07-15 06:01:31] Неизвестный источник (kcra sacramento): California, 11 other states sue to block
+[2026-07-15 06:01:31] Неизвестный источник (deadline): Global Box Office: 'Moana' No Waves at $
+[2026-07-15 06:01:31] Неизвестный источник (salt lake tribune): President Trump drastically shrinks Gran
+[2026-07-15 06:01:31] Неизвестный источник (gizmodo.com): Archaeologists Just Found the Earliest K
+[2026-07-15 06:01:31] Неизвестный источник (pgatour.com): Power Rankings: British Open 2026 - PGA 
+[2026-07-15 06:01:31] Неизвестный источник (business insider): First Microsoft, now Apple: Why do OpenA
+[2026-07-15 06:01:31] Неизвестный источник (forbes): Ellison Falls Behind Nvidia’s Huang As E
+[2026-07-15 06:01:31] Неизвестный источник (new york post): Latest NYC Legionnaires’ disease outbrea
+[2026-07-15 06:01:31] Неизвестный источник (hollywood reporter): Jay-Z Yankee Stadium Concert Security Br
+[2026-07-15 06:01:31] Неизвестный источник (windows central): Microsoft unveils major Windows 11 searc
+[2026-07-15 06:01:31] Неизвестный источник (techpowerup.com): Apple M7 Ultra Chip Planned With Up to 1
+[2026-07-15 06:01:31] Мировые новости: найдено 16 после фильтрации
+[2026-07-15 06:01:31] Заблокированный источник (naturalnews.com): Volyn Massacre: Ukrainian Nationalist Fo
+[2026-07-15 06:01:31] Заблокированный источник (naturalnews.com): Carlson: The world uses dollars by choic
+[2026-07-15 06:01:31] Нет фото: Welder miraculously walks away after car
+[2026-07-15 06:01:31] Украинские новости: найдено 6 после фильтрации
+[2026-07-15 06:01:31] Нет фото: Today's top news: El Niño, Venezuela, Oc
+[2026-07-15 06:01:31] Заблокированный источник (sputnikglobe.com): Grave Robbing a ‘European Value’: Russia
+[2026-07-15 06:01:31] Харьков: новостей не найдено
+[2026-07-15 06:01:34] Обрабатываю: US, Iran exchange attacks around Strait of Hormuz
+[2026-07-15 06:01:34] Попытка 1 для: US, Iran exchange attacks around Strait 
+[2026-07-15 06:01:35] Успешно, получено 485 символов
+[2026-07-15 06:01:35] Пауза 60 секунд...
+[2026-07-15 06:02:35] Обрабатываю: U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran s
+[2026-07-15 06:02:35] Попытка 1 для: U.S.-Iran Latest: U.S. wraps up 3rd stra
+[2026-07-15 06:02:36] Успешно, получено 737 символов
+[2026-07-15 06:02:37] Пауза 60 секунд...
+[2026-07-15 06:03:37] Обрабатываю: US Mexican food chain Chipotle to open first restaurant in M
+[2026-07-15 06:03:37] Попытка 1 для: US Mexican food chain Chipotle to open f
+[2026-07-15 06:03:38] Успешно, получено 771 символов
+[2026-07-15 06:03:39] Пауза 60 секунд...
+[2026-07-15 06:04:39] Обрабатываю: Live updates: ICE-involved shooting in Maine kills one perso
+[2026-07-15 06:04:39] Попытка 1 для: Live updates: ICE-involved shooting in M
+[2026-07-15 06:04:40] Успешно, получено 591 символов
+[2026-07-15 06:04:43] Обрабатываю: EAM Jaishankar discusses global developments, including West
+[2026-07-15 06:04:43] Попытка 1 для: EAM Jaishankar discusses global developm
+[2026-07-15 06:04:44] Успешно, получено 774 символов
+[2026-07-15 06:04:44] Пауза 60 секунд...
+[2026-07-15 06:05:44] Обрабатываю: European troops join Paris Bastille Day parade in show of un
+[2026-07-15 06:05:44] Попытка 1 для: European troops join Paris Bastille Day 
+[2026-07-15 06:05:46] Успешно, получено 808 символов
+[2026-07-15 06:05:46] === Блок morning завершён ===
