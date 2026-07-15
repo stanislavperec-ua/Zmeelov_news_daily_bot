@@ -30404,3 +30404,49 @@ Nithya
 [2026-07-15 16:05:56] Попытка 1 для: Ukraine PM resigns as Zelensky orders re
 [2026-07-15 16:05:57] Успешно, получено 870 символов
 [2026-07-15 16:05:58] === Блок evening завершён ===
+[2026-07-15 18:01:35] Загружено 2340 уже отправленных новостей
+[2026-07-15 18:01:35] === Запуск блока: ai_evening ===
+[2026-07-15 18:01:36] Неизвестный источник (financial post): European Stocks Climb After Data Show US
+[2026-07-15 18:01:36] Неизвестный источник (financial post): AI investment race could turn debt-fuell
+[2026-07-15 18:01:36] Нет фото: XRP Power Launches Advanced AI-Driven Pl
+[2026-07-15 18:01:36] Неизвестный источник (siliconangle news): Concho AI turns enterprise codebases int
+[2026-07-15 18:01:36] Неизвестный источник (siliconangle news): Coveo targets the trust gap in AI-powere
+[2026-07-15 18:01:36] Неизвестный источник (financial post): Software stocks sink as IBM miss deliver
+[2026-07-15 18:01:36] Неизвестный источник (siliconangle news): Chai Discovery nabs $400M Series C as AI
+[2026-07-15 18:01:36] Неизвестный источник (globenewswire): MemeToro Hits $77K+ in Stage 4 Presale t
+[2026-07-15 18:01:36] Нет фото: Major US Power Sale to Show Depth of Eas
+[2026-07-15 18:01:36] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Fo
+[2026-07-15 18:01:36] Неизвестный источник (globenewswire): Preventive Healthcare Technologies and S
+[2026-07-15 18:01:36] Неизвестный источник (financial post): ‘We faltered’: IBM falls most since at l
+[2026-07-15 18:01:36] Неизвестный источник (globenewswire): AI, IoT and Blockchain in Modern Agricul
+[2026-07-15 18:01:36] Неизвестный источник (globenewswire): Nightfood Holdings Inc. (OTCQB: NGTF) Fo
+[2026-07-15 18:01:36] Неизвестный источник (pymnts.com): Senate Bill Would Let Consumers Bring Th
+[2026-07-15 18:01:36] Неизвестный источник (24/7 wall st.): Wall Street Has a New SpaceX Bull, And T
+[2026-07-15 18:01:36] Неизвестный источник (financial post): DeepSeek is preparing for IPO filing as 
+[2026-07-15 18:01:36] Неизвестный источник (pr-inside.com): VSee Health Vision for AI-Enabled Enterp
+[2026-07-15 18:01:36] Неизвестный источник (globenewswire): Hybrid Fiber Coaxial (HFC) Market Size t
+[2026-07-15 18:01:36] Неизвестный источник (bleeding cool news): The Phantom Vol. 1 Preview: Ghost Walks 
+[2026-07-15 18:01:36] Нет фото: BofA Profit Soars With Record Stock Trad
+[2026-07-15 18:01:36] Неизвестный источник (www.gov.uk): Risk of democratic interference added to
+[2026-07-15 18:01:36] Неизвестный источник (prnewswire): Data Center Rack Market Accelerates with
+[2026-07-15 18:01:36] Неизвестный источник (pr newswire uk): Data Center Rack Market Accelerates with
+[2026-07-15 18:01:36] Неизвестный источник (marketbeat): Bank of America Q2 Earnings Call Highlig
+[2026-07-15 18:01:36] Нет фото: Messagepoint Recognized as a Leader for 
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): TB-SERS analyzer: Analysis tool for tube
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Path planning and obstacle avoidance wit
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Application of a uniaxial force by pulli
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Non-native plant integration into plant-
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Realistic monkey body animation reveals 
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Rasputin/G3BP mediates subversion of ant
+[2026-07-15 18:01:36] Неизвестный источник (plos.org): Artificial intelligence meets pediatric 
+[2026-07-15 18:01:36] Неизвестный источник (4sysops.com): The tacit AI wall and the limits of AI
+[2026-07-15 18:01:36] Нет фото: SLB, Liberty Energy to Sell Infrastructu
+[2026-07-15 18:01:36] Неизвестный источник (prnewswire): AI Coalition for Social Impact, Convened
+[2026-07-15 18:01:36] Неизвестный источник (financial post): DeepSeek’s Liang tops Amodei and Brockma
+[2026-07-15 18:01:36] Неизвестный источник (financial post): Warsh Says Fed Has ‘No Tolerance’ for El
+[2026-07-15 18:01:36] Неизвестный источник (financial post): VIVERE Group Selects Rimini Street to St
+[2026-07-15 18:01:36] AI новости: найдено 1 после фильтрации
+[2026-07-15 18:01:38] Обрабатываю: VSee Health Vision for AI-Enabled Enterprise Infrastructure 
+[2026-07-15 18:01:38] Попытка 1 для: VSee Health Vision for AI-Enabled Enterp
+[2026-07-15 18:01:39] Успешно, получено 701 символов
+[2026-07-15 18:01:40] === Блок ai_evening завершён ===
