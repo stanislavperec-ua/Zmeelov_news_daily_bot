@@ -30740,3 +30740,53 @@ Nithya
 [2026-07-17 06:05:30] Попытка 1 для: Ukraine: Russian-Run Schools Violate Chi
 [2026-07-17 06:05:32] Успешно, получено 593 символов
 [2026-07-17 06:05:32] === Блок morning завершён ===
+[2026-07-17 08:01:14] Загружено 2367 уже отправленных новостей
+[2026-07-17 08:01:14] === Запуск блока: ai_morning ===
+[2026-07-17 08:01:14] Нет фото: Satyajit Das: Déjà Vu All Over Again! Ar
+[2026-07-17 08:01:14] Неизвестный источник (livemint): India bets ₹10,000 crore on a leap from 
+[2026-07-17 08:01:14] Неизвестный источник (sherdog.com): Scott Coker-led promotion brings on form
+[2026-07-17 08:01:14] Нет фото: Brookfield-Backed Data-Center Firm Raise
+[2026-07-17 08:01:14] Нет фото: DMG Blockchain Solutions Inc. Announces 
+[2026-07-17 08:01:14] Неизвестный источник (globenewswire): DMG Blockchain Solutions Inc. Announces 
+[2026-07-17 08:01:14] Нет фото: ABB Expands Automation Offering in $5.5 
+[2026-07-17 08:01:14] Заблокированный источник (naturalnews.com): Chinese Researchers Develop Optical AI N
+[2026-07-17 08:01:14] Неизвестный источник (counterpunch): The God in the Machine Comes With an Own
+[2026-07-17 08:01:14] Неизвестный источник (originhq.com): The Mole in the Model - You've Hired an 
+[2026-07-17 08:01:14] Неизвестный источник (financial post): Stocks Fall as Chip Selloff Hits Kospi, 
+[2026-07-17 08:01:14] Неизвестный источник (prnewswire): Zero Gap Fund's Catalytic Capital Keeps 
+[2026-07-17 08:01:14] Нет фото: geoai-py 0.41.2
+[2026-07-17 08:01:14] Неизвестный источник (businessline): Stripe and Advent offer $53 billion to a
+[2026-07-17 08:01:14] Неизвестный источник (siliconangle news): Spectro Cloud wants to ease AI infrastru
+[2026-07-17 08:01:14] Неизвестный источник (siliconangle news): QumulusAI’s direct listing: Accelerating
+[2026-07-17 08:01:14] Неизвестный источник (siliconangle news): Intel starts using ASML’s High NA EUV te
+[2026-07-17 08:01:14] Неизвестный источник (samsung.com): Samsung Launches New Slide-in Ranges and
+[2026-07-17 08:01:14] Неизвестный источник (the punch): Customs bust syndicate smuggling petrol 
+[2026-07-17 08:01:14] Неизвестный источник (siliconangle news): Identity management startup Oak launches
+[2026-07-17 08:01:14] Неизвестный источник (siliconangle news): OpenAI details GPT-Red, an AI that attac
+[2026-07-17 08:01:14] Неизвестный источник (thejournal.ie): Internet providers split over blocking o
+[2026-07-17 08:01:14] Неизвестный источник (observer): Observer’s 2026 A.I. Power Index: Who Co
+[2026-07-17 08:01:14] Неизвестный источник (cbc news): No ban against data centre development a
+[2026-07-17 08:01:14] Неизвестный источник (prnewswire): Flexzo Ai Partners with Maiden Lane Medi
+[2026-07-17 08:01:14] Неизвестный источник (comicbook.com): 5 Great ’80s TV Shows That Have Aged Lik
+[2026-07-17 08:01:14] Неизвестный источник (observer): ArtMeta: When Digital Art Enters the Can
+[2026-07-17 08:01:14] Нет фото: Rakovina Therapeutics Announces $1.5 Mil
+[2026-07-17 08:01:14] Неизвестный источник (mit.edu): 3 Questions: Neural transparency and the
+[2026-07-17 08:01:14] Неизвестный источник (financial post): Hadron Energy Releases ‘Powering What’s 
+[2026-07-17 08:01:14] Неизвестный источник (prnewswire): Sandler Partners and Liminal Announce St
+[2026-07-17 08:01:14] Неизвестный источник (digitalcommerce360): Visa unveils AI Financial Assistant for 
+[2026-07-17 08:01:14] Неизвестный источник (crypto briefing): Microsoft shakes up security division le
+[2026-07-17 08:01:14] Неизвестный источник (financial post): Wall Street traders set records, driving
+[2026-07-17 08:01:14] Неизвестный источник (theregister.com): ZTE's AI new calling builds an open and 
+[2026-07-17 08:01:14] Неизвестный источник (anime news network): The Prescience of Masamune Shirow's Ghos
+[2026-07-17 08:01:14] Неизвестный источник (financial post): Pentagon to Screen Testosterone of Male 
+[2026-07-17 08:01:14] Неизвестный источник (smallwarsjournal.com): Call for Papers: Violent Extremism and R
+[2026-07-17 08:01:14] AI новости: найдено 2 после фильтрации
+[2026-07-17 08:01:16] Обрабатываю: Skeptical Science New Research for Week #29 2026
+[2026-07-17 08:01:16] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-07-17 08:01:17] Успешно, получено 791 символов
+[2026-07-17 08:01:18] Фото не отправилось: 400
+[2026-07-17 08:01:18] Пауза 60 секунд...
+[2026-07-17 08:02:18] Обрабатываю: Inhibited radiative decay enhances single-photon emitters
+[2026-07-17 08:02:18] Попытка 1 для: Inhibited radiative decay enhances singl
+[2026-07-17 08:02:19] Успешно, получено 568 символов
+[2026-07-17 08:02:20] === Блок ai_morning завершён ===
