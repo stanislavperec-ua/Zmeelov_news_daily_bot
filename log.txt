@@ -30790,3 +30790,40 @@ Nithya
 [2026-07-17 08:02:18] Попытка 1 для: Inhibited radiative decay enhances singl
 [2026-07-17 08:02:19] Успешно, получено 568 символов
 [2026-07-17 08:02:20] === Блок ai_morning завершён ===
+[2026-07-17 11:01:13] Загружено 2369 уже отправленных новостей
+[2026-07-17 11:01:13] === Запуск блока: midday ===
+[2026-07-17 11:01:14] Неизвестный источник (yahoo entertainment): British Open Thursday live updates, lead
+[2026-07-17 11:01:14] Неизвестный источник (cnbc): UnitedHealth blows past estimates, hikes
+[2026-07-17 11:01:14] Неизвестный источник (wkow): State health officials confirm 43 cases 
+[2026-07-17 11:01:14] Неизвестный источник (cnbc): Ukraine's Zelenskyy ousts defense minist
+[2026-07-17 11:01:14] Неизвестный источник (san francisco chronicle): Deadly boat capsize on San Francisco Bay
+[2026-07-17 11:01:14] Неизвестный источник (cnbc): U.S. slaps 25% tariff on most Brazilian 
+[2026-07-17 11:01:14] Неизвестный источник (variety): Hal Williams, ‘227’ Star and ‘Sanford an
+[2026-07-17 11:01:14] Неизвестный источник (wabc-tv): Canadian wildfire smoke returns to NYC, 
+[2026-07-17 11:01:14] Неизвестный источник (gizmodo.com): Skullcandy’s New Wireless Headphones Hav
+[2026-07-17 11:01:14] Неизвестный источник (the boston globe): Maine Governor Janet Mills tried to visi
+[2026-07-17 11:01:14] Неизвестный источник (usa today): 'The Odyssey' in IMAX 70mm is available 
+[2026-07-17 11:01:14] Неизвестный источник (gothamist): Number of UES buildings with positive Le
+[2026-07-17 11:01:14] Неизвестный источник (yahoo entertainment): SpaceX stock hits all-time low, dips bel
+[2026-07-17 11:01:14] Неизвестный источник (barron's): TSMC Plans Extra $100B in U.S. Investmen
+[2026-07-17 11:01:14] Неизвестный источник (space.com): Raspberry sugar spotted in interstellar 
+[2026-07-17 11:01:14] Неизвестный источник (9to5mac): iOS 27 breaks 15 years of muscle memory 
+[2026-07-17 11:01:14] Старая новость (2026-07-15T08:03:22Z): More health workers strike as Ebola case
+[2026-07-17 11:01:14] Старая новость (2026-07-15T06:25:26Z): Mystery bidder buys T. rex nicknamed 'Gu
+[2026-07-17 11:01:14] Мировые новости: найдено 14 после фильтрации
+[2026-07-17 11:01:16] Обрабатываю: OnePlus officially gives up on the US and Europe
+[2026-07-17 11:01:16] Попытка 1 для: OnePlus officially gives up on the US an
+[2026-07-17 11:01:18] Успешно, получено 804 символов
+[2026-07-17 11:01:18] Пауза 60 секунд...
+[2026-07-17 11:02:18] Обрабатываю: ‘Scared s–tless’: Republicans brace for Trump’s primetime sp
+[2026-07-17 11:02:18] Попытка 1 для: ‘Scared s–tless’: Republicans brace for 
+[2026-07-17 11:02:19] Успешно, получено 601 символов
+[2026-07-17 11:02:20] Пауза 60 секунд...
+[2026-07-17 11:03:20] Обрабатываю: US expands strikes into northern Iran and disables ship tryi
+[2026-07-17 11:03:20] Попытка 1 для: US expands strikes into northern Iran an
+[2026-07-17 11:03:21] Успешно, получено 593 символов
+[2026-07-17 11:03:21] Пауза 60 секунд...
+[2026-07-17 11:04:21] Обрабатываю: House vote exposes Democrats’ widening divide over Israel
+[2026-07-17 11:04:21] Попытка 1 для: House vote exposes Democrats’ widening d
+[2026-07-17 11:04:23] Успешно, получено 742 символов
+[2026-07-17 11:04:23] === Блок midday завершён ===
