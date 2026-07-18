@@ -30991,3 +30991,52 @@ Nithya
 [2026-07-18 06:05:21] Попытка 1 для: At least 14 killed in Russian and Ukrain
 [2026-07-18 06:05:22] Успешно, получено 862 символов
 [2026-07-18 06:05:22] === Блок morning завершён ===
+[2026-07-18 08:01:10] Загружено 2386 уже отправленных новостей
+[2026-07-18 08:01:10] === Запуск блока: ai_morning ===
+[2026-07-18 08:01:10] Неизвестный источник (hollywood reporter): Europe Launches First Environmental Cert
+[2026-07-18 08:01:10] Неизвестный источник (theregister.com): How Gartner can help turn your AI vision
+[2026-07-18 08:01:10] Неизвестный источник (financial post): Mitsubishi Electric Eyes Power-Chip Merg
+[2026-07-18 08:01:10] Нет фото: Is BirdNET free?
+[2026-07-18 08:01:10] Заблокированный источник (naturalnews.com): The Shadow Civilization: A provocative c
+[2026-07-18 08:01:10] Неизвестный источник (insurance journal): White House Unveils AI Clearinghouse for
+[2026-07-18 08:01:10] Неизвестный источник (yahoo entertainment): Fox’s US World Cup summer: wild mispronu
+[2026-07-18 08:01:10] Неизвестный источник (screen rant): Cyberpunk 2077 Meets Baldur’s Gate 3 In 
+[2026-07-18 08:01:10] Нет фото: Why do birds sit on their eggs before th
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): Google AI Mode gets more useful with Can
+[2026-07-18 08:01:10] Неизвестный источник (pymnts.com): UnitedHealth Says AI Now Runs Every Func
+[2026-07-18 08:01:10] Неизвестный источник (pymnts.com): UnitedHealth’s AI Bet Paid Off. Now It I
+[2026-07-18 08:01:10] Неизвестный источник (prnewswire): Tampa General Hospital First in the Nati
+[2026-07-18 08:01:10] Неизвестный источник (national post): Ontario law society suspends lawyer for 
+[2026-07-18 08:01:10] Неизвестный источник (smallwarsjournal.com): China’s Economic Espionage and Subnation
+[2026-07-18 08:01:10] Неизвестный источник (r-bloggers.com): Five pre-flight checks for your dashboar
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): China’s Moonshot throws down the gauntle
+[2026-07-18 08:01:10] Неизвестный источник (biztoc.com): The debate over how to protect children 
+[2026-07-18 08:01:10] Неизвестный источник (pbs): The debate over how to protect children 
+[2026-07-18 08:01:10] Неизвестный источник (imdanielkendall.com): My car's OTA update broke Android Auto, 
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): Nvidia launches Cosmos 3 Edge model and 
+[2026-07-18 08:01:10] Неизвестный источник (pymnts.com): U.S. Bancorp Rides Payments Boom to Reco
+[2026-07-18 08:01:10] Нет фото: PhraseExpress 18.0.76
+[2026-07-18 08:01:10] Неизвестный источник (prnewswire): F.N.B. Corporation Reports Second Quarte
+[2026-07-18 08:01:10] Неизвестный источник (globenewswire): Global Structural Health Monitoring Mark
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): AI infrastructure startup Fireworks clos
+[2026-07-18 08:01:10] Неизвестный источник (cleantechnica): Smart Energy Management Research Could U
+[2026-07-18 08:01:10] Неизвестный источник (the conversation africa): The data centre boom won’t mean higher p
+[2026-07-18 08:01:10] Неизвестный источник (financial post): SpaceX Post-Listing Collapse Threatens I
+[2026-07-18 08:01:10] Неизвестный источник (financial post): SpaceX post-listing collapse threatens I
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): Special Breaking Analysis: Nvidia’s AI n
+[2026-07-18 08:01:10] Неизвестный источник (deadline): Peter Bart: Even AI Titans Can’t Predict
+[2026-07-18 08:01:10] Неизвестный источник (forbes): Elon Musk Could Dominate This Year's Osc
+[2026-07-18 08:01:10] Неизвестный источник (techradar): AI-powered software could recover 300GW 
+[2026-07-18 08:01:10] Неизвестный источник (financial post): Nasdaq 100 Slides as TSMC Results Revive
+[2026-07-18 08:01:10] Неизвестный источник (siliconangle news): Inside Nvidia’s AI factory networking st
+[2026-07-18 08:01:10] Неизвестный источник (prnewswire): Decisions CEO Giles Whiting Named to Ina
+[2026-07-18 08:01:10] Неизвестный источник (financial post): Fed’s Logan Favors Modestly Higher Rates
+[2026-07-18 08:01:10] AI новости: найдено 2 после фильтрации
+[2026-07-18 08:01:13] Обрабатываю: War woes have hospitality professionals looking homeward
+[2026-07-18 08:01:13] Попытка 1 для: War woes have hospitality professionals 
+[2026-07-18 08:01:14] Успешно, получено 731 символов
+[2026-07-18 08:01:14] Пауза 60 секунд...
+[2026-07-18 08:02:14] Обрабатываю: SpaceX stock closes below its IPO price for the first time s
+[2026-07-18 08:02:14] Попытка 1 для: SpaceX stock closes below its IPO price 
+[2026-07-18 08:02:16] Успешно, получено 755 символов
+[2026-07-18 08:02:16] === Блок ai_morning завершён ===
