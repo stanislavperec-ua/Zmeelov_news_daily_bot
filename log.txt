@@ -31040,3 +31040,44 @@ Nithya
 [2026-07-18 08:02:14] Попытка 1 для: SpaceX stock closes below its IPO price 
 [2026-07-18 08:02:16] Успешно, получено 755 символов
 [2026-07-18 08:02:16] === Блок ai_morning завершён ===
+[2026-07-18 11:01:06] Загружено 2388 уже отправленных новостей
+[2026-07-18 11:01:06] === Запуск блока: midday ===
+[2026-07-18 11:01:06] Неизвестный источник (cnbc): Nasdaq futures fall 2% as global chip se
+[2026-07-18 11:01:06] Неизвестный источник (wls-tv): Chicago Air Quality Alert in effect with
+[2026-07-18 11:01:06] Неизвестный источник (ign): Castlevania: Belmont’s Curse Might Make 
+[2026-07-18 11:01:06] Неизвестный источник (deadline): ‘The Odyssey’ Launches Weekend Voyage Wi
+[2026-07-18 11:01:06] Неизвестный источник (substack.com): July 16, 2026 - Letters from an American
+[2026-07-18 11:01:06] Неизвестный источник (new york post): Beloved mother identified as latest vict
+[2026-07-18 11:01:06] Неизвестный источник (variety): ‘God of War’ Shocker: Kratos Actor Ryan 
+[2026-07-18 11:01:06] Неизвестный источник (buzzfeed): Kim Kardashian Reacted To Backlash After
+[2026-07-18 11:01:06] Неизвестный источник (wlwt cincinnati): Cyclospora outbreak: Hamilton County rep
+[2026-07-18 11:01:06] Неизвестный источник (hollywood reporter): The NBA Wants to Set Next Season’s TV Sc
+[2026-07-18 11:01:06] Неизвестный источник (macrumors): EU Orders Google to Give Rival AI Apps t
+[2026-07-18 11:01:06] Неизвестный источник (barron's): Netflix Stock Drops on Revenue Miss, Eng
+[2026-07-18 11:01:06] Неизвестный источник (android central): You can already buy the unreleased Galax
+[2026-07-18 11:01:06] Неизвестный источник (ktla los angeles): Near-Earth asteroid turns out to be some
+[2026-07-18 11:01:06] Неизвестный источник (wpvi-tv): New Jersey home meteorite fragments cont
+[2026-07-18 11:01:06] Заблокированный источник (bleacher report): British Open Leaderboard 2026 Review of 
+[2026-07-18 11:01:06] Неизвестный источник (space.com): Astronomers discover 1st atmosphere arou
+[2026-07-18 11:01:06] Неизвестный источник (investor's business daily): The Next Wave Of Peptides Could Be Here;
+[2026-07-18 11:01:06] Неизвестный источник (news-medical.net): Scientists show how sweeteners slow the 
+[2026-07-18 11:01:06] Старая новость (2026-07-16T10:54:00Z): OpenAI launches $230 keyboard amid Apple
+[2026-07-18 11:01:06] Старая новость (2026-07-16T04:33:00Z): NASA's curiosity rover spots mysterious 
+[2026-07-18 11:01:06] Старая новость (2026-07-15T18:42:36Z): Blood Test Accurately Predicts Five-Year
+[2026-07-18 11:01:06] Мировые новости: найдено 8 после фильтрации
+[2026-07-18 11:01:09] Обрабатываю: At least 2 dead in Texas floods as hundreds rescued in same 
+[2026-07-18 11:01:09] Попытка 1 для: At least 2 dead in Texas floods as hundr
+[2026-07-18 11:01:10] Успешно, получено 869 символов
+[2026-07-18 11:01:10] Пауза 60 секунд...
+[2026-07-18 11:02:10] Обрабатываю: Trump alleges vast conspiracy to commit and cover up electio
+[2026-07-18 11:02:10] Попытка 1 для: Trump alleges vast conspiracy to commit 
+[2026-07-18 11:02:11] Успешно, получено 667 символов
+[2026-07-18 11:02:12] Пауза 60 секунд...
+[2026-07-18 11:03:12] Обрабатываю: CDC, FDA link Taco Bell lettuce supplier to multistate cyclo
+[2026-07-18 11:03:12] Попытка 1 для: CDC, FDA link Taco Bell lettuce supplier
+[2026-07-18 11:03:13] Успешно, получено 806 символов
+[2026-07-18 11:03:14] Пауза 60 секунд...
+[2026-07-18 11:04:14] Обрабатываю: Japan revises law on royals, keeps blocking women from thron
+[2026-07-18 11:04:14] Попытка 1 для: Japan revises law on royals, keeps block
+[2026-07-18 11:04:15] Успешно, получено 753 символов
+[2026-07-18 11:04:15] === Блок midday завершён ===
