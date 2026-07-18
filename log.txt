@@ -31139,3 +31139,52 @@ Nithya
 [2026-07-18 16:05:26] Попытка 1 для: NATO commits €70B annually to Ukraine, U
 [2026-07-18 16:05:28] Успешно, получено 705 символов
 [2026-07-18 16:05:28] === Блок evening завершён ===
+[2026-07-18 18:01:10] Загружено 2398 уже отправленных новостей
+[2026-07-18 18:01:10] === Запуск блока: ai_evening ===
+[2026-07-18 18:01:11] Неизвестный источник (siliconangle news): Compute Exchange opens secondary market 
+[2026-07-18 18:01:11] Нет фото: Secretary-General Calls for Faster Actio
+[2026-07-18 18:01:11] Неизвестный источник (siliconangle news): EY re-envisions RAG around multimodal kn
+[2026-07-18 18:01:11] Неизвестный источник (financial post): ‘Sea of Red’ Hits Emerging Stocks as AI 
+[2026-07-18 18:01:11] Неизвестный источник (financial post): IMF, US to Provide Technical Help for Co
+[2026-07-18 18:01:11] Неизвестный источник (ritholtz.com): Overvalued, Bubble, or Revolution?
+[2026-07-18 18:01:11] Неизвестный источник (observer): At Christie’s Art+Tech Summit 2026, the 
+[2026-07-18 18:01:11] Нет фото: SpaceX Set to Wipe Out $1 Trillion in Va
+[2026-07-18 18:01:11] Неизвестный источник (livemint): Jio Platforms profit rises 9.2% to ₹7,76
+[2026-07-18 18:01:11] Неизвестный источник (prnewswire): Hivelocity Strengthens Colocation Offeri
+[2026-07-18 18:01:11] Неизвестный источник (financial post): Hammack Sees No Conflict in Fed’s Goals,
+[2026-07-18 18:01:11] Неизвестный источник (cryptoslate): Bitmine nears its Ethereum buying limit 
+[2026-07-18 18:01:11] Неизвестный источник (dw (english)): Germany news: Merz, Macron plan closer n
+[2026-07-18 18:01:11] Неизвестный источник (financial post): Netflix shares drop after forecasting sl
+[2026-07-18 18:01:11] Неизвестный источник (financial post): US Manufacturing Output Stalls, Held Bac
+[2026-07-18 18:01:11] Неизвестный источник (toronto sun): The surprising reason a sleep tracker ca
+[2026-07-18 18:01:11] Неизвестный источник (telecomtv): What’s up with… Telstra, Verizon, AT&T
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): AVAV DEADLINE: The Gross Law Firm Remind
+[2026-07-18 18:01:11] Неизвестный источник (siliconangle news): The AI backlash intensifies, China gains
+[2026-07-18 18:01:11] Нет фото: The pharmacist’s role in the periprocedu
+[2026-07-18 18:01:11] Неизвестный источник (plos.org): PumpKin: A machine-learning pipeline for
+[2026-07-18 18:01:11] Неизвестный источник (plos.org): A robust cross-crop disease detection fr
+[2026-07-18 18:01:11] Неизвестный источник (plos.org): A high-resolution phenotypic screen iden
+[2026-07-18 18:01:11] Неизвестный источник (substack.com): The Puzzle of Testosterone, Estrogens an
+[2026-07-18 18:01:11] Нет фото: MAAS to Sell 49% Stake in Laixi Intellig
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): The AI Collective Named Official Communi
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): Luda Technology Group Limited Appoints D
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): The American AI Association and OIOLaw J
+[2026-07-18 18:01:11] Неизвестный источник (prnewswire): America Wants a Uranium Supply Chain and
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): Unstoppable Branding Agency Announces th
+[2026-07-18 18:01:11] Неизвестный источник (yahoo entertainment): IBM 'did not adapt' and just lost $70B —
+[2026-07-18 18:01:11] Нет фото: Guterres: AI must be shaped by 'all of h
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): NANO Nuclear Energy Joins Virginia Nucle
+[2026-07-18 18:01:11] Неизвестный источник (dailymail.com): The new life of Cameron Dallas: He was o
+[2026-07-18 18:01:11] Неизвестный источник (globenewswire): AmpliTech Group Approved for Membership 
+[2026-07-18 18:01:11] Неизвестный источник (bitcoinfoundation.org): Robinhood Chain Memecoin Season: Top 10 
+[2026-07-18 18:01:11] Неизвестный источник (techspot): New York school deploys AI teaching robo
+[2026-07-18 18:01:11] Неизвестный источник (the intercept): Trump’s Formula for Forever Wars
+[2026-07-18 18:01:11] AI новости: найдено 2 после фильтрации
+[2026-07-18 18:01:14] Обрабатываю: NANO Nuclear Energy Joins Virginia Nuclear Energy Consortium
+[2026-07-18 18:01:14] Попытка 1 для: NANO Nuclear Energy Joins Virginia Nucle
+[2026-07-18 18:01:15] Успешно, получено 703 символов
+[2026-07-18 18:01:15] Пауза 60 секунд...
+[2026-07-18 18:02:15] Обрабатываю: 80% employees are not enthusiastic about their jobs: New rep
+[2026-07-18 18:02:15] Попытка 1 для: 80% employees are not enthusiastic about
+[2026-07-18 18:02:16] Успешно, получено 1033 символов
+[2026-07-18 18:02:17] === Блок ai_evening завершён ===
