@@ -31243,3 +31243,54 @@ Nithya
 [2026-07-19 06:05:31] Попытка 1 для: Russia says Ukrainian drone attack kills
 [2026-07-19 06:05:32] Успешно, получено 847 символов
 [2026-07-19 06:05:33] === Блок morning завершён ===
+[2026-07-19 08:01:15] Загружено 2406 уже отправленных новостей
+[2026-07-19 08:01:15] === Запуск блока: ai_morning ===
+[2026-07-19 08:01:16] Неизвестный источник (ohiodailydigital.com): Mercy Health encourages early detection 
+[2026-07-19 08:01:16] Нет фото: mindupload 1.6.0
+[2026-07-19 08:01:16] Неизвестный источник (fci academy): Silverback Digital Marketing Highlights 
+[2026-07-19 08:01:16] Неизвестный источник (thisweekinpublichealth.com): Can Public Health Become Precise? - This
+[2026-07-19 08:01:16] Неизвестный источник (globenewswire): WeRide Named Among China's Top 10 AI Cas
+[2026-07-19 08:01:16] Нет фото: What is a Holt otter?
+[2026-07-19 08:01:16] Неизвестный источник (britbrief.co.uk): Kalshi Expands to Drug Trial Bets as Pre
+[2026-07-19 08:01:16] Неизвестный источник (siliconangle news): Anthropic, Meta reportedly discussing $1
+[2026-07-19 08:01:16] Неизвестный источник (bradenkelley.com): The Edge of Intelligence
+[2026-07-19 08:01:16] Неизвестный источник (the punch): Young people must shape post-2030 educat
+[2026-07-19 08:01:16] Неизвестный источник (siliconangle news): Databricks raising new funding at $188B 
+[2026-07-19 08:01:16] Неизвестный источник (activistpost.com): Why Trust Will Decide the Future of AI
+[2026-07-19 08:01:16] Нет фото: perforatedai 3.2.2
+[2026-07-19 08:01:16] Неизвестный источник (digital journal): Anko van der Werff: Air Canada’s new chi
+[2026-07-19 08:01:16] Неизвестный источник (financial post): Apple tops Nvidia as world’s largest com
+[2026-07-19 08:01:16] Неизвестный источник (digital journal): Data breaches have almost doubled since 
+[2026-07-19 08:01:16] Неизвестный источник (siliconangle news): Inference cloud operator General Compute
+[2026-07-19 08:01:16] Нет фото: mindupload 1.5.9
+[2026-07-19 08:01:16] Неизвестный источник (singularity hub): Anthropic Says Chatbots Have What May Be
+[2026-07-19 08:01:16] Нет фото: Prioritize Equitable Capacity, Safety, S
+[2026-07-19 08:01:16] Неизвестный источник (johnaugust.com): Scriptnotes, Ep 741: Craig Takes Questio
+[2026-07-19 08:01:16] Неизвестный источник (siliconangle news): Compute Exchange opens secondary market 
+[2026-07-19 08:01:16] Нет фото: Secretary-General Calls for Faster Actio
+[2026-07-19 08:01:16] Неизвестный источник (siliconangle news): EY re-envisions RAG around multimodal kn
+[2026-07-19 08:01:16] Неизвестный источник (financial post): ‘Sea of Red’ Hits Emerging Stocks as AI 
+[2026-07-19 08:01:16] Неизвестный источник (financial post): IMF, US to Provide Technical Help for Co
+[2026-07-19 08:01:16] Неизвестный источник (ritholtz.com): Overvalued, Bubble, or Revolution?
+[2026-07-19 08:01:16] Неизвестный источник (observer): At Christie’s Art+Tech Summit 2026, the 
+[2026-07-19 08:01:16] Нет фото: SpaceX Set to Wipe Out $1 Trillion in Va
+[2026-07-19 08:01:16] Неизвестный источник (livemint): Jio Platforms profit rises 9.2% to ₹7,76
+[2026-07-19 08:01:16] Неизвестный источник (prnewswire): Hivelocity Strengthens Colocation Offeri
+[2026-07-19 08:01:16] Неизвестный источник (financial post): Hammack Sees No Conflict in Fed’s Goals,
+[2026-07-19 08:01:16] Неизвестный источник (cryptoslate): Bitmine nears its Ethereum buying limit 
+[2026-07-19 08:01:16] Неизвестный источник (dw (english)): Germany news: Merz, Macron plan closer n
+[2026-07-19 08:01:16] Неизвестный источник (financial post): Netflix shares drop after forecasting sl
+[2026-07-19 08:01:16] Неизвестный источник (financial post): US Manufacturing Output Stalls, Held Bac
+[2026-07-19 08:01:16] AI новости: найдено 3 после фильтрации
+[2026-07-19 08:01:18] Обрабатываю: Agentic AI, alternative data and SIFs take centre stage at I
+[2026-07-19 08:01:18] Попытка 1 для: Agentic AI, alternative data and SIFs ta
+[2026-07-19 08:01:20] Успешно, получено 806 символов
+[2026-07-19 08:01:20] Пауза 60 секунд...
+[2026-07-19 08:02:20] Обрабатываю: SkillPulse: A community of Capability builders reimagining t
+[2026-07-19 08:02:20] Попытка 1 для: SkillPulse: A community of Capability bu
+[2026-07-19 08:02:21] Успешно, получено 1027 символов
+[2026-07-19 08:02:22] Пауза 60 секунд...
+[2026-07-19 08:03:22] Обрабатываю: NANO Nuclear Energy Joins Virginia Nuclear Energy Consortium
+[2026-07-19 08:03:22] Попытка 1 для: NANO Nuclear Energy Joins Virginia Nucle
+[2026-07-19 08:03:23] Успешно, получено 967 символов
+[2026-07-19 08:03:24] === Блок ai_morning завершён ===
