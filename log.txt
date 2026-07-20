@@ -31526,3 +31526,42 @@ Nithya
 [2026-07-20 08:02:23] Попытка 1 для: Shanghai Xingshu launches first constell
 [2026-07-20 08:02:24] Успешно, получено 552 символов
 [2026-07-20 08:02:24] === Блок ai_morning завершён ===
+[2026-07-20 11:01:08] Загружено 2426 уже отправленных новостей
+[2026-07-20 11:01:08] === Запуск блока: midday ===
+[2026-07-20 11:01:08] Неизвестный источник (fox business): Taylor Farms lettuce sample tests positi
+[2026-07-20 11:01:08] Неизвестный источник (dw (english)): Hungary's president signs amendment endi
+[2026-07-20 11:01:08] Неизвестный источник (tmz): 'Ultimatum' Star Blake Roberston Arreste
+[2026-07-20 11:01:08] Неизвестный источник (wabc-tv): Flash Flood Warning for parts of NJ, NYC
+[2026-07-20 11:01:08] Неизвестный источник (bangor daily news): Troy Jackson closes in on Maine’s Democr
+[2026-07-20 11:01:08] Неизвестный источник (mlb.com): Dodgers-Yankees Saturday game postponed;
+[2026-07-20 11:01:08] Неизвестный источник (todays-golfer.com): Bryson DeChambeau’s unusual request decl
+[2026-07-20 11:01:08] Неизвестный источник (/film): If You Loved Christopher Nolan's The Ody
+[2026-07-20 11:01:08] Неизвестный источник (tmz): Nolan Wells Not First Person to Drown Of
+[2026-07-20 11:01:08] Неизвестный источник (phys.org): NASA's Psyche mission delivers Mars flyb
+[2026-07-20 11:01:08] Неизвестный источник (bleepingcomputer): WordPress Core "wp2shell" RCE flaws get 
+[2026-07-20 11:01:08] Неизвестный источник (entertainment weekly): Tom Cruise treats AMC workers to Odyssey
+[2026-07-20 11:01:08] Неизвестный источник (gothamist): 1 dead in Upper East Side Legionnaires' 
+[2026-07-20 11:01:08] Неизвестный источник (forbes): Where Wildfire Smoke Remains—And What To
+[2026-07-20 11:01:08] Неизвестный источник (phys.org): New super strong glue grips non-stick su
+[2026-07-20 11:01:08] Неизвестный источник (cnbc): Trump Media pitched $100,000 monthly fee
+[2026-07-20 11:01:08] Старая новость (2026-07-18T10:00:07Z): OnePlus Exit Means Fewer Options in a Ma
+[2026-07-20 11:01:08] Старая новость (2026-07-17T21:02:10Z): As More Cases of Rare Cancer in Children
+[2026-07-20 11:01:08] Старая новость (2026-07-17T15:07:09Z): Is smoke in your home? Here’s how to mak
+[2026-07-20 11:01:08] Старая новость (2026-07-17T14:47:45Z): SpaceX’s Shares Tank After Starship Fail
+[2026-07-20 11:01:08] Мировые новости: найдено 12 после фильтрации
+[2026-07-20 11:01:10] Обрабатываю: July 18, 2026 – US-Iran war news
+[2026-07-20 11:01:10] Попытка 1 для: July 18, 2026 – US-Iran war news
+[2026-07-20 11:01:11] Успешно, получено 609 символов
+[2026-07-20 11:01:12] Пауза 60 секунд...
+[2026-07-20 11:02:12] Обрабатываю: ‘Spanish style’ wins over New York’s die-hard World Cup fans
+[2026-07-20 11:02:12] Попытка 1 для: ‘Spanish style’ wins over New York’s die
+[2026-07-20 11:02:13] Успешно, получено 674 символов
+[2026-07-20 11:02:13] Пауза 60 секунд...
+[2026-07-20 11:03:13] Обрабатываю: Tate brothers arrested in Miami as UK adds rape, trafficking
+[2026-07-20 11:03:13] Попытка 1 для: Tate brothers arrested in Miami as UK ad
+[2026-07-20 11:03:14] Успешно, получено 644 символов
+[2026-07-20 11:03:15] Пауза 60 секунд...
+[2026-07-20 11:04:15] Обрабатываю: Can Burnham's casual style survive contact with No 10?
+[2026-07-20 11:04:15] Попытка 1 для: Can Burnham's casual style survive conta
+[2026-07-20 11:04:16] Успешно, получено 813 символов
+[2026-07-20 11:04:16] === Блок midday завершён ===
