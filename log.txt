@@ -31492,3 +31492,37 @@ Nithya
 [2026-07-20 06:05:27] Попытка 1 для: Agricultural panic or opportunity? The i
 [2026-07-20 06:05:28] Успешно, получено 824 символов
 [2026-07-20 06:05:28] === Блок morning завершён ===
+[2026-07-20 08:01:19] Загружено 2425 уже отправленных новостей
+[2026-07-20 08:01:19] === Запуск блока: ai_morning ===
+[2026-07-20 08:01:19] Неизвестный источник (digital journal): Pocket-size AI: Powerful phones star at 
+[2026-07-20 08:01:19] Неизвестный источник (prnewswire): Emdoor Launches "Ailyn" AI Hub at WAIC 2
+[2026-07-20 08:01:19] Нет фото: specfann 1.0.0
+[2026-07-20 08:01:19] Нет фото: specfann added to PyPI
+[2026-07-20 08:01:19] Неизвестный источник (bleeding cool news): Detective Comics #1111 Preview: Past Mis
+[2026-07-20 08:01:19] Неизвестный источник (digital journal): Canadian mathematician honoured for resh
+[2026-07-20 08:01:19] Неизвестный источник (digital journal): Canada’s emerging science of resilient s
+[2026-07-20 08:01:19] Нет фото: mindupload 1.8.0
+[2026-07-20 08:01:19] Неизвестный источник (yahoo entertainment): Mets interim manager Andy Green says clu
+[2026-07-20 08:01:19] Неизвестный источник (thestreet): Verizon makes drastic move as battle for
+[2026-07-20 08:01:19] Неизвестный источник (businessline): AI-Powered Connectivity: APAC Charts a P
+[2026-07-20 08:01:19] Неизвестный источник (onefootball.com): Briefly in custody! The wild story of th
+[2026-07-20 08:01:19] Нет фото: mindupload 1.7.0
+[2026-07-20 08:01:19] Неизвестный источник (fox news): HalluSquatting AI attack could hijack yo
+[2026-07-20 08:01:19] Неизвестный источник (siliconangle news): AMD’s next reinvention: A new playbook f
+[2026-07-20 08:01:19] Нет фото: perforatedai 3.2.3
+[2026-07-20 08:01:19] Неизвестный источник (observer): How Artists Are Using A.I. and Where The
+[2026-07-20 08:01:19] Неизвестный источник (bleeding cool news): Hidden Springs #3 Preview: Senior Citize
+[2026-07-20 08:01:19] Неизвестный источник (prnewswire): From Remote Racing to Embodied AI: Fiboc
+[2026-07-20 08:01:19] Неизвестный источник (yahoo entertainment): Peter Thiel just gave the public its clo
+[2026-07-20 08:01:19] Неизвестный источник (fortune): Peter Thiel just gave the public its clo
+[2026-07-20 08:01:19] Неизвестный источник (activistpost.com): Occupation BV: The Dutch Infrastructure 
+[2026-07-20 08:01:19] Неизвестный источник (arabnews.jp): How nature could inspire AI’s next break
+[2026-07-20 08:01:19] AI новости: найдено 2 после фильтрации
+[2026-07-20 08:01:21] Обрабатываю: Pocket-size AI: Powerful phones star at China show
+[2026-07-20 08:01:21] Попытка 1 для: Pocket-size AI: Powerful phones star at 
+[2026-07-20 08:01:22] Успешно, получено 740 символов
+[2026-07-20 08:01:23] Пауза 60 секунд...
+[2026-07-20 08:02:23] Обрабатываю: Shanghai Xingshu launches first constellation of its space-b
+[2026-07-20 08:02:23] Попытка 1 для: Shanghai Xingshu launches first constell
+[2026-07-20 08:02:24] Успешно, получено 552 символов
+[2026-07-20 08:02:24] === Блок ai_morning завершён ===
