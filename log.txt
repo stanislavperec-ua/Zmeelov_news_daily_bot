@@ -31618,3 +31618,37 @@ Nithya
 [2026-07-20 16:05:23] Успешно, получено 614 символов
 [2026-07-20 16:05:23] Фото не отправилось: 400
 [2026-07-20 16:05:23] === Блок evening завершён ===
+[2026-07-20 18:01:17] Загружено 2433 уже отправленных новостей
+[2026-07-20 18:01:17] === Запуск блока: ai_evening ===
+[2026-07-20 18:01:17] Неизвестный источник (bleepingcomputer): Family member clicked and opend a suspic
+[2026-07-20 18:01:17] Неизвестный источник (bleeding cool news): Gambit: Wanted #1 Preview: Remy's Bad Lu
+[2026-07-20 18:01:17] Неизвестный источник (forbes): Can AI Dependence Develop Into AI Addict
+[2026-07-20 18:01:17] Неизвестный источник (the jerusalem post): The labor market has not yet recovered f
+[2026-07-20 18:01:17] Неизвестный источник (medrxiv.org): Generative Artificial Intelligence in Ps
+[2026-07-20 18:01:17] Неизвестный источник (cnbc): American Airlines CEO lays out his visio
+[2026-07-20 18:01:17] Нет фото: artificial-intelligence-local 0.0.3b3122
+[2026-07-20 18:01:17] Неизвестный источник (livemint): NHA penalises 2,842 hospitals, blocks ₹6
+[2026-07-20 18:01:17] Неизвестный источник (the next web): The Company Brain and the Future of Go-t
+[2026-07-20 18:01:17] Неизвестный источник (ritholtz.com): 10 Sunday Reads
+[2026-07-20 18:01:17] Неизвестный источник (digital journal): Pocket-size AI: Powerful phones star at 
+[2026-07-20 18:01:17] Неизвестный источник (prnewswire): Emdoor Launches "Ailyn" AI Hub at WAIC 2
+[2026-07-20 18:01:17] Нет фото: specfann 1.0.0
+[2026-07-20 18:01:17] Нет фото: specfann added to PyPI
+[2026-07-20 18:01:17] Неизвестный источник (bleeding cool news): Detective Comics #1111 Preview: Past Mis
+[2026-07-20 18:01:17] Неизвестный источник (digital journal): Canadian mathematician honoured for resh
+[2026-07-20 18:01:17] Неизвестный источник (digital journal): Canada’s emerging science of resilient s
+[2026-07-20 18:01:17] Нет фото: mindupload 1.8.0
+[2026-07-20 18:01:17] Неизвестный источник (yahoo entertainment): Mets interim manager Andy Green says clu
+[2026-07-20 18:01:17] AI новости: найдено 4 после фильтрации
+[2026-07-20 18:01:20] Обрабатываю: Who is Uday Ruddarraju? Indian-origin techie who left Elon M
+[2026-07-20 18:01:20] Попытка 1 для: Who is Uday Ruddarraju? Indian-origin te
+[2026-07-20 18:01:21] Успешно, получено 668 символов
+[2026-07-20 18:01:22] Пауза 60 секунд...
+[2026-07-20 18:02:22] Обрабатываю: Tesla Robotaxi Fleet Unveiled as Company Accelerates Autonom
+[2026-07-20 18:02:22] Попытка 1 для: Tesla Robotaxi Fleet Unveiled as Company
+[2026-07-20 18:02:23] Успешно, получено 690 символов
+[2026-07-20 18:02:23] Пауза 60 секунд...
+[2026-07-20 18:03:23] Обрабатываю: Is Facebook Down Today? Outage Disrupts Millions as Users Re
+[2026-07-20 18:03:23] Попытка 1 для: Is Facebook Down Today? Outage Disrupts 
+[2026-07-20 18:03:24] Успешно, получено 574 символов
+[2026-07-20 18:03:25] === Блок ai_evening завершён ===
