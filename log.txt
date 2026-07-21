@@ -31713,3 +31713,51 @@ Nithya
 [2026-07-21 06:05:22] Успешно, получено 650 символов
 [2026-07-21 06:05:23] Фото не отправилось: 400
 [2026-07-21 06:05:23] === Блок morning завершён ===
+[2026-07-21 08:01:08] Загружено 2441 уже отправленных новостей
+[2026-07-21 08:01:08] === Запуск блока: ai_morning ===
+[2026-07-21 08:01:09] Неизвестный источник (war on the rocks): Before Q-Day: The Race to Quantum First
+[2026-07-21 08:01:09] Неизвестный источник (war on the rocks): The Make-or-Buy Line has Moved
+[2026-07-21 08:01:09] Нет фото: Partners Group Raises $15 Billion for Ne
+[2026-07-21 08:01:09] Заблокированный источник (naturalnews.com): China’s Moonshot AI Releases Open-Source
+[2026-07-21 08:01:09] Неизвестный источник (protothema.gr): Where did the €36 Billion from the Recov
+[2026-07-21 08:01:09] Нет фото: Bezos Backs AI Startup to Discover New M
+[2026-07-21 08:01:09] Неизвестный источник (businessline): More Than 60 Nations Unite as IIHM Launc
+[2026-07-21 08:01:09] Нет фото: mindupload 1.9.2
+[2026-07-21 08:01:09] Неизвестный источник (c-sharpcorner.com): Local AI in .NET MAUI: Running On-Device
+[2026-07-21 08:01:09] Неизвестный источник (c-sharpcorner.com): Building AI Features with the OpenAI Res
+[2026-07-21 08:01:09] Неизвестный источник (bleeding cool news): Marc Spector: Moon Knight #6 Preview: Bl
+[2026-07-21 08:01:09] Неизвестный источник (globenewswire): EVA LIVE TARGETS A $3 TRILLION GLOBAL DE
+[2026-07-21 08:01:09] Неизвестный источник (psychology today): Sugar, Soda, and Mental Illness
+[2026-07-21 08:01:09] Неизвестный источник (bleeding cool news): Swamp Thing 1989 #4 Preview: Baby's Firs
+[2026-07-21 08:01:09] Неизвестный источник (the conversation africa): A cheap 25-year-old piece of hardware br
+[2026-07-21 08:01:09] Нет фото: mindupload 1.9.1
+[2026-07-21 08:01:09] Неизвестный источник (redhat.com): Open Telco AI: Training a model for an i
+[2026-07-21 08:01:09] Неизвестный источник (livemint): Quick pharma startup Plazza to expand st
+[2026-07-21 08:01:09] Нет фото: mindupload 1.9.0
+[2026-07-21 08:01:09] Неизвестный источник (financial post): Oil Climbs as Middle East Conflict Escal
+[2026-07-21 08:01:09] Неизвестный источник (github.com): Principia Artificialis – Mathematical Fo
+[2026-07-21 08:01:09] Неизвестный источник (siliconangle news): Alibaba previews Qwen3.8, claims it’s se
+[2026-07-21 08:01:09] Неизвестный источник (bleeding cool news): Godzilla Conquers the Multiverse #1 Prev
+[2026-07-21 08:01:09] Неизвестный источник (the conversation africa): New trial of AI-powered traffic lights w
+[2026-07-21 08:01:09] Неизвестный источник (activistpost.com): Cuba’s Grid Collapses, HHS Uncovers $3.5
+[2026-07-21 08:01:09] Неизвестный источник (newsonjapan.com): Apple Hikes iPhone Prices in Japan
+[2026-07-21 08:01:09] Неизвестный источник (techradar): 'The bypass is still six lines of JavaSc
+[2026-07-21 08:01:09] Неизвестный источник (dailykos.com): Insurers hedge on Trump-backed pledge to
+[2026-07-21 08:01:09] Неизвестный источник (bleepingcomputer): Family member clicked and opend a suspic
+[2026-07-21 08:01:09] Неизвестный источник (bleeding cool news): Gambit: Wanted #1 Preview: Remy's Bad Lu
+[2026-07-21 08:01:09] Неизвестный источник (forbes): Can AI Dependence Develop Into AI Addict
+[2026-07-21 08:01:09] Неизвестный источник (the jerusalem post): The labor market has not yet recovered f
+[2026-07-21 08:01:09] Неизвестный источник (medrxiv.org): Generative Artificial Intelligence in Ps
+[2026-07-21 08:01:09] AI новости: найдено 7 после фильтрации
+[2026-07-21 08:01:11] Обрабатываю: ICAR @98: Science, innovation and sustainability for Viksit 
+[2026-07-21 08:01:11] Попытка 1 для: ICAR @98: Science, innovation and sustai
+[2026-07-21 08:01:12] Успешно, получено 863 символов
+[2026-07-21 08:01:13] Пауза 60 секунд...
+[2026-07-21 08:02:13] Обрабатываю: Turtlemint eyes profitable FY27 as renewal book grows
+[2026-07-21 08:02:13] Попытка 1 для: Turtlemint eyes profitable FY27 as renew
+[2026-07-21 08:02:14] Успешно, получено 987 символов
+[2026-07-21 08:02:14] Пауза 60 секунд...
+[2026-07-21 08:03:14] Обрабатываю: Tata’s Trent targets 100 new Westside stores annually
+[2026-07-21 08:03:14] Попытка 1 для: Tata’s Trent targets 100 new Westside st
+[2026-07-21 08:03:15] Успешно, получено 806 символов
+[2026-07-21 08:03:16] === Блок ai_morning завершён ===
