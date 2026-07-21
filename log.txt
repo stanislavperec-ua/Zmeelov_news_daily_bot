@@ -31761,3 +31761,36 @@ Nithya
 [2026-07-21 08:03:14] Попытка 1 для: Tata’s Trent targets 100 new Westside st
 [2026-07-21 08:03:15] Успешно, получено 806 символов
 [2026-07-21 08:03:16] === Блок ai_morning завершён ===
+[2026-07-21 11:01:13] Загружено 2444 уже отправленных новостей
+[2026-07-21 11:01:13] === Запуск блока: midday ===
+[2026-07-21 11:01:14] Неизвестный источник (gizmodo.com): How Much Coffee Is Too Much? Heart Exper
+[2026-07-21 11:01:14] Неизвестный источник (espn): World Cup final halftime show: Rating ev
+[2026-07-21 11:01:14] Неизвестный источник (fox business): FDA says Taylor Farms Cyclospora lettuce
+[2026-07-21 11:01:14] Неизвестный источник (sammobile): Galaxy Watch Ultra 2 leak reveals 5,000 
+[2026-07-21 11:01:14] Неизвестный источник (macrumors): Apple Testing New 'Live Notes' Feature a
+[2026-07-21 11:01:14] Неизвестный источник (phys.org): Generating red blood cell-like cells fro
+[2026-07-21 11:01:14] Неизвестный источник (page six): Travis Scott involved in ‘bottle throwin
+[2026-07-21 11:01:14] Неизвестный источник (people): Jennifer Lopez Shares Photos from ‘Doubl
+[2026-07-21 11:01:14] Неизвестный источник (wral.com): NC farmers see increased produce sales a
+[2026-07-21 11:01:14] Неизвестный источник (9to5mac): Apple’s scrapped Mac Pro plans reportedl
+[2026-07-21 11:01:14] Неизвестный источник (yale climate connections): TD 2 predicted to strengthen near upper 
+[2026-07-21 11:01:14] Старая новость (2026-07-19T06:52:06Z): Google Pixel 11 Pro XL vs. Pixel 10 Pro 
+[2026-07-21 11:01:14] Старая новость (2026-07-19T05:51:00Z): Second death reported in NYC’s Legionnai
+[2026-07-21 11:01:14] Старая новость (2026-07-18T18:51:26Z): NASA's Psyche mission delivers Mars flyb
+[2026-07-21 11:01:14] Мировые новости: найдено 13 после фильтрации
+[2026-07-21 11:01:16] Обрабатываю: U.S. teeters on all-out war with Iran after more troops are 
+[2026-07-21 11:01:16] Попытка 1 для: U.S. teeters on all-out war with Iran af
+[2026-07-21 11:01:17] Успешно, получено 655 символов
+[2026-07-21 11:01:18] Пауза 60 секунд...
+[2026-07-21 11:02:18] Обрабатываю: Republicans don’t want to go there again on Trump’s 2020 ele
+[2026-07-21 11:02:18] Попытка 1 для: Republicans don’t want to go there again
+[2026-07-21 11:02:19] Успешно, получено 907 символов
+[2026-07-21 11:02:19] Пауза 60 секунд...
+[2026-07-21 11:03:19] Обрабатываю: US gas prices hit an average of $4 a gallon again as the US 
+[2026-07-21 11:03:19] Попытка 1 для: US gas prices hit an average of $4 a gal
+[2026-07-21 11:03:21] Успешно, получено 736 символов
+[2026-07-21 11:03:21] Пауза 60 секунд...
+[2026-07-21 11:04:21] Обрабатываю: Trump says new Air Force One will be sent to get ‘maxed out’
+[2026-07-21 11:04:21] Попытка 1 для: Trump says new Air Force One will be sen
+[2026-07-21 11:04:22] Успешно, получено 609 символов
+[2026-07-21 11:04:22] === Блок midday завершён ===
