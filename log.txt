@@ -32089,3 +32089,52 @@ Nithya
 [2026-07-22 16:05:30] Попытка 1 для: Two very different men are at the heart 
 [2026-07-22 16:05:31] Успешно, получено 593 символов
 [2026-07-22 16:05:32] === Блок evening завершён ===
+[2026-07-22 18:01:16] Загружено 2472 уже отправленных новостей
+[2026-07-22 18:01:16] === Запуск блока: ai_evening ===
+[2026-07-22 18:01:17] Неизвестный источник (nakedcapitalism.com): Coffee Break: Armed Madhouse – The Two F
+[2026-07-22 18:01:17] Неизвестный источник (next big future): Grok Can Now Do Way More With Natural Co
+[2026-07-22 18:01:17] Неизвестный источник (biztoc.com): SpaceX: The Artificial Intelligence (AI)
+[2026-07-22 18:01:17] Неизвестный источник (financial post): Biggest US Power Grid Faces Possible Bre
+[2026-07-22 18:01:17] Неизвестный источник (poolside.ai): Laguna S 2.1
+[2026-07-22 18:01:17] Неизвестный источник (the punch): ECOWAS anti-graft agencies operationalis
+[2026-07-22 18:01:17] Неизвестный источник (biztoc.com): University of Tennessee sues Anthropic o
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Humanoid raises $152M at $1.35B valuatio
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Speakeasy service tracks enterprise-wide
+[2026-07-22 18:01:17] Неизвестный источник (pymnts.com): American Express and Bottomline Partner 
+[2026-07-22 18:01:17] Неизвестный источник (cointelegraph): MEXC adds Bittensor TAO staking for its 
+[2026-07-22 18:01:17] Неизвестный источник (cna): University of Tennessee sues Anthropic o
+[2026-07-22 18:01:17] Неизвестный источник (cna): Anthropic sued for infringing neural net
+[2026-07-22 18:01:17] Неизвестный источник (financial post): Biotech IPO gains crush AI listings with
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Whop releases command-line interface to 
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Google expands Gemini with cheaper model
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Box adds security controls to govern AI 
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Nvidia doubles down on AI factories as i
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Harness launches Agent DLC for developer
+[2026-07-22 18:01:17] Неизвестный источник (globenewswire): The Countdown Intensifies: Solana Unchai
+[2026-07-22 18:01:17] Неизвестный источник (the next web): The hidden advantage of looking like a b
+[2026-07-22 18:01:17] Неизвестный источник (businessline): Ashok Leyland bets on AI to boost manufa
+[2026-07-22 18:01:17] Неизвестный источник (businessline): Ashok Leyland bets on AI to boost manufa
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Exclusive: Fig launches Figaro AI agent 
+[2026-07-22 18:01:17] Неизвестный источник (prnewswire): Venezuela's Cashea Raises $100 Million F
+[2026-07-22 18:01:17] Неизвестный источник (dianeravitch.net): Nevada: Charter Schools Are the Trojan H
+[2026-07-22 18:01:17] Заблокированный источник (hartmannreport.com): They Didn't Just Buy Politicians: They B
+[2026-07-22 18:01:17] Неизвестный источник (globenewswire): Sagtec Global Limited Expands Strategic 
+[2026-07-22 18:01:17] Неизвестный источник (prnewswire): Teachers 2.0 Explores How AI Is Transfor
+[2026-07-22 18:01:17] Нет фото: Clinisys™ Advances Its Unified Laborator
+[2026-07-22 18:01:17] Неизвестный источник (dark horizons): Making New IMAX 70MM Difficulties Explai
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Cisco releases Antares, open-weight smal
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Legal AI startup Vikk AI raises $4.2M to
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): Komodor’s autonomous site reliability en
+[2026-07-22 18:01:17] Неизвестный источник (siliconangle news): WekaIO revamps its AI data storage platf
+[2026-07-22 18:01:17] Неизвестный источник (crypto briefing): VanEck’s July Bitcoin Chaincheck paints 
+[2026-07-22 18:01:17] Нет фото: CFA Institute Launches Research Series t
+[2026-07-22 18:01:17] Неизвестный источник (forbes): Carrie Ann Inaba Talks About Her Challen
+[2026-07-22 18:01:17] AI новости: найдено 2 после фильтрации
+[2026-07-22 18:01:19] Обрабатываю: I rode this powerful ebike for hours and my butt wasn’t mad 
+[2026-07-22 18:01:19] Попытка 1 для: I rode this powerful ebike for hours and
+[2026-07-22 18:01:20] Успешно, получено 717 символов
+[2026-07-22 18:01:21] Пауза 60 секунд...
+[2026-07-22 18:02:21] Обрабатываю: Japan’s AI gamble: Can technology offset the cost of an agei
+[2026-07-22 18:02:21] Попытка 1 для: Japan’s AI gamble: Can technology offset
+[2026-07-22 18:02:22] Успешно, получено 712 символов
+[2026-07-22 18:02:23] === Блок ai_evening завершён ===
