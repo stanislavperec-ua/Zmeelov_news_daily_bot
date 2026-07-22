@@ -31999,3 +31999,37 @@ Nithya
 [2026-07-22 08:03:27] Попытка 1 для: Circularly polarized bulk-heterojunction
 [2026-07-22 08:03:28] Успешно, получено 645 символов
 [2026-07-22 08:03:29] === Блок ai_morning завершён ===
+[2026-07-22 11:01:12] Загружено 2462 уже отправленных новостей
+[2026-07-22 11:01:12] === Запуск блока: midday ===
+[2026-07-22 11:01:12] Неизвестный источник (ksl.com): SUU student identified as US soldier kil
+[2026-07-22 11:01:12] Неизвестный источник (variety): Jon Stewart Says the World Cup Final Was
+[2026-07-22 11:01:12] Неизвестный источник (usa today): Tropical Storm Bertha forms in the Gulf,
+[2026-07-22 11:01:12] Неизвестный источник (deadline): ‘The Odyssey’ Doesn’t Stop: Epic Bound F
+[2026-07-22 11:01:12] Неизвестный источник (cnbc): Jamie Dimon says markets underestimate r
+[2026-07-22 11:01:12] Неизвестный источник (denverite): ‘That’s crazy:’ Fans blindsided as Denve
+[2026-07-22 11:01:12] Неизвестный источник (9to5google.com): Google Photos toggle lets you switch bet
+[2026-07-22 11:01:12] Неизвестный источник (ketv omaha): Douglas County officials: 'Rapid' Cyclos
+[2026-07-22 11:01:12] Неизвестный источник (cbs sports): Michigan AD Warde Manuel to step down at
+[2026-07-22 11:01:12] Неизвестный источник (gizmodo.com): Earth’s Oceans Are Rapidly Losing Oxygen
+[2026-07-22 11:01:12] Неизвестный источник (space.com): Did Viking 1 find life on Mars 50 years 
+[2026-07-22 11:01:12] Старая новость (2026-07-20T08:25:52Z): NASA has just released a jaw-dropping vi
+[2026-07-22 11:01:12] Старая новость (2026-07-19T21:00:10Z): I added one line to my NotebookLM prompt
+[2026-07-22 11:01:12] Мировые новости: найдено 19 после фильтрации
+[2026-07-22 11:01:15] Обрабатываю: Can I eat lettuce now? What to know about the cyclosporiasis
+[2026-07-22 11:01:15] Попытка 1 для: Can I eat lettuce now? What to know abou
+[2026-07-22 11:01:16] Успешно, получено 665 символов
+[2026-07-22 11:01:16] Фото не отправилось: 400
+[2026-07-22 11:01:16] Пауза 60 секунд...
+[2026-07-22 11:02:16] Обрабатываю: His doctor’s prescription for his unbearable pain seemed abs
+[2026-07-22 11:02:16] Попытка 1 для: His doctor’s prescription for his unbear
+[2026-07-22 11:02:18] Успешно, получено 630 символов
+[2026-07-22 11:02:18] Фото не отправилось: 400
+[2026-07-22 11:02:18] Пауза 60 секунд...
+[2026-07-22 11:03:18] Обрабатываю: World shares mostly gain and South Korea and Japan recover s
+[2026-07-22 11:03:18] Попытка 1 для: World shares mostly gain and South Korea
+[2026-07-22 11:03:20] Успешно, получено 978 символов
+[2026-07-22 11:03:20] Пауза 60 секунд...
+[2026-07-22 11:04:20] Обрабатываю: Trump slaps 50% tariffs on Canada and Carney vows to 'intens
+[2026-07-22 11:04:20] Попытка 1 для: Trump slaps 50% tariffs on Canada and Ca
+[2026-07-22 11:04:21] Успешно, получено 636 символов
+[2026-07-22 11:04:22] === Блок midday завершён ===
