@@ -31949,3 +31949,53 @@ Nithya
 [2026-07-22 06:05:29] Успешно, получено 764 символов
 [2026-07-22 06:05:29] Фото не отправилось: 400
 [2026-07-22 06:05:30] === Блок morning завершён ===
+[2026-07-22 08:01:21] Загружено 2459 уже отправленных новостей
+[2026-07-22 08:01:21] === Запуск блока: ai_morning ===
+[2026-07-22 08:01:22] Неизвестный источник (inside higher ed): Podcast Host Debuts Book Club for Studen
+[2026-07-22 08:01:22] Неизвестный источник (livemint): Lighthouse Learning said to be acquiring
+[2026-07-22 08:01:22] Неизвестный источник (vanguard): Drug trafficking through ports threatens
+[2026-07-22 08:01:22] Неизвестный источник (securityaffairs.com): Attackers Exploit Critical ServiceNow RC
+[2026-07-22 08:01:22] Неизвестный источник (smallwarsjournal.com): The Power Trap: Why AI’s Energy Demands 
+[2026-07-22 08:01:22] Заблокированный источник (naturalnews.com): Sacks: U.S. AI Edge at Risk Amid Chinese
+[2026-07-22 08:01:22] Нет фото: mindupload 1.9.4
+[2026-07-22 08:01:22] Неизвестный источник (c-sharpcorner.com): ONNX Runtime in .NET: Running AI Models 
+[2026-07-22 08:01:22] Неизвестный источник (antaranews.com): Tec-Do Launches Navos 2.0 at WAIC, Advan
+[2026-07-22 08:01:22] Неизвестный источник (biztoc.com): Hugging Face warns an autonomous AI agen
+[2026-07-22 08:01:22] Неизвестный источник (antaranews.com): HKTDC showcases Hong Kong Tech Pavilion 
+[2026-07-22 08:01:22] Неизвестный источник (antaranews.com): INVEST Fair 2026 Kicks Off, Bringing Mal
+[2026-07-22 08:01:22] Нет фото: pyscdblfinder 0.2.1
+[2026-07-22 08:01:22] Неизвестный источник (bleeding cool news): X-Men: The Hellfire Murder #1 Preview: M
+[2026-07-22 08:01:22] Нет фото: Crypto IPO market stalls as capital rota
+[2026-07-22 08:01:22] Неизвестный источник (next big future): SpaceX Starlink Communications Will Be i
+[2026-07-22 08:01:22] Нет фото: pydoubletfinder 0.2.0
+[2026-07-22 08:01:22] Заблокированный источник (thegatewaypundit.com): Flock Safety’s Billion-Dollar Surveillan
+[2026-07-22 08:01:22] Неизвестный источник (siliconangle news): Google reportedly developing ‘Frozen v2’
+[2026-07-22 08:01:22] Нет фото: pyscdblfinder 0.2.0
+[2026-07-22 08:01:22] Неизвестный источник (elastic.co): Higher education analytics for the ultra
+[2026-07-22 08:01:22] Неизвестный источник (mercola.com): Your Brain Is Starving, and It's Not for
+[2026-07-22 08:01:22] Неизвестный источник (redhat.com): Physical AI: When machines start to thin
+[2026-07-22 08:01:22] Неизвестный источник (redhat.com): Preparing for Q-day: Four steps to prepa
+[2026-07-22 08:01:22] Неизвестный источник (financial post): Burnham Picks Narayan as First UK AI Min
+[2026-07-22 08:01:22] Неизвестный источник (prnewswire): ICOHS College VET TEC 2.0 Approval, Open
+[2026-07-22 08:01:22] Неизвестный источник (siliconangle news): AI materials science startup CuspAI rais
+[2026-07-22 08:01:22] Неизвестный источник (sporting news): Why NFL players want grass fields equal 
+[2026-07-22 08:01:22] Неизвестный источник (substack.com): The 7 Non-Negotiables for Optimal Health
+[2026-07-22 08:01:22] Неизвестный источник (financial post): News of the day: Bay du Nord offshore oi
+[2026-07-22 08:01:22] Неизвестный источник (digital journal): Could Stripe and PayPal reshape the futu
+[2026-07-22 08:01:22] Неизвестный источник (siliconangle news): Microsoft will use AMD’s AI-optimized He
+[2026-07-22 08:01:22] Неизвестный источник (siliconangle news): Infinity raises $15M to run AI inference
+[2026-07-22 08:01:22] Неизвестный источник (globenewswire): Cosmos Health Expands Pharma Cell Partne
+[2026-07-22 08:01:22] Нет фото: mindupload 1.9.3
+[2026-07-22 08:01:22] AI новости: найдено 4 после фильтрации
+[2026-07-22 08:01:24] Обрабатываю: India's GCC rise is transforming workplace strategy, says Ta
+[2026-07-22 08:01:24] Попытка 1 для: India's GCC rise is transforming workpla
+[2026-07-22 08:01:26] Успешно, получено 832 символов
+[2026-07-22 08:01:26] Пауза 60 секунд...
+[2026-07-22 08:02:26] Обрабатываю: Taiwan launches AI- and IoT-powered smart heat protection ne
+[2026-07-22 08:02:26] Попытка 1 для: Taiwan launches AI- and IoT-powered smar
+[2026-07-22 08:02:27] Успешно, получено 666 символов
+[2026-07-22 08:02:27] Пауза 60 секунд...
+[2026-07-22 08:03:27] Обрабатываю: Circularly polarized bulk-heterojunction memory-computing or
+[2026-07-22 08:03:27] Попытка 1 для: Circularly polarized bulk-heterojunction
+[2026-07-22 08:03:28] Успешно, получено 645 символов
+[2026-07-22 08:03:29] === Блок ai_morning завершён ===
