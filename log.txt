@@ -32246,3 +32246,39 @@ Nithya
 [2026-07-23 08:03:23] Попытка 1 для: Celebrating Nature’s covers — past, pres
 [2026-07-23 08:03:24] Успешно, получено 650 символов
 [2026-07-23 08:03:25] === Блок ai_morning завершён ===
+[2026-07-23 11:01:15] Загружено 2483 уже отправленных новостей
+[2026-07-23 11:01:15] === Запуск блока: midday ===
+[2026-07-23 11:01:15] Неизвестный источник (investing.com): Asia stocks erase early gains as oil sur
+[2026-07-23 11:01:15] Неизвестный источник (kgo-tv): Little Fire: Firefighter injured, evacua
+[2026-07-23 11:01:15] Неизвестный источник (deadline): Rebel Wilson Triumphs In Explosive Court
+[2026-07-23 11:01:15] Неизвестный источник (internet): OpenAI Says Its AI Models Escaped Sandbo
+[2026-07-23 11:01:15] Неизвестный источник (espn): Heat say link for LeBron James presser p
+[2026-07-23 11:01:15] Неизвестный источник (new york post): Dodgers beat Phillies on inexplicable ga
+[2026-07-23 11:01:15] Неизвестный источник (instyle): Prince George Likely Won’t Have This Pri
+[2026-07-23 11:01:15] Неизвестный источник (fox business): IMAX CEO describes 'frenzy' after Christ
+[2026-07-23 11:01:15] Неизвестный источник (gizmodo.com): Xteink’s Next Pocket-Sized E-Reader Coul
+[2026-07-23 11:01:15] Неизвестный источник (phys.org): When a SpaceX rocket crashes into the mo
+[2026-07-23 11:01:15] Неизвестный источник (fox news): Coffee lovers can take heart: Up to 5 cu
+[2026-07-23 11:01:15] Неизвестный источник (usa today): You can see Mars as rarely viewed in new
+[2026-07-23 11:01:15] Неизвестный источник (macrumors): iPhone 18 Rumor Reality Check: 20 Claims
+[2026-07-23 11:01:15] Неизвестный источник (cnet): Samsung Galaxy Unpacked Live: Z Fold 8, 
+[2026-07-23 11:01:15] Неизвестный источник (space.com): SpaceX will launch a satellite repair dr
+[2026-07-23 11:01:15] Старая новость (2026-07-21T11:01:00Z): South Carolina Senate candidates pile in
+[2026-07-23 11:01:15] Старая новость (2026-07-21T10:45:00Z): Viking 1 landed on Mars 50 years ago - T
+[2026-07-23 11:01:15] Мировые новости: найдено 17 после фильтрации
+[2026-07-23 11:01:18] Обрабатываю: Trump-backed candidates, 2020 election deniers, win Arizona 
+[2026-07-23 11:01:18] Попытка 1 для: Trump-backed candidates, 2020 election d
+[2026-07-23 11:01:19] Успешно, получено 768 символов
+[2026-07-23 11:01:19] Пауза 60 секунд...
+[2026-07-23 11:02:19] Обрабатываю: US attacks Iran for 11th consecutive night
+[2026-07-23 11:02:19] Попытка 1 для: US attacks Iran for 11th consecutive nig
+[2026-07-23 11:02:21] Успешно, получено 594 символов
+[2026-07-23 11:02:21] Пауза 60 секунд...
+[2026-07-23 11:03:21] Обрабатываю: Iran's demands over the Strait of Hormuz would set a dangero
+[2026-07-23 11:03:21] Попытка 1 для: Iran's demands over the Strait of Hormuz
+[2026-07-23 11:03:22] Успешно, получено 824 символов
+[2026-07-23 11:03:23] Пауза 60 секунд...
+[2026-07-23 11:04:23] Обрабатываю: Tropical Storm Bertha impacting northern Gulf Coast. See for
+[2026-07-23 11:04:23] Попытка 1 для: Tropical Storm Bertha impacting northern
+[2026-07-23 11:04:24] Успешно, получено 651 символов
+[2026-07-23 11:04:25] === Блок midday завершён ===
