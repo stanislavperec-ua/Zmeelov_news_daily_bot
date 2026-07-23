@@ -32197,3 +32197,52 @@ Nithya
 [2026-07-23 06:05:32] Попытка 1 для: Ukraine gets new top commander as protes
 [2026-07-23 06:05:33] Успешно, получено 556 символов
 [2026-07-23 06:05:34] === Блок morning завершён ===
+[2026-07-23 08:01:17] Загружено 2480 уже отправленных новостей
+[2026-07-23 08:01:17] === Запуск блока: ai_morning ===
+[2026-07-23 08:01:17] Неизвестный источник (infoq.com): GKE Security Blueprint Joins Growing Lis
+[2026-07-23 08:01:17] Неизвестный источник (sportsnaut): Morning Rumble: Hurricanes Unveil New Ho
+[2026-07-23 08:01:17] Неизвестный источник (globenewswire): Robotic Warfare Market Size to Worth USD
+[2026-07-23 08:01:17] Неизвестный источник (forbes): AI Sneaks Its ‘Personal Values’ Into Eve
+[2026-07-23 08:01:17] Неизвестный источник (landezine.com): Free Competition: Botanical Turn
+[2026-07-23 08:01:17] Нет фото: AI Breakthroughs to Slash Energy Needs, 
+[2026-07-23 08:01:17] Неизвестный источник (landezine.com): Building Postcarbon Futures: We Need a W
+[2026-07-23 08:01:17] Неизвестный источник (코리아타임스): Seoul, Samsung Bioepis join forces to gr
+[2026-07-23 08:01:17] Нет фото: artificial-intelligence-local 0.0.5
+[2026-07-23 08:01:17] Неизвестный источник (c-sharpcorner.com): Azure AI Document Intelligence with .NET
+[2026-07-23 08:01:17] Неизвестный источник (smallwarsjournal.com): Mind the Gaps: Rethinking Landpower in a
+[2026-07-23 08:01:17] Неизвестный источник (vanguard): OPay Leads Nigeria’s Fight Against Digit
+[2026-07-23 08:01:17] Неизвестный источник (standard digital): The future of our workforce depends on t
+[2026-07-23 08:01:17] Неизвестный источник (financial post): Gas-Rich Australian Region Backs $28 Bil
+[2026-07-23 08:01:17] Неизвестный источник (businessline): Gene Solutions Showcases Global Evidence
+[2026-07-23 08:01:17] Неизвестный источник (businessline): Anthropic sued for infringing neural net
+[2026-07-23 08:01:17] Неизвестный источник (biztoc.com): Capital One Tests Moving Credit Cards to
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): Nvidia Vera Rubin: Inside the agentic AI
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): Mistral AI strikes multibillion deal wit
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): Mistral AI strikes multibillion-dollar d
+[2026-07-23 08:01:17] Неизвестный источник (financial post): Indian Rupee Rebound Bets Vanish as Soar
+[2026-07-23 08:01:17] Неизвестный источник (itnews): OpenAI models running benchmark breached
+[2026-07-23 08:01:17] Неизвестный источник (pymnts.com): Capital One Tests Moving Credit Cards to
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): SkyPilot nabs $20M to ease AI infrastruc
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): U.S. Treasury Secretary Bessent threaten
+[2026-07-23 08:01:17] Неизвестный источник (the conversation africa): Testosterone testing the military: how t
+[2026-07-23 08:01:17] Нет фото: Japan’s Trade Deficit Widens as Yen, Ira
+[2026-07-23 08:01:17] Неизвестный источник (the punch): ECOWAS anti-graft agencies unite against
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): AI server maker Supermicro’s stock gains
+[2026-07-23 08:01:17] Неизвестный источник (vanguard): Taking care of the telecoms poor, by Oko
+[2026-07-23 08:01:17] Неизвестный источник (the punch): Nigeria urges AU crackdown on illicit te
+[2026-07-23 08:01:17] Неизвестный источник (pypi.org): feed-sentiment added to PyPI
+[2026-07-23 08:01:17] Неизвестный источник (financial post): Asian Stocks Set for Gains as Chipmakers
+[2026-07-23 08:01:17] Неизвестный источник (siliconangle news): OpenAI says its own AI models broke out 
+[2026-07-23 08:01:17] AI новости: найдено 5 после фильтрации
+[2026-07-23 08:01:20] Обрабатываю: China Pitches Its AI Leadership to the World
+[2026-07-23 08:01:20] Попытка 1 для: China Pitches Its AI Leadership to the W
+[2026-07-23 08:01:21] Успешно, получено 712 символов
+[2026-07-23 08:01:22] Пауза 60 секунд...
+[2026-07-23 08:02:22] Обрабатываю: Anthropic sued for infringing neural network technology pate
+[2026-07-23 08:02:22] Попытка 1 для: Anthropic sued for infringing neural net
+[2026-07-23 08:02:23] Успешно, получено 648 символов
+[2026-07-23 08:02:23] Пауза 60 секунд...
+[2026-07-23 08:03:23] Обрабатываю: Celebrating Nature’s covers — past, present and future
+[2026-07-23 08:03:23] Попытка 1 для: Celebrating Nature’s covers — past, pres
+[2026-07-23 08:03:24] Успешно, получено 650 символов
+[2026-07-23 08:03:25] === Блок ai_morning завершён ===
