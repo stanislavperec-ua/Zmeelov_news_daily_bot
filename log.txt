@@ -32513,3 +32513,41 @@ Nithya
 [2026-07-24 08:03:24] Попытка 1 для: Why highly advanced rogue AI has experts
 [2026-07-24 08:03:26] Успешно, получено 788 символов
 [2026-07-24 08:03:26] === Блок ai_morning завершён ===
+[2026-07-24 11:01:39] Загружено 2504 уже отправленных новостей
+[2026-07-24 11:01:39] === Запуск блока: midday ===
+[2026-07-24 11:01:40] Заблокированный источник (bleacher report): Red Sox's Historic Win Streak Snapped Af
+[2026-07-24 11:01:40] Неизвестный источник (foxweather.com): Tropical Storm Bertha makes landfall in 
+[2026-07-24 11:01:40] Неизвестный источник (triblive): Yankees win pitching duel, shut out Pira
+[2026-07-24 11:01:40] Неизвестный источник (deadline): Paramount Seeks Three-Day Hearing As Jud
+[2026-07-24 11:01:40] Неизвестный источник (mlb.com): 10 teams with willingness, prospects to 
+[2026-07-24 11:01:40] Неизвестный источник (fox news): Trump gives emotional tribute to fallen 
+[2026-07-24 11:01:40] Неизвестный источник (barron's): Alphabet Reports Blowout Earnings - Barr
+[2026-07-24 11:01:40] Неизвестный источник (rock paper shotgun): Steam wishlists are getting categories, 
+[2026-07-24 11:01:40] Неизвестный источник (rolling stone): D4vd's Tesla Was Filled With Air Freshen
+[2026-07-24 11:01:40] Неизвестный источник (actionnews5.com): Cause of death revealed for 18-year-old 
+[2026-07-24 11:01:40] Неизвестный источник (wboc tv 16): BREAKING: Delaware declares measles outb
+[2026-07-24 11:01:40] Неизвестный источник (9to5google.com): Pixel 11 series leaks in more official-l
+[2026-07-24 11:01:40] Неизвестный источник (notebookcheck.net): Lenovo reveals more about its new lightw
+[2026-07-24 11:01:40] Неизвестный источник (space.com): Astronomers may have discovered the 1st 
+[2026-07-24 11:01:40] Неизвестный источник (consumerreports.org): No, You Shouldn’t Avoid Fruits and Veget
+[2026-07-24 11:01:40] Неизвестный источник (space.com): Our 1st-ever up-close look at the Martia
+[2026-07-24 11:01:40] Старая новость (2026-07-22T08:10:06Z): Private mission launches to extend life 
+[2026-07-24 11:01:40] Мировые новости: найдено 12 после фильтрации
+[2026-07-24 11:01:42] Обрабатываю: Iran War Updates: U.S. carries out 12th straight night of st
+[2026-07-24 11:01:42] Попытка 1 для: Iran War Updates: U.S. carries out 12th 
+[2026-07-24 11:01:44] Успешно, получено 561 символов
+[2026-07-24 11:01:59] Ошибка отправки фото: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8770853610:AAE9QL5fT-k66IioCGXBH0hmLTbjrvplSIY/sendPhoto (Caused by NewConnectionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-07-24 11:01:59] Пауза 60 секунд...
+[2026-07-24 11:02:59] Обрабатываю: Man fatally shot by police officer in Madison, prompting pro
+[2026-07-24 11:02:59] Попытка 1 для: Man fatally shot by police officer in Ma
+[2026-07-24 11:03:00] Успешно, получено 662 символов
+[2026-07-24 11:03:00] Фото не отправилось: 400
+[2026-07-24 11:03:01] Пауза 60 секунд...
+[2026-07-24 11:04:01] Обрабатываю: OpenAI blamed a hacking event on its AI models gone rogue. H
+[2026-07-24 11:04:01] Попытка 1 для: OpenAI blamed a hacking event on its AI 
+[2026-07-24 11:04:02] Успешно, получено 722 символов
+[2026-07-24 11:04:02] Пауза 60 секунд...
+[2026-07-24 11:05:02] Обрабатываю: Amish Shah wins Democratic congressional primary in Arizona,
+[2026-07-24 11:05:02] Попытка 1 для: Amish Shah wins Democratic congressional
+[2026-07-24 11:05:04] Успешно, получено 893 символов
+[2026-07-24 11:05:04] === Блок midday завершён ===
