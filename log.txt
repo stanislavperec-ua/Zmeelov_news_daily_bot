@@ -32393,3 +32393,70 @@ Nithya
 [2026-07-23 18:01:16] Попытка 1 для: Octave Connects 200+ Therapist Calendars
 [2026-07-23 18:01:18] Успешно, получено 886 символов
 [2026-07-23 18:01:18] === Блок ai_evening завершён ===
+[2026-07-24 06:01:17] Загружено 2495 уже отправленных новостей
+[2026-07-24 06:01:17] === Запуск блока: morning ===
+[2026-07-24 06:01:17] Неизвестный источник (hollywood reporter): Cinerama Dome to Reopen in Early 2028 as
+[2026-07-24 06:01:17] Заблокированный источник (bleacher report): Red Sox's Historic Win Streak Snapped Af
+[2026-07-24 06:01:17] Неизвестный источник (triblive): Yankees win pitching duel, shut out Pira
+[2026-07-24 06:01:17] Неизвестный источник (wisconsin examiner): Madison police kill man in broad dayligh
+[2026-07-24 06:01:17] Неизвестный источник (mlb.com): 10 teams with willingness, prospects to 
+[2026-07-24 06:01:17] Неизвестный источник (cnet): Samsung’s Galaxy Z Fold 8 Is for Everyon
+[2026-07-24 06:01:17] Неизвестный источник (fox news): Trump gives emotional tribute to fallen 
+[2026-07-24 06:01:17] Неизвестный источник (fox news): Fox News Poll: Voters want major change 
+[2026-07-24 06:01:17] Неизвестный источник (9to5google.com): Pixel Watch 5 specs leak with no chip up
+[2026-07-24 06:01:17] Неизвестный источник (barron's): Alphabet Reports Blowout Earnings - Barr
+[2026-07-24 06:01:17] Неизвестный источник (rolling stone): D4vd's Tesla Was Filled With Air Freshen
+[2026-07-24 06:01:17] Неизвестный источник (azfamily): Cause of death revealed for 18-year-old 
+[2026-07-24 06:01:17] Неизвестный источник (9to5google.com): Pixel 11 series leaks in more official-l
+[2026-07-24 06:01:17] Неизвестный источник (space.com): Astronomers may have discovered the 1st 
+[2026-07-24 06:01:17] Неизвестный источник (consumerreports.org): No, You Shouldn’t Avoid Fruits and Veget
+[2026-07-24 06:01:17] Неизвестный источник (space.com): Our 1st-ever up-close look at the Martia
+[2026-07-24 06:01:17] Старая новость (2026-07-21T21:26:50Z): SpaceX launches Northrop mission to exte
+[2026-07-24 06:01:17] Старая новость (2026-07-21T19:00:51Z): Is your cholesterol too high based on la
+[2026-07-24 06:01:17] Мировые новости: найдено 13 после фильтрации
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): Health Ranger Report: World War E and th
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): Ukraine’s leadership crisis: Zelensky fa
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): Ukraine Conflict Described as Longstandi
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): Russia strikes Odessa port facilities us
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): We are living through WWIII, and sleepwa
+[2026-07-24 06:01:18] Заблокированный источник (naturalnews.com): World War E: Why the Energy Crisis Is an
+[2026-07-24 06:01:18] Нет фото: Zelensky fires head of Ukraine military 
+[2026-07-24 06:01:18] Заблокированный источник (rt): Lavrov and Rubio hold talks in Manila
+[2026-07-24 06:01:18] Нет фото: Ukraine’s new military commander aims to
+[2026-07-24 06:01:18] Нет фото: Why is Zelensky firing top leaders as Uk
+[2026-07-24 06:01:18] Украинские новости: найдено 3 после фильтрации
+[2026-07-24 06:01:18] Заблокированный источник (rt): What West won’t tell you about Zelensky’
+[2026-07-24 06:01:18] Заблокированный источник (breitbart news): Ukrainian Musical Chairs: Zelensky Chang
+[2026-07-24 06:01:18] Заблокированный источник (rt): Zelensky feared ex-defense minister’s po
+[2026-07-24 06:01:18] Нет фото: Zelenskyy Appoints New Chief Of General 
+[2026-07-24 06:01:18] Нет фото: Russian Forces Liberate Settlement of Ar
+[2026-07-24 06:01:18] Нет фото: Zelenskyy appoints new commander-in-chie
+[2026-07-24 06:01:18] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Settlement of Ar
+[2026-07-24 06:01:18] Харьков: найдена новость — Kremlin rules out returning Sumy, Kharkiv border a
+[2026-07-24 06:01:20] Обрабатываю: OpenAI blamed a hacking event on its AI models gone rogue. H
+[2026-07-24 06:01:20] Попытка 1 для: OpenAI blamed a hacking event on its AI 
+[2026-07-24 06:01:22] Успешно, получено 640 символов
+[2026-07-24 06:01:22] Пауза 60 секунд...
+[2026-07-24 06:02:22] Обрабатываю: July 22, 2026 — Trump attends dignified transfer of soldiers
+[2026-07-24 06:02:22] Попытка 1 для: July 22, 2026 — Trump attends dignified 
+[2026-07-24 06:02:24] Успешно, получено 959 символов
+[2026-07-24 06:02:24] Пауза 60 секунд...
+[2026-07-24 06:03:24] Обрабатываю: U.S. deploys B-1 bomber as attacks on Iran intensify
+[2026-07-24 06:03:24] Попытка 1 для: U.S. deploys B-1 bomber as attacks on Ir
+[2026-07-24 06:03:26] Успешно, получено 634 символов
+[2026-07-24 06:03:26] Пауза 60 секунд...
+[2026-07-24 06:04:26] Обрабатываю: U.S. signs nuclear deal with Saudi Arabia that gives it path
+[2026-07-24 06:04:26] Попытка 1 для: U.S. signs nuclear deal with Saudi Arabi
+[2026-07-24 06:04:27] Успешно, получено 927 символов
+[2026-07-24 06:04:30] Обрабатываю: Gas from Above: How UAVs Are Bringing Chemical Warfare Back 
+[2026-07-24 06:04:30] Попытка 1 для: Gas from Above: How UAVs Are Bringing Ch
+[2026-07-24 06:04:31] Успешно, получено 656 символов
+[2026-07-24 06:04:32] Пауза 60 секунд...
+[2026-07-24 06:05:32] Обрабатываю: US looks to revive Ukraine peace efforts in Rubio-Lavrov mee
+[2026-07-24 06:05:32] Попытка 1 для: US looks to revive Ukraine peace efforts
+[2026-07-24 06:05:33] Успешно, получено 760 символов
+[2026-07-24 06:05:34] Пауза 60 секунд...
+[2026-07-24 06:06:34] Обрабатываю: Kremlin rules out returning Sumy, Kharkiv border areas in pe
+[2026-07-24 06:06:34] Попытка 1 для: Kremlin rules out returning Sumy, Kharki
+[2026-07-24 06:06:35] Успешно, получено 785 символов
+[2026-07-24 06:06:35] === Блок morning завершён ===
