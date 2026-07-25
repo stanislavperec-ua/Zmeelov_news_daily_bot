@@ -32648,3 +32648,56 @@ Nithya
 [2026-07-24 18:01:14] Попытка 1 для: Spiritual intelligence vs Artificial int
 [2026-07-24 18:01:15] Успешно, получено 883 символов
 [2026-07-24 18:01:16] === Блок ai_evening завершён ===
+[2026-07-25 06:01:11] Загружено 2512 уже отправленных новостей
+[2026-07-25 06:01:11] === Запуск блока: morning ===
+[2026-07-25 06:01:11] Неизвестный источник (gizmodo.com): Live Updates From San Diego Comic-Con 20
+[2026-07-25 06:01:11] Неизвестный источник (cnbc): S&P 500 futures are little changed as tr
+[2026-07-25 06:01:11] Неизвестный источник (mlb.com): These 20 players will likely be wearing 
+[2026-07-25 06:01:11] Неизвестный источник (abcnews.com): By the Numbers: This year’s Ebola outbre
+[2026-07-25 06:01:11] Неизвестный источник (ksl.com): DNA expert ties slain 14-year-old Celest
+[2026-07-25 06:01:11] Неизвестный источник (venturebeat): Microsoft launches new in-house AI model
+[2026-07-25 06:01:11] Неизвестный источник (yahoo entertainment): Dodgers present President Trump with Wor
+[2026-07-25 06:01:11] Неизвестный источник (macrumors): 10 iOS 27 Performance Improvements You'l
+[2026-07-25 06:01:11] Неизвестный источник (espn): Manning taking ownership at Texas after 
+[2026-07-25 06:01:11] Неизвестный источник (houston chronicle): Bertha makes Texas landfall. Houston sti
+[2026-07-25 06:01:11] Неизвестный источник (cnet): My Galaxy Z Fold 8 Ongoing Review Living
+[2026-07-25 06:01:11] Неизвестный источник (wtop): Maryland confirms 2 new measles cases, w
+[2026-07-25 06:01:11] Старая новость (2026-07-22T21:54:00Z): SpaceX’s Latest Growth Opportunity Isn’t
+[2026-07-25 06:01:11] Старая новость (2026-07-22T17:07:19Z): Juno takes temperature of Jupiter's fier
+[2026-07-25 06:01:11] Старая новость (2026-07-22T14:53:00Z): Police: About 80 vases stolen from grave
+[2026-07-25 06:01:11] Старая новость (2026-07-22T14:41:06Z): No, You Shouldn’t Avoid Fruits and Veget
+[2026-07-25 06:01:11] Старая новость (2026-07-22T14:00:00Z): Our 1st-ever up-close look at the Martia
+[2026-07-25 06:01:11] Мировые новости: найдено 9 после фильтрации
+[2026-07-25 06:01:11] Заблокированный источник (naturalnews.com): U.S. Gasoline Prices Climb Back Above $4
+[2026-07-25 06:01:11] Заблокированный источник (naturalnews.com): Journalist Ben Swann reports on ENGINEER
+[2026-07-25 06:01:11] Заблокированный источник (naturalnews.com): IMF Approves $690 Million Ukraine Loan T
+[2026-07-25 06:01:11] Нет фото: Russia's oil and gas revenue seen up 60%
+[2026-07-25 06:01:11] Заблокированный источник (breitbart news): Rubio Rebukes Media: I Cannot Do Diploma
+[2026-07-25 06:01:11] Нет фото: Ukraine war live: Trump aide says Putin 
+[2026-07-25 06:01:11] Нет фото: Ukraine hits Russia's largest online mar
+[2026-07-25 06:01:11] Украинские новости: найдено 6 после фильтрации
+[2026-07-25 06:01:12] Харьков: новостей не найдено
+[2026-07-25 06:01:14] Обрабатываю: Indian activist Wangchuk ends 26-day hunger strike as 'Cockr
+[2026-07-25 06:01:14] Попытка 1 для: Indian activist Wangchuk ends 26-day hun
+[2026-07-25 06:01:16] Успешно, получено 774 символов
+[2026-07-25 06:01:16] Пауза 60 секунд...
+[2026-07-25 06:02:16] Обрабатываю: Justice Dept. drops 'New York Times' subpoenas under pressur
+[2026-07-25 06:02:16] Попытка 1 для: Justice Dept. drops 'New York Times' sub
+[2026-07-25 06:02:17] Успешно, получено 991 символов
+[2026-07-25 06:02:18] Пауза 60 секунд...
+[2026-07-25 06:03:18] Обрабатываю: Fatal police shooting of man with knife roils Madison, Wisco
+[2026-07-25 06:03:18] Попытка 1 для: Fatal police shooting of man with knife 
+[2026-07-25 06:03:19] Успешно, получено 1032 символов
+[2026-07-25 06:03:20] Пауза 60 секунд...
+[2026-07-25 06:04:20] Обрабатываю: How Trump upended the Saudi nuclear deal less than 24 hours 
+[2026-07-25 06:04:20] Попытка 1 для: How Trump upended the Saudi nuclear deal
+[2026-07-25 06:04:21] Успешно, получено 758 символов
+[2026-07-25 06:04:25] Обрабатываю: Ukraine drone attack hits Russia’s Amazon warehouse
+[2026-07-25 06:04:25] Попытка 1 для: Ukraine drone attack hits Russia’s Amazo
+[2026-07-25 06:04:26] Успешно, получено 622 символов
+[2026-07-25 06:04:26] Пауза 60 секунд...
+[2026-07-25 06:05:26] Обрабатываю: Ukraine: Russia fired 185 aerial weapons overnight
+[2026-07-25 06:05:26] Попытка 1 для: Ukraine: Russia fired 185 aerial weapons
+[2026-07-25 06:05:27] Успешно, получено 610 символов
+[2026-07-25 06:05:28] Фото не отправилось: 400
+[2026-07-25 06:05:28] === Блок morning завершён ===
