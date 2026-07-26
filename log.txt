@@ -32944,3 +32944,51 @@ Nithya
 [2026-07-26 06:05:30] Попытка 1 для: Iran gives Iraq a clear pathway to finis
 [2026-07-26 06:05:31] Успешно, получено 701 символов
 [2026-07-26 06:05:33] === Блок morning завершён ===
+[2026-07-26 08:01:17] Загружено 2538 уже отправленных новостей
+[2026-07-26 08:01:17] === Запуск блока: ai_morning ===
+[2026-07-26 08:01:17] Неизвестный источник (businessline): Maruti Suzuki cites West Asia crisis for
+[2026-07-26 08:01:17] Неизвестный источник (yahoo entertainment): Jim Cramer Says Buy CrowdStrike (CRWD) a
+[2026-07-26 08:01:17] Неизвестный источник (martinalderson.com): The first known runaway AI agent - or a 
+[2026-07-26 08:01:17] Неизвестный источник (nist.gov): UK AISI / Caisi Preliminary Assessment o
+[2026-07-26 08:01:17] Неизвестный источник (bradenkelley.com): Designing Synthetic Ecology Frameworks f
+[2026-07-26 08:01:17] Нет фото: Where is elephant stone found?
+[2026-07-26 08:01:17] Неизвестный источник (financial post): Nvidia to Invest $1 Billion in Naver and
+[2026-07-26 08:01:17] Неизвестный источник (siliconangle news): Nvidia, other tech giants caution agains
+[2026-07-26 08:01:17] Неизвестный источник (cna): SpaceX launches 13th Starship test, brie
+[2026-07-26 08:01:17] Неизвестный источник (motley fool australia): 5 excellent ASX 200 shares I'd buy and h
+[2026-07-26 08:01:17] Неизвестный источник (bleeding cool news): Alias: Red Band #5 Preview: Jessica's Wo
+[2026-07-26 08:01:17] Неизвестный источник (prnewswire): PointsKash Demonstrates How Businesses C
+[2026-07-26 08:01:17] Неизвестный источник (prnewswire): Care Career Announces Acquisition of MAS
+[2026-07-26 08:01:17] Неизвестный источник (digital journal): How Canadian utilities inspect, maintain
+[2026-07-26 08:01:17] Неизвестный источник (digital journal): Drones take flight across Canada’s utili
+[2026-07-26 08:01:17] Неизвестный источник (wolfram.com): [WSG26] Daily Study Group: Convolutional
+[2026-07-26 08:01:17] Неизвестный источник (pymnts.com): Verizon Lands $1 Billion Google Deal as 
+[2026-07-26 08:01:17] Неизвестный источник (marketbeat): Grupo Televisa Q2 Earnings Call Highligh
+[2026-07-26 08:01:17] Неизвестный источник (thestreet): Google, Ford, BlackRock just bet $450M o
+[2026-07-26 08:01:17] Неизвестный источник (abajournal.com): How to close the legal experience gap wi
+[2026-07-26 08:01:17] Неизвестный источник (siliconangle news): Five thoughts from Lisa Su’s keynote at 
+[2026-07-26 08:01:17] Нет фото: Simon Willison Breaks Down OpenAI’s Sand
+[2026-07-26 08:01:17] Нет фото: Trump’s Power Guru Departing After Pushi
+[2026-07-26 08:01:17] Неизвестный источник (forbes): Artificial Wisdom Is The Next Big Advanc
+[2026-07-26 08:01:17] Неизвестный источник (samsung.com): Samsung Innovation Campus Celebrates Cod
+[2026-07-26 08:01:17] Неизвестный источник (pymnts.com): Microsoft and Nvidia Lead Push Against U
+[2026-07-26 08:01:17] Неизвестный источник (exposedbycmd.org): Right-Wing Bill Mill Meeting Centers Vot
+[2026-07-26 08:01:17] Неизвестный источник (pymnts.com): Amex Turns Gen Z Loyalty Into an AI Adva
+[2026-07-26 08:01:17] Неизвестный источник (prnewswire): Tampa General Hospital Foundation Receiv
+[2026-07-26 08:01:17] Нет фото: ANSR and HFS Research Unveil Inaugural G
+[2026-07-26 08:01:17] Неизвестный источник (prnewswire): Orbis Marks 30 Years of Advancing Eye He
+[2026-07-26 08:01:17] Неизвестный источник (the daily caller): Thought Flock Cameras Were Dystopian? Wa
+[2026-07-26 08:01:17] Неизвестный источник (cnet): Facebook Has a New Marketplace App and V
+[2026-07-26 08:01:17] AI новости: найдено 4 после фильтрации
+[2026-07-26 08:01:20] Обрабатываю: Rs 30,000 hike: Why Maruti Suzuki had to make cars costlier 
+[2026-07-26 08:01:20] Попытка 1 для: Rs 30,000 hike: Why Maruti Suzuki had to
+[2026-07-26 08:01:21] Успешно, получено 734 символов
+[2026-07-26 08:01:21] Пауза 60 секунд...
+[2026-07-26 08:02:21] Обрабатываю: Fastly Joins Experian Agent Trust™ Ecosystem to Advance Trus
+[2026-07-26 08:02:21] Попытка 1 для: Fastly Joins Experian Agent Trust™ Ecosy
+[2026-07-26 08:02:22] Успешно, получено 697 символов
+[2026-07-26 08:02:23] Пауза 60 секунд...
+[2026-07-26 08:03:23] Обрабатываю: Chinese Companies Are Selling Vapes With Chemicals Potential
+[2026-07-26 08:03:23] Попытка 1 для: Chinese Companies Are Selling Vapes With
+[2026-07-26 08:03:24] Успешно, получено 915 символов
+[2026-07-26 08:03:24] === Блок ai_morning завершён ===
