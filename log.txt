@@ -33144,3 +33144,59 @@ Nithya
 [2026-07-26 18:03:13] Попытка 1 для: Fastly Joins Experian Agent Trust™ Ecosy
 [2026-07-26 18:03:14] Успешно, получено 754 символов
 [2026-07-26 18:03:14] === Блок ai_evening завершён ===
+[2026-07-27 06:01:11] Загружено 2552 уже отправленных новостей
+[2026-07-27 06:01:11] === Запуск блока: morning ===
+[2026-07-27 06:01:11] Неизвестный источник (espn): 2026 WNBA All-Star Game: Live results, a
+[2026-07-27 06:01:11] Неизвестный источник (hoopsrumors.com): Sixers Notes: LeBron, Embiid, Nurse, Pay
+[2026-07-27 06:01:11] Неизвестный источник (hollywood reporter): ‘Black Panther 3’: David Jonsson to Star
+[2026-07-27 06:01:11] Неизвестный источник (abcnews.com): More health workers strike as Ebola case
+[2026-07-27 06:01:11] Неизвестный источник (bgr): How The MacBook Pro Has Changed In The L
+[2026-07-27 06:01:11] Неизвестный источник (fox news): Iran reports first night without new US 
+[2026-07-27 06:01:11] Неизвестный источник (deadline): Ryan Gosling Unveiled As Ghost Rider At 
+[2026-07-27 06:01:11] Неизвестный источник (fox news): Federal appeals court rejects Trump bid 
+[2026-07-27 06:01:11] Неизвестный источник (yahoo entertainment): Anthony Joshua vs. Kristian Prenga live 
+[2026-07-27 06:01:11] Неизвестный источник (newser): Inside the High-Tech Effort to Keep Sate
+[2026-07-27 06:01:11] Неизвестный источник (business insider): Hugging Face CEO shares his demands of O
+[2026-07-27 06:01:11] Неизвестный источник (newsnationnow.com): Prosecutors spotlight D4vd’s finances as
+[2026-07-27 06:01:11] Неизвестный источник (fox news): Tony Romo's brutal golf score before get
+[2026-07-27 06:01:11] Неизвестный источник (sfgate): OpenAI releases health bot one day after
+[2026-07-27 06:01:11] Старая новость (2026-07-25T05:49:00Z): Motorola reveals tablet with 5G connecti
+[2026-07-27 06:01:11] Старая новость (2026-07-25T04:33:14Z): FDA panel gives nod to six controversial
+[2026-07-27 06:01:11] Старая новость (2026-07-24T21:16:45Z): US measles cases reach 35-year high, for
+[2026-07-27 06:01:11] Старая новость (2026-07-24T16:00:00Z): What lurks beneath the volcanoes of Jupi
+[2026-07-27 06:01:11] Мировые новости: найдено 12 после фильтрации
+[2026-07-27 06:01:12] Заблокированный источник (naturalnews.com): EU approves watered-down Russia sanction
+[2026-07-27 06:01:12] Заблокированный источник (naturalnews.com): Secret Service Official: Threat Level Ag
+[2026-07-27 06:01:12] Заблокированный источник (sputnikglobe.com): Iran Condemns Ukrainian Attack on Its Co
+[2026-07-27 06:01:12] Нет фото: Iran accuses Ukraine of deadly attack on
+[2026-07-27 06:01:12] Заблокированный источник (rt): 70% of Germans don’t believe army can pr
+[2026-07-27 06:01:12] Заблокированный источник (thegatewaypundit.com): ‘Cardboard Revolution’ Hasn’t Stopped, W
+[2026-07-27 06:01:12] Нет фото: Ukrainian Armed Forces attacked an Irani
+[2026-07-27 06:01:12] Нет фото: Zelenskyy accuses Russia of assisting Ir
+[2026-07-27 06:01:12] Внутренний дубль: Iran accuses Ukraine of deadly attack on Caspian c
+[2026-07-27 06:01:12] Украинские новости: найдено 10 после фильтрации
+[2026-07-27 06:01:12] Нет фото: Ukraine Drone Sparks Fire at Tyumen Oil 
+[2026-07-27 06:01:12] Харьков: новостей не найдено
+[2026-07-27 06:01:15] Обрабатываю: Live updates: Spain and France battle raging wildfires as at
+[2026-07-27 06:01:15] Попытка 1 для: Live updates: Spain and France battle ra
+[2026-07-27 06:01:16] Успешно, получено 579 символов
+[2026-07-27 06:01:16] Пауза 60 секунд...
+[2026-07-27 06:02:16] Обрабатываю: Vance, Caine raised concerns about escalating war in Iran, s
+[2026-07-27 06:02:16] Попытка 1 для: Vance, Caine raised concerns about escal
+[2026-07-27 06:02:17] Успешно, получено 684 символов
+[2026-07-27 06:02:18] Пауза 60 секунд...
+[2026-07-27 06:03:18] Обрабатываю: Cyclospora outbreak dubbed "lettuce-gate" as concerns over p
+[2026-07-27 06:03:18] Попытка 1 для: Cyclospora outbreak dubbed "lettuce-gate
+[2026-07-27 06:03:19] Успешно, получено 824 символов
+[2026-07-27 06:03:20] Пауза 60 секунд...
+[2026-07-27 06:04:20] Обрабатываю: Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges
+[2026-07-27 06:04:20] Попытка 1 для: Hawaii Lt. Gov. Sylvia Luke indicted on 
+[2026-07-27 06:04:21] Успешно, получено 858 символов
+[2026-07-27 06:04:24] Обрабатываю: The shrinking populations of Ukraine and Moldova
+[2026-07-27 06:04:24] Попытка 1 для: The shrinking populations of Ukraine and
+[2026-07-27 06:04:25] Успешно, получено 440 символов
+[2026-07-27 06:04:26] Пауза 60 секунд...
+[2026-07-27 06:05:26] Обрабатываю: Iran accuses Ukraine of deadly attack on ship in Caspian Sea
+[2026-07-27 06:05:26] Попытка 1 для: Iran accuses Ukraine of deadly attack on
+[2026-07-27 06:05:27] Успешно, получено 654 символов
+[2026-07-27 06:05:27] === Блок morning завершён ===
