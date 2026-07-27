@@ -33327,3 +33327,40 @@ Nithya
 [2026-07-27 16:05:29] Успешно, получено 885 символов
 [2026-07-27 16:05:30] Фото не отправилось: 400
 [2026-07-27 16:05:30] === Блок evening завершён ===
+[2026-07-27 18:01:18] Загружено 2567 уже отправленных новостей
+[2026-07-27 18:01:18] === Запуск блока: ai_evening ===
+[2026-07-27 18:01:18] Неизвестный источник (abcnews.com): For some, so-called 'Skynet Day' came to
+[2026-07-27 18:01:18] Неизвестный источник (cnet): Comic-Con 2026 Trailers Are Here: Check 
+[2026-07-27 18:01:18] Неизвестный источник (github.com): Show HN: Minnarone – Multimodal agents t
+[2026-07-27 18:01:18] Неизвестный источник (new york post): Inside the influencer nightmare of being
+[2026-07-27 18:01:18] Неизвестный источник (undercodetesting.com): How Klarna Slashed 0M In Marketing Costs
+[2026-07-27 18:01:18] Неизвестный источник (plos.org): Enabling interoperability across dispara
+[2026-07-27 18:01:18] Нет фото: artificial-intelligence-local 0.0.6b3137
+[2026-07-27 18:01:18] Неизвестный источник (fox news): China’s influence machine: Federal recor
+[2026-07-27 18:01:18] Нет фото: Finland's Aalto Works joins the UNESCO W
+[2026-07-27 18:01:18] Нет фото: Finland's Aalto Works joins the UNESCO W
+[2026-07-27 18:01:18] Нет фото: Finland's Aalto Works joins the UNESCO W
+[2026-07-27 18:01:18] Неизвестный источник (comicbook.com): 3 Unfilmable Books That I Know Would Act
+[2026-07-27 18:01:18] Неизвестный источник (notebookcheck.net): AI labeling rules start August 2: what a
+[2026-07-27 18:01:18] Неизвестный источник (bleeding cool news): Generation X-23 #6 Preview: Laura's Firs
+[2026-07-27 18:01:18] Нет фото: mindupload 1.10.0
+[2026-07-27 18:01:18] Неизвестный источник (bleeding cool news): Doomquest #3 Preview: Doom Gets a Revolu
+[2026-07-27 18:01:18] Неизвестный источник (crypto briefing): Balaji Srinivasan’s Network School reloc
+[2026-07-27 18:01:18] Неизвестный источник (fortune): Booted from Malaysia, tech guru Balaji S
+[2026-07-27 18:01:18] Неизвестный источник (financial post): CanadianSME and Enabled Talent Launch En
+[2026-07-27 18:01:18] Неизвестный источник (activistpost.com): The Praxian Genocidal Kill Chain — Part 
+[2026-07-27 18:01:18] Неизвестный источник (researchbuzz.me): National Library of Medicine, Google, Sl
+[2026-07-27 18:01:18] Неизвестный источник (wccftech): How to Properly Use Frame Generation Tec
+[2026-07-27 18:01:18] AI новости: найдено 3 после фильтрации
+[2026-07-27 18:01:21] Обрабатываю: Upstate NY School District Pauses Plan to Add Humanoid Robot
+[2026-07-27 18:01:21] Попытка 1 для: Upstate NY School District Pauses Plan t
+[2026-07-27 18:01:22] Успешно, получено 919 символов
+[2026-07-27 18:01:22] Пауза 60 секунд...
+[2026-07-27 18:02:22] Обрабатываю: Hugging Face presses OpenAI for transparency after AI agent 
+[2026-07-27 18:02:22] Попытка 1 для: Hugging Face presses OpenAI for transpar
+[2026-07-27 18:02:23] Успешно, получено 695 символов
+[2026-07-27 18:02:24] Пауза 60 секунд...
+[2026-07-27 18:03:24] Обрабатываю: SIA shareholders question board about Air India investment, 
+[2026-07-27 18:03:24] Попытка 1 для: SIA shareholders question board about Ai
+[2026-07-27 18:03:25] Успешно, получено 753 символов
+[2026-07-27 18:03:25] === Блок ai_evening завершён ===
