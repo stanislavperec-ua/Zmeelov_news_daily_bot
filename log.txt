@@ -33234,3 +33234,38 @@ Nithya
 [2026-07-27 08:02:19] Попытка 1 для: Mercedes-Benz believes top-end buyers wi
 [2026-07-27 08:02:20] Успешно, получено 604 символов
 [2026-07-27 08:02:20] === Блок ai_morning завершён ===
+[2026-07-27 11:01:16] Загружено 2559 уже отправленных новостей
+[2026-07-27 11:01:16] === Запуск блока: midday ===
+[2026-07-27 11:01:16] Неизвестный источник (espn): Grading every player at the 2026 WNBA Al
+[2026-07-27 11:01:16] Неизвестный источник (hollywood reporter): The Doom Boom: Marvel Studios Brings ‘Do
+[2026-07-27 11:01:16] Неизвестный источник (east side boxing): Spence Vs. Tzsyu Live: Results From Aust
+[2026-07-27 11:01:16] Неизвестный источник (new york post): Nolan Wells’ best friend skipped funeral
+[2026-07-27 11:01:16] Неизвестный источник (abcnews.com): More health workers strike as Ebola case
+[2026-07-27 11:01:16] Неизвестный источник (bgr): How The MacBook Pro Has Changed In The L
+[2026-07-27 11:01:16] Неизвестный источник (macrumors): Apple's First Water-Resistant iPad to La
+[2026-07-27 11:01:16] Неизвестный источник (hoopsrumors.com): Rich Paul Provides Inside Look At LeBron
+[2026-07-27 11:01:16] Неизвестный источник (newser): Inside the High-Tech Effort to Keep Sate
+[2026-07-27 11:01:16] Неизвестный источник (gsmarena.com): Deals: Galaxy Z Fold8, Z Fold8 Ultra and
+[2026-07-27 11:01:16] Неизвестный источник (business insider): Hugging Face CEO shares his demands of O
+[2026-07-27 11:01:16] Неизвестный источник (page six): Emma Roberts marrying fiancé Cody John t
+[2026-07-27 11:01:16] Неизвестный источник (fox news): Tony Romo's brutal golf score before get
+[2026-07-27 11:01:16] Старая новость (2026-07-25T09:00:00Z): Contagious Cancer Found in North America
+[2026-07-27 11:01:16] Старая новость (2026-07-24T16:00:03Z): Why Europa's hidden ocean may be more di
+[2026-07-27 11:01:16] Старая новость (2026-07-24T16:00:00Z): What lurks beneath the volcanoes of Jupi
+[2026-07-27 11:01:16] Мировые новости: найдено 13 после фильтрации
+[2026-07-27 11:01:19] Обрабатываю: Cheaper, open and intelligent: Chinese AI models gain ground
+[2026-07-27 11:01:19] Попытка 1 для: Cheaper, open and intelligent: Chinese A
+[2026-07-27 11:01:20] Успешно, получено 947 символов
+[2026-07-27 11:01:20] Пауза 60 секунд...
+[2026-07-27 11:02:20] Обрабатываю: Comic-Con 2026: David Jonsson is new Black Panther, Ryan Gos
+[2026-07-27 11:02:20] Попытка 1 для: Comic-Con 2026: David Jonsson is new Bla
+[2026-07-27 11:02:22] Успешно, получено 727 символов
+[2026-07-27 11:02:22] Пауза 60 секунд...
+[2026-07-27 11:03:22] Обрабатываю: Live updates: Spain and France battle raging wildfires as at
+[2026-07-27 11:03:22] Попытка 1 для: Live updates: Spain and France battle ra
+[2026-07-27 11:03:23] Успешно, получено 527 символов
+[2026-07-27 11:03:24] Пауза 60 секунд...
+[2026-07-27 11:04:24] Обрабатываю: Vance, Caine raised concerns about escalating war in Iran, s
+[2026-07-27 11:04:24] Попытка 1 для: Vance, Caine raised concerns about escal
+[2026-07-27 11:04:25] Успешно, получено 862 символов
+[2026-07-27 11:04:26] === Блок midday завершён ===
