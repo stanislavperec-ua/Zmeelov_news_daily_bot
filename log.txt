@@ -33418,3 +33418,53 @@ Nithya
 [2026-07-28 06:05:32] Попытка 1 для: Ukraine air attacks kill two, wound 17 i
 [2026-07-28 06:05:33] Успешно, получено 610 символов
 [2026-07-28 06:05:33] === Блок morning завершён ===
+[2026-07-28 08:01:21] Загружено 2575 уже отправленных новостей
+[2026-07-28 08:01:21] === Запуск блока: ai_morning ===
+[2026-07-28 08:01:21] Неизвестный источник (war on the rocks): Taiwan’s Tech Hurdles Threaten Military 
+[2026-07-28 08:01:21] Нет фото: Multiverse Raising Funds at $1.7 Billion
+[2026-07-28 08:01:21] Неизвестный источник (archdaily): Where Is the Border? How Architecture Co
+[2026-07-28 08:01:21] Неизвестный источник (new atlas): Generative Bionics' smart robot skin pre
+[2026-07-28 08:01:21] Неизвестный источник (prnewswire): Home Control's Orbiva Signs Strategic MO
+[2026-07-28 08:01:21] Неизвестный источник (help net security): Marathon Petroleum’s CISO on OT security
+[2026-07-28 08:01:21] Заблокированный источник (naturalnews.com): OpenAI Reports: AI Models Broke Out of S
+[2026-07-28 08:01:21] Неизвестный источник (landezine.com): Restoring Santiago’s Island Hills: Envir
+[2026-07-28 08:01:21] Нет фото: mindupload 1.11.0
+[2026-07-28 08:01:21] Неизвестный источник (radaronline.com): Catch the Latest Anime and K-Pop Release
+[2026-07-28 08:01:21] Заблокированный источник (breitbart news): Inside Neville Roy Singham's 'Shadowy In
+[2026-07-28 08:01:21] Неизвестный источник (siliconangle news): Nvidia is putting its Vera CPUs to work 
+[2026-07-28 08:01:21] Неизвестный источник (livedoor.com): 「AIの発展にはアメリカ製オープンモデルが必要不可欠」とする声明をMicroso
+[2026-07-28 08:01:21] Нет фото: CATL Surges After Share Buyback Plan, St
+[2026-07-28 08:01:21] Неизвестный источник (financial post): China’s Industrial Profit Growth Slows t
+[2026-07-28 08:01:21] Нет фото: mindupload 1.10.6
+[2026-07-28 08:01:21] Неизвестный источник (financial post): China’s Pork Market Recovery Struggles t
+[2026-07-28 08:01:21] Неизвестный источник (cfotech.co.nz): Tāmaki Health launches AI coach for prim
+[2026-07-28 08:01:21] Неизвестный источник (financial post): Singapore Tightens Monetary Policy Furth
+[2026-07-28 08:01:21] Неизвестный источник (crypto briefing): Coinbase CEO Brian Armstrong says AI enh
+[2026-07-28 08:01:21] Неизвестный источник (the punch): Aptech prepares workforce for digital ec
+[2026-07-28 08:01:21] Неизвестный источник (motley fool australia): 2 unglamorous ASX shares that could rera
+[2026-07-28 08:01:21] Неизвестный источник (hackaday): Hackaday Links: July 26, 2026
+[2026-07-28 08:01:21] Неизвестный источник (digital journal): From livestream to embodied AI: Richtech
+[2026-07-28 08:01:21] Нет фото: artificial-intelligence-local 0.0.8b3137
+[2026-07-28 08:01:21] Нет фото: artificial-intelligence-local 0.0.7b3137
+[2026-07-28 08:01:21] Неизвестный источник (financial post): Fed Faces Growing Pressure to Hike Rates
+[2026-07-28 08:01:21] Неизвестный источник (bleeding cool news): Queen in Black: Hela #1 Preview: Norse F
+[2026-07-28 08:01:21] Неизвестный источник (fortune): James Cameron tried to warn us: ‘Skynet 
+[2026-07-28 08:01:21] Неизвестный источник (abcnews.com): For some, so-called 'Skynet Day' came to
+[2026-07-28 08:01:21] Неизвестный источник (cnet): Comic-Con 2026 Trailers Are Here: Check 
+[2026-07-28 08:01:21] Неизвестный источник (github.com): Show HN: Minnarone – Multimodal agents t
+[2026-07-28 08:01:21] Неизвестный источник (new york post): Inside the influencer nightmare of being
+[2026-07-28 08:01:21] Неизвестный источник (undercodetesting.com): How Klarna Slashed 0M In Marketing Costs
+[2026-07-28 08:01:21] Неизвестный источник (plos.org): Enabling interoperability across dispara
+[2026-07-28 08:01:21] AI новости: найдено 4 после фильтрации
+[2026-07-28 08:01:24] Обрабатываю: Toward generalizable and interpretable AI in regulatory geno
+[2026-07-28 08:01:24] Попытка 1 для: Toward generalizable and interpretable A
+[2026-07-28 08:01:25] Успешно, получено 960 символов
+[2026-07-28 08:01:25] Пауза 60 секунд...
+[2026-07-28 08:02:25] Обрабатываю: Designing fiber–gut microbiome interactions with active lear
+[2026-07-28 08:02:25] Попытка 1 для: Designing fiber–gut microbiome interacti
+[2026-07-28 08:02:26] Успешно, получено 752 символов
+[2026-07-28 08:02:27] Пауза 60 секунд...
+[2026-07-28 08:03:27] Обрабатываю: Upstate NY School District Pauses Plan to Add Humanoid Robot
+[2026-07-28 08:03:27] Попытка 1 для: Upstate NY School District Pauses Plan t
+[2026-07-28 08:03:28] Успешно, получено 845 символов
+[2026-07-28 08:03:28] === Блок ai_morning завершён ===
