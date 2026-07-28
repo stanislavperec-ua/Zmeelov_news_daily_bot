@@ -33364,3 +33364,57 @@ Nithya
 [2026-07-27 18:03:24] Попытка 1 для: SIA shareholders question board about Ai
 [2026-07-27 18:03:25] Успешно, получено 753 символов
 [2026-07-27 18:03:25] === Блок ai_evening завершён ===
+[2026-07-28 06:01:18] Загружено 2569 уже отправленных новостей
+[2026-07-28 06:01:18] === Запуск блока: morning ===
+[2026-07-28 06:01:18] Неизвестный источник (ktla los angeles): Fake ‘I Did It’ track uploaded to D4vd’s
+[2026-07-28 06:01:18] Неизвестный источник (cnbc): Stock futures climb, oil prices fall as 
+[2026-07-28 06:01:18] Неизвестный источник (daily beast): Pentagon Pete Hegseth Shamelessly Tries 
+[2026-07-28 06:01:18] Неизвестный источник (forbes): ChatGPT’s Health Launch Is Foreshadowing
+[2026-07-28 06:01:18] Неизвестный источник (wtop): Montgomery County astronaut returns to E
+[2026-07-28 06:01:18] Неизвестный источник (fox news): ICE prepares major operation targeting H
+[2026-07-28 06:01:18] Заблокированный источник (sciencealert): NASA's Psyche Mission Captured an Eerie 
+[2026-07-28 06:01:18] Неизвестный источник (foxweather.com): The world’s biggest desert has zero sand
+[2026-07-28 06:01:18] Неизвестный источник (billboard): Usher Stops Steamy Onstage Encounter Aft
+[2026-07-28 06:01:18] Старая новость (2026-07-26T04:02:51Z): Google Maps "2026 Update" Now Rolling Ou
+[2026-07-28 06:01:18] Старая новость (2026-07-25T20:16:05Z): Opinion | Cuts to anti-AIDS foreign aid 
+[2026-07-28 06:01:18] Старая новость (2026-07-25T16:56:00Z): Saturday Pre-orders – Aeldari Exodites i
+[2026-07-28 06:01:18] Старая новость (2026-07-25T16:01:37Z): These seven states are hot spots for 202
+[2026-07-28 06:01:18] Мировые новости: найдено 15 после фильтрации
+[2026-07-28 06:01:18] Заблокированный источник (naturalnews.com): India and China Signal Normalization of 
+[2026-07-28 06:01:18] Заблокированный источник (naturalnews.com): Iran Accuses Ukraine of Striking Its Car
+[2026-07-28 06:01:18] Заблокированный источник (naturalnews.com): Eleven Killed in Ukrainian Drone Strike 
+[2026-07-28 06:01:18] Заблокированный источник (naturalnews.com): EU slaps Google with $1 billion fine for
+[2026-07-28 06:01:18] Заблокированный источник (naturalnews.com): The Global War for Routes and Resources:
+[2026-07-28 06:01:18] Заблокированный источник (rt): Sweden setting up own ‘MI6’ to spy on Ru
+[2026-07-28 06:01:18] Пропускаю российский фокус: Russia and Ukraine trade attacks, killing 10, incl
+[2026-07-28 06:01:18] Заблокированный источник (sputnikglobe.com): Iranian Lawmaker Warns Ukraine Over Atta
+[2026-07-28 06:01:18] Нет фото: Iran’s FM claims Ukraine struck Iranian 
+[2026-07-28 06:01:18] Нет фото: Tucker Carlson Has Gone Bat Poop Crazy, 
+[2026-07-28 06:01:18] Заблокированный источник (breitbart news): ‘Far More Than We Need’: Trump Dismisses
+[2026-07-28 06:01:18] Украинские новости: найдено 10 после фильтрации
+[2026-07-28 06:01:19] Заблокированный источник (breitbart news): Six Dead as Ukraine and Russia Trade Mis
+[2026-07-28 06:01:19] Харьков: новостей не найдено
+[2026-07-28 06:01:21] Обрабатываю: Seattle shooting: Two killed and five injured in shooting at
+[2026-07-28 06:01:21] Попытка 1 для: Seattle shooting: Two killed and five in
+[2026-07-28 06:01:22] Успешно, получено 612 символов
+[2026-07-28 06:01:23] Пауза 60 секунд...
+[2026-07-28 06:02:23] Обрабатываю: Live updates: US-Iran war news; US signals pause in Iran str
+[2026-07-28 06:02:23] Попытка 1 для: Live updates: US-Iran war news; US signa
+[2026-07-28 06:02:24] Успешно, получено 798 символов
+[2026-07-28 06:02:24] Пауза 60 секунд...
+[2026-07-28 06:03:24] Обрабатываю: A fatal attack on Berlin’s Pride festival leaves locals wond
+[2026-07-28 06:03:24] Попытка 1 для: A fatal attack on Berlin’s Pride festiva
+[2026-07-28 06:03:26] Успешно, получено 872 символов
+[2026-07-28 06:03:26] Пауза 60 секунд...
+[2026-07-28 06:04:26] Обрабатываю: Ebola infections in DR Congo surge to 3,200, with 1,405 deat
+[2026-07-28 06:04:26] Попытка 1 для: Ebola infections in DR Congo surge to 3,
+[2026-07-28 06:04:27] Успешно, получено 735 символов
+[2026-07-28 06:04:30] Обрабатываю: Ukraine downs 123 Russian drones overnight
+[2026-07-28 06:04:30] Попытка 1 для: Ukraine downs 123 Russian drones overnig
+[2026-07-28 06:04:31] Успешно, получено 628 символов
+[2026-07-28 06:04:32] Фото не отправилось: 400
+[2026-07-28 06:04:32] Пауза 60 секунд...
+[2026-07-28 06:05:32] Обрабатываю: Ukraine air attacks kill two, wound 17 in Russia's south
+[2026-07-28 06:05:32] Попытка 1 для: Ukraine air attacks kill two, wound 17 i
+[2026-07-28 06:05:33] Успешно, получено 610 символов
+[2026-07-28 06:05:33] === Блок morning завершён ===
