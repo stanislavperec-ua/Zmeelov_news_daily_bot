@@ -33468,3 +33468,41 @@ Nithya
 [2026-07-28 08:03:27] Попытка 1 для: Upstate NY School District Pauses Plan t
 [2026-07-28 08:03:28] Успешно, получено 845 символов
 [2026-07-28 08:03:28] === Блок ai_morning завершён ===
+[2026-07-28 11:01:13] Загружено 2577 уже отправленных новостей
+[2026-07-28 11:01:13] === Запуск блока: midday ===
+[2026-07-28 11:01:13] Неизвестный источник (tmz): 'Top Chef' Eric Adjepong Allegedly Viola
+[2026-07-28 11:01:13] Неизвестный источник (cnbc): U.S. and Iran pause fighting to give pea
+[2026-07-28 11:01:13] Неизвестный источник (espn): FIFA's Gianni Infantino slams World Cup 
+[2026-07-28 11:01:13] Неизвестный источник (the conversation africa): An abandoned SpaceX rocket is about to c
+[2026-07-28 11:01:13] Неизвестный источник (kyivindependent.com): Ukrainian drones reportedly strike neigh
+[2026-07-28 11:01:13] Неизвестный источник (fox news): NBA star rips socialist NYC Mayor Zohran
+[2026-07-28 11:01:13] Неизвестный источник (variety): Ryan Coogler Met David Jonsson in a Secr
+[2026-07-28 11:01:13] Неизвестный источник (the philadelphia inquirer): Sixers waive Dalen Terry in cost-cutting
+[2026-07-28 11:01:13] Неизвестный источник (wplg local 10): South Florida Haitians bracing for Monda
+[2026-07-28 11:01:13] Неизвестный источник (wtop): Montgomery County astronaut returns to E
+[2026-07-28 11:01:13] Неизвестный источник (foxweather.com): The world’s biggest desert has zero sand
+[2026-07-28 11:01:13] Неизвестный источник (eurogamer.net): The next Kratos God of War game will fol
+[2026-07-28 11:01:13] Неизвестный источник (ladbible): Weight-loss jab users warned about relat
+[2026-07-28 11:01:13] Неизвестный источник (investopedia): What to Expect in Markets This Week: Ama
+[2026-07-28 11:01:13] Старая новость (2026-07-25T20:16:05Z): Opinion | Cuts to anti-AIDS foreign aid 
+[2026-07-28 11:01:13] Старая новость (2026-07-25T20:06:43Z): SpaceX (SPCX) Launches Northrop Grumman 
+[2026-07-28 11:01:13] Старая новость (2026-07-25T16:56:00Z): Saturday Pre-orders – Aeldari Exodites i
+[2026-07-28 11:01:13] Старая новость (2026-07-25T13:00:00Z): ‘The child is terrified’: Doctors on the
+[2026-07-28 11:01:13] Мировые новости: найдено 11 после фильтрации
+[2026-07-28 11:01:16] Обрабатываю: Column | I’m a doctor. Here’s why I wear sunblock indoors.
+[2026-07-28 11:01:16] Попытка 1 для: Column | I’m a doctor. Here’s why I wear
+[2026-07-28 11:01:17] Успешно, получено 588 символов
+[2026-07-28 11:01:17] Фото не отправилось: 400
+[2026-07-28 11:01:18] Пауза 60 секунд...
+[2026-07-28 11:02:18] Обрабатываю: Georgia Gov. Brian Kemp isn’t done with EVs
+[2026-07-28 11:02:18] Попытка 1 для: Georgia Gov. Brian Kemp isn’t done with 
+[2026-07-28 11:02:19] Успешно, получено 709 символов
+[2026-07-28 11:02:20] Пауза 60 секунд...
+[2026-07-28 11:03:20] Обрабатываю: Police arrest 1 person and search for another after Seattle 
+[2026-07-28 11:03:20] Попытка 1 для: Police arrest 1 person and search for an
+[2026-07-28 11:03:21] Успешно, получено 652 символов
+[2026-07-28 11:03:21] Пауза 60 секунд...
+[2026-07-28 11:04:21] Обрабатываю: Iran warns Ukraine of retaliation after deadly Caspian Sea s
+[2026-07-28 11:04:21] Попытка 1 для: Iran warns Ukraine of retaliation after 
+[2026-07-28 11:04:22] Успешно, получено 777 символов
+[2026-07-28 11:04:23] === Блок midday завершён ===
