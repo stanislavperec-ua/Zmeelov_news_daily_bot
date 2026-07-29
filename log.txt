@@ -33723,3 +33723,40 @@ Nithya
 [2026-07-29 08:02:19] Попытка 1 для: Power prices are finally falling. Expert
 [2026-07-29 08:02:20] Успешно, получено 745 символов
 [2026-07-29 08:02:21] === Блок ai_morning завершён ===
+[2026-07-29 11:01:12] Загружено 2597 уже отправленных новостей
+[2026-07-29 11:01:12] === Запуск блока: midday ===
+[2026-07-29 11:01:12] Неизвестный источник (cnbc): U.S. stock futures slip, South Korea's K
+[2026-07-29 11:01:12] Неизвестный источник (business insider): Sam Altman says the Hugging Face hack is
+[2026-07-29 11:01:12] Неизвестный источник (variety): Zendaya Stuns ‘Spider-Man: Brand New Day
+[2026-07-29 11:01:12] Неизвестный источник (eonline.com): Milania Giudice's Best Friend Victoria Z
+[2026-07-29 11:01:12] Неизвестный источник (macrumors): Everything We Know About MacBook Ultra's
+[2026-07-29 11:01:12] Неизвестный источник (fox news): Kelsey Grammer admits it's 'exhausting' 
+[2026-07-29 11:01:12] Неизвестный источник (kmbc kansas city): Wife of Chiefs offensive coordinator Eri
+[2026-07-29 11:01:12] Неизвестный источник (cbs sports): Vita Vea landing spots: Veteran DT reque
+[2026-07-29 11:01:12] Неизвестный источник (pbs): Wisconsin tornado causes extensive damag
+[2026-07-29 11:01:12] Неизвестный источник (mynorthwest.com): Mike Salk’s 3 big Seahawks training camp
+[2026-07-29 11:01:12] Неизвестный источник (gothamist): Officials identify UES cooling towers th
+[2026-07-29 11:01:12] Неизвестный источник (phys.org): Astronomers identify one of the universe
+[2026-07-29 11:01:12] Неизвестный источник (fox news): Financial hardship may age the brain fas
+[2026-07-29 11:01:12] Неизвестный источник (cnet): The 34-Hour Laptop Is Here. Here’s Why B
+[2026-07-29 11:01:12] Заблокированный источник (bleacher report): MLB Power Rankings for All 30 Teams 1 We
+[2026-07-29 11:01:12] Старая новость (2026-07-27T09:30:00Z): Measles Is Becoming So Common That Treat
+[2026-07-29 11:01:12] Старая новость (2026-07-26T20:03:49Z): NASA's Psyche Mission Captured an Eerie 
+[2026-07-29 11:01:12] Старая новость (2026-07-26T12:02:22Z): Physicists Created an 'Electron Lighthou
+[2026-07-29 11:01:12] Мировые новости: найдено 16 после фильтрации
+[2026-07-29 11:01:15] Обрабатываю: Iran War Live Updates: Trump says U.S. will "go back to doin
+[2026-07-29 11:01:15] Попытка 1 для: Iran War Live Updates: Trump says U.S. w
+[2026-07-29 11:01:16] Успешно, получено 808 символов
+[2026-07-29 11:01:16] Пауза 60 секунд...
+[2026-07-29 11:02:16] Обрабатываю: Bryan Kohberger wants out of his plea deal. Here’s what expe
+[2026-07-29 11:02:16] Попытка 1 для: Bryan Kohberger wants out of his plea de
+[2026-07-29 11:02:18] Успешно, получено 684 символов
+[2026-07-29 11:02:18] Пауза 60 секунд...
+[2026-07-29 11:03:18] Обрабатываю: Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffi
+[2026-07-29 11:03:18] Попытка 1 для: Iran-Oman Talks Focused on Restarting Ho
+[2026-07-29 11:03:19] Успешно, получено 704 символов
+[2026-07-29 11:03:20] Пауза 60 секунд...
+[2026-07-29 11:04:20] Обрабатываю: Spain and France brace for new heatwaves as wildfire closes 
+[2026-07-29 11:04:20] Попытка 1 для: Spain and France brace for new heatwaves
+[2026-07-29 11:04:21] Успешно, получено 545 символов
+[2026-07-29 11:04:21] === Блок midday завершён ===
