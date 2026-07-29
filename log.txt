@@ -33813,3 +33813,48 @@ Nithya
 [2026-07-29 16:05:33] Попытка 1 для: Ukrainian President Zelensky visits Capi
 [2026-07-29 16:05:35] Успешно, получено 906 символов
 [2026-07-29 16:05:35] === Блок evening завершён ===
+[2026-07-29 18:01:13] Загружено 2606 уже отправленных новостей
+[2026-07-29 18:01:13] === Запуск блока: ai_evening ===
+[2026-07-29 18:01:13] Неизвестный источник (activistpost.com): Elon Musk’s Chinese Public-Private Partn
+[2026-07-29 18:01:13] Нет фото: mindupload 1.11.3
+[2026-07-29 18:01:13] Неизвестный источник (businessline): IndiGo positions international expansion
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): Anthropic and Nvidia come out against bl
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): Stellora.AI Launches AI.ForHumanity.Glob
+[2026-07-29 18:01:13] Неизвестный источник (abcnews.com): Future of the UK's renowned Lovell radio
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): CryptoMondays Vegas Builds Momentum with
+[2026-07-29 18:01:13] Неизвестный источник (financial post): SpaceX falls 20% below IPO price, erasin
+[2026-07-29 18:01:13] Неизвестный источник (medianewsgroup.com): For some, 'Skynet Day' came too close to
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): Leonardo DRS to Acquire Raft, Expanding 
+[2026-07-29 18:01:13] Неизвестный источник (pymnts.com): UPS Is Shrinking Package Volume and Maki
+[2026-07-29 18:01:13] Неизвестный источник (the next web): A new AI listens to every prison call an
+[2026-07-29 18:01:13] Неизвестный источник (techradar): ‘Those two jobs need different physics’:
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): Mitesco Provides Business Update on Ai S
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): AI model compression startup Multiverse 
+[2026-07-29 18:01:13] Неизвестный источник (tom's hardware uk): OpenAI CEO Sam Altman says AI has entere
+[2026-07-29 18:01:13] Неизвестный источник (techtarget.com): Abridge buys agentic AI, workflow automa
+[2026-07-29 18:01:13] Неизвестный источник (financial post): Epic Homes Partners with BCIT to Support
+[2026-07-29 18:01:13] Неизвестный источник (cnbc): Visa is cutting 7% of employees in effic
+[2026-07-29 18:01:13] Неизвестный источник (financial post): York University’s Connected Minds and CI
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): York University’s Connected Minds and CI
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): GridCL for fine-grained load profiling i
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): Environmental and biotic drivers of Aede
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): Design of a novel epitope-based tetraval
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): Very short-term production prediction fo
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): Flexible navigation with neuromodulated 
+[2026-07-29 18:01:13] Неизвестный источник (plos.org): Remembering the “when”: Hebbian memory m
+[2026-07-29 18:01:13] Неизвестный источник (techtarget.com): How the AI Executive Order shifts vendor
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): Fish Audio makes a splash after raising 
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): Vita Pop Announces Official U.S. Launch 
+[2026-07-29 18:01:13] Неизвестный источник (financial post): After Ford Soars 44% on AI Fever, Trader
+[2026-07-29 18:01:13] Неизвестный источник (financial post): After Ford soars 44% on AI fever, trader
+[2026-07-29 18:01:13] Неизвестный источник (crypto briefing): Newsmax signs AI content partnership wit
+[2026-07-29 18:01:13] Неизвестный источник (globenewswire): Freight Technologies Expands Fleet Rocke
+[2026-07-29 18:01:13] Неизвестный источник (financial post): Snowflake Advances the Trusted Agentic E
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): Tines launches 3B to help enterprises go
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): Snowflake debuts Cortex AI Gateway to go
+[2026-07-29 18:01:13] Неизвестный источник (siliconangle news): Torq unveils SOC Brain, a self-learning 
+[2026-07-29 18:01:13] AI новости: найдено 1 после фильтрации
+[2026-07-29 18:01:16] Обрабатываю: Yelp Shares Climb 4.2% as AI Host Hits 1 Million Calls and E
+[2026-07-29 18:01:16] Попытка 1 для: Yelp Shares Climb 4.2% as AI Host Hits 1
+[2026-07-29 18:01:18] Успешно, получено 717 символов
+[2026-07-29 18:01:18] === Блок ai_evening завершён ===
