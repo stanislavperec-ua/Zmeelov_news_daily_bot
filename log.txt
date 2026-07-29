@@ -33674,3 +33674,52 @@ Nithya
 [2026-07-29 06:06:30] Попытка 1 для: Missile strike in Kharkiv kills 1, injur
 [2026-07-29 06:06:31] Успешно, получено 882 символов
 [2026-07-29 06:06:32] === Блок morning завершён ===
+[2026-07-29 08:01:14] Загружено 2595 уже отправленных новостей
+[2026-07-29 08:01:14] === Запуск блока: ai_morning ===
+[2026-07-29 08:01:15] Неизвестный источник (pymnts.com): Fraud and Disputes Rank as a Top Cost fo
+[2026-07-29 08:01:15] Нет фото: Registration Now Open for the Mininglamp
+[2026-07-29 08:01:15] Неизвестный источник (antaranews.com): Gene Solutions Showcases Global Evidence
+[2026-07-29 08:01:15] Неизвестный источник (openchannels.fm): Open Channels FM: AI Bots Now Dominate W
+[2026-07-29 08:01:15] Нет фото: smart-artificial-intelligence-local 0.0.
+[2026-07-29 08:01:15] Нет фото: Tata Power Eyes First Atomic Plant by 20
+[2026-07-29 08:01:15] Нет фото: Do chickens turn their eggs?
+[2026-07-29 08:01:15] Неизвестный источник (antaranews.com): IRC 2026 Concludes With Calls for Agile 
+[2026-07-29 08:01:15] Нет фото: Malaysia Economy Set to Hit Upper End of
+[2026-07-29 08:01:15] Неизвестный источник (cirebonrayajeh.com): What Is Marketing? The Complete Guide to
+[2026-07-29 08:01:15] Неизвестный источник (securityweek.com): For Some, So-Called ‘Skynet Day’ Came to
+[2026-07-29 08:01:15] Неизвестный источник (gizmodo.com): You Can Finally Trust All Your Money to 
+[2026-07-29 08:01:15] Неизвестный источник (siliconangle news): Ilya Sutskever’s Safe Superintelligence 
+[2026-07-29 08:01:15] Неизвестный источник (siliconangle news): Chinese memory maker CXMT jumps 460%+ in
+[2026-07-29 08:01:15] Неизвестный источник (financial post): Australia’s ‘World-First’ Data Center Ru
+[2026-07-29 08:01:15] Нет фото: Human cortex organizes dynamic co-fluctu
+[2026-07-29 08:01:15] Неизвестный источник (the punch): Seven regional blocs redefining AI compe
+[2026-07-29 08:01:15] Неизвестный источник (siliconangle news): Enigma raises $71M to develop foundation
+[2026-07-29 08:01:15] Неизвестный источник (oilprice.com): $100 Oil Puts Big Tech’s $725 Billion AI
+[2026-07-29 08:01:15] Нет фото: qjax 0.1.2
+[2026-07-29 08:01:15] Неизвестный источник (siliconangle news): Microsoft’s first cybersecurity model po
+[2026-07-29 08:01:15] Нет фото: mindupload 1.11.2
+[2026-07-29 08:01:15] Нет фото: mindupload 1.11.1
+[2026-07-29 08:01:15] Неизвестный источник (the daily caller): Two Tennessee Politicians Are Taking Aim
+[2026-07-29 08:01:15] Неизвестный источник (itnews): ASD to critical infra: be ready to isola
+[2026-07-29 08:01:15] Неизвестный источник (itnews): ASD to critical infrastructure ops: be r
+[2026-07-29 08:01:15] Неизвестный источник (itnews): ASD to critical infra: be ready to isola
+[2026-07-29 08:01:15] Нет фото: Biggest US Grid to Launch Emergency Powe
+[2026-07-29 08:01:15] Неизвестный источник (crypto briefing): China bets on broader AI strategy beyond
+[2026-07-29 08:01:15] Нет фото: UNIVERSAL HEALTH SERVICES, INC. ANNOUNCE
+[2026-07-29 08:01:15] Неизвестный источник (forbes): SBA Chief Loeffler: It’s Time To Raise T
+[2026-07-29 08:01:15] Неизвестный источник (siliconangle news): Yugabyte targets the missing memory and 
+[2026-07-29 08:01:15] Нет фото: swarm-seek 0.2.0
+[2026-07-29 08:01:15] Неизвестный источник (financial post): AI finding twice as many cyber flaws in 
+[2026-07-29 08:01:15] Нет фото: IDrive e2 Publishes 2026 Object Storage 
+[2026-07-29 08:01:15] Нет фото: DIAGNOS Receives Health Canada Medical D
+[2026-07-29 08:01:15] Нет фото: perforatedai 3.2.4
+[2026-07-29 08:01:15] Неизвестный источник (wwd): China Lays Out Five-Year AI Blueprint fo
+[2026-07-29 08:01:15] AI новости: найдено 2 после фильтрации
+[2026-07-29 08:01:17] Обрабатываю: AI proteomics: from protein identification to virtual cells
+[2026-07-29 08:01:17] Попытка 1 для: AI proteomics: from protein identificati
+[2026-07-29 08:01:18] Успешно, получено 766 символов
+[2026-07-29 08:01:19] Пауза 60 секунд...
+[2026-07-29 08:02:19] Обрабатываю: Power prices are finally falling. Experts say data centres c
+[2026-07-29 08:02:19] Попытка 1 для: Power prices are finally falling. Expert
+[2026-07-29 08:02:20] Успешно, получено 745 символов
+[2026-07-29 08:02:21] === Блок ai_morning завершён ===
