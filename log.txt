@@ -33858,3 +33858,61 @@ Nithya
 [2026-07-29 18:01:16] Попытка 1 для: Yelp Shares Climb 4.2% as AI Host Hits 1
 [2026-07-29 18:01:18] Успешно, получено 717 символов
 [2026-07-29 18:01:18] === Блок ai_evening завершён ===
+[2026-07-30 06:01:21] Загружено 2607 уже отправленных новостей
+[2026-07-30 06:01:21] === Запуск блока: morning ===
+[2026-07-30 06:01:21] Неизвестный источник (eonline.com): Are Renée Zellweger and Ant Anstead Gett
+[2026-07-30 06:01:21] Неизвестный источник (variety): ‘Jumanji: Open World’ Trailer: Dwayne Jo
+[2026-07-30 06:01:21] Неизвестный источник (koin.com): 2 Portland hospitals identified as measl
+[2026-07-30 06:01:21] Неизвестный источник (ketv omaha): Former UFC fighter from Nebraska facing 
+[2026-07-30 06:01:21] Неизвестный источник (deadline): Ari Emanuel Backs Paramount-WBD Deal In 
+[2026-07-30 06:01:21] Неизвестный источник (pbs): What Netanyahu and Zelenskyy are hoping 
+[2026-07-30 06:01:21] Неизвестный источник (new york post): Gov. Hochul bizarrely claims Mamdani’s b
+[2026-07-30 06:01:21] Неизвестный источник (fox11online.com): NWS confirms EF-3 tornado as Fox Valley 
+[2026-07-30 06:01:21] Неизвестный источник (espn): Sources: Browns, Denzel Ward agree to 2-
+[2026-07-30 06:01:21] Неизвестный источник (forbes): ‘Spider-Man: Brand New Day’ Has Lowest C
+[2026-07-30 06:01:21] Неизвестный источник (barron's): Ford Stock Needs Earnings to Clear a Ris
+[2026-07-30 06:01:21] Неизвестный источник (macrumors): Apple Upgrade: 20 Things to Know Before 
+[2026-07-30 06:01:21] Неизвестный источник (the mercury news): Big Ten commissioner pushes back on 'bre
+[2026-07-30 06:01:21] Неизвестный источник (wtop): Full buck moon may bring color as it ris
+[2026-07-30 06:01:21] Неизвестный источник (cbs sports): MLB rumors: Tarik Skubal market crystall
+[2026-07-30 06:01:21] Неизвестный источник (9to5google.com): Galaxy Z Fold 8’s wide new design is rep
+[2026-07-30 06:01:21] Неизвестный источник (quartz india): Microsoft launches MAI-Cyber-1-Flash cyb
+[2026-07-30 06:01:21] Неизвестный источник (digitalfoundry.net): Leaks Point to Return of 4GB GPUs as AI 
+[2026-07-30 06:01:21] Старая новость (2026-07-28T03:04:18Z): MMIR vaccine rates for children continue
+[2026-07-30 06:01:21] Мировые новости: найдено 13 после фильтрации
+[2026-07-30 06:01:21] Заблокированный источник (naturalnews.com): Trump Threatens to Seize Frozen Iranian 
+[2026-07-30 06:01:21] Заблокированный источник (naturalnews.com): Drone warfare on the Black Sea: Ukraine’
+[2026-07-30 06:01:21] Заблокированный источник (naturalnews.com): America Has Lost the War: Weâre Now in
+[2026-07-30 06:01:21] Заблокированный источник (rt): Iran demands ‘restitution’ for Kiev’s de
+[2026-07-30 06:01:21] Нет фото: Senate takes first steps on Russian sanc
+[2026-07-30 06:01:21] Нет фото: Senate advances Graham bill to put harsh
+[2026-07-30 06:01:21] Нет фото: Zelenskyy finally gets Washington readin
+[2026-07-30 06:01:21] Нет фото: Zelensky and Netanyahu meet Trump as war
+[2026-07-30 06:01:21] Нет фото: Senators vote to advance Russia sanction
+[2026-07-30 06:01:21] Украинские новости: найдено 7 после фильтрации
+[2026-07-30 06:01:21] Нет фото: Impressed by Ukraine’s Battlefield Gains
+[2026-07-30 06:01:21] Харьков: новостей не найдено
+[2026-07-30 06:01:24] Обрабатываю: Saudi Arabia, US carry out strikes on Iran-backed groups in 
+[2026-07-30 06:01:24] Попытка 1 для: Saudi Arabia, US carry out strikes on Ir
+[2026-07-30 06:01:25] Успешно, получено 762 символов
+[2026-07-30 06:01:25] Пауза 60 секунд...
+[2026-07-30 06:02:25] Обрабатываю: South Korea’s Kospi share index falls nearly 7%, other Asian
+[2026-07-30 06:02:25] Попытка 1 для: South Korea’s Kospi share index falls ne
+[2026-07-30 06:02:27] Успешно, получено 702 символов
+[2026-07-30 06:02:27] Пауза 60 секунд...
+[2026-07-30 06:03:27] Обрабатываю: France orders 4,000 more evacuated as fires displace a third
+[2026-07-30 06:03:27] Попытка 1 для: France orders 4,000 more evacuated as fi
+[2026-07-30 06:03:28] Успешно, получено 617 символов
+[2026-07-30 06:03:29] Пауза 60 секунд...
+[2026-07-30 06:04:29] Обрабатываю: Japan earthquake: Death toll rises to 13 as rescuers race to
+[2026-07-30 06:04:29] Попытка 1 для: Japan earthquake: Death toll rises to 13
+[2026-07-30 06:04:29] Успешно, получено 738 символов
+[2026-07-30 06:04:32] Обрабатываю: Ukraine downs 65 Russian drones overnight
+[2026-07-30 06:04:32] Попытка 1 для: Ukraine downs 65 Russian drones overnigh
+[2026-07-30 06:04:33] Успешно, получено 616 символов
+[2026-07-30 06:04:34] Фото не отправилось: 400
+[2026-07-30 06:04:34] Пауза 60 секунд...
+[2026-07-30 06:05:34] Обрабатываю: Zelensky says Trump backs Patriot production in Ukraine
+[2026-07-30 06:05:34] Попытка 1 для: Zelensky says Trump backs Patriot produc
+[2026-07-30 06:05:35] Успешно, получено 881 символов
+[2026-07-30 06:05:36] === Блок morning завершён ===
