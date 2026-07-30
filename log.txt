@@ -33962,3 +33962,40 @@ Nithya
 [2026-07-30 08:01:17] Попытка 1 для: AI race redraws Asian air cargo, replaci
 [2026-07-30 08:01:18] Успешно, получено 785 символов
 [2026-07-30 08:01:19] === Блок ai_morning завершён ===
+[2026-07-30 11:01:15] Загружено 2614 уже отправленных новостей
+[2026-07-30 11:01:15] === Запуск блока: midday ===
+[2026-07-30 11:01:16] Неизвестный источник (deadline): Jared Leto Accused Of Criminal Sexual Co
+[2026-07-30 11:01:16] Неизвестный источник (variety): BTS Won’t Submit for 2027 Grammy Awards 
+[2026-07-30 11:01:16] Неизвестный источник (page six): The biggest bombshells from Netflix’s ‘T
+[2026-07-30 11:01:16] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Swings to Ch
+[2026-07-30 11:01:16] Неизвестный источник (the conversation africa): ‘The fire has such power’: why the wildf
+[2026-07-30 11:01:16] Неизвестный источник (koin.com): 2 Portland hospitals identified as measl
+[2026-07-30 11:01:16] Неизвестный источник (espn): Tony Petitti reiterates Big Ten desire f
+[2026-07-30 11:01:16] Неизвестный источник (new york post): Gov. Hochul bizarrely claims Mamdani’s b
+[2026-07-30 11:01:16] Неизвестный источник (fox11online.com): NWS confirms EF-3 tornado as Fox Valley 
+[2026-07-30 11:01:16] Неизвестный источник (fox sports): MLB Trade Deadline Predictions For Skuba
+[2026-07-30 11:01:16] Неизвестный источник (macrumors): Apple Upgrade: 20 Things to Know Before 
+[2026-07-30 11:01:16] Неизвестный источник (investopedia): Chip Stocks Extend Pullback Amid AI Bubb
+[2026-07-30 11:01:16] Неизвестный источник (san francisco chronicle): 49ers’ Kyle Shanahan accepts blame for c
+[2026-07-30 11:01:16] Неизвестный источник (android authority): Google finally lets Find Hub users delet
+[2026-07-30 11:01:16] Неизвестный источник (9to5google.com): Galaxy Z Fold 8’s wide new design is rep
+[2026-07-30 11:01:16] Старая новость (2026-07-28T10:28:50Z): Signals are grim for Jodrell Bank Observ
+[2026-07-30 11:01:16] Старая новость (2026-07-28T08:42:02Z): Amid U.S. funding cuts, the Internationa
+[2026-07-30 11:01:16] Старая новость (2026-07-28T03:04:18Z): MMIR vaccine rates for children continue
+[2026-07-30 11:01:16] Мировые новости: найдено 11 после фильтрации
+[2026-07-30 11:01:18] Обрабатываю: Rand Paul released Fauci's pandemic-era 'diary.' Now they'll
+[2026-07-30 11:01:18] Попытка 1 для: Rand Paul released Fauci's pandemic-era 
+[2026-07-30 11:01:19] Успешно, получено 821 символов
+[2026-07-30 11:01:20] Пауза 60 секунд...
+[2026-07-30 11:02:20] Обрабатываю: US bans foreign-made humanoid robots, targeting China over n
+[2026-07-30 11:02:20] Попытка 1 для: US bans foreign-made humanoid robots, ta
+[2026-07-30 11:02:21] Успешно, получено 801 символов
+[2026-07-30 11:02:21] Пауза 60 секунд...
+[2026-07-30 11:03:21] Обрабатываю: Russia charges Telegram founder Pavel Durov with aiding terr
+[2026-07-30 11:03:21] Попытка 1 для: Russia charges Telegram founder Pavel Du
+[2026-07-30 11:03:23] Успешно, получено 885 символов
+[2026-07-30 11:03:23] Пауза 60 секунд...
+[2026-07-30 11:04:23] Обрабатываю: Live updates: At least 13 people killed in Japan earthquake,
+[2026-07-30 11:04:23] Попытка 1 для: Live updates: At least 13 people killed 
+[2026-07-30 11:04:24] Успешно, получено 765 символов
+[2026-07-30 11:04:25] === Блок midday завершён ===
