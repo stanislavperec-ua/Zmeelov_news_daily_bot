@@ -34052,3 +34052,51 @@ Nithya
 [2026-07-30 16:05:36] Попытка 1 для: Ukraine’s drone strikes are having an im
 [2026-07-30 16:05:37] Успешно, получено 729 символов
 [2026-07-30 16:05:37] === Блок evening завершён ===
+[2026-07-30 18:01:14] Загружено 2624 уже отправленных новостей
+[2026-07-30 18:01:14] === Запуск блока: ai_evening ===
+[2026-07-30 18:01:15] Неизвестный источник (salon): Kaitlan Collins and CNN are complicit in
+[2026-07-30 18:01:15] Неизвестный источник (mediaite): Mediaite ONE SHEET: Fauci Under Fire, 60
+[2026-07-30 18:01:15] Неизвестный источник (quartz india): AI companies spending $265 million to tr
+[2026-07-30 18:01:15] Неизвестный источник (siliconangle news): Pangram Labs raises $9M to launch more a
+[2026-07-30 18:01:15] Неизвестный источник (thestreet): SpaceX's huge stock dive batters Elon Mu
+[2026-07-30 18:01:15] Неизвестный источник (thestreet): Morgan Stanley resets Akamai stock price
+[2026-07-30 18:01:15] Неизвестный источник (ubergizmo): Windows 11 KB5101681: Voice Typing, Touc
+[2026-07-30 18:01:15] Нет фото: BMO Completes SRTs Tied to $5 Billion of
+[2026-07-30 18:01:15] Неизвестный источник (ani news): India's Statutory Pharmacy Regulator PCI
+[2026-07-30 18:01:15] Неизвестный источник (the diplomat): How the US Can Counter China’s Emerging 
+[2026-07-30 18:01:15] Неизвестный источник (cnbc): Microsoft is set to report earnings afte
+[2026-07-30 18:01:15] Неизвестный источник (marketbeat): Option Care Health Q2 Earnings Call High
+[2026-07-30 18:01:15] Неизвестный источник (activistpost.com): The Fourth Amendment Is Being Liquidated
+[2026-07-30 18:01:15] Неизвестный источник (malwarebytes.com): AI robocalls: Why caller ID is still lyi
+[2026-07-30 18:01:15] Нет фото: BioTalent Canada and Bioscience Associat
+[2026-07-30 18:01:15] Неизвестный источник (prnewswire): Corsha Wins Silver Globee® Award for Bes
+[2026-07-30 18:01:15] Нет фото: Amida Launches DataLoom, a Unified Data 
+[2026-07-30 18:01:15] Неизвестный источник (prnewswire): People Leaders Are the Most Skeptical of
+[2026-07-30 18:01:15] Неизвестный источник (bitcoinfoundation.org): TAO Crypto Is on Fire: Can Bittensor Pri
+[2026-07-30 18:01:15] Неизвестный источник (bleepingcomputer): "OfficeClickToRun.exe" Detection
+[2026-07-30 18:01:15] Неизвестный источник (financial post): US Risks Broadening China Clash With Rob
+[2026-07-30 18:01:15] Неизвестный источник (prnewswire): North America Data Center Construction M
+[2026-07-30 18:01:15] Неизвестный источник (prnewswire): Europe Hyperscale Data Center Market to 
+[2026-07-30 18:01:15] Нет фото: Back to School Survey: Teens Believe Sch
+[2026-07-30 18:01:15] Неизвестный источник (kdnuggets.com): What Professionals Should Know About Dat
+[2026-07-30 18:01:15] Неизвестный источник (plos.org): SynAPSeg: A novel dataset and image anal
+[2026-07-30 18:01:15] Неизвестный источник (plos.org): Bacillus thuringiensis pathogenicity isl
+[2026-07-30 18:01:15] Неизвестный источник (plos.org): A lightweight hybrid framework integrati
+[2026-07-30 18:01:15] Неизвестный источник (plos.org): An integrated Gaussian–Probabilistic–Fuz
+[2026-07-30 18:01:15] Неизвестный источник (plos.org): Object detection in histology: A multi-d
+[2026-07-30 18:01:15] Неизвестный источник (zycrypto): ‪Ethereum’s Relationship With AI: A Foun
+[2026-07-30 18:01:15] Неизвестный источник (the next web): Visa is cutting 2,600 tech jobs to bankr
+[2026-07-30 18:01:15] Неизвестный источник (siliconangle news): Optical interconnect startup Eliyan rais
+[2026-07-30 18:01:15] Неизвестный источник (yahoo entertainment): This AI startup has roughly 50 employees
+[2026-07-30 18:01:15] Неизвестный источник (globenewswire): Rhino Bitcoin Adds 500,000,000 Splendor 
+[2026-07-30 18:01:15] Неизвестный источник (siliconangle news): Sweet Security debuts Agentic AI Blockin
+[2026-07-30 18:01:15] Неизвестный источник (siliconangle news): SnapLogic transforms SnapGPT into a high
+[2026-07-30 18:01:15] AI новости: найдено 2 после фильтрации
+[2026-07-30 18:01:18] Обрабатываю: India eyes 1 billion 5G users by 2030 as Scindia unveils IMC
+[2026-07-30 18:01:18] Попытка 1 для: India eyes 1 billion 5G users by 2030 as
+[2026-07-30 18:01:19] Успешно, получено 776 символов
+[2026-07-30 18:01:19] Пауза 60 секунд...
+[2026-07-30 18:02:19] Обрабатываю: How AI is helping pharma prevent drug recalls, counter fakes
+[2026-07-30 18:02:19] Попытка 1 для: How AI is helping pharma prevent drug re
+[2026-07-30 18:02:20] Успешно, получено 743 символов
+[2026-07-30 18:02:21] === Блок ai_evening завершён ===
