@@ -34153,3 +34153,49 @@ Nithya
 [2026-07-31 06:05:40] Попытка 1 для: Russian strikes kill at least 8 across U
 [2026-07-31 06:05:41] Успешно, получено 895 символов
 [2026-07-31 06:05:42] === Блок morning завершён ===
+[2026-07-31 08:01:13] Загружено 2632 уже отправленных новостей
+[2026-07-31 08:01:13] === Запуск блока: ai_morning ===
+[2026-07-31 08:01:13] Неизвестный источник (newsonjapan.com): Will Kumamoto Quake Drive Overseas Chipm
+[2026-07-31 08:01:13] Неизвестный источник (antaranews.com): Banten ready to welcome China's data cen
+[2026-07-31 08:01:13] Неизвестный источник (antaranews.com): From China Mobile's Call Upgrade to the 
+[2026-07-31 08:01:13] Неизвестный источник (financial post): Schneider Electric Lifts Guidance on Boo
+[2026-07-31 08:01:13] Неизвестный источник (computerweekly.com): The Security Interviews: Bronwyn Boyle, 
+[2026-07-31 08:01:13] Неизвестный источник (businessline): Milken Institute Unveils Details for 202
+[2026-07-31 08:01:13] Заблокированный источник (naturalnews.com): The invisible assault: How everyday toxi
+[2026-07-31 08:01:13] Неизвестный источник (businessline): CHRIST University launches five-year glo
+[2026-07-31 08:01:13] Неизвестный источник (bmwgroup.com): More speed, more efficiency: BMW Group r
+[2026-07-31 08:01:13] Неизвестный источник (globenewswire): Bouygues: Very strong Group performance 
+[2026-07-31 08:01:13] Неизвестный источник (globenewswire): Iveco Group 2026 Second Quarter Results
+[2026-07-31 08:01:13] Неизвестный источник (israelnationalnews.com): What’s good for Russia and China Is bad 
+[2026-07-31 08:01:13] Неизвестный источник (antaranews.com): Consumer confidence remains resilient ac
+[2026-07-31 08:01:13] Неизвестный источник (americanthinker.com): Trump is Right: Americans Should Embrace
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): MiniIO debuts AIStor Memory, the long-te
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): Samsung’s stock rises on explosive opera
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): Qualcomm and Arm see momentum in AI, but
+[2026-07-31 08:01:13] Неизвестный источник (dailymail.com): Visa to axe THOUSANDS of employees in ye
+[2026-07-31 08:01:13] Неизвестный источник (dailymail.com): 'Human extinction is a possibility', say
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): Microsoft’s stock rises 9% on strong Azu
+[2026-07-31 08:01:13] Нет фото: Blue Owl’s Stack Seeks $5.9 Billion Loan
+[2026-07-31 08:01:13] Неизвестный источник (universe today): Tracking Satellites and Space Debris Usi
+[2026-07-31 08:01:13] Нет фото: A manufacturability-informed topology fr
+[2026-07-31 08:01:13] Неизвестный источник (financial post): Dynamic AI Pricing Could Mean Fewer Chea
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): OpenAI opens new ChatGPT for Academic Re
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): Meta’s AI bill swallows nearly all of it
+[2026-07-31 08:01:13] Неизвестный источник (prnewswire): Accuray Announces Plan Involving Financi
+[2026-07-31 08:01:13] Неизвестный источник (pymnts.com): WEX Deploys AI to Stop Fleet Fuel Fraud 
+[2026-07-31 08:01:13] Неизвестный источник (siliconangle news): GlobalFoundries to receive $300M in fede
+[2026-07-31 08:01:13] Неизвестный источник (prnewswire): Ryerson Reports Second Quarter 2026 Resu
+[2026-07-31 08:01:13] Неизвестный источник (prnewswire): LENDINGTREE REPORTS SECOND QUARTER 2026 
+[2026-07-31 08:01:13] Неизвестный источник (globenewswire): FormFactor, Inc. Reports 2026 Second Qua
+[2026-07-31 08:01:13] Неизвестный источник (www.nrc.nl): Capitalism’s status hierarchy is being u
+[2026-07-31 08:01:13] Неизвестный источник (financial post): Pearson Names Certiport 2026 Adobe Certi
+[2026-07-31 08:01:13] Неизвестный источник (nextgov): The perimeter is gone. Security has to f
+[2026-07-31 08:01:13] Неизвестный источник (financial post): Microsoft, Meta earnings face a market g
+[2026-07-31 08:01:13] Неизвестный источник (financial post): BMO completes SRTs tied to US$5 billion 
+[2026-07-31 08:01:13] Неизвестный источник (the conversation africa): How an OpenAI safety test became a real-
+[2026-07-31 08:01:13] AI новости: найдено 1 после фильтрации
+[2026-07-31 08:01:15] Обрабатываю: Skeptical Science New Research for Week #31 2026
+[2026-07-31 08:01:15] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-07-31 08:01:16] Успешно, получено 556 символов
+[2026-07-31 08:01:16] Фото не отправилось: 400
+[2026-07-31 08:01:17] === Блок ai_morning завершён ===
