@@ -34400,3 +34400,53 @@ Nithya
 [2026-08-01 06:05:32] Успешно, получено 432 символов
 [2026-08-01 06:05:33] Фото не отправилось: 400
 [2026-08-01 06:05:34] === Блок morning завершён ===
+[2026-08-01 08:01:15] Загружено 2646 уже отправленных новостей
+[2026-08-01 08:01:15] === Запуск блока: ai_morning ===
+[2026-08-01 08:01:15] Неизвестный источник (businessline): Anthropic says its AI models hacked 3 or
+[2026-08-01 08:01:15] Неизвестный источник (protothema.gr): The ministers’ quiet holidays (K.M.’s “I
+[2026-08-01 08:01:15] Неизвестный источник (prnewswire): FICG Strengthens ASEAN Presence Through 
+[2026-08-01 08:01:15] Нет фото: Engie Raises Full-Year Profit Outlook Am
+[2026-08-01 08:01:15] Неизвестный источник (internet): Anthropic Says Claude Mistook the Open I
+[2026-08-01 08:01:15] Неизвестный источник (prnewswire): Pearson Interim Results for the six mont
+[2026-08-01 08:01:15] Неизвестный источник (prnewswire): Pearson Interim Results for the six mont
+[2026-08-01 08:01:15] Неизвестный источник (financial post): HK Rejects Gloom After Ex-Morgan Stanley
+[2026-08-01 08:01:15] Нет фото: mindupload 1.11.6
+[2026-08-01 08:01:15] Неизвестный источник (computerweekly.com): BMW Group drives digital cockpit, automa
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): LinkedIn cracks down on users posting ‘A
+[2026-08-01 08:01:15] Неизвестный источник (americanthinker.com): Cybercriminals already know what most Am
+[2026-08-01 08:01:15] Неизвестный источник (dw (english)): Anthropic says Claude AI hacked three co
+[2026-08-01 08:01:15] Нет фото: mindupload 1.11.5
+[2026-08-01 08:01:15] Неизвестный источник (comicbook.com): Everything Coming to Netflix, HBO Max, P
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Programmable networking chip startup Xsi
+[2026-08-01 08:01:15] Неизвестный источник (the conversation africa): Should I let my kids down that tube slid
+[2026-08-01 08:01:15] Неизвестный источник (the conversation africa): Data centres are power hungry – but they
+[2026-08-01 08:01:15] Неизвестный источник (khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Apple’s stock slides as it blames supply
+[2026-08-01 08:01:15] Нет фото: Tesla Weighs China Unit Sale Ahead of Sp
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Nscale buys AI infrastructure optimizati
+[2026-08-01 08:01:15] Неизвестный источник (pymnts.com): Amazon Puts AI Agents to Work as Sales T
+[2026-08-01 08:01:15] Неизвестный источник (the conversation africa): Sam Altman says we’re ‘in the singularit
+[2026-08-01 08:01:15] Неизвестный источник (antiwar.com): Section 219: More Than a Defense Provisi
+[2026-08-01 08:01:15] Нет фото: Explainable ensemble machine learning fo
+[2026-08-01 08:01:15] Неизвестный источник (mcnews.com.au): BMW Motorrad profits rise as BMW car mar
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Amazon’s stock pops on roaring cloud gro
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Google DeepMind debuts Gemini Robotics 2
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Okta to acquire Permiso Security in repo
+[2026-08-01 08:01:15] Неизвестный источник (siliconangle news): Coinbase shares slide as revenue and ear
+[2026-08-01 08:01:15] Неизвестный источник (bluegrasslive.com): Decent Holding Advances AI-Powered Healt
+[2026-08-01 08:01:15] Неизвестный источник (pymnts.com): Hospitals Follow Banks’ Playbook for Tam
+[2026-08-01 08:01:15] Неизвестный источник (usa today): Millions tap to pay every day. Here's wh
+[2026-08-01 08:01:15] Неизвестный источник (marketbeat): Uniti Group Q2 Earnings Call Highlights
+[2026-08-01 08:01:15] AI новости: найдено 5 после фильтрации
+[2026-08-01 08:01:18] Обрабатываю: Sarvam AI plans trillion-parameter model, sets sights on com
+[2026-08-01 08:01:18] Попытка 1 для: Sarvam AI plans trillion-parameter model
+[2026-08-01 08:01:19] Успешно, получено 682 символов
+[2026-08-01 08:01:19] Пауза 60 секунд...
+[2026-08-01 08:02:19] Обрабатываю: AI streaming fraud sentencing tomorrow: Bot network stole $8
+[2026-08-01 08:02:19] Попытка 1 для: AI streaming fraud sentencing tomorrow: 
+[2026-08-01 08:02:21] Успешно, получено 833 символов
+[2026-08-01 08:02:22] Пауза 60 секунд...
+[2026-08-01 08:03:22] Обрабатываю: No chips, no models, no problem: Indian manufacturers strike
+[2026-08-01 08:03:22] Попытка 1 для: No chips, no models, no problem: Indian 
+[2026-08-01 08:03:23] Успешно, получено 1086 символов
+[2026-08-01 08:03:24] === Блок ai_morning завершён ===
