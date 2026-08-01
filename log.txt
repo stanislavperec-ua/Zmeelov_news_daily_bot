@@ -34450,3 +34450,38 @@ Nithya
 [2026-08-01 08:03:22] Попытка 1 для: No chips, no models, no problem: Indian 
 [2026-08-01 08:03:23] Успешно, получено 1086 символов
 [2026-08-01 08:03:24] === Блок ai_morning завершён ===
+[2026-08-01 11:01:14] Загружено 2649 уже отправленных новостей
+[2026-08-01 11:01:14] === Запуск блока: midday ===
+[2026-08-01 11:01:14] Неизвестный источник (cnbc): Nasdaq futures rise as Wall Street rebou
+[2026-08-01 11:01:14] Неизвестный источник (substack.com): July 30, 2026 - heathercoxrichardson.sub
+[2026-08-01 11:01:14] Неизвестный источник (hollywood reporter): Sadie Sink’s Secret Role in ‘Spider-Man:
+[2026-08-01 11:01:14] Неизвестный источник (milwaukee journal sentinel): Sources detail concerns about Mandela Ba
+[2026-08-01 11:01:14] Неизвестный источник (pitchfork): Ariana Grande: petal Album Review - Pitc
+[2026-08-01 11:01:14] Неизвестный источник (komo news): Councilmembers say Mayor Katie Wilson as
+[2026-08-01 11:01:14] Неизвестный источник (pbs): Attorney for Nolan Wells' family says ex
+[2026-08-01 11:01:14] Неизвестный источник (phys.org): Photonic time crystals unlock ultrafast 
+[2026-08-01 11:01:14] Неизвестный источник (newsnationnow.com): Mars rover discovers honeycomb-like fiel
+[2026-08-01 11:01:14] Неизвестный источник (new york post): Tenants in NYC building haven't showered
+[2026-08-01 11:01:14] Неизвестный источник (sports illustrated): Ranking the 10 Biggest MLB Trade Deadlin
+[2026-08-01 11:01:14] Неизвестный источник (9to5google.com): Gemini Spark can now use Chrome to auto 
+[2026-08-01 11:01:14] Неизвестный источник (yahoo entertainment): Microsoft’s stock has biggest one-day ga
+[2026-08-01 11:01:14] Неизвестный источник (techpowerup.com): NVIDIA RTX 50-Series GPUs Could See Anot
+[2026-08-01 11:01:14] Неизвестный источник (9to5google.com): Samsung has another brand-new Galaxy Bud
+[2026-08-01 11:01:14] Старая новость (2026-07-29T20:02:45Z): Limiting sugar before age two linked to 
+[2026-08-01 11:01:14] Мировые новости: найдено 12 после фильтрации
+[2026-08-01 11:01:17] Обрабатываю: FIFA defiant over World Cup investment plan, despite UEFA’s 
+[2026-08-01 11:01:17] Попытка 1 для: FIFA defiant over World Cup investment p
+[2026-08-01 11:01:18] Успешно, получено 778 символов
+[2026-08-01 11:01:19] Пауза 60 секунд...
+[2026-08-01 11:02:19] Обрабатываю: Nirmal Purja: Ex-Royal Marine among 10 climbers feared missi
+[2026-08-01 11:02:19] Попытка 1 для: Nirmal Purja: Ex-Royal Marine among 10 c
+[2026-08-01 11:02:20] Успешно, получено 673 символов
+[2026-08-01 11:02:21] Пауза 60 секунд...
+[2026-08-01 11:03:21] Обрабатываю: Spain deploys military to Ceuta after thousands of people br
+[2026-08-01 11:03:21] Попытка 1 для: Spain deploys military to Ceuta after th
+[2026-08-01 11:03:22] Успешно, получено 626 символов
+[2026-08-01 11:03:22] Пауза 60 секунд...
+[2026-08-01 11:04:22] Обрабатываю: Death toll from Japan earthquake climbs to 34
+[2026-08-01 11:04:22] Попытка 1 для: Death toll from Japan earthquake climbs 
+[2026-08-01 11:04:23] Успешно, получено 702 символов
+[2026-08-01 11:04:24] === Блок midday завершён ===
