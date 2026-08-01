@@ -34532,3 +34532,49 @@ Nithya
 [2026-08-01 16:05:34] Попытка 1 для: Ukraine Is Now Targeting Iranian Shippin
 [2026-08-01 16:05:35] Успешно, получено 471 символов
 [2026-08-01 16:05:35] === Блок evening завершён ===
+[2026-08-01 18:01:22] Загружено 2659 уже отправленных новостей
+[2026-08-01 18:01:22] === Запуск блока: ai_evening ===
+[2026-08-01 18:01:22] Неизвестный источник (new zealand herald): Datacom boss on how to beat surging AI c
+[2026-08-01 18:01:22] Неизвестный источник (computerworld): Data center developer eyes disused newpa
+[2026-08-01 18:01:22] Неизвестный источник (prnewswire): In HelloNation, Endodontic Expert Dr. Al
+[2026-08-01 18:01:22] Неизвестный источник (abcnews.com): Anthropic says its AI models escaped tes
+[2026-08-01 18:01:22] Неизвестный источник (the conversation africa): An AI system ‘escaped’ during a test and
+[2026-08-01 18:01:22] Неизвестный источник (financial post): US Stocks Falter as AI-Driven Rally Fade
+[2026-08-01 18:01:22] Неизвестный источник (marketbeat): AutoNation Q2 Earnings Call Highlights
+[2026-08-01 18:01:22] Неизвестный источник (financial post): CIBC weighs costs as select employees te
+[2026-08-01 18:01:22] Неизвестный источник (prnewswire): AZIO AI Executes Master Services Agreeme
+[2026-08-01 18:01:22] Неизвестный источник (cnbc): How Leopold Aschenbrenner built a $45 bi
+[2026-08-01 18:01:22] Неизвестный источник (globalresearch.ca): A Head for an Eye: The Government’s War 
+[2026-08-01 18:01:22] Неизвестный источник (financial post): Who Is Leopold Aschenbrenner and why is 
+[2026-08-01 18:01:22] Неизвестный источник (plos.org): DiSCoKit: An open-source toolkit for dep
+[2026-08-01 18:01:22] Неизвестный источник (plos.org): NLCD: A method to discover nonlinear cau
+[2026-08-01 18:01:22] Неизвестный источник (financial post): BOE’s Pill Warns of Energy Price Volatil
+[2026-08-01 18:01:22] Неизвестный источник (nextgov): Anthropic confirms its AI breached 3 org
+[2026-08-01 18:01:22] Неизвестный источник (insurance journal): Anthropic AI Models Hacked Three Organiz
+[2026-08-01 18:01:22] Неизвестный источник (broadbandbreakfast.com): Anti-fraud tools can't keep pace with sc
+[2026-08-01 18:01:22] Неизвестный источник (the punch): Cross River rolls out AI-powered surveil
+[2026-08-01 18:01:22] Неизвестный источник (vancouver sun): Conversations That Matter: The future of
+[2026-08-01 18:01:22] Неизвестный источник (cnbc): 34-year-old CEO bet on AI video 5 years 
+[2026-08-01 18:01:22] Неизвестный источник (anime news network): Studio MAPPA On How Dorohedoro Season Tw
+[2026-08-01 18:01:22] Нет фото: Telus Cuts Payout, Plans Asset Sales as 
+[2026-08-01 18:01:22] Неизвестный источник (fortune): Anthropic discloses that Claude broke ou
+[2026-08-01 18:01:22] Неизвестный источник (globenewswire): Bull DeFi Accelerates Global Cloud Compu
+[2026-08-01 18:01:22] Неизвестный источник (financial post): Telus cuts dividend, plans asset sales a
+[2026-08-01 18:01:22] Неизвестный источник (bitcoinfoundation.org): Best Crypto Tokens Under $1 to Buy in Au
+[2026-08-01 18:01:22] Нет фото: auditapp 0.2.0
+[2026-08-01 18:01:22] Неизвестный источник (financial post): Alimentation Couche-Tard expands in Euro
+[2026-08-01 18:01:22] Неизвестный источник (computerweekly.com): Anthropic lost control of Claude in late
+[2026-08-01 18:01:22] Неизвестный источник (computerweekly.com): Troubleshooting cloud connectivity emerg
+[2026-08-01 18:01:22] Нет фото: IBN.Ai Launches Publicly Traded IBNAi Co
+[2026-08-01 18:01:22] Неизвестный источник (globenewswire): IBN.Ai Launches Publicly Traded IBNAi Co
+[2026-08-01 18:01:22] Неизвестный источник (urbanpitch.com): Why MetLife Stadium Was The Worst Possib
+[2026-08-01 18:01:22] Неизвестный источник (prnewswire): Thomson Reuters announces layoffs, Yahoo
+[2026-08-01 18:01:22] Неизвестный источник (fashionunited uk): US fashion industry poised for sourcing 
+[2026-08-01 18:01:22] Неизвестный источник (techradar): Starlink sends the telecoms world off in
+[2026-08-01 18:01:22] Неизвестный источник (financial post): Hong Kong’s Economy Slows More Than Fore
+[2026-08-01 18:01:22] Неизвестный источник (the next web): Lloyds Bank bets on AI to cut £2bn in co
+[2026-08-01 18:01:22] AI новости: найдено 1 после фильтрации
+[2026-08-01 18:01:25] Обрабатываю: Western allies warn North Korean IT workers funding nuclear 
+[2026-08-01 18:01:25] Попытка 1 для: Western allies warn North Korean IT work
+[2026-08-01 18:01:26] Успешно, получено 618 символов
+[2026-08-01 18:01:26] === Блок ai_evening завершён ===
