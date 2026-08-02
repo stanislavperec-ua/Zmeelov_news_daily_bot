@@ -34682,3 +34682,38 @@ Nithya
 [2026-08-02 08:02:20] Попытка 1 для: Western allies warn North Korean IT work
 [2026-08-02 08:02:21] Успешно, получено 657 символов
 [2026-08-02 08:02:21] === Блок ai_morning завершён ===
+[2026-08-02 11:01:21] Загружено 2667 уже отправленных новостей
+[2026-08-02 11:01:21] === Запуск блока: midday ===
+[2026-08-02 11:01:22] Неизвестный источник (fox news): Mamdani not called to speak at NYC funer
+[2026-08-02 11:01:22] Неизвестный источник (hollywood reporter): ‘Barbie’ Sequel Stalled as Warner Bros. 
+[2026-08-02 11:01:22] Неизвестный источник (mlb.com): With Skubal trade looming, when will res
+[2026-08-02 11:01:22] Неизвестный источник (just jared): Slipknot’s Sid Wilson Reportedly Kicked 
+[2026-08-02 11:01:22] Неизвестный источник (azmirror.com): The Trump administration's ‘draconian’ w
+[2026-08-02 11:01:22] Неизвестный источник (mma fighting): Usman Nurmagomedov torches Archie Colgan
+[2026-08-02 11:01:22] Неизвестный источник (yahoo entertainment): With Situational Awareness AI deal, Cita
+[2026-08-02 11:01:22] Неизвестный источник (rolling stone): Nancy Guthrie Ransom Notes Released by S
+[2026-08-02 11:01:22] Неизвестный источник (minnesota public radio news): Walz blasts unfounded Trump claim on cyb
+[2026-08-02 11:01:22] Неизвестный источник (awful announcing): Colin Cowherd believes CBS executives re
+[2026-08-02 11:01:22] Неизвестный источник (fox news): Trump brokers Hamas disarmament deal as 
+[2026-08-02 11:01:22] Неизвестный источник (dw (english)): DR Congo Ebola outbreak becomes world's 
+[2026-08-02 11:01:22] Неизвестный источник (rolling stone): BTS Boycott the Grammys, But Will Other 
+[2026-08-02 11:01:22] Неизвестный источник (windows central): Major Windows 11 update will make 8GB RA
+[2026-08-02 11:01:22] Неизвестный источник (internet): Three Recent Chrome Releases Fix 1,442 F
+[2026-08-02 11:01:22] Старая новость (2026-07-30T20:37:59Z): Mortgage rates hit their highest level i
+[2026-08-02 11:01:22] Мировые новости: найдено 14 после фильтрации
+[2026-08-02 11:01:24] Обрабатываю: Russian missile attack kills three in Ukraine’s Kyiv
+[2026-08-02 11:01:24] Попытка 1 для: Russian missile attack kills three in Uk
+[2026-08-02 11:01:25] Успешно, получено 576 символов
+[2026-08-02 11:01:25] Пауза 60 секунд...
+[2026-08-02 11:02:25] Обрабатываю: Infantino abandons plans to sell World Cup profits to privat
+[2026-08-02 11:02:25] Попытка 1 для: Infantino abandons plans to sell World C
+[2026-08-02 11:02:27] Успешно, получено 922 символов
+[2026-08-02 11:02:27] Пауза 60 секунд...
+[2026-08-02 11:03:27] Обрабатываю: As heat and dry conditions fan wildfires in France, voluntee
+[2026-08-02 11:03:27] Попытка 1 для: As heat and dry conditions fan wildfires
+[2026-08-02 11:03:28] Успешно, получено 838 символов
+[2026-08-02 11:03:29] Пауза 60 секунд...
+[2026-08-02 11:04:29] Обрабатываю: Trump wanted interest rate cuts to be 'Rocket Fuel' for the 
+[2026-08-02 11:04:29] Попытка 1 для: Trump wanted interest rate cuts to be 'R
+[2026-08-02 11:04:30] Успешно, получено 825 символов
+[2026-08-02 11:04:30] === Блок midday завершён ===
