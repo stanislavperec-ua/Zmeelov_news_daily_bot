@@ -34921,3 +34921,40 @@ Nithya
 [2026-08-03 08:03:14] Попытка 1 для: Thieves steal fake jewellery from MLA’s 
 [2026-08-03 08:03:15] Успешно, получено 501 символов
 [2026-08-03 08:03:16] === Блок ai_morning завершён ===
+[2026-08-03 11:01:11] Загружено 2685 уже отправленных новостей
+[2026-08-03 11:01:11] === Запуск блока: midday ===
+[2026-08-03 11:01:11] Неизвестный источник (fox news): Louisiana becomes latest state to launch
+[2026-08-03 11:01:11] Неизвестный источник (espn): Sources: Sparks deal All-Star guard Plum
+[2026-08-03 11:01:11] Неизвестный источник (page six): ‘Lioness’ returns for Season 3—Here’s ho
+[2026-08-03 11:01:11] Неизвестный источник (lookout landing): Mariners to trade Luis Castillo to White
+[2026-08-03 11:01:11] Неизвестный источник (komo news): Gov. Bob Ferguson declares statewide eme
+[2026-08-03 11:01:11] Неизвестный источник (kabc-tv): Powerball numbers: $809K-winning Powerba
+[2026-08-03 11:01:11] Неизвестный источник (gothamist): Summer stargazing goes out with a bang i
+[2026-08-03 11:01:11] Неизвестный источник (tvinsider): ‘Spider-Man: Brand New Day’ Breaks Previ
+[2026-08-03 11:01:11] Неизвестный источник (ksl.com): Congo says the death toll in fastest-gro
+[2026-08-03 11:01:11] Неизвестный источник (kabc-tv): Discarded SpaceX rocket is on high-speed
+[2026-08-03 11:01:11] Неизвестный источник (seeking alpha): How Citadel’s Situational Awareness deal
+[2026-08-03 11:01:11] Старая новость (2026-08-01T10:12:18Z): Bessent and the Fed Help Japan Reverse M
+[2026-08-03 11:01:11] Старая новость (2026-07-31T19:50:32Z): PlayStation Discs Are the Least of Sony’
+[2026-08-03 11:01:11] Старая новость (2026-07-31T19:29:00Z): Mamdani admin blasted for tone-deaf vict
+[2026-08-03 11:01:11] Старая новость (2026-07-31T18:36:00Z): Consuming less protein could have greate
+[2026-08-03 11:01:11] Старая новость (2026-07-31T16:00:25Z): A rocky exoplanet may be a formidable ca
+[2026-08-03 11:01:11] Старая новость (2026-07-31T16:00:00Z): Look Familiar? Meet The KONKR Pocket Adv
+[2026-08-03 11:01:11] Старая новость (2026-07-31T15:25:31Z): iPhone Air 2 Expected to Launch Early Ne
+[2026-08-03 11:01:11] Мировые новости: найдено 10 после фильтрации
+[2026-08-03 11:01:14] Обрабатываю: Idaho fast food restaurant shooting leaves 3 dead, city spok
+[2026-08-03 11:01:14] Попытка 1 для: Idaho fast food restaurant shooting leav
+[2026-08-03 11:01:15] Успешно, получено 698 символов
+[2026-08-03 11:01:16] Пауза 60 секунд...
+[2026-08-03 11:02:16] Обрабатываю: Live updates: US-Iran war; Trump says he’s canceling planned
+[2026-08-03 11:02:16] Попытка 1 для: Live updates: US-Iran war; Trump says he
+[2026-08-03 11:02:17] Успешно, получено 731 символов
+[2026-08-03 11:02:17] Пауза 60 секунд...
+[2026-08-03 11:03:17] Обрабатываю: Three killed after bomb detonated at Moscow restaurant, stat
+[2026-08-03 11:03:17] Попытка 1 для: Three killed after bomb detonated at Mos
+[2026-08-03 11:03:19] Успешно, получено 667 символов
+[2026-08-03 11:03:19] Пауза 60 секунд...
+[2026-08-03 11:04:19] Обрабатываю: Several states report cyberattacks as spy agencies suspect I
+[2026-08-03 11:04:19] Попытка 1 для: Several states report cyberattacks as sp
+[2026-08-03 11:04:20] Успешно, получено 705 символов
+[2026-08-03 11:04:20] === Блок midday завершён ===
