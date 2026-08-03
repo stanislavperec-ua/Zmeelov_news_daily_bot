@@ -35018,3 +35018,39 @@ Nithya
 [2026-08-03 16:06:35] Успешно, получено 568 символов
 [2026-08-03 16:06:35] Фото не отправилось: 400
 [2026-08-03 16:06:35] === Блок evening завершён ===
+[2026-08-03 18:01:14] Загружено 2695 уже отправленных новостей
+[2026-08-03 18:01:14] === Запуск блока: ai_evening ===
+[2026-08-03 18:01:14] Нет фото: artificial-emotions added to PyPI
+[2026-08-03 18:01:14] Нет фото: artificial-emotions 0.4.0
+[2026-08-03 18:01:14] Неизвестный источник (fair observer): Algorithms of Hate: How AI Is Rewriting 
+[2026-08-03 18:01:14] Неизвестный источник (dailymail.com): Gilded lives of AI barons: How tech tyco
+[2026-08-03 18:01:14] Неизвестный источник (onefootball.com): ❌ Preston cancel friendly against Barça 
+[2026-08-03 18:01:14] Неизвестный источник (bitcoinfoundation.org): FET Crypto Price Prediction: Can Artific
+[2026-08-03 18:01:14] Неизвестный источник (ieee.org): This Hi-Fi Tape Recorder Changed Radio F
+[2026-08-03 18:01:14] Неизвестный источник (financial post): Ugly Month in Emerging Markets May Be a 
+[2026-08-03 18:01:14] Неизвестный источник (cryptoslate): The sudden collapse of a $20 billion AI 
+[2026-08-03 18:01:14] Нет фото: Best HBCUs for Securing Top Jobs and Hig
+[2026-08-03 18:01:14] Нет фото: artificial-intelligence-local 0.0.12b314
+[2026-08-03 18:01:14] Неизвестный источник (bleeding cool news): Batman #12 Preview: Six Assassins Walk I
+[2026-08-03 18:01:14] Неизвестный источник (the punch): Stronger local production will transform
+[2026-08-03 18:01:14] Нет фото: aether-q-engine 6.1.0
+[2026-08-03 18:01:14] Нет фото: aether-q-engine 6.0.0
+[2026-08-03 18:01:14] Неизвестный источник (bleeding cool news): Batgirl #22 Preview: Cassandra Cain's Mi
+[2026-08-03 18:01:14] Неизвестный источник (yahoo entertainment): AI’s Electricity Demand Is Not the Real 
+[2026-08-03 18:01:14] Неизвестный источник (oilprice.com): AI’s Electricity Demand Is Not the Real 
+[2026-08-03 18:01:14] Неизвестный источник (thewrap): Everything New on Streaming in August: N
+[2026-08-03 18:01:14] Неизвестный источник (oilprice.com): The Controversial Space Mirrors Designed
+[2026-08-03 18:01:14] Неизвестный источник (bleeding cool news): Adventures of Superman: Book of El #11 P
+[2026-08-03 18:01:14] AI новости: найдено 4 после фильтрации
+[2026-08-03 18:01:16] Обрабатываю: In 2007, a tiny ghost-white beetle revealed the secret to th
+[2026-08-03 18:01:16] Попытка 1 для: In 2007, a tiny ghost-white beetle revea
+[2026-08-03 18:01:19] Успешно, получено 708 символов
+[2026-08-03 18:01:21] Пауза 60 секунд...
+[2026-08-03 18:02:21] Обрабатываю: Elon Musk Jokes He's a "Former Trillionaire" as Tesla and Sp
+[2026-08-03 18:02:21] Попытка 1 для: Elon Musk Jokes He's a "Former Trilliona
+[2026-08-03 18:02:22] Успешно, получено 769 символов
+[2026-08-03 18:02:22] Пауза 60 секунд...
+[2026-08-03 18:03:22] Обрабатываю: India's Second Leapfrog: From sick-care to AI-native health 
+[2026-08-03 18:03:22] Попытка 1 для: India's Second Leapfrog: From sick-care 
+[2026-08-03 18:03:24] Успешно, получено 879 символов
+[2026-08-03 18:03:24] === Блок ai_evening завершён ===
