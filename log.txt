@@ -35165,3 +35165,35 @@ Nithya
 [2026-08-04 08:03:18] Попытка 1 для: In 2007, a tiny ghost-white beetle revea
 [2026-08-04 08:03:19] Успешно, получено 881 символов
 [2026-08-04 08:03:19] === Блок ai_morning завершён ===
+[2026-08-04 11:01:16] Загружено 2705 уже отправленных новостей
+[2026-08-04 11:01:16] === Запуск блока: midday ===
+[2026-08-04 11:01:16] Неизвестный источник (cnbc): Stock futures rise in first trading day 
+[2026-08-04 11:01:16] Неизвестный источник (toledo blade): U.S. Rep. Marcy Kaptur ‘active, alert’ a
+[2026-08-04 11:01:16] Неизвестный источник (espn): Friedman, Roberts push back on narrative
+[2026-08-04 11:01:16] Неизвестный источник (android central): Pixel 11 Made by Google 2026 launch even
+[2026-08-04 11:01:16] Неизвестный источник (houston chronicle): Exclusive: Jadeveon Clowney explains sig
+[2026-08-04 11:01:16] Неизвестный источник (9to5google.com): Google voice redesign merges AI Mode, Se
+[2026-08-04 11:01:16] Неизвестный источник (business insider): What smart people are saying about Trump
+[2026-08-04 11:01:16] Неизвестный источник (broadway world): Breaking News: Geno Segers No Longer Joi
+[2026-08-04 11:01:16] Старая новость (2026-08-02T07:17:45Z): This portable paper tablet might be my f
+[2026-08-04 11:01:16] Старая новость (2026-08-02T06:00:00Z): Don’t Miss August 12’s Solar Eclipse And
+[2026-08-04 11:01:16] Старая новость (2026-08-02T04:53:49Z): Eating less protein could slow aging, ma
+[2026-08-04 11:01:16] Старая новость (2026-08-01T16:16:16Z): Ebola Bundibugyo strain outbreak worst e
+[2026-08-04 11:01:16] Старая новость (2026-08-01T11:00:06Z): Deadly blooms offer a genetic blueprint 
+[2026-08-04 11:01:16] Мировые новости: найдено 15 после фильтрации
+[2026-08-04 11:01:19] Обрабатываю: Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho
+[2026-08-04 11:01:19] Попытка 1 для: Who is Jordan Salinas, ‘hero’ bystander 
+[2026-08-04 11:01:20] Успешно, получено 504 символов
+[2026-08-04 11:01:20] Пауза 60 секунд...
+[2026-08-04 11:02:20] Обрабатываю: Australia warns H5N1 likely to spread after first mass morta
+[2026-08-04 11:02:20] Попытка 1 для: Australia warns H5N1 likely to spread af
+[2026-08-04 11:02:21] Успешно, получено 803 символов
+[2026-08-04 11:02:22] Пауза 60 секунд...
+[2026-08-04 11:03:22] Обрабатываю: Over 4 million people are no longer receiving food aid amid 
+[2026-08-04 11:03:22] Попытка 1 для: Over 4 million people are no longer rece
+[2026-08-04 11:03:23] Успешно, получено 788 символов
+[2026-08-04 11:03:23] Пауза 60 секунд...
+[2026-08-04 11:04:23] Обрабатываю: Michigan’s GOP governor primary is getting weird
+[2026-08-04 11:04:23] Попытка 1 для: Michigan’s GOP governor primary is getti
+[2026-08-04 11:04:24] Успешно, получено 782 символов
+[2026-08-04 11:04:25] === Блок midday завершён ===
