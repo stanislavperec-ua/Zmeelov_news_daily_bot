@@ -35410,3 +35410,40 @@ Nithya
 [2026-08-05 08:03:22] Попытка 1 для: The compositionality continuum as a prin
 [2026-08-05 08:03:23] Успешно, получено 647 символов
 [2026-08-05 08:03:24] === Блок ai_morning завершён ===
+[2026-08-05 11:01:24] Загружено 2724 уже отправленных новостей
+[2026-08-05 11:01:24] === Запуск блока: midday ===
+[2026-08-05 11:01:24] Неизвестный источник (usa today): Timeline shows construction flaws shadow
+[2026-08-05 11:01:24] Неизвестный источник (nbcsports.com): Report: Red Sox acquire Adley Rutschman 
+[2026-08-05 11:01:24] Неизвестный источник (deadline): Mary Egida Rivera Dies: ‘Spider-Man: No 
+[2026-08-05 11:01:24] Неизвестный источник (9to5mac): Apple plans to open iPhone clipboard acc
+[2026-08-05 11:01:24] Неизвестный источник (kcra sacramento): Stockton-based In-N-Out manager Ashley G
+[2026-08-05 11:01:24] Неизвестный источник (yahoo entertainment): Tarik Skubal doesn't 'sympathize' with t
+[2026-08-05 11:01:24] Заблокированный источник (bleacher report): UFC Fighter Allan Nascimento Dies at Age
+[2026-08-05 11:01:24] Неизвестный источник (gizmodo.com): Dave Bautista May Take Over Kratos Role 
+[2026-08-05 11:01:24] Неизвестный источник (espn): MLB trade deadline 2026: Biggest winners
+[2026-08-05 11:01:24] Неизвестный источник (king5.com): Best meteor shower of year, 2 eclipses h
+[2026-08-05 11:01:24] Неизвестный источник (android authority): Android 17 QPR2 Beta 2 arrives for Pixel
+[2026-08-05 11:01:24] Неизвестный источник (fox news): Living longer could hinge on one surpris
+[2026-08-05 11:01:24] Неизвестный источник (yahoo entertainment): SpaceX's first-ever earnings report come
+[2026-08-05 11:01:24] Неизвестный источник (space.com): A SpaceX rocket will crash into the moon
+[2026-08-05 11:01:24] Неизвестный источник (global news): Another Canadian is preparing to head to
+[2026-08-05 11:01:24] Неизвестный источник (kabc-tv): Shukur Aikebaer death: Jianquan Bo, susp
+[2026-08-05 11:01:24] Неизвестный источник (gizmodo.com): Rubin Gets a Closer Look at the COSMOS F
+[2026-08-05 11:01:24] Старая новость (2026-08-03T05:13:00Z): More pregnant women are dying in Congo a
+[2026-08-05 11:01:24] Мировые новости: найдено 16 после фильтрации
+[2026-08-05 11:01:27] Обрабатываю: Live updates: Arson arrest made in connection to Washington 
+[2026-08-05 11:01:27] Попытка 1 для: Live updates: Arson arrest made in conne
+[2026-08-05 11:01:28] Успешно, получено 786 символов
+[2026-08-05 11:01:29] Пауза 60 секунд...
+[2026-08-05 11:02:29] Обрабатываю: At least 27 killed as Russia and Ukraine trade heavy attacks
+[2026-08-05 11:02:29] Попытка 1 для: At least 27 killed as Russia and Ukraine
+[2026-08-05 11:02:29] Успешно, получено 565 символов
+[2026-08-05 11:02:30] Пауза 60 секунд...
+[2026-08-05 11:03:30] Обрабатываю: China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Mak
+[2026-08-05 11:03:30] Попытка 1 для: China’s AI Blitz Creates ‘Death Zone’ fo
+[2026-08-05 11:03:31] Успешно, получено 805 символов
+[2026-08-05 11:03:32] Пауза 60 секунд...
+[2026-08-05 11:04:32] Обрабатываю: Trump raises concerns over campaign in call with Rep. Max Mi
+[2026-08-05 11:04:32] Попытка 1 для: Trump raises concerns over campaign in c
+[2026-08-05 11:04:33] Успешно, получено 739 символов
+[2026-08-05 11:04:33] === Блок midday завершён ===
