@@ -35660,3 +35660,41 @@ Nithya
 [2026-08-06 08:03:17] Попытка 1 для: SpaceX’s AI splurge puts damper on debut
 [2026-08-06 08:03:18] Успешно, получено 792 символов
 [2026-08-06 08:03:19] === Блок ai_morning завершён ===
+[2026-08-06 11:01:22] Загружено 2746 уже отправленных новостей
+[2026-08-06 11:01:22] === Запуск блока: midday ===
+[2026-08-06 11:01:22] Неизвестный источник (fox news): Trump warns Iran will be hit 'really har
+[2026-08-06 11:01:22] Неизвестный источник (cnbc): Europe is blowing up riverbeds as an ext
+[2026-08-06 11:01:22] Неизвестный источник (cnbc): Here's what to expect when Disney report
+[2026-08-06 11:01:22] Неизвестный источник (rolling stone): Phoebe Bridgers Makes Up for Lost Time o
+[2026-08-06 11:01:22] Неизвестный источник (fox news): Mom of 4 recovering after suspected spid
+[2026-08-06 11:01:22] Неизвестный источник (espn): Freeman wants Notre Dame focused on Wisc
+[2026-08-06 11:01:22] Неизвестный источник (deadline): Apple TV's 'Ted Lasso' Season 4 Brooklyn
+[2026-08-06 11:01:22] Неизвестный источник (macrumors): CarPlay is Coming to Pontoon Boats - Mac
+[2026-08-06 11:01:22] Неизвестный источник (barron's): Chipotle Stock Tanks on Potential Salmon
+[2026-08-06 11:01:22] Неизвестный источник (wcvb boston): What is ‘rabbit fever?’ Health officials
+[2026-08-06 11:01:22] Заблокированный источник (bleacher report): Brock Lesnar Confirms WWE Retirement in 
+[2026-08-06 11:01:22] Неизвестный источник (yahoo entertainment): Fantasy Baseball: Players to deal for an
+[2026-08-06 11:01:22] Неизвестный источник (phys.org): Sticky alpine flower confirms Darwin's 1
+[2026-08-06 11:01:22] Неизвестный источник (investopedia): AMD Reported Record Sales on Growing AI 
+[2026-08-06 11:01:22] Неизвестный источник (android authority): Fresh Pixel 11 series leak reveals thinn
+[2026-08-06 11:01:22] Неизвестный источник (9to5google.com): Galaxy Z Fold 8 destroys pre-order recor
+[2026-08-06 11:01:22] Неизвестный источник (kotaku): Xbox Pushes Forward With FanFest Celebra
+[2026-08-06 11:01:22] Старая новость (2026-08-04T09:36:00Z): Ebola kills 1,700 in eastern Congo as th
+[2026-08-06 11:01:22] Старая новость (2026-08-03T19:25:56Z): Another Canadian is preparing to head to
+[2026-08-06 11:01:22] Мировые новости: найдено 9 после фильтрации
+[2026-08-06 11:01:24] Обрабатываю: Rep. Chuck Edwards drops re-election bid after censure recom
+[2026-08-06 11:01:24] Попытка 1 для: Rep. Chuck Edwards drops re-election bid
+[2026-08-06 11:01:26] Успешно, получено 737 символов
+[2026-08-06 11:01:27] Пауза 60 секунд...
+[2026-08-06 11:02:27] Обрабатываю: Piece of SpaceX rocket the size of a school bus crashes into
+[2026-08-06 11:02:27] Попытка 1 для: Piece of SpaceX rocket the size of a sch
+[2026-08-06 11:02:28] Успешно, получено 686 символов
+[2026-08-06 11:02:29] Пауза 60 секунд...
+[2026-08-06 11:03:29] Обрабатываю: Progressives didn’t get the big election night they wanted
+[2026-08-06 11:03:29] Попытка 1 для: Progressives didn’t get the big election
+[2026-08-06 11:03:30] Успешно, получено 593 символов
+[2026-08-06 11:03:30] Пауза 60 секунд...
+[2026-08-06 11:04:30] Обрабатываю: Progressive Will Lawrence wins key Michigan House primary in
+[2026-08-06 11:04:30] Попытка 1 для: Progressive Will Lawrence wins key Michi
+[2026-08-06 11:04:31] Успешно, получено 813 символов
+[2026-08-06 11:04:32] === Блок midday завершён ===
