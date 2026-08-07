@@ -35754,3 +35754,52 @@ Nithya
 [2026-08-07 06:05:26] Попытка 1 для: The director of a factory supplying dron
 [2026-08-07 06:05:27] Успешно, получено 750 символов
 [2026-08-07 06:05:29] === Блок morning завершён ===
+[2026-08-07 08:01:25] Загружено 2756 уже отправленных новостей
+[2026-08-07 08:01:25] === Запуск блока: ai_morning ===
+[2026-08-07 08:01:26] Неизвестный источник (pymnts.com): Item-Level Data Gives AI Agents Smarter 
+[2026-08-07 08:01:26] Неизвестный источник (bmwgroup.com): Strong demand following early order open
+[2026-08-07 08:01:26] Неизвестный источник (businessline): TN Agri Budget: Govt bets on AI, Machine
+[2026-08-07 08:01:26] Неизвестный источник (peoplesreview.com.np): AI mentor for Nepali media
+[2026-08-07 08:01:26] Нет фото: What is an ecosystem for fish?
+[2026-08-07 08:01:26] Неизвестный источник (globenewswire): KraneShares' China Semiconductor ETF KST
+[2026-08-07 08:01:26] Неизвестный источник (c-sharpcorner.com): Event-Driven AI Processing with Azure Fu
+[2026-08-07 08:01:26] Неизвестный источник (c-sharpcorner.com): Building AI Gateway Architecture for Ent
+[2026-08-07 08:01:26] Неизвестный источник (globenewswire): Micware Launches Security Solutions Powe
+[2026-08-07 08:01:26] Неизвестный источник (financial post): Siemens Raises Outlook Again on Data Cen
+[2026-08-07 08:01:26] Неизвестный источник (cnbc): Google is expanding its AI empire — and 
+[2026-08-07 08:01:26] Неизвестный источник (marketbeat): Clover Health Investments Q2 Earnings Ca
+[2026-08-07 08:01:26] Неизвестный источник (businessline): Vasuki India Raises ₹100 Crore from an N
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Google targets AI startup Mechanize’s te
+[2026-08-07 08:01:26] Нет фото: Fed’s Daly Supported Rate Decision, Warn
+[2026-08-07 08:01:26] Нет фото: Chinese Renewable Energy Giant Envision 
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Meta takes on Anthropic and OpenAI with 
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Confirming rumors, Anthropic reveals pla
+[2026-08-07 08:01:26] Неизвестный источник (pymnts.com): EBay Rides Luxury, Collectibles and AI t
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Uber shares slide on mixed second quarte
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Google reveals big shake up in its AI te
+[2026-08-07 08:01:26] Неизвестный источник (new york post): US Army tested the AI future of warfare 
+[2026-08-07 08:01:26] Неизвестный источник (pymnts.com): DoorDash Says Agentic Traffic Is Low, bu
+[2026-08-07 08:01:26] Нет фото: Sunfund Securities Acted as Joint Bookru
+[2026-08-07 08:01:26] Неизвестный источник (financial post): News of the day: Housing market hope, bi
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Despite cloud growth, Kyndryl shares dro
+[2026-08-07 08:01:26] Неизвестный источник (digital journal): 5G-advanced may be wireless, but fibre w
+[2026-08-07 08:01:26] Неизвестный источник (usa today): Today in sports history, August 13
+[2026-08-07 08:01:26] Неизвестный источник (digital journal): Why human approval is not enough: The gr
+[2026-08-07 08:01:26] Неизвестный источник (ewtnnews.com): Pope to World SIGNIS Congress: Embrace d
+[2026-08-07 08:01:26] Неизвестный источник (siliconangle news): Trusted AI data becomes the missing link
+[2026-08-07 08:01:26] Нет фото: Heritage Reports Second Quarter 2026 Res
+[2026-08-07 08:01:26] Неизвестный источник (prnewswire): Albemarle Reports Second Quarter 2026 Re
+[2026-08-07 08:01:26] Неизвестный источник (wolfram.com): The Universe is a Deterministic Planck A
+[2026-08-07 08:01:26] AI новости: найдено 5 после фильтрации
+[2026-08-07 08:01:28] Обрабатываю: EVA Air To Launch Nonstop Taipei－Delhi Service on December 1
+[2026-08-07 08:01:28] Попытка 1 для: EVA Air To Launch Nonstop Taipei－Delhi S
+[2026-08-07 08:01:29] Успешно, получено 882 символов
+[2026-08-07 08:01:30] Пауза 60 секунд...
+[2026-08-07 08:02:30] Обрабатываю: AI’s volatile power demand is damaging its own data centers
+[2026-08-07 08:02:30] Попытка 1 для: AI’s volatile power demand is damaging i
+[2026-08-07 08:02:31] Успешно, получено 764 символов
+[2026-08-07 08:02:32] Пауза 60 секунд...
+[2026-08-07 08:03:32] Обрабатываю: Book showcases Australian retro TV from Skippy to Hey Hey It
+[2026-08-07 08:03:32] Попытка 1 для: Book showcases Australian retro TV from 
+[2026-08-07 08:03:33] Успешно, получено 1161 символов
+[2026-08-07 08:03:34] === Блок ai_morning завершён ===
