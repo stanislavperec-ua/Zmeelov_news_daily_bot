@@ -35803,3 +35803,40 @@ Nithya
 [2026-08-07 08:03:32] Попытка 1 для: Book showcases Australian retro TV from 
 [2026-08-07 08:03:33] Успешно, получено 1161 символов
 [2026-08-07 08:03:34] === Блок ai_morning завершён ===
+[2026-08-07 11:01:18] Загружено 2759 уже отправленных новостей
+[2026-08-07 11:01:18] === Запуск блока: midday ===
+[2026-08-07 11:01:19] Неизвестный источник (kcra sacramento): Gann Fire: Man arrested near site of whe
+[2026-08-07 11:01:19] Неизвестный источник (cnbc): Dow futures inch higher after blue-chip 
+[2026-08-07 11:01:19] Неизвестный источник (fox business): TikTok says moderator error delayed remo
+[2026-08-07 11:01:19] Неизвестный источник (nbcsports.com): Aaron Donald logs official workout with 
+[2026-08-07 11:01:19] Неизвестный источник (deadline): Regal Cinemas CEO Champions Paramount-WB
+[2026-08-07 11:01:19] Неизвестный источник (mashable): Samsung Galaxy Z series is breaking pre-
+[2026-08-07 11:01:19] Неизвестный источник (nintendo life): Minecraft Arrives On Switch 2 This Octob
+[2026-08-07 11:01:19] Неизвестный источник (houston chronicle): Texas leads nation in Candida auris case
+[2026-08-07 11:01:19] Неизвестный источник (semafor.com): Exclusive / Demis Hassabis was shifting 
+[2026-08-07 11:01:19] Неизвестный источник (fox news): Russia deploys North Korean missile unit
+[2026-08-07 11:01:19] Неизвестный источник (phys.org): Neanderthal growth hormone receptor incr
+[2026-08-07 11:01:19] Неизвестный источник (cbs sports): Fantasy Baseball Prospects Report: The 1
+[2026-08-07 11:01:19] Неизвестный источник (prideofdetroit.com): Lions GM Brad Holmes speaks on Jahmyr Gi
+[2026-08-07 11:01:19] Неизвестный источник (newsday): Riverhead woman gets 'rabbit fever' from
+[2026-08-07 11:01:19] Неизвестный источник (404media.co): Apple's ‘Private Relay’ Is Exposing User
+[2026-08-07 11:01:19] Неизвестный источник (hollywood reporter): 'One Night Only' Review: Monica Barbaro 
+[2026-08-07 11:01:19] Неизвестный источник (pokemon.com): Pokémon Pokopia Expansion Pass—Part 1: B
+[2026-08-07 11:01:19] Неизвестный источник (fantasypros): Fantasy Football: 4 Most Reliable Quarte
+[2026-08-07 11:01:19] Мировые новости: найдено 17 после фильтрации
+[2026-08-07 11:01:21] Обрабатываю: Drone with explosives found at German airport, official sees
+[2026-08-07 11:01:21] Попытка 1 для: Drone with explosives found at German ai
+[2026-08-07 11:01:22] Успешно, получено 614 символов
+[2026-08-07 11:01:23] Пауза 60 секунд...
+[2026-08-07 11:02:23] Обрабатываю: Firefighters are working 16-hour shifts as they battle the S
+[2026-08-07 11:02:23] Попытка 1 для: Firefighters are working 16-hour shifts 
+[2026-08-07 11:02:24] Успешно, получено 598 символов
+[2026-08-07 11:02:25] Пауза 60 секунд...
+[2026-08-07 11:03:25] Обрабатываю: Three state attorneys general subpoena Anthony Fauci over Co
+[2026-08-07 11:03:25] Попытка 1 для: Three state attorneys general subpoena A
+[2026-08-07 11:03:26] Успешно, получено 675 символов
+[2026-08-07 11:03:26] Пауза 60 секунд...
+[2026-08-07 11:04:26] Обрабатываю: Most detailed images ever taken of sun's surface revealed: "
+[2026-08-07 11:04:26] Попытка 1 для: Most detailed images ever taken of sun's
+[2026-08-07 11:04:27] Успешно, получено 658 символов
+[2026-08-07 11:04:28] === Блок midday завершён ===
