@@ -36001,3 +36001,53 @@ Nithya
 [2026-08-08 06:05:30] Попытка 1 для: Russian strikes kill six in Ukraine as M
 [2026-08-08 06:05:31] Успешно, получено 576 символов
 [2026-08-08 06:05:31] === Блок morning завершён ===
+[2026-08-08 08:01:14] Загружено 2776 уже отправленных новостей
+[2026-08-08 08:01:14] === Запуск блока: ai_morning ===
+[2026-08-08 08:01:14] Неизвестный источник (newsonjapan.com): Nikkei Slips as Chip Selling Offsets Bro
+[2026-08-08 08:01:14] Неизвестный источник (soyacincau.com): U Mobile launches EIP Hub to drive 5G-Ad
+[2026-08-08 08:01:14] Нет фото: UK IPO Slump Hurting Private Equity and 
+[2026-08-08 08:01:14] Заблокированный источник (naturalnews.com): Meta Ran Ads Containing AI-Generated Chi
+[2026-08-08 08:01:14] Нет фото: CSG H1 2026 Results: Continued Strong Gr
+[2026-08-08 08:01:14] Неизвестный источник (hurriyet daily news): 10,000 troops test drones, AI in Mojave 
+[2026-08-08 08:01:14] Неизвестный источник (themattwalshblog.com): Primary Crypto Market: What Is It, and S
+[2026-08-08 08:01:14] Неизвестный источник (insurance journal): AI Risks Require Tougher Cyber Defenses,
+[2026-08-08 08:01:14] Неизвестный источник (pypi.org): bitlearn added to PyPI
+[2026-08-08 08:01:14] Неизвестный источник (antaranews.com): RI aims for nationwide 5G coverage by 20
+[2026-08-08 08:01:14] Неизвестный источник (usa today): Today in sports, August 19
+[2026-08-08 08:01:14] Неизвестный источник (usa today): Today in sports history, August 18
+[2026-08-08 08:01:14] Неизвестный источник (usa today): Today in sports history, August 17
+[2026-08-08 08:01:14] Неизвестный источник (usa today): Today in sports history, August 16
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Naïve bags $28.5M in funding to automate
+[2026-08-08 08:01:14] Неизвестный источник (kesq): AI creates 16 new viruses from scratch, 
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Twilio’s stock jumps on solid earnings a
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Optical networking startup Lumilens laun
+[2026-08-08 08:01:14] Неизвестный источник (uxdesign.cc): What Star Trek got wrong about AI (so fa
+[2026-08-08 08:01:14] Нет фото: Neuromorphic optoelectronic computing sy
+[2026-08-08 08:01:14] Нет фото: DebConf26 closes in Santa Fe and DebConf
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Report: OpenAI’s upcoming AI speaker wil
+[2026-08-08 08:01:14] Неизвестный источник (theregister.com): How the famed USENIX Security conf is ma
+[2026-08-08 08:01:14] Неизвестный источник (the punch): FG unveils renewable energy programme fo
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): AMD acquires Taalas to hardwire AI model
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Atlassian stock skyrockets more than 30%
+[2026-08-08 08:01:14] Неизвестный источник (marketbeat): Arteris Q2 Earnings Call Highlights
+[2026-08-08 08:01:14] Неизвестный источник (debian.org): DebConf26 closes in Santa Fe and DebConf
+[2026-08-08 08:01:14] Неизвестный источник (financial post): News of the day: Suncor CEO stepping dow
+[2026-08-08 08:01:14] Неизвестный источник (graphicdesignjunction.com): The Future of Mobile App Development: 15
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Broadcom updates VMware security for AI-
+[2026-08-08 08:01:14] Неизвестный источник (faisalnadeem.net): Node.js vs Laravel for Backend APIs: An 
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): Datadog shares plummet despite expectati
+[2026-08-08 08:01:14] Неизвестный источник (siliconangle news): New details on OpenAI/Hugging Face attac
+[2026-08-08 08:01:14] Неизвестный источник (prnewswire): CON EDISON REPORTS 2026 SECOND QUARTER E
+[2026-08-08 08:01:14] Неизвестный источник (crypto briefing): Epoch AI launches game puzzles benchmark
+[2026-08-08 08:01:14] Неизвестный источник (financial post): Google Grapples With Exit of AI Pioneer 
+[2026-08-08 08:01:14] Неизвестный источник (globenewswire): Alta Equipment Group Announces Second Qu
+[2026-08-08 08:01:14] AI новости: найдено 2 после фильтрации
+[2026-08-08 08:01:17] Обрабатываю: New Orleans will use AI to answer 911 calls instead of a hum
+[2026-08-08 08:01:17] Попытка 1 для: New Orleans will use AI to answer 911 ca
+[2026-08-08 08:01:18] Успешно, получено 769 символов
+[2026-08-08 08:01:18] Фото не отправилось: 400
+[2026-08-08 08:01:18] Пауза 60 секунд...
+[2026-08-08 08:02:18] Обрабатываю: Environmental groups challenge FCC approval of startup’s pla
+[2026-08-08 08:02:18] Попытка 1 для: Environmental groups challenge FCC appro
+[2026-08-08 08:02:19] Успешно, получено 677 символов
+[2026-08-08 08:02:20] === Блок ai_morning завершён ===
