@@ -36051,3 +36051,38 @@ Nithya
 [2026-08-08 08:02:18] Попытка 1 для: Environmental groups challenge FCC appro
 [2026-08-08 08:02:19] Успешно, получено 677 символов
 [2026-08-08 08:02:20] === Блок ai_morning завершён ===
+[2026-08-08 11:01:17] Загружено 2778 уже отправленных новостей
+[2026-08-08 11:01:17] === Запуск блока: midday ===
+[2026-08-08 11:01:17] Неизвестный источник (tmz): Toni Braxton Resolves 6-Figure Tax Debt 
+[2026-08-08 11:01:17] Неизвестный источник (kcra sacramento): Gann Fire updates: Body recovered, State
+[2026-08-08 11:01:17] Неизвестный источник (the spokesman-review): Detectives say Spokane fire suspect conf
+[2026-08-08 11:01:17] Неизвестный источник (espn): Rookie QB Carson Beck delivers efficient
+[2026-08-08 11:01:17] Неизвестный источник (nbcsports.com): Haynes King leads Panthers to 33-30 win 
+[2026-08-08 11:01:17] Неизвестный источник (9to5google.com): New Gemini overlay for Wear OS rolling o
+[2026-08-08 11:01:17] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Scores Bigge
+[2026-08-08 11:01:17] Неизвестный источник (fox news): Aces star targets heckling Fever fans in
+[2026-08-08 11:01:17] Неизвестный источник (the comeback): ‘Are you serious?’: Megan Rapinoe wants 
+[2026-08-08 11:01:17] Неизвестный источник (cnbc): A 'weaponized' yen: How the U.S.-Japan i
+[2026-08-08 11:01:17] Неизвестный источник (pbs): A look at the major changes Head Start f
+[2026-08-08 11:01:17] Неизвестный источник (variety): After U.K. Approval of Paramount-WBD Dea
+[2026-08-08 11:01:17] Неизвестный источник (space.com): '1 more step': NASA astronauts conduct 6
+[2026-08-08 11:01:17] Неизвестный источник (physicsworld.com): Astronomers capture highest-resolution i
+[2026-08-08 11:01:17] Неизвестный источник (deadline): ‘Grand Theft Auto VI’ Game To Debut Exte
+[2026-08-08 11:01:17] Старая новость (2026-08-05T18:02:52Z): Newly discovered oddball amphibian fossi
+[2026-08-08 11:01:17] Мировые новости: найдено 13 после фильтрации
+[2026-08-08 11:01:19] Обрабатываю: China’s exports jump almost a quarter in July
+[2026-08-08 11:01:19] Попытка 1 для: China’s exports jump almost a quarter in
+[2026-08-08 11:01:20] Успешно, получено 650 символов
+[2026-08-08 11:01:20] Пауза 60 секунд...
+[2026-08-08 11:02:20] Обрабатываю: AI used to create viruses not found in nature for first time
+[2026-08-08 11:02:20] Попытка 1 для: AI used to create viruses not found in n
+[2026-08-08 11:02:22] Успешно, получено 809 символов
+[2026-08-08 11:02:22] Пауза 60 секунд...
+[2026-08-08 11:03:22] Обрабатываю: Student shoots multiple people at a high school in Thailand,
+[2026-08-08 11:03:22] Попытка 1 для: Student shoots multiple people at a high
+[2026-08-08 11:03:23] Успешно, получено 480 символов
+[2026-08-08 11:03:23] Пауза 60 секунд...
+[2026-08-08 11:04:23] Обрабатываю: McConnell discharged from rehab center, will continue recove
+[2026-08-08 11:04:23] Попытка 1 для: McConnell discharged from rehab center, 
+[2026-08-08 11:04:24] Успешно, получено 707 символов
+[2026-08-08 11:04:25] === Блок midday завершён ===
