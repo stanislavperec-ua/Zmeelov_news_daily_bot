@@ -36584,3 +36584,43 @@ Nithya
 [2026-08-10 08:03:23] Попытка 1 для: Cyberattacks drive companies to hire spe
 [2026-08-10 08:03:25] Успешно, получено 798 символов
 [2026-08-10 08:03:25] === Блок ai_morning завершён ===
+[2026-08-10 11:01:23] Загружено 2817 уже отправленных новостей
+[2026-08-10 11:01:23] === Запуск блока: midday ===
+[2026-08-10 11:01:23] Неизвестный источник (kitv honolulu): Hawaii 2026 Primary Election Results Are
+[2026-08-10 11:01:23] Неизвестный источник (espn): Salkilld submits Gamrot in first round a
+[2026-08-10 11:01:23] Неизвестный источник (kyivindependent.com): Fires seen in Russia's Belgorod amid rep
+[2026-08-10 11:01:23] Неизвестный источник (mma fighting): UFC veteran suffers brutal knockout in 3
+[2026-08-10 11:01:23] Неизвестный источник (deadline): Jane Schoenbrun On Tackling "Toxic Soup"
+[2026-08-10 11:01:23] Неизвестный источник (hollywood reporter): The ‘One Night Only’ Writer and Producer
+[2026-08-10 11:01:23] Неизвестный источник (cbs sports): 49ers' Kyle Shanahan says his car was on
+[2026-08-10 11:01:23] Неизвестный источник (phonearena): Does the Galaxy Z Fold 8 owe its success
+[2026-08-10 11:01:23] Неизвестный источник (business insider): Warren Buffett's successor is finally sp
+[2026-08-10 11:01:23] Пропускаю уже отправленную: Raiders suspend Kirk Cousins and Maxx Crosby from 
+[2026-08-10 11:01:23] Неизвестный источник (forbes): iPhone 18 Pro Release Date: Apple’s Stra
+[2026-08-10 11:01:23] Неизвестный источник (9to5google.com): Pixel 11 Pro XL shows up in hands-on lea
+[2026-08-10 11:01:23] Неизвестный источник (variety): Box Office: ‘Spider-Man: Brand New Day’ 
+[2026-08-10 11:01:23] Неизвестный источник (vox): The strange reason flu shots have been s
+[2026-08-10 11:01:23] Старая новость (2026-08-08T11:00:00Z): AI creates 16 new viruses that never exi
+[2026-08-10 11:01:23] Старая новость (2026-08-08T04:11:26Z): NYT Connections hints and answers for Au
+[2026-08-10 11:01:23] Старая новость (2026-08-07T18:47:00Z): 'It's apocalyptic.' A look at the afterm
+[2026-08-10 11:01:23] Старая новость (2026-08-07T18:21:00Z): 4 major celestial events to dominate the
+[2026-08-10 11:01:23] Старая новость (2026-08-07T12:24:22Z): Madden NFL 27 trial now available on Xbo
+[2026-08-10 11:01:23] Старая новость (2026-08-07T11:39:00Z): Scientists debunk long-held myth about t
+[2026-08-10 11:01:23] Старая новость (2026-08-07T07:59:00Z): One man works to slow the fastest-growin
+[2026-08-10 11:01:23] Мировые новости: найдено 9 после фильтрации
+[2026-08-10 11:01:25] Обрабатываю: Bulgaria, Germany drone incidents raise security fears amid 
+[2026-08-10 11:01:25] Попытка 1 для: Bulgaria, Germany drone incidents raise 
+[2026-08-10 11:01:26] Успешно, получено 696 символов
+[2026-08-10 11:01:27] Пауза 60 секунд...
+[2026-08-10 11:02:27] Обрабатываю: Pentagon presses defense firms to build weapons as Iran war 
+[2026-08-10 11:02:27] Попытка 1 для: Pentagon presses defense firms to build 
+[2026-08-10 11:02:28] Успешно, получено 718 символов
+[2026-08-10 11:02:29] Пауза 60 секунд...
+[2026-08-10 11:03:29] Обрабатываю: Helicopter crash kills pilot and crew member amid Utah wildf
+[2026-08-10 11:03:29] Попытка 1 для: Helicopter crash kills pilot and crew me
+[2026-08-10 11:03:31] Успешно, получено 645 символов
+[2026-08-10 11:03:31] Пауза 60 секунд...
+[2026-08-10 11:04:31] Обрабатываю: Pentagon strips security clearance from former Air Force sec
+[2026-08-10 11:04:31] Попытка 1 для: Pentagon strips security clearance from 
+[2026-08-10 11:04:32] Успешно, получено 829 символов
+[2026-08-10 11:04:33] === Блок midday завершён ===
