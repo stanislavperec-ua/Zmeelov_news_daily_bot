@@ -36933,3 +36933,13 @@ Nithya
 [2026-08-11 16:06:52] Успешно, получено 629 символов
 [2026-08-11 16:06:52] Фото не отправилось: 400
 [2026-08-11 16:06:53] === Блок evening завершён ===
+[2026-08-11 18:01:31] Загружено 2849 уже отправленных новостей
+[2026-08-11 18:01:31] === Запуск блока: ai_evening ===
+[2026-08-11 18:01:31] Нет фото: AI-Focused Hedge Fund VARA Drops 44% in 
+[2026-08-11 18:01:31] Неизвестный источник (financial post): Ontario Teachers’ pension plan posts 9.5
+[2026-08-11 18:01:31] Неизвестный источник (prnewswire): inKind Secures $414 Million in Financing
+[2026-08-11 18:01:31] Неизвестный источник (yahoo entertainment): Jim Cramer Examines Akamai Technologies’
+[2026-08-11 18:01:31] Неизвестный источник (futurism): USA Today Journalists Horrified by Newsp
+[2026-08-11 18:01:31] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-08-11 18:01:31] ⚠️ Блок *AI вечер* (11.08.2026) — новостей не найдено!
+[2026-08-11 18:01:32] === Блок ai_evening завершён ===
