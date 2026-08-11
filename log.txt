@@ -36786,3 +36786,52 @@ Nithya
 [2026-08-11 06:06:37] Попытка 1 для: Russia strikes Ukrainian drone depots in
 [2026-08-11 06:06:38] Успешно, получено 679 символов
 [2026-08-11 06:06:39] === Блок morning завершён ===
+[2026-08-11 08:01:21] Загружено 2835 уже отправленных новостей
+[2026-08-11 08:01:21] === Запуск блока: ai_morning ===
+[2026-08-11 08:01:21] Неизвестный источник (war on the rocks): What America Learned About Democracy Whe
+[2026-08-11 08:01:21] Неизвестный источник (businessline): Airtel Business, ITI Limited join hands 
+[2026-08-11 08:01:21] Неизвестный источник (jakarta post): Indosat launches Zankore by Indosat to s
+[2026-08-11 08:01:21] Неизвестный источник (internet): OpenAI's Next AI Model Astra Shows Cyber
+[2026-08-11 08:01:21] Неизвестный источник (nautil.us): What Makes Humans Stupid (David Krakauer
+[2026-08-11 08:01:21] Неизвестный источник (business standard): Kitesurf explained: Cloudflare's browser
+[2026-08-11 08:01:21] Неизвестный источник (khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-08-11 08:01:21] Нет фото: AP Memory Strengthens Global Leadership 
+[2026-08-11 08:01:21] Неизвестный источник (pymnts.com): AI Helped British Airways Reach Its Best
+[2026-08-11 08:01:21] Неизвестный источник (bleeding cool news): Punisher #7 Preview: Frank's Past Comes 
+[2026-08-11 08:01:21] Неизвестный источник (dailymail.com): ANDREW NEIL: What top spooks are telling
+[2026-08-11 08:01:21] Неизвестный источник (siliconangle news): Amazon is building a new AI data center 
+[2026-08-11 08:01:21] Неизвестный источник (bleeding cool news): Supergirl #16 Preview: Zod Crashes Kara'
+[2026-08-11 08:01:21] Неизвестный источник (forbes): Why Networks Are Outperforming Hierarchi
+[2026-08-11 08:01:21] Неизвестный источник (siliconangle news): Finding big money for AI and a smaller w
+[2026-08-11 08:01:21] Неизвестный источник (the daily caller): Meet The Activists Opposing Virginia Dat
+[2026-08-11 08:01:21] Заблокированный источник (barchart.com): Nvidia Is Going to Space With Elon Musk'
+[2026-08-11 08:01:21] Неизвестный источник (globenewswire): RadNet Reports Second Quarter Financial 
+[2026-08-11 08:01:21] Неизвестный источник (bleeding cool news): Green Lantern Corps #19 Preview: Ancient
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Yelp Q2 Earnings Call Highlights
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Exzeo Group Q2 Earnings Call Highlights
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Xponential Fitness Q2 Earnings Call High
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Warby Parker Q2 Earnings Call Highlights
+[2026-08-11 08:01:21] Неизвестный источник (bleeding cool news): Jeff the Land Shark: Superstar #2 Previe
+[2026-08-11 08:01:21] Неизвестный источник (marketingsharks.com): The 1224 Page YouTube & Video Marketing 
+[2026-08-11 08:01:21] Неизвестный источник (yahoo entertainment): TechCrunch Mobility: Zoox prepares for l
+[2026-08-11 08:01:21] Неизвестный источник (business insider): The world's leading AI companies are all
+[2026-08-11 08:01:21] Неизвестный источник (business insider): The world's leading AI companies are all
+[2026-08-11 08:01:21] Неизвестный источник (the jerusalem post): Visa lays off dozens of senior executive
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Vishay Intertechnology Q2 Earnings Call 
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): INNOVATE Q2 Earnings Call Highlights
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): UWM Q2 Earnings Call Highlights
+[2026-08-11 08:01:21] Заблокированный источник (barchart.com): Dear Palo Alto Stock Fans, Mark Your Cal
+[2026-08-11 08:01:21] Неизвестный источник (marketbeat): Unity Software Q2 Earnings Call Highligh
+[2026-08-11 08:01:21] AI новости: найдено 5 после фильтрации
+[2026-08-11 08:01:24] Обрабатываю: What have we learnt from Origin Energy's data breach?
+[2026-08-11 08:01:24] Попытка 1 для: What have we learnt from Origin Energy's
+[2026-08-11 08:01:25] Успешно, получено 737 символов
+[2026-08-11 08:01:25] Пауза 60 секунд...
+[2026-08-11 08:02:25] Обрабатываю: AI-based multimodal integration of genomics and electronic h
+[2026-08-11 08:02:25] Попытка 1 для: AI-based multimodal integration of genom
+[2026-08-11 08:02:26] Успешно, получено 829 символов
+[2026-08-11 08:02:27] Пауза 60 секунд...
+[2026-08-11 08:03:27] Обрабатываю: Type 2 diabetes prevention across the life course
+[2026-08-11 08:03:27] Попытка 1 для: Type 2 diabetes prevention across the li
+[2026-08-11 08:03:28] Успешно, получено 984 символов
+[2026-08-11 08:03:29] === Блок ai_morning завершён ===
