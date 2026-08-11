@@ -36835,3 +36835,41 @@ Nithya
 [2026-08-11 08:03:27] Попытка 1 для: Type 2 diabetes prevention across the li
 [2026-08-11 08:03:28] Успешно, получено 984 символов
 [2026-08-11 08:03:29] === Блок ai_morning завершён ===
+[2026-08-11 11:02:32] Загружено 2838 уже отправленных новостей
+[2026-08-11 11:02:32] === Запуск блока: midday ===
+[2026-08-11 11:02:32] Неизвестный источник (wabc-tv): Mother, infant daughter killed when boat
+[2026-08-11 11:02:32] Неизвестный источник (yahoo entertainment): JPMorgan Strategists Raise S&P 500 Targe
+[2026-08-11 11:02:32] Пропускаю уже отправленную: Typhoon Dolphin: China evacuates more than 1 milli
+[2026-08-11 11:02:32] Неизвестный источник (variety): China Box Office: 'Spider-Man: Brand New
+[2026-08-11 11:02:32] Неизвестный источник (ktla los angeles): Man arrested after break-in at Kim Karda
+[2026-08-11 11:02:32] Неизвестный источник (entertainment weekly): Aubrey Plaza welcomes first child with C
+[2026-08-11 11:02:32] Неизвестный источник (nbcsports.com): Sue Bird, Cheryl Miller give insight on 
+[2026-08-11 11:02:32] Неизвестный источник (forbes): iPhone 18 Pro Release Date: Demand Drive
+[2026-08-11 11:02:32] Неизвестный источник (windy city gridiron): Bears Camp Report: New starting safety, 
+[2026-08-11 11:02:32] Неизвестный источник (cnbc): S&P 500 futures slip as traders watch fo
+[2026-08-11 11:02:32] Неизвестный источник (pbs): How to spot the Perseid meteor shower, a
+[2026-08-11 11:02:32] Неизвестный источник (wcvb boston): Don Nelson, Boston Celtics champion and 
+[2026-08-11 11:02:32] Неизвестный источник (wfla): Florida reports another death from flesh
+[2026-08-11 11:02:32] Неизвестный источник (space daily): Voyager 1 is down to two working science
+[2026-08-11 11:02:32] Неизвестный источник (wls-tv): Rare Nintendo cartridges of Super Mario 
+[2026-08-11 11:02:32] Старая новость (2026-08-09T08:02:02Z): Deals: Galaxy Z Flip8 gets a discount ou
+[2026-08-11 11:02:32] Старая новость (2026-08-08T12:00:00Z): Here Are the First Images of the Crater 
+[2026-08-11 11:02:32] Старая новость (2026-08-08T12:00:00Z): The strange reason flu shots have been s
+[2026-08-11 11:02:32] Старая новость (2026-08-08T11:00:00Z): AI creates 16 new viruses that never exi
+[2026-08-11 11:02:32] Мировые новости: найдено 13 после фильтрации
+[2026-08-11 11:02:35] Обрабатываю: Asian shares are mixed after gains on Wall Street, while oil
+[2026-08-11 11:02:35] Попытка 1 для: Asian shares are mixed after gains on Wa
+[2026-08-11 11:02:36] Успешно, получено 716 символов
+[2026-08-11 11:02:37] Пауза 60 секунд...
+[2026-08-11 11:03:37] Обрабатываю: Live Updates: Trump says U.S. only "semi-negotiating" with I
+[2026-08-11 11:03:37] Попытка 1 для: Live Updates: Trump says U.S. only "semi
+[2026-08-11 11:03:38] Успешно, получено 779 символов
+[2026-08-11 11:03:38] Пауза 60 секунд...
+[2026-08-11 11:04:38] Обрабатываю: We're getting mealtimes wrong
+[2026-08-11 11:04:38] Попытка 1 для: We're getting mealtimes wrong
+[2026-08-11 11:04:39] Успешно, получено 728 символов
+[2026-08-11 11:04:40] Пауза 60 секунд...
+[2026-08-11 11:05:40] Обрабатываю: An arts school where Epstein allegedly preyed on students re
+[2026-08-11 11:05:40] Попытка 1 для: An arts school where Epstein allegedly p
+[2026-08-11 11:05:41] Успешно, получено 758 символов
+[2026-08-11 11:05:41] === Блок midday завершён ===
