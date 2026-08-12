@@ -37045,3 +37045,35 @@ Nithya
 [2026-08-12 08:01:20] AI новости: найдено 0 после фильтрации
 [2026-08-12 08:01:20] ⚠️ Блок *AI утро* (12.08.2026) — новостей не найдено!
 [2026-08-12 08:01:20] === Блок ai_morning завершён ===
+[2026-08-12 11:01:20] Загружено 2855 уже отправленных новостей
+[2026-08-12 11:01:20] === Запуск блока: midday ===
+[2026-08-12 11:01:21] Неизвестный источник (space.com): Total solar eclipse Aug. 12, 2026 live u
+[2026-08-12 11:01:21] Неизвестный источник (tmz): Ex-Florida Cop Who Allegedly Tracked Act
+[2026-08-12 11:01:21] Неизвестный источник (cnbc): Hormuz Deadlock: Where oil prices could 
+[2026-08-12 11:01:21] Неизвестный источник (fox news): DiJonai Carrington, who declared 'White 
+[2026-08-12 11:01:21] Неизвестный источник (yahoo entertainment): Brad Pitt reveals that he's drinking aga
+[2026-08-12 11:01:21] Неизвестный источник (mlb.com): Rule check: Red Sox-Blue Jays delayed fo
+[2026-08-12 11:01:21] Неизвестный источник (pbswisconsin.org): Wisconsin and Minnesota primaries next t
+[2026-08-12 11:01:21] Неизвестный источник (fox news): Mamdani’s luxury-home tax rollout derail
+[2026-08-12 11:01:21] Неизвестный источник (macrumors): iOS 27 Hints at 'Apple Reference Image' 
+[2026-08-12 11:01:21] Неизвестный источник (sports illustrated): The Concerning Numbers Behind the Dodger
+[2026-08-12 11:01:21] Неизвестный источник (milwaukee journal sentinel): Packers training camp recap today, Bo Me
+[2026-08-12 11:01:21] Неизвестный источник (phys.org): DESI releases biggest 2D map of the univ
+[2026-08-12 11:01:21] Старая новость (2026-08-10T11:00:01Z): Sixteen AI-designed viruses offer a new 
+[2026-08-12 11:01:21] Мировые новости: найдено 18 после фильтрации
+[2026-08-12 11:01:23] Обрабатываю: Powerball jackpot nears $1 billion after no one won $905 mil
+[2026-08-12 11:01:23] Попытка 1 для: Powerball jackpot nears $1 billion after
+[2026-08-12 11:01:24] Успешно, получено 660 символов
+[2026-08-12 11:01:24] Пауза 60 секунд...
+[2026-08-12 11:02:24] Обрабатываю: Progressives could score a huge Wisconsin win Tuesday. Some 
+[2026-08-12 11:02:24] Попытка 1 для: Progressives could score a huge Wisconsi
+[2026-08-12 11:02:26] Успешно, получено 866 символов
+[2026-08-12 11:02:26] Пауза 60 секунд...
+[2026-08-12 11:03:26] Обрабатываю: Nvidia gets $500bn from Wall Street giants to develop AI pro
+[2026-08-12 11:03:26] Попытка 1 для: Nvidia gets $500bn from Wall Street gian
+[2026-08-12 11:03:28] Успешно, получено 1048 символов
+[2026-08-12 11:03:28] Пауза 60 секунд...
+[2026-08-12 11:04:28] Обрабатываю: Live updates: Death toll rises to 132 following 7.4 magnitud
+[2026-08-12 11:04:28] Попытка 1 для: Live updates: Death toll rises to 132 fo
+[2026-08-12 11:04:29] Успешно, получено 614 символов
+[2026-08-12 11:04:29] === Блок midday завершён ===
