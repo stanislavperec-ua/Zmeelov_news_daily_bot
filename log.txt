@@ -36943,3 +36943,62 @@ Nithya
 [2026-08-11 18:01:31] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-08-11 18:01:31] ⚠️ Блок *AI вечер* (11.08.2026) — новостей не найдено!
 [2026-08-11 18:01:32] === Блок ai_evening завершён ===
+[2026-08-12 06:01:22] Загружено 2849 уже отправленных новостей
+[2026-08-12 06:01:22] === Запуск блока: morning ===
+[2026-08-12 06:01:22] Неизвестный источник (the-independent.com): House of the Dragon star says they’re ‘h
+[2026-08-12 06:01:22] Неизвестный источник (cbs sports): DiJonai Carrington says Sophie Cunningha
+[2026-08-12 06:01:22] Неизвестный источник (fox news): Mamdani’s luxury-home tax rollout derail
+[2026-08-12 06:01:22] Неизвестный источник (the cut): Sounds Like Jon Hamm Is About to Be a Fa
+[2026-08-12 06:01:22] Неизвестный источник (gsmarena.com): iPhone 18 Pro BOM cost estimated to be u
+[2026-08-12 06:01:22] Неизвестный источник (espn): Sources: Cowboys, Quinnen Williams reach
+[2026-08-12 06:01:22] Неизвестный источник (windows central): Windows 11 license fee hikes contributin
+[2026-08-12 06:01:22] Неизвестный источник (forbes): Here’s Why Nvidia Stock Is Down Today - 
+[2026-08-12 06:01:22] Неизвестный источник (usa today): Brad Pitt no longer sober, talks feeling
+[2026-08-12 06:01:22] Неизвестный источник (milwaukee journal sentinel): Packers training camp recap today, Bo Me
+[2026-08-12 06:01:22] Неизвестный источник (phys.org): DESI releases biggest 2D map of the univ
+[2026-08-12 06:01:22] Неизвестный источник (videocardz.com): Lenovo Project Swan leaks with horizonta
+[2026-08-12 06:01:22] Неизвестный источник (space.com): Total solar eclipse Aug. 12, 2026 live u
+[2026-08-12 06:01:22] Мировые новости: найдено 16 после фильтрации
+[2026-08-12 06:01:23] Заблокированный источник (naturalnews.com): Poland’s ultimatum: Ukraine must confron
+[2026-08-12 06:01:23] Заблокированный источник (naturalnews.com): Video Shows Masked Men Assaulting Couple
+[2026-08-12 06:01:23] Заблокированный источник (naturalnews.com): Britain, Germany, Sweden, and Canada beh
+[2026-08-12 06:01:23] Заблокированный источник (naturalnews.com): Russia strikes Kyiv, Zaporizhzhia defens
+[2026-08-12 06:01:23] Заблокированный источник (space daily): In 1966, the Soviet chief designer behin
+[2026-08-12 06:01:23] Нет фото: Health officials warn about swimming in 
+[2026-08-12 06:01:23] Заблокированный источник (rt): No EU membership for Ukraine unless it c
+[2026-08-12 06:01:23] Нет фото: The Return of MySpace? Platform Owners T
+[2026-08-12 06:01:23] Нет фото: Russia’s top court bars anti-war party f
+[2026-08-12 06:01:23] Нет фото: MIT scientists’ new framework could make
+[2026-08-12 06:01:23] Внутренний дубль: Russian barrage on Ukraine kills 9, wounds dozens
+[2026-08-12 06:01:23] Украинские новости: найдено 7 после фильтрации
+[2026-08-12 06:01:23] Нет фото: Humanitarian aid warehouses come under a
+[2026-08-12 06:01:23] Заблокированный источник (sputnikglobe.com): Russian Forces Strike Ukrainian Energy, 
+[2026-08-12 06:01:23] Харьков: найдена новость — At least 5 dead in Russian attack on Kharkiv
+[2026-08-12 06:01:26] Обрабатываю: Strong earthquake strikes western Colombia, killing at least
+[2026-08-12 06:01:26] Попытка 1 для: Strong earthquake strikes western Colomb
+[2026-08-12 06:01:27] Успешно, получено 831 символов
+[2026-08-12 06:01:27] Пауза 60 секунд...
+[2026-08-12 06:02:27] Обрабатываю: Trump pivots back to sanctions for Iran as other strategies 
+[2026-08-12 06:02:27] Попытка 1 для: Trump pivots back to sanctions for Iran 
+[2026-08-12 06:02:29] Успешно, получено 688 символов
+[2026-08-12 06:02:29] Пауза 60 секунд...
+[2026-08-12 06:03:29] Обрабатываю: Trump demands compensation from Iran as talks on Strait of H
+[2026-08-12 06:03:29] Попытка 1 для: Trump demands compensation from Iran as 
+[2026-08-12 06:03:30] Успешно, получено 648 символов
+[2026-08-12 06:03:31] Пауза 60 секунд...
+[2026-08-12 06:04:31] Обрабатываю: Trump Media reports $238m loss as crypto falls
+[2026-08-12 06:04:31] Попытка 1 для: Trump Media reports $238m loss as crypto
+[2026-08-12 06:04:32] Успешно, получено 728 символов
+[2026-08-12 06:04:35] Обрабатываю: Russian barrage on Ukraine kills 9, wounds dozens
+[2026-08-12 06:04:35] Попытка 1 для: Russian barrage on Ukraine kills 9, woun
+[2026-08-12 06:04:36] Успешно, получено 834 символов
+[2026-08-12 06:04:37] Пауза 60 секунд...
+[2026-08-12 06:05:37] Обрабатываю: Ukraine says Russia fired North Korean missiles in deadly at
+[2026-08-12 06:05:37] Попытка 1 для: Ukraine says Russia fired North Korean m
+[2026-08-12 06:05:38] Успешно, получено 766 символов
+[2026-08-12 06:05:38] Пауза 60 секунд...
+[2026-08-12 06:06:38] Обрабатываю: At least 5 dead in Russian attack on Kharkiv
+[2026-08-12 06:06:38] Попытка 1 для: At least 5 dead in Russian attack on Kha
+[2026-08-12 06:06:39] Успешно, получено 647 символов
+[2026-08-12 06:06:40] Фото не отправилось: 400
+[2026-08-12 06:06:40] === Блок morning завершён ===
