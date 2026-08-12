@@ -37134,3 +37134,51 @@ Nithya
 [2026-08-12 16:05:28] Успешно, получено 834 символов
 [2026-08-12 16:05:29] Фото не отправилось: 400
 [2026-08-12 16:05:29] === Блок evening завершён ===
+[2026-08-12 18:01:22] Загружено 2865 уже отправленных новостей
+[2026-08-12 18:01:22] === Запуск блока: ai_evening ===
+[2026-08-12 18:01:22] Неизвестный источник (scientific american): Can AI make mathematics more human?
+[2026-08-12 18:01:22] Неизвестный источник (forbes): The Bitter Lessons Of The EMR: Now The A
+[2026-08-12 18:01:22] Неизвестный источник (thestreet): Analyst predicts 55% rally for surging s
+[2026-08-12 18:01:22] Неизвестный источник (marketbeat): Neuronetics Q2 Earnings Call Highlights
+[2026-08-12 18:01:22] Неизвестный источник (pypi.org): metrifid added to PyPI
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): OpenWALDO launches to build collaborativ
+[2026-08-12 18:01:22] Неизвестный источник (prnewswire): RT-One Becomes First Customer of AMPHIX,
+[2026-08-12 18:01:22] Неизвестный источник (wccftech): NVIDIA’s Nemotron 3.5 Lightning Accelera
+[2026-08-12 18:01:22] Нет фото: Check-Cap Advances MBody AI Merger; Reve
+[2026-08-12 18:01:22] Неизвестный источник (bleeding cool news): Yumi: 00EX #1 Preview: Love-Fueled Hacki
+[2026-08-12 18:01:22] Неизвестный источник (financial post): Spotify asks artists to disclose whether
+[2026-08-12 18:01:22] Неизвестный источник (researchbuzz.me): Amoral AI Agents, Amazon Data Centers, O
+[2026-08-12 18:01:22] Неизвестный источник (prnewswire): BackBox Named to 2026 Inc. 5000 List of 
+[2026-08-12 18:01:22] Неизвестный источник (marketbeat): Clover Health Eyes 2026 GAAP Profit as A
+[2026-08-12 18:01:22] Неизвестный источник (ubergizmo): Samsung Medical AI: Radiation-Free MRI D
+[2026-08-12 18:01:22] Нет фото: Mouser Explores the Future of Quantum Co
+[2026-08-12 18:01:22] Неизвестный источник (businessline): Amgen to set up innovation centre in Hyd
+[2026-08-12 18:01:22] Неизвестный источник (prnewswire): Thunder Compute Partners with Lektra to 
+[2026-08-12 18:01:22] Неизвестный источник (marketbeat): AdaptHealth Sells Diabetes Unit to Sharp
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): FriskAI launches with $3.6M to show ente
+[2026-08-12 18:01:22] Неизвестный источник (plos.org): Mechanistic insights into daidzin from G
+[2026-08-12 18:01:22] Нет фото: Options Unveils H1 2026 AtlasFeed and Ra
+[2026-08-12 18:01:22] Неизвестный источник (space daily): SpaceX has asked to operate up to one mi
+[2026-08-12 18:01:22] Неизвестный источник (financial post): RBC’s McKay, Fortress co-CEO to join Mil
+[2026-08-12 18:01:22] Неизвестный источник (huggingface.co): Nvidia Nemotron 3.5 Lightning
+[2026-08-12 18:01:22] Неизвестный источник (logisticsviewpoints.com): AI Is Beginning to Take Responsibility f
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): Wix launches Symphony, a new standalone 
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): Exclusive: ZeroDrift applies small langu
+[2026-08-12 18:01:22] Неизвестный источник (commercial observer): Owner Fisher Brothers Launches AI Innova
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): Blumira launches Hearth, an AI command c
+[2026-08-12 18:01:22] Неизвестный источник (siliconangle news): Nvidia releases Nemotron 3.5 Lightning a
+[2026-08-12 18:01:22] Неизвестный источник (prnewswire): CodeMettle Awarded First Option Year on 
+[2026-08-12 18:01:22] Нет фото: AZIO AI Holdings Inc. (NASDAQ: AZIO) Bui
+[2026-08-12 18:01:22] Неизвестный источник (bleeding cool news): Venom #260 Preview: Dylan Brock's Dark F
+[2026-08-12 18:01:22] Неизвестный источник (medical daily): The Reference Maps Teaching AI What a Hu
+[2026-08-12 18:01:22] Неизвестный источник (prnewswire): Thomaston Savings Bank Advances Self-Ser
+[2026-08-12 18:01:22] Неизвестный источник (businessline): Amgen to set up innovation center in Hyd
+[2026-08-12 18:01:22] AI новости: найдено 2 после фильтрации
+[2026-08-12 18:01:25] Обрабатываю: US-based Amgen to open science and innovation center at Geno
+[2026-08-12 18:01:25] Попытка 1 для: US-based Amgen to open science and innov
+[2026-08-12 18:01:26] Успешно, получено 617 символов
+[2026-08-12 18:01:26] Пауза 60 секунд...
+[2026-08-12 18:02:26] Обрабатываю: MIT neuroscientists discover the brain can reason without wo
+[2026-08-12 18:02:26] Попытка 1 для: MIT neuroscientists discover the brain c
+[2026-08-12 18:02:27] Успешно, получено 699 символов
+[2026-08-12 18:02:28] === Блок ai_evening завершён ===
