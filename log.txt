@@ -37635,3 +37635,52 @@ Nithya
 [2026-08-14 16:05:35] Попытка 1 для: Ukraine Strikes Gazprom's 200,000-Bpd Sa
 [2026-08-14 16:05:36] Успешно, получено 739 символов
 [2026-08-14 16:05:36] === Блок evening завершён ===
+[2026-08-14 18:01:17] Загружено 2906 уже отправленных новостей
+[2026-08-14 18:01:17] === Запуск блока: ai_evening ===
+[2026-08-14 18:01:17] Нет фото: Flock Safety is Under Fire, But It’s Onl
+[2026-08-14 18:01:17] Неизвестный источник (financial post): Canada’s top tech founders to showcase t
+[2026-08-14 18:01:17] Неизвестный источник (marketbeat): JD.com Q2 Earnings Call Highlights
+[2026-08-14 18:01:17] Нет фото: From HBCU to CEO: Black Entrepreneurs Wh
+[2026-08-14 18:01:17] Нет фото: From HBCU to CEO: 15 Black Entrepreneurs
+[2026-08-14 18:01:17] Неизвестный источник (dailyreckoning.com): Your Grandfather’s Military Is Dead
+[2026-08-14 18:01:17] Нет фото: hepai 1.4.10
+[2026-08-14 18:01:17] Заблокированный источник (breitbart news): Turkey Says Saudi, Pakistan Defense Deal
+[2026-08-14 18:01:17] Неизвестный источник (crypto briefing): Hewlett Packard Enterprise wins court ap
+[2026-08-14 18:01:17] Неизвестный источник (financial post): Private Credit’s Salt Fight Shows ‘Anyth
+[2026-08-14 18:01:17] Неизвестный источник (siliconangle news): Mindgard raises $30M to handle security 
+[2026-08-14 18:01:17] Нет фото: La Caisse Posts 5% First-Half Return as 
+[2026-08-14 18:01:17] Неизвестный источник (onefootball.com): Lourdes headquarters memorial moves clos
+[2026-08-14 18:01:17] Неизвестный источник (financial post): SpaceX passes first lockup expiry test w
+[2026-08-14 18:01:17] Неизвестный источник (pymnts.com): White House AI Testing Shift Could Put O
+[2026-08-14 18:01:17] Неизвестный источник (the big lead): NFL preseason Week 1 betting guide: Thur
+[2026-08-14 18:01:17] Нет фото: WiMi Hologram Cloud Inc. Unveils H-QNN T
+[2026-08-14 18:01:17] Неизвестный источник (wwd): How Apparel Brands Can Win in the Age of
+[2026-08-14 18:01:17] Неизвестный источник (siliconangle news): Regal ties its voice AI agents into Five
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Spectral signature mapping and deep lear
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Methodological development of a pneumati
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Artificial intelligence-based grading of
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Freshwater biodiversity and health: An a
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Socioeconomic inequalities in functional
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Regulatory effects of smoking cessation 
+[2026-08-14 18:01:17] Неизвестный источник (plos.org): Unraveling the molecular Nexus of Alzhei
+[2026-08-14 18:01:17] Неизвестный источник (siliconangle news): Criminals have moved AI out of testing a
+[2026-08-14 18:01:17] Неизвестный источник (businessline): IndusInd Bank looks to deepen SME/mid-ma
+[2026-08-14 18:01:17] Неизвестный источник (marketbeat): ECARX Targets Global Growth With AI, Sil
+[2026-08-14 18:01:17] Неизвестный источник (marketbeat): GDS Q2 Earnings Call Highlights
+[2026-08-14 18:01:17] Нет фото: CosmoLex Launches AI Intake, a Breakthro
+[2026-08-14 18:01:17] Неизвестный источник (siliconangle news): Writer launches major agentic AI improve
+[2026-08-14 18:01:17] Нет фото: AZIO AI Holdings Inc. (NASDAQ: AZIO) Mee
+[2026-08-14 18:01:17] Неизвестный источник (businessline): Amaravati: CM Naidu opens Seed Access Ro
+[2026-08-14 18:01:17] Неизвестный источник (blerrp.com): Cerenome Secures In-Network Agreement wi
+[2026-08-14 18:01:17] Неизвестный источник (new york post): FedEx slashes even more jobs across Cali
+[2026-08-14 18:01:17] Нет фото: Cizzle Brands Corporation Announces that
+[2026-08-14 18:01:17] Неизвестный источник (biztoc.com): What the Coming 6G Trials With Nvidia, T
+[2026-08-14 18:01:17] AI новости: найдено 2 после фильтрации
+[2026-08-14 18:01:20] Обрабатываю: How AI is saving elephants: When mighty animals move towards
+[2026-08-14 18:01:20] Попытка 1 для: How AI is saving elephants: When mighty 
+[2026-08-14 18:01:21] Успешно, получено 1147 символов
+[2026-08-14 18:01:21] Пауза 60 секунд...
+[2026-08-14 18:02:21] Обрабатываю: Between 2001 and 2010, more than 2,500 New York subway cars 
+[2026-08-14 18:02:21] Попытка 1 для: Between 2001 and 2010, more than 2,500 N
+[2026-08-14 18:02:22] Успешно, получено 687 символов
+[2026-08-14 18:02:23] === Блок ai_evening завершён ===
