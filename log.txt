@@ -37736,3 +37736,52 @@ Nithya
 [2026-08-15 06:05:38] Попытка 1 для: Russia faces renewed fuel shortages as U
 [2026-08-15 06:05:39] Успешно, получено 989 символов
 [2026-08-15 06:05:40] === Блок morning завершён ===
+[2026-08-15 08:01:19] Загружено 2914 уже отправленных новостей
+[2026-08-15 08:01:19] === Запуск блока: ai_morning ===
+[2026-08-15 08:01:19] Неизвестный источник (prnewswire): CVC DIF acquires majority stake in first
+[2026-08-15 08:01:19] Неизвестный источник (cbc news): Rollout of AI surveillance by Montreal p
+[2026-08-15 08:01:19] Неизвестный источник (prnewswire): CVC DIF acquires majority stake in first
+[2026-08-15 08:01:19] Неизвестный источник (c-sharpcorner.com): Benchmarking Lambda Durable Execution fo
+[2026-08-15 08:01:19] Неизвестный источник (fitinline.com): How Marketing Automation Helps Fashion B
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports, August 29
+[2026-08-15 08:01:19] Неизвестный источник (businessline): US accuses over 40 nations of helping Ch
+[2026-08-15 08:01:19] Неизвестный источник (pypi.org): langaccess added to PyPI
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports history, August 28
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports history, August 27
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports history, August 26
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports, August 24
+[2026-08-15 08:01:19] Неизвестный источник (usa today): Today in sports history, August 23
+[2026-08-15 08:01:19] Неизвестный источник (the diplomat): How Indonesia Can Get Ahead in the Artif
+[2026-08-15 08:01:19] Неизвестный источник (fox news): White House exposes ‘Transshipment Scam’
+[2026-08-15 08:01:19] Неизвестный источник (cnbc): CNBC Daily Open: An 'indefinite' war, an
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Applied Materials delivers earnings and 
+[2026-08-15 08:01:19] Неизвестный источник (livemint): Beyond early retirement, the real FIRE p
+[2026-08-15 08:01:19] Неизвестный источник (crypto briefing): Bitcoin miners sell 28,000 BTC worth $2B
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Insurance software provider Accelerant t
+[2026-08-15 08:01:19] Неизвестный источник (redhat.com): ODC-Noord: Building blocks for an existi
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Nozomi partners with Sophos to put opera
+[2026-08-15 08:01:19] Неизвестный источник (forbes): Fox News Rival Newsmax Turns First Profi
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Workday’s stock jumps 17% on report of S
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Google launches Gemini 3.7 Flash for cod
+[2026-08-15 08:01:19] Неизвестный источник (financial post): Brookfield’s Bruce Flatt says wider indu
+[2026-08-15 08:01:19] Неизвестный источник (oilprice.com): U.S. Power Grid Strains Under Record Ele
+[2026-08-15 08:01:19] Неизвестный источник (androidguys): Nothing Phone (4b) Review
+[2026-08-15 08:01:19] Нет фото: VerticalScope Announces Second Quarter 2
+[2026-08-15 08:01:19] Неизвестный источник (pymnts.com): Amazon Wants Alexa to Own the Shopping L
+[2026-08-15 08:01:19] Неизвестный источник (prnewswire): IR Pros Enters Canada Through a Partners
+[2026-08-15 08:01:19] Неизвестный источник (prnewswire): IR Pros Enters Canada Through a Partners
+[2026-08-15 08:01:19] Неизвестный источник (siliconangle news): Databricks raises another $5B after annu
+[2026-08-15 08:01:19] Неизвестный источник (prnewswire): Medicare Platform Secures $50 Million in
+[2026-08-15 08:01:19] AI новости: найдено 6 после фильтрации
+[2026-08-15 08:01:21] Обрабатываю: US flags Singapore in China’s shadow transshipment network
+[2026-08-15 08:01:21] Попытка 1 для: US flags Singapore in China’s shadow tra
+[2026-08-15 08:01:23] Успешно, получено 681 символов
+[2026-08-15 08:01:23] Пауза 60 секунд...
+[2026-08-15 08:02:23] Обрабатываю: AI race is pushing companies deeper into college campuses
+[2026-08-15 08:02:23] Попытка 1 для: AI race is pushing companies deeper into
+[2026-08-15 08:02:24] Успешно, получено 816 символов
+[2026-08-15 08:02:24] Пауза 60 секунд...
+[2026-08-15 08:03:24] Обрабатываю: US says dozens of countries helped China dodge Trump's tarif
+[2026-08-15 08:03:24] Попытка 1 для: US says dozens of countries helped China
+[2026-08-15 08:03:25] Успешно, получено 805 символов
+[2026-08-15 08:03:26] === Блок ai_morning завершён ===
