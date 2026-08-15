@@ -37785,3 +37785,39 @@ Nithya
 [2026-08-15 08:03:24] Попытка 1 для: US says dozens of countries helped China
 [2026-08-15 08:03:25] Успешно, получено 805 символов
 [2026-08-15 08:03:26] === Блок ai_morning завершён ===
+[2026-08-15 11:01:18] Загружено 2917 уже отправленных новостей
+[2026-08-15 11:01:18] === Запуск блока: midday ===
+[2026-08-15 11:01:18] Неизвестный источник (tmz): Drake Dating Show 'Goth Baddie' Pinkchyu
+[2026-08-15 11:01:18] Неизвестный источник (espn): Raiders rookie Fernando Mendoza throws f
+[2026-08-15 11:01:18] Неизвестный источник (sfgate): Horoscope for Friday, 08/14/26 by Christ
+[2026-08-15 11:01:18] Неизвестный источник (nbcsports.com): Joe Burrow has no thoughts about the LSU
+[2026-08-15 11:01:18] Неизвестный источник (wral.com): Flock Safety's CEO said safeguards will 
+[2026-08-15 11:01:18] Неизвестный источник (prideofdetroit.com): 6 takeaways from Detroit Lions’ 16-14 lo
+[2026-08-15 11:01:18] Неизвестный источник (alabama's news leader): Alabama Inmate Jeremy Williams Executed 
+[2026-08-15 11:01:18] Неизвестный источник (usa today): Three inmates are executed on same day i
+[2026-08-15 11:01:18] Неизвестный источник (bloody elbow): Ian Machado Garry clashes with reporter 
+[2026-08-15 11:01:18] Неизвестный источник (motley fool): Billionaire Bill Ackman Just Invested 5%
+[2026-08-15 11:01:18] Неизвестный источник (cnbc): Jim Cramer says Cisco’s post-earnings pl
+[2026-08-15 11:01:18] Неизвестный источник (deadline): Teamsters Pound Paramount Over WBD Merge
+[2026-08-15 11:01:18] Неизвестный источник (9to5google.com): Google Meet rolling out ‘Take Notes’ for
+[2026-08-15 11:01:18] Неизвестный источник (channel3000.com - wisc-tv3): Wisconsin DHS confirms 13 more measles c
+[2026-08-15 11:01:18] Неизвестный источник (9to5mac): ChatGPT for Mac adds opt-in Computer His
+[2026-08-15 11:01:18] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Becomes Fast
+[2026-08-15 11:01:18] Старая новость (2026-08-12T20:00:49Z): Recap: Connecticut sees partial solar ec
+[2026-08-15 11:01:18] Мировые новости: найдено 8 после фильтрации
+[2026-08-15 11:01:21] Обрабатываю: Nigel Farage wins Clacton by-election that major parties boy
+[2026-08-15 11:01:21] Попытка 1 для: Nigel Farage wins Clacton by-election th
+[2026-08-15 11:01:22] Успешно, получено 601 символов
+[2026-08-15 11:01:22] Пауза 60 секунд...
+[2026-08-15 11:02:22] Обрабатываю: New aircraft carrier heads toward Mideast after reports of i
+[2026-08-15 11:02:22] Попытка 1 для: New aircraft carrier heads toward Mideas
+[2026-08-15 11:02:23] Успешно, получено 794 символов
+[2026-08-15 11:02:24] Пауза 60 секунд...
+[2026-08-15 11:03:24] Обрабатываю: Kennedy Center board votes to inscribe Trump’s name on build
+[2026-08-15 11:03:24] Попытка 1 для: Kennedy Center board votes to inscribe T
+[2026-08-15 11:03:25] Успешно, получено 734 символов
+[2026-08-15 11:03:25] Пауза 60 секунд...
+[2026-08-15 11:04:25] Обрабатываю: White House accuses over 40 countries of helping China avoid
+[2026-08-15 11:04:25] Попытка 1 для: White House accuses over 40 countries of
+[2026-08-15 11:04:27] Успешно, получено 844 символов
+[2026-08-15 11:04:27] === Блок midday завершён ===
