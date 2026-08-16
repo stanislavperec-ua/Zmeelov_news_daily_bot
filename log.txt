@@ -38132,3 +38132,38 @@ Nithya
 [2026-08-16 16:05:36] Успешно, получено 795 символов
 [2026-08-16 16:05:37] Фото не отправилось: 400
 [2026-08-16 16:05:37] === Блок evening завершён ===
+[2026-08-16 18:01:15] Загружено 2945 уже отправленных новостей
+[2026-08-16 18:01:15] === Запуск блока: ai_evening ===
+[2026-08-16 18:01:15] Заблокированный источник (barchart.com): Nvidia Is Turning Its Massive Cash Flow 
+[2026-08-16 18:01:15] Нет фото: artificial-emotions 1.0.0
+[2026-08-16 18:01:15] Нет фото: Could a computer scientist build a brain
+[2026-08-16 18:01:15] Неизвестный источник (researchersjob.com): PhD in AI & Digital Health at the Univer
+[2026-08-16 18:01:15] Неизвестный источник (business standard): PM Modi unveils seven-pillar 'Sapta Dhar
+[2026-08-16 18:01:15] Заблокированный источник (naturalnews.com): Chinese AI Models Outperform Restricted 
+[2026-08-16 18:01:15] Неизвестный источник (businessline): PM Modi announces free online coaching, 
+[2026-08-16 18:01:15] Неизвестный источник (siliconangle news): Did Nvidia’s Jensen Huang just make the 
+[2026-08-16 18:01:15] Неизвестный источник (businessline): PM Modi announces free online coaching, 
+[2026-08-16 18:01:15] Неизвестный источник (siliconangle news): Chipmaking equipment supplier Lam Resear
+[2026-08-16 18:01:15] Неизвестный источник (activistpost.com): “You Will Have No Freedom”: Open AI Sam 
+[2026-08-16 18:01:15] Неизвестный источник (siliconangle news): Anthropic details unreleased Model 2, ne
+[2026-08-16 18:01:15] Неизвестный источник (common dreams): Green Groups Sue Trump EPA for Approving
+[2026-08-16 18:01:15] Неизвестный источник (financial post): This TSX stock soared this week on ‘posi
+[2026-08-16 18:01:15] Нет фото: GuideAI Health Corp. Announces Frankfurt
+[2026-08-16 18:01:15] Неизвестный источник (siliconangle news): Z.ai debuts GLM-5.3 with long-horizon co
+[2026-08-16 18:01:15] Неизвестный источник (pymnts.com): Banks Find the Big Money in FinCEN’s $4.
+[2026-08-16 18:01:15] Неизвестный источник (dailymail.com): Mysterious underground structure found n
+[2026-08-16 18:01:15] Неизвестный источник (onefootball.com): Atlético v Grêmio odds: markets for the 
+[2026-08-16 18:01:15] Неизвестный источник (space daily): A NASA processor now being tested at JPL
+[2026-08-16 18:01:15] AI новости: найдено 5 после фильтрации
+[2026-08-16 18:01:18] Обрабатываю: ‘Yuva’ to ‘naujawan’: The words Modi kept coming back to in 
+[2026-08-16 18:01:18] Попытка 1 для: ‘Yuva’ to ‘naujawan’: The words Modi kep
+[2026-08-16 18:01:19] Успешно, получено 749 символов
+[2026-08-16 18:01:19] Пауза 60 секунд...
+[2026-08-16 18:02:19] Обрабатываю: Drought is bad news for earthworms, but gardeners can help t
+[2026-08-16 18:02:19] Попытка 1 для: Drought is bad news for earthworms, but 
+[2026-08-16 18:02:20] Успешно, получено 647 символов
+[2026-08-16 18:02:21] Пауза 60 секунд...
+[2026-08-16 18:03:21] Обрабатываю: Independence Day 2026: PM Modi announces free online coachin
+[2026-08-16 18:03:21] Попытка 1 для: Independence Day 2026: PM Modi announces
+[2026-08-16 18:03:21] Успешно, получено 680 символов
+[2026-08-16 18:03:22] === Блок ai_evening завершён ===
