@@ -38225,3 +38225,25 @@ Nithya
 [2026-08-17 06:05:48] Попытка 1 для: North Korea's Kim tells Putin he is 'pro
 [2026-08-17 06:05:49] Успешно, получено 665 символов
 [2026-08-17 06:05:49] === Блок morning завершён ===
+[2026-08-17 08:01:22] Загружено 2952 уже отправленных новостей
+[2026-08-17 08:01:22] === Запуск блока: ai_morning ===
+[2026-08-17 08:01:23] Заблокированный источник (naturalnews.com): The silent saboteur: How modern night ha
+[2026-08-17 08:01:23] Неизвестный источник (thestreet): Morgan Stanley sends a blunt Tesla messa
+[2026-08-17 08:01:23] Неизвестный источник (soldiersystems.net): US Army Combined Arms Command Advances A
+[2026-08-17 08:01:23] Неизвестный источник (cu boulder today): Decoding smell: Study reveals how odor s
+[2026-08-17 08:01:23] Неизвестный источник (usa today): Vikings' Jamal Adams becomes latest vict
+[2026-08-17 08:01:23] Неизвестный источник (motley fool australia): 3 strong ASX ETFs for smart investors to
+[2026-08-17 08:01:23] Неизвестный источник (the daily caller): New Climate Study Seeks To Punish AI Com
+[2026-08-17 08:01:23] Заблокированный источник (barchart.com): Nvidia Is Turning Its Massive Cash Flow 
+[2026-08-17 08:01:23] Нет фото: artificial-emotions 1.0.0
+[2026-08-17 08:01:23] Нет фото: Could a computer scientist build a brain
+[2026-08-17 08:01:23] Неизвестный источник (researchersjob.com): PhD in AI & Digital Health at the Univer
+[2026-08-17 08:01:23] AI новости: найдено 2 после фильтрации
+[2026-08-17 08:01:25] Обрабатываю: AI in drug discovery — what it is, where we stand and the pa
+[2026-08-17 08:01:25] Попытка 1 для: AI in drug discovery — what it is, where
+[2026-08-17 08:01:26] Успешно, получено 878 символов
+[2026-08-17 08:01:27] Пауза 60 секунд...
+[2026-08-17 08:02:27] Обрабатываю: ‘Yuva’ to ‘naujawan’: The words Modi kept coming back to in 
+[2026-08-17 08:02:27] Попытка 1 для: ‘Yuva’ to ‘naujawan’: The words Modi kep
+[2026-08-17 08:02:28] Успешно, получено 922 символов
+[2026-08-17 08:02:28] === Блок ai_morning завершён ===
