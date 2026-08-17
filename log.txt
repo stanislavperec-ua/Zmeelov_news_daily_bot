@@ -38303,3 +38303,96 @@ Nithya
 [2026-08-17 11:06:17] Попытка 3 для: NATO fighter jet shoots down drone breac
 [2026-08-17 11:06:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-17 11:06:28] === Блок midday завершён ===
+[2026-08-17 16:01:18] Загружено 2957 уже отправленных новостей
+[2026-08-17 16:01:18] === Запуск блока: evening ===
+[2026-08-17 16:01:18] Неизвестный источник (variety): ‘Spider-Man: Brand New Day’ Hits $2 Bill
+[2026-08-17 16:01:18] Неизвестный источник (nbcsports.com): Mike Macdonald wasn’t happy with the Sea
+[2026-08-17 16:01:18] Заблокированный источник (bleacher report): Dana White Rips Machado Garry's Lack of 
+[2026-08-17 16:01:18] Неизвестный источник (new york post): Beloved drink linked to less body fat an
+[2026-08-17 16:01:18] Неизвестный источник (pitchfork): Courtney Love Recounts 2019 Health Scare
+[2026-08-17 16:01:18] Неизвестный источник (swimswam): Lani Pallister Hands Katie Ledecky Her F
+[2026-08-17 16:01:18] Неизвестный источник (fox business): Maker of ice cream sold at grocery store
+[2026-08-17 16:01:18] Неизвестный источник (bgr): Does Apple Still Support iTunes? - bgr.c
+[2026-08-17 16:01:18] Заблокированный источник (bleacher report): 2026 NFL Preseason Week 1 Winners and Lo
+[2026-08-17 16:01:18] Неизвестный источник (instyle): Travis Kelce Shows Off His Chunky Gold W
+[2026-08-17 16:01:18] Неизвестный источник (space.com): 'This goes beyond showcasing technologic
+[2026-08-17 16:01:18] Неизвестный источник (seeking alpha): Micron: I Think We Could Get An Upside B
+[2026-08-17 16:01:18] Неизвестный источник (foxweather.com): At least one killed as Hurricane Lala sl
+[2026-08-17 16:01:18] Неизвестный источник (fortune): There isn't just one AI bubble, strategi
+[2026-08-17 16:01:18] Неизвестный источник (usa today): SC to hold first 2028 Democratic primary
+[2026-08-17 16:01:18] Неизвестный источник (hollywood reporter): Disney’s Experiences Chief Talks Figment
+[2026-08-17 16:01:18] Неизвестный источник (space.com): New record! SpaceX launches 2 Falcon 9 r
+[2026-08-17 16:01:18] Неизвестный источник (dailykos.com): Some outstanding pics of the Solar Eclip
+[2026-08-17 16:01:18] Неизвестный источник (gsmarena.com): Deals: Pixel 11 series goes on pre-order
+[2026-08-17 16:01:18] Неизвестный источник (sammobile): New One UI 9 beta for the Galaxy S26 may
+[2026-08-17 16:01:18] Старая новость (2026-08-15T14:10:16Z): I finally found a magnetic phone grip I 
+[2026-08-17 16:01:18] Старая новость (2026-08-15T05:31:00Z): Exhausted health workers in Congo strugg
+[2026-08-17 16:01:18] Мировые новости: найдено 12 после фильтрации
+[2026-08-17 16:01:19] Нет фото: Today's news and jokes
+[2026-08-17 16:01:19] Заблокированный источник (rt): Concentration Camp Ukraine? In a comedia
+[2026-08-17 16:01:19] Пропускаю российский фокус: Largest Ukrainian drone attack on Russia, Moscow s
+[2026-08-17 16:01:19] Пропускаю российский фокус: ‘Massive’ Ukrainian drone attack on Russia kills a
+[2026-08-17 16:01:19] Заблокированный источник (sputnikglobe.com): Russia Strikes Cargo Ship With Western A
+[2026-08-17 16:01:19] Заблокированный источник (rt): ‘We’ll beat all records’: Russian UFC ch
+[2026-08-17 16:01:19] Нет фото: America’s Strategic Oil Reserve Hasn’t B
+[2026-08-17 16:01:19] Нет фото: America’s Strategic Oil Reserve Hasn’t B
+[2026-08-17 16:01:19] Пропускаю российский фокус: Ukrainian Drone Swarm Attack Obliterates Wildberri
+[2026-08-17 16:01:19] Нет фото: ‘Massive’ Ukrainian drone attack on Russ
+[2026-08-17 16:01:19] Нет фото: Ukraine built a $48,000 long-range drone
+[2026-08-17 16:01:19] Нет фото: Ukraine presses drone attacks on Moscow 
+[2026-08-17 16:01:19] Заблокированный источник (sputnikglobe.com): Ukraine Begs Citizens to Stock Up on Foo
+[2026-08-17 16:01:19] Нет фото: Russia, Ukraine Trade Major Overnight Ai
+[2026-08-17 16:01:19] Нет фото: Russia Pounds Ukraine's Largest Oil Faci
+[2026-08-17 16:01:19] Нет фото: Russia Strikes Cargo Ship With Western A
+[2026-08-17 16:01:19] Украинские новости: найдено 3 после фильтрации
+[2026-08-17 16:01:19] Нет фото: Russian Forces Liberate Pershomaryevka a
+[2026-08-17 16:01:19] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Pershomaryevka a
+[2026-08-17 16:01:19] Харьков: новостей не найдено
+[2026-08-17 16:01:21] Обрабатываю: What really happened in Ceuta? Why we may never find out
+[2026-08-17 16:01:21] Попытка 1 для: What really happened in Ceuta? Why we ma
+[2026-08-17 16:01:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:01:31] Попытка 2 для: What really happened in Ceuta? Why we ma
+[2026-08-17 16:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:01:41] Попытка 3 для: What really happened in Ceuta? Why we ma
+[2026-08-17 16:01:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:01:52] Пауза 60 секунд...
+[2026-08-17 16:02:52] Обрабатываю: Former Joint Chiefs chair: Truth about issues on USS Abraham
+[2026-08-17 16:02:52] Попытка 1 для: Former Joint Chiefs chair: Truth about i
+[2026-08-17 16:02:52] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:03:02] Попытка 2 для: Former Joint Chiefs chair: Truth about i
+[2026-08-17 16:03:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:03:12] Попытка 3 для: Former Joint Chiefs chair: Truth about i
+[2026-08-17 16:03:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:03:23] Пауза 60 секунд...
+[2026-08-17 16:04:23] Обрабатываю: Kentucky Gov. Andy Beshear says he's "heard absolutely nothi
+[2026-08-17 16:04:23] Попытка 1 для: Kentucky Gov. Andy Beshear says he's "he
+[2026-08-17 16:04:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:04:33] Попытка 2 для: Kentucky Gov. Andy Beshear says he's "he
+[2026-08-17 16:04:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:04:43] Попытка 3 для: Kentucky Gov. Andy Beshear says he's "he
+[2026-08-17 16:04:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:04:53] Пауза 60 секунд...
+[2026-08-17 16:05:53] Обрабатываю: Calls for public inquiry into Jason Arday 'witchhunt'
+[2026-08-17 16:05:53] Попытка 1 для: Calls for public inquiry into Jason Arda
+[2026-08-17 16:05:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:03] Попытка 2 для: Calls for public inquiry into Jason Arda
+[2026-08-17 16:06:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:13] Попытка 3 для: Calls for public inquiry into Jason Arda
+[2026-08-17 16:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:26] Обрабатываю: Ukraine attacks Wildberries, Russia's biggest online market
+[2026-08-17 16:06:26] Попытка 1 для: Ukraine attacks Wildberries, Russia's bi
+[2026-08-17 16:06:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:36] Попытка 2 для: Ukraine attacks Wildberries, Russia's bi
+[2026-08-17 16:06:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:46] Попытка 3 для: Ukraine attacks Wildberries, Russia's bi
+[2026-08-17 16:06:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:06:57] Пауза 60 секунд...
+[2026-08-17 16:07:57] Обрабатываю: Ukraine: 7 out of 10 biggest Wildberries hubs down
+[2026-08-17 16:07:57] Попытка 1 для: Ukraine: 7 out of 10 biggest Wildberries
+[2026-08-17 16:07:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:08:07] Попытка 2 для: Ukraine: 7 out of 10 biggest Wildberries
+[2026-08-17 16:08:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:08:17] Попытка 3 для: Ukraine: 7 out of 10 biggest Wildberries
+[2026-08-17 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 16:08:27] Фото не отправилось: 400
+[2026-08-17 16:08:28] === Блок evening завершён ===
