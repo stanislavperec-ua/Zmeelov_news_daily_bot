@@ -38247,3 +38247,59 @@ Nithya
 [2026-08-17 08:02:27] Попытка 1 для: ‘Yuva’ to ‘naujawan’: The words Modi kep
 [2026-08-17 08:02:28] Успешно, получено 922 символов
 [2026-08-17 08:02:28] === Блок ai_morning завершён ===
+[2026-08-17 11:01:22] Загружено 2953 уже отправленных новостей
+[2026-08-17 11:01:22] === Запуск блока: midday ===
+[2026-08-17 11:01:22] Неизвестный источник (foxweather.com): At least one killed as Hurricane Lala sl
+[2026-08-17 11:01:22] Неизвестный источник (nbcsports.com): Ty Simpson dazzles in his Rams debut - n
+[2026-08-17 11:01:22] Неизвестный источник (espn): Pallister hands Ledecky her first intern
+[2026-08-17 11:01:22] Неизвестный источник (mickeyvisit.com): BREAKING! Disneyland Tomorrowland Comple
+[2026-08-17 11:01:22] Неизвестный источник (space.com): New record! SpaceX launches 2 Falcon 9 r
+[2026-08-17 11:01:22] Неизвестный источник (kyivindependent.com): Russian attack injures 3 in Kyiv after n
+[2026-08-17 11:01:22] Неизвестный источник (kxan.com): Texas GOP lawmaker predicts fallout for 
+[2026-08-17 11:01:22] Неизвестный источник (the indianapolis star): Live flood updates: At least 5 dead from
+[2026-08-17 11:01:22] Неизвестный источник (the a.v. club): Doom stands Sentinel over Disney's new "
+[2026-08-17 11:01:22] Неизвестный источник (forbes): Apple iPhone 18 Pro Release Date: Discou
+[2026-08-17 11:01:22] Неизвестный источник (woai): 31 dead, nearly 600 ill due to lung dise
+[2026-08-17 11:01:22] Неизвестный источник (9to5mac): Apple has a huge product roadmap for the
+[2026-08-17 11:01:22] Неизвестный источник (variety): Box Office: 'End of Oak Street' Earns $8
+[2026-08-17 11:01:22] Неизвестный источник (cnbc): Inflation moderated as Intel and Nvidia 
+[2026-08-17 11:01:22] Неизвестный источник (9to5google.com): Pixel 11 ads show a mysterious screen-eq
+[2026-08-17 11:01:22] Старая новость (2026-08-15T09:58:00Z): Reddit stock is surging thanks to the S&
+[2026-08-17 11:01:22] Старая новость (2026-08-15T05:31:00Z): Exhausted health workers in Congo strugg
+[2026-08-17 11:01:22] Старая новость (2026-08-14T22:00:00Z): 'Strap yourself in and feel the Gs': NAS
+[2026-08-17 11:01:22] Старая новость (2026-08-14T19:40:00Z): Astronomers Discover an Entirely New Typ
+[2026-08-17 11:01:22] Старая новость (2026-08-14T19:00:36Z): How Much Coffee Is Too Much? New Guideli
+[2026-08-17 11:01:22] Старая новость (2026-08-14T13:14:00Z): Leak uncovers design changes coming with
+[2026-08-17 11:01:22] Мировые новости: найдено 11 после фильтрации
+[2026-08-17 11:01:25] Обрабатываю: US top Middle East commander visits deployed aircraft carrie
+[2026-08-17 11:01:25] Попытка 1 для: US top Middle East commander visits depl
+[2026-08-17 11:01:25] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:01:35] Попытка 2 для: US top Middle East commander visits depl
+[2026-08-17 11:01:35] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:01:45] Попытка 3 для: US top Middle East commander visits depl
+[2026-08-17 11:01:45] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:01:55] Пауза 60 секунд...
+[2026-08-17 11:02:55] Обрабатываю: Islam Makhachev wins record 17th straight fight at UFC 330
+[2026-08-17 11:02:55] Попытка 1 для: Islam Makhachev wins record 17th straigh
+[2026-08-17 11:02:55] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:03:05] Попытка 2 для: Islam Makhachev wins record 17th straigh
+[2026-08-17 11:03:06] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:03:16] Попытка 3 для: Islam Makhachev wins record 17th straigh
+[2026-08-17 11:03:16] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:03:26] Пауза 60 секунд...
+[2026-08-17 11:04:26] Обрабатываю: JD Vance and the Trump team keep moving the goalposts on Ira
+[2026-08-17 11:04:26] Попытка 1 для: JD Vance and the Trump team keep moving 
+[2026-08-17 11:04:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:04:36] Попытка 2 для: JD Vance and the Trump team keep moving 
+[2026-08-17 11:04:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:04:46] Попытка 3 для: JD Vance and the Trump team keep moving 
+[2026-08-17 11:04:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:04:57] Пауза 60 секунд...
+[2026-08-17 11:05:57] Обрабатываю: NATO fighter jet shoots down drone breaching Romania’s airsp
+[2026-08-17 11:05:57] Попытка 1 для: NATO fighter jet shoots down drone breac
+[2026-08-17 11:05:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:06:07] Попытка 2 для: NATO fighter jet shoots down drone breac
+[2026-08-17 11:06:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:06:17] Попытка 3 для: NATO fighter jet shoots down drone breac
+[2026-08-17 11:06:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-17 11:06:28] === Блок midday завершён ===
