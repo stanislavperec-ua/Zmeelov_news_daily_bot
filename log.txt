@@ -38630,3 +38630,59 @@ Nithya
 [2026-08-18 16:08:24] Попытка 3 для: Ukraine Strikes Rocket Factory Critical 
 [2026-08-18 16:08:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-18 16:08:35] === Блок evening завершён ===
+[2026-08-18 18:01:25] Загружено 2979 уже отправленных новостей
+[2026-08-18 18:01:25] === Запуск блока: ai_evening ===
+[2026-08-18 18:01:25] Неизвестный источник (ieee.org): IEEE Presidents’ Scholarship Honors Teen
+[2026-08-18 18:01:25] Неизвестный источник (siliconangle news): On theCUBE Pod: AI bubble debate heats u
+[2026-08-18 18:01:25] Неизвестный источник (internet): Cavern C2 Uses DNS and Google Apps Scrip
+[2026-08-18 18:01:25] Неизвестный источник (business standard): New factories, aircraft, AI hubs to test
+[2026-08-18 18:01:25] Неизвестный источник (marketbeat): Fortinet Sees Surging Hardware, SASE Dem
+[2026-08-18 18:01:25] Неизвестный источник (business standard): 35 years of liberalisation: Telecom, the
+[2026-08-18 18:01:25] Неизвестный источник (cnet): Inside Defcon, the Conference That Made 
+[2026-08-18 18:01:25] Неизвестный источник (pymnts.com): Uber Teams With Zipline to Expand Drone 
+[2026-08-18 18:01:25] Неизвестный источник (bleeding cool news): Star Wars: Galaxy's Edge – Echoes of the
+[2026-08-18 18:01:25] Неизвестный источник (siliconangle news): Higgsfield raises $400M at $5.4 billion 
+[2026-08-18 18:01:25] Неизвестный источник (insurance journal): Rival AI PACs Spend Big in Florida to Sw
+[2026-08-18 18:01:25] Неизвестный источник (plos.org): Contrastive learning to fine-tune featur
+[2026-08-18 18:01:25] Неизвестный источник (plos.org): Redefining the design innovation process
+[2026-08-18 18:01:25] Неизвестный источник (decider): How Jeff Hiller Found Humanity In The ‘P
+[2026-08-18 18:01:25] Неизвестный источник (the diplomat): Are Allies’ Military AI Systems Interope
+[2026-08-18 18:01:25] Неизвестный источник (fair observer): Empire Envy and Forked Tongues: How Wash
+[2026-08-18 18:01:25] Неизвестный источник (siliconangle news): Palona raises $20M in funding to bring A
+[2026-08-18 18:01:25] Неизвестный источник (pyimagesearch.com): Make a Chrome Extension to Digest Webpag
+[2026-08-18 18:01:25] Неизвестный источник (prnewswire): Intersignal Demonstrates Cross-Model Sem
+[2026-08-18 18:01:25] Нет фото: Industrial Robot Installations Hit Recor
+[2026-08-18 18:01:25] Неизвестный источник (siliconangle news): Hexaware bundles its AI services under a
+[2026-08-18 18:01:25] Неизвестный источник (prnewswire): Jumptuit Expands AI Intellectual Propert
+[2026-08-18 18:01:25] Неизвестный источник (crypto coins news): Copper Hits 2021 Squeeze Levels: What It
+[2026-08-18 18:01:25] Неизвестный источник (financial post): Papa Johns Canada Introduces Pan Pizza
+[2026-08-18 18:01:25] Неизвестный источник (prnewswire): Freightos Reports Second Quarter 2026 Re
+[2026-08-18 18:01:25] Неизвестный источник (prnewswire): Madison Air to Acquire ebm-papst, Expand
+[2026-08-18 18:01:25] Неизвестный источник (business standard): AI is getting cheaper to run, but poweri
+[2026-08-18 18:01:25] Неизвестный источник (forbes): How The Audiobook And Podcast Overlap Ca
+[2026-08-18 18:01:25] Неизвестный источник (intelnews.org): Probe uncovers network of fake websites 
+[2026-08-18 18:01:25] Неизвестный источник (financial post): How their mother’s death spurred two bro
+[2026-08-18 18:01:25] Неизвестный источник (new york post): Male Gen Zers are dropping out of the US
+[2026-08-18 18:01:25] Неизвестный источник (prnewswire): AMERICAN PARKINSON DISEASE ASSOCIATION T
+[2026-08-18 18:01:25] Неизвестный источник (forbes): Companies Cannot Price The Shadow AI Ris
+[2026-08-18 18:01:25] Неизвестный источник (notebookcheck.net): The cloned voice on the phone: how you w
+[2026-08-18 18:01:25] Неизвестный источник (pymnts.com): Visa Says Payment Choice Keeps High-Valu
+[2026-08-18 18:01:25] Неизвестный источник (c-sharpcorner.com): Benchmarking .NET Compression for Large 
+[2026-08-18 18:01:25] Неизвестный источник (indiantelevision.com): Dentsu CEO Sano bets on AI, speed and cl
+[2026-08-18 18:01:25] AI новости: найдено 2 после фильтрации
+[2026-08-18 18:01:27] Обрабатываю: Home Fitness Mirror Market Analysis By Application, Type,
+[2026-08-18 18:01:27] Попытка 1 для: Home Fitness Mirror Market Analysis By A
+[2026-08-18 18:01:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:01:37] Попытка 2 для: Home Fitness Mirror Market Analysis By A
+[2026-08-18 18:01:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:01:48] Попытка 3 для: Home Fitness Mirror Market Analysis By A
+[2026-08-18 18:01:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:01:58] Пауза 60 секунд...
+[2026-08-18 18:02:58] Обрабатываю: Elon Musk says AI is hitting an energy wall—his 5-word solut
+[2026-08-18 18:02:58] Попытка 1 для: Elon Musk says AI is hitting an energy w
+[2026-08-18 18:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:03:08] Попытка 2 для: Elon Musk says AI is hitting an energy w
+[2026-08-18 18:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:03:18] Попытка 3 для: Elon Musk says AI is hitting an energy w
+[2026-08-18 18:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 18:03:29] === Блок ai_evening завершён ===
