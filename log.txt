@@ -38551,3 +38551,82 @@ Nithya
 [2026-08-18 11:06:08] Попытка 3 для: I’m hooked on Peak Design’s new City bag
 [2026-08-18 11:06:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-18 11:06:19] === Блок midday завершён ===
+[2026-08-18 16:01:24] Загружено 2973 уже отправленных новостей
+[2026-08-18 16:01:24] === Запуск блока: evening ===
+[2026-08-18 16:01:24] Заблокированный источник (bleacher report): Roberts Calls Out Shohei Ohtani, Tarik S
+[2026-08-18 16:01:24] Неизвестный источник (investopedia): Stock Market Today: Indexes Mixed in Ear
+[2026-08-18 16:01:24] Неизвестный источник (variety): Lena Dunham, Carly Rae Jepsen ’10 Things
+[2026-08-18 16:01:24] Неизвестный источник (cnbc): Oil prices rise as Iran rules out interi
+[2026-08-18 16:01:24] Неизвестный источник (people): “DWTS” Pro Witney Carson Is Pregnant, Ex
+[2026-08-18 16:01:24] Неизвестный источник (cnbc): Meta faces ‘astronomical’ consequences a
+[2026-08-18 16:01:24] Неизвестный источник (the indianapolis star): Live updates: Flooding ongoing in parts 
+[2026-08-18 16:01:24] Неизвестный источник (usa today): What does ‘polyester’ have to do with Ge
+[2026-08-18 16:01:24] Заблокированный источник (bleacher report): Biggest Overreactions from Week 1 of 202
+[2026-08-18 16:01:24] Неизвестный источник (cnbc): What will TV look like in three years? M
+[2026-08-18 16:01:24] Неизвестный источник (parade): How Eating Eggs Affects Your Liver Healt
+[2026-08-18 16:01:24] Неизвестный источник (space daily): James Webb spotted a bizarre object just
+[2026-08-18 16:01:24] Неизвестный источник (hawaii news now): Power outages impact 179K across Hawaii 
+[2026-08-18 16:01:24] Неизвестный источник (forbes): Moon Meets Venus, Spica And The ‘Anti-Ma
+[2026-08-18 16:01:24] Неизвестный источник (phys.org): Giant crocodylians dominated the food ch
+[2026-08-18 16:01:24] Неизвестный источник (forbes): Apple iPhone 18 Pro Release Date: Discou
+[2026-08-18 16:01:24] Неизвестный источник (ktla los angeles): Dolphins use tools to obtain fish in rar
+[2026-08-18 16:01:24] Старая новость (2026-08-16T15:00:00Z): Ian Machado Garry releases statement fol
+[2026-08-18 16:01:24] Старая новость (2026-08-16T07:04:00Z): Samsung Galaxy S27 Ultra: Design databas
+[2026-08-18 16:01:24] Мировые новости: найдено 11 после фильтрации
+[2026-08-18 16:01:25] Нет фото: Hayden Panettiere Posted Smiling Final P
+[2026-08-18 16:01:25] Заблокированный источник (breitbart news): Trump Orders Reduced South Korea Militar
+[2026-08-18 16:01:25] Нет фото: Ukrainian Rocket Attack on Belgorod Kill
+[2026-08-18 16:01:25] Нет фото: Teen charged after ‘friends with benefit
+[2026-08-18 16:01:25] Нет фото: Follow live | ATP, WTA 3rd round results
+[2026-08-18 16:01:25] Нет фото: How Satellite Advances Are Changing the 
+[2026-08-18 16:01:25] Нет фото: The end of the Luigi Mangione cult
+[2026-08-18 16:01:25] Заблокированный источник (sputnikglobe.com): Russian Strikes Driving Ukraine’s Milita
+[2026-08-18 16:01:25] Украинские новости: найдено 5 после фильтрации
+[2026-08-18 16:01:25] Харьков: новостей не найдено
+[2026-08-18 16:01:27] Обрабатываю: Prosecution rests in Lindsay Clancy murder trial. Defense no
+[2026-08-18 16:01:27] Попытка 1 для: Prosecution rests in Lindsay Clancy murd
+[2026-08-18 16:01:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:01:38] Попытка 2 для: Prosecution rests in Lindsay Clancy murd
+[2026-08-18 16:01:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:01:48] Попытка 3 для: Prosecution rests in Lindsay Clancy murd
+[2026-08-18 16:01:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:01:58] Пауза 60 секунд...
+[2026-08-18 16:02:58] Обрабатываю: Live updates: Trump threatens to bomb US ally Oman as Iran a
+[2026-08-18 16:02:58] Попытка 1 для: Live updates: Trump threatens to bomb US
+[2026-08-18 16:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:03:08] Попытка 2 для: Live updates: Trump threatens to bomb US
+[2026-08-18 16:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:03:18] Попытка 3 для: Live updates: Trump threatens to bomb US
+[2026-08-18 16:03:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:03:29] Пауза 60 секунд...
+[2026-08-18 16:04:29] Обрабатываю: Congo’s fast-moving Ebola outbreak becomes the country’s wor
+[2026-08-18 16:04:29] Попытка 1 для: Congo’s fast-moving Ebola outbreak becom
+[2026-08-18 16:04:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:04:39] Попытка 2 для: Congo’s fast-moving Ebola outbreak becom
+[2026-08-18 16:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:04:49] Попытка 3 для: Congo’s fast-moving Ebola outbreak becom
+[2026-08-18 16:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:05:00] Пауза 60 секунд...
+[2026-08-18 16:06:00] Обрабатываю: Former MLB pitcher Tommy John dies at age 83
+[2026-08-18 16:06:00] Попытка 1 для: Former MLB pitcher Tommy John dies at ag
+[2026-08-18 16:06:00] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:06:10] Попытка 2 для: Former MLB pitcher Tommy John dies at ag
+[2026-08-18 16:06:10] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:06:20] Попытка 3 для: Former MLB pitcher Tommy John dies at ag
+[2026-08-18 16:06:20] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:06:33] Обрабатываю: Ukraine Has Shattered the Myth of Russian Military Might
+[2026-08-18 16:06:33] Попытка 1 для: Ukraine Has Shattered the Myth of Russia
+[2026-08-18 16:06:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:06:43] Попытка 2 для: Ukraine Has Shattered the Myth of Russia
+[2026-08-18 16:06:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:06:53] Попытка 3 для: Ukraine Has Shattered the Myth of Russia
+[2026-08-18 16:06:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:07:04] Пауза 60 секунд...
+[2026-08-18 16:08:04] Обрабатываю: Ukraine Strikes Rocket Factory Critical to Russia’s Space Pr
+[2026-08-18 16:08:04] Попытка 1 для: Ukraine Strikes Rocket Factory Critical 
+[2026-08-18 16:08:04] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:08:14] Попытка 2 для: Ukraine Strikes Rocket Factory Critical 
+[2026-08-18 16:08:14] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:08:24] Попытка 3 для: Ukraine Strikes Rocket Factory Critical 
+[2026-08-18 16:08:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 16:08:35] === Блок evening завершён ===
