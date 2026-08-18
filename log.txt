@@ -38396,3 +38396,89 @@ Nithya
 [2026-08-17 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-17 16:08:27] Фото не отправилось: 400
 [2026-08-17 16:08:28] === Блок evening завершён ===
+[2026-08-18 06:01:18] Загружено 2963 уже отправленных новостей
+[2026-08-18 06:01:18] === Запуск блока: morning ===
+[2026-08-18 06:01:19] Неизвестный источник (hollywood reporter): Hayden Panettiere, Actress on ‘Heroes’ a
+[2026-08-18 06:01:19] Неизвестный источник (rottentomatoes.com): Weekend Box Office: Spider-Man: Brand Ne
+[2026-08-18 06:01:19] Неизвестный источник (nbcsports.com): Von Miller agrees to deal with Cowboys -
+[2026-08-18 06:01:19] Неизвестный источник (dw (english)): Hundreds flee as Belgium battles wildfir
+[2026-08-18 06:01:19] Неизвестный источник (buzzfeed): 24 Clean Memes That Are Actually Hilario
+[2026-08-18 06:01:19] Неизвестный источник (san francisco chronicle): Hurricane Lala cuts power to thousands i
+[2026-08-18 06:01:19] Неизвестный источник (ktla los angeles): L.A. street takeover acts as cover while
+[2026-08-18 06:01:19] Неизвестный источник (variety): Robert Downey Jr., Harrison Ford, Honor 
+[2026-08-18 06:01:19] Неизвестный источник (space.com): How to watch 'Lanterns' — HBO's gritty n
+[2026-08-18 06:01:19] Неизвестный источник (pbs): Lake Powell hits record low, threatening
+[2026-08-18 06:01:19] Неизвестный источник (gsmarena.com): Pixel 11 series, Honor Robot Phone, Redm
+[2026-08-18 06:01:19] Неизвестный источник (wkyt): Suspect arrested in deadly Lexington mas
+[2026-08-18 06:01:19] Неизвестный источник (seeking alpha): Rocket Lab-built satellites for MDA Spac
+[2026-08-18 06:01:19] Неизвестный источник (droid life): Google Adds Sweet New Security App Lock 
+[2026-08-18 06:01:19] Неизвестный источник (forbes): COVID-19 Is Rising In America— Here’s Wh
+[2026-08-18 06:01:19] Заблокированный источник (bleacher report): Dana White Rips Machado Garry's Lack of 
+[2026-08-18 06:01:19] Неизвестный источник (wztv): Study finds coffee linked to testosteron
+[2026-08-18 06:01:19] Неизвестный источник (space.com): 'This goes beyond showcasing technologic
+[2026-08-18 06:01:19] Старая новость (2026-08-16T00:02:37Z): Some outstanding pics of the Solar Eclip
+[2026-08-18 06:01:19] Мировые новости: найдено 11 после фильтрации
+[2026-08-18 06:01:19] Заблокированный источник (naturalnews.com): The Deadliest Lab on Earth: How AI Warfa
+[2026-08-18 06:01:19] Заблокированный источник (naturalnews.com): Ukraine Halts Missile Intercept Disclosu
+[2026-08-18 06:01:19] Заблокированный источник (naturalnews.com): World War E: The energy wars and the pat
+[2026-08-18 06:01:19] Заблокированный источник (naturalnews.com): America’s strategic oil lifeline sinks t
+[2026-08-18 06:01:19] Нет фото: Ukraine launches one of its largest aeri
+[2026-08-18 06:01:19] Нет фото: Ukraine-Russia war latest: Seven dead as
+[2026-08-18 06:01:19] Заблокированный источник (rt): Ukrainian missile strike kills six in Ru
+[2026-08-18 06:01:19] Заблокированный источник (sputnikglobe.com): US Admits Being 'Ill-Equipped' to Defend
+[2026-08-18 06:01:19] Нет фото: Rep Nancy Mace Says the Only Way to Stop
+[2026-08-18 06:01:19] Нет фото: Hayden Panettiere dies at 36
+[2026-08-18 06:01:19] Внутренний дубль: Ukraine takes aim at Russia’s economy and morale b
+[2026-08-18 06:01:19] Внутренний дубль: Ukraine takes aim at Russia’s economy and morale b
+[2026-08-18 06:01:19] Украинские новости: найдено 7 после фильтрации
+[2026-08-18 06:01:19] Нет фото: Russian Forces Liberate Pershomaryevka a
+[2026-08-18 06:01:19] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Pershomaryevka a
+[2026-08-18 06:01:19] Харьков: новостей не найдено
+[2026-08-18 06:01:22] Обрабатываю: Ukraine takes aim at Russia’s economy and morale by attackin
+[2026-08-18 06:01:22] Попытка 1 для: Ukraine takes aim at Russia’s economy an
+[2026-08-18 06:01:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:01:32] Попытка 2 для: Ukraine takes aim at Russia’s economy an
+[2026-08-18 06:01:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:01:42] Попытка 3 для: Ukraine takes aim at Russia’s economy an
+[2026-08-18 06:01:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:01:53] Пауза 60 секунд...
+[2026-08-18 06:02:53] Обрабатываю: Ferrari's first ever electric car sold for record $40m at au
+[2026-08-18 06:02:53] Попытка 1 для: Ferrari's first ever electric car sold f
+[2026-08-18 06:02:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:03:03] Попытка 2 для: Ferrari's first ever electric car sold f
+[2026-08-18 06:03:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:03:13] Попытка 3 для: Ferrari's first ever electric car sold f
+[2026-08-18 06:03:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:03:23] Пауза 60 секунд...
+[2026-08-18 06:04:23] Обрабатываю: Trump says US to scale back military drills with South Korea
+[2026-08-18 06:04:23] Попытка 1 для: Trump says US to scale back military dri
+[2026-08-18 06:04:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:04:34] Попытка 2 для: Trump says US to scale back military dri
+[2026-08-18 06:04:34] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:04:44] Попытка 3 для: Trump says US to scale back military dri
+[2026-08-18 06:04:44] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:04:54] Пауза 60 секунд...
+[2026-08-18 06:05:54] Обрабатываю: Photos: Patriotic music and flags mark Taliban rule annivers
+[2026-08-18 06:05:54] Попытка 1 для: Photos: Patriotic music and flags mark T
+[2026-08-18 06:05:54] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:04] Попытка 2 для: Photos: Patriotic music and flags mark T
+[2026-08-18 06:06:04] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:14] Попытка 3 для: Photos: Patriotic music and flags mark T
+[2026-08-18 06:06:14] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:27] Обрабатываю: 2 killed as Russian strike hits ArcelorMittal steel plant in
+[2026-08-18 06:06:27] Попытка 1 для: 2 killed as Russian strike hits ArcelorM
+[2026-08-18 06:06:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:38] Попытка 2 для: 2 killed as Russian strike hits ArcelorM
+[2026-08-18 06:06:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:48] Попытка 3 для: 2 killed as Russian strike hits ArcelorM
+[2026-08-18 06:06:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:06:58] Фото не отправилось: 400
+[2026-08-18 06:06:59] Пауза 60 секунд...
+[2026-08-18 06:07:59] Обрабатываю: Day centre may have to reduce services after Ukrainian staff
+[2026-08-18 06:07:59] Попытка 1 для: Day centre may have to reduce services a
+[2026-08-18 06:07:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:08:09] Попытка 2 для: Day centre may have to reduce services a
+[2026-08-18 06:08:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:08:19] Попытка 3 для: Day centre may have to reduce services a
+[2026-08-18 06:08:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 06:08:29] === Блок morning завершён ===
