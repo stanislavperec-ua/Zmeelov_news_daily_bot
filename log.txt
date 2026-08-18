@@ -38482,3 +38482,20 @@ Nithya
 [2026-08-18 06:08:19] Попытка 3 для: Day centre may have to reduce services a
 [2026-08-18 06:08:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-18 06:08:29] === Блок morning завершён ===
+[2026-08-18 08:01:27] Загружено 2969 уже отправленных новостей
+[2026-08-18 08:01:27] === Запуск блока: ai_morning ===
+[2026-08-18 08:01:27] Неизвестный источник (pymnts.com): Visa Says Payment Choice Keeps High-Valu
+[2026-08-18 08:01:27] Неизвестный источник (c-sharpcorner.com): Benchmarking .NET Compression for Large 
+[2026-08-18 08:01:27] Неизвестный источник (indiantelevision.com): Dentsu CEO Sano bets on AI, speed and cl
+[2026-08-18 08:01:27] Неизвестный источник (khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-08-18 08:01:27] Неизвестный источник (new zealand herald): JB Hi-Fi NZ sales jump 26% on mobile pho
+[2026-08-18 08:01:27] Неизвестный источник (screen rant): Netflix's 95% RT Fantasy Time Travel Ser
+[2026-08-18 08:01:27] Нет фото: What is the database of all birds?
+[2026-08-18 08:01:27] Неизвестный источник (the punch): FiberOne targets 1m subscribers in five 
+[2026-08-18 08:01:27] Неизвестный источник (nbcsports.com): Jamal Adams is out for the year with a k
+[2026-08-18 08:01:27] Неизвестный источник (siliconangle news): Stripe reportedly finalizes deal to buy 
+[2026-08-18 08:01:27] Неизвестный источник (siliconangle news): Stripe reportedly finalizes deal to buy 
+[2026-08-18 08:01:27] Неизвестный источник (crypto briefing): Match Act poised for inclusion in Senate
+[2026-08-18 08:01:27] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-08-18 08:01:27] ⚠️ Блок *AI утро* (18.08.2026) — новостей не найдено!
+[2026-08-18 08:01:28] === Блок ai_morning завершён ===
