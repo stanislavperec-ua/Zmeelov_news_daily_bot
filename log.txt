@@ -38499,3 +38499,55 @@ Nithya
 [2026-08-18 08:01:27] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-08-18 08:01:27] ⚠️ Блок *AI утро* (18.08.2026) — новостей не найдено!
 [2026-08-18 08:01:28] === Блок ai_morning завершён ===
+[2026-08-18 11:01:13] Загружено 2969 уже отправленных новостей
+[2026-08-18 11:01:13] === Запуск блока: midday ===
+[2026-08-18 11:01:14] Неизвестный источник (nbcsports.com): Von Miller calls signing with the Cowboy
+[2026-08-18 11:01:14] Неизвестный источник (investing.com): Bets on imminent Fed rate hike fade; ret
+[2026-08-18 11:01:14] Неизвестный источник (kstp.com): Has your car been Flocked? Website shows
+[2026-08-18 11:01:14] Неизвестный источник (rottentomatoes.com): Weekend Box Office: Spider-Man: Brand Ne
+[2026-08-18 11:01:14] Неизвестный источник (espn): Fever defeat Dream in OT to secure key w
+[2026-08-18 11:01:14] Неизвестный источник (space daily): Dolphins on opposite sides of Australia,
+[2026-08-18 11:01:14] Неизвестный источник (san francisco chronicle): Hurricane Lala cuts power to thousands i
+[2026-08-18 11:01:14] Неизвестный источник (variety): Robert Downey Jr., Harrison Ford, Honor 
+[2026-08-18 11:01:14] Неизвестный источник (gsmarena.com): Pixel 11 series, Honor Robot Phone, Redm
+[2026-08-18 11:01:14] Неизвестный источник (droid life): Google Adds Sweet New Security App Lock 
+[2026-08-18 11:01:14] Неизвестный источник (cbs sports): What can we learn from Arsenal's crushin
+[2026-08-18 11:01:14] Неизвестный источник (lexington herald leader): Lexington police say they have ‘no updat
+[2026-08-18 11:01:14] Неизвестный источник (wztv): Study finds coffee linked to testosteron
+[2026-08-18 11:01:14] Старая новость (2026-08-16T11:00:01Z): Black hole star: Astronomers discover a 
+[2026-08-18 11:01:14] Старая новость (2026-08-16T10:00:00Z): 'This goes beyond showcasing technologic
+[2026-08-18 11:01:14] Старая новость (2026-08-16T09:32:27Z): Russia hits steel plant in new strikes o
+[2026-08-18 11:01:14] Старая новость (2026-08-16T02:54:47Z): New record! SpaceX launches 2 Falcon 9 r
+[2026-08-18 11:01:14] Мировые новости: найдено 14 после фильтрации
+[2026-08-18 11:01:16] Обрабатываю: Live Updates: U.S. and Iran locked in a stalemate as 60-day 
+[2026-08-18 11:01:16] Попытка 1 для: Live Updates: U.S. and Iran locked in a 
+[2026-08-18 11:01:16] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:01:26] Попытка 2 для: Live Updates: U.S. and Iran locked in a 
+[2026-08-18 11:01:26] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:01:36] Попытка 3 для: Live Updates: U.S. and Iran locked in a 
+[2026-08-18 11:01:36] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:01:47] Пауза 60 секунд...
+[2026-08-18 11:02:47] Обрабатываю: Actor Hayden Panettiere, known for roles in ‘Heroes’ and ‘Na
+[2026-08-18 11:02:47] Попытка 1 для: Actor Hayden Panettiere, known for roles
+[2026-08-18 11:02:47] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:02:57] Попытка 2 для: Actor Hayden Panettiere, known for roles
+[2026-08-18 11:02:57] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:03:07] Попытка 3 для: Actor Hayden Panettiere, known for roles
+[2026-08-18 11:03:07] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:03:17] Пауза 60 секунд...
+[2026-08-18 11:04:17] Обрабатываю: Trump orders military to ‘substantially reduce’ joint exerci
+[2026-08-18 11:04:17] Попытка 1 для: Trump orders military to ‘substantially 
+[2026-08-18 11:04:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:04:27] Попытка 2 для: Trump orders military to ‘substantially 
+[2026-08-18 11:04:28] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:04:38] Попытка 3 для: Trump orders military to ‘substantially 
+[2026-08-18 11:04:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:04:48] Пауза 60 секунд...
+[2026-08-18 11:05:48] Обрабатываю: I’m hooked on Peak Design’s new City bags
+[2026-08-18 11:05:48] Попытка 1 для: I’m hooked on Peak Design’s new City bag
+[2026-08-18 11:05:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:05:58] Попытка 2 для: I’m hooked on Peak Design’s new City bag
+[2026-08-18 11:05:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:06:08] Попытка 3 для: I’m hooked on Peak Design’s new City bag
+[2026-08-18 11:06:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-18 11:06:19] === Блок midday завершён ===
