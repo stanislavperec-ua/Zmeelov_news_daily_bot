@@ -38686,3 +38686,94 @@ Nithya
 [2026-08-18 18:03:18] Попытка 3 для: Elon Musk says AI is hitting an energy w
 [2026-08-18 18:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-18 18:03:29] === Блок ai_evening завершён ===
+[2026-08-19 06:01:18] Загружено 2981 уже отправленных новостей
+[2026-08-19 06:01:18] === Запуск блока: morning ===
+[2026-08-19 06:01:18] Неизвестный источник (espn): Jeanie Buss contesting family's sale of 
+[2026-08-19 06:01:18] Неизвестный источник (yahoo entertainment): Global Bond Rout Sends Long-Term Borrowi
+[2026-08-19 06:01:18] Неизвестный источник (variety): Rosie O’Donnell Shines in ‘Jimmy Kimmel 
+[2026-08-19 06:01:18] Неизвестный источник (macrumors): Apple's Camera-Equipped AirPods Confirme
+[2026-08-19 06:01:18] Неизвестный источник (bgr): 5 Anker Gadgets Under $25 Worth Adding T
+[2026-08-19 06:01:18] Неизвестный источник (wral.com): Ticks carrying Lyme disease are gaining 
+[2026-08-19 06:01:18] Неизвестный источник (fox news): Penn State cocaine bust nets 14 arrests 
+[2026-08-19 06:01:18] Неизвестный источник (hollywood reporter): Hayden Panettiere and Michelle Trachtenb
+[2026-08-19 06:01:18] Неизвестный источник (usa today): Joe Rogan isn't sure Islam Makhachev can
+[2026-08-19 06:01:18] Неизвестный источник (9to5google.com): Google rolling out Android 17 QPR1 Beta 
+[2026-08-19 06:01:18] Неизвестный источник (tvline): Lanterns Premiere's Ending Infuriated So
+[2026-08-19 06:01:18] Неизвестный источник (nbcsports.com): Ohio State and Oregon are 1-2 in the AP 
+[2026-08-19 06:01:18] Неизвестный источник (triblive): Steelers cancel training camp practice b
+[2026-08-19 06:01:18] Неизвестный источник (space daily): James Webb spotted a bizarre object just
+[2026-08-19 06:01:18] Старая новость (2026-08-17T06:00:00Z): Moon Meets Venus, Spica And The ‘Anti-Ma
+[2026-08-19 06:01:18] Старая новость (2026-08-17T02:31:00Z): Hybrid material based on nanosheets 500x
+[2026-08-19 06:01:18] Старая новость (2026-08-17T01:00:04Z): Giant crocodylians dominated the food ch
+[2026-08-19 06:01:18] Старая новость (2026-08-16T16:10:35Z): COVID-19 Is Rising In America— Here’s Wh
+[2026-08-19 06:01:18] Мировые новости: найдено 15 после фильтрации
+[2026-08-19 06:01:19] Заблокированный источник (naturalnews.com): The US-EU relationship is no longer a st
+[2026-08-19 06:01:19] Заблокированный источник (naturalnews.com): Russian Strikes on Ukraine’s Danube Port
+[2026-08-19 06:01:19] Заблокированный источник (naturalnews.com): Bessent warns of “never-before-seen” eco
+[2026-08-19 06:01:19] Нет фото: Ukraine takes aim at Russia's economy an
+[2026-08-19 06:01:19] Заблокированный источник (rt): Kanye West to perform in Russia after Eu
+[2026-08-19 06:01:19] Пропускаю российский фокус: Taking out a Russian soldier costs twice as much a
+[2026-08-19 06:01:19] Пропускаю российский фокус: Taking out a Russian soldier costs twice as much a
+[2026-08-19 06:01:19] Нет фото: IL Islamic Scholar Calls for Muslims to 
+[2026-08-19 06:01:19] Нет фото: World’s Fastest Hydrogen Vehicle Hits Re
+[2026-08-19 06:01:19] Внутренний дубль: Ukraine attack on Moscow region injures 3
+[2026-08-19 06:01:19] Внутренний дубль: Russia warns UK over supplying drones to Ukraine
+[2026-08-19 06:01:19] Украинские новости: найдено 4 после фильтрации
+[2026-08-19 06:01:19] Харьков: найдена новость — 10 killed in Kharkiv as Ukraine hits Moscow with d
+[2026-08-19 06:01:21] Обрабатываю: Judge delays Mangione’s state trial after lawyers sought dis
+[2026-08-19 06:01:21] Попытка 1 для: Judge delays Mangione’s state trial afte
+[2026-08-19 06:01:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:01:31] Попытка 2 для: Judge delays Mangione’s state trial afte
+[2026-08-19 06:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:01:41] Попытка 3 для: Judge delays Mangione’s state trial afte
+[2026-08-19 06:01:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:01:52] Пауза 60 секунд...
+[2026-08-19 06:02:52] Обрабатываю: Dems plan Oman war powers push after Trump threatens bombing
+[2026-08-19 06:02:52] Попытка 1 для: Dems plan Oman war powers push after Tru
+[2026-08-19 06:02:52] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:03:02] Попытка 2 для: Dems plan Oman war powers push after Tru
+[2026-08-19 06:03:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:03:12] Попытка 3 для: Dems plan Oman war powers push after Tru
+[2026-08-19 06:03:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:03:23] Пауза 60 секунд...
+[2026-08-19 06:04:23] Обрабатываю: 60 days after signing Iran deal, Trump stuck in quagmire as 
+[2026-08-19 06:04:23] Попытка 1 для: 60 days after signing Iran deal, Trump s
+[2026-08-19 06:04:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:04:33] Попытка 2 для: 60 days after signing Iran deal, Trump s
+[2026-08-19 06:04:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:04:43] Попытка 3 для: 60 days after signing Iran deal, Trump s
+[2026-08-19 06:04:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:04:53] Пауза 60 секунд...
+[2026-08-19 06:05:53] Обрабатываю: Lindsay Clancy's mother testifies "she had thoughts of harmi
+[2026-08-19 06:05:53] Попытка 1 для: Lindsay Clancy's mother testifies "she h
+[2026-08-19 06:05:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:03] Попытка 2 для: Lindsay Clancy's mother testifies "she h
+[2026-08-19 06:06:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:13] Попытка 3 для: Lindsay Clancy's mother testifies "she h
+[2026-08-19 06:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:26] Обрабатываю: Ukraine attack on Moscow region injures 3, sparks fires
+[2026-08-19 06:06:26] Попытка 1 для: Ukraine attack on Moscow region injures 
+[2026-08-19 06:06:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:36] Попытка 2 для: Ukraine attack on Moscow region injures 
+[2026-08-19 06:06:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:46] Попытка 3 для: Ukraine attack on Moscow region injures 
+[2026-08-19 06:06:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:06:57] Фото не отправилось: 400
+[2026-08-19 06:06:58] Пауза 60 секунд...
+[2026-08-19 06:07:58] Обрабатываю: Taking out a Russian soldier costs twice as much as hitting 
+[2026-08-19 06:07:58] Попытка 1 для: Taking out a Russian soldier costs twice
+[2026-08-19 06:07:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:08:08] Попытка 2 для: Taking out a Russian soldier costs twice
+[2026-08-19 06:08:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:08:18] Попытка 3 для: Taking out a Russian soldier costs twice
+[2026-08-19 06:08:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:08:29] Фото не отправилось: 400
+[2026-08-19 06:08:29] Пауза 60 секунд...
+[2026-08-19 06:09:29] Обрабатываю: 10 killed in Kharkiv as Ukraine hits Moscow with drones
+[2026-08-19 06:09:29] Попытка 1 для: 10 killed in Kharkiv as Ukraine hits Mos
+[2026-08-19 06:09:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:09:39] Попытка 2 для: 10 killed in Kharkiv as Ukraine hits Mos
+[2026-08-19 06:09:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:09:49] Попытка 3 для: 10 killed in Kharkiv as Ukraine hits Mos
+[2026-08-19 06:09:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 06:09:59] === Блок morning завершён ===
