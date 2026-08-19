@@ -38841,3 +38841,53 @@ Nithya
 [2026-08-19 08:04:42] Попытка 3 для: Raw Data, Wrong Answers
 [2026-08-19 08:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-19 08:04:53] === Блок ai_morning завершён ===
+[2026-08-19 11:01:17] Загружено 2991 уже отправленных новостей
+[2026-08-19 11:01:17] === Запуск блока: midday ===
+[2026-08-19 11:01:17] Неизвестный источник (yahoo entertainment): Stock market today: Dow, S&P 500, Nasdaq
+[2026-08-19 11:01:17] Неизвестный источник (espn): Jeanie Buss contesting family's sale of 
+[2026-08-19 11:01:17] Неизвестный источник (phys.org): Molecular memory: How a mother's age ech
+[2026-08-19 11:01:17] Неизвестный источник (nbcsports.com): Jerry Jones still open to substantive mo
+[2026-08-19 11:01:17] Неизвестный источник (fox 29): CDC: U.S. kindergarten vaccine exemption
+[2026-08-19 11:01:17] Неизвестный источник (wral.com): Ticks carrying Lyme disease are gaining 
+[2026-08-19 11:01:17] Неизвестный источник (fox news): Penn State cocaine bust nets 14 arrests 
+[2026-08-19 11:01:17] Неизвестный источник (usa today): Maps capture the travel strain on USS Ab
+[2026-08-19 11:01:17] Неизвестный источник (the conversation africa): Galactic archaeologists find stars in th
+[2026-08-19 11:01:17] Неизвестный источник (kcci des moines): Iowa officials identify places visited d
+[2026-08-19 11:01:17] Неизвестный источник (forbes): Apple iPhone 18 Pro Release Date: Discou
+[2026-08-19 11:01:17] Неизвестный источник (cnbc): L3Harris ousts CEO Chris Kubasik over un
+[2026-08-19 11:01:17] Неизвестный источник (triblive): Steelers cancel training camp practice b
+[2026-08-19 11:01:17] Неизвестный источник (harpersbazaar.com): Every Major Star at Jordyn Woods and Kar
+[2026-08-19 11:01:17] Старая новость (2026-08-17T08:49:40Z): James Webb spotted a bizarre object just
+[2026-08-19 11:01:17] Мировые новости: найдено 16 после фильтрации
+[2026-08-19 11:01:19] Обрабатываю: A rare baby sighting could reveal where life begins for worl
+[2026-08-19 11:01:19] Попытка 1 для: A rare baby sighting could reveal where 
+[2026-08-19 11:01:19] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:01:29] Попытка 2 для: A rare baby sighting could reveal where 
+[2026-08-19 11:01:29] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:01:39] Попытка 3 для: A rare baby sighting could reveal where 
+[2026-08-19 11:01:39] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:01:50] Пауза 60 секунд...
+[2026-08-19 11:02:50] Обрабатываю: Apple’s camera-equipped AirPods appear in leaked video
+[2026-08-19 11:02:50] Попытка 1 для: Apple’s camera-equipped AirPods appear i
+[2026-08-19 11:02:50] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:03:00] Попытка 2 для: Apple’s camera-equipped AirPods appear i
+[2026-08-19 11:03:00] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:03:10] Попытка 3 для: Apple’s camera-equipped AirPods appear i
+[2026-08-19 11:03:10] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:03:20] Пауза 60 секунд...
+[2026-08-19 11:04:20] Обрабатываю: Hayden Panettiere: Ex Wladimir Klitschko says family is in '
+[2026-08-19 11:04:20] Попытка 1 для: Hayden Panettiere: Ex Wladimir Klitschko
+[2026-08-19 11:04:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:04:31] Попытка 2 для: Hayden Panettiere: Ex Wladimir Klitschko
+[2026-08-19 11:04:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:04:41] Попытка 3 для: Hayden Panettiere: Ex Wladimir Klitschko
+[2026-08-19 11:04:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:04:51] Пауза 60 секунд...
+[2026-08-19 11:05:51] Обрабатываю: A dispute about fact vs. fiction at the trial over Tupac Sha
+[2026-08-19 11:05:51] Попытка 1 для: A dispute about fact vs. fiction at the 
+[2026-08-19 11:05:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:06:01] Попытка 2 для: A dispute about fact vs. fiction at the 
+[2026-08-19 11:06:01] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:06:11] Попытка 3 для: A dispute about fact vs. fiction at the 
+[2026-08-19 11:06:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 11:06:22] === Блок midday завершён ===
