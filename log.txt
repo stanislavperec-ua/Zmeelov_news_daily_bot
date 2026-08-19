@@ -38974,3 +38974,47 @@ Nithya
 [2026-08-19 16:09:52] Попытка 3 для: Russian missile attack kills 10 in north
 [2026-08-19 16:09:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-19 16:10:03] === Блок evening завершён ===
+[2026-08-19 18:01:16] Загружено 3002 уже отправленных новостей
+[2026-08-19 18:01:16] === Запуск блока: ai_evening ===
+[2026-08-19 18:01:17] Неизвестный источник (bitcoinfoundation.org): Tether Plans AI Apps for Developing Mark
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): SAINT JOSEPH'S UNIVERSITY ANNOUNCES THE 
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): CLA Heartbeat Index: Strong Economic Con
+[2026-08-19 18:01:17] Неизвестный источник (the daily caller): Why The Robocall Plague Seems To Only Be
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): Cornerstone Research Announces New Senio
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): The 22nd Annual Globee® Awards for Techn
+[2026-08-19 18:01:17] Неизвестный источник (thestreet): Ackman just walked away from Google
+[2026-08-19 18:01:17] Неизвестный источник (financial post): Six Canadian cities top tech employment 
+[2026-08-19 18:01:17] Неизвестный источник (siliconangle news): Hypercubic raises $5.3M to map out and r
+[2026-08-19 18:01:17] Неизвестный источник (psychology today): 6 Reasons to Avoid Using AI in Coercive 
+[2026-08-19 18:01:17] Неизвестный источник (siliconangle news): Firefox updates Smart Window: A new in-b
+[2026-08-19 18:01:17] Неизвестный источник (4sysops.com): U.S. bullies countries to choose sides a
+[2026-08-19 18:01:17] Неизвестный источник (pr newswire uk): Network-attached Storage (NAS) Market wo
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): Network-attached Storage (NAS) Market wo
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Disentangling sensory contributions to p
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Protocol for a pilot effectiveness and f
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Comparative analysis of machine learning
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Deep learning applications in osteosarco
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Exploring hardware implementation feasib
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Unmasking conversational bias in AI mult
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Cerebellum-inspired neural network of su
+[2026-08-19 18:01:17] Неизвестный источник (plos.org): Can intrinsic loop energetics predict G-
+[2026-08-19 18:01:17] Неизвестный источник (dw (english)): Fact check: How do I spot AI-generated i
+[2026-08-19 18:01:17] Нет фото: AIxC Announces Strategic Pivot to Physic
+[2026-08-19 18:01:17] Неизвестный источник (search engine journal): What We Can Learn From Evolving ChatGPT 
+[2026-08-19 18:01:17] Неизвестный источник (businessline): Artificial Intelligence, Quantum Tech to
+[2026-08-19 18:01:17] Неизвестный источник (siliconangle news): Portnox adds Microsoft Defender integrat
+[2026-08-19 18:01:17] Неизвестный источник (securityweek.com): AI-Driven Vulnerability Surge Breaks the
+[2026-08-19 18:01:17] Неизвестный источник (philo.gay): Using the railway network as a flatbed s
+[2026-08-19 18:01:17] Неизвестный источник (internet): AI "Mind Viruses" Can Spread Between Age
+[2026-08-19 18:01:17] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) An
+[2026-08-19 18:01:17] Неизвестный источник (business standard): Razorpay builds proprietary AI model Vul
+[2026-08-19 18:01:17] Нет фото: The Custodian of the Two Holy Mosques Ch
+[2026-08-19 18:01:17] Неизвестный источник (protothema.gr): University of Ioannina: €3.5 million int
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): FORT Robotics to Go Public via Business 
+[2026-08-19 18:01:17] Неизвестный источник (prnewswire): FORT Robotics to Go Public via Business 
+[2026-08-19 18:01:17] Неизвестный источник (business standard): Audiences and platforms push back on AI 
+[2026-08-19 18:01:17] Нет фото: Options Announces CIX Trading, Canada’s 
+[2026-08-19 18:01:17] Неизвестный источник (business insider): DARPA wants robots to 3D print concrete 
+[2026-08-19 18:01:17] AI новости: найдено 0 после фильтрации
+[2026-08-19 18:01:17] ⚠️ Блок *AI вечер* (19.08.2026) — новостей не найдено!
+[2026-08-19 18:01:17] === Блок ai_evening завершён ===
