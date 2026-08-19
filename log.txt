@@ -38891,3 +38891,86 @@ Nithya
 [2026-08-19 11:06:11] Попытка 3 для: A dispute about fact vs. fiction at the 
 [2026-08-19 11:06:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-19 11:06:22] === Блок midday завершён ===
+[2026-08-19 16:01:21] Загружено 2995 уже отправленных новостей
+[2026-08-19 16:01:21] === Запуск блока: evening ===
+[2026-08-19 16:01:21] Неизвестный источник (cnbc): Disney-owned ABC files First Amendment l
+[2026-08-19 16:01:21] Неизвестный источник (mma fighting): Matt Brown reacts to Din Thomas dropping
+[2026-08-19 16:01:21] Неизвестный источник (fox business): OpenAI builds dedicated ChatGPT experien
+[2026-08-19 16:01:21] Неизвестный источник (fox news): Oil prices rise as resolution to Iran wa
+[2026-08-19 16:01:21] Неизвестный источник (variety): ‘Ice Princess’ Director Remembers Stars 
+[2026-08-19 16:01:21] Неизвестный источник (wabc-tv): 14 charged in alleged cocaine traffickin
+[2026-08-19 16:01:21] Неизвестный источник (cnbc): Home Depot reaffirms guidance amid 'froz
+[2026-08-19 16:01:21] Неизвестный источник (mashable): Rosie O'Donnell calls out 'Mango Mussoli
+[2026-08-19 16:01:21] Неизвестный источник (space.com): Watch European astronaut make history du
+[2026-08-19 16:01:21] Заблокированный источник (sciencealert): Our Survival Might One Day Rely on Nukin
+[2026-08-19 16:01:21] Неизвестный источник (wral.com): Ticks carrying Lyme disease are gaining 
+[2026-08-19 16:01:21] Неизвестный источник (espn): Jeanie Buss contesting family's sale of 
+[2026-08-19 16:01:21] Неизвестный источник (kcci des moines): Iowa officials identify places visited d
+[2026-08-19 16:01:21] Неизвестный источник (pbs): Mom and sister testify about Lindsay Cla
+[2026-08-19 16:01:21] Неизвестный источник (nbcsports.com): Ohio State and Oregon are 1-2 in the AP 
+[2026-08-19 16:01:21] Мировые новости: найдено 11 после фильтрации
+[2026-08-19 16:01:21] Нет фото: Climate litigation: the legal landscape 
+[2026-08-19 16:01:21] Нет фото: Raytheon wins Navy bid for $22.9B to pro
+[2026-08-19 16:01:21] Заблокированный источник (sputnikglobe.com): Russia Strikes Ship With Military Equipm
+[2026-08-19 16:01:21] Заблокированный источник (breitbart news): Video: Jimmy Fallon Cracks Shocking Mela
+[2026-08-19 16:01:21] Заблокированный источник (rt): Russian and Egyptian nuclear authorities
+[2026-08-19 16:01:21] Нет фото: Ukraine aims a drone blitz at Moscow as 
+[2026-08-19 16:01:21] Внутренний дубль: Risen, Ascania sign MoUs for solar and battery sto
+[2026-08-19 16:01:21] Украинские новости: найдено 5 после фильтрации
+[2026-08-19 16:01:22] Нет фото: Dismissed Ex-Defense Minister Says Ukrai
+[2026-08-19 16:01:22] Харьков: найдена новость — Russian missile attack kills 10 in northeast Ukrai
+[2026-08-19 16:01:24] Обрабатываю: Is Coyote vs. Acme really great or do people just hate David
+[2026-08-19 16:01:24] Попытка 1 для: Is Coyote vs. Acme really great or do pe
+[2026-08-19 16:01:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:01:34] Попытка 2 для: Is Coyote vs. Acme really great or do pe
+[2026-08-19 16:01:34] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:01:44] Попытка 3 для: Is Coyote vs. Acme really great or do pe
+[2026-08-19 16:01:44] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:01:55] Пауза 60 секунд...
+[2026-08-19 16:02:55] Обрабатываю: Ukraine aims a drone blitz at Moscow as Russian missiles kil
+[2026-08-19 16:02:55] Попытка 1 для: Ukraine aims a drone blitz at Moscow as 
+[2026-08-19 16:02:55] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:03:05] Попытка 2 для: Ukraine aims a drone blitz at Moscow as 
+[2026-08-19 16:03:05] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:03:15] Попытка 3 для: Ukraine aims a drone blitz at Moscow as 
+[2026-08-19 16:03:15] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:03:26] Пауза 60 секунд...
+[2026-08-19 16:04:26] Обрабатываю: Microsoft Copilot reveals secret input that allowed it to be
+[2026-08-19 16:04:26] Попытка 1 для: Microsoft Copilot reveals secret input t
+[2026-08-19 16:04:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:04:36] Попытка 2 для: Microsoft Copilot reveals secret input t
+[2026-08-19 16:04:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:04:46] Попытка 3 для: Microsoft Copilot reveals secret input t
+[2026-08-19 16:04:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:04:57] Пауза 60 секунд...
+[2026-08-19 16:05:57] Обрабатываю: Stock Market Today: Global Bond Rout Deepens, Nasdaq Futures
+[2026-08-19 16:05:57] Попытка 1 для: Stock Market Today: Global Bond Rout Dee
+[2026-08-19 16:05:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:06:07] Попытка 2 для: Stock Market Today: Global Bond Rout Dee
+[2026-08-19 16:06:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:06:17] Попытка 3 для: Stock Market Today: Global Bond Rout Dee
+[2026-08-19 16:06:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:06:30] Обрабатываю: Handsome Kennedy heir, 32, is put on Putin's most wanted lis
+[2026-08-19 16:06:30] Попытка 1 для: Handsome Kennedy heir, 32, is put on Put
+[2026-08-19 16:06:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:06:40] Попытка 2 для: Handsome Kennedy heir, 32, is put on Put
+[2026-08-19 16:06:40] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:06:50] Попытка 3 для: Handsome Kennedy heir, 32, is put on Put
+[2026-08-19 16:06:50] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:07:01] Пауза 60 секунд...
+[2026-08-19 16:08:01] Обрабатываю: Russia’s oil exports slump as Ukraine drone strikes hammer p
+[2026-08-19 16:08:01] Попытка 1 для: Russia’s oil exports slump as Ukraine dr
+[2026-08-19 16:08:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:08:11] Попытка 2 для: Russia’s oil exports slump as Ukraine dr
+[2026-08-19 16:08:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:08:21] Попытка 3 для: Russia’s oil exports slump as Ukraine dr
+[2026-08-19 16:08:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:08:32] Пауза 60 секунд...
+[2026-08-19 16:09:32] Обрабатываю: Russian missile attack kills 10 in northeast Ukraine, Zelens
+[2026-08-19 16:09:32] Попытка 1 для: Russian missile attack kills 10 in north
+[2026-08-19 16:09:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:09:42] Попытка 2 для: Russian missile attack kills 10 in north
+[2026-08-19 16:09:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:09:52] Попытка 3 для: Russian missile attack kills 10 in north
+[2026-08-19 16:09:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 16:10:03] === Блок evening завершён ===
