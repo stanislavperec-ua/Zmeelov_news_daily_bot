@@ -38777,3 +38777,67 @@ Nithya
 [2026-08-19 06:09:49] Попытка 3 для: 10 killed in Kharkiv as Ukraine hits Mos
 [2026-08-19 06:09:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-19 06:09:59] === Блок morning завершён ===
+[2026-08-19 08:01:18] Загружено 2988 уже отправленных новостей
+[2026-08-19 08:01:18] === Запуск блока: ai_morning ===
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): Ciklum partners with ClickHouse to speed
+[2026-08-19 08:01:18] Неизвестный источник (business insider): Balaji Srinivasan's attempt to build a '
+[2026-08-19 08:01:18] Неизвестный источник (andros.dev): Finger: Social network that never died
+[2026-08-19 08:01:18] Неизвестный источник (substack.com): Minor Politics, Major Yoke: On the Illus
+[2026-08-19 08:01:18] Неизвестный источник (internet): CISA Flags Actively Exploited Ray Flaw T
+[2026-08-19 08:01:18] Неизвестный источник (vornews.com): Canada's Economic Decline: Is it a Warni
+[2026-08-19 08:01:18] Нет фото: Which part of the fish is used to sense 
+[2026-08-19 08:01:18] Неизвестный источник (americanthinker.com): Space Junk And The Coming Crisis In Low 
+[2026-08-19 08:01:18] Неизвестный источник (cdc.gov): Temporal Alignment of Wastewater Signals
+[2026-08-19 08:01:18] Неизвестный источник (sqlauthority.com): Your Second Skill Was Never a Parachute
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): African defense tech startup Terra Indus
+[2026-08-19 08:01:18] Неизвестный источник (activistpost.com): Teaching AI to Love Israel One Bot at a 
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): Cursor launches Origin code hosting serv
+[2026-08-19 08:01:18] Нет фото: Artificial neural network–based phase-sh
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): Google pays $10M to get its hands on Spi
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): AI cloud operator Groq raises $350M more
+[2026-08-19 08:01:18] Неизвестный источник (the punch): Nigeria explores fibre expansion to slas
+[2026-08-19 08:01:18] Неизвестный источник (www.gov.uk): Lanarkshire AI Growth Zone secures £300 
+[2026-08-19 08:01:18] Неизвестный источник (financial post): News of the day: Inflation creeps higher
+[2026-08-19 08:01:18] Неизвестный источник (usa today): Today in sports history, September 5
+[2026-08-19 08:01:18] Неизвестный источник (hypepotamus.com): Predicate Uses Voice & Vital Signs to Sp
+[2026-08-19 08:01:18] Неизвестный источник (fox news): Harvard, NYU among 30 universities hit w
+[2026-08-19 08:01:18] Неизвестный источник (usa today): Today in sports history, September 4
+[2026-08-19 08:01:18] Неизвестный источник (usa today): Today in sports history, September 3
+[2026-08-19 08:01:18] Неизвестный источник (usa today): Today in sports history, September 1
+[2026-08-19 08:01:18] Неизвестный источник (screen rant): Phillip K. Dick Meets George Orwell In 3
+[2026-08-19 08:01:18] Неизвестный источник (yahoo entertainment): Advanced Micro Devices (AMD) Is Position
+[2026-08-19 08:01:18] Неизвестный источник (pymnts.com): Datavault AI Plans $94.5 Million CyberCa
+[2026-08-19 08:01:18] Неизвестный источник (usa today): Today in sports history, August 30
+[2026-08-19 08:01:18] Неизвестный источник (financial post): Copper squeeze builds with spreads surgi
+[2026-08-19 08:01:18] Неизвестный источник (cna): Pentagon pressure to move AI faster driv
+[2026-08-19 08:01:18] Неизвестный источник (dailymail.com): Americans warned robot vacuums could be 
+[2026-08-19 08:01:18] Неизвестный источник (ieee.org): IEEE Presidents’ Scholarship Honors Teen
+[2026-08-19 08:01:18] Неизвестный источник (siliconangle news): On theCUBE Pod: AI bubble debate heats u
+[2026-08-19 08:01:18] Неизвестный источник (internet): Cavern C2 Uses DNS and Google Apps Scrip
+[2026-08-19 08:01:18] Неизвестный источник (business standard): New factories, aircraft, AI hubs to test
+[2026-08-19 08:01:18] Неизвестный источник (marketbeat): Fortinet Sees Surging Hardware, SASE Dem
+[2026-08-19 08:01:18] AI новости: найдено 3 после фильтрации
+[2026-08-19 08:01:20] Обрабатываю: Pentagon pressure to move AI faster drives Smack's new fundi
+[2026-08-19 08:01:20] Попытка 1 для: Pentagon pressure to move AI faster driv
+[2026-08-19 08:01:20] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:01:30] Попытка 2 для: Pentagon pressure to move AI faster driv
+[2026-08-19 08:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:01:41] Попытка 3 для: Pentagon pressure to move AI faster driv
+[2026-08-19 08:01:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:01:51] Пауза 60 секунд...
+[2026-08-19 08:02:51] Обрабатываю: Bytes and Bullets: Study of AI arms race is meticulously res
+[2026-08-19 08:02:51] Попытка 1 для: Bytes and Bullets: Study of AI arms race
+[2026-08-19 08:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:03:01] Попытка 2 для: Bytes and Bullets: Study of AI arms race
+[2026-08-19 08:03:01] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:03:11] Попытка 3 для: Bytes and Bullets: Study of AI arms race
+[2026-08-19 08:03:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:03:22] Пауза 60 секунд...
+[2026-08-19 08:04:22] Обрабатываю: Raw Data, Wrong Answers
+[2026-08-19 08:04:22] Попытка 1 для: Raw Data, Wrong Answers
+[2026-08-19 08:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:04:32] Попытка 2 для: Raw Data, Wrong Answers
+[2026-08-19 08:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:04:42] Попытка 3 для: Raw Data, Wrong Answers
+[2026-08-19 08:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-19 08:04:53] === Блок ai_morning завершён ===
