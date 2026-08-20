@@ -39218,3 +39218,92 @@ Nithya
 [2026-08-20 11:06:11] Попытка 3 для: Alleged leader of Penn State frat cocain
 [2026-08-20 11:06:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-20 11:06:22] === Блок midday завершён ===
+[2026-08-20 16:01:13] Загружено 3016 уже отправленных новостей
+[2026-08-20 16:01:13] === Запуск блока: evening ===
+[2026-08-20 16:01:14] Неизвестный источник (cnbc): Stock futures jump as Treasury action re
+[2026-08-20 16:01:14] Неизвестный источник (formula 1): Carlos Sainz agrees new multi-year contr
+[2026-08-20 16:01:14] Неизвестный источник (tvline): Taylor Sheridan's Yellowstone Spin-Off 6
+[2026-08-20 16:01:14] Неизвестный источник (espn): Ex-Wimbledon finalist Kyrgios says he te
+[2026-08-20 16:01:14] Неизвестный источник (fox news): Trump says Iran blockade remains in effe
+[2026-08-20 16:01:14] Неизвестный источник (fox news): Popular daily drinking habit could nearl
+[2026-08-20 16:01:14] Неизвестный источник (minneapolis star tribune): Target doubles profit, boosted by $1 bil
+[2026-08-20 16:01:14] Неизвестный источник (yahoo entertainment): Meta social media addiction trial kicks 
+[2026-08-20 16:01:14] Неизвестный источник (alaska public media news): U.S. Senate race will have two Dan Sulli
+[2026-08-20 16:01:14] Неизвестный источник (space daily): NASA's Dragonfly rotorcraft will launch 
+[2026-08-20 16:01:14] Неизвестный источник (variety): ‘Supergirl’ Star David Krumholtz Posts a
+[2026-08-20 16:01:14] Неизвестный источник (9to5google.com): Pixel Watch 1 not losing Google Health s
+[2026-08-20 16:01:14] Неизвестный источник (mma fighting): DWCS Results: Season 10, Week 2 - MMA Fi
+[2026-08-20 16:01:14] Неизвестный источник (phys.org): Krypton gas emerges as a new ingredient 
+[2026-08-20 16:01:14] Неизвестный источник (macrumors): Apple's iPhone 18 Release Schedule: What
+[2026-08-20 16:01:14] Неизвестный источник (usa today): Belal Muhammad on Ian Machado Garry at U
+[2026-08-20 16:01:14] Неизвестный источник (android authority): Google begins rolling out Android’s cont
+[2026-08-20 16:01:14] Неизвестный источник (wlwt cincinnati): Vaccination exemption rates for US kinde
+[2026-08-20 16:01:14] Неизвестный источник (channel3000.com - wisc-tv3): Measles outbreak in southwestern Wiscons
+[2026-08-20 16:01:14] Неизвестный источник (thefp.com): She Killed Her Three Children. Is She Gu
+[2026-08-20 16:01:14] Мировые новости: найдено 11 после фильтрации
+[2026-08-20 16:01:14] Нет фото: Defense minister dismissed by Zelensky d
+[2026-08-20 16:01:14] Нет фото: Ukraine updates: Ousted minister Fedorov
+[2026-08-20 16:01:14] Нет фото: Prosecutors For Crimea Investigate Archa
+[2026-08-20 16:01:14] Нет фото: Ukraine’s Ex-Defense Minister Calls for 
+[2026-08-20 16:01:14] Нет фото: Israel strikes an air base in Syria to p
+[2026-08-20 16:01:14] Нет фото: International Atomic Energy Agency Digs 
+[2026-08-20 16:01:14] Заблокированный источник (sputnikglobe.com): Russia’s Pantsir Air and Missile Defense
+[2026-08-20 16:01:14] Украинские новости: найдено 11 после фильтрации
+[2026-08-20 16:01:14] Нет фото: 103 Ukrainian warriors freed from russia
+[2026-08-20 16:01:14] Заблокированный источник (breitbart news): Ukraine Launches Major 600+ Drone Blitz 
+[2026-08-20 16:01:14] Харьков: найдена новость — Russian missile strike kills 10 civilians in Khark
+[2026-08-20 16:01:16] Обрабатываю: Live updates: UAE halts trade with Iran after accusing Tehra
+[2026-08-20 16:01:16] Попытка 1 для: Live updates: UAE halts trade with Iran 
+[2026-08-20 16:01:16] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:01:26] Попытка 2 для: Live updates: UAE halts trade with Iran 
+[2026-08-20 16:01:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:01:37] Попытка 3 для: Live updates: UAE halts trade with Iran 
+[2026-08-20 16:01:37] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:01:47] Пауза 60 секунд...
+[2026-08-20 16:02:47] Обрабатываю: U.S. military drills with South Korea are cut short after su
+[2026-08-20 16:02:47] Попытка 1 для: U.S. military drills with South Korea ar
+[2026-08-20 16:02:47] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:02:57] Попытка 2 для: U.S. military drills with South Korea ar
+[2026-08-20 16:02:57] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:03:07] Попытка 3 для: U.S. military drills with South Korea ar
+[2026-08-20 16:03:07] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:03:18] Пауза 60 секунд...
+[2026-08-20 16:04:18] Обрабатываю: U.S. delays 50% tariff on Canadian imports. And, takeaways f
+[2026-08-20 16:04:18] Попытка 1 для: U.S. delays 50% tariff on Canadian impor
+[2026-08-20 16:04:18] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:04:28] Попытка 2 для: U.S. delays 50% tariff on Canadian impor
+[2026-08-20 16:04:28] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:04:38] Попытка 3 для: U.S. delays 50% tariff on Canadian impor
+[2026-08-20 16:04:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:04:48] Пауза 60 секунд...
+[2026-08-20 16:05:48] Обрабатываю: Ohio death row inmate Tyrone Noling gets rare chance to ask 
+[2026-08-20 16:05:48] Попытка 1 для: Ohio death row inmate Tyrone Noling gets
+[2026-08-20 16:05:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:05:58] Попытка 2 для: Ohio death row inmate Tyrone Noling gets
+[2026-08-20 16:05:59] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:06:09] Попытка 3 для: Ohio death row inmate Tyrone Noling gets
+[2026-08-20 16:06:09] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:06:21] Обрабатываю: Photos: Drone Attacks on Russia’s Wildberries Warehouses
+[2026-08-20 16:06:21] Попытка 1 для: Photos: Drone Attacks on Russia’s Wildbe
+[2026-08-20 16:06:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:06:32] Попытка 2 для: Photos: Drone Attacks on Russia’s Wildbe
+[2026-08-20 16:06:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:06:42] Попытка 3 для: Photos: Drone Attacks on Russia’s Wildbe
+[2026-08-20 16:06:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:06:52] Пауза 60 секунд...
+[2026-08-20 16:07:52] Обрабатываю: Ukraine Is Winning In Escalating Space War With Russia, Scho
+[2026-08-20 16:07:52] Попытка 1 для: Ukraine Is Winning In Escalating Space W
+[2026-08-20 16:07:52] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:08:02] Попытка 2 для: Ukraine Is Winning In Escalating Space W
+[2026-08-20 16:08:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:08:12] Попытка 3 для: Ukraine Is Winning In Escalating Space W
+[2026-08-20 16:08:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:08:23] Пауза 60 секунд...
+[2026-08-20 16:09:23] Обрабатываю: Russian missile strike kills 10 civilians in Kharkiv
+[2026-08-20 16:09:23] Попытка 1 для: Russian missile strike kills 10 civilian
+[2026-08-20 16:09:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:09:33] Попытка 2 для: Russian missile strike kills 10 civilian
+[2026-08-20 16:09:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:09:43] Попытка 3 для: Russian missile strike kills 10 civilian
+[2026-08-20 16:09:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 16:09:54] === Блок evening завершён ===
