@@ -39108,3 +39108,64 @@ Nithya
 [2026-08-20 06:09:50] Попытка 3 для: Russian missile strike kills 10 civilian
 [2026-08-20 06:09:50] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-20 06:10:01] === Блок morning завершён ===
+[2026-08-20 08:01:21] Загружено 3009 уже отправленных новостей
+[2026-08-20 08:01:21] === Запуск блока: ai_morning ===
+[2026-08-20 08:01:21] Неизвестный источник (cbc news): Top global basic income experts in Toron
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): HTX Hot Listings Weekly Recap (Aug 10-16
+[2026-08-20 08:01:21] Неизвестный источник (europa.eu): Christine Lagarde: Panel remarks about t
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Graphwise aims to become the semantic la
+[2026-08-20 08:01:21] Неизвестный источник (onefootball.com): With lower prices, Santos FC open ticket
+[2026-08-20 08:01:21] Нет фото: How accurate is BirdNET app?
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Healthcare software firm Weave Communica
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): OpenAI’s junior version of ChatGPT with 
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): OpenAI falls further behind Anthropic, w
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): OpenAI paused some AI training runs over
+[2026-08-20 08:01:21] Неизвестный источник (bleeding cool news): Powers 25 #12 Preview: Everybody Confess
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Velaura AI raises $110M to develop power
+[2026-08-20 08:01:21] Неизвестный источник (new york post): Florida Rep. Randy Fine trounces Jew-hat
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Google partners with the aviation indust
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Inference chip startup Etched raises ano
+[2026-08-20 08:01:21] Неизвестный источник (sports illustrated): Colorado Buffaloes Add New Sponsor to Fo
+[2026-08-20 08:01:21] Неизвестный источник (the daily caller): It’s Not Just Data Centers: Privately Ow
+[2026-08-20 08:01:21] Неизвестный источник (digital journal): Your Wi-Fi knows more than you think: Re
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Fortinet’s Virtue AI acquisition rebalan
+[2026-08-20 08:01:21] Неизвестный источник (bitcoinfoundation.org): Tether Plans AI Apps for Developing Mark
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): SAINT JOSEPH'S UNIVERSITY ANNOUNCES THE 
+[2026-08-20 08:01:21] Неизвестный источник (marketbeat): The AI Boom Is Turning This Cable Maker 
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): CLA Heartbeat Index: Strong Economic Con
+[2026-08-20 08:01:21] Неизвестный источник (the daily caller): Why The Robocall Plague Seems To Only Be
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): Cornerstone Research Announces New Senio
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): The 22nd Annual Globee® Awards for Techn
+[2026-08-20 08:01:21] Неизвестный источник (thestreet): Ackman just walked away from Google
+[2026-08-20 08:01:21] Неизвестный источник (financial post): Six Canadian cities top tech employment 
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Hypercubic raises $5.3M to map out and r
+[2026-08-20 08:01:21] Неизвестный источник (psychology today): 6 Reasons to Avoid Using AI in Coercive 
+[2026-08-20 08:01:21] Неизвестный источник (siliconangle news): Firefox updates Smart Window: A new in-b
+[2026-08-20 08:01:21] Неизвестный источник (4sysops.com): U.S. bullies countries to choose sides a
+[2026-08-20 08:01:21] Неизвестный источник (pr newswire uk): Network-attached Storage (NAS) Market wo
+[2026-08-20 08:01:21] Неизвестный источник (prnewswire): Network-attached Storage (NAS) Market wo
+[2026-08-20 08:01:21] AI новости: найдено 5 после фильтрации
+[2026-08-20 08:01:24] Обрабатываю: Lung cancer detection in CT scans using extracted nodule fea
+[2026-08-20 08:01:24] Попытка 1 для: Lung cancer detection in CT scans using 
+[2026-08-20 08:01:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:01:34] Попытка 2 для: Lung cancer detection in CT scans using 
+[2026-08-20 08:01:34] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:01:44] Попытка 3 для: Lung cancer detection in CT scans using 
+[2026-08-20 08:01:44] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:01:55] Пауза 60 секунд...
+[2026-08-20 08:02:55] Обрабатываю: Top 10 private banks cut over 10,000 jobs in FY26 as AI resh
+[2026-08-20 08:02:55] Попытка 1 для: Top 10 private banks cut over 10,000 job
+[2026-08-20 08:02:55] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:03:05] Попытка 2 для: Top 10 private banks cut over 10,000 job
+[2026-08-20 08:03:05] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:03:15] Попытка 3 для: Top 10 private banks cut over 10,000 job
+[2026-08-20 08:03:15] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:03:26] Пауза 60 секунд...
+[2026-08-20 08:04:26] Обрабатываю: Large-scale AI-guided liver malignancy diagnosis: multicente
+[2026-08-20 08:04:26] Попытка 1 для: Large-scale AI-guided liver malignancy d
+[2026-08-20 08:04:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:04:36] Попытка 2 для: Large-scale AI-guided liver malignancy d
+[2026-08-20 08:04:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:04:46] Попытка 3 для: Large-scale AI-guided liver malignancy d
+[2026-08-20 08:04:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 08:04:56] === Блок ai_morning завершён ===
