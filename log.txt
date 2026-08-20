@@ -39018,3 +39018,93 @@ Nithya
 [2026-08-19 18:01:17] AI новости: найдено 0 после фильтрации
 [2026-08-19 18:01:17] ⚠️ Блок *AI вечер* (19.08.2026) — новостей не найдено!
 [2026-08-19 18:01:17] === Блок ai_evening завершён ===
+[2026-08-20 06:01:19] Загружено 3002 уже отправленных новостей
+[2026-08-20 06:01:19] === Запуск блока: morning ===
+[2026-08-20 06:01:19] Неизвестный источник (cnbc): China’s backflipping robot maker Unitree
+[2026-08-20 06:01:19] Неизвестный источник (espn): Multiple brawls mar Saints-Cowboys joint
+[2026-08-20 06:01:19] Неизвестный источник (mma fighting): DWCS Results: Season 10, Week 2 - MMA Fi
+[2026-08-20 06:01:19] Неизвестный источник (cnbc): Seoul, Washington to halve joint drills 
+[2026-08-20 06:01:19] Неизвестный источник (nbcsports.com): Roger Goodell’s comments about foreign t
+[2026-08-20 06:01:19] Неизвестный источник (fox business): Treasury yields hit multi-decade highs a
+[2026-08-20 06:01:19] Неизвестный источник (kake): 29-year-old Wichita man identified as to
+[2026-08-20 06:01:19] Неизвестный источник (hollywood reporter): Movie Theater Owners Reverse Course on P
+[2026-08-20 06:01:19] Неизвестный источник (space.com): NASA astronaut and 1st female French spa
+[2026-08-20 06:01:19] Неизвестный источник (channel3000.com - wisc-tv3): Measles outbreak in southwestern Wiscons
+[2026-08-20 06:01:19] Неизвестный источник (macrumors): Apple's Camera AirPods May Launch as 'Ai
+[2026-08-20 06:01:19] Неизвестный источник (gamespot): NBA 2K27 Just Rewrote The Sports Game St
+[2026-08-20 06:01:19] Неизвестный источник (phys.org): Layered rock in India shows potential si
+[2026-08-20 06:01:19] Неизвестный источник (nintendo life): Video: Elden Ring Gameplay Showcase Rele
+[2026-08-20 06:01:19] Неизвестный источник (abcnews.com): Flight attendants and pilots have highes
+[2026-08-20 06:01:19] Мировые новости: найдено 13 после фильтрации
+[2026-08-20 06:01:19] Заблокированный источник (naturalnews.com): U.S. Quietly Builds New Energy Foothold 
+[2026-08-20 06:01:19] Заблокированный источник (naturalnews.com): Russia warns UK will face âconsequence
+[2026-08-20 06:01:19] Нет фото: Flex LNG - Second Quarter 2026 Earnings 
+[2026-08-20 06:01:19] Пропускаю российский фокус: A warehouse burns near Moscow. In Ukraine, drone c
+[2026-08-20 06:01:19] Заблокированный источник (rt): Russia warns UK of ‘consequences’ over d
+[2026-08-20 06:01:19] Нет фото: 5 Types of CHEESE to SAFELY Control Bloo
+[2026-08-20 06:01:19] Нет фото: Cam Higby’s TikTok Account Permanently B
+[2026-08-20 06:01:19] Нет фото: Women in Ukraine’s War: Taking Responsib
+[2026-08-20 06:01:19] Нет фото: Russia's Lavrov says Britain risks being
+[2026-08-20 06:01:19] Нет фото: The Moscow region is hit by almost 800 d
+[2026-08-20 06:01:19] Заблокированный источник (breitbart news): Hayden Panettiere’s Mother Blasts 'Screa
+[2026-08-20 06:01:19] Внутренний дубль: Sacked Ukrainian defence minister calls for presid
+[2026-08-20 06:01:19] Украинские новости: найдено 5 после фильтрации
+[2026-08-20 06:01:19] Заблокированный источник (breitbart news): Ukraine Launches Major 600+ Drone Blitz 
+[2026-08-20 06:01:19] Нет фото: Dismissed Ex-Defense Minister Says Ukrai
+[2026-08-20 06:01:19] Харьков: найдена новость — Russian missile strike kills 10 civilians in Khark
+[2026-08-20 06:01:22] Обрабатываю: Politics drove antisemitism probes against Ivy League school
+[2026-08-20 06:01:22] Попытка 1 для: Politics drove antisemitism probes again
+[2026-08-20 06:01:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:01:32] Попытка 2 для: Politics drove antisemitism probes again
+[2026-08-20 06:01:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:01:42] Попытка 3 для: Politics drove antisemitism probes again
+[2026-08-20 06:01:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:01:53] Пауза 60 секунд...
+[2026-08-20 06:02:53] Обрабатываю: Canada averts fresh wave of US tariffs after Trump extends d
+[2026-08-20 06:02:53] Попытка 1 для: Canada averts fresh wave of US tariffs a
+[2026-08-20 06:02:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:03:03] Попытка 2 для: Canada averts fresh wave of US tariffs a
+[2026-08-20 06:03:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:03:13] Попытка 3 для: Canada averts fresh wave of US tariffs a
+[2026-08-20 06:03:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:03:24] Пауза 60 секунд...
+[2026-08-20 06:04:24] Обрабатываю: Trump’s endorsement and a centrist Dem: Florida governor's r
+[2026-08-20 06:04:24] Попытка 1 для: Trump’s endorsement and a centrist Dem: 
+[2026-08-20 06:04:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:04:34] Попытка 2 для: Trump’s endorsement and a centrist Dem: 
+[2026-08-20 06:04:34] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:04:44] Попытка 3 для: Trump’s endorsement and a centrist Dem: 
+[2026-08-20 06:04:44] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:04:54] Пауза 60 секунд...
+[2026-08-20 06:05:54] Обрабатываю: Witness gets combative in Tupac murder trial
+[2026-08-20 06:05:54] Попытка 1 для: Witness gets combative in Tupac murder t
+[2026-08-20 06:05:54] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:04] Попытка 2 для: Witness gets combative in Tupac murder t
+[2026-08-20 06:06:05] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:15] Попытка 3 для: Witness gets combative in Tupac murder t
+[2026-08-20 06:06:15] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:28] Обрабатываю: Ukraine’s ousted defence minister calls for elections during
+[2026-08-20 06:06:28] Попытка 1 для: Ukraine’s ousted defence minister calls 
+[2026-08-20 06:06:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:38] Попытка 2 для: Ukraine’s ousted defence minister calls 
+[2026-08-20 06:06:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:48] Попытка 3 для: Ukraine’s ousted defence minister calls 
+[2026-08-20 06:06:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:06:59] Пауза 60 секунд...
+[2026-08-20 06:07:59] Обрабатываю: Ukraine: Russia launched 67 airstrikes overnight
+[2026-08-20 06:07:59] Попытка 1 для: Ukraine: Russia launched 67 airstrikes o
+[2026-08-20 06:07:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:08:09] Попытка 2 для: Ukraine: Russia launched 67 airstrikes o
+[2026-08-20 06:08:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:08:19] Попытка 3 для: Ukraine: Russia launched 67 airstrikes o
+[2026-08-20 06:08:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:08:30] Фото не отправилось: 400
+[2026-08-20 06:08:30] Пауза 60 секунд...
+[2026-08-20 06:09:30] Обрабатываю: Russian missile strike kills 10 civilians in Kharkiv
+[2026-08-20 06:09:30] Попытка 1 для: Russian missile strike kills 10 civilian
+[2026-08-20 06:09:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:09:40] Попытка 2 для: Russian missile strike kills 10 civilian
+[2026-08-20 06:09:40] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:09:50] Попытка 3 для: Russian missile strike kills 10 civilian
+[2026-08-20 06:09:50] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 06:10:01] === Блок morning завершён ===
