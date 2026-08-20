@@ -39307,3 +39307,67 @@ Nithya
 [2026-08-20 16:09:43] Попытка 3 для: Russian missile strike kills 10 civilian
 [2026-08-20 16:09:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-20 16:09:54] === Блок evening завершён ===
+[2026-08-20 18:01:23] Загружено 3022 уже отправленных новостей
+[2026-08-20 18:01:23] === Запуск блока: ai_evening ===
+[2026-08-20 18:01:23] Неизвестный источник (landezine.com): 2 – 4 Sept. IFLA Europe Conference 2026 
+[2026-08-20 18:01:23] Неизвестный источник (business standard): India can showcase AI-led 'autonomous en
+[2026-08-20 18:01:23] Неизвестный источник (onlinenews9.in): Mary Kay Accelerates Beauty Innovation a
+[2026-08-20 18:01:23] Неизвестный источник (dailymail.com): What an oasis! Liam Gallagher's north Lo
+[2026-08-20 18:01:23] Неизвестный источник (business standard): Marvell Tech gives Google right to buy u
+[2026-08-20 18:01:23] Неизвестный источник (businessline): How a free wig initiative is centring th
+[2026-08-20 18:01:23] Нет фото: D.HIVE
+[2026-08-20 18:01:23] Неизвестный источник (financial post): 6th Monaco Smart & Sustainable Marina Re
+[2026-08-20 18:01:23] Неизвестный источник (pymnts.com): How Physical AI Is Changing Invoicing, W
+[2026-08-20 18:01:23] Неизвестный источник (anime news network): Ghost in the Shell ‒ Episode 7
+[2026-08-20 18:01:23] Неизвестный источник (prnewswire): TopHat Security, Inc. Announces Series A
+[2026-08-20 18:01:23] Неизвестный источник (cnbc): Marvell pops 6% on AI chip deal that let
+[2026-08-20 18:01:23] Неизвестный источник (marketbeat): Lowe's Companies Q2 Earnings Call Highli
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Harness launches AI agents that triage a
+[2026-08-20 18:01:23] Неизвестный источник (variety): Mariska Hargitay Goes Deep on Hosting th
+[2026-08-20 18:01:23] Неизвестный источник (protothema.gr): This is how you can see whether the poli
+[2026-08-20 18:01:23] Неизвестный источник (financial post): Canadian pension giant turns to Blacksto
+[2026-08-20 18:01:23] Неизвестный источник (globalresearch.ca): Israel Is Paying Millions to Train AI Ch
+[2026-08-20 18:01:23] Нет фото: Floating Sun
+[2026-08-20 18:01:23] Неизвестный источник (prnewswire): As Franchises Race to Adopt AI, Franify 
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Cloudera Anywhere Cloud gives AI agents 
+[2026-08-20 18:01:23] Неизвестный источник (plos.org): Encrypted immunity mediated by peptides
+[2026-08-20 18:01:23] Неизвестный источник (plos.org): Machine learning prediction model for th
+[2026-08-20 18:01:23] Неизвестный источник (plos.org): From ranking to decision: TASC-VS for ca
+[2026-08-20 18:01:23] Неизвестный источник (livemint): Marvell shares jump 12% as Google eyes $
+[2026-08-20 18:01:23] Нет фото: StackAdapt’s AI Delegation Gap Report Re
+[2026-08-20 18:01:23] Неизвестный источник (marketbeat): 190,044 Shares in CVS Health Corporation
+[2026-08-20 18:01:23] Неизвестный источник (prnewswire): XtalPi Holdings Announces 2026 Interim R
+[2026-08-20 18:01:23] Неизвестный источник (business standard): Fashion qcom players expand inventory, s
+[2026-08-20 18:01:23] Неизвестный источник (marketbeat): Antalpha Platform Q2 Earnings Call Highl
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Criminal AI tool Kriminal is mostly just
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Swimlane updates security operations cen
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Adronite launches Codistry AI coding pla
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Cribl buys Radiant Security’s AI SOC tec
+[2026-08-20 18:01:23] Неизвестный источник (siliconangle news): Rundoo raises $30M to expand its AI-nati
+[2026-08-20 18:01:23] Нет фото: Wednesday, August 19, 2026
+[2026-08-20 18:01:23] Нет фото: Industrial Robot Installations Hit Recor
+[2026-08-20 18:01:23] AI новости: найдено 3 после фильтрации
+[2026-08-20 18:01:26] Обрабатываю: Marvell Shares Jump 7% as Google Chip Deal Confirms Custom A
+[2026-08-20 18:01:26] Попытка 1 для: Marvell Shares Jump 7% as Google Chip De
+[2026-08-20 18:01:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:01:36] Попытка 2 для: Marvell Shares Jump 7% as Google Chip De
+[2026-08-20 18:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:01:46] Попытка 3 для: Marvell Shares Jump 7% as Google Chip De
+[2026-08-20 18:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:01:57] Пауза 60 секунд...
+[2026-08-20 18:02:57] Обрабатываю: Elon Musk's X Money Offers a 6% Yield on Cash, but Sen. Eliz
+[2026-08-20 18:02:57] Попытка 1 для: Elon Musk's X Money Offers a 6% Yield on
+[2026-08-20 18:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:03:07] Попытка 2 для: Elon Musk's X Money Offers a 6% Yield on
+[2026-08-20 18:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:03:17] Попытка 3 для: Elon Musk's X Money Offers a 6% Yield on
+[2026-08-20 18:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:03:28] Пауза 60 секунд...
+[2026-08-20 18:04:28] Обрабатываю: How Americans stayed cool before air conditioning: From sitt
+[2026-08-20 18:04:28] Попытка 1 для: How Americans stayed cool before air con
+[2026-08-20 18:04:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:04:38] Попытка 2 для: How Americans stayed cool before air con
+[2026-08-20 18:04:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:04:48] Попытка 3 для: How Americans stayed cool before air con
+[2026-08-20 18:04:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-20 18:04:59] === Блок ai_evening завершён ===
