@@ -39555,3 +39555,89 @@ Nithya
 [2026-08-21 11:06:08] Попытка 3 для: #Resistance Democrats are flopping in pr
 [2026-08-21 11:06:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-21 11:06:19] === Блок midday завершён ===
+[2026-08-21 16:01:18] Загружено 3037 уже отправленных новостей
+[2026-08-21 16:01:18] === Запуск блока: evening ===
+[2026-08-21 16:01:18] Неизвестный источник (heat.com): Cavaliers land Peyton Watson in reported
+[2026-08-21 16:01:18] Неизвестный источник (cnbc): Bessent says Treasury buyback operation 
+[2026-08-21 16:01:18] Неизвестный источник (hollywood reporter): ‘Sons of Anarchy’ Creator Kurt Sutter Re
+[2026-08-21 16:01:18] Неизвестный источник (yahoo entertainment): Walmart stock drops as sales growth slow
+[2026-08-21 16:01:18] Неизвестный источник (fox business): How GLP-1 weight loss drugs are reshapin
+[2026-08-21 16:01:18] Неизвестный источник (mma fighting): Anthony Hernandez: Sean Strickland helpe
+[2026-08-21 16:01:18] Неизвестный источник (espn): Paige Bueckers, Azzi Fudd offer rare com
+[2026-08-21 16:01:18] Неизвестный источник (gsmarena.com): The Google Pixel 11 series is now on sal
+[2026-08-21 16:01:18] Неизвестный источник (salon): Rosie O’Donnell’s return shows ABC is do
+[2026-08-21 16:01:18] Неизвестный источник (android authority): This app does with Pixel 11 Pro's HiLigh
+[2026-08-21 16:01:18] Неизвестный источник (wccftech): LG Display Introduces FLiPP OLED Technol
+[2026-08-21 16:01:18] Неизвестный источник (the-independent.com): Neutrogena stock tumbles as fans vow to 
+[2026-08-21 16:01:18] Неизвестный источник (space.com): A SpaceX rocket slammed into the moon th
+[2026-08-21 16:01:18] Мировые новости: найдено 14 после фильтрации
+[2026-08-21 16:01:18] Нет фото: LA mayoral race descends into vicious ca
+[2026-08-21 16:01:18] Нет фото: Boeing passenger jet's tail hits the gro
+[2026-08-21 16:01:18] Нет фото: The Jason Arday ‘memoir’ that now appear
+[2026-08-21 16:01:18] Заблокированный источник (thegatewaypundit.com): Drone Warfare in Ukraine and the Changin
+[2026-08-21 16:01:18] Нет фото: Russia runs out of petrol at seven in 10
+[2026-08-21 16:01:18] Заблокированный источник (breitbart news): Kim Jong-un's Sister Mocks South Korea, 
+[2026-08-21 16:01:18] Нет фото: California lawmakers want corporations t
+[2026-08-21 16:01:18] Заблокированный источник (sputnikglobe.com): EU Aiding Terrorism by Transferring Inco
+[2026-08-21 16:01:18] Нет фото: FBI confronts Eric Swalwell at Californi
+[2026-08-21 16:01:18] Заблокированный источник (breitbart news): Chancellor Merz Most Unpopular German Le
+[2026-08-21 16:01:18] Нет фото: Costco CEO Ron Vachris rose from forklif
+[2026-08-21 16:01:18] Нет фото: Costco CEO Ron Vachris rose from forklif
+[2026-08-21 16:01:18] Украинские новости: найдено 3 после фильтрации
+[2026-08-21 16:01:18] Харьков: найдена новость — Ukraine gains ground near Kharkiv, foils Russian f
+[2026-08-21 16:01:21] Обрабатываю: Bond market sell-off threatens higher borrowing costs. Here 
+[2026-08-21 16:01:21] Попытка 1 для: Bond market sell-off threatens higher bo
+[2026-08-21 16:01:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:01:31] Попытка 2 для: Bond market sell-off threatens higher bo
+[2026-08-21 16:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:01:41] Попытка 3 для: Bond market sell-off threatens higher bo
+[2026-08-21 16:01:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:01:52] Пауза 60 секунд...
+[2026-08-21 16:02:52] Обрабатываю: Hayden Panettiere’s mom says narcotics investigator was call
+[2026-08-21 16:02:52] Попытка 1 для: Hayden Panettiere’s mom says narcotics i
+[2026-08-21 16:02:52] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:03:02] Попытка 2 для: Hayden Panettiere’s mom says narcotics i
+[2026-08-21 16:03:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:03:12] Попытка 3 для: Hayden Panettiere’s mom says narcotics i
+[2026-08-21 16:03:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:03:22] Пауза 60 секунд...
+[2026-08-21 16:04:22] Обрабатываю: D.C.'s IndyCar race will zoom past museums. Some worry it co
+[2026-08-21 16:04:22] Попытка 1 для: D.C.'s IndyCar race will zoom past museu
+[2026-08-21 16:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:04:32] Попытка 2 для: D.C.'s IndyCar race will zoom past museu
+[2026-08-21 16:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:04:42] Попытка 3 для: D.C.'s IndyCar race will zoom past museu
+[2026-08-21 16:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:04:53] Пауза 60 секунд...
+[2026-08-21 16:05:53] Обрабатываю: Russian missile barrage kills at least 16 people in Ukraine’
+[2026-08-21 16:05:53] Попытка 1 для: Russian missile barrage kills at least 1
+[2026-08-21 16:05:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:03] Попытка 2 для: Russian missile barrage kills at least 1
+[2026-08-21 16:06:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:13] Попытка 3 для: Russian missile barrage kills at least 1
+[2026-08-21 16:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:26] Обрабатываю: Mass Casualties In Large Russian Assault On Ukraine's Capita
+[2026-08-21 16:06:26] Попытка 1 для: Mass Casualties In Large Russian Assault
+[2026-08-21 16:06:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:36] Попытка 2 для: Mass Casualties In Large Russian Assault
+[2026-08-21 16:06:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:46] Попытка 3 для: Mass Casualties In Large Russian Assault
+[2026-08-21 16:06:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:06:57] Фото не отправилось: 400
+[2026-08-21 16:06:57] Пауза 60 секунд...
+[2026-08-21 16:07:57] Обрабатываю: Five fiction books that will help you understand Ukraine
+[2026-08-21 16:07:57] Попытка 1 для: Five fiction books that will help you un
+[2026-08-21 16:07:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:08:07] Попытка 2 для: Five fiction books that will help you un
+[2026-08-21 16:08:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:08:17] Попытка 3 для: Five fiction books that will help you un
+[2026-08-21 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:08:28] Пауза 60 секунд...
+[2026-08-21 16:09:28] Обрабатываю: Ukraine gains ground near Kharkiv, foils Russian flag-raisin
+[2026-08-21 16:09:28] Попытка 1 для: Ukraine gains ground near Kharkiv, foils
+[2026-08-21 16:09:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:09:38] Попытка 2 для: Ukraine gains ground near Kharkiv, foils
+[2026-08-21 16:09:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:09:48] Попытка 3 для: Ukraine gains ground near Kharkiv, foils
+[2026-08-21 16:09:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 16:09:58] === Блок evening завершён ===
