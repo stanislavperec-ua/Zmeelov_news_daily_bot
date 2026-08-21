@@ -39641,3 +39641,67 @@ Nithya
 [2026-08-21 16:09:48] Попытка 3 для: Ukraine gains ground near Kharkiv, foils
 [2026-08-21 16:09:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-21 16:09:58] === Блок evening завершён ===
+[2026-08-21 18:01:11] Загружено 3044 уже отправленных новостей
+[2026-08-21 18:01:11] === Запуск блока: ai_evening ===
+[2026-08-21 18:01:12] Неизвестный источник (oilprice.com): Kazakhstan Caught in the Middle of the U
+[2026-08-21 18:01:12] Неизвестный источник (internet): AI-Generated Exploit Scripts Target Siem
+[2026-08-21 18:01:12] Неизвестный источник (crypto briefing): Bitcoin miners invest $5B in AI infrastr
+[2026-08-21 18:01:12] Неизвестный источник (wwd): Why It Is Important to See Supply Chains
+[2026-08-21 18:01:12] Неизвестный источник (wwd): Why It Is Important to See Supply Chains
+[2026-08-21 18:01:12] Неизвестный источник (dallasexpress.com): School robot gets 'timeout' over links t
+[2026-08-21 18:01:12] Неизвестный источник (marketbeat): Autohome Q2 Earnings Call Highlights
+[2026-08-21 18:01:12] Неизвестный источник (siliconangle news): Cloud cost startup North adds Microsoft 
+[2026-08-21 18:01:12] Неизвестный источник (entrepreneur): Why Entrepreneurs Who Invest in People B
+[2026-08-21 18:01:12] Неизвестный источник (pew research center): How Much of the Internet Is Written With
+[2026-08-21 18:01:12] Неизвестный источник (pr newswire uk): JCET Reports 79.4% YoY Growth in H1 2026
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): JCET Reports 79.4% YoY Growth in H1 2026
+[2026-08-21 18:01:12] Неизвестный источник (yahoo entertainment): How Mastercard CEO is preparing for a wo
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): JCET Reports 79.4% YoY Growth in H1 2026
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): Renowned radiology innovator and longtim
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): Frank Russo Proposes 9.9% Millionaire Ta
+[2026-08-21 18:01:12] Неизвестный источник (researchbuzz.me): North Carolina Data Centers, AI And Poli
+[2026-08-21 18:01:12] Неизвестный источник (the conversation africa): Aliens at 40: from wearable cameras to e
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): Architectural Painting Robot Market wort
+[2026-08-21 18:01:12] Неизвестный источник (crypto briefing): Chainlink’s McCormick envisions AI-drive
+[2026-08-21 18:01:12] Неизвестный источник (plos.org): Retrospective analysis of arthroscopic r
+[2026-08-21 18:01:12] Неизвестный источник (plos.org): CLDN18.2 antibody design with protein la
+[2026-08-21 18:01:12] Неизвестный источник (wwd): Op-Ed: AI’s Last Mile and Why Your Suppl
+[2026-08-21 18:01:12] Неизвестный источник (plos.org): Emergence and phylogeography of the deng
+[2026-08-21 18:01:12] Неизвестный источник (plos.org): Altered brain function associated with n
+[2026-08-21 18:01:12] Неизвестный источник (truthout): Silicon Valley’s Billionaire Cults Are C
+[2026-08-21 18:01:12] Неизвестный источник (medical daily): Families Facing Years Without a Diagnosi
+[2026-08-21 18:01:12] Неизвестный источник (siliconangle news): Zero Networks expands Palo Alto Networks
+[2026-08-21 18:01:12] Нет фото: Nomadar Announces Strategic Partnership 
+[2026-08-21 18:01:12] Неизвестный источник (soyacincau.com): Tencent Cloud announces first Malaysian 
+[2026-08-21 18:01:12] Неизвестный источник (yle news): Half of Finns fear AI will lead to mass 
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): Crogl Selected to Advance AI-Enabled Cyb
+[2026-08-21 18:01:12] Неизвестный источник (financial post): Teranet Appoints Sam Ishak as Chief Info
+[2026-08-21 18:01:12] Нет фото: CLPS Incorporation Sets Industry Benchma
+[2026-08-21 18:01:12] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Mo
+[2026-08-21 18:01:12] Неизвестный источник (prnewswire): Eightco Holdings (NASDAQ: ORBS) Reports 
+[2026-08-21 18:01:12] Неизвестный источник (business standard): Delhi Master Plan 2047 targets 4 mn flat
+[2026-08-21 18:01:12] AI новости: найдено 3 после фильтрации
+[2026-08-21 18:01:14] Обрабатываю: Delhi Master Plan eyes air taxis, air pods to commute in fut
+[2026-08-21 18:01:14] Попытка 1 для: Delhi Master Plan eyes air taxis, air po
+[2026-08-21 18:01:14] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:01:24] Попытка 2 для: Delhi Master Plan eyes air taxis, air po
+[2026-08-21 18:01:24] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:01:34] Попытка 3 для: Delhi Master Plan eyes air taxis, air po
+[2026-08-21 18:01:34] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:01:45] Пауза 60 секунд...
+[2026-08-21 18:02:45] Обрабатываю: 18-year-old California student Seth Jacob Nabat wins $40,000
+[2026-08-21 18:02:45] Попытка 1 для: 18-year-old California student Seth Jaco
+[2026-08-21 18:02:45] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:02:55] Попытка 2 для: 18-year-old California student Seth Jaco
+[2026-08-21 18:02:55] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:03:05] Попытка 3 для: 18-year-old California student Seth Jaco
+[2026-08-21 18:03:05] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:03:15] Пауза 60 секунд...
+[2026-08-21 18:04:15] Обрабатываю: Waymo lifts the lid on the ‘brain’ powering its robotaxis
+[2026-08-21 18:04:15] Попытка 1 для: Waymo lifts the lid on the ‘brain’ power
+[2026-08-21 18:04:15] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:04:25] Попытка 2 для: Waymo lifts the lid on the ‘brain’ power
+[2026-08-21 18:04:25] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:04:35] Попытка 3 для: Waymo lifts the lid on the ‘brain’ power
+[2026-08-21 18:04:35] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 18:04:46] === Блок ai_evening завершён ===
