@@ -39371,3 +39371,76 @@ Nithya
 [2026-08-20 18:04:48] Попытка 3 для: How Americans stayed cool before air con
 [2026-08-20 18:04:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-20 18:04:59] === Блок ai_evening завершён ===
+[2026-08-21 06:01:22] Загружено 3025 уже отправленных новостей
+[2026-08-21 06:01:22] === Запуск блока: morning ===
+[2026-08-21 06:01:23] Неизвестный источник (wpvi-tv): Pilot killed, 2 Pa. State Police trooper
+[2026-08-21 06:01:23] Неизвестный источник (wjla): US national debt hits $40 trillion, risi
+[2026-08-21 06:01:23] Неизвестный источник (fox news): UK Home Office guide tells asylum seeker
+[2026-08-21 06:01:23] Неизвестный источник (usa today): Bodies discovered in Swiss Alps as melti
+[2026-08-21 06:01:23] Неизвестный источник (espn): Sources: Bucs, Vea agree to 1-year exten
+[2026-08-21 06:01:23] Неизвестный источник (mma fighting): Arman Tsarukyan picks surprising name fo
+[2026-08-21 06:01:23] Неизвестный источник (pats pulpit): 6 performances of note from the first Pa
+[2026-08-21 06:01:23] Неизвестный источник (parade): Post Malone Proposes to Christy Lee in U
+[2026-08-21 06:01:23] Неизвестный источник (deadline): Charlie Hunnam Gets ‘Sons Of Anarchy’ Ga
+[2026-08-21 06:01:23] Неизвестный источник (9to5google.com): Gemini Live adds Deep Research as Notebo
+[2026-08-21 06:01:23] Неизвестный источник (space.com): A SpaceX rocket slammed into the moon th
+[2026-08-21 06:01:23] Неизвестный источник (nbcsports.com): Report: Tyler Biadasz out indefinitely w
+[2026-08-21 06:01:23] Неизвестный источник (variety): Box Office: ‘Spider-Man: Brand New Day’ 
+[2026-08-21 06:01:23] Неизвестный источник (space daily): Sophie Adenot became the first French wo
+[2026-08-21 06:01:23] Неизвестный источник (fox news): Former CDC advisor says decline in kinde
+[2026-08-21 06:01:23] Старая новость (2026-08-18T16:43:00Z): Taylor County confirms measles cases in 
+[2026-08-21 06:01:23] Мировые новости: найдено 14 после фильтрации
+[2026-08-21 06:01:23] Заблокированный источник (naturalnews.com): Russia strikes Kyiv defense plants in re
+[2026-08-21 06:01:23] Нет фото: Russia unleashes 'massive attack' on Kyi
+[2026-08-21 06:01:23] Внутренний дубль: Captured Ukrainian-born soldiers tell BBC why they
+[2026-08-21 06:01:23] Украинские новости: найдено 2 после фильтрации
+[2026-08-21 06:01:23] Нет фото: 103 Ukrainian warriors freed from russia
+[2026-08-21 06:01:23] Харьков: новостей не найдено
+[2026-08-21 06:01:25] Обрабатываю: Russia unleashes 'massive attack' on Kyiv, killing at least 
+[2026-08-21 06:01:25] Попытка 1 для: Russia unleashes 'massive attack' on Kyi
+[2026-08-21 06:01:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:01:36] Попытка 2 для: Russia unleashes 'massive attack' on Kyi
+[2026-08-21 06:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:01:46] Попытка 3 для: Russia unleashes 'massive attack' on Kyi
+[2026-08-21 06:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:01:56] Пауза 60 секунд...
+[2026-08-21 06:02:56] Обрабатываю: Alarm in South Korea as Iran dispute with Trump shakes a 72-
+[2026-08-21 06:02:56] Попытка 1 для: Alarm in South Korea as Iran dispute wit
+[2026-08-21 06:02:56] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:03:06] Попытка 2 для: Alarm in South Korea as Iran dispute wit
+[2026-08-21 06:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:03:17] Попытка 3 для: Alarm in South Korea as Iran dispute wit
+[2026-08-21 06:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:03:27] Пауза 60 секунд...
+[2026-08-21 06:04:27] Обрабатываю: Jimmy Gomez being investigated for 'sexual harassments and a
+[2026-08-21 06:04:27] Попытка 1 для: Jimmy Gomez being investigated for 'sexu
+[2026-08-21 06:04:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:04:37] Попытка 2 для: Jimmy Gomez being investigated for 'sexu
+[2026-08-21 06:04:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:04:47] Попытка 3 для: Jimmy Gomez being investigated for 'sexu
+[2026-08-21 06:04:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:04:58] Пауза 60 секунд...
+[2026-08-21 06:05:58] Обрабатываю: NASA calls off mission to rescue Swift gamma-ray observatory
+[2026-08-21 06:05:58] Попытка 1 для: NASA calls off mission to rescue Swift g
+[2026-08-21 06:05:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:06:08] Попытка 2 для: NASA calls off mission to rescue Swift g
+[2026-08-21 06:06:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:06:18] Попытка 3 для: NASA calls off mission to rescue Swift g
+[2026-08-21 06:06:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:06:31] Обрабатываю: Russia and Ukraine Bleed as NATO’s War Threatens to Engulf E
+[2026-08-21 06:06:31] Попытка 1 для: Russia and Ukraine Bleed as NATO’s War T
+[2026-08-21 06:06:31] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:06:41] Попытка 2 для: Russia and Ukraine Bleed as NATO’s War T
+[2026-08-21 06:06:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:06:52] Попытка 3 для: Russia and Ukraine Bleed as NATO’s War T
+[2026-08-21 06:06:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:07:02] Фото не отправилось: 400
+[2026-08-21 06:07:03] Пауза 60 секунд...
+[2026-08-21 06:08:03] Обрабатываю: Captured Ukrainian-born soldiers tell BBC why they fought fo
+[2026-08-21 06:08:03] Попытка 1 для: Captured Ukrainian-born soldiers tell BB
+[2026-08-21 06:08:03] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:08:13] Попытка 2 для: Captured Ukrainian-born soldiers tell BB
+[2026-08-21 06:08:13] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:08:23] Попытка 3 для: Captured Ukrainian-born soldiers tell BB
+[2026-08-21 06:08:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 06:08:34] === Блок morning завершён ===
