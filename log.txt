@@ -39444,3 +39444,59 @@ Nithya
 [2026-08-21 06:08:23] Попытка 3 для: Captured Ukrainian-born soldiers tell BB
 [2026-08-21 06:08:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-21 06:08:34] === Блок morning завершён ===
+[2026-08-21 08:01:24] Загружено 3031 уже отправленных новостей
+[2026-08-21 08:01:24] === Запуск блока: ai_morning ===
+[2026-08-21 08:01:24] Неизвестный источник (prnewswire): Best Lawyers® Announces Most Selective E
+[2026-08-21 08:01:24] Неизвестный источник (cbc news): Surge in vandalism, anti-Muslim rhetoric
+[2026-08-21 08:01:24] Нет фото: ANNarchy 4.8.2.7
+[2026-08-21 08:01:24] Неизвестный источник (onefootball.com): Getting there: Franz Beckenbauer Supercu
+[2026-08-21 08:01:24] Неизвестный источник (protothema.gr): The 14 measures signaling what’s coming 
+[2026-08-21 08:01:24] Заблокированный источник (naturalnews.com): The Compute Famine Isn’t an Accident â
+[2026-08-21 08:01:24] Заблокированный источник (naturalnews.com): Crypto Unchained: The evolution of money
+[2026-08-21 08:01:24] Неизвестный источник (antaranews.com): Indonesia seeks global markets for creat
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): GOP urges top AI firms to do something a
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): Marvell shares jump 9.8% on Google chip 
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): Sanja Fidler’s world model startup Veeda
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): Application reliability startup Temporal
+[2026-08-21 08:01:24] Нет фото: A trans-identifying leader of a cult in 
+[2026-08-21 08:01:24] Неизвестный источник (redhat.com): Why proprietary software isn’t a retrosp
+[2026-08-21 08:01:24] Неизвестный источник (nlppeople.com): 2026 – AI Research Intern – LLMs
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): Stripe buys AI model router OpenRouter i
+[2026-08-21 08:01:24] Неизвестный источник (motley fool australia): Australian Finance Group reports FY26 pr
+[2026-08-21 08:01:24] Неизвестный источник (fox news): Thousands of North Korean IT workers are
+[2026-08-21 08:01:24] Неизвестный источник (siliconangle news): Amazon to significantly expand the avail
+[2026-08-21 08:01:24] Нет фото: Midjourney Plan to Make MRI Level Ultras
+[2026-08-21 08:01:24] Неизвестный источник (theaviationist.com): Block II Upgrades for E-2D Advanced Hawk
+[2026-08-21 08:01:24] Неизвестный источник (prnewswire): Webull Reports Second Quarter 2026 Finan
+[2026-08-21 08:01:24] Неизвестный источник (truthout): What DeFlock? Week of Action Confronts t
+[2026-08-21 08:01:24] Неизвестный источник (financial post): OpenAI to enhance safety processes for p
+[2026-08-21 08:01:24] Неизвестный источник (bmwblog): I Drove BMW’s Forbidden US Diesel 1,500 
+[2026-08-21 08:01:24] Неизвестный источник (digitalcommerce360): Glass launches AI-powered upgrades for i
+[2026-08-21 08:01:24] Неизвестный источник (crypto briefing): Maya Protocol halts operations after $1.
+[2026-08-21 08:01:24] Неизвестный источник (pymnts.com): The Finance Stack’s Great Unbundling Has
+[2026-08-21 08:01:24] Заблокированный источник (barchart.com): Here Is How to Play Tesla Stock After It
+[2026-08-21 08:01:24] Неизвестный источник (nextgov): Report calls for deterrence mechanisms, 
+[2026-08-21 08:01:24] Неизвестный источник (internet): OpenAI Pauses Frontier RL Training as It
+[2026-08-21 08:01:24] Неизвестный источник (marketbeat): SBC Medical Group Q2 Growth Re-Accelerat
+[2026-08-21 08:01:24] Неизвестный источник (landezine.com): 2 – 4 Sept. IFLA Europe Conference 2026 
+[2026-08-21 08:01:24] Неизвестный источник (business standard): India can showcase AI-led 'autonomous en
+[2026-08-21 08:01:24] Неизвестный источник (onlinenews9.in): Mary Kay Accelerates Beauty Innovation a
+[2026-08-21 08:01:24] Неизвестный источник (dailymail.com): What an oasis! Liam Gallagher's north Lo
+[2026-08-21 08:01:24] AI новости: найдено 2 после фильтрации
+[2026-08-21 08:01:26] Обрабатываю: Skeptical Science New Research for Week #34 2026
+[2026-08-21 08:01:26] Попытка 1 для: Skeptical Science New Research for Week 
+[2026-08-21 08:01:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:01:37] Попытка 2 для: Skeptical Science New Research for Week 
+[2026-08-21 08:01:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:01:47] Попытка 3 для: Skeptical Science New Research for Week 
+[2026-08-21 08:01:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:01:57] Фото не отправилось: 400
+[2026-08-21 08:01:57] Пауза 60 секунд...
+[2026-08-21 08:02:57] Обрабатываю: Researcher, heal thyself: meet the scientists studying their
+[2026-08-21 08:02:57] Попытка 1 для: Researcher, heal thyself: meet the scien
+[2026-08-21 08:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:03:07] Попытка 2 для: Researcher, heal thyself: meet the scien
+[2026-08-21 08:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:03:17] Попытка 3 для: Researcher, heal thyself: meet the scien
+[2026-08-21 08:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 08:03:28] === Блок ai_morning завершён ===
