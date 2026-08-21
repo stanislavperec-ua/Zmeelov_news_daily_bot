@@ -39500,3 +39500,58 @@ Nithya
 [2026-08-21 08:03:17] Попытка 3 для: Researcher, heal thyself: meet the scien
 [2026-08-21 08:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-21 08:03:28] === Блок ai_morning завершён ===
+[2026-08-21 11:01:14] Загружено 3033 уже отправленных новостей
+[2026-08-21 11:01:14] === Запуск блока: midday ===
+[2026-08-21 11:01:14] Неизвестный источник (wjla): US national debt hits $40 trillion, risi
+[2026-08-21 11:01:14] Неизвестный источник (wccftech): LG Display Introduces FLiPP OLED Technol
+[2026-08-21 11:01:14] Неизвестный источник (cnbc): Trump scaling down U.S.-South Korea dril
+[2026-08-21 11:01:14] Неизвестный источник (rolling stone): DEA Joins Hayden Panettiere’s Death Inve
+[2026-08-21 11:01:14] Неизвестный источник (espn): Orioles bash MLB technology after Alonso
+[2026-08-21 11:01:14] Неизвестный источник (9to5google.com): Samsung confirms August 27 event for the
+[2026-08-21 11:01:14] Неизвестный источник (eonline.com): Post Malone and Christy Lee Are Engaged 
+[2026-08-21 11:01:14] Неизвестный источник (espn): Sources: Bucs, Vea agree to 1-year exten
+[2026-08-21 11:01:14] Неизвестный источник (deadline): 'Star Wars: Starfighter', 'Lucky' finale
+[2026-08-21 11:01:14] Неизвестный источник (bleeding green nation): Eagles-Patriots Joint Training Camp Prac
+[2026-08-21 11:01:14] Неизвестный источник (space.com): Scientists just found the fastest known 
+[2026-08-21 11:01:14] Неизвестный источник (morningstar.com): Why Bond Yields Are Rising—and Might Kee
+[2026-08-21 11:01:14] Неизвестный источник (gizmodo.com): New NASA Images Reveal Crater Left Behin
+[2026-08-21 11:01:14] Неизвестный источник (android authority): Google built a camera-based tool to esti
+[2026-08-21 11:01:14] Неизвестный источник (new york post): First confirmed case of West Nile detect
+[2026-08-21 11:01:14] Неизвестный источник (nbcsports.com): Report: Tyler Biadasz out indefinitely w
+[2026-08-21 11:01:14] Неизвестный источник (ksl.com): Congo's Ebola outbreak reaches 5,000 cas
+[2026-08-21 11:01:14] Заблокированный источник (sciencealert): People Who Live Past 100 Have a Surprisi
+[2026-08-21 11:01:14] Неизвестный источник (space daily): Sophie Adenot became the first French wo
+[2026-08-21 11:01:14] Неизвестный источник (9to5google.com): 'Moto Snap' magnetic wireless charger le
+[2026-08-21 11:01:14] Мировые новости: найдено 8 после фильтрации
+[2026-08-21 11:01:16] Обрабатываю: Prince Harry and Meghan will move back to the United Kingdom
+[2026-08-21 11:01:16] Попытка 1 для: Prince Harry and Meghan will move back t
+[2026-08-21 11:01:16] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:01:26] Попытка 2 для: Prince Harry and Meghan will move back t
+[2026-08-21 11:01:26] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:01:36] Попытка 3 для: Prince Harry and Meghan will move back t
+[2026-08-21 11:01:36] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:01:47] Пауза 60 секунд...
+[2026-08-21 11:02:47] Обрабатываю: One killed when small plane, state police helicopter collide
+[2026-08-21 11:02:47] Попытка 1 для: One killed when small plane, state polic
+[2026-08-21 11:02:47] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:02:57] Попытка 2 для: One killed when small plane, state polic
+[2026-08-21 11:02:57] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:03:07] Попытка 3 для: One killed when small plane, state polic
+[2026-08-21 11:03:07] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:03:17] Пауза 60 секунд...
+[2026-08-21 11:04:17] Обрабатываю: Chinese court sentences Evergrande founder to life in prison
+[2026-08-21 11:04:17] Попытка 1 для: Chinese court sentences Evergrande found
+[2026-08-21 11:04:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:04:27] Попытка 2 для: Chinese court sentences Evergrande found
+[2026-08-21 11:04:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:04:37] Попытка 3 для: Chinese court sentences Evergrande found
+[2026-08-21 11:04:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:04:48] Пауза 60 секунд...
+[2026-08-21 11:05:48] Обрабатываю: #Resistance Democrats are flopping in primaries
+[2026-08-21 11:05:48] Попытка 1 для: #Resistance Democrats are flopping in pr
+[2026-08-21 11:05:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:05:58] Попытка 2 для: #Resistance Democrats are flopping in pr
+[2026-08-21 11:05:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:06:08] Попытка 3 для: #Resistance Democrats are flopping in pr
+[2026-08-21 11:06:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-21 11:06:19] === Блок midday завершён ===
