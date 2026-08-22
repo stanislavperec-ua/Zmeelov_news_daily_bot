@@ -39855,3 +39855,53 @@ Nithya
 [2026-08-22 08:04:49] Попытка 3 для: Why Is Everyone in Silicon Valley Talkin
 [2026-08-22 08:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 08:05:00] === Блок ai_morning завершён ===
+[2026-08-22 11:01:13] Загружено 3057 уже отправленных новостей
+[2026-08-22 11:01:13] === Запуск блока: midday ===
+[2026-08-22 11:01:13] Неизвестный источник (sports illustrated): Grading the 49ers After their 41-17 Pres
+[2026-08-22 11:01:13] Неизвестный источник (deadline): Chris Hansen Was Not Asked To "Sign Away
+[2026-08-22 11:01:13] Неизвестный источник (wabc-tv): Storms cause flood, tornado warnings in 
+[2026-08-22 11:01:13] Неизвестный источник (kgo-tv): San Andreas Fault: New San Jose State Un
+[2026-08-22 11:01:13] Неизвестный источник (nbcsports.com): A.J. Brown, Jalen Hurts speak for the fi
+[2026-08-22 11:01:13] Неизвестный источник (entertainment weekly): Hayden Panettiere’s mom, Lesley Vogel, r
+[2026-08-22 11:01:13] Неизвестный источник (slate magazine): Harry and Meghan Are Returning to the U.
+[2026-08-22 11:01:13] Неизвестный источник (yahoo entertainment): Walmart stock drops 9% as sales growth s
+[2026-08-22 11:01:13] Неизвестный источник (seeking alpha): Anthropic expects to meet or surpass Spa
+[2026-08-22 11:01:13] Неизвестный источник (9to5google.com): Google releases Pixel 11 series factory 
+[2026-08-22 11:01:13] Неизвестный источник (el país): Ebola outbreak out of control in Democra
+[2026-08-22 11:01:13] Неизвестный источник (variety): ‘The Odyssey’ Beats ‘Deadpool & Wolverin
+[2026-08-22 11:01:13] Неизвестный источник (azfamily): NASA telescope doomed after Flagstaff co
+[2026-08-22 11:01:13] Старая новость (2026-08-19T19:45:23Z): Physicists Think They’ve Discovered a Ne
+[2026-08-22 11:01:13] Старая новость (2026-08-19T11:19:51Z): Former CDC advisor says decline in kinde
+[2026-08-22 11:01:13] Мировые новости: найдено 11 после фильтрации
+[2026-08-22 11:01:16] Обрабатываю: Hong Kong's Tiananmen activists convicted in national securi
+[2026-08-22 11:01:16] Попытка 1 для: Hong Kong's Tiananmen activists convicte
+[2026-08-22 11:01:16] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:01:26] Попытка 2 для: Hong Kong's Tiananmen activists convicte
+[2026-08-22 11:01:26] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:01:36] Попытка 3 для: Hong Kong's Tiananmen activists convicte
+[2026-08-22 11:01:36] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:01:46] Пауза 60 секунд...
+[2026-08-22 11:02:46] Обрабатываю: Jurors hear 'Keffe D' say his nephew fired fatal shots at Tu
+[2026-08-22 11:02:46] Попытка 1 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 11:02:46] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:02:56] Попытка 2 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 11:02:57] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:03:07] Попытка 3 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 11:03:07] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:03:17] Пауза 60 секунд...
+[2026-08-22 11:04:17] Обрабатываю: Charter plane crashes in western Alaska, killing all 8 on bo
+[2026-08-22 11:04:17] Попытка 1 для: Charter plane crashes in western Alaska,
+[2026-08-22 11:04:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:04:27] Попытка 2 для: Charter plane crashes in western Alaska,
+[2026-08-22 11:04:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:04:37] Попытка 3 для: Charter plane crashes in western Alaska,
+[2026-08-22 11:04:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:04:48] Пауза 60 секунд...
+[2026-08-22 11:05:48] Обрабатываю: Navy discusses renaming aircraft carrier after Trump instead
+[2026-08-22 11:05:48] Попытка 1 для: Navy discusses renaming aircraft carrier
+[2026-08-22 11:05:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:05:58] Попытка 2 для: Navy discusses renaming aircraft carrier
+[2026-08-22 11:05:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:06:08] Попытка 3 для: Navy discusses renaming aircraft carrier
+[2026-08-22 11:06:09] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 11:06:19] === Блок midday завершён ===
