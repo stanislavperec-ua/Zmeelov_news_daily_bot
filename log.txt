@@ -39705,3 +39705,90 @@ Nithya
 [2026-08-21 18:04:35] Попытка 3 для: Waymo lifts the lid on the ‘brain’ power
 [2026-08-21 18:04:35] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-21 18:04:46] === Блок ai_evening завершён ===
+[2026-08-22 06:01:22] Загружено 3047 уже отправленных новостей
+[2026-08-22 06:01:22] === Запуск блока: morning ===
+[2026-08-22 06:01:23] Неизвестный источник (wabc-tv): Tornado Long Island: Nassau County decla
+[2026-08-22 06:01:23] Неизвестный источник (nbcsports.com): Fernando Mendoza throws pick-six, leads 
+[2026-08-22 06:01:23] Неизвестный источник (kabc-tv): San Andreas Fault: New San Jose State Un
+[2026-08-22 06:01:23] Неизвестный источник (entertainment weekly): Hayden Panettiere’s mom, Lesley Vogel, r
+[2026-08-22 06:01:23] Неизвестный источник (hollywood reporter): L.A. Mayor Karen Bass Throws Her Support
+[2026-08-22 06:01:23] Неизвестный источник (pats pulpit): 5 performances of note from the second P
+[2026-08-22 06:01:23] Неизвестный источник (yahoo entertainment): Walmart stock drops 9% as sales growth s
+[2026-08-22 06:01:23] Неизвестный источник (9to5google.com): Google releases Pixel 11 series factory 
+[2026-08-22 06:01:23] Неизвестный источник (forbes): Why Is Moderna Stock Down Today? - Forbe
+[2026-08-22 06:01:23] Неизвестный источник (el país): Ebola outbreak out of control in Democra
+[2026-08-22 06:01:23] Неизвестный источник (wpvi-tv): Paul Sokolosk identified as pilot killed
+[2026-08-22 06:01:23] Неизвестный источник (variety): ‘The Odyssey’ Beats ‘Deadpool & Wolverin
+[2026-08-22 06:01:23] Неизвестный источник (nintendo life): Fortnite Admin Panel Lobby Hack Codes Li
+[2026-08-22 06:01:23] Неизвестный источник (phys.org): Rescue mission is called off for NASA's 
+[2026-08-22 06:01:23] Старая новость (2026-08-19T17:45:43Z): Earth Is Missing a Billion Years of Hist
+[2026-08-22 06:01:23] Мировые новости: найдено 13 после фильтрации
+[2026-08-22 06:01:23] Заблокированный источник (naturalnews.com): U.S. Robotics Company Says Humanoid Robo
+[2026-08-22 06:01:23] Заблокированный источник (naturalnews.com): Russia fires missiles near disputed isla
+[2026-08-22 06:01:23] Заблокированный источник (naturalnews.com): Army to Scale Back Drone Battalion Amid 
+[2026-08-22 06:01:23] Заблокированный источник (naturalnews.com): Russian Federal Security Agency arrests 
+[2026-08-22 06:01:23] Нет фото: Meet Fierce “New Black Panther Party” Ch
+[2026-08-22 06:01:23] Заблокированный источник (sputnikglobe.com): EU Refuses to Provide Ukraine With $257M
+[2026-08-22 06:01:23] Нет фото: Army plans to phase out drone unit champ
+[2026-08-22 06:01:23] Нет фото: What happens when interceptor missiles r
+[2026-08-22 06:01:23] Заблокированный источник (rt): Ukraine sanctions creators of hit Russia
+[2026-08-22 06:01:23] Заблокированный источник (rt): US debt tops $40 trillion months earlier
+[2026-08-22 06:01:23] Украинские новости: найдено 2 после фильтрации
+[2026-08-22 06:01:23] Харьков: найдена новость — Russia says 443 Ukrainian drones destroyed near bo
+[2026-08-22 06:01:26] Обрабатываю: Navy discusses renaming aircraft carrier after Trump instead
+[2026-08-22 06:01:26] Попытка 1 для: Navy discusses renaming aircraft carrier
+[2026-08-22 06:01:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:01:36] Попытка 2 для: Navy discusses renaming aircraft carrier
+[2026-08-22 06:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:01:46] Попытка 3 для: Navy discusses renaming aircraft carrier
+[2026-08-22 06:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:01:57] Пауза 60 секунд...
+[2026-08-22 06:02:57] Обрабатываю: California lawmaker Aisha Wahab wins special election to suc
+[2026-08-22 06:02:57] Попытка 1 для: California lawmaker Aisha Wahab wins spe
+[2026-08-22 06:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:03:07] Попытка 2 для: California lawmaker Aisha Wahab wins spe
+[2026-08-22 06:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:03:17] Попытка 3 для: California lawmaker Aisha Wahab wins spe
+[2026-08-22 06:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:03:28] Пауза 60 секунд...
+[2026-08-22 06:04:28] Обрабатываю: Jurors hear 'Keffe D' say his nephew fired fatal shots at Tu
+[2026-08-22 06:04:28] Попытка 1 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 06:04:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:04:38] Попытка 2 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 06:04:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:04:48] Попытка 3 для: Jurors hear 'Keffe D' say his nephew fir
+[2026-08-22 06:04:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:04:59] Пауза 60 секунд...
+[2026-08-22 06:05:59] Обрабатываю: Here's how America's $40 trillion debt can hit your wallet
+[2026-08-22 06:05:59] Попытка 1 для: Here's how America's $40 trillion debt c
+[2026-08-22 06:05:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:06:09] Попытка 2 для: Here's how America's $40 trillion debt c
+[2026-08-22 06:06:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:06:19] Попытка 3 для: Here's how America's $40 trillion debt c
+[2026-08-22 06:06:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:06:32] Обрабатываю: Australia charges man over informing Russia on Ukraine
+[2026-08-22 06:06:32] Попытка 1 для: Australia charges man over informing Rus
+[2026-08-22 06:06:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:06:42] Попытка 2 для: Australia charges man over informing Rus
+[2026-08-22 06:06:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:06:52] Попытка 3 для: Australia charges man over informing Rus
+[2026-08-22 06:06:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:07:03] Пауза 60 секунд...
+[2026-08-22 06:08:03] Обрабатываю: Ukraine: Russia launched 152 drones overnight
+[2026-08-22 06:08:03] Попытка 1 для: Ukraine: Russia launched 152 drones over
+[2026-08-22 06:08:03] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:08:13] Попытка 2 для: Ukraine: Russia launched 152 drones over
+[2026-08-22 06:08:13] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:08:23] Попытка 3 для: Ukraine: Russia launched 152 drones over
+[2026-08-22 06:08:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:08:34] Фото не отправилось: 400
+[2026-08-22 06:08:34] Пауза 60 секунд...
+[2026-08-22 06:09:34] Обрабатываю: Russia says 443 Ukrainian drones destroyed near border
+[2026-08-22 06:09:34] Попытка 1 для: Russia says 443 Ukrainian drones destroy
+[2026-08-22 06:09:34] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:09:44] Попытка 2 для: Russia says 443 Ukrainian drones destroy
+[2026-08-22 06:09:44] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:09:54] Попытка 3 для: Russia says 443 Ukrainian drones destroy
+[2026-08-22 06:09:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 06:10:05] Фото не отправилось: 400
+[2026-08-22 06:10:06] === Блок morning завершён ===
