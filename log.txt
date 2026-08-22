@@ -39792,3 +39792,66 @@ Nithya
 [2026-08-22 06:09:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 06:10:05] Фото не отправилось: 400
 [2026-08-22 06:10:06] === Блок morning завершён ===
+[2026-08-22 08:01:21] Загружено 3054 уже отправленных новостей
+[2026-08-22 08:01:21] === Запуск блока: ai_morning ===
+[2026-08-22 08:01:21] Неизвестный источник (internet): GitLab CVE-2026-19478 Comes Under Active
+[2026-08-22 08:01:21] Неизвестный источник (vanguard): From banking to entertainment: How Niger
+[2026-08-22 08:01:21] Заблокированный источник (naturalnews.com): AI-Powered Decoys Scam-Bait 600,000 Frau
+[2026-08-22 08:01:21] Заблокированный источник (naturalnews.com): Army to Scale Back Drone Battalion Amid 
+[2026-08-22 08:01:21] Неизвестный источник (business standard): From Ridge to Yamuna: Delhi plans a 200-
+[2026-08-22 08:01:21] Неизвестный источник (insurance journal): Viewpoint: If AI Compute Is an Investabl
+[2026-08-22 08:01:21] Неизвестный источник (wattsupwiththat.com): The Data Center Backlash Has a Practical
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Google’s attempt to buy Spirit Airlines’
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Astromech raises $20M to build a biologi
+[2026-08-22 08:01:21] Нет фото: FBI: North Korean IT Workers Infiltratin
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Broadcom reportedly seeking up to $100B 
+[2026-08-22 08:01:21] Нет фото: tin-man-py added to PyPI
+[2026-08-22 08:01:21] Неизвестный источник (businessline): The new kingmakers: Crypto, AI and betti
+[2026-08-22 08:01:21] Неизвестный источник (the punch): Prof Tanko Ishaya: Tenure, truth and the
+[2026-08-22 08:01:21] Неизвестный источник (nlppeople.com): Senior Machine Learning Engineer (Team L
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Report: Anthropic hopes to surpass Space
+[2026-08-22 08:01:21] Неизвестный источник (motley fool australia): Latitude Group profit lifts 39% as divid
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Palo Alto Networks and NTT DATA target $
+[2026-08-22 08:01:21] Неизвестный источник (antaranews.com): Mary Kay Accelerates Beauty Innovation a
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Waymo details the custom chip in its aut
+[2026-08-22 08:01:21] Нет фото: mmaing-aesop 0.2.1
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Muon Space raises $250M at $1.5B valuati
+[2026-08-22 08:01:21] Нет фото: mmaing-aesop 0.2.0
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Twin1 AI raises $20M to put an AI twin b
+[2026-08-22 08:01:21] Нет фото: Di Leo: What if Communism Really Does Wo
+[2026-08-22 08:01:21] Неизвестный источник (fox news): California controller candidate slams ma
+[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): AI workload optimization startup Callosu
+[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
+[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
+[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
+[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
+[2026-08-22 08:01:21] Неизвестный источник (sameerhimati.com): Show HN: Sourcery – Benchmark for search
+[2026-08-22 08:01:21] Неизвестный источник (crypto briefing): AT&T slashes Anthropic costs by up to 90
+[2026-08-22 08:01:21] Неизвестный источник (marketbeat): CTS Eventim AG & Co. KGaA Q2 Earnings Ca
+[2026-08-22 08:01:21] Неизвестный источник (financial post): Anthropic expects to match SpaceX’s reco
+[2026-08-22 08:01:21] Заблокированный источник (barchart.com): Duquesne Management Just Dumped Its Enti
+[2026-08-22 08:01:21] AI новости: найдено 4 после фильтрации
+[2026-08-22 08:01:24] Обрабатываю: One of a Kind Awards: Honouring AI that solves problems beyo
+[2026-08-22 08:01:24] Попытка 1 для: One of a Kind Awards: Honouring AI that 
+[2026-08-22 08:01:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:01:34] Попытка 2 для: One of a Kind Awards: Honouring AI that 
+[2026-08-22 08:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:01:46] Попытка 3 для: One of a Kind Awards: Honouring AI that 
+[2026-08-22 08:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:01:58] Пауза 60 секунд...
+[2026-08-22 08:02:58] Обрабатываю: Piyush Goyal pitches Singapore as springboard for India’s ag
+[2026-08-22 08:02:58] Попытка 1 для: Piyush Goyal pitches Singapore as spring
+[2026-08-22 08:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:03:08] Попытка 2 для: Piyush Goyal pitches Singapore as spring
+[2026-08-22 08:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:03:18] Попытка 3 для: Piyush Goyal pitches Singapore as spring
+[2026-08-22 08:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:03:28] Пауза 60 секунд...
+[2026-08-22 08:04:28] Обрабатываю: Why Is Everyone in Silicon Valley Talking Like That?
+[2026-08-22 08:04:28] Попытка 1 для: Why Is Everyone in Silicon Valley Talkin
+[2026-08-22 08:04:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:04:39] Попытка 2 для: Why Is Everyone in Silicon Valley Talkin
+[2026-08-22 08:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:04:49] Попытка 3 для: Why Is Everyone in Silicon Valley Talkin
+[2026-08-22 08:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 08:05:00] === Блок ai_morning завершён ===
