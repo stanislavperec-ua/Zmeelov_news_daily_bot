@@ -39905,3 +39905,84 @@ Nithya
 [2026-08-22 11:06:08] Попытка 3 для: Navy discusses renaming aircraft carrier
 [2026-08-22 11:06:09] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 11:06:19] === Блок midday завершён ===
+[2026-08-22 16:01:17] Загружено 3060 уже отправленных новостей
+[2026-08-22 16:01:17] === Запуск блока: evening ===
+[2026-08-22 16:01:17] Неизвестный источник (cnbc): U.S. military says it aided passage of 6
+[2026-08-22 16:01:17] Неизвестный источник (the ringer): The 2026-27 Premier League Power Ranking
+[2026-08-22 16:01:17] Заблокированный источник (autosport.com): F1 Dutch GP: Antonelli pips Norris in pr
+[2026-08-22 16:01:17] Неизвестный источник (dw (english)): DRC Ebola outbreak 'growing exponentiall
+[2026-08-22 16:01:17] Неизвестный источник (space.com): Partial lunar eclipse live: Latest news,
+[2026-08-22 16:01:17] Неизвестный источник (cnbc): Longer-dated Treasury yields hold steady
+[2026-08-22 16:01:17] Неизвестный источник (android authority): New ASUS Googlebook leak shows more conf
+[2026-08-22 16:01:17] Неизвестный источник (the-independent.com): Brian Hickerson issues first statement s
+[2026-08-22 16:01:17] Неизвестный источник (mandatory): Hayden Panettiere’s Neighbor Made a Fran
+[2026-08-22 16:01:17] Неизвестный источник (hollywood reporter): Billy Bob Thornton Says “Holly­wood Wasn
+[2026-08-22 16:01:17] Неизвестный источник (wabc-tv): Storms cause flood, tornado warnings in 
+[2026-08-22 16:01:17] Неизвестный источник (9to5google.com): Google posts Pixel Watch 5 factory image
+[2026-08-22 16:01:17] Неизвестный источник (pbs): State lawmaker Aisha Wahab wins Californ
+[2026-08-22 16:01:17] Неизвестный источник (pbs): News Wrap: USS Abraham Lincoln heading h
+[2026-08-22 16:01:17] Неизвестный источник (azfamily): NASA telescope doomed after Flagstaff co
+[2026-08-22 16:01:17] Старая новость (2026-08-20T15:52:07Z): Map shows where Covid cases are rising i
+[2026-08-22 16:01:17] Старая новость (2026-08-20T13:59:50Z): SpaceX’s orbital data centers would crea
+[2026-08-22 16:01:17] Нет фото: Scientists Find Just 3 Minutes of Sprint
+[2026-08-22 16:01:17] Старая новость (2026-08-19T18:00:55Z): A ‘Hidden’ Solar Outburst Just Exposed a
+[2026-08-22 16:01:17] Мировые новости: найдено 13 после фильтрации
+[2026-08-22 16:01:17] Пропускаю российский фокус: Russian expert warns of impending social crisis as
+[2026-08-22 16:01:17] Нет фото: Hegseth angry as Army scraps new SAT min
+[2026-08-22 16:01:17] Заблокированный источник (breitbart news): Democrat Alexander Vindman Giving Away F
+[2026-08-22 16:01:17] Нет фото: Iconic "shark store" in Panama City goes
+[2026-08-22 16:01:17] Нет фото: Substitute teacher arrested after allege
+[2026-08-22 16:01:17] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
+[2026-08-22 16:01:17] Нет фото: What Just Happened in Dearborn, Michigan
+[2026-08-22 16:01:17] Нет фото: Mom Arrested for Punching Teacher, Princ
+[2026-08-22 16:01:17] Украинские новости: найдено 6 после фильтрации
+[2026-08-22 16:01:17] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
+[2026-08-22 16:01:17] Пропускаю уже отправленную: Russia says 443 Ukrainian drones destroyed near bo
+[2026-08-22 16:01:17] Харьков: новостей не найдено
+[2026-08-22 16:01:20] Обрабатываю: Stock Market Today: Dow Opens Higher; Yields Steady — Live U
+[2026-08-22 16:01:20] Попытка 1 для: Stock Market Today: Dow Opens Higher; Yi
+[2026-08-22 16:01:20] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:01:30] Попытка 2 для: Stock Market Today: Dow Opens Higher; Yi
+[2026-08-22 16:01:30] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:01:40] Попытка 3 для: Stock Market Today: Dow Opens Higher; Yi
+[2026-08-22 16:01:40] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:01:51] Пауза 60 секунд...
+[2026-08-22 16:02:51] Обрабатываю: Here's how America's $40 trillion debt can hit your wallet
+[2026-08-22 16:02:51] Попытка 1 для: Here's how America's $40 trillion debt c
+[2026-08-22 16:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:03:01] Попытка 2 для: Here's how America's $40 trillion debt c
+[2026-08-22 16:03:01] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:03:11] Попытка 3 для: Here's how America's $40 trillion debt c
+[2026-08-22 16:03:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:03:22] Пауза 60 секунд...
+[2026-08-22 16:04:22] Обрабатываю: Ground Beef Prices Targeted With New Tariff Relief From Trum
+[2026-08-22 16:04:22] Попытка 1 для: Ground Beef Prices Targeted With New Tar
+[2026-08-22 16:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:04:32] Попытка 2 для: Ground Beef Prices Targeted With New Tar
+[2026-08-22 16:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:04:42] Попытка 3 для: Ground Beef Prices Targeted With New Tar
+[2026-08-22 16:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:04:52] Пауза 60 секунд...
+[2026-08-22 16:05:52] Обрабатываю: Trump declares economic warfare on Iran. And, SCOTUS to rule
+[2026-08-22 16:05:52] Попытка 1 для: Trump declares economic warfare on Iran.
+[2026-08-22 16:05:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:03] Попытка 2 для: Trump declares economic warfare on Iran.
+[2026-08-22 16:06:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:13] Попытка 3 для: Trump declares economic warfare on Iran.
+[2026-08-22 16:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:26] Обрабатываю: Chelsea to host Shakhtar's Champions League home games amid 
+[2026-08-22 16:06:26] Попытка 1 для: Chelsea to host Shakhtar's Champions Lea
+[2026-08-22 16:06:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:36] Попытка 2 для: Chelsea to host Shakhtar's Champions Lea
+[2026-08-22 16:06:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:46] Попытка 3 для: Chelsea to host Shakhtar's Champions Lea
+[2026-08-22 16:06:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:06:56] Пауза 60 секунд...
+[2026-08-22 16:07:56] Обрабатываю: Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia
+[2026-08-22 16:07:56] Попытка 1 для: Ukrainian Drone Attack Hits Lukoil Refin
+[2026-08-22 16:07:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:08:07] Попытка 2 для: Ukrainian Drone Attack Hits Lukoil Refin
+[2026-08-22 16:08:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:08:17] Попытка 3 для: Ukrainian Drone Attack Hits Lukoil Refin
+[2026-08-22 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 16:08:27] === Блок evening завершён ===
