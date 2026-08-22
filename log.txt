@@ -39986,3 +39986,65 @@ Nithya
 [2026-08-22 16:08:17] Попытка 3 для: Ukrainian Drone Attack Hits Lukoil Refin
 [2026-08-22 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 16:08:27] === Блок evening завершён ===
+[2026-08-22 18:01:14] Загружено 3065 уже отправленных новостей
+[2026-08-22 18:01:14] === Запуск блока: ai_evening ===
+[2026-08-22 18:01:14] Неизвестный источник (storagereview.com): SK hynix Takes Its Co-Packaged Optics Ro
+[2026-08-22 18:01:14] Неизвестный источник (researchbuzz.me): National Parks, Lavender Atlas, PFAS in 
+[2026-08-22 18:01:14] Неизвестный источник (courtlistener.com): Order on Motion to Dismiss – #70 in Ted 
+[2026-08-22 18:01:14] Нет фото: RFK Jr. Torches CNN’s Erin Burnett After
+[2026-08-22 18:01:14] Нет фото: WiMi's Next-Generation Quantum Convoluti
+[2026-08-22 18:01:14] Неизвестный источник (macdailynews.com): President Trump and Apple cheer Micron’s
+[2026-08-22 18:01:14] Неизвестный источник (prnewswire): Video Surveillance Storage Market worth 
+[2026-08-22 18:01:14] Неизвестный источник (anime news network): This Week in Games - Sony State of Play:
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Eleven quick tips for Biomedical Federat
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Supplementing Korean artificial intellig
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Microbiome modulation in regeneration in
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Signal hierarchical petri nets: Formal s
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Is a (satellite) image worth a thousand 
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): Power quality enhancement in wind energy
+[2026-08-22 18:01:14] Неизвестный источник (plos.org): FusionPHI: A phage-host interaction pred
+[2026-08-22 18:01:14] Неизвестный источник (businessline): Keralam must harness technology, talent 
+[2026-08-22 18:01:14] Неизвестный источник (vanguard): Anambra’s local AI raises Nigeria’s digi
+[2026-08-22 18:01:14] Нет фото: aigyminsper 0.3.3
+[2026-08-22 18:01:14] Неизвестный источник (ewtnnews.com): Pope Leo to Catholic legislators: Promot
+[2026-08-22 18:01:14] Неизвестный источник (usa today): Is hiring broken? | The Excerpt
+[2026-08-22 18:01:14] Неизвестный источник (prnewswire): CobbleStone® Announces New TXShare Coope
+[2026-08-22 18:01:14] Неизвестный источник (kitploit.com): Sandb0x-Xtract0r
+[2026-08-22 18:01:14] Нет фото: Former FBI General Counsel Brad Brooker 
+[2026-08-22 18:01:14] Нет фото: Zoho Writer - Okay but somewhat confusin
+[2026-08-22 18:01:14] Неизвестный источник (internet): Wazuh and AI For Enhanced SOC Workflows
+[2026-08-22 18:01:14] Неизвестный источник (worldconstructionnetwork.com): PORR awarded contract for X-FAB semicond
+[2026-08-22 18:01:14] Неизвестный источник (forbes): How To Build The Niche Skills Employers 
+[2026-08-22 18:01:14] Нет фото: Australia's cyber experts called to serv
+[2026-08-22 18:01:14] Неизвестный источник (telecomtv): Will AI finally make telecom networks tr
+[2026-08-22 18:01:14] Неизвестный источник (internet): GitLab CVE-2026-19478 Comes Under Active
+[2026-08-22 18:01:14] Неизвестный источник (vanguard): From banking to entertainment: How Niger
+[2026-08-22 18:01:14] Заблокированный источник (naturalnews.com): AI-Powered Decoys Scam-Bait 600,000 Frau
+[2026-08-22 18:01:14] Заблокированный источник (naturalnews.com): Army to Scale Back Drone Battalion Amid 
+[2026-08-22 18:01:14] Неизвестный источник (business standard): From Ridge to Yamuna: Delhi plans a 200-
+[2026-08-22 18:01:14] Неизвестный источник (insurance journal): Viewpoint: If AI Compute Is an Investabl
+[2026-08-22 18:01:14] AI новости: найдено 4 после фильтрации
+[2026-08-22 18:01:17] Обрабатываю: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-22 18:01:17] Попытка 1 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-22 18:01:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:01:27] Попытка 2 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-22 18:01:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:01:37] Попытка 3 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-22 18:01:37] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:01:48] Пауза 60 секунд...
+[2026-08-22 18:02:48] Обрабатываю: Shriram Wealth plans to expand into Rs 10 lakh-Rs 2 crore cl
+[2026-08-22 18:02:48] Попытка 1 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-22 18:02:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:02:58] Попытка 2 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-22 18:02:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:03:08] Попытка 3 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-22 18:03:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:03:19] Пауза 60 секунд...
+[2026-08-22 18:04:19] Обрабатываю: Long before air conditioners, Americans used ‘white gold’ an
+[2026-08-22 18:04:19] Попытка 1 для: Long before air conditioners, Americans 
+[2026-08-22 18:04:19] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:04:29] Попытка 2 для: Long before air conditioners, Americans 
+[2026-08-22 18:04:29] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:04:39] Попытка 3 для: Long before air conditioners, Americans 
+[2026-08-22 18:04:39] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-22 18:04:50] === Блок ai_evening завершён ===
