@@ -40131,3 +40131,66 @@ Nithya
 [2026-08-23 06:08:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-23 06:08:30] Фото не отправилось: 400
 [2026-08-23 06:08:30] === Блок morning завершён ===
+[2026-08-23 08:01:16] Загружено 3074 уже отправленных новостей
+[2026-08-23 08:01:16] === Запуск блока: ai_morning ===
+[2026-08-23 08:01:17] Неизвестный источник (pymnts.com): Your AI Notetaker Would Like a Word
+[2026-08-23 08:01:17] Неизвестный источник (hurriyet daily news): AI-assisted vehicle inspections to begin
+[2026-08-23 08:01:17] Заблокированный источник (naturalnews.com): Comcast Activates WiFi Motion Detection 
+[2026-08-23 08:01:17] Неизвестный источник (bleeding cool news): Absolute Wonder Woman #23 Preview: Gods 
+[2026-08-23 08:01:17] Заблокированный источник (sciencealert): A Single Blood Sample May Reveal The Bio
+[2026-08-23 08:01:17] Неизвестный источник (livemint): ToneTag wants to make India’s ubiquitous
+[2026-08-23 08:01:17] Неизвестный источник (roundtable.io): "First Class in Every Sense:" New Ryan F
+[2026-08-23 08:01:17] Неизвестный источник (siliconangle news): AI data center builder Nscale reportedly
+[2026-08-23 08:01:17] Неизвестный источник (kitploit.com): training-security-awareness
+[2026-08-23 08:01:17] Нет фото: Moisture damage analysis of asphalt mixt
+[2026-08-23 08:01:17] Неизвестный источник (siliconangle news): Starcloud raises $250M to build AI data 
+[2026-08-23 08:01:17] Неизвестный источник (marketbeat): Baylin Technologies Backlog Hits Record 
+[2026-08-23 08:01:17] Неизвестный источник (forkast.news): Nvidia’s $7 Billion Poolside Deal Reveal
+[2026-08-23 08:01:17] Неизвестный источник (usa today): Today in sports history, September 12
+[2026-08-23 08:01:17] Неизвестный источник (usa today): Today in sports history, September 11
+[2026-08-23 08:01:17] Неизвестный источник (yahoo entertainment): Uber Brings Baidu’s Driverless Robotaxis
+[2026-08-23 08:01:17] Неизвестный источник (usa today): Today in sports history, September 10
+[2026-08-23 08:01:17] Неизвестный источник (usa today): Today in sports history, September 9
+[2026-08-23 08:01:17] Неизвестный источник (usa today): Today in sports history, September 8
+[2026-08-23 08:01:17] Неизвестный источник (internet): 14 Trojanized npm Packages Drop RedC2 4.
+[2026-08-23 08:01:17] Неизвестный источник (storagereview.com): SK hynix Takes Its Co-Packaged Optics Ro
+[2026-08-23 08:01:17] Неизвестный источник (researchbuzz.me): National Parks, Lavender Atlas, PFAS in 
+[2026-08-23 08:01:17] Неизвестный источник (courtlistener.com): Order on Motion to Dismiss – #70 in Ted 
+[2026-08-23 08:01:17] Нет фото: RFK Jr. Torches CNN’s Erin Burnett After
+[2026-08-23 08:01:17] Нет фото: WiMi's Next-Generation Quantum Convoluti
+[2026-08-23 08:01:17] Неизвестный источник (macdailynews.com): President Trump and Apple cheer Micron’s
+[2026-08-23 08:01:17] Неизвестный источник (pr newswire uk): Video Surveillance Storage Market worth 
+[2026-08-23 08:01:17] Неизвестный источник (prnewswire): Video Surveillance Storage Market worth 
+[2026-08-23 08:01:17] Неизвестный источник (anime news network): This Week in Games - Sony State of Play:
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Eleven quick tips for Biomedical Federat
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Supplementing Korean artificial intellig
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Microbiome modulation in regeneration in
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Signal hierarchical petri nets: Formal s
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Is a (satellite) image worth a thousand 
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): Power quality enhancement in wind energy
+[2026-08-23 08:01:17] Неизвестный источник (plos.org): FusionPHI: A phage-host interaction pred
+[2026-08-23 08:01:17] AI новости: найдено 3 после фильтрации
+[2026-08-23 08:01:19] Обрабатываю: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-23 08:01:19] Попытка 1 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-23 08:01:20] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:01:30] Попытка 2 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-23 08:01:30] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:01:40] Попытка 3 для: Who’s Afraid of ‘Healthy’ Ice Cream?
+[2026-08-23 08:01:40] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:01:51] Пауза 60 секунд...
+[2026-08-23 08:02:51] Обрабатываю: Shriram Wealth plans to expand into Rs 10 lakh-Rs 2 crore cl
+[2026-08-23 08:02:51] Попытка 1 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-23 08:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:03:01] Попытка 2 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-23 08:03:01] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:03:11] Попытка 3 для: Shriram Wealth plans to expand into Rs 1
+[2026-08-23 08:03:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:03:22] Пауза 60 секунд...
+[2026-08-23 08:04:22] Обрабатываю: Long before air conditioners, Americans used ‘white gold’ an
+[2026-08-23 08:04:22] Попытка 1 для: Long before air conditioners, Americans 
+[2026-08-23 08:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:04:32] Попытка 2 для: Long before air conditioners, Americans 
+[2026-08-23 08:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:04:42] Попытка 3 для: Long before air conditioners, Americans 
+[2026-08-23 08:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 08:04:53] === Блок ai_morning завершён ===
