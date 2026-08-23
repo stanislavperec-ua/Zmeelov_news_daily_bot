@@ -40320,3 +40320,15 @@ Nithya
 [2026-08-23 16:08:24] Попытка 3 для: Strike on Ukrainian Shopping Mall Kills 
 [2026-08-23 16:08:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-23 16:08:35] === Блок evening завершён ===
+[2026-08-23 18:01:16] Загружено 3084 уже отправленных новостей
+[2026-08-23 18:01:16] === Запуск блока: ai_evening ===
+[2026-08-23 18:01:16] Неизвестный источник (decrypt): Microsoft Fixes 'Perfect 10' Exploit Tha
+[2026-08-23 18:01:16] Неизвестный источник (thestreet): Comcast adds new service to internet pla
+[2026-08-23 18:01:16] Неизвестный источник (siliconangle news): From tokenmaxxing to sovereign alpha: Wh
+[2026-08-23 18:01:16] Неизвестный источник (livemint): Broadcom eyes $80 billion debt deal to f
+[2026-08-23 18:01:16] Неизвестный источник (businessline): BRICS Science Ministerial Meet adopts de
+[2026-08-23 18:01:16] Неизвестный источник (homedit.com): Those Floating Backyard Concrete Pads Ar
+[2026-08-23 18:01:16] Неизвестный источник (bleeding cool news): Gambit: Wanted #2 Preview: Bullseye's Go
+[2026-08-23 18:01:16] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-08-23 18:01:16] ⚠️ Блок *AI вечер* (23.08.2026) — новостей не найдено!
+[2026-08-23 18:01:16] === Блок ai_evening завершён ===
