@@ -40194,3 +40194,56 @@ Nithya
 [2026-08-23 08:04:42] Попытка 3 для: Long before air conditioners, Americans 
 [2026-08-23 08:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-23 08:04:53] === Блок ai_morning завершён ===
+[2026-08-23 11:01:16] Загружено 3074 уже отправленных новостей
+[2026-08-23 11:01:16] === Запуск блока: midday ===
+[2026-08-23 11:01:16] Неизвестный источник (nbcsports.com): Will Howard’s two picks could jeopardize
+[2026-08-23 11:01:16] Неизвестный источник (fox news): Missing New York grandmother found dead 
+[2026-08-23 11:01:16] Неизвестный источник (cbs sports): NFL preseason Week 2 winners and losers:
+[2026-08-23 11:01:16] Неизвестный источник (deadline): Rose McGowan, Anna Paquin Pay Tribute To
+[2026-08-23 11:01:16] Неизвестный источник (fox news): Trump to honor Artemis II astronauts who
+[2026-08-23 11:01:16] Неизвестный источник (wwe.com): SmackDown: Aug. 21, 2026 - WWE
+[2026-08-23 11:01:16] Неизвестный источник (fox news): Mavericks buy out Klay Thompson’s contra
+[2026-08-23 11:01:16] Неизвестный источник (fox business): Trump allows 300,000 metric tons of tari
+[2026-08-23 11:01:16] Неизвестный источник (kcci des moines): Iowa HHS adds to list of potential measl
+[2026-08-23 11:01:16] Неизвестный источник (espn): M's 'excited' for prized lefty Kade Ande
+[2026-08-23 11:01:16] Неизвестный источник (hollywood reporter): ‘The Girls’: Khloé Kardashian Wanted Her
+[2026-08-23 11:01:16] Неизвестный источник (kyivindependent.com): Explosions rock Kyiv as Russia launches 
+[2026-08-23 11:01:16] Неизвестный источник (9to5google.com): Pixel Watch 5 lets you customize double 
+[2026-08-23 11:01:16] Неизвестный источник (dw (english)): DRC Ebola outbreak 'growing exponentiall
+[2026-08-23 11:01:16] Неизвестный источник (android central): 6 phones to buy instead of the Google Pi
+[2026-08-23 11:01:16] Старая новость (2026-08-21T10:05:29Z): Partial lunar eclipse live: Latest news,
+[2026-08-23 11:01:16] Старая новость (2026-08-21T07:00:00Z): Why scientists are stoked about mysterio
+[2026-08-23 11:01:16] Старая новость (2026-08-21T05:01:38Z): A split in the spectrum? The ongoing bat
+[2026-08-23 11:01:16] Мировые новости: найдено 12 после фильтрации
+[2026-08-23 11:01:18] Обрабатываю: Canadian prime minister suspends trade talks with U.S., sett
+[2026-08-23 11:01:18] Попытка 1 для: Canadian prime minister suspends trade t
+[2026-08-23 11:01:18] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:01:28] Попытка 2 для: Canadian prime minister suspends trade t
+[2026-08-23 11:01:28] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:01:38] Попытка 3 для: Canadian prime minister suspends trade t
+[2026-08-23 11:01:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:01:49] Пауза 60 секунд...
+[2026-08-23 11:02:49] Обрабатываю: China’s new moon mission could unlock secret of lunar ice: W
+[2026-08-23 11:02:49] Попытка 1 для: China’s new moon mission could unlock se
+[2026-08-23 11:02:49] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:02:59] Попытка 2 для: China’s new moon mission could unlock se
+[2026-08-23 11:02:59] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:03:09] Попытка 3 для: China’s new moon mission could unlock se
+[2026-08-23 11:03:10] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:03:20] Пауза 60 секунд...
+[2026-08-23 11:04:20] Обрабатываю: The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel
+[2026-08-23 11:04:20] Попытка 1 для: The Trump economy: $40tn debt, 6.7% mort
+[2026-08-23 11:04:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:04:31] Попытка 2 для: The Trump economy: $40tn debt, 6.7% mort
+[2026-08-23 11:04:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:04:41] Попытка 3 для: The Trump economy: $40tn debt, 6.7% mort
+[2026-08-23 11:04:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:04:51] Пауза 60 секунд...
+[2026-08-23 11:05:51] Обрабатываю: Supreme Court says Trump can continue ballroom work as it we
+[2026-08-23 11:05:51] Попытка 1 для: Supreme Court says Trump can continue ba
+[2026-08-23 11:05:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:06:01] Попытка 2 для: Supreme Court says Trump can continue ba
+[2026-08-23 11:06:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:06:12] Попытка 3 для: Supreme Court says Trump can continue ba
+[2026-08-23 11:06:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 11:06:22] === Блок midday завершён ===
