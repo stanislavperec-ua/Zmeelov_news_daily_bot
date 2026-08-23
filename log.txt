@@ -40048,3 +40048,86 @@ Nithya
 [2026-08-22 18:04:39] Попытка 3 для: Long before air conditioners, Americans 
 [2026-08-22 18:04:39] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 18:04:50] === Блок ai_evening завершён ===
+[2026-08-23 06:01:20] Загружено 3068 уже отправленных новостей
+[2026-08-23 06:01:20] === Запуск блока: morning ===
+[2026-08-23 06:01:20] Неизвестный источник (fox news): Trump to honor Artemis II astronauts who
+[2026-08-23 06:01:20] Неизвестный источник (espn): Former Browns, Texans RB Nick Chubb anno
+[2026-08-23 06:01:20] Неизвестный источник (mlb.com): Kade Anderson set to join list of bigges
+[2026-08-23 06:01:20] Неизвестный источник (fox business): E. coli and salmonella outbreak linked t
+[2026-08-23 06:01:20] Неизвестный источник (fox news): Mavericks buy out Klay Thompson’s contra
+[2026-08-23 06:01:20] Неизвестный источник (kcci des moines): Iowa HHS adds to list of potential measl
+[2026-08-23 06:01:20] Неизвестный источник (hollywood reporter): Hayden Panettiere’s Boyfriend Gave Her N
+[2026-08-23 06:01:20] Неизвестный источник (hollywood reporter): ‘The Girls’: Khloé Kardashian Wanted Her
+[2026-08-23 06:01:20] Неизвестный источник (nbc10 boston): Recap: Defense in Lindsay Clancy trial r
+[2026-08-23 06:01:20] Неизвестный источник (push square): Call of Duty: Modern Warfare 4 Beta: Sta
+[2026-08-23 06:01:20] Неизвестный источник (mma fighting): UFC Sacramento weigh-in results: Anthony
+[2026-08-23 06:01:20] Неизвестный источник (phys.org): LHC collisions reveal oxygen and neon's 
+[2026-08-23 06:01:20] Неизвестный источник (wgn tv chicago): Class-action lawsuit filed against NIPSC
+[2026-08-23 06:01:20] Неизвестный источник (9to5mac): Here’s how iPhone 18 Pro will differenti
+[2026-08-23 06:01:20] Неизвестный источник (dw (english)): DRC Ebola outbreak 'growing exponentiall
+[2026-08-23 06:01:20] Неизвестный источник (wgal susquehanna valley pa.): US national debt tops $40 trillion: Thes
+[2026-08-23 06:01:20] Неизвестный источник (space.com): Partial lunar eclipse live: Latest news,
+[2026-08-23 06:01:20] Старая новость (2026-08-20T22:37:00Z): Patient diagnosed with measles at UPMC C
+[2026-08-23 06:01:20] Мировые новости: найдено 11 после фильтрации
+[2026-08-23 06:01:20] Заблокированный источник (naturalnews.com): Russia Vows Continued Retaliation for Uk
+[2026-08-23 06:01:20] Нет фото: Russian drone attack on busy shopping ce
+[2026-08-23 06:01:20] Нет фото: Putin Expects Ukraine to Break This Wint
+[2026-08-23 06:01:20] Нет фото: The First-Ever Official Naruto Digital C
+[2026-08-23 06:01:20] Нет фото: Remember the Names
+[2026-08-23 06:01:20] Нет фото: Russian 'double-tap' strike on shopping 
+[2026-08-23 06:01:20] Заблокированный источник (rt): Draft officer fatally stabbed in Ukraine
+[2026-08-23 06:01:20] Заблокированный источник (rt): With Ukraine’s corruption, one thing is 
+[2026-08-23 06:01:20] Заблокированный источник (rt): Ukrainian conscripts fleeing from traini
+[2026-08-23 06:01:20] Нет фото: Lovable Misfit Or 'Lunar Demon'? Chebura
+[2026-08-23 06:01:20] Внутренний дубль: Fresh Russian strikes kill at least two people in 
+[2026-08-23 06:01:20] Украинские новости: найдено 5 после фильтрации
+[2026-08-23 06:01:20] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
+[2026-08-23 06:01:20] Харьков: новостей не найдено
+[2026-08-23 06:01:23] Обрабатываю: Men from Cuba and other countries describe being deported by
+[2026-08-23 06:01:23] Попытка 1 для: Men from Cuba and other countries descri
+[2026-08-23 06:01:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:01:33] Попытка 2 для: Men from Cuba and other countries descri
+[2026-08-23 06:01:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:01:43] Попытка 3 для: Men from Cuba and other countries descri
+[2026-08-23 06:01:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:01:53] Пауза 60 секунд...
+[2026-08-23 06:02:53] Обрабатываю: Trump tries new midterm message to supporters: ‘Pretend, ple
+[2026-08-23 06:02:53] Попытка 1 для: Trump tries new midterm message to suppo
+[2026-08-23 06:02:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:03:03] Попытка 2 для: Trump tries new midterm message to suppo
+[2026-08-23 06:03:04] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:03:14] Попытка 3 для: Trump tries new midterm message to suppo
+[2026-08-23 06:03:14] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:03:24] Пауза 60 секунд...
+[2026-08-23 06:04:24] Обрабатываю: Pentagon fires Stars and Stripes leaders who criticized DOD’
+[2026-08-23 06:04:24] Попытка 1 для: Pentagon fires Stars and Stripes leaders
+[2026-08-23 06:04:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:04:34] Попытка 2 для: Pentagon fires Stars and Stripes leaders
+[2026-08-23 06:04:35] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:04:45] Попытка 3 для: Pentagon fires Stars and Stripes leaders
+[2026-08-23 06:04:45] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:04:55] Пауза 60 секунд...
+[2026-08-23 06:05:55] Обрабатываю: Missing New York City grandmother found dead near airport in
+[2026-08-23 06:05:55] Попытка 1 для: Missing New York City grandmother found 
+[2026-08-23 06:05:55] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:05] Попытка 2 для: Missing New York City grandmother found 
+[2026-08-23 06:06:05] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:15] Попытка 3 для: Missing New York City grandmother found 
+[2026-08-23 06:06:16] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:28] Обрабатываю: Ukraine sanctions five Rusal aluminum enterprises over milit
+[2026-08-23 06:06:28] Попытка 1 для: Ukraine sanctions five Rusal aluminum en
+[2026-08-23 06:06:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:39] Попытка 2 для: Ukraine sanctions five Rusal aluminum en
+[2026-08-23 06:06:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:49] Попытка 3 для: Ukraine sanctions five Rusal aluminum en
+[2026-08-23 06:06:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:06:59] Пауза 60 секунд...
+[2026-08-23 06:07:59] Обрабатываю: Ukraine hits Ozon logistics center in Samara region
+[2026-08-23 06:07:59] Попытка 1 для: Ukraine hits Ozon logistics center in Sa
+[2026-08-23 06:07:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:08:09] Попытка 2 для: Ukraine hits Ozon logistics center in Sa
+[2026-08-23 06:08:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:08:19] Попытка 3 для: Ukraine hits Ozon logistics center in Sa
+[2026-08-23 06:08:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 06:08:30] Фото не отправилось: 400
+[2026-08-23 06:08:30] === Блок morning завершён ===
