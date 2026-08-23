@@ -40247,3 +40247,76 @@ Nithya
 [2026-08-23 11:06:12] Попытка 3 для: Supreme Court says Trump can continue ba
 [2026-08-23 11:06:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-23 11:06:22] === Блок midday завершён ===
+[2026-08-23 16:01:23] Загружено 3078 уже отправленных новостей
+[2026-08-23 16:01:23] === Запуск блока: evening ===
+[2026-08-23 16:01:23] Заблокированный источник (motorsport.com): LIVE: F1 Dutch Grand Prix updates - Qual
+[2026-08-23 16:01:23] Неизвестный источник (fox news): Tupac Shakur murder trial's first week s
+[2026-08-23 16:01:23] Неизвестный источник (mma fighting): UFC Sacramento predictions - MMA Fightin
+[2026-08-23 16:01:23] Неизвестный источник (cnbc): Ahead of tough new U.S. sanctions, Iran 
+[2026-08-23 16:01:23] Неизвестный источник (usa today): Families of USS Abraham Lincoln crew ups
+[2026-08-23 16:01:23] Неизвестный источник (nbcsports.com): 2026 Premier League live updates, scores
+[2026-08-23 16:01:23] Неизвестный источник (notebookcheck.net): HP's new $599 MacBook Neo rival availabl
+[2026-08-23 16:01:23] Неизвестный источник (cbs sports): NFL preseason Week 2 winners and losers:
+[2026-08-23 16:01:23] Неизвестный источник (deadline): Rose McGowan, Anna Paquin Pay Tribute To
+[2026-08-23 16:01:23] Неизвестный источник (fortune): Amazon hiked prices on Echo, Fire TV, Ki
+[2026-08-23 16:01:23] Неизвестный источник (the cut): Kim Zolciak’s Son Arrested for Alleged S
+[2026-08-23 16:01:23] Неизвестный источник (phys.org): LHC collisions reveal oxygen and neon's 
+[2026-08-23 16:01:23] Неизвестный источник (fortune): Scott Bessent is 'playing with fire' as 
+[2026-08-23 16:01:23] Старая новость (2026-08-21T12:51:12Z): 6 phones to buy instead of the Google Pi
+[2026-08-23 16:01:23] Старая новость (2026-08-21T07:00:00Z): Why scientists are stoked about mysterio
+[2026-08-23 16:01:23] Мировые новости: найдено 10 после фильтрации
+[2026-08-23 16:01:23] Нет фото: Canada rejects US terms for trade deal a
+[2026-08-23 16:01:23] Заблокированный источник (rt): Putin warns of ‘catastrophic scenario’ f
+[2026-08-23 16:01:23] Заблокированный источник (rt): Putin hints at ‘catastrophic scenario’ f
+[2026-08-23 16:01:23] Заблокированный источник (rt): Putin evaluates Russian strikes on targe
+[2026-08-23 16:01:23] Заблокированный источник (sputnikglobe.com): Russian Strikes on Targets in Ukraine Ar
+[2026-08-23 16:01:23] Украинские новости: найдено 5 после фильтрации
+[2026-08-23 16:01:24] Нет фото: Rescue Operations Under Way After Russia
+[2026-08-23 16:01:24] Харьков: новостей не найдено
+[2026-08-23 16:01:26] Обрабатываю: Near-total lunar eclipse is coming up with the Americas in p
+[2026-08-23 16:01:26] Попытка 1 для: Near-total lunar eclipse is coming up wi
+[2026-08-23 16:01:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:01:37] Попытка 2 для: Near-total lunar eclipse is coming up wi
+[2026-08-23 16:01:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:01:47] Попытка 3 для: Near-total lunar eclipse is coming up wi
+[2026-08-23 16:01:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:01:57] Пауза 60 секунд...
+[2026-08-23 16:02:57] Обрабатываю: As debt surpasses $40 trillion, the bill for Washington spen
+[2026-08-23 16:02:57] Попытка 1 для: As debt surpasses $40 trillion, the bill
+[2026-08-23 16:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:03:07] Попытка 2 для: As debt surpasses $40 trillion, the bill
+[2026-08-23 16:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:03:17] Попытка 3 для: As debt surpasses $40 trillion, the bill
+[2026-08-23 16:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:03:28] Пауза 60 секунд...
+[2026-08-23 16:04:28] Обрабатываю: More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit
+[2026-08-23 16:04:28] Попытка 1 для: More than 16,000 doses of Ervebo vaccine
+[2026-08-23 16:04:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:04:38] Попытка 2 для: More than 16,000 doses of Ervebo vaccine
+[2026-08-23 16:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:04:49] Попытка 3 для: More than 16,000 doses of Ervebo vaccine
+[2026-08-23 16:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:04:59] Пауза 60 секунд...
+[2026-08-23 16:05:59] Обрабатываю: DHS starts deportation flights after end to remaining protec
+[2026-08-23 16:05:59] Попытка 1 для: DHS starts deportation flights after end
+[2026-08-23 16:05:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:06:09] Попытка 2 для: DHS starts deportation flights after end
+[2026-08-23 16:06:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:06:19] Попытка 3 для: DHS starts deportation flights after end
+[2026-08-23 16:06:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:06:32] Обрабатываю: Russian President Putin says Ukraine opened 'Pandora's box' 
+[2026-08-23 16:06:32] Попытка 1 для: Russian President Putin says Ukraine ope
+[2026-08-23 16:06:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:06:43] Попытка 2 для: Russian President Putin says Ukraine ope
+[2026-08-23 16:06:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:06:53] Попытка 3 для: Russian President Putin says Ukraine ope
+[2026-08-23 16:06:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:07:03] Пауза 60 секунд...
+[2026-08-23 16:08:03] Обрабатываю: Strike on Ukrainian Shopping Mall Kills 16
+[2026-08-23 16:08:03] Попытка 1 для: Strike on Ukrainian Shopping Mall Kills 
+[2026-08-23 16:08:04] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:08:14] Попытка 2 для: Strike on Ukrainian Shopping Mall Kills 
+[2026-08-23 16:08:14] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:08:24] Попытка 3 для: Strike on Ukrainian Shopping Mall Kills 
+[2026-08-23 16:08:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-23 16:08:35] === Блок evening завершён ===
