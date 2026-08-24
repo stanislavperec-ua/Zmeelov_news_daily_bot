@@ -40441,3 +40441,59 @@ Nithya
 [2026-08-24 08:01:26] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-08-24 08:01:26] ⚠️ Блок *AI утро* (24.08.2026) — новостей не найдено!
 [2026-08-24 08:01:26] === Блок ai_morning завершён ===
+[2026-08-24 11:01:22] Загружено 3090 уже отправленных новостей
+[2026-08-24 11:01:22] === Запуск блока: midday ===
+[2026-08-24 11:01:22] Неизвестный источник (tmz): Jay Leno Wants New Hampshire to Recogniz
+[2026-08-24 11:01:22] Неизвестный источник (fox business): Trump fires back at Canada after Carney 
+[2026-08-24 11:01:22] Неизвестный источник (bakersfield now): 15-year-old arrested in deadly shooting 
+[2026-08-24 11:01:22] Неизвестный источник (reno gazette journal): Hawk Fire evacuation zone expands south 
+[2026-08-24 11:01:22] Неизвестный источник (bad left hook): ‘We had to push the fight’: Everything T
+[2026-08-24 11:01:22] Неизвестный источник (mma fighting): Henry Cejudo gets his revenge, pins Mera
+[2026-08-24 11:01:22] Неизвестный источник (usa today): UFC Sacramento salaries: Reinier de Ridd
+[2026-08-24 11:01:22] Неизвестный источник (kyodonews.net): M5.9 quake strikes eastern Japan includi
+[2026-08-24 11:01:22] Неизвестный источник (page six): Rose McGowan calls for end to child star
+[2026-08-24 11:01:22] Неизвестный источник (gsmarena.com): Weekly poll results: a clear favorite em
+[2026-08-24 11:01:22] Неизвестный источник (kyivindependent.com): Fedorov decries corruption in Defense Mi
+[2026-08-24 11:01:22] Неизвестный источник (gizmodo.com): Anthropic Is Reportedly Being Upfront Wi
+[2026-08-24 11:01:22] Неизвестный источник (9to5mac): iPhone 18 Pro event date: When Apple ann
+[2026-08-24 11:01:22] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Swinging to 
+[2026-08-24 11:01:22] Заблокированный источник (forbes): ‘GTA 6’ Leaker Has Now Reached A Strip C
+[2026-08-24 11:01:22] Старая новость (2026-08-22T09:00:00Z): NASA Cancels Its Rescue Mission for the 
+[2026-08-24 11:01:22] Старая новость (2026-08-22T05:47:03Z): China’s new moon mission could unlock se
+[2026-08-24 11:01:22] Старая новость (2026-08-22T04:09:15Z): Los Angeles County reports first West Ni
+[2026-08-24 11:01:22] Старая новость (2026-08-21T23:42:26Z): Stars and Stripes editor, reporter fired
+[2026-08-24 11:01:22] Старая новость (2026-08-21T19:29:08Z): New NASA Pictures Reveal SpaceX Crash's 
+[2026-08-24 11:01:22] Старая новость (2026-08-21T17:37:08Z): NBA 2K27’s New App Lets You Build Your M
+[2026-08-24 11:01:22] Мировые новости: найдено 9 после фильтрации
+[2026-08-24 11:01:25] Обрабатываю: Buc-ee’s chain draws outcry in Ohio for launching fight over
+[2026-08-24 11:01:25] Попытка 1 для: Buc-ee’s chain draws outcry in Ohio for 
+[2026-08-24 11:01:25] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:01:35] Попытка 2 для: Buc-ee’s chain draws outcry in Ohio for 
+[2026-08-24 11:01:35] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:01:45] Попытка 3 для: Buc-ee’s chain draws outcry in Ohio for 
+[2026-08-24 11:01:45] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:01:56] Пауза 60 секунд...
+[2026-08-24 11:02:56] Обрабатываю: Trump will kick off the IndyCar race in the Beast before car
+[2026-08-24 11:02:56] Попытка 1 для: Trump will kick off the IndyCar race in 
+[2026-08-24 11:02:56] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:03:06] Попытка 2 для: Trump will kick off the IndyCar race in 
+[2026-08-24 11:03:06] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:03:16] Попытка 3 для: Trump will kick off the IndyCar race in 
+[2026-08-24 11:03:16] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:03:27] Пауза 60 секунд...
+[2026-08-24 11:04:27] Обрабатываю: Army Secretary Dan Driscoll considering stepping down, sourc
+[2026-08-24 11:04:27] Попытка 1 для: Army Secretary Dan Driscoll considering 
+[2026-08-24 11:04:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:04:37] Попытка 2 для: Army Secretary Dan Driscoll considering 
+[2026-08-24 11:04:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:04:47] Попытка 3 для: Army Secretary Dan Driscoll considering 
+[2026-08-24 11:04:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:04:58] Пауза 60 секунд...
+[2026-08-24 11:05:58] Обрабатываю: Texas judge denies Karmelo Anthony’s request for new trial i
+[2026-08-24 11:05:58] Попытка 1 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 11:05:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:06:08] Попытка 2 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 11:06:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:06:18] Попытка 3 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 11:06:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 11:06:29] === Блок midday завершён ===
