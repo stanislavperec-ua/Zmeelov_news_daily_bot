@@ -40497,3 +40497,85 @@ Nithya
 [2026-08-24 11:06:18] Попытка 3 для: Texas judge denies Karmelo Anthony’s req
 [2026-08-24 11:06:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-24 11:06:29] === Блок midday завершён ===
+[2026-08-24 16:01:25] Загружено 3093 уже отправленных новостей
+[2026-08-24 16:01:25] === Запуск блока: evening ===
+[2026-08-24 16:01:25] Неизвестный источник (variety): Spider Man Box Office: Brand New Day Lea
+[2026-08-24 16:01:25] Заблокированный источник (motorsport.com): What caused Max Verstappen’s F1 Dutch GP
+[2026-08-24 16:01:25] Неизвестный источник (fox news): Iran to meet with Pakistani mediator aft
+[2026-08-24 16:01:25] Неизвестный источник (usa today): Anthony Hernandez told ref Gregory Rodri
+[2026-08-24 16:01:25] Неизвестный источник (kcra sacramento): Hawk Fire: 10,500+-acre wildfire in Neva
+[2026-08-24 16:01:25] Неизвестный источник (tmz): Drake Spotted Singing Along at Ella Lang
+[2026-08-24 16:01:25] Неизвестный источник (fox news): Men face new pressure to stay ‘hot’ as t
+[2026-08-24 16:01:25] Неизвестный источник (seeking alpha): Trump June stock disclosure: more than 1
+[2026-08-24 16:01:25] Неизвестный источник (cnbc): After 10 years at United, CEO Scott Kirb
+[2026-08-24 16:01:25] Неизвестный источник (usa today): Prenups cover more than just marriage an
+[2026-08-24 16:01:25] Неизвестный источник (space.com): Partial lunar eclipse live: Latest news,
+[2026-08-24 16:01:25] Неизвестный источник (substack.com): Debt and Tax Cuts - Paul Krugman | Subst
+[2026-08-24 16:01:25] Неизвестный источник (bloody elbow): Anthony Smith issues first statement sin
+[2026-08-24 16:01:25] Неизвестный источник (wcvb boston): Hayden Panettiere's troubling final mont
+[2026-08-24 16:01:25] Неизвестный источник (haaretz): Mark Ruffalo rejects Paramount's antisem
+[2026-08-24 16:01:25] Неизвестный источник (notebookcheck.net): Eye-watering price tag leaks for upcomin
+[2026-08-24 16:01:25] Неизвестный источник (bgr): What Made The CMF By Nothing Phones So M
+[2026-08-24 16:01:25] Старая новость (2026-08-22T15:40:01Z): AI decodes DNA initiator sequence found 
+[2026-08-24 16:01:25] Старая новость (2026-08-22T13:00:00Z): Top Stories: Apple Leaks - Camera-Equipp
+[2026-08-24 16:01:25] Старая новость (2026-08-21T17:10:01Z): LHC collisions reveal oxygen and neon's 
+[2026-08-24 16:01:25] Мировые новости: найдено 10 после фильтрации
+[2026-08-24 16:01:26] Нет фото: Russia likely to mobilize at least 300,0
+[2026-08-24 16:01:26] Нет фото: Zelensky rejects wartime elections, sayi
+[2026-08-24 16:01:26] Заблокированный источник (sputnikglobe.com): Cathedral in Town of Gorlovka in Donetsk
+[2026-08-24 16:01:26] Нет фото: Russian online retailer Ozon warehouse i
+[2026-08-24 16:01:26] Нет фото: Imagine if Florida's Gov. Ron DeSantis w
+[2026-08-24 16:01:26] Нет фото: How Serious Is The Case For "Corruption"
+[2026-08-24 16:01:26] Заблокированный источник (rt): West will never get its ‘loans’ back fro
+[2026-08-24 16:01:26] Украинские новости: найдено 6 после фильтрации
+[2026-08-24 16:01:26] Заблокированный источник (rt): Ukraine at 35: Defenseless in the air as
+[2026-08-24 16:01:26] Харьков: новостей не найдено
+[2026-08-24 16:01:28] Обрабатываю: Thousands struggling without power in Gary, Indiana 12 days 
+[2026-08-24 16:01:28] Попытка 1 для: Thousands struggling without power in Ga
+[2026-08-24 16:01:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:01:39] Попытка 2 для: Thousands struggling without power in Ga
+[2026-08-24 16:01:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:01:49] Попытка 3 для: Thousands struggling without power in Ga
+[2026-08-24 16:01:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:01:59] Пауза 60 секунд...
+[2026-08-24 16:02:59] Обрабатываю: ‘The writing on the wall’: Trump’s staff departs ahead of po
+[2026-08-24 16:02:59] Попытка 1 для: ‘The writing on the wall’: Trump’s staff
+[2026-08-24 16:02:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:03:09] Попытка 2 для: ‘The writing on the wall’: Trump’s staff
+[2026-08-24 16:03:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:03:19] Попытка 3 для: ‘The writing on the wall’: Trump’s staff
+[2026-08-24 16:03:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:03:30] Пауза 60 секунд...
+[2026-08-24 16:04:30] Обрабатываю: Tim Scott calls support for Darline Graham an ‘easy choice’ 
+[2026-08-24 16:04:30] Попытка 1 для: Tim Scott calls support for Darline Grah
+[2026-08-24 16:04:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:04:40] Попытка 2 для: Tim Scott calls support for Darline Grah
+[2026-08-24 16:04:40] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:04:50] Попытка 3 для: Tim Scott calls support for Darline Grah
+[2026-08-24 16:04:50] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:05:00] Пауза 60 секунд...
+[2026-08-24 16:06:00] Обрабатываю: China postpones launch of unprecedented water-hunting moon m
+[2026-08-24 16:06:00] Попытка 1 для: China postpones launch of unprecedented 
+[2026-08-24 16:06:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:06:11] Попытка 2 для: China postpones launch of unprecedented 
+[2026-08-24 16:06:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:06:21] Попытка 3 для: China postpones launch of unprecedented 
+[2026-08-24 16:06:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:06:34] Обрабатываю: Zelenskyy rejects call for elections, says it would 'destroy
+[2026-08-24 16:06:34] Попытка 1 для: Zelenskyy rejects call for elections, sa
+[2026-08-24 16:06:34] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:06:44] Попытка 2 для: Zelenskyy rejects call for elections, sa
+[2026-08-24 16:06:44] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:06:54] Попытка 3 для: Zelenskyy rejects call for elections, sa
+[2026-08-24 16:06:54] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:07:04] Фото не отправилось: 400
+[2026-08-24 16:07:05] Пауза 60 секунд...
+[2026-08-24 16:08:05] Обрабатываю: Russia Strikes Ukraine After Putin 'Pandora's Box' Warning
+[2026-08-24 16:08:05] Попытка 1 для: Russia Strikes Ukraine After Putin 'Pand
+[2026-08-24 16:08:05] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:08:15] Попытка 2 для: Russia Strikes Ukraine After Putin 'Pand
+[2026-08-24 16:08:15] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:08:25] Попытка 3 для: Russia Strikes Ukraine After Putin 'Pand
+[2026-08-24 16:08:25] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 16:08:36] Фото не отправилось: 400
+[2026-08-24 16:08:36] === Блок evening завершён ===
