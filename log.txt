@@ -40579,3 +40579,51 @@ Nithya
 [2026-08-24 16:08:25] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-24 16:08:36] Фото не отправилось: 400
 [2026-08-24 16:08:36] === Блок evening завершён ===
+[2026-08-24 18:01:17] Загружено 3099 уже отправленных новостей
+[2026-08-24 18:01:17] === Запуск блока: ai_evening ===
+[2026-08-24 18:01:17] Неизвестный источник (livemint): United Airlines CEO Scott Kirby eyes JFK
+[2026-08-24 18:01:17] Неизвестный источник (siliconangle news): Why every AI agent needs an org chart
+[2026-08-24 18:01:17] Неизвестный источник (newser): AI Surveillance Emerges as Flashpoint in
+[2026-08-24 18:01:17] Неизвестный источник (risky.biz): Slovakia finds Russian backdoor in traff
+[2026-08-24 18:01:17] Нет фото: [UPSC Mains 2026] GENERAL STUDIES PAPER 
+[2026-08-24 18:01:17] Неизвестный источник (cnbc): After 10 years at United, CEO Scott Kirb
+[2026-08-24 18:01:17] Неизвестный источник (cnbc): Wells Fargo and Citigroup have room to b
+[2026-08-24 18:01:17] Заблокированный источник (rt): Ukraine at 35: Inside an artificial econ
+[2026-08-24 18:01:17] Неизвестный источник (the new york review of books): ‘The Voodoo Thing’
+[2026-08-24 18:01:17] Неизвестный источник (biztoc.com): Hewlett Packard Enterprise: AI Infrastru
+[2026-08-24 18:01:17] Неизвестный источник (dailymail.com): Parents' fears after top fee-paying scho
+[2026-08-24 18:01:17] Неизвестный источник (businessline): Canada-India education ties entering a n
+[2026-08-24 18:01:17] Неизвестный источник (bleeding cool news): Green Lantern #38 Preview: Fast Food Feu
+[2026-08-24 18:01:17] Неизвестный источник (jepeake.com): AI Chip Architectures
+[2026-08-24 18:01:17] Неизвестный источник (techradar): The US Army is training AI agents to wor
+[2026-08-24 18:01:17] Неизвестный источник (new zealand herald): Data centres: Why New Zealand’s digital 
+[2026-08-24 18:01:17] Неизвестный источник (inverse): The 15 Most Exciting Fall 2026 Movies
+[2026-08-24 18:01:17] Неизвестный источник (wdjt): Google is buying all of Spirit Airlines’
+[2026-08-24 18:01:17] Неизвестный источник (wnd.com): Here are the factories of the intelligen
+[2026-08-24 18:01:17] Неизвестный источник (londoninsider.co.uk): Lucid Group Appoints Publicis Health Exe
+[2026-08-24 18:01:17] Неизвестный источник (bleeding cool news): Black Tower: The Raven Conspiracy #1 Pre
+[2026-08-24 18:01:17] AI новости: найдено 3 после фильтрации
+[2026-08-24 18:01:19] Обрабатываю: In rural Chad, solar kiosks bring healthcare closer
+[2026-08-24 18:01:19] Попытка 1 для: In rural Chad, solar kiosks bring health
+[2026-08-24 18:01:19] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:01:29] Попытка 2 для: In rural Chad, solar kiosks bring health
+[2026-08-24 18:01:30] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:01:40] Попытка 3 для: In rural Chad, solar kiosks bring health
+[2026-08-24 18:01:40] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:01:50] Пауза 60 секунд...
+[2026-08-24 18:02:50] Обрабатываю: TSMC Completes 1.6nm A16 Chip Process, Widening Technology G
+[2026-08-24 18:02:50] Попытка 1 для: TSMC Completes 1.6nm A16 Chip Process, W
+[2026-08-24 18:02:50] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:03:00] Попытка 2 для: TSMC Completes 1.6nm A16 Chip Process, W
+[2026-08-24 18:03:00] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:03:10] Попытка 3 для: TSMC Completes 1.6nm A16 Chip Process, W
+[2026-08-24 18:03:10] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:03:21] Пауза 60 секунд...
+[2026-08-24 18:04:21] Обрабатываю: Election fight heats up over proposed $7.6 billion powerline
+[2026-08-24 18:04:21] Попытка 1 для: Election fight heats up over proposed $7
+[2026-08-24 18:04:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:04:31] Попытка 2 для: Election fight heats up over proposed $7
+[2026-08-24 18:04:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:04:41] Попытка 3 для: Election fight heats up over proposed $7
+[2026-08-24 18:04:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 18:04:52] === Блок ai_evening завершён ===
