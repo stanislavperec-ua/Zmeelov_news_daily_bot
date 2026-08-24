@@ -40332,3 +40332,88 @@ Nithya
 [2026-08-23 18:01:16] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-08-23 18:01:16] ⚠️ Блок *AI вечер* (23.08.2026) — новостей не найдено!
 [2026-08-23 18:01:16] === Блок ai_evening завершён ===
+[2026-08-24 06:01:27] Загружено 3084 уже отправленных новостей
+[2026-08-24 06:01:27] === Запуск блока: morning ===
+[2026-08-24 06:01:28] Неизвестный источник (bakersfield now): 15-year-old arrested in deadly shooting 
+[2026-08-24 06:01:28] Неизвестный источник (ign): GTA 6 Leaker Releases More Gameplay Vide
+[2026-08-24 06:01:28] Неизвестный источник (forbes): Rolly Romero Vs. Teofimo Lopez Live Resu
+[2026-08-24 06:01:28] Неизвестный источник (deadline): Simon Wiesenthal Center CEO Calls Out Ma
+[2026-08-24 06:01:28] Неизвестный источник (kyodonews.net): M5.9 quake strikes eastern Japan includi
+[2026-08-24 06:01:28] Неизвестный источник (page six): Rose McGowan calls for end to child star
+[2026-08-24 06:01:28] Неизвестный источник (hollywood reporter): ‘National Treasure 3’ Is “Finally Real” 
+[2026-08-24 06:01:28] Заблокированный источник (motorsport.com): IndyCar Freedom 250 starting lineup: Ale
+[2026-08-24 06:01:28] Неизвестный источник (pbs): What to know about Trump's 50% tariffs o
+[2026-08-24 06:01:28] Неизвестный источник (fox business): Trump’s foreign beef push to cut grocery
+[2026-08-24 06:01:28] Неизвестный источник (9to5mac): iPhone 18 Pro event date: When Apple ann
+[2026-08-24 06:01:28] Неизвестный источник (eurogamer.net): Modern Warfare 4 beta's first update is 
+[2026-08-24 06:01:28] Неизвестный источник (hawaii news now): First Alert Forecast: Tropical Storm Mok
+[2026-08-24 06:01:28] Неизвестный источник (marketwatch): Why an announcement from the Treasury sp
+[2026-08-24 06:01:28] Неизвестный источник (macrumors): Top Stories: Apple Leaks - Camera-Equipp
+[2026-08-24 06:01:28] Старая новость (2026-08-22T04:09:15Z): Los Angeles County reports first West Ni
+[2026-08-24 06:01:28] Старая новость (2026-08-21T21:34:05Z): US health department seeks public feedba
+[2026-08-24 06:01:28] Старая новость (2026-08-21T19:29:08Z): New NASA Pictures Reveal SpaceX Crash's 
+[2026-08-24 06:01:28] Старая новость (2026-08-21T07:00:00Z): Why scientists are stoked about mysterio
+[2026-08-24 06:01:28] Мировые новости: найдено 11 после фильтрации
+[2026-08-24 06:01:28] Заблокированный источник (naturalnews.com): Imran Khan Returned to Adiala Jail After
+[2026-08-24 06:01:28] Заблокированный источник (naturalnews.com): FSB Thwarts Drone Attack on Moscow Defen
+[2026-08-24 06:01:28] Заблокированный источник (sputnikglobe.com): Ukraine’s External State Debt Explodes 2
+[2026-08-24 06:01:28] Нет фото: Russia, Ukraine trade deadly attacks as 
+[2026-08-24 06:01:28] Нет фото: The cost of America’s 25-year War on Ter
+[2026-08-24 06:01:28] Заблокированный источник (rt): Russian skaters sweep golds on internati
+[2026-08-24 06:01:28] Нет фото: Rescuers dig through Ukraine mall wrecka
+[2026-08-24 06:01:28] Нет фото: Ukraine Drones Strike Samara Oil Refiner
+[2026-08-24 06:01:28] Нет фото: Exploring the association between enviro
+[2026-08-24 06:01:28] Нет фото: Ukraine war live: Putin says Kyiv has ‘o
+[2026-08-24 06:01:28] Заблокированный источник (rt): EU nations push windfall tax on oil gian
+[2026-08-24 06:01:28] Нет фото: Death toll rises to 16 after Russian dro
+[2026-08-24 06:01:28] Нет фото: Russian ‘double-tap’ attack on Ukrainian
+[2026-08-24 06:01:28] Украинские новости: найдено 5 после фильтрации
+[2026-08-24 06:01:28] Нет фото: Rescue Operations Under Way After Russia
+[2026-08-24 06:01:28] Харьков: новостей не найдено
+[2026-08-24 06:01:30] Обрабатываю: Mayors to get powers to overrule local councils on planning 
+[2026-08-24 06:01:30] Попытка 1 для: Mayors to get powers to overrule local c
+[2026-08-24 06:01:31] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:01:41] Попытка 2 для: Mayors to get powers to overrule local c
+[2026-08-24 06:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:01:51] Попытка 3 для: Mayors to get powers to overrule local c
+[2026-08-24 06:01:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:02:01] Пауза 60 секунд...
+[2026-08-24 06:03:01] Обрабатываю: Texas judge denies Karmelo Anthony’s request for new trial i
+[2026-08-24 06:03:01] Попытка 1 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 06:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:03:11] Попытка 2 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 06:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:03:21] Попытка 3 для: Texas judge denies Karmelo Anthony’s req
+[2026-08-24 06:03:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:03:32] Пауза 60 секунд...
+[2026-08-24 06:04:32] Обрабатываю: Frustration mounts for thousands still without power after d
+[2026-08-24 06:04:32] Попытка 1 для: Frustration mounts for thousands still w
+[2026-08-24 06:04:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:04:42] Попытка 2 для: Frustration mounts for thousands still w
+[2026-08-24 06:04:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:04:52] Попытка 3 для: Frustration mounts for thousands still w
+[2026-08-24 06:04:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:05:02] Пауза 60 секунд...
+[2026-08-24 06:06:02] Обрабатываю: Iran warns nearby nations against joining US ‘economic war’ 
+[2026-08-24 06:06:02] Попытка 1 для: Iran warns nearby nations against joinin
+[2026-08-24 06:06:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:06:12] Попытка 2 для: Iran warns nearby nations against joinin
+[2026-08-24 06:06:13] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:06:23] Попытка 3 для: Iran warns nearby nations against joinin
+[2026-08-24 06:06:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:06:36] Обрабатываю: France agrees to provide 16 Rafale jets to Ukraine, deliveri
+[2026-08-24 06:06:36] Попытка 1 для: France agrees to provide 16 Rafale jets 
+[2026-08-24 06:06:36] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:06:46] Попытка 2 для: France agrees to provide 16 Rafale jets 
+[2026-08-24 06:06:46] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:06:56] Попытка 3 для: France agrees to provide 16 Rafale jets 
+[2026-08-24 06:06:56] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:07:06] Пауза 60 секунд...
+[2026-08-24 06:08:06] Обрабатываю: Ukraine: Could ex-defense minister challenge Zelenskyy?
+[2026-08-24 06:08:06] Попытка 1 для: Ukraine: Could ex-defense minister chall
+[2026-08-24 06:08:06] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:08:16] Попытка 2 для: Ukraine: Could ex-defense minister chall
+[2026-08-24 06:08:16] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:08:26] Попытка 3 для: Ukraine: Could ex-defense minister chall
+[2026-08-24 06:08:26] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-24 06:08:37] === Блок morning завершён ===
