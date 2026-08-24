@@ -40417,3 +40417,27 @@ Nithya
 [2026-08-24 06:08:26] Попытка 3 для: Ukraine: Could ex-defense minister chall
 [2026-08-24 06:08:26] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-24 06:08:37] === Блок morning завершён ===
+[2026-08-24 08:01:25] Загружено 3090 уже отправленных новостей
+[2026-08-24 08:01:25] === Запуск блока: ai_morning ===
+[2026-08-24 08:01:26] Неизвестный источник (biztoc.com): Hewlett Packard Enterprise: AI Infrastru
+[2026-08-24 08:01:26] Неизвестный источник (dailymail.com): Parents' fears after top fee-paying scho
+[2026-08-24 08:01:26] Неизвестный источник (businessline): Canada-India education ties entering a n
+[2026-08-24 08:01:26] Неизвестный источник (bleeding cool news): Green Lantern #38 Preview: Fast Food Feu
+[2026-08-24 08:01:26] Неизвестный источник (jepeake.com): AI Chip Architectures
+[2026-08-24 08:01:26] Неизвестный источник (techradar): The US Army is training AI agents to wor
+[2026-08-24 08:01:26] Неизвестный источник (new zealand herald): Data centres: Why New Zealand’s digital 
+[2026-08-24 08:01:26] Неизвестный источник (inverse): The 15 Most Exciting Fall 2026 Movies
+[2026-08-24 08:01:26] Неизвестный источник (wdjt): Google is buying all of Spirit Airlines’
+[2026-08-24 08:01:26] Неизвестный источник (wnd.com): Here are the factories of the intelligen
+[2026-08-24 08:01:26] Неизвестный источник (londoninsider.co.uk): Lucid Group Appoints Publicis Health Exe
+[2026-08-24 08:01:26] Неизвестный источник (bleeding cool news): Black Tower: The Raven Conspiracy #1 Pre
+[2026-08-24 08:01:26] Неизвестный источник (decrypt): Microsoft Fixes 'Perfect 10' Exploit Tha
+[2026-08-24 08:01:26] Неизвестный источник (thestreet): Comcast adds new service to internet pla
+[2026-08-24 08:01:26] Неизвестный источник (siliconangle news): From tokenmaxxing to sovereign alpha: Wh
+[2026-08-24 08:01:26] Неизвестный источник (livemint): Broadcom eyes $80 billion debt deal to f
+[2026-08-24 08:01:26] Неизвестный источник (businessline): BRICS Science Ministerial Meet adopts de
+[2026-08-24 08:01:26] Неизвестный источник (homedit.com): Those Floating Backyard Concrete Pads Ar
+[2026-08-24 08:01:26] Неизвестный источник (bleeding cool news): Gambit: Wanted #2 Preview: Bullseye's Go
+[2026-08-24 08:01:26] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-08-24 08:01:26] ⚠️ Блок *AI утро* (24.08.2026) — новостей не найдено!
+[2026-08-24 08:01:26] === Блок ai_morning завершён ===
