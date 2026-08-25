@@ -40627,3 +40627,93 @@ Nithya
 [2026-08-24 18:04:41] Попытка 3 для: Election fight heats up over proposed $7
 [2026-08-24 18:04:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-24 18:04:52] === Блок ai_evening завершён ===
+[2026-08-25 06:01:22] Загружено 3102 уже отправленных новостей
+[2026-08-25 06:01:22] === Запуск блока: morning ===
+[2026-08-25 06:01:23] Неизвестный источник (fox news): Lindsay Clancy's three child victims for
+[2026-08-25 06:01:23] Неизвестный источник (tmz): Simon Cowell Out of 'America's Got Talen
+[2026-08-25 06:01:23] Неизвестный источник (cnbc): Alibaba plunges after announcing $10.2 b
+[2026-08-25 06:01:23] Неизвестный источник (yahoo entertainment): Caitlin Clark scores 37 points as the Fe
+[2026-08-25 06:01:23] Неизвестный источник (fox news): Louisiana girl, 8, dies after contractin
+[2026-08-25 06:01:23] Неизвестный источник (nfl news): 2026 NFL Preseason, Week 2: What We Lear
+[2026-08-25 06:01:23] Неизвестный источник (cbs sports): NFL preseason Week 2 overreactions: Shed
+[2026-08-25 06:01:23] Неизвестный источник (ktla los angeles): ‘Almost blood moon’ to be visible from S
+[2026-08-25 06:01:23] Неизвестный источник (entertainment weekly): ‘Spider-Man: Brand New Day’ to oust ‘Tit
+[2026-08-25 06:01:23] Неизвестный источник (9to5google.com): Samsung reportedly bringing this major r
+[2026-08-25 06:01:23] Неизвестный источник (katu): Five people, animals found dead at home 
+[2026-08-25 06:01:23] Неизвестный источник (hollywood reporter): Hayden Panettiere’s Mom Blasts Gayle Kin
+[2026-08-25 06:01:23] Неизвестный источник (forbes): iPhone 18 Pro Release Date Has Already C
+[2026-08-25 06:01:23] Неизвестный источник (buzzfeed): These Completely Real Fun Facts Could Br
+[2026-08-25 06:01:23] Неизвестный источник (pbs): Report: Jared Kushner and Democratic lea
+[2026-08-25 06:01:23] Неизвестный источник (macrumors): Gurman: iPhone Ultra Wows Early Testers,
+[2026-08-25 06:01:23] Неизвестный источник (tvinsider): Jenna Bush Hager’s Rare Photo of All 6 B
+[2026-08-25 06:01:23] Неизвестный источник (notebookcheck.net): 9th GTA 6 leak teases Lucia gameplay aft
+[2026-08-25 06:01:23] Неизвестный источник (new york post): Why can’t we just kill all the ticks? - 
+[2026-08-25 06:01:23] Неизвестный источник (investing.com): Why does the USD outlook depend on UST a
+[2026-08-25 06:01:23] Мировые новости: найдено 10 после фильтрации
+[2026-08-25 06:01:23] Заблокированный источник (naturalnews.com): Ukraineâs Power Grid Vulnerable as Cor
+[2026-08-25 06:01:23] Нет фото: Zelenskyy details rift with Ukraine's di
+[2026-08-25 06:01:23] Нет фото: UK's Burnham to visit Ukraine with plan 
+[2026-08-25 06:01:23] Нет фото: Pence: Ukraine is ‘going to be deeply vu
+[2026-08-25 06:01:23] Заблокированный источник (rt): UK to give Ukraine classified data for l
+[2026-08-25 06:01:23] Нет фото: Ukraine war latest: Zelensky claims Puti
+[2026-08-25 06:01:23] Внутренний дубль: Zelensky details rift with Ukraine’s dismissed Def
+[2026-08-25 06:01:23] Украинские новости: найдено 8 после фильтрации
+[2026-08-25 06:01:23] Заблокированный источник (rt): The Nazis came to Kursk for history’s gr
+[2026-08-25 06:01:23] Заблокированный источник (rt): Ukraine at 35: Defenseless in the air as
+[2026-08-25 06:01:23] Харьков: найдена новость — Ukraine: Three killed in Russian strike on outskir
+[2026-08-25 06:01:26] Обрабатываю: Live updates: US set to unveil ‘economic D-Day’ sanctions on
+[2026-08-25 06:01:26] Попытка 1 для: Live updates: US set to unveil ‘economic
+[2026-08-25 06:01:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:01:36] Попытка 2 для: Live updates: US set to unveil ‘economic
+[2026-08-25 06:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:01:46] Попытка 3 для: Live updates: US set to unveil ‘economic
+[2026-08-25 06:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:01:57] Пауза 60 секунд...
+[2026-08-25 06:02:57] Обрабатываю: Sean Grayson, former Sangamon County deputy convicted in kil
+[2026-08-25 06:02:57] Попытка 1 для: Sean Grayson, former Sangamon County dep
+[2026-08-25 06:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:03:07] Попытка 2 для: Sean Grayson, former Sangamon County dep
+[2026-08-25 06:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:03:17] Попытка 3 для: Sean Grayson, former Sangamon County dep
+[2026-08-25 06:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:03:28] Пауза 60 секунд...
+[2026-08-25 06:04:28] Обрабатываю: Fast-moving wildfire amid shifting winds threatens Reno, Nev
+[2026-08-25 06:04:28] Попытка 1 для: Fast-moving wildfire amid shifting winds
+[2026-08-25 06:04:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:04:38] Попытка 2 для: Fast-moving wildfire amid shifting winds
+[2026-08-25 06:04:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:04:48] Попытка 3 для: Fast-moving wildfire amid shifting winds
+[2026-08-25 06:04:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:04:58] Пауза 60 секунд...
+[2026-08-25 06:05:58] Обрабатываю: Zelenskyy details rift with Ukraine’s dismissed Defense Mini
+[2026-08-25 06:05:58] Попытка 1 для: Zelenskyy details rift with Ukraine’s di
+[2026-08-25 06:05:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:06:08] Попытка 2 для: Zelenskyy details rift with Ukraine’s di
+[2026-08-25 06:06:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:06:19] Попытка 3 для: Zelenskyy details rift with Ukraine’s di
+[2026-08-25 06:06:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:06:31] Обрабатываю: Zelenskyy details rift with Ukraine's dismissed Defense Mini
+[2026-08-25 06:06:31] Попытка 1 для: Zelenskyy details rift with Ukraine's di
+[2026-08-25 06:06:31] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:06:41] Попытка 2 для: Zelenskyy details rift with Ukraine's di
+[2026-08-25 06:06:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:06:51] Попытка 3 для: Zelenskyy details rift with Ukraine's di
+[2026-08-25 06:06:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:07:02] Пауза 60 секунд...
+[2026-08-25 06:08:02] Обрабатываю: Ukraine: 518 attacks on Zaporizhzhia in 24 hours
+[2026-08-25 06:08:02] Попытка 1 для: Ukraine: 518 attacks on Zaporizhzhia in 
+[2026-08-25 06:08:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:08:12] Попытка 2 для: Ukraine: 518 attacks on Zaporizhzhia in 
+[2026-08-25 06:08:12] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:08:22] Попытка 3 для: Ukraine: 518 attacks on Zaporizhzhia in 
+[2026-08-25 06:08:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:08:32] Фото не отправилось: 400
+[2026-08-25 06:08:33] Пауза 60 секунд...
+[2026-08-25 06:09:33] Обрабатываю: Ukraine: Three killed in Russian strike on outskirts of Khar
+[2026-08-25 06:09:33] Попытка 1 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 06:09:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:09:43] Попытка 2 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 06:09:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:09:53] Попытка 3 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 06:09:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 06:10:03] === Блок morning завершён ===
