@@ -40917,3 +40917,66 @@ Nithya
 [2026-08-25 16:09:53] Попытка 3 для: Ukraine: Three killed in Russian strike 
 [2026-08-25 16:09:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-25 16:10:03] === Блок evening завершён ===
+[2026-08-25 18:01:17] Загружено 3122 уже отправленных новостей
+[2026-08-25 18:01:17] === Запуск блока: ai_evening ===
+[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Physical AI’s moment has arrived – but m
+[2026-08-25 18:01:18] Неизвестный источник (kqed): Monterey Park Becomes a Role Model for B
+[2026-08-25 18:01:18] Заблокированный источник (rt): The Vatican wants a seat at the Ukraine 
+[2026-08-25 18:01:18] Неизвестный источник (www.gov.uk): Joint Declaration of Intent between the 
+[2026-08-25 18:01:18] Неизвестный источник (pymnts.com): Flagright Advances ACH Security as Nacha
+[2026-08-25 18:01:18] Неизвестный источник (israelnationalnews.com): The Arab Case for Israel: Essays from a 
+[2026-08-25 18:01:18] Неизвестный источник (winter is coming): Review & recap: Silo season 3 episode 8 
+[2026-08-25 18:01:18] Неизвестный источник (crypto briefing): Fasset achieves $1B valuation with SBI b
+[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Northborne Partners Advises Genesis Rail
+[2026-08-25 18:01:18] Неизвестный источник (the daily caller): Pentagon Wants To Curb CCP Infiltration 
+[2026-08-25 18:01:18] Неизвестный источник (nvidia.com): With Groq 3 LPX in Full Production, NVID
+[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Nvidia’s dedicated inference accelerator
+[2026-08-25 18:01:18] Неизвестный источник (techradar): Windscribe's bizarre AI Hitler marketing
+[2026-08-25 18:01:18] Неизвестный источник (forbes): Foreign Investment Can Help Rebuild Amer
+[2026-08-25 18:01:18] Неизвестный источник (nvidia.com): How NVIDIA Groq 3 LPX Unlocks Ultrafast 
+[2026-08-25 18:01:18] Неизвестный источник (internet): ⚡ Weekly Recap: AI-Powered PLC Attacks, 
+[2026-08-25 18:01:18] Нет фото: aait 5.0.5
+[2026-08-25 18:01:18] Неизвестный источник (princeton university): DOE and Princeton University extend, str
+[2026-08-25 18:01:18] Неизвестный источник (plos.org): Bridging the gaps in innovation research
+[2026-08-25 18:01:18] Неизвестный источник (plos.org): Hybrid CNN-embedding fusion with MFCC-SV
+[2026-08-25 18:01:18] Неизвестный источник (plos.org): Vector competence of temperate and tropi
+[2026-08-25 18:01:18] Неизвестный источник (plos.org): Development and validation of a national
+[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Brayton Purcell LLP Highlights KQED Foru
+[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Thomson Reuters launches proprietary AI 
+[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Apple Emergency SOS Live Video Now Avail
+[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Conexiant To Serve as Exclusive Media Pa
+[2026-08-25 18:01:18] Неизвестный источник (pyimagesearch.com): YOLO26 Open-Vocabulary Object Detection 
+[2026-08-25 18:01:18] Неизвестный источник (prnewswire): World Media Gather at the Center for Isl
+[2026-08-25 18:01:18] Неизвестный источник (yahoo entertainment): Is Adobe (ADBE) Losing Its Edge Despite 
+[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Fake Codex installer tricks Mac users in
+[2026-08-25 18:01:18] Неизвестный источник (rigzone): Masdar Starts Up 35MW BESS in England
+[2026-08-25 18:01:18] Неизвестный источник (crypto coins news): AI Isn’t Bullish for Bitcoin, Peter Schi
+[2026-08-25 18:01:18] Неизвестный источник (kdnuggets.com): Build an End-to-End Data Science Project
+[2026-08-25 18:01:18] Нет фото: AIxC's RoboShare Secures New Short- and 
+[2026-08-25 18:01:18] Нет фото: Plug and Play and Alibaba.com Team Up on
+[2026-08-25 18:01:18] Нет фото: Capability before prestige: A realistic 
+[2026-08-25 18:01:18] AI новости: найдено 3 после фильтрации
+[2026-08-25 18:01:20] Обрабатываю: Alibaba Shares Plunge Nearly 9% After $10 Billion Share Sale
+[2026-08-25 18:01:20] Попытка 1 для: Alibaba Shares Plunge Nearly 9% After $1
+[2026-08-25 18:01:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:01:31] Попытка 2 для: Alibaba Shares Plunge Nearly 9% After $1
+[2026-08-25 18:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:01:41] Попытка 3 для: Alibaba Shares Plunge Nearly 9% After $1
+[2026-08-25 18:01:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:01:51] Пауза 60 секунд...
+[2026-08-25 18:02:51] Обрабатываю: Intel Shares Drop Nearly 3% to $87 Amid Dilution Worries Fol
+[2026-08-25 18:02:51] Попытка 1 для: Intel Shares Drop Nearly 3% to $87 Amid 
+[2026-08-25 18:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:03:01] Попытка 2 для: Intel Shares Drop Nearly 3% to $87 Amid 
+[2026-08-25 18:03:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:03:12] Попытка 3 для: Intel Shares Drop Nearly 3% to $87 Amid 
+[2026-08-25 18:03:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:03:22] Пауза 60 секунд...
+[2026-08-25 18:04:22] Обрабатываю: GENESIS EIR Cohort-3: Govt backs deeptech startups, apply by
+[2026-08-25 18:04:22] Попытка 1 для: GENESIS EIR Cohort-3: Govt backs deeptec
+[2026-08-25 18:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:04:32] Попытка 2 для: GENESIS EIR Cohort-3: Govt backs deeptec
+[2026-08-25 18:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:04:42] Попытка 3 для: GENESIS EIR Cohort-3: Govt backs deeptec
+[2026-08-25 18:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 18:04:53] === Блок ai_evening завершён ===
