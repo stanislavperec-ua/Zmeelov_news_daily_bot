@@ -40776,3 +40776,56 @@ Nithya
 [2026-08-25 08:04:47] Попытка 3 для: Global Market: Alibaba shares slide afte
 [2026-08-25 08:04:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-25 08:04:57] === Блок ai_morning завершён ===
+[2026-08-25 11:01:20] Загружено 3112 уже отправленных новостей
+[2026-08-25 11:01:20] === Запуск блока: midday ===
+[2026-08-25 11:01:20] Неизвестный источник (intouch weekly): Hayden Panettiere’s Mom Claims Brian Hic
+[2026-08-25 11:01:20] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-25 11:01:20] Неизвестный источник (dw (english)): Ukraine news: UK PM Burnham arrives in K
+[2026-08-25 11:01:20] Неизвестный источник (fox news): Lindsay Clancy's three child victims for
+[2026-08-25 11:01:20] Пропускаю уже отправленную: Fast-moving wildfire amid shifting winds threatens
+[2026-08-25 11:01:20] Неизвестный источник (espn): Sources: Raiders RB Jeanty believed to h
+[2026-08-25 11:01:20] Неизвестный источник (pff.com): NFL Preseason Week 2 Recap: Immediate fa
+[2026-08-25 11:01:20] Неизвестный источник (yahoo entertainment): Caitlin Clark scores 37 points as the Fe
+[2026-08-25 11:01:20] Неизвестный источник (cbs sports): NFL preseason Week 2 overreactions: Shed
+[2026-08-25 11:01:20] Неизвестный источник (entertainment weekly): ‘Spider-Man: Brand New Day’ to oust ‘Tit
+[2026-08-25 11:01:20] Неизвестный источник (9to5google.com): Samsung reportedly bringing this major r
+[2026-08-25 11:01:20] Неизвестный источник (deadline): Shelley Fabares Dead: ‘The Donna Reed Sh
+[2026-08-25 11:01:20] Неизвестный источник (instyle): Kourtney Kardashian Bares Her Butt in a 
+[2026-08-25 11:01:20] Неизвестный источник (appleinsider): Some people outside of Apple have alread
+[2026-08-25 11:01:20] Неизвестный источник (new york post): Why can’t we just kill all the ticks? - 
+[2026-08-25 11:01:20] Неизвестный источник (yahoo entertainment): Nvidia's Q2 earnings to test resurgent A
+[2026-08-25 11:01:20] Старая новость (2026-08-23T00:13:52Z): NASA to launch new space telescope later
+[2026-08-25 11:01:20] Старая новость (2026-08-22T13:00:00Z): Top Stories: Apple Leaks - Camera-Equipp
+[2026-08-25 11:01:20] Мировые новости: найдено 11 после фильтрации
+[2026-08-25 11:01:23] Обрабатываю: Live Updates: U.S. Treasury to unveil new Iran sanctions aft
+[2026-08-25 11:01:23] Попытка 1 для: Live Updates: U.S. Treasury to unveil ne
+[2026-08-25 11:01:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:01:33] Попытка 2 для: Live Updates: U.S. Treasury to unveil ne
+[2026-08-25 11:01:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:01:43] Попытка 3 для: Live Updates: U.S. Treasury to unveil ne
+[2026-08-25 11:01:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:01:53] Пауза 60 секунд...
+[2026-08-25 11:02:53] Обрабатываю: Guinea rubbish landfill collapse kills 31 in Conakry
+[2026-08-25 11:02:53] Попытка 1 для: Guinea rubbish landfill collapse kills 3
+[2026-08-25 11:02:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:03:03] Попытка 2 для: Guinea rubbish landfill collapse kills 3
+[2026-08-25 11:03:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:03:13] Попытка 3 для: Guinea rubbish landfill collapse kills 3
+[2026-08-25 11:03:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:03:24] Пауза 60 секунд...
+[2026-08-25 11:04:24] Обрабатываю: Here’s what items could cost more as the US-Canada trade war
+[2026-08-25 11:04:24] Попытка 1 для: Here’s what items could cost more as the
+[2026-08-25 11:04:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:04:34] Попытка 2 для: Here’s what items could cost more as the
+[2026-08-25 11:04:34] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:04:44] Попытка 3 для: Here’s what items could cost more as the
+[2026-08-25 11:04:44] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:04:54] Пауза 60 секунд...
+[2026-08-25 11:05:54] Обрабатываю: Data centers’ ‘oh s--t’ moment
+[2026-08-25 11:05:54] Попытка 1 для: Data centers’ ‘oh s--t’ moment
+[2026-08-25 11:05:55] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:06:05] Попытка 2 для: Data centers’ ‘oh s--t’ moment
+[2026-08-25 11:06:05] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:06:15] Попытка 3 для: Data centers’ ‘oh s--t’ moment
+[2026-08-25 11:06:15] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 11:06:25] === Блок midday завершён ===
