@@ -40829,3 +40829,91 @@ Nithya
 [2026-08-25 11:06:15] Попытка 3 для: Data centers’ ‘oh s--t’ moment
 [2026-08-25 11:06:15] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-25 11:06:25] === Блок midday завершён ===
+[2026-08-25 16:01:22] Загружено 3116 уже отправленных новостей
+[2026-08-25 16:01:22] === Запуск блока: evening ===
+[2026-08-25 16:01:22] Неизвестный источник (page six): Hayden Panettiere’s mom gave late daught
+[2026-08-25 16:01:22] Неизвестный источник (cnbc): U.S. Trade Rep Greer blames Canada for f
+[2026-08-25 16:01:22] Неизвестный источник (fox news): Shelley Fabares, star of 'The Donna Reed
+[2026-08-25 16:01:22] Неизвестный источник (cnbc): Bessent could tap near $1 trillion Treas
+[2026-08-25 16:01:22] Неизвестный источник (deadline): Jo Gardiner Dies: ‘Race Across The World
+[2026-08-25 16:01:22] Неизвестный источник (dw (english)): Ukraine news: UK PM Burnham arrives in K
+[2026-08-25 16:01:22] Неизвестный источник (space.com): It's been 20 years since Pluto lost plan
+[2026-08-25 16:01:22] Неизвестный источник (variety): California Attorney General Cancels Para
+[2026-08-25 16:01:22] Неизвестный источник (usa today): Social Security checks go out August 26.
+[2026-08-25 16:01:22] Неизвестный источник (android authority): Android Pulse app may already be on your
+[2026-08-25 16:01:22] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-25 16:01:22] Неизвестный источник (the conversation africa): Backyard bird feeding could be a bird fl
+[2026-08-25 16:01:22] Неизвестный источник (espn): Sources: Raiders RB Jeanty believed to h
+[2026-08-25 16:01:22] Неизвестный источник (9to5google.com): Samsung reportedly bringing this major r
+[2026-08-25 16:01:22] Неизвестный источник (fox sports): It's Time For The Browns To Move On And 
+[2026-08-25 16:01:22] Старая новость (2026-08-23T14:03:00Z): Quantum signals escape fiber, travel 13 
+[2026-08-25 16:01:22] Старая новость (2026-08-23T08:14:03Z): DR Congo, M23 rebels agree on roadmap fo
+[2026-08-25 16:01:22] Мировые новости: найдено 12 после фильтрации
+[2026-08-25 16:01:22] Заблокированный источник (rt): Dependence Day: A generation after the S
+[2026-08-25 16:01:22] Нет фото: It's been 20 years since Pluto lost plan
+[2026-08-25 16:01:22] Нет фото: Kremlin says British missile help for Uk
+[2026-08-25 16:01:22] Нет фото: Putin Wants to Draft 300K New Troops, Ze
+[2026-08-25 16:01:22] Нет фото: 49ers owner Jed York arrested and found 
+[2026-08-25 16:01:22] Нет фото: Canada Strikes Back at Trump With Dollar
+[2026-08-25 16:01:22] Нет фото: Canada Strikes Back at Trump With Dollar
+[2026-08-25 16:01:22] Заблокированный источник (rt): Neighbor accuses Sudan of cross-border a
+[2026-08-25 16:01:22] Нет фото: France, UK step up missile support for U
+[2026-08-25 16:01:22] Украинские новости: найдено 11 после фильтрации
+[2026-08-25 16:01:23] Заблокированный источник (rt): The Nazis came to Kursk for history’s gr
+[2026-08-25 16:01:23] Харьков: найдена новость — Ukraine: Three killed in Russian strike on outskir
+[2026-08-25 16:01:25] Обрабатываю: Illinois officer convicted in Sonya Massey killing has died,
+[2026-08-25 16:01:25] Попытка 1 для: Illinois officer convicted in Sonya Mass
+[2026-08-25 16:01:25] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:01:35] Попытка 2 для: Illinois officer convicted in Sonya Mass
+[2026-08-25 16:01:35] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:01:45] Попытка 3 для: Illinois officer convicted in Sonya Mass
+[2026-08-25 16:01:45] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:01:56] Пауза 60 секунд...
+[2026-08-25 16:02:56] Обрабатываю: Iran’s rial currency hits new record low as US prepares to a
+[2026-08-25 16:02:56] Попытка 1 для: Iran’s rial currency hits new record low
+[2026-08-25 16:02:56] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:03:06] Попытка 2 для: Iran’s rial currency hits new record low
+[2026-08-25 16:03:06] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:03:16] Попытка 3 для: Iran’s rial currency hits new record low
+[2026-08-25 16:03:16] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:03:27] Пауза 60 секунд...
+[2026-08-25 16:04:27] Обрабатываю: Trump says rejecting data centers is "a mistake"
+[2026-08-25 16:04:27] Попытка 1 для: Trump says rejecting data centers is "a 
+[2026-08-25 16:04:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:04:37] Попытка 2 для: Trump says rejecting data centers is "a 
+[2026-08-25 16:04:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:04:47] Попытка 3 для: Trump says rejecting data centers is "a 
+[2026-08-25 16:04:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:04:57] Пауза 60 секунд...
+[2026-08-25 16:05:57] Обрабатываю: Watch Live: Lindsay Clancy trial testimony continues with pr
+[2026-08-25 16:05:57] Попытка 1 для: Watch Live: Lindsay Clancy trial testimo
+[2026-08-25 16:05:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:06:08] Попытка 2 для: Watch Live: Lindsay Clancy trial testimo
+[2026-08-25 16:06:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:06:18] Попытка 3 для: Watch Live: Lindsay Clancy trial testimo
+[2026-08-25 16:06:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:06:31] Обрабатываю: Europe closes mostly lower with Ukraine in focus
+[2026-08-25 16:06:31] Попытка 1 для: Europe closes mostly lower with Ukraine 
+[2026-08-25 16:06:31] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:06:41] Попытка 2 для: Europe closes mostly lower with Ukraine 
+[2026-08-25 16:06:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:06:51] Попытка 3 для: Europe closes mostly lower with Ukraine 
+[2026-08-25 16:06:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:07:01] Фото не отправилось: 400
+[2026-08-25 16:07:02] Пауза 60 секунд...
+[2026-08-25 16:08:02] Обрабатываю: Ukraine faces €23B defense funding hole as Western cash come
+[2026-08-25 16:08:02] Попытка 1 для: Ukraine faces €23B defense funding hole 
+[2026-08-25 16:08:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:08:12] Попытка 2 для: Ukraine faces €23B defense funding hole 
+[2026-08-25 16:08:12] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:08:22] Попытка 3 для: Ukraine faces €23B defense funding hole 
+[2026-08-25 16:08:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:08:32] Пауза 60 секунд...
+[2026-08-25 16:09:32] Обрабатываю: Ukraine: Three killed in Russian strike on outskirts of Khar
+[2026-08-25 16:09:32] Попытка 1 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 16:09:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:09:43] Попытка 2 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 16:09:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:09:53] Попытка 3 для: Ukraine: Three killed in Russian strike 
+[2026-08-25 16:09:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-25 16:10:03] === Блок evening завершён ===
