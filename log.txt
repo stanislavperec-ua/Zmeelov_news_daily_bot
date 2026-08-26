@@ -41122,3 +41122,55 @@ Nithya
 [2026-08-26 08:04:52] Попытка 3 для: Nokia China exit deepens telecom split a
 [2026-08-26 08:04:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 08:05:03] === Блок ai_morning завершён ===
+[2026-08-26 11:01:24] Загружено 3133 уже отправленных новостей
+[2026-08-26 11:01:24] === Запуск блока: midday ===
+[2026-08-26 11:01:24] Неизвестный источник (wral.com): SpaceX Starlink launch visible in NC ski
+[2026-08-26 11:01:24] Неизвестный источник (the weather channel): Lunar eclipse 2026: Will weather block i
+[2026-08-26 11:01:24] Неизвестный источник (yahoo entertainment): Nvidia's valuation looks surprisingly ch
+[2026-08-26 11:01:24] Неизвестный источник (wfyi.org): Gary residents turn to prayer as power o
+[2026-08-26 11:01:24] Неизвестный источник (macrumors): New iPad Mini With Four Upgrades Expecte
+[2026-08-26 11:01:24] Неизвестный источник (9to5mac): Apple could debut two AirPods 5 models n
+[2026-08-26 11:01:24] Неизвестный источник (espn): Owners thrilled with 'family investment'
+[2026-08-26 11:01:24] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
+[2026-08-26 11:01:24] Неизвестный источник (fox news): Ex-NBA player tells Laura Ingraham why W
+[2026-08-26 11:01:24] Неизвестный источник (courthouse news service): Supreme Court frees Trump to enforce mai
+[2026-08-26 11:01:24] Неизвестный источник (cnbc): Paramount CEO David Ellison is at the fi
+[2026-08-26 11:01:24] Неизвестный источник (ktvq billings news): Sheriff: Multiple people dead following 
+[2026-08-26 11:01:24] Неизвестный источник (techpowerup.com): Lenovo Addresses Legion Go BIOS Update B
+[2026-08-26 11:01:24] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Box Office S
+[2026-08-26 11:01:24] Неизвестный источник (rolling stone): Reggie Watts: Festivals Remove Comedian,
+[2026-08-26 11:01:24] Заблокированный источник (bleacher report): Dae'Quan Wright Waived by Browns, TE Lin
+[2026-08-26 11:01:24] Старая новость (2026-08-24T10:00:00Z): It's been 20 years since Pluto lost plan
+[2026-08-26 11:01:24] Мировые новости: найдено 13 после фильтрации
+[2026-08-26 11:01:27] Обрабатываю: Can Trump's economic war against Iran do what airstrikes and
+[2026-08-26 11:01:27] Попытка 1 для: Can Trump's economic war against Iran do
+[2026-08-26 11:01:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:01:37] Попытка 2 для: Can Trump's economic war against Iran do
+[2026-08-26 11:01:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:01:47] Попытка 3 для: Can Trump's economic war against Iran do
+[2026-08-26 11:01:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:01:58] Пауза 60 секунд...
+[2026-08-26 11:02:58] Обрабатываю: The US has the economic strength to withstand a Canadian tra
+[2026-08-26 11:02:58] Попытка 1 для: The US has the economic strength to with
+[2026-08-26 11:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:03:08] Попытка 2 для: The US has the economic strength to with
+[2026-08-26 11:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:03:18] Попытка 3 для: The US has the economic strength to with
+[2026-08-26 11:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:03:29] Пауза 60 секунд...
+[2026-08-26 11:04:29] Обрабатываю: Android is getting its own weird dots to cure car sickness
+[2026-08-26 11:04:29] Попытка 1 для: Android is getting its own weird dots to
+[2026-08-26 11:04:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:04:39] Попытка 2 для: Android is getting its own weird dots to
+[2026-08-26 11:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:04:49] Попытка 3 для: Android is getting its own weird dots to
+[2026-08-26 11:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:05:00] Пауза 60 секунд...
+[2026-08-26 11:06:00] Обрабатываю: The US says it’ll crack down on countries doing business wit
+[2026-08-26 11:06:00] Попытка 1 для: The US says it’ll crack down on countrie
+[2026-08-26 11:06:00] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:06:10] Попытка 2 для: The US says it’ll crack down on countrie
+[2026-08-26 11:06:10] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:06:20] Попытка 3 для: The US says it’ll crack down on countrie
+[2026-08-26 11:06:20] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 11:06:30] === Блок midday завершён ===
