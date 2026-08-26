@@ -41064,3 +41064,61 @@ Nithya
 [2026-08-26 06:08:33] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 06:08:44] Фото не отправилось: 400
 [2026-08-26 06:08:45] === Блок morning завершён ===
+[2026-08-26 08:01:28] Загружено 3130 уже отправленных новостей
+[2026-08-26 08:01:28] === Запуск блока: ai_morning ===
+[2026-08-26 08:01:28] Неизвестный источник (theblaze): Trump’s next tax cut should make America
+[2026-08-26 08:01:28] Неизвестный источник (cna): India’s space startups are taking off. B
+[2026-08-26 08:01:28] Неизвестный источник (livemint): Musk-led SpaceX to launch first Nvidia-p
+[2026-08-26 08:01:28] Неизвестный источник (esa.int): No signal left behind: new ways to detec
+[2026-08-26 08:01:28] Неизвестный источник (landezine.com): Phoebe Lickwar: Agriculture Is a Form of
+[2026-08-26 08:01:28] Нет фото: Chunghwa Telecom Earns Frost & Sullivan'
+[2026-08-26 08:01:28] Неизвестный источник (jasondoyle.ie): Show HN: When AI Decides What Matters
+[2026-08-26 08:01:28] Неизвестный источник (medical daily): AI Models Scored 100 Percent Identifying
+[2026-08-26 08:01:28] Неизвестный источник (cointelegraph): Korean bank taps Ripple for payments, Pa
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Robotics AI startup Generalist reportedl
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Chip software automation startup Embedd 
+[2026-08-26 08:01:28] Неизвестный источник (pymnts.com): Amazon Envisions Next-Generation Automat
+[2026-08-26 08:01:28] Неизвестный источник (bleeding cool news): Teenage Mutant Ninja Turtles: Saturday M
+[2026-08-26 08:01:28] Неизвестный источник (edsurge.com): As Male Teachers Vanish From the Classro
+[2026-08-26 08:01:28] Неизвестный источник (vmware.com): VMware vDefend IDPS: Securing Private Cl
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Nvidia reportedly eyes another investmen
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Quintessent bags $40M to develop lasers 
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Trump defends AI data center buildout am
+[2026-08-26 08:01:28] Неизвестный источник (itnews): AEMO predicts seven-fold rise in data ce
+[2026-08-26 08:01:28] Неизвестный источник (storagereview.com): NVIDIA Groq 3 LPX Enters Full Production
+[2026-08-26 08:01:28] Неизвестный источник (prnewswire): TGH Brooksville Performs First Cardiotho
+[2026-08-26 08:01:28] Неизвестный источник (cointelegraph): Bernstein sees new USDC growth cycle, se
+[2026-08-26 08:01:28] Неизвестный источник (biztoc.com): United Airlines CEO Makes Big JFK Move
+[2026-08-26 08:01:28] Нет фото: Show HN: I built a lite LPU that can do 
+[2026-08-26 08:01:28] Заблокированный источник (barchart.com): This Analyst Just Upped Its Price Target
+[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Physical AI’s moment has arrived – but m
+[2026-08-26 08:01:28] Неизвестный источник (kqed): Monterey Park Becomes a Role Model for B
+[2026-08-26 08:01:28] Заблокированный источник (rt): The Vatican wants a seat at the Ukraine 
+[2026-08-26 08:01:28] Неизвестный источник (www.gov.uk): Joint Declaration of Intent between the 
+[2026-08-26 08:01:28] Неизвестный источник (pymnts.com): Flagright Advances ACH Security as Nacha
+[2026-08-26 08:01:28] Неизвестный источник (israelnationalnews.com): The Arab Case for Israel: Essays from a 
+[2026-08-26 08:01:28] AI новости: найдено 7 после фильтрации
+[2026-08-26 08:01:30] Обрабатываю: Why experience alone is not enough for the next level of lea
+[2026-08-26 08:01:30] Попытка 1 для: Why experience alone is not enough for t
+[2026-08-26 08:01:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:01:40] Попытка 2 для: Why experience alone is not enough for t
+[2026-08-26 08:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:01:51] Попытка 3 для: Why experience alone is not enough for t
+[2026-08-26 08:01:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:02:01] Пауза 60 секунд...
+[2026-08-26 08:03:01] Обрабатываю: TGH Brooksville Performs First Cardiothoracic Surgery, Expan
+[2026-08-26 08:03:01] Попытка 1 для: TGH Brooksville Performs First Cardiotho
+[2026-08-26 08:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:03:11] Попытка 2 для: TGH Brooksville Performs First Cardiotho
+[2026-08-26 08:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:03:21] Попытка 3 для: TGH Brooksville Performs First Cardiotho
+[2026-08-26 08:03:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:03:32] Пауза 60 секунд...
+[2026-08-26 08:04:32] Обрабатываю: Nokia China exit deepens telecom split as Nvidia bets on 6G 
+[2026-08-26 08:04:32] Попытка 1 для: Nokia China exit deepens telecom split a
+[2026-08-26 08:04:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:04:42] Попытка 2 для: Nokia China exit deepens telecom split a
+[2026-08-26 08:04:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:04:52] Попытка 3 для: Nokia China exit deepens telecom split a
+[2026-08-26 08:04:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 08:05:03] === Блок ai_morning завершён ===
