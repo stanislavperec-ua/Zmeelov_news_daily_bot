@@ -41174,3 +41174,85 @@ Nithya
 [2026-08-26 11:06:20] Попытка 3 для: The US says it’ll crack down on countrie
 [2026-08-26 11:06:20] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 11:06:30] === Блок midday завершён ===
+[2026-08-26 16:01:34] Загружено 3137 уже отправленных новостей
+[2026-08-26 16:01:34] === Запуск блока: evening ===
+[2026-08-26 16:01:35] Неизвестный источник (cbs sports): College football odds, picks, prediction
+[2026-08-26 16:01:35] Неизвестный источник (fox news): Angel Reese sets two WNBA records with h
+[2026-08-26 16:01:35] Неизвестный источник (9to5mac): Apple releases new Magic Keyboards with 
+[2026-08-26 16:01:35] Неизвестный источник (hollywood reporter): ‘Ali G: Who Iz I?’ Trailer: Sacha Baron 
+[2026-08-26 16:01:35] Неизвестный источник (nbcsports.com): NFC North, AFC South teams reveal "Rival
+[2026-08-26 16:01:35] Неизвестный источник (usa today): Here's when the Social Security COLA upd
+[2026-08-26 16:01:35] Неизвестный источник (9to5google.com): Galaxy S27 Ultra’s major redesign detail
+[2026-08-26 16:01:35] Неизвестный источник (mma fighting): Matt Brown understands why Mike Perry to
+[2026-08-26 16:01:35] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-26 16:01:35] Неизвестный источник (yahoo entertainment): Earnings live updates: Dick's Sporting G
+[2026-08-26 16:01:35] Неизвестный источник (the points guy): United adds 10 new international destina
+[2026-08-26 16:01:35] Неизвестный источник (fox news): Prince William ‘blindsided’ by Harry, Me
+[2026-08-26 16:01:35] Неизвестный источник (cnbc): SEC reportedly subpoenas Wall Street ban
+[2026-08-26 16:01:35] Неизвестный источник (variety): Hulu Cancels Mindy Kaling-Created Comedy
+[2026-08-26 16:01:35] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
+[2026-08-26 16:01:35] Неизвестный источник (usa today): 'Nashville' star Charles Esten gives emo
+[2026-08-26 16:01:35] Старая новость (2026-08-24T14:00:00Z): Satellite sees Greenland's most signific
+[2026-08-26 16:01:35] Старая новость (2026-08-24T11:00:00Z): The dementia vaccine some of us are taki
+[2026-08-26 16:01:35] Мировые новости: найдено 13 после фильтрации
+[2026-08-26 16:01:35] Заблокированный источник (breitbart news): Ukrainian LSU Women’s Basketball Star Qu
+[2026-08-26 16:01:35] Нет фото: Boston's debut album turns 50: Discover 
+[2026-08-26 16:01:35] Нет фото: Multiple people, including kids, killed 
+[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): Russia Continues Strikes on Ukrainian Sh
+[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): UK-French Missile Tech Transfer Gambit W
+[2026-08-26 16:01:35] Нет фото: Hillary Clinton 'planning' husband Bill'
+[2026-08-26 16:01:35] Нет фото: Shasta County Election Chief Exposes Emp
+[2026-08-26 16:01:35] Заблокированный источник (rt): Bail set for ex-Zelensky aide accused of
+[2026-08-26 16:01:35] Нет фото: Civilian Toll Soars as Ukraine Marks 35 
+[2026-08-26 16:01:35] Нет фото: World’s First Military Drone Parade: Wha
+[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): UN Security Council Becomes Virtually Pa
+[2026-08-26 16:01:35] Украинские новости: найдено 2 после фильтрации
+[2026-08-26 16:01:35] Заблокированный источник (rt): Is Europe ready for Ukraine’s defeat?
+[2026-08-26 16:01:35] Харьков: новостей не найдено
+[2026-08-26 16:01:37] Обрабатываю: Two die of measles in Pennsylvania outbreak, health official
+[2026-08-26 16:01:37] Попытка 1 для: Two die of measles in Pennsylvania outbr
+[2026-08-26 16:01:38] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:01:48] Попытка 2 для: Two die of measles in Pennsylvania outbr
+[2026-08-26 16:01:48] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:01:58] Попытка 3 для: Two die of measles in Pennsylvania outbr
+[2026-08-26 16:01:58] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:02:08] Пауза 60 секунд...
+[2026-08-26 16:03:08] Обрабатываю: A tornado tears through a village in southern France, wrecki
+[2026-08-26 16:03:08] Попытка 1 для: A tornado tears through a village in sou
+[2026-08-26 16:03:08] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:03:18] Попытка 2 для: A tornado tears through a village in sou
+[2026-08-26 16:03:18] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:03:28] Попытка 3 для: A tornado tears through a village in sou
+[2026-08-26 16:03:28] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:03:39] Пауза 60 секунд...
+[2026-08-26 16:04:39] Обрабатываю: Graham, Norman tied in South Carolina Senate poll
+[2026-08-26 16:04:39] Попытка 1 для: Graham, Norman tied in South Carolina Se
+[2026-08-26 16:04:39] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:04:49] Попытка 2 для: Graham, Norman tied in South Carolina Se
+[2026-08-26 16:04:49] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:04:59] Попытка 3 для: Graham, Norman tied in South Carolina Se
+[2026-08-26 16:04:59] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:05:10] Пауза 60 секунд...
+[2026-08-26 16:06:10] Обрабатываю: CIA director Ratcliffe visits Moscow
+[2026-08-26 16:06:10] Попытка 1 для: CIA director Ratcliffe visits Moscow
+[2026-08-26 16:06:10] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:06:20] Попытка 2 для: CIA director Ratcliffe visits Moscow
+[2026-08-26 16:06:20] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:06:30] Попытка 3 для: CIA director Ratcliffe visits Moscow
+[2026-08-26 16:06:30] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:06:43] Обрабатываю: Does Burnham’s Political Salvation Run Through Ukraine?
+[2026-08-26 16:06:43] Попытка 1 для: Does Burnham’s Political Salvation Run T
+[2026-08-26 16:06:43] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:06:53] Попытка 2 для: Does Burnham’s Political Salvation Run T
+[2026-08-26 16:06:53] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:07:03] Попытка 3 для: Does Burnham’s Political Salvation Run T
+[2026-08-26 16:07:03] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:07:13] Пауза 60 секунд...
+[2026-08-26 16:08:13] Обрабатываю: The Ukrainian people should be in no doubt
+[2026-08-26 16:08:13] Попытка 1 для: The Ukrainian people should be in no dou
+[2026-08-26 16:08:13] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:08:23] Попытка 2 для: The Ukrainian people should be in no dou
+[2026-08-26 16:08:23] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:08:33] Попытка 3 для: The Ukrainian people should be in no dou
+[2026-08-26 16:08:34] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 16:08:44] === Блок evening завершён ===
