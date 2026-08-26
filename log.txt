@@ -40980,3 +40980,87 @@ Nithya
 [2026-08-25 18:04:42] Попытка 3 для: GENESIS EIR Cohort-3: Govt backs deeptec
 [2026-08-25 18:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-25 18:04:53] === Блок ai_evening завершён ===
+[2026-08-26 06:01:27] Загружено 3125 уже отправленных новостей
+[2026-08-26 06:01:27] === Запуск блока: morning ===
+[2026-08-26 06:01:27] Неизвестный источник (macrumors): AirPods 5 to Launch as Early as Next Mon
+[2026-08-26 06:01:27] Неизвестный источник (gizmodo.com): Shein’s IPO Plans Value It at About $27 
+[2026-08-26 06:01:27] Неизвестный источник (newsnationnow.com): Body found believed to be Karen Solomon,
+[2026-08-26 06:01:27] Неизвестный источник (variety): Hulu Cancels Mindy Kaling-Created Comedy
+[2026-08-26 06:01:27] Неизвестный источник (espn): Owners thrilled with 'family investment'
+[2026-08-26 06:01:27] Неизвестный источник (fox news): Ex-Lakers player speaks out in defense o
+[2026-08-26 06:01:27] Неизвестный источник (hollywood reporter): Taylor Swift on Dealing With Public Perc
+[2026-08-26 06:01:27] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
+[2026-08-26 06:01:27] Неизвестный источник (fox news): Putin ‘panicked’ as defiant Ukraine mark
+[2026-08-26 06:01:27] Неизвестный источник (9news.com kusa): How to view the near-total lunar eclipse
+[2026-08-26 06:01:27] Неизвестный источник (cnbc): Paramount CEO David Ellison is at the fi
+[2026-08-26 06:01:27] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Box Office S
+[2026-08-26 06:01:27] Неизвестный источник (gizmodo.com): Fox Business Host Learns NASA’s New Tele
+[2026-08-26 06:01:27] Заблокированный источник (bleacher report): Dae'Quan Wright Waived by Browns, TE Lin
+[2026-08-26 06:01:27] Неизвестный источник (push square): Protesting PS5 Players Now Plan Permanen
+[2026-08-26 06:01:27] Неизвестный источник (cnet): I’ve Used Samsung and Google’s New Folda
+[2026-08-26 06:01:27] Неизвестный источник (space.com): It's been 20 years since Pluto lost plan
+[2026-08-26 06:01:27] Мировые новости: найдено 13 после фильтрации
+[2026-08-26 06:01:27] Заблокированный источник (naturalnews.com): Russia’s UN envoy believes the nation is
+[2026-08-26 06:01:27] Нет фото: Burnham Plans US Trip Next Month to Lobb
+[2026-08-26 06:01:27] Нет фото: Ukraine's wartime AI innovation
+[2026-08-26 06:01:27] Нет фото: Burnham planning to visit US in Septembe
+[2026-08-26 06:01:27] Нет фото: "Loser" and "King of Bankruptcies": This
+[2026-08-26 06:01:27] Заблокированный источник (rt): Netherlands dumps Eurovision over Israel
+[2026-08-26 06:01:27] Нет фото: Kate Koval of Ukraine leaves LSU followi
+[2026-08-26 06:01:27] Заблокированный источник (rt): Ukraine has morphed into Zelensky’s ‘con
+[2026-08-26 06:01:27] Внутренний дубль: A women's shelter in Poland fights for survival as
+[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
+[2026-08-26 06:01:27] Внутренний дубль: A women's shelter for refugees in Poland fights fo
+[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
+[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
+[2026-08-26 06:01:27] Украинские новости: найдено 6 после фильтрации
+[2026-08-26 06:01:28] Харьков: новостей не найдено
+[2026-08-26 06:01:30] Обрабатываю: Supreme Court eases path for Trump’s sweeping limits on mail
+[2026-08-26 06:01:30] Попытка 1 для: Supreme Court eases path for Trump’s swe
+[2026-08-26 06:01:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:01:40] Попытка 2 для: Supreme Court eases path for Trump’s swe
+[2026-08-26 06:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:01:51] Попытка 3 для: Supreme Court eases path for Trump’s swe
+[2026-08-26 06:01:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:02:01] Пауза 60 секунд...
+[2026-08-26 06:03:01] Обрабатываю: Lindsay Clancy trial judge denies mistrial request, but repr
+[2026-08-26 06:03:01] Попытка 1 для: Lindsay Clancy trial judge denies mistri
+[2026-08-26 06:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:03:11] Попытка 2 для: Lindsay Clancy trial judge denies mistri
+[2026-08-26 06:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:03:21] Попытка 3 для: Lindsay Clancy trial judge denies mistri
+[2026-08-26 06:03:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:03:37] Пауза 60 секунд...
+[2026-08-26 06:04:37] Обрабатываю: Target apologizes for children’s clown Halloween costume aft
+[2026-08-26 06:04:37] Попытка 1 для: Target apologizes for children’s clown H
+[2026-08-26 06:04:37] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:04:47] Попытка 2 для: Target apologizes for children’s clown H
+[2026-08-26 06:04:47] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:04:57] Попытка 3 для: Target apologizes for children’s clown H
+[2026-08-26 06:04:58] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:05:08] Пауза 60 секунд...
+[2026-08-26 06:06:08] Обрабатываю: Apple Gears Up to Launch Its First New Mac Mini in Two Years
+[2026-08-26 06:06:08] Попытка 1 для: Apple Gears Up to Launch Its First New M
+[2026-08-26 06:06:08] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:06:18] Попытка 2 для: Apple Gears Up to Launch Its First New M
+[2026-08-26 06:06:18] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:06:28] Попытка 3 для: Apple Gears Up to Launch Its First New M
+[2026-08-26 06:06:29] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:06:42] Обрабатываю: The U.K. will help Ukraine make long-range missiles by shari
+[2026-08-26 06:06:42] Попытка 1 для: The U.K. will help Ukraine make long-ran
+[2026-08-26 06:06:42] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:06:52] Попытка 2 для: The U.K. will help Ukraine make long-ran
+[2026-08-26 06:06:52] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:07:02] Попытка 3 для: The U.K. will help Ukraine make long-ran
+[2026-08-26 06:07:02] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:07:13] Фото не отправилось: 400
+[2026-08-26 06:07:13] Пауза 60 секунд...
+[2026-08-26 06:08:13] Обрабатываю: A women's shelter for refugees in Poland fights for survival
+[2026-08-26 06:08:13] Попытка 1 для: A women's shelter for refugees in Poland
+[2026-08-26 06:08:13] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:08:23] Попытка 2 для: A women's shelter for refugees in Poland
+[2026-08-26 06:08:23] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:08:33] Попытка 3 для: A women's shelter for refugees in Poland
+[2026-08-26 06:08:33] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 06:08:44] Фото не отправилось: 400
+[2026-08-26 06:08:45] === Блок morning завершён ===
