@@ -41256,3 +41256,65 @@ Nithya
 [2026-08-26 16:08:33] Попытка 3 для: The Ukrainian people should be in no dou
 [2026-08-26 16:08:34] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 16:08:44] === Блок evening завершён ===
+[2026-08-26 18:01:29] Загружено 3143 уже отправленных новостей
+[2026-08-26 18:01:29] === Запуск блока: ai_evening ===
+[2026-08-26 18:01:29] Неизвестный источник (nakedcapitalism.com): Coffee Break: Armed Madhouse – Humanoid 
+[2026-08-26 18:01:29] Неизвестный источник (futurity: research news): Model teaches AI to read more like human
+[2026-08-26 18:01:29] Неизвестный источник (moneylion.com): I Asked ChatGPT What Medicare Advantage 
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Anthropic updates Claude’s memory to enh
+[2026-08-26 18:01:29] Неизвестный источник (prnewswire): ECRI Expands Problem Reporting Network a
+[2026-08-26 18:01:29] Нет фото: My Friend Aaron
+[2026-08-26 18:01:29] Неизвестный источник (daily signal): Elon Musk Should Reach for the Next Fron
+[2026-08-26 18:01:29] Неизвестный источник (amazon.com): GPU-accelerated Apache Spark with Amazon
+[2026-08-26 18:01:29] Неизвестный источник (dailymail.com): Man United Confidential: Joshua Zirkzee 
+[2026-08-26 18:01:29] Неизвестный источник (prnewswire): Teledyne LeCroy Accelerates Ultra Ethern
+[2026-08-26 18:01:29] Нет фото: AIxCrypto Provides Additional Context on
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Cisco expands rack-scale secure AI facto
+[2026-08-26 18:01:29] Неизвестный источник (prnewswire): S4 Capital's Monks Strengthens EMEA Stra
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nvidia doubles compute for entry-level e
+[2026-08-26 18:01:29] Неизвестный источник (prnewswire): S4 Capital's Monks Strengthens EMEA Stra
+[2026-08-26 18:01:29] Неизвестный источник (hollywood reporter): Andrew Garfield Breaks Silence on Playin
+[2026-08-26 18:01:29] Неизвестный источник (financial post): York University School of Continuing Stu
+[2026-08-26 18:01:29] Неизвестный источник (bleeding cool news): Hidden Springs #4 Preview: Seniors Save 
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): AI factories enter the execution era as 
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nvidia and Cisco push the enterprise AI 
+[2026-08-26 18:01:29] Неизвестный источник (commercial observer): Cellular Provider InfiniG Secures $5M Se
+[2026-08-26 18:01:29] Неизвестный источник (plos.org): Brachyury expression levels predict line
+[2026-08-26 18:01:29] Неизвестный источник (entrepreneur): Why Physical Infrastructure Is Becoming 
+[2026-08-26 18:01:29] Неизвестный источник (plos.org): The multi-omics fallacy in microbiome sc
+[2026-08-26 18:01:29] Нет фото: Global prevalence of Tritrichomonas foet
+[2026-08-26 18:01:29] Неизвестный источник (crypto briefing): Bitwise launches Automated Token Portfol
+[2026-08-26 18:01:29] Неизвестный источник (globalresearch.ca): Killing the Commons: The Hidden Politics
+[2026-08-26 18:01:29] Неизвестный источник (adexchanger): AdExchanger Announces Finalists for the 
+[2026-08-26 18:01:29] Неизвестный источник (businessline): HSRP number plates maker Rosmerta target
+[2026-08-26 18:01:29] Нет фото: Salary.com Completes Workday Design Appr
+[2026-08-26 18:01:29] Нет фото: Gurobi and Carahsoft Partner to Deliver 
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nucleus Security launches Helix, an AI e
+[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Ropedia launches next-gen wearable captu
+[2026-08-26 18:01:29] Нет фото: AZIO AI Holdings Inc. (NASDAQ: AZIO) Ann
+[2026-08-26 18:01:29] Неизвестный источник (onefootball.com): The 09 key changes for the new Bundeslig
+[2026-08-26 18:01:29] AI новости: найдено 5 после фильтрации
+[2026-08-26 18:01:32] Обрабатываю: Xiaomi's XRING O3 Chip Debuts With Record AnTuTu Score, Firs
+[2026-08-26 18:01:32] Попытка 1 для: Xiaomi's XRING O3 Chip Debuts With Recor
+[2026-08-26 18:01:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:01:42] Попытка 2 для: Xiaomi's XRING O3 Chip Debuts With Recor
+[2026-08-26 18:01:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:01:52] Попытка 3 для: Xiaomi's XRING O3 Chip Debuts With Recor
+[2026-08-26 18:01:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:02:02] Пауза 60 секунд...
+[2026-08-26 18:03:02] Обрабатываю: Bain, Anthropic partner to accelerate enterprise AI adoption
+[2026-08-26 18:03:02] Попытка 1 для: Bain, Anthropic partner to accelerate en
+[2026-08-26 18:03:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:03:12] Попытка 2 для: Bain, Anthropic partner to accelerate en
+[2026-08-26 18:03:12] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:03:22] Попытка 3 для: Bain, Anthropic partner to accelerate en
+[2026-08-26 18:03:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:03:33] Пауза 60 секунд...
+[2026-08-26 18:04:33] Обрабатываю: China's Geely used 800 engineers and AI to create a modular 
+[2026-08-26 18:04:33] Попытка 1 для: China's Geely used 800 engineers and AI 
+[2026-08-26 18:04:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:04:43] Попытка 2 для: China's Geely used 800 engineers and AI 
+[2026-08-26 18:04:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:04:53] Попытка 3 для: China's Geely used 800 engineers and AI 
+[2026-08-26 18:04:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-26 18:05:03] === Блок ai_evening завершён ===
