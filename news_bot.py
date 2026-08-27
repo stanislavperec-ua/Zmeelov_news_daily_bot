@@ -132,6 +132,7 @@ SPORT_URL_PARTS = ["/sport/", "/sports/"]
 SENT_URLS_FILE = "sent_urls.txt"
 SENT_URLS_KEEP = 300
 LOG_FILE       = "log.txt"
+LOG_KEEP       = 3000
 
 
 def log(msg):
@@ -174,6 +175,22 @@ def save_sent_url(url, sent_urls):
         return
     with open(SENT_URLS_FILE, "a") as f:
         f.write(url + "\n")
+
+
+def trim_log():
+    """Держим в логе последние LOG_KEEP строк: файл коммитится в репозиторий
+    и без обрезки растёт без предела"""
+    if TEST_MODE or not os.path.exists(LOG_FILE):
+        return
+    try:
+        with open(LOG_FILE, "r", encoding="utf-8", errors="ignore") as f:
+            lines = f.readlines()
+        if len(lines) > LOG_KEEP:
+            with open(LOG_FILE, "w", encoding="utf-8") as f:
+                f.writelines(lines[-LOG_KEEP:])
+            print(f"log.txt обрезан: {len(lines)} -> {LOG_KEEP}")
+    except Exception as e:
+        print(f"Не удалось обрезать log.txt: {e}")
 
 
 def trim_sent_urls():
@@ -867,3 +884,4 @@ elif BLOCK == "ai_evening":
 
 trim_sent_urls()
 log(f"=== Блок {BLOCK} завершён ===")
+trim_log()
