@@ -5,11 +5,32 @@ import requests
 from groq import Groq
 from datetime import datetime, timedelta
 
+# ── Модель Groq. При следующей замене менять только эту строку. ──
+# Актуальные модели: https://console.groq.com/docs/models
+GROQ_MODEL = "openai/gpt-oss-120b"
+
+# Сколько запасных статей запрашивать сверх нужного количества:
+# если анализ одной статьи не удался, берём следующую из запаса.
+RESERVE = 3
+
 GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 NEWS_KEY   = os.environ["NEWS_API_KEY"]
 MY_CHAT_ID = os.environ.get("MY_CHAT_ID", "")
+
+# ── Тестовый режим: выпуск уходит в личку, состояние не трогается ──
+TEST_MODE = os.environ.get("TEST_MODE", "").strip().lower() in ("1", "true", "yes")
+
+if TEST_MODE:
+    if not MY_CHAT_ID:
+        print("TEST_MODE включён, но MY_CHAT_ID не задан. Останавливаюсь.")
+        exit(1)
+    TARGET_CHAT_ID = MY_CHAT_ID
+else:
+    TARGET_CHAT_ID = TG_CHAT_ID
+
+PAUSE_BETWEEN = 3 if TEST_MODE else 60
 
 utc_now     = datetime.utcnow()
 utc_hour    = utc_now.hour
@@ -29,20 +50,21 @@ elif 19 <= kyiv_hour < 23:
 else:
     BLOCK = "morning"
 
-print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}")
+print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}, тест: {TEST_MODE}")
 
 LAST_RUN_FILE = "last_run.txt"
 current_run_key = f"{utc_now.strftime('%Y-%m-%d')}-{BLOCK}"
 
-if os.path.exists(LAST_RUN_FILE):
-    with open(LAST_RUN_FILE, "r") as f:
-        last_run = f.read().strip()
-    if last_run == current_run_key:
-        print(f"Блок {BLOCK} уже выполнялся сегодня, пропускаю.")
-        exit(0)
+if not TEST_MODE:
+    if os.path.exists(LAST_RUN_FILE):
+        with open(LAST_RUN_FILE, "r") as f:
+            last_run = f.read().strip()
+        if last_run == current_run_key:
+            print(f"Блок {BLOCK} уже выполнялся сегодня, пропускаю.")
+            exit(0)
 
-with open(LAST_RUN_FILE, "w") as f:
-    f.write(current_run_key)
+    with open(LAST_RUN_FILE, "w") as f:
+        f.write(current_run_key)
 
 today_str = datetime.now().strftime("%d.%m.%Y")
 date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -83,7 +105,7 @@ def log(msg):
     timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{timestamp}] {msg}"
     print(line)
-    with open(LOG_FILE, "a") as f:
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
 
@@ -93,13 +115,13 @@ def load_sent_urls():
     with open(SENT_URLS_FILE, "r") as f:
         urls = set(line.strip() for line in f if line.strip())
     log(f"Загружено {len(urls)} уже отправленных новостей")
-    if len(urls) > 200:
-        urls = set(list(urls)[-200:])
     return urls
 
 
 def save_sent_url(url, sent_urls):
     sent_urls.add(url)
+    if TEST_MODE:
+        return
     with open(SENT_URLS_FILE, "a") as f:
         f.write(url + "\n")
 
@@ -110,7 +132,7 @@ sent_titles = []
 
 def tg_send(chat_id, text):
     try:
-        requests.post(
+        resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
             json={
                 "chat_id": chat_id,
@@ -119,12 +141,17 @@ def tg_send(chat_id, text):
             },
             timeout=15
         )
+        if resp.status_code == 200:
+            return True
+        log(f"Текст не отправился: {resp.status_code} {resp.text[:200]}")
+        return False
     except Exception as e:
         log(f"Ошибка отправки текста: {e}")
+        return False
 
 
 def tg_text(text):
-    tg_send(TG_CHAT_ID, text)
+    return tg_send(TARGET_CHAT_ID, text)
 
 
 def tg_notify_me(text):
@@ -137,7 +164,7 @@ def tg_photo_with_caption(image_url, caption):
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
             json={
-                "chat_id": TG_CHAT_ID,
+                "chat_id": TARGET_CHAT_ID,
                 "photo": image_url,
                 "caption": caption[:1024],
                 "parse_mode": "Markdown"
@@ -146,7 +173,7 @@ def tg_photo_with_caption(image_url, caption):
         )
         if resp.status_code == 200:
             return True
-        log(f"Фото не отправилось: {resp.status_code}")
+        log(f"Фото не отправилось: {resp.status_code} {resp.text[:200]}")
         return False
     except Exception as e:
         log(f"Ошибка отправки фото: {e}")
@@ -280,7 +307,15 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
     return True
 
 
+def clean_model_output(text):
+    """Убираем markdown-разметку, которую модель может добавить вопреки промпту"""
+    text = text.replace("**", "").replace("###", "").replace("##", "")
+    return text.strip()
+
+
 def analyze(title, description, source_name, published_at=None):
+    """Возвращает готовый текст новости или None, если анализ не удался.
+    При None статья не публикуется и не считается использованной."""
     if published_at:
         try:
             pub_date = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ")
@@ -296,26 +331,32 @@ def analyze(title, description, source_name, published_at=None):
 Источник: {source_name}
 Дата публикации: {date_str}
 
-Напиши ответ на русском языке строго в таком формате — три блока:
+Напиши ответ на русском языке строго в таком формате: три блока.
 
 Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания.
 
-Суть: начни с даты "{date_str}." затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай — только то что есть в новости.
+Суть: начни с даты "{date_str}." затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай: только то что есть в новости.
 
 Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами из новости и звучать профессионально.
 
-Весь ответ не длиннее 1000 символов. Никаких звёздочек."""
+Весь ответ не длиннее 1000 символов. Никаких звёздочек и никакой разметки."""
 
     for attempt in range(1, 4):
         try:
             log(f"Попытка {attempt} для: {title[:40]}")
             response = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
+                model=GROQ_MODEL,
                 messages=[{"role": "user", "content": prompt}],
-                max_tokens=700,
+                max_completion_tokens=2000,
                 temperature=0.6
             )
-            raw = response.choices[0].message.content.strip()
+            raw = (response.choices[0].message.content or "").strip()
+            raw = clean_model_output(raw)
+
+            if len(raw) < 150 or "Суть" not in raw:
+                log(f"Ответ модели слишком короткий или без структуры ({len(raw)} символов), пробую ещё раз")
+                time.sleep(5)
+                continue
 
             lines = [l.strip() for l in raw.split("\n") if l.strip()]
             if lines:
@@ -334,7 +375,8 @@ def analyze(title, description, source_name, published_at=None):
             else:
                 time.sleep(10)
 
-    return "Анализ временно недоступен."
+    log(f"Анализ не удался, статья пропущена: {title[:60]}")
+    return None
 
 
 def get_world_news(count):
@@ -415,7 +457,7 @@ def get_kharkiv_news():
         articles = resp.json().get("articles", [])
         articles = [a for a in articles if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
         if articles:
-            log(f"Харьков: найдена новость — {articles[0].get('title', '')[:50]}")
+            log(f"Харьков: найдена новость: {articles[0].get('title', '')[:50]}")
             return articles[0]
         log("Харьков: новостей не найдено")
         return None
@@ -449,94 +491,122 @@ def get_ai_news(count):
 
 
 def build_ukraine_block(count):
-    ukraine = get_ukraine_news(count)
+    """Возвращает (кандидаты, сколько публиковать).
+    Харьковская новость ставится третьей, чтобы попасть в выпуск обязательно,
+    запасные украинские статьи идут после неё."""
+    ukraine = get_ukraine_news(count + RESERVE)
     kharkiv = get_kharkiv_news()
-    ukraine_urls = [a.get("url") for a in ukraine]
-    if kharkiv and kharkiv.get("url") not in ukraine_urls:
-        # Проверяем что харьковская новость не дубль по смыслу
+
+    if kharkiv:
+        ukraine_urls = [a.get("url") for a in ukraine]
         kharkiv_title = kharkiv.get("title", "")
-        is_dup = any(is_similar_title(kharkiv_title, a.get("title", "")) for a in ukraine)
+        is_dup = (kharkiv.get("url") in ukraine_urls) or any(
+            is_similar_title(kharkiv_title, a.get("title", "")) for a in ukraine
+        )
         if not is_dup:
-            return ukraine + [kharkiv]
-    return ukraine
+            candidates = ukraine[:count] + [kharkiv] + ukraine[count:]
+            return candidates, count + 1
+
+    return ukraine, count
 
 
-def send_news_block(articles, header=None, add_goodbye=False, block_name=""):
+def send_news_block(articles, needed, header=None, add_goodbye=False, block_name=""):
+    """Сначала готовим тексты всех новостей, и только потом публикуем.
+    Так заголовок блока не уходит в канал, если новостей в итоге нет."""
     if not articles:
-        msg = f"⚠️ Блок *{block_name}* ({today_str}) — новостей не найдено!"
+        msg = f"⚠️ Блок *{block_name}* ({today_str}): новостей не найдено!"
         log(msg)
         tg_notify_me(msg)
         return
 
+    # ── Этап подготовки: анализируем, неудачные пропускаем ──
+    posts = []
+    for article in articles:
+        if len(posts) >= needed:
+            break
+        title        = article.get("title", "").split(" - ")[0].strip()
+        description  = article.get("description", "")
+        source_name  = article.get("source", {}).get("name", "Unknown")
+        published_at = article.get("publishedAt")
+
+        log(f"Обрабатываю: {title[:60]}")
+        analysis = analyze(title, description, source_name, published_at)
+        if analysis is None:
+            continue
+        posts.append((article, analysis))
+
+    if not posts:
+        msg = f"⚠️ Блок *{block_name}* ({today_str}): ни одна новость не обработалась, проверь Groq!"
+        log(msg)
+        tg_notify_me(msg)
+        return
+
+    # ── Этап публикации ──
     if header:
         tg_text(header)
         time.sleep(2)
 
-    for i, article in enumerate(articles):
-        title        = article.get("title", "").split(" - ")[0].strip()
-        description  = article.get("description", "")
-        image_url    = article.get("urlToImage")
-        source_name  = article.get("source", {}).get("name", "Unknown")
-        article_url  = article.get("url", "")
-        published_at = article.get("publishedAt")
+    for i, (article, analysis) in enumerate(posts):
+        title       = article.get("title", "").split(" - ")[0].strip()
+        image_url   = article.get("urlToImage")
+        source_name = article.get("source", {}).get("name", "Unknown")
+        article_url = article.get("url", "")
 
-        log(f"Обрабатываю: {title[:60]}")
-
-        analysis = analyze(title, description, source_name, published_at)
-
-        is_last = (i == len(articles) - 1)
+        is_last = (i == len(posts) - 1)
         goodbye = "\n\n✅ Это все новости на сегодня. Хорошего вечера! 🙂" if (add_goodbye and is_last) else ""
 
         message = f"{analysis}\n\n🔗 {source_name}: {article_url}{goodbye}"
 
+        sent = False
         if image_url:
             sent = tg_photo_with_caption(image_url, message)
-            if not sent:
-                tg_text(message)
-        else:
-            tg_text(message)
+        if not sent:
+            sent = tg_text(message)
 
-        save_sent_url(article_url, sent_urls)
-        sent_titles.append(title)
+        if sent:
+            save_sent_url(article_url, sent_urls)
+            sent_titles.append(title)
+        else:
+            log(f"Новость не отправилась ни фото, ни текстом: {title[:60]}")
 
         if not is_last:
-            log("Пауза 60 секунд...")
-            time.sleep(60)
+            log(f"Пауза {PAUSE_BETWEEN} секунд...")
+            time.sleep(PAUSE_BETWEEN)
 
 
-log(f"=== Запуск блока: {BLOCK} ===")
+log(f"=== Запуск блока: {BLOCK} (тест: {TEST_MODE}) ===")
 
 # ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
-    world         = get_world_news(4)
-    ukraine_block = build_ukraine_block(2)
+    world = get_world_news(4 + RESERVE)
+    ukraine_candidates, ukraine_needed = build_ukraine_block(2)
 
-    send_news_block(world, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Утренний мир")
-    if ukraine_block:
-        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Утренняя Украина")
+    send_news_block(world, 4, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Утренний мир")
+    if ukraine_candidates:
+        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Утренняя Украина")
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
-    ai_news = get_ai_news(3)
-    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", block_name="AI утро")
+    ai_news = get_ai_news(3 + RESERVE)
+    send_news_block(ai_news, 3, header=f"🤖 *AI NEWS*\n{today_str}", block_name="AI утро")
 
 # ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
-    world = get_world_news(4)
-    send_news_block(world, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Дневной мир")
+    world = get_world_news(4 + RESERVE)
+    send_news_block(world, 4, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Дневной мир")
 
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
-    world         = get_world_news(4)
-    ukraine_block = build_ukraine_block(2)
+    world = get_world_news(4 + RESERVE)
+    ukraine_candidates, ukraine_needed = build_ukraine_block(2)
 
-    send_news_block(world, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Вечерний мир")
-    if ukraine_block:
-        send_news_block(ukraine_block, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Вечерняя Украина")
+    send_news_block(world, 4, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Вечерний мир")
+    if ukraine_candidates:
+        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Вечерняя Украина")
 
 # ── AI БЛОК 20:00 ──
 elif BLOCK == "ai_evening":
-    ai_news = get_ai_news(3)
-    send_news_block(ai_news, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True, block_name="AI вечер")
+    ai_news = get_ai_news(3 + RESERVE)
+    send_news_block(ai_news, 3, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True, block_name="AI вечер")
 
 log(f"=== Блок {BLOCK} завершён ===")

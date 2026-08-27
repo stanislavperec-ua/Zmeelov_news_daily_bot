@@ -2,6 +2,12 @@ name: Daily News Bot
 
 on:
   workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Тест: выпуск уходит в личку, канал и состояние не трогаются'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -25,7 +31,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests groq
+        run: pip install -r requirements.txt
 
       - name: Run news bot
         env:
@@ -34,13 +40,14 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NEWS_API_KEY:     ${{ secrets.NEWS_API_KEY }}
           MY_CHAT_ID:       ${{ secrets.MY_CHAT_ID }}
+          TEST_MODE:        ${{ inputs.test_mode }}
         run: python news_bot.py
 
-      - name: Keep repo active
+      - name: Commit state
         run: |
           git config user.email "bot@github.com"
           git config user.name "News Bot"
-          echo "Last run: $(date)" > last_run.txt
-          git add -A
-          git commit -m "keep alive $(date +%Y-%m-%d-%H%M)" || echo "nothing to commit"
-          git push
+          git add sent_urls.txt last_run.txt log.txt
+          git commit -m "state $(date +%Y-%m-%d-%H%M)" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push || (git pull --rebase origin main && git push)
