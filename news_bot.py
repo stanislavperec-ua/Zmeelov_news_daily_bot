@@ -90,6 +90,8 @@ TRUSTED_DOMAINS = {
     "freep.com", "irishtimes.com", "globalsecurity.org",
     "lemonde.fr", "spiegel.de", "elpais.com",
     "dw.com", "france24.com", "euronews.com", "cnbc.com",
+    "tomshardware.com", "fortune.com", "zdnet.com", "engadget.com",
+    "venturebeat.com", "cnet.com", "businessinsider.com", "theconversation.com",
 }
 
 BLOCKED_DOMAINS = {
@@ -98,7 +100,13 @@ BLOCKED_DOMAINS = {
     "rt.com", "sputnikglobe.com", "sputniknews.com", "tass.com", "tass.ru",
     "ria.ru", "pravda.ru", "lenta.ru", "gazeta.ru", "iz.ru", "kp.ru",
     "mk.ru", "vesti.ru", "smotrim.ru", "1tv.ru", "rbc.ru",
+    # пресс-релизные и биржевые мельницы, таблоиды
+    "prnewswire.com", "businesswire.com", "globenewswire.com",
+    "marketbeat.com", "dailymail.co.uk", "dailymail.com",
 }
+
+# Пресс-релизы, публикуемые на доверенных доменах, отсекаем по адресу страницы
+PR_URL_PARTS = ["/press-release", "/pressrelease", "/earnings-call", "/press_release"]
 
 BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
 
@@ -388,6 +396,12 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
         log(f"Спорт, пропускаю: {article.get('title', '')[:40]}")
         return False
 
+    url_lower = (article.get("url") or "").lower()
+    for part in PR_URL_PARTS:
+        if part in url_lower:
+            log(f"Пресс-релиз, пропускаю: {article.get('title', '')[:40]}")
+            return False
+
     for word in EXCLUDE_KEYWORDS:
         if word in text:
             return False
@@ -462,7 +476,8 @@ def select_top_articles(articles, count, theme):
 
 Выбери {count} самых важных и общественно значимых новостей для выпуска.
 Критерии: масштаб события, влияние на людей и страны, новизна. Отсеивай
-кликбейт, мелкие происшествия, рекламные и проходные материалы.
+кликбейт, мелкие происшествия, пресс-релизы компаний, биржевые отчёты,
+крипто-прогнозы, рекламные и проходные материалы.
 
 Ответь ТОЛЬКО номерами выбранных новостей через запятую, по убыванию важности.
 Например: 3, 1, 7, 5"""
@@ -692,20 +707,35 @@ def get_ai_news(count):
             "https://newsapi.org/v2/everything",
             params={
                 "apiKey": NEWS_KEY,
-                "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Gemini OR neural network",
+                "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Anthropic OR Gemini OR neural network",
+                "searchIn": "title,description",
                 "language": "en",
-                "pageSize": 40,
+                "pageSize": 60,
                 "sortBy": "publishedAt",
                 "from": date_from
             },
             timeout=15
         )
         articles = resp.json().get("articles", [])
-        articles = [a for a in articles if is_relevant(a)]
-        articles = deduplicate_articles(articles)
-        log(f"AI новости: найдено {len(articles)} после фильтрации")
-        articles = select_top_articles(articles, count, "искусственный интеллект и технологии")
-        return articles[:count]
+        trusted = [a for a in articles if is_relevant(a)]
+        trusted = deduplicate_articles(trusted)
+        log(f"AI новости: {len(trusted)} с доверенных источников")
+
+        # Доверенных мало: добираем лучшими из остальных, мусор отсеет
+        # чёрный список и редакторский отбор по важности
+        if len(trusted) < count + 2:
+            log("Доверенных AI-источников мало, добираю из остальных")
+            trusted_urls = {a.get("url") for a in trusted}
+            extra = [a for a in articles
+                     if a.get("url") not in trusted_urls
+                     and is_relevant(a, skip_source_check=True)]
+            candidates = deduplicate_articles(trusted + extra)
+        else:
+            candidates = trusted
+
+        log(f"AI новости: {len(candidates)} кандидатов после фильтрации")
+        candidates = select_top_articles(candidates, count, "искусственный интеллект и технологии")
+        return candidates[:count]
     except Exception as e:
         log(f"Ошибка получения AI новостей: {e}")
         return []
@@ -751,7 +781,7 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
         published_at = article.get("publishedAt")
         article_url  = article.get("url", "")
 
-        log(f"Обрабатываю: {title[:60]}")
+        log(f"Обрабатываю: {title[:60]} | {article_url[:70]}")
         result = analyze(title, description, source_name, published_at, article_url)
         if result is None:
             continue
