@@ -41318,3 +41318,78 @@ Nithya
 [2026-08-26 18:04:53] Попытка 3 для: China's Geely used 800 engineers and AI 
 [2026-08-26 18:04:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 18:05:03] === Блок ai_evening завершён ===
+[2026-08-27 06:01:28] Загружено 3146 уже отправленных новостей
+[2026-08-27 06:01:28] === Запуск блока: morning ===
+[2026-08-27 06:01:28] Неизвестный источник (mma fighting): DWCS Season 10, Week 3 results: Bella Mi
+[2026-08-27 06:01:28] Неизвестный источник (kcci des moines): Owner says business dips at Ottumwa Pizz
+[2026-08-27 06:01:28] Неизвестный источник (new york post): Final witness in Lindsay Clancy's murder
+[2026-08-27 06:01:28] Неизвестный источник (xbox.com): Geralt Returns in The Witcher 3: Wild Hu
+[2026-08-27 06:01:28] Неизвестный источник (daringfireball.net): Memory and Storage Configurations and Pr
+[2026-08-27 06:01:28] Неизвестный источник (nbcsports.com): NFLPA sends email to all players after n
+[2026-08-27 06:01:28] Неизвестный источник (fox business): Dick's Sporting Goods stock plunges as r
+[2026-08-27 06:01:28] Неизвестный источник (variety): ‘Gilded Age’ Sets Season 4 Release Date,
+[2026-08-27 06:01:28] Неизвестный источник (usa today): After 8-year-old died of brain-eating am
+[2026-08-27 06:01:28] Неизвестный источник (deadline): 'Spider-Man: Brand New Day' Becomes No. 
+[2026-08-27 06:01:28] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-27 06:01:28] Неизвестный источник (cnbc): Dragon Ball Z theme park gets $7 billion
+[2026-08-27 06:01:28] Неизвестный источник (hollywood reporter): Ridley Scott’s ‘The Dog Stars’: First Re
+[2026-08-27 06:01:28] Старая новость (2026-08-25T04:02:58Z): Watch 2 astronauts replace failed ISS an
+[2026-08-27 06:01:28] Мировые новости: найдено 17 после фильтрации
+[2026-08-27 06:01:28] Заблокированный источник (naturalnews.com): Ukraine’s prized Western tanks now sit i
+[2026-08-27 06:01:28] Заблокированный источник (naturalnews.com): Ternopol residents attack draft officers
+[2026-08-27 06:01:28] Заблокированный источник (sputnikglobe.com): CIA Chief's Visit to Moscow Linked to 'C
+[2026-08-27 06:01:28] Нет фото: CIA Director Ratcliffe's Surprise Moscow
+[2026-08-27 06:01:28] Заблокированный источник (rt): Crowd wrecks conscription squad vehicle 
+[2026-08-27 06:01:28] Заблокированный источник (rt): Kiev’s terror, Orthodox Church persecuti
+[2026-08-27 06:01:28] Украинские новости: найдено 11 после фильтрации
+[2026-08-27 06:01:28] Заблокированный источник (rt): Russia hits Ukrainian cruise missile lau
+[2026-08-27 06:01:28] Заблокированный источник (rt): Is Europe ready for Ukraine’s defeat?
+[2026-08-27 06:01:28] Харьков: новостей не найдено
+[2026-08-27 06:01:31] Обрабатываю: Trump orders flags to be lowered for Dolly Parton
+[2026-08-27 06:01:31] Попытка 1 для: Trump orders flags to be lowered for Dol
+[2026-08-27 06:01:31] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:01:41] Попытка 2 для: Trump orders flags to be lowered for Dol
+[2026-08-27 06:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:01:51] Попытка 3 для: Trump orders flags to be lowered for Dol
+[2026-08-27 06:01:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:02:02] Фото не отправилось: 400
+[2026-08-27 06:02:02] Пауза 60 секунд...
+[2026-08-27 06:03:02] Обрабатываю: Iran and Oman hold talks on managing the Strait of Hormuz an
+[2026-08-27 06:03:02] Попытка 1 для: Iran and Oman hold talks on managing the
+[2026-08-27 06:03:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:03:12] Попытка 2 для: Iran and Oman hold talks on managing the
+[2026-08-27 06:03:12] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:03:22] Попытка 3 для: Iran and Oman hold talks on managing the
+[2026-08-27 06:03:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:03:33] Пауза 60 секунд...
+[2026-08-27 06:04:33] Обрабатываю: CIA director makes rare, unannounced visit to Moscow
+[2026-08-27 06:04:33] Попытка 1 для: CIA director makes rare, unannounced vis
+[2026-08-27 06:04:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:04:43] Попытка 2 для: CIA director makes rare, unannounced vis
+[2026-08-27 06:04:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:04:53] Попытка 3 для: CIA director makes rare, unannounced vis
+[2026-08-27 06:04:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:05:04] Пауза 60 секунд...
+[2026-08-27 06:06:04] Обрабатываю: Musk's SpaceX to build $100bn launch facility in Louisiana
+[2026-08-27 06:06:04] Попытка 1 для: Musk's SpaceX to build $100bn launch fac
+[2026-08-27 06:06:04] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:06:14] Попытка 2 для: Musk's SpaceX to build $100bn launch fac
+[2026-08-27 06:06:14] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:06:24] Попытка 3 для: Musk's SpaceX to build $100bn launch fac
+[2026-08-27 06:06:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:06:37] Обрабатываю: Is Sikorski’s “European Legion” Proposal a Way for Poland to
+[2026-08-27 06:06:37] Попытка 1 для: Is Sikorski’s “European Legion” Proposal
+[2026-08-27 06:06:37] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:06:47] Попытка 2 для: Is Sikorski’s “European Legion” Proposal
+[2026-08-27 06:06:47] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:06:57] Попытка 3 для: Is Sikorski’s “European Legion” Proposal
+[2026-08-27 06:06:57] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:07:08] Пауза 60 секунд...
+[2026-08-27 06:08:08] Обрабатываю: Indian refiners cut Russian crude purchases as Ukrainian att
+[2026-08-27 06:08:08] Попытка 1 для: Indian refiners cut Russian crude purcha
+[2026-08-27 06:08:08] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:08:18] Попытка 2 для: Indian refiners cut Russian crude purcha
+[2026-08-27 06:08:18] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:08:28] Попытка 3 для: Indian refiners cut Russian crude purcha
+[2026-08-27 06:08:28] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 06:08:38] === Блок morning завершён ===
