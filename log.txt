@@ -41642,3 +41642,54 @@ Nithya
 [2026-08-27 16:58:14] Пауза 3 секунд...
 [2026-08-27 16:58:17] Фото не отправилось: 400 {"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}
 [2026-08-27 16:58:17] === Блок evening завершён ===
+[2026-08-27 17:01:37] Загружено 3164 уже отправленных новостей
+[2026-08-27 17:01:37] === Запуск блока: ai_evening (тест: True) ===
+[2026-08-27 17:01:37] Неизвестный источник (healthcaredive.com): Employers face ‘existential reckoning’ a
+[2026-08-27 17:01:37] Неизвестный источник (bizrapidx.com): DarwinHealth Introduces Quantum Cancer B
+[2026-08-27 17:01:37] Неизвестный источник (tom's hardware uk): Hot Chips 2026: Nvidia presents Groq 3 L
+[2026-08-27 17:01:37] Неизвестный источник (fortune): How Cigna’s AI chief is investing in the
+[2026-08-27 17:01:37] Неизвестный источник (business insider): Amazon is shutting down a go-to option f
+[2026-08-27 17:01:37] Неизвестный источник (businessline): Hyundai Motor aims 5.55 million units in
+[2026-08-27 17:01:37] Неизвестный источник (dailymail.com): Brittany Hockley's private regrets after
+[2026-08-27 17:01:37] Неизвестный источник (bitcoinfoundation.org): New Crypto Coins Are Heating Up: 5 Proje
+[2026-08-27 17:01:37] Неизвестный источник (prnewswire): Blend Expands into Brazil, Accelerating 
+[2026-08-27 17:01:37] Неизвестный источник (the conversation africa): Africa’s herbarium collections are a sci
+[2026-08-27 17:01:37] Неизвестный источник (telecomtv): What’s up with… RAIA Grid, Telefónica, S
+[2026-08-27 17:01:37] Неизвестный источник (globalresearch.ca): Going Underground and Underwater in Warf
+[2026-08-27 17:01:37] Неизвестный источник (marketbeat): DSC Q2 Earnings Call Highlights
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): Exclusive: Mate Security launches Gamebo
+[2026-08-27 17:01:37] Неизвестный источник (plos.org): Linguistic markers of deception in Arabi
+[2026-08-27 17:01:37] Неизвестный источник (plos.org): Behavioral engagement and stimulus regul
+[2026-08-27 17:01:37] Неизвестный источник (plos.org): Two-dimensional to three-dimensional kne
+[2026-08-27 17:01:37] Неизвестный источник (financial post): Nvidia earnings give investors a baromet
+[2026-08-27 17:01:37] Неизвестный источник (crypto coins news): Ethereum is Going to $10,000, Says Tom L
+[2026-08-27 17:01:37] Неизвестный источник (marketbeat): LightInTheBox Q2 Earnings Call Highlight
+[2026-08-27 17:01:37] Неизвестный источник (livemint): Wipro Consumer launches Snuggles, joinin
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): Nutanix expands cloud platform with cont
+[2026-08-27 17:01:37] Неизвестный источник (fortune): Polarized America united around one issu
+[2026-08-27 17:01:37] Нет фото: How Power Constraints Are Shaping the Fu
+[2026-08-27 17:01:37] Неизвестный источник (hollywood reporter): 'The Uprising' Causes Confusion After Re
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): Glean unveils Tau desktop workspace, cla
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): Autonomous drone intercept startup Mara 
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): The network becomes the computer as Cisc
+[2026-08-27 17:01:37] Неизвестный источник (siliconangle news): The network becomes the computer as Cisc
+[2026-08-27 17:01:37] Неизвестный источник (financial post): Posthaste: Concerned students seek skill
+[2026-08-27 17:01:37] Неизвестный источник (adexchanger): The Great Meta Migration
+[2026-08-27 17:01:37] Неизвестный источник (crypto briefing): Shinhan Financial Group partners with Vi
+[2026-08-27 17:01:37] Неизвестный источник (lf0.com): Phibro Animal Health (PAHC) 10-K: Risk F
+[2026-08-27 17:01:37] Неизвестный источник (tom's hardware uk): Hot Chips 2026: d-Matrix stacks AI accel
+[2026-08-27 17:01:37] Неизвестный источник (huffpost): In A Divided America, The Left And Right
+[2026-08-27 17:01:37] Неизвестный источник (pluginboutique.com): 37% off INTENSITY 2 at Plugin Boutique u
+[2026-08-27 17:01:37] Нет фото: Bidgely Unveils 2027 EmPOWER AI Conferen
+[2026-08-27 17:01:37] Нет фото: Check-Cap Ltd. Announces Pricing of $10 
+[2026-08-27 17:01:37] AI новости: найдено 2 после фильтрации
+[2026-08-27 17:01:37] Обрабатываю: Galux Makes the Forbes Asia 100 to Watch 2026 List
+[2026-08-27 17:01:37] Попытка 1 для: Galux Makes the Forbes Asia 100 to Watch
+[2026-08-27 17:01:39] Ответ модели слишком короткий или без структуры (1232 символов), пробую ещё раз
+[2026-08-27 17:01:44] Попытка 2 для: Galux Makes the Forbes Asia 100 to Watch
+[2026-08-27 17:01:45] Успешно, получено 1054 символов
+[2026-08-27 17:01:45] Обрабатываю: Jio Financial to launch AI-powered ‘personal CFO’, membershi
+[2026-08-27 17:01:45] Попытка 1 для: Jio Financial to launch AI-powered ‘pers
+[2026-08-27 17:01:47] Успешно, получено 1399 символов
+[2026-08-27 17:01:51] Пауза 3 секунд...
+[2026-08-27 17:01:54] === Блок ai_evening завершён ===
