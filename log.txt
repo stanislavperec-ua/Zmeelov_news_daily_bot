@@ -41739,3 +41739,22 @@ Nithya
 [2026-08-27 17:02:50] Попытка 1 для: Galux Makes the Forbes Asia 100 to Watch
 [2026-08-27 17:02:53] Успешно, получено 985 символов
 [2026-08-27 17:02:56] === Блок ai_evening завершён ===
+[2026-08-27 17:06:34] Загружено 3390 уже отправленных новостей
+[2026-08-27 17:06:34] === Запуск блока: ai_evening (тест: True) ===
+[2026-08-27 17:06:34] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
+[2026-08-27 17:06:34] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
+[2026-08-27 17:06:34] Неизвестный источник (thewrap.com): Andrew Garfield Admits He Didn’t Love Pl
+[2026-08-27 17:06:34] AI новости: 0 с доверенных источников
+[2026-08-27 17:06:34] Доверенных AI-источников мало, добираю из остальных
+[2026-08-27 17:06:34] Внутренний дубль: The network becomes the computer as Cisco and Nvid
+[2026-08-27 17:06:34] AI новости: 2 кандидатов после фильтрации
+[2026-08-27 17:06:34] Обрабатываю: The network becomes the computer as Cisco and Nvidia acceler | https://siliconangle.com/2026/08/26/the-network-becomes-the-computer-a
+[2026-08-27 17:06:35] Полный текст получен (3000 символов)
+[2026-08-27 17:06:35] Попытка 1 для: The network becomes the computer as Cisc
+[2026-08-27 17:06:36] Успешно, получено 1788 символов
+[2026-08-27 17:06:36] Обрабатываю: Andrew Garfield Admits He Didn’t Love Playing OpenAI CEO Sam | https://www.thewrap.com/creative-content/movies/andrew-garfield-playin
+[2026-08-27 17:06:37] Полный текст получен (3000 символов)
+[2026-08-27 17:06:37] Попытка 1 для: Andrew Garfield Admits He Didn’t Love Pl
+[2026-08-27 17:06:39] Успешно, получено 2094 символов
+[2026-08-27 17:06:42] Пауза 3 секунд...
+[2026-08-27 17:06:45] === Блок ai_evening завершён ===
