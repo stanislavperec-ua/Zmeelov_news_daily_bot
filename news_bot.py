@@ -1,9 +1,13 @@
 import os
 import re
+import html
 import time
 import requests
+import trafilatura
 from groq import Groq
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+from urllib.parse import urlparse
 
 # ── Модель Groq. При следующей замене менять только эту строку. ──
 # Актуальные модели: https://console.groq.com/docs/models
@@ -32,10 +36,11 @@ else:
 
 PAUSE_BETWEEN = 3 if TEST_MODE else 60
 
-utc_now     = datetime.utcnow()
-utc_hour    = utc_now.hour
-kyiv_offset = 2
-kyiv_hour   = (utc_hour + kyiv_offset) % 24
+# ── Время: всегда киевское, летнее/зимнее учитывается автоматически ──
+KYIV_TZ   = ZoneInfo("Europe/Kyiv")
+now_utc   = datetime.now(timezone.utc)
+now_kyiv  = now_utc.astimezone(KYIV_TZ)
+kyiv_hour = now_kyiv.hour
 
 if 5 <= kyiv_hour < 10:
     BLOCK = "morning"
@@ -50,10 +55,10 @@ elif 19 <= kyiv_hour < 23:
 else:
     BLOCK = "morning"
 
-print(f"UTC: {utc_hour}, Киев: {kyiv_hour}, блок: {BLOCK}, тест: {TEST_MODE}")
+print(f"UTC: {now_utc.hour}, Киев: {kyiv_hour}, блок: {BLOCK}, тест: {TEST_MODE}")
 
 LAST_RUN_FILE = "last_run.txt"
-current_run_key = f"{utc_now.strftime('%Y-%m-%d')}-{BLOCK}"
+current_run_key = f"{now_kyiv.strftime('%Y-%m-%d')}-{BLOCK}"
 
 if not TEST_MODE:
     if os.path.exists(LAST_RUN_FILE):
@@ -66,56 +71,93 @@ if not TEST_MODE:
     with open(LAST_RUN_FILE, "w") as f:
         f.write(current_run_key)
 
-today_str = datetime.now().strftime("%d.%m.%Y")
-date_from = (datetime.utcnow() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
+today_str = now_kyiv.strftime("%d.%m.%Y")
+date_from = (now_utc - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 client = Groq(api_key=GROQ_KEY)
 
-TRUSTED_SOURCES = {
-    "reuters", "bbc news", "bbc sport", "associated press", "ap news",
-    "bloomberg", "the guardian", "the new york times", "washington post",
-    "the wall street journal", "financial times", "al jazeera",
-    "cnn", "nbc news", "abc news", "cbs news", "npr",
-    "the economist", "time", "newsweek", "foreign policy",
-    "politico", "axios", "the hill", "the atlantic",
-    "wired", "techcrunch", "the verge", "ars technica", "mit technology review",
-    "science", "nature", "new scientist",
-    "kyiv independent", "ukrinform", "ukrainska pravda",
-    "detroit free press", "irish times", "globesecurity.org",
-    "le monde", "der spiegel", "el pais"
+# ── Источники: сравнение по домену из URL, а не по подстроке в названии ──
+TRUSTED_DOMAINS = {
+    "reuters.com", "bbc.com", "bbc.co.uk", "apnews.com", "bloomberg.com",
+    "theguardian.com", "nytimes.com", "washingtonpost.com", "wsj.com",
+    "ft.com", "aljazeera.com", "cnn.com", "nbcnews.com", "abcnews.go.com",
+    "cbsnews.com", "npr.org", "economist.com", "time.com", "newsweek.com",
+    "foreignpolicy.com", "politico.com", "politico.eu", "axios.com",
+    "thehill.com", "theatlantic.com", "wired.com", "techcrunch.com",
+    "theverge.com", "arstechnica.com", "technologyreview.com",
+    "science.org", "nature.com", "newscientist.com",
+    "kyivindependent.com", "ukrinform.net", "ukrinform.ua", "pravda.com.ua",
+    "freep.com", "irishtimes.com", "globalsecurity.org",
+    "lemonde.fr", "spiegel.de", "elpais.com",
+    "dw.com", "france24.com", "euronews.com", "cnbc.com",
 }
 
-BLOCKED_SOURCES = {
-    "naturalnews", "breitbart", "infowars", "dailywire",
-    "thegatewaypundit", "zerohedge", "rt.com", "sputnik",
-    "tass", "ria novosti", "pravda"
+BLOCKED_DOMAINS = {
+    "naturalnews.com", "breitbart.com", "infowars.com", "dailywire.com",
+    "thegatewaypundit.com", "zerohedge.com",
+    "rt.com", "sputnikglobe.com", "sputniknews.com", "tass.com", "tass.ru",
+    "ria.ru", "pravda.ru", "lenta.ru", "gazeta.ru", "iz.ru", "kp.ru",
+    "mk.ru", "vesti.ru", "smotrim.ru", "1tv.ru", "rbc.ru",
 }
 
+BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
+
+# ── Спорт и развлечения отсекаем по словам, доменам и разделам сайтов ──
 EXCLUDE_KEYWORDS = [
     "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
     "kardashian", "taylor swift", "oscar", "grammy", "box office",
-    "recipe", "horoscope", "zodiac"
+    "recipe", "horoscope", "zodiac",
+    "boxing", "fight night", "match report", "premier league",
+    "champions league", "world cup qualifier", "playoff", "season finale",
+    "grand slam", "ufc", "mlb", "nhl", "touchdown", "league cup",
+    "serie a", "la liga", "bundesliga", "transfer window", "cricket",
+    "rugby", "vs.",
 ]
 
+SPORT_DOMAINS = {
+    "espn.com", "sports.yahoo.com", "skysports.com", "bleacherreport.com",
+    "cbssports.com", "goal.com", "marca.com", "si.com",
+}
+
+SPORT_URL_PARTS = ["/sport/", "/sports/"]
+
 SENT_URLS_FILE = "sent_urls.txt"
+SENT_URLS_KEEP = 300
 LOG_FILE       = "log.txt"
 
 
 def log(msg):
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{timestamp}] {msg}"
     print(line)
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
 
+def esc(text):
+    """Экранирование для parse_mode=HTML"""
+    return html.escape(str(text), quote=False)
+
+
+def get_domain(url):
+    try:
+        netloc = urlparse(url).netloc.lower()
+        return netloc[4:] if netloc.startswith("www.") else netloc
+    except Exception:
+        return ""
+
+
+def domain_in(domain, domain_set):
+    return any(domain == d or domain.endswith("." + d) for d in domain_set)
+
+
 def load_sent_urls():
     if not os.path.exists(SENT_URLS_FILE):
         return set()
     with open(SENT_URLS_FILE, "r") as f:
-        urls = set(line.strip() for line in f if line.strip())
+        urls = [line.strip() for line in f if line.strip()]
     log(f"Загружено {len(urls)} уже отправленных новостей")
-    return urls
+    return set(urls)
 
 
 def save_sent_url(url, sent_urls):
@@ -124,6 +166,18 @@ def save_sent_url(url, sent_urls):
         return
     with open(SENT_URLS_FILE, "a") as f:
         f.write(url + "\n")
+
+
+def trim_sent_urls():
+    """Держим в файле только последние SENT_URLS_KEEP строк, с сохранением порядка"""
+    if TEST_MODE or not os.path.exists(SENT_URLS_FILE):
+        return
+    with open(SENT_URLS_FILE, "r") as f:
+        lines = [line.strip() for line in f if line.strip()]
+    if len(lines) > SENT_URLS_KEEP:
+        with open(SENT_URLS_FILE, "w") as f:
+            f.write("\n".join(lines[-SENT_URLS_KEEP:]) + "\n")
+        log(f"sent_urls.txt обрезан: {len(lines)} -> {SENT_URLS_KEEP}")
 
 
 sent_urls   = load_sent_urls()
@@ -136,8 +190,8 @@ def tg_send(chat_id, text):
             f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
             json={
                 "chat_id": chat_id,
-                "text": text[:4000],
-                "parse_mode": "Markdown"
+                "text": text[:4096],
+                "parse_mode": "HTML"
             },
             timeout=15
         )
@@ -159,7 +213,34 @@ def tg_notify_me(text):
         tg_send(MY_CHAT_ID, text)
 
 
+def tg_message_with_preview(text, image_url):
+    """Основной формат: текст до 4096 символов, фото крупным превью над текстом"""
+    try:
+        resp = requests.post(
+            f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+            json={
+                "chat_id": TARGET_CHAT_ID,
+                "text": text[:4096],
+                "parse_mode": "HTML",
+                "link_preview_options": {
+                    "url": image_url,
+                    "prefer_large_media": True,
+                    "show_above_text": True
+                }
+            },
+            timeout=15
+        )
+        if resp.status_code == 200:
+            return True
+        log(f"Сообщение с превью не отправилось: {resp.status_code} {resp.text[:200]}")
+        return False
+    except Exception as e:
+        log(f"Ошибка отправки сообщения с превью: {e}")
+        return False
+
+
 def tg_photo_with_caption(image_url, caption):
+    """Запасной формат: фото с подписью, лимит 1024 символа"""
     try:
         resp = requests.post(
             f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
@@ -167,7 +248,7 @@ def tg_photo_with_caption(image_url, caption):
                 "chat_id": TARGET_CHAT_ID,
                 "photo": image_url,
                 "caption": caption[:1024],
-                "parse_mode": "Markdown"
+                "parse_mode": "HTML"
             },
             timeout=15
         )
@@ -180,39 +261,58 @@ def tg_photo_with_caption(image_url, caption):
         return False
 
 
+def parse_published(published):
+    try:
+        return datetime.fromisoformat(published.replace("Z", "+00:00"))
+    except Exception:
+        return None
+
+
 def is_fresh(article):
     published = article.get("publishedAt", "")
     if not published:
         return False
-    try:
-        pub_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
-        age = datetime.utcnow() - pub_date
-        if age.total_seconds() > 48 * 3600:
-            log(f"Старая новость ({published}): {article.get('title', '')[:40]}")
-            return False
+    pub_date = parse_published(published)
+    if pub_date is None:
         return True
-    except Exception:
-        return True
+    age = now_utc - pub_date
+    if age.total_seconds() > 48 * 3600:
+        log(f"Старая новость ({published}): {article.get('title', '')[:40]}")
+        return False
+    return True
 
 
 def is_blocked_source(article):
     source_name = (article.get("source", {}).get("name") or "").lower()
-    url = (article.get("url") or "").lower()
-    for blocked in BLOCKED_SOURCES:
-        if blocked in source_name or blocked in url:
+    domain = get_domain(article.get("url") or "")
+    if domain_in(domain, BLOCKED_DOMAINS):
+        log(f"Заблокированный источник ({domain}): {article.get('title', '')[:40]}")
+        return True
+    for part in BLOCKED_NAME_PARTS:
+        if part in source_name:
             log(f"Заблокированный источник ({source_name}): {article.get('title', '')[:40]}")
             return True
     return False
 
 
 def is_trusted_source(article):
-    source_name = (article.get("source", {}).get("name") or "").lower()
     if is_blocked_source(article):
         return False
-    for trusted in TRUSTED_SOURCES:
-        if trusted in source_name:
+    domain = get_domain(article.get("url") or "")
+    if domain_in(domain, TRUSTED_DOMAINS):
+        return True
+    log(f"Неизвестный источник ({domain}): {article.get('title', '')[:40]}")
+    return False
+
+
+def is_sport(article):
+    url = (article.get("url") or "").lower()
+    domain = get_domain(url)
+    if domain_in(domain, SPORT_DOMAINS):
+        return True
+    for part in SPORT_URL_PARTS:
+        if part in url:
             return True
-    log(f"Неизвестный источник ({source_name}): {article.get('title', '')[:40]}")
     return False
 
 
@@ -284,6 +384,10 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
         if not is_trusted_source(article):
             return False
 
+    if is_sport(article):
+        log(f"Спорт, пропускаю: {article.get('title', '')[:40]}")
+        return False
+
     for word in EXCLUDE_KEYWORDS:
         if word in text:
             return False
@@ -307,39 +411,124 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
     return True
 
 
+def fetch_article_text(url):
+    """Скачиваем полный текст статьи. Если не получилось, вернём None
+    и анализ пойдёт по краткому описанию из NewsAPI."""
+    try:
+        resp = requests.get(
+            url,
+            timeout=12,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                              "AppleWebKit/537.36 (KHTML, like Gecko) "
+                              "Chrome/126.0 Safari/537.36"
+            }
+        )
+        if resp.status_code != 200:
+            return None
+        text = trafilatura.extract(resp.text, include_comments=False, include_tables=False)
+        if text and len(text) > 300:
+            return text[:3000]
+        return None
+    except Exception as e:
+        log(f"Полный текст не скачался ({e.__class__.__name__}): {url[:60]}")
+        return None
+
+
 def clean_model_output(text):
     """Убираем markdown-разметку, которую модель может добавить вопреки промпту"""
     text = text.replace("**", "").replace("###", "").replace("##", "")
     return text.strip()
 
 
-def analyze(title, description, source_name, published_at=None):
-    """Возвращает готовый текст новости или None, если анализ не удался.
+def select_top_articles(articles, count, theme):
+    """Просим модель выбрать самые значимые новости из кандидатов.
+    Возвращаем переупорядоченный список: выбранные первыми, остальные запасом.
+    При любой ошибке возвращаем исходный порядок."""
+    if len(articles) <= count:
+        return articles
+
+    listing = []
+    for i, a in enumerate(articles[:20]):
+        title = a.get("title", "")
+        source = a.get("source", {}).get("name", "")
+        desc = (a.get("description") or "")[:120]
+        listing.append(f"{i + 1}. {title} ({source}). {desc}")
+
+    prompt = f"""Ты выпускающий редактор новостного канала. Тема выпуска: {theme}.
+Вот список свежих новостей-кандидатов:
+
+{chr(10).join(listing)}
+
+Выбери {count} самых важных и общественно значимых новостей для выпуска.
+Критерии: масштаб события, влияние на людей и страны, новизна. Отсеивай
+кликбейт, мелкие происшествия, рекламные и проходные материалы.
+
+Ответь ТОЛЬКО номерами выбранных новостей через запятую, по убыванию важности.
+Например: 3, 1, 7, 5"""
+
+    try:
+        response = client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_completion_tokens=1000,
+            temperature=0.2
+        )
+        raw = (response.choices[0].message.content or "").strip()
+        numbers = [int(n) for n in re.findall(r"\d+", raw)]
+        chosen_idx = [n - 1 for n in numbers if 1 <= n <= len(articles)]
+        # убираем повторы, сохраняя порядок
+        seen = set()
+        chosen_idx = [i for i in chosen_idx if not (i in seen or seen.add(i))]
+        if not chosen_idx:
+            return articles
+        chosen = [articles[i] for i in chosen_idx]
+        rest = [a for i, a in enumerate(articles) if i not in set(chosen_idx)]
+        log(f"Редакторский отбор: выбраны позиции {[i + 1 for i in chosen_idx[:count]]}")
+        return chosen + rest
+    except Exception as e:
+        log(f"Отбор по важности не удался, беру по порядку: {str(e)[:100]}")
+        return articles
+
+
+def analyze(title, description, source_name, published_at=None, article_url=None):
+    """Возвращает (заголовок_ру, текст) или None, если анализ не удался.
     При None статья не публикуется и не считается использованной."""
+    date_str = today_str
     if published_at:
-        try:
-            pub_date = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ")
-            date_str = pub_date.strftime("%d.%m.%Y")
-        except Exception:
-            date_str = today_str
+        pub_date = parse_published(published_at)
+        if pub_date:
+            date_str = pub_date.astimezone(KYIV_TZ).strftime("%d.%m.%Y")
+
+    full_text = fetch_article_text(article_url) if article_url else None
+
+    if full_text:
+        material = f"Полный текст статьи (может быть обрезан):\n{full_text}"
+        size_rule = ("Суть: начни с даты \"{d}.\" затем напиши 7-9 содержательных предложений, "
+                     "которые полностью раскрывают новость по фактам из статьи.").format(d=date_str)
+        limit_rule = "Весь ответ не длиннее 2200 символов."
+        log(f"Полный текст получен ({len(full_text)} символов)")
     else:
-        date_str = today_str
+        material = f"Описание: {description}"
+        size_rule = ("Суть: начни с даты \"{d}.\" затем напиши 5-6 содержательных предложений "
+                     "строго по фактам из описания, без воды и домыслов.").format(d=date_str)
+        limit_rule = "Весь ответ не длиннее 1200 символов."
 
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
-Описание: {description}
+{material}
 Источник: {source_name}
 Дата публикации: {date_str}
 
-Напиши ответ на русском языке строго в таком формате: три блока.
+Напиши ответ на русском языке строго в таком формате: три блока, разделённые пустой строкой.
 
-Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания.
+Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания. Без кавычек, без слова "Заголовок".
 
-Суть: начни с даты "{date_str}." затем напиши 6-7 содержательных предложений которые полностью раскрывают новость. Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай: только то что есть в новости.
+{size_rule} Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай: только то, что есть в материале.
 
-Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами из новости и звучать профессионально.
+Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами и звучать профессионально.
 
-Весь ответ не длиннее 1000 символов. Никаких звёздочек и никакой разметки."""
+{limit_rule} Никаких звёздочек и никакой разметки. Тире не использовать, вместо него запятая или двоеточие."""
 
     for attempt in range(1, 4):
         try:
@@ -347,24 +536,28 @@ def analyze(title, description, source_name, published_at=None):
             response = client.chat.completions.create(
                 model=GROQ_MODEL,
                 messages=[{"role": "user", "content": prompt}],
-                max_completion_tokens=2000,
+                max_completion_tokens=2500,
                 temperature=0.6
             )
             raw = (response.choices[0].message.content or "").strip()
             raw = clean_model_output(raw)
 
-            if len(raw) < 150 or "Суть" not in raw:
-                log(f"Ответ модели слишком короткий или без структуры ({len(raw)} символов), пробую ещё раз")
+            if len(raw) < 200 or "Суть" not in raw or "Прогноз" not in raw:
+                log(f"Ответ модели без нужной структуры ({len(raw)} символов), пробую ещё раз")
                 time.sleep(5)
                 continue
 
             lines = [l.strip() for l in raw.split("\n") if l.strip()]
-            if lines:
-                lines[0] = f"🔴 *{lines[0]}*"
-            result = "\n\n".join(lines)
+            title_ru = re.sub(r"^(Заголовок|Первая строка)\s*:\s*", "", lines[0]).strip()
+            body = "\n\n".join(lines[1:])
 
-            log(f"Успешно, получено {len(result)} символов")
-            return result
+            if not title_ru or len(title_ru) > 250:
+                log("Заголовок не распознан, пробую ещё раз")
+                time.sleep(5)
+                continue
+
+            log(f"Успешно, получено {len(body)} символов")
+            return title_ru, body
 
         except Exception as e:
             error = str(e)
@@ -377,6 +570,31 @@ def analyze(title, description, source_name, published_at=None):
 
     log(f"Анализ не удался, статья пропущена: {title[:60]}")
     return None
+
+
+def smart_truncate(text, max_len):
+    """Обрезаем по границе предложения, а не посреди фразы"""
+    if len(text) <= max_len:
+        return text
+    cut = text[:max_len]
+    best = -1
+    for sep in [". ", "! ", "? ", ".\n", "!\n", "?\n"]:
+        pos = cut.rfind(sep)
+        if pos > best:
+            best = pos
+    if best > 200:
+        return cut[:best + 1].rstrip()
+    return cut.rsplit(" ", 1)[0] + "…"
+
+
+def build_message(title_ru, body, source_name, article_url, goodbye, limit):
+    """Собираем сообщение под лимит: если не влезает, тело режется по предложению"""
+    head = f"🔴 <b>{esc(title_ru)}</b>\n\n"
+    tail = f"\n\n🔗 {esc(source_name)}: {esc(article_url)}{goodbye}"
+    room = limit - len(head) - len(tail)
+    body_esc = esc(smart_truncate(body, max(room, 200)))
+    body_esc = body_esc.replace("Суть:", "<b>Суть:</b>", 1).replace("Прогноз:", "<b>Прогноз:</b>", 1)
+    return head + body_esc + tail
 
 
 def get_world_news(count):
@@ -395,6 +613,7 @@ def get_world_news(count):
         articles = [a for a in articles if is_relevant(a)]
         articles = deduplicate_articles(articles)
         log(f"Мировые новости: найдено {len(articles)} после фильтрации")
+        articles = select_top_articles(articles, count, "главные мировые события")
         return articles[:count]
     except Exception as e:
         log(f"Ошибка получения мировых новостей: {e}")
@@ -434,6 +653,7 @@ def get_ukraine_news(count):
             filtered.append(a)
         filtered = deduplicate_articles(filtered)
         log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
+        filtered = select_top_articles(filtered, count, "жизнь Украины: политика, экономика, города, люди")
         return filtered[:count]
     except Exception as e:
         log(f"Ошибка получения новостей по Украине: {e}")
@@ -484,6 +704,7 @@ def get_ai_news(count):
         articles = [a for a in articles if is_relevant(a)]
         articles = deduplicate_articles(articles)
         log(f"AI новости: найдено {len(articles)} после фильтрации")
+        articles = select_top_articles(articles, count, "искусственный интеллект и технологии")
         return articles[:count]
     except Exception as e:
         log(f"Ошибка получения AI новостей: {e}")
@@ -514,7 +735,7 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
     """Сначала готовим тексты всех новостей, и только потом публикуем.
     Так заголовок блока не уходит в канал, если новостей в итоге нет."""
     if not articles:
-        msg = f"⚠️ Блок *{block_name}* ({today_str}): новостей не найдено!"
+        msg = f"⚠️ Блок <b>{esc(block_name)}</b> ({today_str}): новостей не найдено!"
         log(msg)
         tg_notify_me(msg)
         return
@@ -528,15 +749,16 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
         description  = article.get("description", "")
         source_name  = article.get("source", {}).get("name", "Unknown")
         published_at = article.get("publishedAt")
+        article_url  = article.get("url", "")
 
         log(f"Обрабатываю: {title[:60]}")
-        analysis = analyze(title, description, source_name, published_at)
-        if analysis is None:
+        result = analyze(title, description, source_name, published_at, article_url)
+        if result is None:
             continue
-        posts.append((article, analysis))
+        posts.append((article, result))
 
     if not posts:
-        msg = f"⚠️ Блок *{block_name}* ({today_str}): ни одна новость не обработалась, проверь Groq!"
+        msg = f"⚠️ Блок <b>{esc(block_name)}</b> ({today_str}): ни одна новость не обработалась, проверь Groq!"
         log(msg)
         tg_notify_me(msg)
         return
@@ -546,7 +768,7 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
         tg_text(header)
         time.sleep(2)
 
-    for i, (article, analysis) in enumerate(posts):
+    for i, (article, (title_ru, body)) in enumerate(posts):
         title       = article.get("title", "").split(" - ")[0].strip()
         image_url   = article.get("urlToImage")
         source_name = article.get("source", {}).get("name", "Unknown")
@@ -555,19 +777,24 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
         is_last = (i == len(posts) - 1)
         goodbye = "\n\n✅ Это все новости на сегодня. Хорошего вечера! 🙂" if (add_goodbye and is_last) else ""
 
-        message = f"{analysis}\n\n🔗 {source_name}: {article_url}{goodbye}"
-
         sent = False
         if image_url:
-            sent = tg_photo_with_caption(image_url, message)
+            # Основной формат: фото крупным превью над развёрнутым текстом
+            message = build_message(title_ru, body, source_name, article_url, goodbye, 4096)
+            sent = tg_message_with_preview(message, image_url)
+            if not sent:
+                # Запасной формат: классическое фото с подписью
+                caption = build_message(title_ru, body, source_name, article_url, goodbye, 1024)
+                sent = tg_photo_with_caption(image_url, caption)
         if not sent:
+            message = build_message(title_ru, body, source_name, article_url, goodbye, 4096)
             sent = tg_text(message)
 
         if sent:
             save_sent_url(article_url, sent_urls)
             sent_titles.append(title)
         else:
-            log(f"Новость не отправилась ни фото, ни текстом: {title[:60]}")
+            log(f"Новость не отправилась ни одним способом: {title[:60]}")
 
         if not is_last:
             log(f"Пауза {PAUSE_BETWEEN} секунд...")
@@ -581,32 +808,33 @@ if BLOCK == "morning":
     world = get_world_news(4 + RESERVE)
     ukraine_candidates, ukraine_needed = build_ukraine_block(2)
 
-    send_news_block(world, 4, header=f"🌍 *УТРЕННИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Утренний мир")
+    send_news_block(world, 4, header=f"🌍 <b>УТРЕННИЙ ОБЗОР НОВОСТЕЙ</b>\n{today_str}", block_name="Утренний мир")
     if ukraine_candidates:
-        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Утренняя Украина")
+        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 <b>НОВОСТИ УКРАИНЫ</b>", block_name="Утренняя Украина")
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
     ai_news = get_ai_news(3 + RESERVE)
-    send_news_block(ai_news, 3, header=f"🤖 *AI NEWS*\n{today_str}", block_name="AI утро")
+    send_news_block(ai_news, 3, header=f"🤖 <b>AI NEWS</b>\n{today_str}", block_name="AI утро")
 
 # ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
     world = get_world_news(4 + RESERVE)
-    send_news_block(world, 4, header=f"🌍 *ДНЕВНОЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Дневной мир")
+    send_news_block(world, 4, header=f"🌍 <b>ДНЕВНОЙ ОБЗОР НОВОСТЕЙ</b>\n{today_str}", block_name="Дневной мир")
 
 # ── ВЕЧЕРНИЙ БЛОК 18:00 ──
 elif BLOCK == "evening":
     world = get_world_news(4 + RESERVE)
     ukraine_candidates, ukraine_needed = build_ukraine_block(2)
 
-    send_news_block(world, 4, header=f"🌍 *ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ*\n{today_str}", block_name="Вечерний мир")
+    send_news_block(world, 4, header=f"🌍 <b>ВЕЧЕРНИЙ ОБЗОР НОВОСТЕЙ</b>\n{today_str}", block_name="Вечерний мир")
     if ukraine_candidates:
-        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 *НОВОСТИ УКРАИНЫ*", block_name="Вечерняя Украина")
+        send_news_block(ukraine_candidates, ukraine_needed, header="🇺🇦 <b>НОВОСТИ УКРАИНЫ</b>", block_name="Вечерняя Украина")
 
 # ── AI БЛОК 20:00 ──
 elif BLOCK == "ai_evening":
     ai_news = get_ai_news(3 + RESERVE)
-    send_news_block(ai_news, 3, header=f"🤖 *AI NEWS*\n{today_str}", add_goodbye=True, block_name="AI вечер")
+    send_news_block(ai_news, 3, header=f"🤖 <b>AI NEWS</b>\n{today_str}", add_goodbye=True, block_name="AI вечер")
 
+trim_sent_urls()
 log(f"=== Блок {BLOCK} завершён ===")
