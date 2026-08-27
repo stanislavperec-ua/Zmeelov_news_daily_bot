@@ -41393,3 +41393,63 @@ Nithya
 [2026-08-27 06:08:28] Попытка 3 для: Indian refiners cut Russian crude purcha
 [2026-08-27 06:08:28] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-27 06:08:38] === Блок morning завершён ===
+[2026-08-27 08:01:31] Загружено 3152 уже отправленных новостей
+[2026-08-27 08:01:31] === Запуск блока: ai_morning ===
+[2026-08-27 08:01:31] Неизвестный источник (archdaily): How Labor Shortages Are Reshaping Archit
+[2026-08-27 08:01:31] Заблокированный источник (naturalnews.com): Trump EPA Proposes Rule to End Public Di
+[2026-08-27 08:01:31] Неизвестный источник (space daily): Humanity never chose to announce Earth t
+[2026-08-27 08:01:31] Неизвестный источник (protothema.gr): Open fronts from Ukraine to the Middle E
+[2026-08-27 08:01:31] Неизвестный источник (space daily): Astronomers searched five million stars 
+[2026-08-27 08:01:31] Неизвестный источник (nist.gov): Safeguarding Health Information: Buildin
+[2026-08-27 08:01:31] Неизвестный источник (bleeding cool news): Operation: Iron Coffin #2 Preview: Dracu
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Major record labels, AMD back $76M round
+[2026-08-27 08:01:31] Нет фото: Heuristic optimization of AI agents for 
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Data center power startup Emerald AI rai
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Agentic web search infrastructure startu
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Gatik raises $200M to grow driverless fl
+[2026-08-27 08:01:31] Неизвестный источник (bossip): Tommy Davidson Talks ‘The Varnell Hill S
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Perplexity AI launches Portable Computer
+[2026-08-27 08:01:31] Нет фото: SalesCloser Terminates bullVestor Market
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Apple refreshes Mac mini, Mac Studio lin
+[2026-08-27 08:01:31] Неизвестный источник (thewrap): Andrew Garfield Admits He Didn’t Love Pl
+[2026-08-27 08:01:31] Неизвестный источник (prnewswire): Tampa General Hospital Ranked No. 6 Amon
+[2026-08-27 08:01:31] Неизвестный источник (fortune): Pope Leo XIV on AI’s new ‘form of domina
+[2026-08-27 08:01:31] Неизвестный источник (marketbeat): Oracle Conference: Why Enterprise AI Is 
+[2026-08-27 08:01:31] Заблокированный источник (barchart.com): Dear Affirm Stock Fans, Mark Your Calend
+[2026-08-27 08:01:31] Неизвестный источник (yahoo entertainment): Rich Families Can Afford to Live Apart b
+[2026-08-27 08:01:31] Неизвестный источник (forbes): The Concert Pianist Building The Science
+[2026-08-27 08:01:31] Неизвестный источник (financial post): Australia’s FireFly Metals seeks $136 mi
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Democratizing the AI data center: How Ci
+[2026-08-27 08:01:31] Неизвестный источник (yahoo entertainment): Is Elevance Health (ELV) a Mispriced Opp
+[2026-08-27 08:01:31] Неизвестный источник (nakedcapitalism.com): Coffee Break: Armed Madhouse – Humanoid 
+[2026-08-27 08:01:31] Неизвестный источник (futurity: research news): Model teaches AI to read more like human
+[2026-08-27 08:01:31] Неизвестный источник (moneylion.com): I Asked ChatGPT What Medicare Advantage 
+[2026-08-27 08:01:31] Неизвестный источник (siliconangle news): Anthropic updates Claude’s memory to enh
+[2026-08-27 08:01:31] Неизвестный источник (prnewswire): ECRI Expands Problem Reporting Network a
+[2026-08-27 08:01:31] Нет фото: My Friend Aaron
+[2026-08-27 08:01:31] Неизвестный источник (daily signal): Elon Musk Should Reach for the Next Fron
+[2026-08-27 08:01:31] AI новости: найдено 6 после фильтрации
+[2026-08-27 08:01:33] Обрабатываю: In a divided America, the left and right unite to oppose art
+[2026-08-27 08:01:33] Попытка 1 для: In a divided America, the left and right
+[2026-08-27 08:01:34] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:01:44] Попытка 2 для: In a divided America, the left and right
+[2026-08-27 08:01:44] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:01:54] Попытка 3 для: In a divided America, the left and right
+[2026-08-27 08:01:54] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:02:04] Пауза 60 секунд...
+[2026-08-27 08:03:04] Обрабатываю: Why data centers don't break down along ideological lines
+[2026-08-27 08:03:04] Попытка 1 для: Why data centers don't break down along 
+[2026-08-27 08:03:04] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:03:14] Попытка 2 для: Why data centers don't break down along 
+[2026-08-27 08:03:14] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:03:24] Попытка 3 для: Why data centers don't break down along 
+[2026-08-27 08:03:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:03:35] Пауза 60 секунд...
+[2026-08-27 08:04:35] Обрабатываю: AMI’s Nvidia chip bet; Groww’s new growth play
+[2026-08-27 08:04:35] Попытка 1 для: AMI’s Nvidia chip bet; Groww’s new growt
+[2026-08-27 08:04:35] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:04:45] Попытка 2 для: AMI’s Nvidia chip bet; Groww’s new growt
+[2026-08-27 08:04:45] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:04:55] Попытка 3 для: AMI’s Nvidia chip bet; Groww’s new growt
+[2026-08-27 08:04:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 08:05:06] === Блок ai_morning завершён ===
