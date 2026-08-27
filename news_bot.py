@@ -708,7 +708,6 @@ def get_ai_news(count):
             params={
                 "apiKey": NEWS_KEY,
                 "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Anthropic OR Gemini OR neural network",
-                "searchIn": "title,description",
                 "language": "en",
                 "pageSize": 60,
                 "sortBy": "publishedAt",
