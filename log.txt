@@ -41505,3 +41505,80 @@ Nithya
 [2026-08-27 11:06:22] Попытка 3 для: Live updates: Sen. Darline Graham of Sou
 [2026-08-27 11:06:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-27 11:06:33] === Блок midday завершён ===
+[2026-08-27 16:01:29] Загружено 3159 уже отправленных новостей
+[2026-08-27 16:01:29] === Запуск блока: evening ===
+[2026-08-27 16:01:29] Неизвестный источник (cnbc): Fed’s preferred inflation gauge shows co
+[2026-08-27 16:01:29] Неизвестный источник (orlando sentinel): Hurricane center still tracking 1 Atlant
+[2026-08-27 16:01:29] Неизвестный источник (wpvi-tv): Officials warn of 'potential severity of
+[2026-08-27 16:01:29] Неизвестный источник (macrumors): Alleged Foldable iPhone Motherboard Phot
+[2026-08-27 16:01:29] Неизвестный источник (fox news): Eating less of common ingredient early i
+[2026-08-27 16:01:29] Неизвестный источник (9to5mac): There’s a $300 gotcha in an M5 Max Mac S
+[2026-08-27 16:01:29] Неизвестный источник (nbcsports.com): Fred Warner: Jed York arrest really wasn
+[2026-08-27 16:01:29] Неизвестный источник (yahoo entertainment): Nvidia earnings could reveal its fastest
+[2026-08-27 16:01:29] Неизвестный источник (dw (english)): China: Dissident artist jailed for satir
+[2026-08-27 16:01:29] Неизвестный источник (mma fighting): ‘Holy fraud check’: Pros react to Bella 
+[2026-08-27 16:01:29] Неизвестный источник (yahoo entertainment): Serena Williams, Carlos Alcaraz drop qua
+[2026-08-27 16:01:29] Неизвестный источник (space.com): 'You just saved the video dish': Two ast
+[2026-08-27 16:01:29] Неизвестный источник (yahoo entertainment): Harry Styles 2026 'Together, Together' t
+[2026-08-27 16:01:29] Старая новость (2026-08-25T14:00:00Z): Galaxy S27 Ultra’s major redesign detail
+[2026-08-27 16:01:29] Старая новость (2026-08-25T12:58:43Z): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-27 16:01:29] Мировые новости: найдено 14 после фильтрации
+[2026-08-27 16:01:30] Нет фото: Gay media celebrates Pope Leo XIV’s 4 pr
+[2026-08-27 16:01:30] Нет фото: Jury deliberating in case of accused mur
+[2026-08-27 16:01:30] Нет фото: Scary Footage: Massive Flood Disaster on
+[2026-08-27 16:01:30] Заблокированный источник (rt): Hungary labels Russia a ‘threat’
+[2026-08-27 16:01:30] Нет фото: Boston Scientific Hammered After Cyberat
+[2026-08-27 16:01:30] Нет фото: Jury Rejects $10 Million Suit By Burglar
+[2026-08-27 16:01:30] Нет фото: USS Abraham Lincoln headed for port in T
+[2026-08-27 16:01:30] Заблокированный источник (sputnikglobe.com): Nine People Killed in Ukrainian Drone St
+[2026-08-27 16:01:30] Нет фото: Tim Walz Just Got Roasted for Lying Abou
+[2026-08-27 16:01:30] Украинские новости: найдено 7 после фильтрации
+[2026-08-27 16:01:30] Заблокированный источник (rt): Russia hits Ukrainian cruise missile lau
+[2026-08-27 16:01:30] Харьков: новостей не найдено
+[2026-08-27 16:01:33] Обрабатываю: CIA director’s secretive visit to Moscow stirs mystery
+[2026-08-27 16:01:33] Попытка 1 для: CIA director’s secretive visit to Moscow
+[2026-08-27 16:01:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:01:43] Попытка 2 для: CIA director’s secretive visit to Moscow
+[2026-08-27 16:01:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:01:53] Попытка 3 для: CIA director’s secretive visit to Moscow
+[2026-08-27 16:01:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:02:04] Пауза 60 секунд...
+[2026-08-27 16:03:04] Обрабатываю: Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadia
+[2026-08-27 16:03:04] Попытка 1 для: Trump mulls renaming Lake Ontario as ‘La
+[2026-08-27 16:03:04] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:03:14] Попытка 2 для: Trump mulls renaming Lake Ontario as ‘La
+[2026-08-27 16:03:14] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:03:24] Попытка 3 для: Trump mulls renaming Lake Ontario as ‘La
+[2026-08-27 16:03:24] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:03:34] Пауза 60 секунд...
+[2026-08-27 16:04:34] Обрабатываю: Islamabad PIMS hospital fire: Witnesses say rescue was delay
+[2026-08-27 16:04:34] Попытка 1 для: Islamabad PIMS hospital fire: Witnesses 
+[2026-08-27 16:04:34] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:04:44] Попытка 2 для: Islamabad PIMS hospital fire: Witnesses 
+[2026-08-27 16:04:45] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:04:55] Попытка 3 для: Islamabad PIMS hospital fire: Witnesses 
+[2026-08-27 16:04:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:05:05] Пауза 60 секунд...
+[2026-08-27 16:06:05] Обрабатываю: Prince Harry and Meghan arrive back in UK, six years after l
+[2026-08-27 16:06:05] Попытка 1 для: Prince Harry and Meghan arrive back in U
+[2026-08-27 16:06:05] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:06:15] Попытка 2 для: Prince Harry and Meghan arrive back in U
+[2026-08-27 16:06:15] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:06:25] Попытка 3 для: Prince Harry and Meghan arrive back in U
+[2026-08-27 16:06:25] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:06:39] Обрабатываю: Ukraine Awards Elon Musk Top State Honor as Zelenskyy Pushes
+[2026-08-27 16:06:39] Попытка 1 для: Ukraine Awards Elon Musk Top State Honor
+[2026-08-27 16:06:39] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:06:49] Попытка 2 для: Ukraine Awards Elon Musk Top State Honor
+[2026-08-27 16:06:49] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:06:59] Попытка 3 для: Ukraine Awards Elon Musk Top State Honor
+[2026-08-27 16:06:59] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:07:10] Пауза 60 секунд...
+[2026-08-27 16:08:10] Обрабатываю: Prominent Ukrainian commanders to lead defence of eastern re
+[2026-08-27 16:08:10] Попытка 1 для: Prominent Ukrainian commanders to lead d
+[2026-08-27 16:08:10] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:08:20] Попытка 2 для: Prominent Ukrainian commanders to lead d
+[2026-08-27 16:08:20] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:08:30] Попытка 3 для: Prominent Ukrainian commanders to lead d
+[2026-08-27 16:08:30] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 16:08:40] === Блок evening завершён ===
