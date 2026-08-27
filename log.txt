@@ -41453,3 +41453,55 @@ Nithya
 [2026-08-27 08:04:55] Попытка 3 для: AMI’s Nvidia chip bet; Groww’s new growt
 [2026-08-27 08:04:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-27 08:05:06] === Блок ai_morning завершён ===
+[2026-08-27 11:01:27] Загружено 3155 уже отправленных новостей
+[2026-08-27 11:01:27] === Запуск блока: midday ===
+[2026-08-27 11:01:27] Неизвестный источник (cnbc): Iran and Oman prepare Hormuz deal as U.S
+[2026-08-27 11:01:27] Неизвестный источник (deadline): 'Heroes' Cast Reunites To "Celebrate The
+[2026-08-27 11:01:27] Неизвестный источник (mma fighting): DWCS Season 10, Week 3 results: Bella Mi
+[2026-08-27 11:01:27] Неизвестный источник (movieweb): Ridley Scott's 'The Dog Stars' Debuts Of
+[2026-08-27 11:01:27] Неизвестный источник (macrumors): BenQ's New iScreenBar is a Monitor Light
+[2026-08-27 11:01:27] Заблокированный источник (sciencealert): Massive Study Says Vaping Really Is The 
+[2026-08-27 11:01:27] Неизвестный источник (wgal susquehanna valley pa.): 'Measles-associated' deaths mark Pennsyl
+[2026-08-27 11:01:27] Неизвестный источник (kcci des moines): Owner says business dips at Ottumwa Pizz
+[2026-08-27 11:01:27] Неизвестный источник (usa today): Ranking NFL's newly revealed 2026 Nike '
+[2026-08-27 11:01:27] Неизвестный источник (space.com): 'You just saved the video dish': Two ast
+[2026-08-27 11:01:27] Неизвестный источник (radio free europe/ radio liberty): CIA Director Ratcliffe's Surprise Moscow
+[2026-08-27 11:01:27] Неизвестный источник (daringfireball.net): Memory and Storage Configurations and Pr
+[2026-08-27 11:01:27] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Hits No. 2 o
+[2026-08-27 11:01:27] Неизвестный источник (usa today): After 8-year-old died of brain-eating am
+[2026-08-27 11:01:27] Неизвестный источник (yahoo entertainment): JPMorgan compares Bessent's $4B bond buy
+[2026-08-27 11:01:27] Неизвестный источник (9to5google.com): Galaxy S27 Ultra’s major redesign detail
+[2026-08-27 11:01:27] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-27 11:01:27] Мировые новости: найдено 12 после фильтрации
+[2026-08-27 11:01:30] Обрабатываю: At least 14 newborn babies killed in Pakistan hospital nurse
+[2026-08-27 11:01:30] Попытка 1 для: At least 14 newborn babies killed in Pak
+[2026-08-27 11:01:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:01:40] Попытка 2 для: At least 14 newborn babies killed in Pak
+[2026-08-27 11:01:40] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:01:50] Попытка 3 для: At least 14 newborn babies killed in Pak
+[2026-08-27 11:01:50] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:02:01] Пауза 60 секунд...
+[2026-08-27 11:03:01] Обрабатываю: Rubio tells allies U.S. shifting from strikes to sanctions o
+[2026-08-27 11:03:01] Попытка 1 для: Rubio tells allies U.S. shifting from st
+[2026-08-27 11:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:03:11] Попытка 2 для: Rubio tells allies U.S. shifting from st
+[2026-08-27 11:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:03:21] Попытка 3 для: Rubio tells allies U.S. shifting from st
+[2026-08-27 11:03:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:03:31] Пауза 60 секунд...
+[2026-08-27 11:04:31] Обрабатываю: Republican with same name as incumbent Dan Sullivan advances
+[2026-08-27 11:04:31] Попытка 1 для: Republican with same name as incumbent D
+[2026-08-27 11:04:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:04:42] Попытка 2 для: Republican with same name as incumbent D
+[2026-08-27 11:04:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:04:52] Попытка 3 для: Republican with same name as incumbent D
+[2026-08-27 11:04:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:05:02] Пауза 60 секунд...
+[2026-08-27 11:06:02] Обрабатываю: Live updates: Sen. Darline Graham of South Carolina, with Tr
+[2026-08-27 11:06:02] Попытка 1 для: Live updates: Sen. Darline Graham of Sou
+[2026-08-27 11:06:02] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:06:12] Попытка 2 для: Live updates: Sen. Darline Graham of Sou
+[2026-08-27 11:06:12] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:06:22] Попытка 3 для: Live updates: Sen. Darline Graham of Sou
+[2026-08-27 11:06:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+[2026-08-27 11:06:33] === Блок midday завершён ===
