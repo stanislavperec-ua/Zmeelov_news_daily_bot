@@ -41582,3 +41582,63 @@ Nithya
 [2026-08-27 16:08:30] Попытка 3 для: Prominent Ukrainian commanders to lead d
 [2026-08-27 16:08:30] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-27 16:08:40] === Блок evening завершён ===
+[2026-08-27 16:56:59] Загружено 3164 уже отправленных новостей
+[2026-08-27 16:56:59] === Запуск блока: evening (тест: True) ===
+[2026-08-27 16:57:00] Пропускаю уже отправленную: CIA director’s secretive visit to Moscow stirs mys
+[2026-08-27 16:57:00] Пропускаю уже отправленную: Trump mulls renaming Lake Ontario as ‘Lake America
+[2026-08-27 16:57:00] Пропускаю уже отправленную: Islamabad PIMS hospital fire: Witnesses say rescue
+[2026-08-27 16:57:00] Неизвестный источник (cnbc): Fed’s preferred inflation gauge shows co
+[2026-08-27 16:57:00] Неизвестный источник (orlando sentinel): Hurricane center still tracking 1 Atlant
+[2026-08-27 16:57:00] Пропускаю уже отправленную: Prince Harry and Meghan arrive back in UK, six yea
+[2026-08-27 16:57:00] Неизвестный источник (wpvi-tv): Officials warn of 'potential severity of
+[2026-08-27 16:57:00] Неизвестный источник (macrumors): Alleged Foldable iPhone Motherboard Phot
+[2026-08-27 16:57:00] Неизвестный источник (fox news): Eating less of common ingredient early i
+[2026-08-27 16:57:00] Неизвестный источник (9to5mac): There’s a $300 gotcha in an M5 Max Mac S
+[2026-08-27 16:57:00] Неизвестный источник (nbcsports.com): Fred Warner: Jed York arrest really wasn
+[2026-08-27 16:57:00] Неизвестный источник (yahoo entertainment): Nvidia earnings could reveal its fastest
+[2026-08-27 16:57:00] Неизвестный источник (dw (english)): China: Dissident artist jailed for satir
+[2026-08-27 16:57:00] Неизвестный источник (mma fighting): ‘Holy fraud check’: Pros react to Bella 
+[2026-08-27 16:57:00] Неизвестный источник (yahoo entertainment): Serena Williams, Carlos Alcaraz drop qua
+[2026-08-27 16:57:00] Неизвестный источник (space.com): 'You just saved the video dish': Two ast
+[2026-08-27 16:57:00] Неизвестный источник (yahoo entertainment): Harry Styles 2026 'Together, Together' t
+[2026-08-27 16:57:00] Старая новость (2026-08-25T14:00:00Z): Galaxy S27 Ultra’s major redesign detail
+[2026-08-27 16:57:00] Старая новость (2026-08-25T12:58:43Z): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-27 16:57:00] Мировые новости: найдено 10 после фильтрации
+[2026-08-27 16:57:00] Нет фото: Tim Curry, Famous for Roles in Rocky Hor
+[2026-08-27 16:57:00] Пропускаю уже отправленную: Ukraine Awards Elon Musk Top State Honor as Zelens
+[2026-08-27 16:57:00] Нет фото: Gay media celebrates Pope Leo XIV’s 4 pr
+[2026-08-27 16:57:00] Пропускаю уже отправленную: Prominent Ukrainian commanders to lead defence of 
+[2026-08-27 16:57:00] Нет фото: Jury deliberating in case of accused mur
+[2026-08-27 16:57:00] Нет фото: Scary Footage: Massive Flood Disaster on
+[2026-08-27 16:57:00] Заблокированный источник (rt): Hungary labels Russia a ‘threat’
+[2026-08-27 16:57:00] Нет фото: Boston Scientific Hammered After Cyberat
+[2026-08-27 16:57:00] Нет фото: Jury Rejects $10 Million Suit By Burglar
+[2026-08-27 16:57:00] Нет фото: USS Abraham Lincoln headed for port in T
+[2026-08-27 16:57:00] Заблокированный источник (sputnikglobe.com): Nine People Killed in Ukrainian Drone St
+[2026-08-27 16:57:00] Украинские новости: найдено 5 после фильтрации
+[2026-08-27 16:57:00] Заблокированный источник (rt): Russia hits Ukrainian cruise missile lau
+[2026-08-27 16:57:00] Харьков: новостей не найдено
+[2026-08-27 16:57:00] Обрабатываю: Hundreds missing and many feared dead after massive flash fl
+[2026-08-27 16:57:00] Попытка 1 для: Hundreds missing and many feared dead af
+[2026-08-27 16:57:02] Успешно, получено 1358 символов
+[2026-08-27 16:57:02] Обрабатываю: How Dolly Parton helped the world
+[2026-08-27 16:57:02] Попытка 1 для: How Dolly Parton helped the world
+[2026-08-27 16:57:05] Успешно, получено 1221 символов
+[2026-08-27 16:57:05] Обрабатываю: Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks
+[2026-08-27 16:57:05] Попытка 1 для: Rockstar finally responds to ‘heartbreak
+[2026-08-27 16:57:13] Успешно, получено 1067 символов
+[2026-08-27 16:57:13] Обрабатываю: Live Updates: Iran and Oman edge toward temporary Strait of 
+[2026-08-27 16:57:13] Попытка 1 для: Live Updates: Iran and Oman edge toward 
+[2026-08-27 16:57:34] Успешно, получено 1389 символов
+[2026-08-27 16:57:36] Пауза 3 секунд...
+[2026-08-27 16:57:40] Пауза 3 секунд...
+[2026-08-27 16:57:43] Пауза 3 секунд...
+[2026-08-27 16:57:46] Обрабатываю: Up to 70 Ships Queue Off Danube as Bottlenecks Slow Ukraine 
+[2026-08-27 16:57:46] Попытка 1 для: Up to 70 Ships Queue Off Danube as Bottl
+[2026-08-27 16:57:49] Успешно, получено 1546 символов
+[2026-08-27 16:57:49] Обрабатываю: Kyiv Reveals 'Drone Aircraft Carrier' to Menace Russian Blac
+[2026-08-27 16:57:49] Попытка 1 для: Kyiv Reveals 'Drone Aircraft Carrier' to
+[2026-08-27 16:58:11] Успешно, получено 1265 символов
+[2026-08-27 16:58:14] Пауза 3 секунд...
+[2026-08-27 16:58:17] Фото не отправилось: 400 {"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}
+[2026-08-27 16:58:17] === Блок evening завершён ===
