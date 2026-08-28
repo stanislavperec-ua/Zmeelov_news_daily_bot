@@ -1,118 +1,3 @@
-[2026-08-22 16:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:26] Обрабатываю: Chelsea to host Shakhtar's Champions League home games amid 
-[2026-08-22 16:06:26] Попытка 1 для: Chelsea to host Shakhtar's Champions Lea
-[2026-08-22 16:06:26] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:36] Попытка 2 для: Chelsea to host Shakhtar's Champions Lea
-[2026-08-22 16:06:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:46] Попытка 3 для: Chelsea to host Shakhtar's Champions Lea
-[2026-08-22 16:06:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:56] Пауза 60 секунд...
-[2026-08-22 16:07:56] Обрабатываю: Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia
-[2026-08-22 16:07:56] Попытка 1 для: Ukrainian Drone Attack Hits Lukoil Refin
-[2026-08-22 16:07:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:08:07] Попытка 2 для: Ukrainian Drone Attack Hits Lukoil Refin
-[2026-08-22 16:08:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:08:17] Попытка 3 для: Ukrainian Drone Attack Hits Lukoil Refin
-[2026-08-22 16:08:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:08:27] === Блок evening завершён ===
-[2026-08-22 18:01:14] Загружено 3065 уже отправленных новостей
-[2026-08-22 18:01:14] === Запуск блока: ai_evening ===
-[2026-08-22 18:01:14] Неизвестный источник (storagereview.com): SK hynix Takes Its Co-Packaged Optics Ro
-[2026-08-22 18:01:14] Неизвестный источник (researchbuzz.me): National Parks, Lavender Atlas, PFAS in 
-[2026-08-22 18:01:14] Неизвестный источник (courtlistener.com): Order on Motion to Dismiss – #70 in Ted 
-[2026-08-22 18:01:14] Нет фото: RFK Jr. Torches CNN’s Erin Burnett After
-[2026-08-22 18:01:14] Нет фото: WiMi's Next-Generation Quantum Convoluti
-[2026-08-22 18:01:14] Неизвестный источник (macdailynews.com): President Trump and Apple cheer Micron’s
-[2026-08-22 18:01:14] Неизвестный источник (prnewswire): Video Surveillance Storage Market worth 
-[2026-08-22 18:01:14] Неизвестный источник (anime news network): This Week in Games - Sony State of Play:
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Eleven quick tips for Biomedical Federat
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Supplementing Korean artificial intellig
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Microbiome modulation in regeneration in
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Signal hierarchical petri nets: Formal s
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Is a (satellite) image worth a thousand 
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): Power quality enhancement in wind energy
-[2026-08-22 18:01:14] Неизвестный источник (plos.org): FusionPHI: A phage-host interaction pred
-[2026-08-22 18:01:14] Неизвестный источник (businessline): Keralam must harness technology, talent 
-[2026-08-22 18:01:14] Неизвестный источник (vanguard): Anambra’s local AI raises Nigeria’s digi
-[2026-08-22 18:01:14] Нет фото: aigyminsper 0.3.3
-[2026-08-22 18:01:14] Неизвестный источник (ewtnnews.com): Pope Leo to Catholic legislators: Promot
-[2026-08-22 18:01:14] Неизвестный источник (usa today): Is hiring broken? | The Excerpt
-[2026-08-22 18:01:14] Неизвестный источник (prnewswire): CobbleStone® Announces New TXShare Coope
-[2026-08-22 18:01:14] Неизвестный источник (kitploit.com): Sandb0x-Xtract0r
-[2026-08-22 18:01:14] Нет фото: Former FBI General Counsel Brad Brooker 
-[2026-08-22 18:01:14] Нет фото: Zoho Writer - Okay but somewhat confusin
-[2026-08-22 18:01:14] Неизвестный источник (internet): Wazuh and AI For Enhanced SOC Workflows
-[2026-08-22 18:01:14] Неизвестный источник (worldconstructionnetwork.com): PORR awarded contract for X-FAB semicond
-[2026-08-22 18:01:14] Неизвестный источник (forbes): How To Build The Niche Skills Employers 
-[2026-08-22 18:01:14] Нет фото: Australia's cyber experts called to serv
-[2026-08-22 18:01:14] Неизвестный источник (telecomtv): Will AI finally make telecom networks tr
-[2026-08-22 18:01:14] Неизвестный источник (internet): GitLab CVE-2026-19478 Comes Under Active
-[2026-08-22 18:01:14] Неизвестный источник (vanguard): From banking to entertainment: How Niger
-[2026-08-22 18:01:14] Заблокированный источник (naturalnews.com): AI-Powered Decoys Scam-Bait 600,000 Frau
-[2026-08-22 18:01:14] Заблокированный источник (naturalnews.com): Army to Scale Back Drone Battalion Amid 
-[2026-08-22 18:01:14] Неизвестный источник (business standard): From Ridge to Yamuna: Delhi plans a 200-
-[2026-08-22 18:01:14] Неизвестный источник (insurance journal): Viewpoint: If AI Compute Is an Investabl
-[2026-08-22 18:01:14] AI новости: найдено 4 после фильтрации
-[2026-08-22 18:01:17] Обрабатываю: Who’s Afraid of ‘Healthy’ Ice Cream?
-[2026-08-22 18:01:17] Попытка 1 для: Who’s Afraid of ‘Healthy’ Ice Cream?
-[2026-08-22 18:01:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:01:27] Попытка 2 для: Who’s Afraid of ‘Healthy’ Ice Cream?
-[2026-08-22 18:01:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:01:37] Попытка 3 для: Who’s Afraid of ‘Healthy’ Ice Cream?
-[2026-08-22 18:01:37] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:01:48] Пауза 60 секунд...
-[2026-08-22 18:02:48] Обрабатываю: Shriram Wealth plans to expand into Rs 10 lakh-Rs 2 crore cl
-[2026-08-22 18:02:48] Попытка 1 для: Shriram Wealth plans to expand into Rs 1
-[2026-08-22 18:02:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:02:58] Попытка 2 для: Shriram Wealth plans to expand into Rs 1
-[2026-08-22 18:02:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:03:08] Попытка 3 для: Shriram Wealth plans to expand into Rs 1
-[2026-08-22 18:03:08] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:03:19] Пауза 60 секунд...
-[2026-08-22 18:04:19] Обрабатываю: Long before air conditioners, Americans used ‘white gold’ an
-[2026-08-22 18:04:19] Попытка 1 для: Long before air conditioners, Americans 
-[2026-08-22 18:04:19] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:04:29] Попытка 2 для: Long before air conditioners, Americans 
-[2026-08-22 18:04:29] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:04:39] Попытка 3 для: Long before air conditioners, Americans 
-[2026-08-22 18:04:39] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 18:04:50] === Блок ai_evening завершён ===
-[2026-08-23 06:01:20] Загружено 3068 уже отправленных новостей
-[2026-08-23 06:01:20] === Запуск блока: morning ===
-[2026-08-23 06:01:20] Неизвестный источник (fox news): Trump to honor Artemis II astronauts who
-[2026-08-23 06:01:20] Неизвестный источник (espn): Former Browns, Texans RB Nick Chubb anno
-[2026-08-23 06:01:20] Неизвестный источник (mlb.com): Kade Anderson set to join list of bigges
-[2026-08-23 06:01:20] Неизвестный источник (fox business): E. coli and salmonella outbreak linked t
-[2026-08-23 06:01:20] Неизвестный источник (fox news): Mavericks buy out Klay Thompson’s contra
-[2026-08-23 06:01:20] Неизвестный источник (kcci des moines): Iowa HHS adds to list of potential measl
-[2026-08-23 06:01:20] Неизвестный источник (hollywood reporter): Hayden Panettiere’s Boyfriend Gave Her N
-[2026-08-23 06:01:20] Неизвестный источник (hollywood reporter): ‘The Girls’: Khloé Kardashian Wanted Her
-[2026-08-23 06:01:20] Неизвестный источник (nbc10 boston): Recap: Defense in Lindsay Clancy trial r
-[2026-08-23 06:01:20] Неизвестный источник (push square): Call of Duty: Modern Warfare 4 Beta: Sta
-[2026-08-23 06:01:20] Неизвестный источник (mma fighting): UFC Sacramento weigh-in results: Anthony
-[2026-08-23 06:01:20] Неизвестный источник (phys.org): LHC collisions reveal oxygen and neon's 
-[2026-08-23 06:01:20] Неизвестный источник (wgn tv chicago): Class-action lawsuit filed against NIPSC
-[2026-08-23 06:01:20] Неизвестный источник (9to5mac): Here’s how iPhone 18 Pro will differenti
-[2026-08-23 06:01:20] Неизвестный источник (dw (english)): DRC Ebola outbreak 'growing exponentiall
-[2026-08-23 06:01:20] Неизвестный источник (wgal susquehanna valley pa.): US national debt tops $40 trillion: Thes
-[2026-08-23 06:01:20] Неизвестный источник (space.com): Partial lunar eclipse live: Latest news,
-[2026-08-23 06:01:20] Старая новость (2026-08-20T22:37:00Z): Patient diagnosed with measles at UPMC C
-[2026-08-23 06:01:20] Мировые новости: найдено 11 после фильтрации
-[2026-08-23 06:01:20] Заблокированный источник (naturalnews.com): Russia Vows Continued Retaliation for Uk
-[2026-08-23 06:01:20] Нет фото: Russian drone attack on busy shopping ce
-[2026-08-23 06:01:20] Нет фото: Putin Expects Ukraine to Break This Wint
-[2026-08-23 06:01:20] Нет фото: The First-Ever Official Naruto Digital C
-[2026-08-23 06:01:20] Нет фото: Remember the Names
-[2026-08-23 06:01:20] Нет фото: Russian 'double-tap' strike on shopping 
-[2026-08-23 06:01:20] Заблокированный источник (rt): Draft officer fatally stabbed in Ukraine
-[2026-08-23 06:01:20] Заблокированный источник (rt): With Ukraine’s corruption, one thing is 
-[2026-08-23 06:01:20] Заблокированный источник (rt): Ukrainian conscripts fleeing from traini
-[2026-08-23 06:01:20] Нет фото: Lovable Misfit Or 'Lunar Demon'? Chebura
-[2026-08-23 06:01:20] Внутренний дубль: Fresh Russian strikes kill at least two people in 
-[2026-08-23 06:01:20] Украинские новости: найдено 5 после фильтрации
-[2026-08-23 06:01:20] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
-[2026-08-23 06:01:20] Харьков: новостей не найдено
-[2026-08-23 06:01:23] Обрабатываю: Men from Cuba and other countries describe being deported by
 [2026-08-23 06:01:23] Попытка 1 для: Men from Cuba and other countries descri
 [2026-08-23 06:01:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-23 06:01:33] Попытка 2 для: Men from Cuba and other countries descri
@@ -2998,3 +2883,118 @@
 [2026-08-28 10:04:30] Пауза 60 секунд...
 [2026-08-28 10:05:31] sent_urls.txt обрезан: 304 -> 300
 [2026-08-28 10:05:31] === Блок midday завершён ===
+[2026-08-28 15:01:11] Загружено 300 уже отправленных новостей
+[2026-08-28 15:01:11] === Запуск блока: evening (тест: False) ===
+[2026-08-28 15:01:12] Лента обновлений, пропускаю: Lindsay Clancy trial hears closing argum
+[2026-08-28 15:01:12] Неизвестный источник (usatoday.com): Daughter of ex-MLB player breaking Littl
+[2026-08-28 15:01:12] Неизвестный источник (nbcsports.com): NFL finally throws in the towel on the P
+[2026-08-28 15:01:12] Неизвестный источник (foxnews.com): Missouri deputy AG, missing 6 days after
+[2026-08-28 15:01:12] Неизвестный источник (macrumors.com): Apple Event Logo Hints at Two iPhone 18 
+[2026-08-28 15:01:12] Неизвестный источник (foxnews.com): Oil prices remain low; Strait of Hormuz 
+[2026-08-28 15:01:12] Неизвестный источник (goerie.com): RFK Jr. questions Pa. measles deaths rep
+[2026-08-28 15:01:12] Лента обновлений, пропускаю: Stock futures rise as Nvidia shares gain
+[2026-08-28 15:01:12] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
+[2026-08-28 15:01:12] Неизвестный источник (androidpolice.com): Galaxy S27 Ultra leak reveals the 7,000m
+[2026-08-28 15:01:12] Неизвестный источник (hollywoodreporter.com): Tim Curry Dead: Susan Sarandon, Carol Bu
+[2026-08-28 15:01:12] Неизвестный источник (space.com): From spy satellite to space telescope: T
+[2026-08-28 15:01:12] Неизвестный источник (sciencealert.com): Forget Acid Rain: Electrically Charged R
+[2026-08-28 15:01:12] Старая новость (2026-08-26T11:05:25Z): Norah O'Donnell: Secrets of the gut micr
+[2026-08-28 15:01:12] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
+[2026-08-28 15:01:12] Мировые новости: найдено 10 после фильтрации
+[2026-08-28 15:01:15] RSS Ukrinform: 30 записей
+[2026-08-28 15:01:16] RSS Ukrinform: 30 записей
+[2026-08-28 15:01:16] RSS Euromaidan Press: 29 записей
+[2026-08-28 15:01:16] Старая новость (2026-08-26T15:00:44Z): What Spain’s response to Ukraine reveals
+[2026-08-28 15:01:16] Старая новость (2026-08-26T14:37:06Z): Ukraine asks US orchestra to drop Russia
+[2026-08-28 15:01:16] Старая новость (2026-08-26T13:13:16Z): A warehouse built to hold up to 54 milli
+[2026-08-28 15:01:16] Старая новость (2026-08-26T12:41:41Z): Frontline Rolls: Ukrainian soldiers docu
+[2026-08-28 15:01:16] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-08-28 15:01:16] Заблокированный источник (nypost.com): Ukraine-Russia talks possibly including 
+[2026-08-28 15:01:16] Нет фото: Russia bombards 9 Ukrainian cities overn
+[2026-08-28 15:01:16] Заблокированный источник (rt.com): Ukraine hit more than 200 civilian vesse
+[2026-08-28 15:01:16] Нет фото: Russia Says it Could Strike UK Military 
+[2026-08-28 15:01:16] Заблокированный источник (rt.com): Russia-bound Turkish ship hit by drones 
+[2026-08-28 15:01:16] Заблокированный источник (nypost.com): Bulgaria purchases 7 minehunter ships fr
+[2026-08-28 15:01:16] Спорт, пропускаю: Who are the other women's contenders to 
+[2026-08-28 15:01:16] Нет фото: N’Kiyla Jasmine Thomas Wins OK Dem Nod —
+[2026-08-28 15:01:16] Внутренний дубль: Russian attacks on Kharkiv region leave two killed
+[2026-08-28 15:01:16] Внутренний дубль: Russian attacks on Kherson region over past day le
+[2026-08-28 15:01:16] Внутренний дубль: Budanov on prospects for peace: Ending war now sim
+[2026-08-28 15:01:16] Внутренний дубль: Russian attack destroys Yasno energy company wareh
+[2026-08-28 15:01:16] Внутренний дубль: Russian attacks across Ukraine leave 16 killed, 50
+[2026-08-28 15:01:16] Внутренний дубль: Russians strike Sumy with multiple rocket launcher
+[2026-08-28 15:01:16] Внутренний дубль: Fires extinguished at three locations in Bucha dis
+[2026-08-28 15:01:16] Внутренний дубль: Russia plans to scale up ballistic missile product
+[2026-08-28 15:01:16] Внутренний дубль: Strikes on Kyiv region: 17 warehouses, 19 homes da
+[2026-08-28 15:01:16] Внутренний дубль: USF strikes another 21 energy facilities in tempor
+[2026-08-28 15:01:16] Внутренний дубль: Russian forces strike Kharkiv with drone, casualti
+[2026-08-28 15:01:16] Внутренний дубль: Defense Forces strike air defense systems and dron
+[2026-08-28 15:01:16] Внутренний дубль: SSU “Alpha” unit members strike Tu-95MS missile ca
+[2026-08-28 15:01:16] Внутренний дубль: Defense Forces strike oil refinery in Yaroslavl re
+[2026-08-28 15:01:16] Внутренний дубль: Invaders attack shopping center in Kharkiv
+[2026-08-28 15:01:16] Внутренний дубль: Russian attack in Kyiv region kills one and injure
+[2026-08-28 15:01:16] Внутренний дубль: Demchenko: Russian sabotage groups show no signifi
+[2026-08-28 15:01:16] Внутренний дубль: Russian activity increases in Lyman sector — spox 
+[2026-08-28 15:01:16] Внутренний дубль: Russian attack damages 14 warehouses and 19 houses
+[2026-08-28 15:01:16] Внутренний дубль: Russian strikes cause new power outages in four re
+[2026-08-28 15:01:16] Внутренний дубль: War update: 250 combat clashes on front line
+[2026-08-28 15:01:16] Внутренний дубль: ADF neutralizes 137 of 164 Russian drones overnigh
+[2026-08-28 15:01:16] Внутренний дубль: Russian attacks on Kharkiv region leave two killed
+[2026-08-28 15:01:16] Внутренний дубль: Russia reports drone attacks as oil refinery burns
+[2026-08-28 15:01:16] Внутренний дубль: Russian attacks on Kherson region over past day le
+[2026-08-28 15:01:16] Внутренний дубль: Russian forces strike Nova Post facility, warehous
+[2026-08-28 15:01:16] Внутренний дубль: Russian army loses another 1,630 troops in Ukraine
+[2026-08-28 15:01:16] Внутренний дубль: Russian forces attack Dnipropetrovsk region more t
+[2026-08-28 15:01:16] Внутренний дубль: Russian spy network targeting Ukraine's Defense Fo
+[2026-08-28 15:01:16] Внутренний дубль: More than 250 kilometers of roads in Kherson regio
+[2026-08-28 15:01:16] Внутренний дубль: CCD exposes Russian fake about 'mobilization of wo
+[2026-08-28 15:01:16] Украинские новости: найдено 58 после фильтрации
+[2026-08-28 15:01:18] Редакторский отбор: выбраны позиции [3, 1, 6, 18, 7]
+[2026-08-28 15:01:18] NewsAPI (Харьков, все издания): пришло 5 статей
+[2026-08-28 15:01:19] RSS Ukrinform: 30 записей
+[2026-08-28 15:01:20] RSS Ukrinform: 30 записей
+[2026-08-28 15:01:20] RSS Euromaidan Press: 29 записей
+[2026-08-28 15:01:20] Заблокированный источник (yahoo.com): Russia bombards 9 Ukrainian cities overn
+[2026-08-28 15:01:20] Старая новость (2026-08-26T15:00:44Z): What Spain’s response to Ukraine reveals
+[2026-08-28 15:01:20] Старая новость (2026-08-26T14:37:06Z): Ukraine asks US orchestra to drop Russia
+[2026-08-28 15:01:20] Старая новость (2026-08-26T13:13:16Z): A warehouse built to hold up to 54 milli
+[2026-08-28 15:01:20] Старая новость (2026-08-26T12:41:41Z): Frontline Rolls: Ukrainian soldiers docu
+[2026-08-28 15:01:20] Внутренний дубль: Russian forces strike Kharkiv with drone, casualti
+[2026-08-28 15:01:20] Внутренний дубль: Invaders attack shopping center in Kharkiv
+[2026-08-28 15:01:20] Внутренний дубль: Russian attacks on Kharkiv region leave two killed
+[2026-08-28 15:01:20] Харьков: найдена новость: Russia Bombards 9 Ukrainian Cities Overnight, Call
+[2026-08-28 15:01:20] Обрабатываю: Plaud’s new earphones come with an eSIM-enabled case for tal | https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-es
+[2026-08-28 15:01:21] Полный текст получен (3000 символов)
+[2026-08-28 15:01:21] Попытка 1 для: Plaud’s new earphones come with an eSIM-
+[2026-08-28 15:01:24] Успешно, получено 1618 символов
+[2026-08-28 15:01:24] Обрабатываю: How OpenAI let a mob of LLM agents game a test and ransack H | https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-a
+[2026-08-28 15:01:24] Полный текст получен (3000 символов)
+[2026-08-28 15:01:24] Попытка 1 для: How OpenAI let a mob of LLM agents game 
+[2026-08-28 15:01:55] Успешно, получено 1685 символов
+[2026-08-28 15:01:55] Обрабатываю: A biopic, a coffee brand and dog treats among Dolly Parton's | https://www.bbc.com/news/articles/c9dwy750jpdo
+[2026-08-28 15:01:55] Полный текст получен (3000 символов)
+[2026-08-28 15:01:55] Попытка 1 для: A biopic, a coffee brand and dog treats 
+[2026-08-28 15:02:14] Успешно, получено 1725 символов
+[2026-08-28 15:02:14] Обрабатываю: Six months of the Iran war – as told through Trump’s social  | https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as
+[2026-08-28 15:02:14] Полный текст получен (3000 символов)
+[2026-08-28 15:02:14] Попытка 1 для: Six months of the Iran war – as told thr
+[2026-08-28 15:02:32] Успешно, получено 1839 символов
+[2026-08-28 15:02:34] Пауза 60 секунд...
+[2026-08-28 15:03:35] Пауза 60 секунд...
+[2026-08-28 15:04:35] Пауза 60 секунд...
+[2026-08-28 15:05:36] Обрабатываю: Russian attacks across Ukraine leave 16 killed, 50 injured o | https://www.ukrinform.net/rubric-ato/4158642-russian-attacks-across-uk
+[2026-08-28 15:05:36] Полный текст получен (1736 символов)
+[2026-08-28 15:05:36] Попытка 1 для: Russian attacks across Ukraine leave 16 
+[2026-08-28 15:05:40] Успешно, получено 1788 символов
+[2026-08-28 15:05:40] Обрабатываю: Budanov on prospects for peace: Ending war now simply unreal | https://www.ukrinform.net/rubric-ato/4158653-budanov-on-prospects-for-
+[2026-08-28 15:05:41] Полный текст получен (1323 символов)
+[2026-08-28 15:05:41] Попытка 1 для: Budanov on prospects for peace: Ending w
+[2026-08-28 15:05:43] Успешно, получено 1614 символов
+[2026-08-28 15:05:43] Обрабатываю: Russia Bombards 9 Ukrainian Cities Overnight, Calling The St | https://www.huffpost.com/entry/russia-bombards-9-ukrainian-cities-over
+[2026-08-28 15:05:43] Полный текст получен (3000 символов)
+[2026-08-28 15:05:43] Попытка 1 для: Russia Bombards 9 Ukrainian Cities Overn
+[2026-08-28 15:06:15] Успешно, получено 1790 символов
+[2026-08-28 15:06:18] Пауза 60 секунд...
+[2026-08-28 15:07:18] Пауза 60 секунд...
+[2026-08-28 15:08:18] sent_urls.txt обрезан: 307 -> 300
+[2026-08-28 15:08:18] === Блок evening завершён ===
