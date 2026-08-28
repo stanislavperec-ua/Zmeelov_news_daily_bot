@@ -645,7 +645,15 @@ def analyze(title, description, source_name, published_at=None, article_url=None
 
 Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами и звучать профессионально.
 
-{limit_rule} Никаких звёздочек и никакой разметки. Тире не использовать, вместо него запятая или двоеточие."""
+{limit_rule} Никаких звёздочек и никакой разметки. Тире не использовать, вместо него запятая или двоеточие.
+
+Соблюдай точный шаблон ответа, слова "Суть:" и "Прогноз:" обязательны:
+
+Литературный заголовок новости
+
+Суть: {date_str}. Первое предложение. Второе предложение.
+
+Прогноз: Первое предложение. Второе предложение."""
 
     for attempt in range(1, 4):
         try:
@@ -659,14 +667,22 @@ def analyze(title, description, source_name, published_at=None, article_url=None
             raw = (response.choices[0].message.content or "").strip()
             raw = clean_model_output(raw)
 
-            if len(raw) < 200 or "Суть" not in raw or "Прогноз" not in raw:
-                log(f"Ответ модели без нужной структуры ({len(raw)} символов): {raw[:200]}")
+            lines = [l.strip() for l in raw.split("\n") if l.strip()]
+
+            # Требуем только содержательную часть. Метку "Суть:" модель иногда
+            # опускает, хотя текст правильный, и из-за этого терялись готовые
+            # новости, в том числе харьковские.
+            if len(raw) < 200 or "Прогноз" not in raw or len(lines) < 3:
+                preview = " ".join(raw.split())[:200]
+                log(f"Ответ модели без нужной структуры ({len(raw)} символов): {preview}")
                 time.sleep(5)
                 continue
 
-            lines = [l.strip() for l in raw.split("\n") if l.strip()]
             title_ru = re.sub(r"^(Заголовок|Первая строка)\s*:\s*", "", lines[0]).strip()
-            body = "\n\n".join(lines[1:])
+            body_lines = lines[1:]
+            if body_lines and not body_lines[0].lower().startswith("суть"):
+                body_lines[0] = f"Суть: {body_lines[0]}"
+            body = "\n\n".join(body_lines)
 
             if not title_ru or len(title_ru) > 250:
                 log("Заголовок не распознан, пробую ещё раз")
