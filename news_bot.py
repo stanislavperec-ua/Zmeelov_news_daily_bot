@@ -108,6 +108,19 @@ BLOCKED_DOMAINS = {
 # Пресс-релизы, публикуемые на доверенных доменах, отсекаем по адресу страницы
 PR_URL_PARTS = ["/press-release", "/pressrelease", "/earnings-call", "/press_release"]
 
+# Ленты живых обновлений. На одной такой странице десятки не связанных между
+# собой новостей, поэтому в текст попадают посторонние события, а заголовок и
+# фото относятся только к верхнему обновлению.
+LIVE_URL_PARTS = [
+    "/liveblog/", "/newsblogs/", "/live-updates/", "/live-news/",
+    "/live-blog/", "/liveupdates/", "/live/",
+]
+
+LIVE_TITLE_PARTS = [
+    "live updates", "live blog", "liveblog", "breaking news live",
+    "live news", "as it happened", "latest updates", "live: ",
+]
+
 BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
 
 # ── Спорт и развлечения отсекаем по словам, доменам и разделам сайтов ──
@@ -330,6 +343,18 @@ def is_trusted_source(article):
     return False
 
 
+def is_liveblog(article):
+    url = (article.get("url") or "").lower()
+    title = (article.get("title") or "").lower()
+    for part in LIVE_URL_PARTS:
+        if part in url:
+            return True
+    for part in LIVE_TITLE_PARTS:
+        if part in title:
+            return True
+    return False
+
+
 def is_sport(article):
     url = (article.get("url") or "").lower()
     domain = get_domain(url)
@@ -409,6 +434,10 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
         if not is_trusted_source(article):
             return False
 
+    if is_liveblog(article):
+        log(f"Лента обновлений, пропускаю: {article.get('title', '')[:40]}")
+        return False
+
     if is_sport(article):
         log(f"Спорт, пропускаю: {article.get('title', '')[:40]}")
         return False
@@ -442,9 +471,26 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
     return True
 
 
-def fetch_article_text(url):
-    """Скачиваем полный текст статьи. Если не получилось, вернём None
-    и анализ пойдёт по краткому описанию из NewsAPI."""
+def looks_like_feed(text):
+    """Лента обновлений выдаёт себя частыми метками времени между записями"""
+    stamps = re.findall(r"\b\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)?\b", text)
+    return len(stamps) >= 6
+
+
+def text_matches_title(text, title):
+    """Проверяем, что скачанный текст действительно про эту новость.
+    Если совпадений мало, страница отдала не то, что обещал заголовок."""
+    words = set(re.findall(r"[a-zA-Z]{5,}", title.lower()))
+    if len(words) < 3:
+        return True
+    head = text[:2000].lower()
+    hits = sum(1 for w in words if w in head)
+    return hits / len(words) >= 0.4
+
+
+def fetch_article_text(url, title=""):
+    """Скачиваем полный текст статьи. Если не получилось или текст не про эту
+    новость, вернём None и анализ пойдёт по краткому описанию из NewsAPI."""
     try:
         resp = requests.get(
             url,
@@ -458,9 +504,19 @@ def fetch_article_text(url):
         if resp.status_code != 200:
             return None
         text = trafilatura.extract(resp.text, include_comments=False, include_tables=False)
-        if text and len(text) > 300:
-            return text[:3000]
-        return None
+        if not text or len(text) <= 300:
+            return None
+        text = text[:3000]
+
+        if looks_like_feed(text):
+            log(f"Текст похож на ленту обновлений, беру описание: {url[:60]}")
+            return None
+
+        if title and not text_matches_title(text, title):
+            log(f"Текст не совпадает с заголовком, беру описание: {url[:60]}")
+            return None
+
+        return text
     except Exception as e:
         log(f"Полный текст не скачался ({e.__class__.__name__}): {url[:60]}")
         return None
@@ -532,10 +588,15 @@ def analyze(title, description, source_name, published_at=None, article_url=None
         if pub_date:
             date_str = pub_date.astimezone(KYIV_TZ).strftime("%d.%m.%Y")
 
-    full_text = fetch_article_text(article_url) if article_url else None
+    full_text = fetch_article_text(article_url, title) if article_url else None
 
     if full_text:
-        material = f"Полный текст статьи (может быть обрезан):\n{full_text}"
+        material = (
+            f"Полный текст статьи (может быть обрезан):\n{full_text}\n\n"
+            "ВАЖНО: пиши строго про то событие, которое названо в заголовке. "
+            "Если в тексте попались посторонние события, не относящиеся к "
+            "заголовку, полностью игнорируй их."
+        )
         size_rule = ("Суть: начни с даты \"{d}.\" затем напиши 7-9 содержательных предложений, "
                      "которые полностью раскрывают новость по фактам из статьи.").format(d=date_str)
         limit_rule = "Весь ответ не длиннее 2200 символов."
