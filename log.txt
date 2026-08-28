@@ -3046,3 +3046,74 @@
 [2026-08-28 05:42:13] Пауза 3 секунд...
 [2026-08-28 05:42:16] Пауза 3 секунд...
 [2026-08-28 05:42:19] === Блок morning завершён ===
+[2026-08-28 05:45:25] Загружено 300 уже отправленных новостей
+[2026-08-28 05:45:25] === Запуск блока: morning (тест: True) ===
+[2026-08-28 05:45:25] Пропускаю уже отправленную: Fed governor Lisa Cook: "No legitimate basis for r
+[2026-08-28 05:45:25] Пропускаю уже отправленную: ‘We will retaliate like an earthquake:’ How Iran c
+[2026-08-28 05:45:25] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
+[2026-08-28 05:45:25] Пропускаю уже отправленную: Official leading Trump’s Gaza ceasefire effort cri
+[2026-08-28 05:45:25] Неизвестный источник (nbcsports.com): Roger Goodell: We want the Pro Bowl to b
+[2026-08-28 05:45:25] Неизвестный источник (mmafighting.com): Bella Mir releases statement following d
+[2026-08-28 05:45:25] Пропускаю уже отправленную: CIA Director John Ratcliffe warned Russia not to a
+[2026-08-28 05:45:25] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
+[2026-08-28 05:45:25] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
+[2026-08-28 05:45:25] Неизвестный источник (space.com): From spy satellite to space telescope: T
+[2026-08-28 05:45:25] Неизвестный источник (wtop.com): ‘There’s a bat in my mouth’: Doctor’s ba
+[2026-08-28 05:45:25] Неизвестный источник (mashable.com): 'GTA VI' Cyberleek update: Everything le
+[2026-08-28 05:45:25] Неизвестный источник (macrumors.com): iPhone 17 Remains World's Best Selling S
+[2026-08-28 05:45:25] Неизвестный источник (gamesradar.com): Despite positive early reactions, Ridley
+[2026-08-28 05:45:25] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
+[2026-08-28 05:45:25] Старая новость (2026-08-25T21:00:00Z): 'You just saved the video dish': Two ast
+[2026-08-28 05:45:25] Мировые новости: найдено 14 после фильтрации
+[2026-08-28 05:45:26] Редакторский отбор: выбраны позиции [8, 4, 11, 2, 10, 9, 1]
+[2026-08-28 05:45:27] NewsAPI (украинские издания): пришло 0 статей
+[2026-08-28 05:45:27] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-08-28 05:45:27] Спорт, пропускаю: Czech duo Muchova and Mensik win US Open
+[2026-08-28 05:45:27] Заблокированный источник (rt.com): Ukrainian basketball player quits US col
+[2026-08-28 05:45:27] Лента обновлений, пропускаю: Breaking News Live Updates: Russian miss
+[2026-08-28 05:45:27] Спорт, пропускаю: Elina Svitolina, Gael Monfils Share ‘Une
+[2026-08-28 05:45:27] Спорт, пропускаю: Champions League Draw: 36 Teams Set for 
+[2026-08-28 05:45:27] Заблокированный источник (dailymail.com): Fears Putin will use 'tactical nuclear w
+[2026-08-28 05:45:27] Нет фото: Russian flag causes spat between Islam M
+[2026-08-28 05:45:27] Нет фото: Ukrainian Warfare Gostomel Heroes Update
+[2026-08-28 05:45:27] Заблокированный источник (rt.com): AI erodes our humanity while elites prof
+[2026-08-28 05:45:27] Пропускаю уже отправленную: Ukraine Butters Up Musk With Highest State Honor f
+[2026-08-28 05:45:27] Нет фото: Bayern's possible Champions League oppon
+[2026-08-28 05:45:27] Украинские новости: найдено 3 после фильтрации
+[2026-08-28 05:45:27] NewsAPI (Харьков, все издания): пришло 6 статей
+[2026-08-28 05:45:27] NewsAPI (Харьков, украинские издания): пришло 0 статей
+[2026-08-28 05:45:27] Харьков: новостей не найдено
+[2026-08-28 05:45:27] Обрабатываю: Iran warns of military ship ban in Hormuz under potential de | https://apnews.com/article/middle-east-iran-israel-west-bank-august-26
+[2026-08-28 05:45:27] Попытка 1 для: Iran warns of military ship ban in Hormu
+[2026-08-28 05:45:31] Ответ модели без нужной структуры (1110 символов), пробую ещё раз
+[2026-08-28 05:45:36] Попытка 2 для: Iran warns of military ship ban in Hormu
+[2026-08-28 05:45:39] Ответ модели без нужной структуры (1234 символов), пробую ещё раз
+[2026-08-28 05:45:44] Попытка 3 для: Iran warns of military ship ban in Hormu
+[2026-08-28 05:45:45] Успешно, получено 1064 символов
+[2026-08-28 05:45:45] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
+[2026-08-28 05:45:58] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
+[2026-08-28 05:45:58] Попытка 1 для: FDA approves pancreatic cancer drug that
+[2026-08-28 05:46:00] Успешно, получено 1019 символов
+[2026-08-28 05:46:00] Обрабатываю: Exclusive: Swedish EU letter reopens debate over frozen Russ | https://kyivindependent.com/exclusive-swedish-eu-letter-reopens-russia
+[2026-08-28 05:46:01] Полный текст получен (3000 символов)
+[2026-08-28 05:46:01] Попытка 1 для: Exclusive: Swedish EU letter reopens deb
+[2026-08-28 05:46:21] Успешно, получено 1906 символов
+[2026-08-28 05:46:21] Обрабатываю: Secret Service officials placed on leave in inquiry over ‘po | https://www.nbcnews.com/politics/white-house/secret-service-officials-
+[2026-08-28 05:46:22] Полный текст получен (1604 символов)
+[2026-08-28 05:46:22] Попытка 1 для: Secret Service officials placed on leave
+[2026-08-28 05:46:33] Успешно, получено 1564 символов
+[2026-08-28 05:46:36] Пауза 3 секунд...
+[2026-08-28 05:46:39] Пауза 3 секунд...
+[2026-08-28 05:46:43] Пауза 3 секунд...
+[2026-08-28 05:46:46] Обрабатываю: Russian strikes target Kyiv, Zaporizhzhia, Odessa | https://biztoc.com/x/9618e30c5632f400
+[2026-08-28 05:46:46] Полный текст получен (411 символов)
+[2026-08-28 05:46:46] Попытка 1 для: Russian strikes target Kyiv, Zaporizhzhi
+[2026-08-28 05:46:50] Ответ модели без нужной структуры (1289 символов), пробую ещё раз
+[2026-08-28 05:46:55] Попытка 2 для: Russian strikes target Kyiv, Zaporizhzhi
+[2026-08-28 05:47:09] Успешно, получено 1393 символов
+[2026-08-28 05:47:09] Обрабатываю: Zelensky cuddles adorable puppy given to him by former Ameri | https://nypost.com/2026/08/26/world-news/zelensky-cuddles-puppy-starti
+[2026-08-28 05:47:10] Полный текст получен (3000 символов)
+[2026-08-28 05:47:10] Попытка 1 для: Zelensky cuddles adorable puppy given to
+[2026-08-28 05:47:15] Успешно, получено 1335 символов
+[2026-08-28 05:47:18] Пауза 3 секунд...
+[2026-08-28 05:47:21] === Блок morning завершён ===
