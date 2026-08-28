@@ -2998,3 +2998,138 @@
 [2026-08-28 17:04:18] Пауза 60 секунд...
 [2026-08-28 17:05:19] sent_urls.txt обрезан: 304 -> 300
 [2026-08-28 17:05:19] === Блок ai_evening завершён ===
+[2026-08-28 17:49:10] Загружено 300 уже отправленных новостей
+[2026-08-28 17:49:10] === Запуск блока: ai_evening (тест: True) ===
+[2026-08-28 17:49:10] Неизвестный источник (cryptobriefing.com): Meta disrupts Iran-linked network using 
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): GLOBO Language Solutions Shortlisted for
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Runable raises $21M to realize small bus
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Toronto Dominion Bank Q3 Earnings Call H
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Royal Bank Of Canada Q3 Earnings Call Hi
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: How AI-armed script kiddies will soon wield the po
+[2026-08-28 17:49:10] Нет фото: Why HPSC Is a Big Deal for Space Explora
+[2026-08-28 17:49:10] Неизвестный источник (shows.acast.com): Rational Security: The “All Takin’ and N
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): wan AIChef ultra Launches on Indiegogo: 
+[2026-08-28 17:49:10] Неизвестный источник (pymnts.com): FinTechs Bet on AI and Lending to Drive 
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Vulnerability-free container image start
+[2026-08-28 17:49:10] Неизвестный источник (news.mit.edu): New type of attack can slip past the def
+[2026-08-28 17:49:10] Неизвестный источник (pymnts.com): Community Banks Embrace Pooled Infrastru
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Harness tackles influx of agent-delivere
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Raiven Expands Board with Building Trade
+[2026-08-28 17:49:10] Неизвестный источник (onefootball.com): Travel info for the Bundesliga opener ag
+[2026-08-28 17:49:10] Неизвестный источник (financialpost.com): 6th Monaco Smart & Sustainable Marina Re
+[2026-08-28 17:49:10] Неизвестный источник (business-standard.com): Sebi chairman says regulator 'close' to 
+[2026-08-28 17:49:10] Нет фото: AIxC Launches RoboShare & Co. North Amer
+[2026-08-28 17:49:10] Неизвестный источник (thestreet.com): The Retirement Savings Crisis Isn’t What
+[2026-08-28 17:49:10] Неизвестный источник (thehindubusinessline.com): Twelve years of Jan Dhan: From financial
+[2026-08-28 17:49:10] Неизвестный источник (ewtnnews.com): Cardinal Bo urges lawmakers to reject th
+[2026-08-28 17:49:10] Неизвестный источник (jpost.com): After 500,000 tutoring lessons in Israel
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): IES Sees Data Center Boom, Plans $650M D
+[2026-08-28 17:49:10] Неизвестный источник (telecomtv.com): Singtel lays out its AI progress, ambiti
+[2026-08-28 17:49:10] Нет фото: WATT Fuel Cell Assessed Awardable for De
+[2026-08-28 17:49:10] Неизвестный источник (screenrant.com): 2026 Fall Movie Preview: An Exclusive Lo
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): In silico framework for designing and va
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): STRIPAK-associated greenbeard proteins D
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Epidemiology and mortality rate of thyro
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Noisy models of the ventral stream revea
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Beat- and Side-family cell-surface molec
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): SMBC Asia Rising Fund and Singtel Innov8
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): MeCoLog: Meta-contrastive learning for c
+[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Sustainable gypsum binders reinforced wi
+[2026-08-28 17:49:10] Неизвестный источник (thehackernews.com): Amazon Kiro Prompt Injection Can Exfiltr
+[2026-08-28 17:49:10] Неизвестный источник (medicaldaily.com): Dr. Elsa R. Flores on Why Cancer Treatme
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Positive Technologies positioned as a Le
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Scheidt & Bachmann USA Selected by NEORi
+[2026-08-28 17:49:10] Пресс-релиз, пропускаю: Uniphore and Tech Mahindra Partner to De
+[2026-08-28 17:49:10] Нет фото: BABA ALERT: Alibaba Group Holding Limite
+[2026-08-28 17:49:10] Неизвестный источник (financialpost.com): FRC and QIZ Security Advance Zero Trust 
+[2026-08-28 17:49:10] Нет фото: Thursday, August 27, 2026
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Asure Software Targets Growth With Tax S
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Socure raises $156M at $5.2B valuation a
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Sonar launches Hunter Agent to find flaw
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Workplace fraud monitoring startup Yards
+[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Plaud unveils wearable earbuds with buil
+[2026-08-28 17:49:10] Заблокированный источник (finance.yahoo.com): Arrive Logistics plans 1,000 hires after
+[2026-08-28 17:49:10] Неизвестный источник (financialpost.com): ABB Davr Bank project launched with part
+[2026-08-28 17:49:10] Нет фото: AZIO AI Holdings Inc. (NASDAQ: AZIO) Dev
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Blend Named an OpenAI Select Partner
+[2026-08-28 17:49:10] Неизвестный источник (animenewsnetwork.com): Re:ZERO -Starting Life in Another World-
+[2026-08-28 17:49:10] Неизвестный источник (theregister.com): HP has a solution to expensive AI tokens
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): COMMHIT RECEIVES $43.6 MILLION DOLLAR GR
+[2026-08-28 17:49:10] Неизвестный источник (decrypt.co): Morning Minute: Robinhood Chain Levels U
+[2026-08-28 17:49:10] Нет фото: POMDOCTOR LIMITED Initiates U.S. Market 
+[2026-08-28 17:49:10] Нет фото: Kioxia and Sandisk to Invest Over $31 Bi
+[2026-08-28 17:49:10] Неизвестный источник (kitploit.com): Sentora
+[2026-08-28 17:49:10] AI новости: 0 с доверенных источников
+[2026-08-28 17:49:10] Доверенных AI-источников мало, добираю из остальных
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): GLOBO Language Solutions Shortlisted for
+[2026-08-28 17:49:10] Пропускаю уже отправленную: Runable raises $21M to realize small businesses’ g
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Toronto Dominion Bank Q3 Earnings Call H
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Royal Bank Of Canada Q3 Earnings Call Hi
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: How AI-armed script kiddies will soon wield the po
+[2026-08-28 17:49:10] Нет фото: Why HPSC Is a Big Deal for Space Explora
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Rational Security: The “All Takin’ and No Givin’” 
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): wan AIChef ultra Launches on Indiegogo: 
+[2026-08-28 17:49:10] Пропускаю уже отправленную: FinTechs Bet on AI and Lending to Drive Modernizat
+[2026-08-28 17:49:10] Пропускаю уже отправленную: Vulnerability-free container image startup Echo ac
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: New type of attack can slip past the defenses in y
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Community Banks Embrace Pooled Infrastructure as N
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Raiven Expands Board with Building Trade
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: 6th Monaco Smart & Sustainable Marina Rendezvous 2
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Sebi chairman says regulator 'close' to approving 
+[2026-08-28 17:49:10] Нет фото: AIxC Launches RoboShare & Co. North Amer
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: The Retirement Savings Crisis Isn’t What You Think
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Twelve years of Jan Dhan: From financial access to
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Cardinal Bo urges lawmakers to reject the ‘automat
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: After 500,000 tutoring lessons in Israel, Limud Na
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): IES Sees Data Center Boom, Plans $650M D
+[2026-08-28 17:49:10] Пропускаю уже отправленную: Singtel lays out its AI progress, ambitions
+[2026-08-28 17:49:10] Нет фото: WATT Fuel Cell Assessed Awardable for De
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: 2026 Fall Movie Preview: An Exclusive Look At Over
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: In silico framework for designing and validating a
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: STRIPAK-associated greenbeard proteins DOC1 and DO
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Epidemiology and mortality rate of thyroid storm i
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Noisy models of the ventral stream reveal the impa
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Beat- and Side-family cell-surface molecules are e
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): SMBC Asia Rising Fund and Singtel Innov8
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: MeCoLog: Meta-contrastive learning for cross-syste
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Sustainable gypsum binders reinforced with industr
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Dr. Elsa R. Flores on Why Cancer Treatments Stop W
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Positive Technologies positioned as a Le
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Scheidt & Bachmann USA Selected by NEORi
+[2026-08-28 17:49:10] Пресс-релиз, пропускаю: Uniphore and Tech Mahindra Partner to De
+[2026-08-28 17:49:10] Нет фото: BABA ALERT: Alibaba Group Holding Limite
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: FRC and QIZ Security Advance Zero Trust Post-Quant
+[2026-08-28 17:49:10] Нет фото: Thursday, August 27, 2026
+[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Asure Software Targets Growth With Tax S
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Workplace fraud monitoring startup Yardstik raises
+[2026-08-28 17:49:10] Заблокированный источник (finance.yahoo.com): Arrive Logistics plans 1,000 hires after
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: ABB Davr Bank project launched with participation 
+[2026-08-28 17:49:10] Нет фото: AZIO AI Holdings Inc. (NASDAQ: AZIO) Dev
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Blend Named an OpenAI Select Partner
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Re:ZERO -Starting Life in Another World- Season 4 
+[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): COMMHIT RECEIVES $43.6 MILLION DOLLAR GR
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Morning Minute: Robinhood Chain Levels Up as Memes
+[2026-08-28 17:49:10] Нет фото: POMDOCTOR LIMITED Initiates U.S. Market 
+[2026-08-28 17:49:10] Нет фото: Kioxia and Sandisk to Invest Over $31 Bi
+[2026-08-28 17:49:10] Не про ИИ, пропускаю: Sentora
+[2026-08-28 17:49:10] AI новости: 5 кандидатов после фильтрации
+[2026-08-28 17:49:10] Обрабатываю: Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data T | https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.htm
+[2026-08-28 17:49:10] Полный текст получен (3000 символов)
+[2026-08-28 17:49:10] Попытка 1 для: Amazon Kiro Prompt Injection Can Exfiltr
+[2026-08-28 17:49:14] Успешно, получено 1540 символов
+[2026-08-28 17:49:14] Обрабатываю: Socure raises $156M at $5.2B valuation and acquires AI start | https://siliconangle.com/2026/08/27/socure-raises-156m-at-5-2b-valuati
+[2026-08-28 17:49:14] Полный текст получен (3000 символов)
+[2026-08-28 17:49:14] Попытка 1 для: Socure raises $156M at $5.2B valuation a
+[2026-08-28 17:49:19] Успешно, получено 1922 символов
+[2026-08-28 17:49:19] Обрабатываю: Sonar launches Hunter Agent to find flaws code scanners can’ | https://siliconangle.com/2026/08/27/sonar-launches-hunter-agent-to-fin
+[2026-08-28 17:49:20] Полный текст получен (3000 символов)
+[2026-08-28 17:49:20] Попытка 1 для: Sonar launches Hunter Agent to find flaw
+[2026-08-28 17:49:50] Успешно, получено 1896 символов
+[2026-08-28 17:49:50] Обрабатываю: Plaud unveils wearable earbuds with built-in agentic AI inte | https://siliconangle.com/2026/08/27/plaud-unveils-wearable-earbuds-wit
+[2026-08-28 17:49:51] Полный текст получен (3000 символов)
+[2026-08-28 17:49:51] Попытка 1 для: Plaud unveils wearable earbuds with buil
+[2026-08-28 17:50:10] Успешно, получено 1707 символов
+[2026-08-28 17:50:12] Пауза 3 секунд...
+[2026-08-28 17:50:16] Пауза 3 секунд...
+[2026-08-28 17:50:19] Пауза 3 секунд...
+[2026-08-28 17:50:23] === Блок ai_evening завершён ===
