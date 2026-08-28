@@ -660,7 +660,7 @@ def analyze(title, description, source_name, published_at=None, article_url=None
             raw = clean_model_output(raw)
 
             if len(raw) < 200 or "Суть" not in raw or "Прогноз" not in raw:
-                log(f"Ответ модели без нужной структуры ({len(raw)} символов), пробую ещё раз")
+                log(f"Ответ модели без нужной структуры ({len(raw)} символов): {raw[:200]}")
                 time.sleep(5)
                 continue
 
