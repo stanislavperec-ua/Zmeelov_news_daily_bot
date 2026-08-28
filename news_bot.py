@@ -103,6 +103,11 @@ BLOCKED_DOMAINS = {
     # пресс-релизные и биржевые мельницы, таблоиды
     "prnewswire.com", "businesswire.com", "globenewswire.com",
     "marketbeat.com", "dailymail.co.uk", "dailymail.com",
+    "nypost.com", "thesun.co.uk", "mirror.co.uk", "express.co.uk",
+    "dailystar.co.uk", "metro.co.uk",
+    # агрегаторы: перепечатывают чужое куском, полного текста у них нет
+    "biztoc.com", "msn.com", "news.google.com", "yahoo.com", "flipboard.com",
+    "newsbreak.com", "smartnews.com",
 }
 
 # Пресс-релизы, публикуемые на доверенных доменах, отсекаем по адресу страницы
@@ -559,7 +564,9 @@ def select_top_articles(articles, count, theme):
 Выбери {count} самых важных и общественно значимых новостей для выпуска.
 Критерии: масштаб события, влияние на людей и страны, новизна. Отсеивай
 кликбейт, мелкие происшествия, пресс-релизы компаний, биржевые отчёты,
-крипто-прогнозы, рекламные и проходные материалы.
+крипто-прогнозы, рекламные и проходные материалы. Отдельно отсеивай светскую
+хронику и курьёзы: истории про домашних животных, личную жизнь, наряды,
+милые случаи с политиками. Это новостной канал, а не развлекательный.
 
 Ответь ТОЛЬКО номерами выбранных новостей через запятую, по убыванию важности.
 Например: 3, 1, 7, 5"""
@@ -737,7 +744,11 @@ def newsapi_everything(params, label):
             },
             timeout=15
         )
-        articles = resp.json().get("articles", [])
+        data = resp.json()
+        if data.get("status") != "ok":
+            log(f"NewsAPI ({label}) отказал: {data.get('code')} {str(data.get('message'))[:120]}")
+            return []
+        articles = data.get("articles", [])
         log(f"NewsAPI ({label}): пришло {len(articles)} статей")
         return articles
     except Exception as e:
