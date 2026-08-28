@@ -18,6 +18,9 @@ GROQ_MODEL = "openai/gpt-oss-120b"
 # если анализ одной статьи не удался, берём следующую из запаса.
 RESERVE = 3
 
+# Сколько новостей в каждом блоке про искусственный интеллект
+AI_COUNT = 4
+
 GROQ_KEY   = os.environ["GROQ_API_KEY"]
 TG_TOKEN   = os.environ["TELEGRAM_TOKEN"]
 TG_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
@@ -360,6 +363,24 @@ def is_trusted_source(article):
     return False
 
 
+AI_TERMS = [
+    "artificial intelligence", "machine learning", "neural network",
+    "deep learning", "generative ai", "large language model",
+    "chatgpt", "openai", "anthropic", "deepmind", "midjourney", "copilot",
+    "chatbot", "robotics", "humanoid robot", "ai model", "ai agent",
+    "ai chip", "ai startup", "ai tool",
+]
+
+
+def ai_mentions(text):
+    """Считаем признаки новости про искусственный интеллект. Отдельное слово
+    ai ищем строго по границам: иначе оно находится внутри said, again,
+    maintain и даже Ukraine."""
+    count = sum(text.count(term) for term in AI_TERMS)
+    count += len(re.findall(r"\bai\b", text))
+    return count
+
+
 def ukraine_mentions(text):
     """Считаем признаки украинской новости. Одного слова Ukraine мало:
     статьи про Киев и Зеленского тоже про Украину."""
@@ -432,7 +453,8 @@ def deduplicate_articles(articles):
     return unique
 
 
-def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_source_check=False):
+def is_relevant(article, require_ukraine=False, require_kharkiv=False,
+                require_ai=False, skip_source_check=False):
     title = (article.get("title") or "").lower()
     description = (article.get("description") or "").lower()
     text = title + " " + description
@@ -477,6 +499,10 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
             return False
 
     if require_ukraine and ukraine_mentions(text) < 2:
+        return False
+
+    if require_ai and ai_mentions(text) < 2:
+        log(f"Не про ИИ, пропускаю: {article.get('title', '')[:50]}")
         return False
 
     if require_kharkiv and "kharkiv" not in text and "kharkov" not in text:
@@ -569,7 +595,8 @@ def select_top_articles(articles, count, theme):
 
 {chr(10).join(listing)}
 
-Выбери {count} самых важных и общественно значимых новостей для выпуска.
+Сначала отбрось всё, что не относится к теме выпуска, даже если новость важная
+сама по себе. Из оставшихся выбери {count} самых важных и общественно значимых.
 Критерии: масштаб события, влияние на людей и страны, новизна. Отсеивай
 кликбейт, мелкие происшествия, пресс-релизы компаний, биржевые отчёты,
 крипто-прогнозы, рекламные и проходные материалы. Отдельно отсеивай светскую
@@ -923,7 +950,7 @@ def get_ai_news(count):
             timeout=15
         )
         articles = resp.json().get("articles", [])
-        trusted = [a for a in articles if is_relevant(a)]
+        trusted = [a for a in articles if is_relevant(a, require_ai=True)]
         trusted = deduplicate_articles(trusted)
         log(f"AI новости: {len(trusted)} с доверенных источников")
 
@@ -934,13 +961,16 @@ def get_ai_news(count):
             trusted_urls = {a.get("url") for a in trusted}
             extra = [a for a in articles
                      if a.get("url") not in trusted_urls
-                     and is_relevant(a, skip_source_check=True)]
+                     and is_relevant(a, require_ai=True, skip_source_check=True)]
             candidates = deduplicate_articles(trusted + extra)
         else:
             candidates = trusted
 
         log(f"AI новости: {len(candidates)} кандидатов после фильтрации")
-        candidates = select_top_articles(candidates, count, "искусственный интеллект и технологии")
+        candidates = select_top_articles(
+            candidates, count,
+            "искусственный интеллект: модели, компании, исследования, влияние ИИ на общество"
+        )
         return candidates[:count]
     except Exception as e:
         log(f"Ошибка получения AI новостей: {e}")
@@ -1050,8 +1080,8 @@ if BLOCK == "morning":
 
 # ── AI БЛОК 10:00 ──
 elif BLOCK == "ai_morning":
-    ai_news = get_ai_news(3 + RESERVE)
-    send_news_block(ai_news, 3, header=f"🤖 <b>AI NEWS</b>\n{today_str}", block_name="AI утро")
+    ai_news = get_ai_news(AI_COUNT + RESERVE)
+    send_news_block(ai_news, AI_COUNT, header=f"🤖 <b>AI NEWS</b>\n{today_str}", block_name="AI утро")
 
 # ── ДНЕВНОЙ БЛОК 13:00 ──
 elif BLOCK == "midday":
@@ -1069,8 +1099,8 @@ elif BLOCK == "evening":
 
 # ── AI БЛОК 20:00 ──
 elif BLOCK == "ai_evening":
-    ai_news = get_ai_news(3 + RESERVE)
-    send_news_block(ai_news, 3, header=f"🤖 <b>AI NEWS</b>\n{today_str}", add_goodbye=True, block_name="AI вечер")
+    ai_news = get_ai_news(AI_COUNT + RESERVE)
+    send_news_block(ai_news, AI_COUNT, header=f"🤖 <b>AI NEWS</b>\n{today_str}", add_goodbye=True, block_name="AI вечер")
 
 trim_sent_urls()
 log(f"=== Блок {BLOCK} завершён ===")
