@@ -768,7 +768,13 @@ def get_ukraine_news(count):
 
     # Украинские издания пишут про Украину по определению, поэтому проверку
     # на количество упоминаний страны к ним не применяем
-    for a in newsapi_everything({"domains": UA_DOMAINS, "pageSize": 50}, "украинские издания"):
+    ua_media = newsapi_everything({"domains": UA_DOMAINS, "pageSize": 50}, "украинские издания")
+    if not ua_media:
+        # Общий запрос пуст: проверяем домены поштучно, чтобы найти рабочие
+        for domain in UA_DOMAINS.split(","):
+            ua_media += newsapi_everything({"domains": domain, "pageSize": 20}, f"домен {domain}")
+
+    for a in ua_media:
         if is_relevant(a, skip_source_check=True):
             filtered.append(a)
 
