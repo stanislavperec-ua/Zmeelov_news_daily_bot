@@ -2998,3 +2998,194 @@
 [2026-08-28 07:03:15] Пауза 60 секунд...
 [2026-08-28 07:04:15] sent_urls.txt обрезан: 303 -> 300
 [2026-08-28 07:04:15] === Блок ai_morning завершён ===
+[2026-08-28 07:38:11] Загружено 300 уже отправленных новостей
+[2026-08-28 07:38:11] === Запуск блока: ai_morning (тест: True) ===
+[2026-08-28 07:38:12] Неизвестный источник (economictimes.indiatimes.com): Humans vs Robots: The jobs world may not
+[2026-08-28 07:38:12] Неизвестный источник (democratandchronicle.com): What channel is Bills vs Steelers on ton
+[2026-08-28 07:38:12] Неизвестный источник (cointelegraph.com): Tokenized deposits could raise US credit
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: The UK Power Grid Has a Phantom Data Center Proble
+[2026-08-28 07:38:12] Неизвестный источник (helpnetsecurity.com): AI will not fix a governance problem in 
+[2026-08-28 07:38:12] Заблокированный источник (yahoo.com): Vietnam PM seeks higher quality tech inv
+[2026-08-28 07:38:12] Неизвестный источник (americanthinker.com): Making Children's Programming Great Agai
+[2026-08-28 07:38:12] Неизвестный источник (business-standard.com): OpenAI says it could have reacted sooner
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: China’s AI and tech breakthroughs are built on dec
+[2026-08-28 07:38:12] Неизвестный источник (wordupnews.com): Walmart takes aim at younger shoppers wi
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: The threat of nuclear weapons is greater than ever
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Salesforce scoffs at SaaSpocalypse fears
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Bill Gates issues stark warning about AI
+[2026-08-28 07:38:12] Неизвестный источник (foxnews.com): Hawley rips Flock’s sprawling surveillan
+[2026-08-28 07:38:12] Заблокированный источник (prnewswire.com): Top Leisure Travel Agencies Betting on G
+[2026-08-28 07:38:12] Неизвестный источник (economictimes.indiatimes.com): ET Startup Awards 2026 | Comeback Kid: M
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Z.ai open-sources ‘Ox Alpha’ model as GL
+[2026-08-28 07:38:12] Неизвестный источник (gizmodo.com): Republican Senator Launches Investigatio
+[2026-08-28 07:38:12] Неизвестный источник (punchng.com): Illicit alcohol trade undermines investm
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Induced pluripotent stem cells from discovery to t
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Mechanisms and balanced regulation of plant immuni
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Towards a systems-level view of the microtubule cy
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Nvidia doubles its revenue as demand for
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Nutanix tops estimates as external stora
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Deep Cogito raises $43M to develop self-
+[2026-08-28 07:38:12] Неизвестный источник (usatoday.com): Today in sports history, September 14
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): CrowdStrike and Okta shares jump on seco
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): What to expect during VMware Explore: Jo
+[2026-08-28 07:38:12] Неизвестный источник (decrypt.co): Nvidia Shares Surge in After-Hours Tradi
+[2026-08-28 07:38:12] Неизвестный источник (financialpost.com): Nvidia’s estimate-topping forecast fails
+[2026-08-28 07:38:12] Неизвестный источник (pymnts.com): New Forum Wants Banks Speaking the Same 
+[2026-08-28 07:38:12] Неизвестный источник (theregister.com): Flock shock rocks cop cam vendor as prot
+[2026-08-28 07:38:12] Нет фото: Copper Intelligence Inc. to Present at t
+[2026-08-28 07:38:12] Неизвестный источник (pymnts.com): CISA Shares Federal Cyber Guidance With 
+[2026-08-28 07:38:12] Неизвестный источник (cryptobriefing.com): Injective joins x402 Foundation to enhan
+[2026-08-28 07:38:12] Пропускаю уже отправленную: OpenAI releases sweeping report on Hugging Face AI
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): AMD, Supermicro and MinIO target the ent
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Online platforms did not remove disinformation pos
+[2026-08-28 07:38:12] Неизвестный источник (financialpost.com): Software stocks get an earnings gut chec
+[2026-08-28 07:38:12] Неизвестный источник (punchng.com): Huawei explores secure networks for Nige
+[2026-08-28 07:38:12] Неизвестный источник (healthcaredive.com): Employers face ‘existential reckoning’ a
+[2026-08-28 07:38:12] Неизвестный источник (bizrapidx.com): DarwinHealth Introduces Quantum Cancer B
+[2026-08-28 07:38:12] Пресс-релиз, пропускаю: Galux Makes the Forbes Asia 100 to Watch
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Hot Chips 2026: Nvidia presents Groq 3 LPX archite
+[2026-08-28 07:38:12] Пропускаю уже отправленную: How Cigna’s AI chief is investing in the technolog
+[2026-08-28 07:38:12] Пропускаю уже отправленную: Amazon is shutting down a go-to option for gig wor
+[2026-08-28 07:38:12] Неизвестный источник (thehindubusinessline.com): Hyundai Motor aims 5.55 million units in
+[2026-08-28 07:38:12] Заблокированный источник (dailymail.com): Brittany Hockley's private regrets after
+[2026-08-28 07:38:12] Неизвестный источник (barchart.com): Amidst a Big Addressable Market, SpaceX 
+[2026-08-28 07:38:12] Неизвестный источник (bitcoinfoundation.org): New Crypto Coins Are Heating Up: 5 Proje
+[2026-08-28 07:38:12] Заблокированный источник (prnewswire.com): Blend Expands into Brazil, Accelerating 
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Africa’s herbarium collections are a scientific tr
+[2026-08-28 07:38:12] Неизвестный источник (telecomtv.com): What’s up with… RAIA Grid, Telefónica, S
+[2026-08-28 07:38:12] Неизвестный источник (globalresearch.ca): Going Underground and Underwater in Warf
+[2026-08-28 07:38:12] Заблокированный источник (marketbeat.com): DSC Q2 Earnings Call Highlights
+[2026-08-28 07:38:12] Неизвестный источник (siliconangle.com): Exclusive: Mate Security launches Gamebo
+[2026-08-28 07:38:12] Неизвестный источник (journals.plos.org): Linguistic markers of deception in Arabi
+[2026-08-28 07:38:12] Неизвестный источник (journals.plos.org): Behavioral engagement and stimulus regul
+[2026-08-28 07:38:12] Неизвестный источник (journals.plos.org): Two-dimensional to three-dimensional kne
+[2026-08-28 07:38:12] Неизвестный источник (financialpost.com): Nvidia earnings give investors a baromet
+[2026-08-28 07:38:12] AI новости: 0 с доверенных источников
+[2026-08-28 07:38:12] Доверенных AI-источников мало, добираю из остальных
+[2026-08-28 07:38:12] Спорт, пропускаю: What channel is Bills vs Steelers on ton
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Tokenized deposits could raise US credit costs: Da
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: The UK Power Grid Has a Phantom Data Center Proble
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: AI will not fix a governance problem in your camer
+[2026-08-28 07:38:12] Заблокированный источник (yahoo.com): Vietnam PM seeks higher quality tech inv
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Making Children's Programming Great Again
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: China’s AI and tech breakthroughs are built on dec
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: The threat of nuclear weapons is greater than ever
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Salesforce scoffs at SaaSpocalypse fears with a cr
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Hawley rips Flock’s sprawling surveillance web as 
+[2026-08-28 07:38:12] Заблокированный источник (prnewswire.com): Top Leisure Travel Agencies Betting on G
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Republican Senator Launches Investigation Into Flo
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Illicit alcohol trade undermines investments, job 
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Induced pluripotent stem cells from discovery to t
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Mechanisms and balanced regulation of plant immuni
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Towards a systems-level view of the microtubule cy
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Nutanix tops estimates as external storage growth 
+[2026-08-28 07:38:12] Спорт, пропускаю: Today in sports history, September 14
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: CrowdStrike and Okta shares jump on second-quarter
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: What to expect during VMware Explore: Join theCUBE
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Nvidia Shares Surge in After-Hours Trading After R
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Nvidia’s estimate-topping forecast fails to impres
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: New Forum Wants Banks Speaking the Same Fraud Lang
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Flock shock rocks cop cam vendor as protests mount
+[2026-08-28 07:38:12] Нет фото: Copper Intelligence Inc. to Present at t
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: CISA Shares Federal Cyber Guidance With Critical I
+[2026-08-28 07:38:12] Пропускаю уже отправленную: OpenAI releases sweeping report on Hugging Face AI
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Online platforms did not remove disinformation pos
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Software stocks get an earnings gut check after ho
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Huawei explores secure networks for Nigeria’s digi
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Employers face ‘existential reckoning’ as health c
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: DarwinHealth Introduces Quantum Cancer Biology: A 
+[2026-08-28 07:38:12] Пресс-релиз, пропускаю: Galux Makes the Forbes Asia 100 to Watch
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Hot Chips 2026: Nvidia presents Groq 3 LPX archite
+[2026-08-28 07:38:12] Пропускаю уже отправленную: How Cigna’s AI chief is investing in the technolog
+[2026-08-28 07:38:12] Пропускаю уже отправленную: Amazon is shutting down a go-to option for gig wor
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Hyundai Motor aims 5.55 million units in global sa
+[2026-08-28 07:38:12] Заблокированный источник (dailymail.com): Brittany Hockley's private regrets after
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Amidst a Big Addressable Market, SpaceX Has Ample 
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: New Crypto Coins Are Heating Up: 5 Projects Worth 
+[2026-08-28 07:38:12] Заблокированный источник (prnewswire.com): Blend Expands into Brazil, Accelerating 
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Africa’s herbarium collections are a scientific tr
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: What’s up with… RAIA Grid, Telefónica, SpaceX & Nv
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Going Underground and Underwater in Warfare
+[2026-08-28 07:38:12] Заблокированный источник (marketbeat.com): DSC Q2 Earnings Call Highlights
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Linguistic markers of deception in Arabic news hea
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Behavioral engagement and stimulus regularities co
+[2026-08-28 07:38:12] Не про ИИ, пропускаю: Two-dimensional to three-dimensional knee reconstr
+[2026-08-28 07:38:12] AI новости: 11 кандидатов после фильтрации
+[2026-08-28 07:38:13] Редакторский отбор: выбраны позиции [3, 2, 1, 5, 7, 10, 9]
+[2026-08-28 07:38:13] Обрабатываю: Bill Gates issues stark warning about AI and the future of h | https://siliconangle.com/2026/08/26/bill-gates-issues-stark-warning-ab
+[2026-08-28 07:38:13] Полный текст получен (3000 символов)
+[2026-08-28 07:38:13] Попытка 1 для: Bill Gates issues stark warning about AI
+[2026-08-28 07:38:17] Успешно, получено 1939 символов
+[2026-08-28 07:38:17] Обрабатываю: OpenAI says it could have reacted sooner to prevent AI hack  | https://www.business-standard.com/technology/tech-news/openai-says-it-
+[2026-08-28 07:38:17] Полный текст получен (3000 символов)
+[2026-08-28 07:38:17] Попытка 1 для: OpenAI says it could have reacted sooner
+[2026-08-28 07:38:17] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:38:17] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:39:17] Попытка 2 для: OpenAI says it could have reacted sooner
+[2026-08-28 07:39:17] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:39:17] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:40:17] Попытка 3 для: OpenAI says it could have reacted sooner
+[2026-08-28 07:40:17] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:40:17] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:41:17] Анализ не удался, статья пропущена: OpenAI says it could have reacted sooner to prevent AI hack 
+[2026-08-28 07:41:17] Обрабатываю: Humans vs Robots: The jobs world may not be full of 'Franken | https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-led-jo
+[2026-08-28 07:41:18] Текст не совпадает с заголовком, беру описание: https://economictimes.indiatimes.com/jobs/hr-policies-trends
+[2026-08-28 07:41:18] Попытка 1 для: Humans vs Robots: The jobs world may not
+[2026-08-28 07:41:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:41:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:42:18] Попытка 2 для: Humans vs Robots: The jobs world may not
+[2026-08-28 07:42:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:42:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:43:18] Попытка 3 для: Humans vs Robots: The jobs world may not
+[2026-08-28 07:43:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:43:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:44:18] Анализ не удался, статья пропущена: Humans vs Robots: The jobs world may not be full of 'Franken
+[2026-08-28 07:44:18] Обрабатываю: Z.ai open-sources ‘Ox Alpha’ model as GLM-5.3-Flash | https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-a
+[2026-08-28 07:44:18] Полный текст получен (3000 символов)
+[2026-08-28 07:44:18] Попытка 1 для: Z.ai open-sources ‘Ox Alpha’ model as GL
+[2026-08-28 07:44:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:44:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:45:18] Попытка 2 для: Z.ai open-sources ‘Ox Alpha’ model as GL
+[2026-08-28 07:45:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:45:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:46:18] Попытка 3 для: Z.ai open-sources ‘Ox Alpha’ model as GL
+[2026-08-28 07:46:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:46:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:47:18] Анализ не удался, статья пропущена: Z.ai open-sources ‘Ox Alpha’ model as GLM-5.3-Flash
+[2026-08-28 07:47:18] Обрабатываю: Deep Cogito raises $43M to develop self-improving AI models | https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-
+[2026-08-28 07:47:18] Полный текст получен (3000 символов)
+[2026-08-28 07:47:18] Попытка 1 для: Deep Cogito raises $43M to develop self-
+[2026-08-28 07:47:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:47:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:48:18] Попытка 2 для: Deep Cogito raises $43M to develop self-
+[2026-08-28 07:48:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:48:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:49:18] Попытка 3 для: Deep Cogito raises $43M to develop self-
+[2026-08-28 07:49:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:49:18] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:50:18] Анализ не удался, статья пропущена: Deep Cogito raises $43M to develop self-improving AI models
+[2026-08-28 07:50:18] Обрабатываю: Exclusive: Mate Security launches Gamebooks to govern how AI | https://siliconangle.com/2026/08/26/exclusive-mate-security-launches-g
+[2026-08-28 07:50:19] Полный текст получен (3000 символов)
+[2026-08-28 07:50:19] Попытка 1 для: Exclusive: Mate Security launches Gamebo
+[2026-08-28 07:50:19] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:50:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:51:19] Попытка 2 для: Exclusive: Mate Security launches Gamebo
+[2026-08-28 07:51:19] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:51:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:52:19] Попытка 3 для: Exclusive: Mate Security launches Gamebo
+[2026-08-28 07:52:19] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:52:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:53:19] Анализ не удался, статья пропущена: Exclusive: Mate Security launches Gamebooks to govern how AI
+[2026-08-28 07:53:19] Обрабатываю: AMD, Supermicro and MinIO target the enterprise data pipelin | https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio
+[2026-08-28 07:53:19] Полный текст получен (3000 символов)
+[2026-08-28 07:53:19] Попытка 1 для: AMD, Supermicro and MinIO target the ent
+[2026-08-28 07:53:19] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:53:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:54:19] Попытка 2 для: AMD, Supermicro and MinIO target the ent
+[2026-08-28 07:54:19] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:54:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:55:19] Попытка 3 для: AMD, Supermicro and MinIO target the ent
+[2026-08-28 07:55:19] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
+[2026-08-28 07:55:19] Лимит запросов, ждём 60 секунд...
+[2026-08-28 07:56:19] Анализ не удался, статья пропущена: AMD, Supermicro and MinIO target the enterprise data pipelin
+[2026-08-28 07:56:23] === Блок ai_morning завершён ===
