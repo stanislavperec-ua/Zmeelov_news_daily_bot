@@ -1,233 +1,3 @@
-[2026-08-22 06:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:01:46] Попытка 3 для: Navy discusses renaming aircraft carrier
-[2026-08-22 06:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:01:57] Пауза 60 секунд...
-[2026-08-22 06:02:57] Обрабатываю: California lawmaker Aisha Wahab wins special election to suc
-[2026-08-22 06:02:57] Попытка 1 для: California lawmaker Aisha Wahab wins spe
-[2026-08-22 06:02:57] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:03:07] Попытка 2 для: California lawmaker Aisha Wahab wins spe
-[2026-08-22 06:03:07] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:03:17] Попытка 3 для: California lawmaker Aisha Wahab wins spe
-[2026-08-22 06:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:03:28] Пауза 60 секунд...
-[2026-08-22 06:04:28] Обрабатываю: Jurors hear 'Keffe D' say his nephew fired fatal shots at Tu
-[2026-08-22 06:04:28] Попытка 1 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 06:04:28] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:04:38] Попытка 2 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 06:04:38] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:04:48] Попытка 3 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 06:04:48] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:04:59] Пауза 60 секунд...
-[2026-08-22 06:05:59] Обрабатываю: Here's how America's $40 trillion debt can hit your wallet
-[2026-08-22 06:05:59] Попытка 1 для: Here's how America's $40 trillion debt c
-[2026-08-22 06:05:59] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:06:09] Попытка 2 для: Here's how America's $40 trillion debt c
-[2026-08-22 06:06:09] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:06:19] Попытка 3 для: Here's how America's $40 trillion debt c
-[2026-08-22 06:06:19] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:06:32] Обрабатываю: Australia charges man over informing Russia on Ukraine
-[2026-08-22 06:06:32] Попытка 1 для: Australia charges man over informing Rus
-[2026-08-22 06:06:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:06:42] Попытка 2 для: Australia charges man over informing Rus
-[2026-08-22 06:06:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:06:52] Попытка 3 для: Australia charges man over informing Rus
-[2026-08-22 06:06:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:07:03] Пауза 60 секунд...
-[2026-08-22 06:08:03] Обрабатываю: Ukraine: Russia launched 152 drones overnight
-[2026-08-22 06:08:03] Попытка 1 для: Ukraine: Russia launched 152 drones over
-[2026-08-22 06:08:03] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:08:13] Попытка 2 для: Ukraine: Russia launched 152 drones over
-[2026-08-22 06:08:13] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:08:23] Попытка 3 для: Ukraine: Russia launched 152 drones over
-[2026-08-22 06:08:23] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:08:34] Фото не отправилось: 400
-[2026-08-22 06:08:34] Пауза 60 секунд...
-[2026-08-22 06:09:34] Обрабатываю: Russia says 443 Ukrainian drones destroyed near border
-[2026-08-22 06:09:34] Попытка 1 для: Russia says 443 Ukrainian drones destroy
-[2026-08-22 06:09:34] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:09:44] Попытка 2 для: Russia says 443 Ukrainian drones destroy
-[2026-08-22 06:09:44] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:09:54] Попытка 3 для: Russia says 443 Ukrainian drones destroy
-[2026-08-22 06:09:55] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 06:10:05] Фото не отправилось: 400
-[2026-08-22 06:10:06] === Блок morning завершён ===
-[2026-08-22 08:01:21] Загружено 3054 уже отправленных новостей
-[2026-08-22 08:01:21] === Запуск блока: ai_morning ===
-[2026-08-22 08:01:21] Неизвестный источник (internet): GitLab CVE-2026-19478 Comes Under Active
-[2026-08-22 08:01:21] Неизвестный источник (vanguard): From banking to entertainment: How Niger
-[2026-08-22 08:01:21] Заблокированный источник (naturalnews.com): AI-Powered Decoys Scam-Bait 600,000 Frau
-[2026-08-22 08:01:21] Заблокированный источник (naturalnews.com): Army to Scale Back Drone Battalion Amid 
-[2026-08-22 08:01:21] Неизвестный источник (business standard): From Ridge to Yamuna: Delhi plans a 200-
-[2026-08-22 08:01:21] Неизвестный источник (insurance journal): Viewpoint: If AI Compute Is an Investabl
-[2026-08-22 08:01:21] Неизвестный источник (wattsupwiththat.com): The Data Center Backlash Has a Practical
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Google’s attempt to buy Spirit Airlines’
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Astromech raises $20M to build a biologi
-[2026-08-22 08:01:21] Нет фото: FBI: North Korean IT Workers Infiltratin
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Broadcom reportedly seeking up to $100B 
-[2026-08-22 08:01:21] Нет фото: tin-man-py added to PyPI
-[2026-08-22 08:01:21] Неизвестный источник (businessline): The new kingmakers: Crypto, AI and betti
-[2026-08-22 08:01:21] Неизвестный источник (the punch): Prof Tanko Ishaya: Tenure, truth and the
-[2026-08-22 08:01:21] Неизвестный источник (nlppeople.com): Senior Machine Learning Engineer (Team L
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Report: Anthropic hopes to surpass Space
-[2026-08-22 08:01:21] Неизвестный источник (motley fool australia): Latitude Group profit lifts 39% as divid
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Palo Alto Networks and NTT DATA target $
-[2026-08-22 08:01:21] Неизвестный источник (antaranews.com): Mary Kay Accelerates Beauty Innovation a
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Waymo details the custom chip in its aut
-[2026-08-22 08:01:21] Нет фото: mmaing-aesop 0.2.1
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Muon Space raises $250M at $1.5B valuati
-[2026-08-22 08:01:21] Нет фото: mmaing-aesop 0.2.0
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): Twin1 AI raises $20M to put an AI twin b
-[2026-08-22 08:01:21] Нет фото: Di Leo: What if Communism Really Does Wo
-[2026-08-22 08:01:21] Неизвестный источник (fox news): California controller candidate slams ma
-[2026-08-22 08:01:21] Неизвестный источник (siliconangle news): AI workload optimization startup Callosu
-[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
-[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
-[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
-[2026-08-22 08:01:21] Неизвестный источник (itnews): How a Texas student blew the whistle on 
-[2026-08-22 08:01:21] Неизвестный источник (sameerhimati.com): Show HN: Sourcery – Benchmark for search
-[2026-08-22 08:01:21] Неизвестный источник (crypto briefing): AT&T slashes Anthropic costs by up to 90
-[2026-08-22 08:01:21] Неизвестный источник (marketbeat): CTS Eventim AG & Co. KGaA Q2 Earnings Ca
-[2026-08-22 08:01:21] Неизвестный источник (financial post): Anthropic expects to match SpaceX’s reco
-[2026-08-22 08:01:21] Заблокированный источник (barchart.com): Duquesne Management Just Dumped Its Enti
-[2026-08-22 08:01:21] AI новости: найдено 4 после фильтрации
-[2026-08-22 08:01:24] Обрабатываю: One of a Kind Awards: Honouring AI that solves problems beyo
-[2026-08-22 08:01:24] Попытка 1 для: One of a Kind Awards: Honouring AI that 
-[2026-08-22 08:01:24] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:01:34] Попытка 2 для: One of a Kind Awards: Honouring AI that 
-[2026-08-22 08:01:36] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:01:46] Попытка 3 для: One of a Kind Awards: Honouring AI that 
-[2026-08-22 08:01:46] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:01:58] Пауза 60 секунд...
-[2026-08-22 08:02:58] Обрабатываю: Piyush Goyal pitches Singapore as springboard for India’s ag
-[2026-08-22 08:02:58] Попытка 1 для: Piyush Goyal pitches Singapore as spring
-[2026-08-22 08:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:03:08] Попытка 2 для: Piyush Goyal pitches Singapore as spring
-[2026-08-22 08:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:03:18] Попытка 3 для: Piyush Goyal pitches Singapore as spring
-[2026-08-22 08:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:03:28] Пауза 60 секунд...
-[2026-08-22 08:04:28] Обрабатываю: Why Is Everyone in Silicon Valley Talking Like That?
-[2026-08-22 08:04:28] Попытка 1 для: Why Is Everyone in Silicon Valley Talkin
-[2026-08-22 08:04:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:04:39] Попытка 2 для: Why Is Everyone in Silicon Valley Talkin
-[2026-08-22 08:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:04:49] Попытка 3 для: Why Is Everyone in Silicon Valley Talkin
-[2026-08-22 08:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 08:05:00] === Блок ai_morning завершён ===
-[2026-08-22 11:01:13] Загружено 3057 уже отправленных новостей
-[2026-08-22 11:01:13] === Запуск блока: midday ===
-[2026-08-22 11:01:13] Неизвестный источник (sports illustrated): Grading the 49ers After their 41-17 Pres
-[2026-08-22 11:01:13] Неизвестный источник (deadline): Chris Hansen Was Not Asked To "Sign Away
-[2026-08-22 11:01:13] Неизвестный источник (wabc-tv): Storms cause flood, tornado warnings in 
-[2026-08-22 11:01:13] Неизвестный источник (kgo-tv): San Andreas Fault: New San Jose State Un
-[2026-08-22 11:01:13] Неизвестный источник (nbcsports.com): A.J. Brown, Jalen Hurts speak for the fi
-[2026-08-22 11:01:13] Неизвестный источник (entertainment weekly): Hayden Panettiere’s mom, Lesley Vogel, r
-[2026-08-22 11:01:13] Неизвестный источник (slate magazine): Harry and Meghan Are Returning to the U.
-[2026-08-22 11:01:13] Неизвестный источник (yahoo entertainment): Walmart stock drops 9% as sales growth s
-[2026-08-22 11:01:13] Неизвестный источник (seeking alpha): Anthropic expects to meet or surpass Spa
-[2026-08-22 11:01:13] Неизвестный источник (9to5google.com): Google releases Pixel 11 series factory 
-[2026-08-22 11:01:13] Неизвестный источник (el país): Ebola outbreak out of control in Democra
-[2026-08-22 11:01:13] Неизвестный источник (variety): ‘The Odyssey’ Beats ‘Deadpool & Wolverin
-[2026-08-22 11:01:13] Неизвестный источник (azfamily): NASA telescope doomed after Flagstaff co
-[2026-08-22 11:01:13] Старая новость (2026-08-19T19:45:23Z): Physicists Think They’ve Discovered a Ne
-[2026-08-22 11:01:13] Старая новость (2026-08-19T11:19:51Z): Former CDC advisor says decline in kinde
-[2026-08-22 11:01:13] Мировые новости: найдено 11 после фильтрации
-[2026-08-22 11:01:16] Обрабатываю: Hong Kong's Tiananmen activists convicted in national securi
-[2026-08-22 11:01:16] Попытка 1 для: Hong Kong's Tiananmen activists convicte
-[2026-08-22 11:01:16] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:01:26] Попытка 2 для: Hong Kong's Tiananmen activists convicte
-[2026-08-22 11:01:26] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:01:36] Попытка 3 для: Hong Kong's Tiananmen activists convicte
-[2026-08-22 11:01:36] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:01:46] Пауза 60 секунд...
-[2026-08-22 11:02:46] Обрабатываю: Jurors hear 'Keffe D' say his nephew fired fatal shots at Tu
-[2026-08-22 11:02:46] Попытка 1 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 11:02:46] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:02:56] Попытка 2 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 11:02:57] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:03:07] Попытка 3 для: Jurors hear 'Keffe D' say his nephew fir
-[2026-08-22 11:03:07] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:03:17] Пауза 60 секунд...
-[2026-08-22 11:04:17] Обрабатываю: Charter plane crashes in western Alaska, killing all 8 on bo
-[2026-08-22 11:04:17] Попытка 1 для: Charter plane crashes in western Alaska,
-[2026-08-22 11:04:17] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:04:27] Попытка 2 для: Charter plane crashes in western Alaska,
-[2026-08-22 11:04:27] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:04:37] Попытка 3 для: Charter plane crashes in western Alaska,
-[2026-08-22 11:04:38] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:04:48] Пауза 60 секунд...
-[2026-08-22 11:05:48] Обрабатываю: Navy discusses renaming aircraft carrier after Trump instead
-[2026-08-22 11:05:48] Попытка 1 для: Navy discusses renaming aircraft carrier
-[2026-08-22 11:05:48] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:05:58] Попытка 2 для: Navy discusses renaming aircraft carrier
-[2026-08-22 11:05:58] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:06:08] Попытка 3 для: Navy discusses renaming aircraft carrier
-[2026-08-22 11:06:09] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 11:06:19] === Блок midday завершён ===
-[2026-08-22 16:01:17] Загружено 3060 уже отправленных новостей
-[2026-08-22 16:01:17] === Запуск блока: evening ===
-[2026-08-22 16:01:17] Неизвестный источник (cnbc): U.S. military says it aided passage of 6
-[2026-08-22 16:01:17] Неизвестный источник (the ringer): The 2026-27 Premier League Power Ranking
-[2026-08-22 16:01:17] Заблокированный источник (autosport.com): F1 Dutch GP: Antonelli pips Norris in pr
-[2026-08-22 16:01:17] Неизвестный источник (dw (english)): DRC Ebola outbreak 'growing exponentiall
-[2026-08-22 16:01:17] Неизвестный источник (space.com): Partial lunar eclipse live: Latest news,
-[2026-08-22 16:01:17] Неизвестный источник (cnbc): Longer-dated Treasury yields hold steady
-[2026-08-22 16:01:17] Неизвестный источник (android authority): New ASUS Googlebook leak shows more conf
-[2026-08-22 16:01:17] Неизвестный источник (the-independent.com): Brian Hickerson issues first statement s
-[2026-08-22 16:01:17] Неизвестный источник (mandatory): Hayden Panettiere’s Neighbor Made a Fran
-[2026-08-22 16:01:17] Неизвестный источник (hollywood reporter): Billy Bob Thornton Says “Holly­wood Wasn
-[2026-08-22 16:01:17] Неизвестный источник (wabc-tv): Storms cause flood, tornado warnings in 
-[2026-08-22 16:01:17] Неизвестный источник (9to5google.com): Google posts Pixel Watch 5 factory image
-[2026-08-22 16:01:17] Неизвестный источник (pbs): State lawmaker Aisha Wahab wins Californ
-[2026-08-22 16:01:17] Неизвестный источник (pbs): News Wrap: USS Abraham Lincoln heading h
-[2026-08-22 16:01:17] Неизвестный источник (azfamily): NASA telescope doomed after Flagstaff co
-[2026-08-22 16:01:17] Старая новость (2026-08-20T15:52:07Z): Map shows where Covid cases are rising i
-[2026-08-22 16:01:17] Старая новость (2026-08-20T13:59:50Z): SpaceX’s orbital data centers would crea
-[2026-08-22 16:01:17] Нет фото: Scientists Find Just 3 Minutes of Sprint
-[2026-08-22 16:01:17] Старая новость (2026-08-19T18:00:55Z): A ‘Hidden’ Solar Outburst Just Exposed a
-[2026-08-22 16:01:17] Мировые новости: найдено 13 после фильтрации
-[2026-08-22 16:01:17] Пропускаю российский фокус: Russian expert warns of impending social crisis as
-[2026-08-22 16:01:17] Нет фото: Hegseth angry as Army scraps new SAT min
-[2026-08-22 16:01:17] Заблокированный источник (breitbart news): Democrat Alexander Vindman Giving Away F
-[2026-08-22 16:01:17] Нет фото: Iconic "shark store" in Panama City goes
-[2026-08-22 16:01:17] Нет фото: Substitute teacher arrested after allege
-[2026-08-22 16:01:17] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
-[2026-08-22 16:01:17] Нет фото: What Just Happened in Dearborn, Michigan
-[2026-08-22 16:01:17] Нет фото: Mom Arrested for Punching Teacher, Princ
-[2026-08-22 16:01:17] Украинские новости: найдено 6 после фильтрации
-[2026-08-22 16:01:17] Заблокированный источник (rt): Former Ukrainian troops tell RT why they
-[2026-08-22 16:01:17] Пропускаю уже отправленную: Russia says 443 Ukrainian drones destroyed near bo
-[2026-08-22 16:01:17] Харьков: новостей не найдено
-[2026-08-22 16:01:20] Обрабатываю: Stock Market Today: Dow Opens Higher; Yields Steady — Live U
-[2026-08-22 16:01:20] Попытка 1 для: Stock Market Today: Dow Opens Higher; Yi
-[2026-08-22 16:01:20] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:01:30] Попытка 2 для: Stock Market Today: Dow Opens Higher; Yi
-[2026-08-22 16:01:30] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:01:40] Попытка 3 для: Stock Market Today: Dow Opens Higher; Yi
-[2026-08-22 16:01:40] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:01:51] Пауза 60 секунд...
-[2026-08-22 16:02:51] Обрабатываю: Here's how America's $40 trillion debt can hit your wallet
-[2026-08-22 16:02:51] Попытка 1 для: Here's how America's $40 trillion debt c
-[2026-08-22 16:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:03:01] Попытка 2 для: Here's how America's $40 trillion debt c
-[2026-08-22 16:03:01] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:03:11] Попытка 3 для: Here's how America's $40 trillion debt c
-[2026-08-22 16:03:11] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:03:22] Пауза 60 секунд...
-[2026-08-22 16:04:22] Обрабатываю: Ground Beef Prices Targeted With New Tariff Relief From Trum
-[2026-08-22 16:04:22] Попытка 1 для: Ground Beef Prices Targeted With New Tar
-[2026-08-22 16:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:04:32] Попытка 2 для: Ground Beef Prices Targeted With New Tar
-[2026-08-22 16:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:04:42] Попытка 3 для: Ground Beef Prices Targeted With New Tar
-[2026-08-22 16:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:04:52] Пауза 60 секунд...
-[2026-08-22 16:05:52] Обрабатываю: Trump declares economic warfare on Iran. And, SCOTUS to rule
-[2026-08-22 16:05:52] Попытка 1 для: Trump declares economic warfare on Iran.
-[2026-08-22 16:05:53] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:03] Попытка 2 для: Trump declares economic warfare on Iran.
-[2026-08-22 16:06:03] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-22 16:06:13] Попытка 3 для: Trump declares economic warfare on Iran.
 [2026-08-22 16:06:13] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-22 16:06:26] Обрабатываю: Chelsea to host Shakhtar's Champions League home games amid 
 [2026-08-22 16:06:26] Попытка 1 для: Chelsea to host Shakhtar's Champions Lea
@@ -3189,3 +2959,42 @@
 [2026-08-28 07:55:19] Лимит запросов, ждём 60 секунд...
 [2026-08-28 07:56:19] Анализ не удался, статья пропущена: AMD, Supermicro and MinIO target the enterprise data pipelin
 [2026-08-28 07:56:23] === Блок ai_morning завершён ===
+[2026-08-28 10:01:12] Загружено 300 уже отправленных новостей
+[2026-08-28 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-08-28 10:01:12] Пропускаю уже отправленную: ‘We will retaliate like an earthquake:’ How Iran c
+[2026-08-28 10:01:12] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
+[2026-08-28 10:01:12] Неизвестный источник (bleacherreport.com): Kinley Rasmus' Box Score Stats, Highligh
+[2026-08-28 10:01:12] Неизвестный источник (mmafighting.com): Bella Mir releases statement following d
+[2026-08-28 10:01:12] Пропускаю уже отправленную: CIA Director John Ratcliffe warned Russia not to a
+[2026-08-28 10:01:12] Неизвестный источник (pbs.org): News Wrap: States sue USPS, challenging 
+[2026-08-28 10:01:12] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
+[2026-08-28 10:01:12] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
+[2026-08-28 10:01:12] Неизвестный источник (space.com): From spy satellite to space telescope: T
+[2026-08-28 10:01:12] Неизвестный источник (mashable.com): 'GTA VI' Netflix extended look: 3 things
+[2026-08-28 10:01:12] Неизвестный источник (phys.org): Reconstructed Jurassic insect calls evok
+[2026-08-28 10:01:12] Неизвестный источник (androidheadlines.com): Exclusive: Samsung Galaxy S27 Official C
+[2026-08-28 10:01:12] Старая новость (2026-08-26T08:47:27Z): Despite positive early reactions, Ridley
+[2026-08-28 10:01:12] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
+[2026-08-28 10:01:12] Мировые новости: найдено 14 после фильтрации
+[2026-08-28 10:01:14] Редакторский отбор: выбраны позиции [11, 10, 6, 3, 7, 9, 1]
+[2026-08-28 10:01:14] Обрабатываю: Israel-Hamas truce failure ‘point of no return’, envoy warns | https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-po
+[2026-08-28 10:01:14] Полный текст получен (3000 символов)
+[2026-08-28 10:01:14] Попытка 1 для: Israel-Hamas truce failure ‘point of no 
+[2026-08-28 10:01:17] Успешно, получено 1776 символов
+[2026-08-28 10:01:17] Обрабатываю: Exclusive: Swedish EU letter reopens debate over frozen Russ | https://kyivindependent.com/exclusive-swedish-eu-letter-reopens-russia
+[2026-08-28 10:01:18] Полный текст получен (3000 символов)
+[2026-08-28 10:01:18] Попытка 1 для: Exclusive: Swedish EU letter reopens deb
+[2026-08-28 10:01:42] Успешно, получено 1793 символов
+[2026-08-28 10:01:42] Обрабатываю: Meta's $18bn settlement may hasten reckoning for social medi | https://www.bbc.com/news/articles/clyq4gxwe7go
+[2026-08-28 10:01:42] Полный текст получен (3000 символов)
+[2026-08-28 10:01:42] Попытка 1 для: Meta's $18bn settlement may hasten recko
+[2026-08-28 10:02:11] Успешно, получено 1452 символов
+[2026-08-28 10:02:11] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
+[2026-08-28 10:02:24] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
+[2026-08-28 10:02:24] Попытка 1 для: FDA approves pancreatic cancer drug that
+[2026-08-28 10:02:25] Успешно, получено 868 символов
+[2026-08-28 10:02:29] Пауза 60 секунд...
+[2026-08-28 10:03:29] Пауза 60 секунд...
+[2026-08-28 10:04:30] Пауза 60 секунд...
+[2026-08-28 10:05:31] sent_urls.txt обрезан: 304 -> 300
+[2026-08-28 10:05:31] === Блок midday завершён ===
