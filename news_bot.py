@@ -123,6 +123,10 @@ LIVE_TITLE_PARTS = [
 
 BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
 
+# Украинские издания на английском. Запрос к ним идёт напрямую: поиска по
+# слову Ukraine в мировой прессе не хватает, блок оставался полупустым.
+UA_DOMAINS = "kyivindependent.com,ukrinform.net,pravda.com.ua,euromaidanpress.com,unn.ua"
+
 # ── Спорт и развлечения отсекаем по словам, доменам и разделам сайтов ──
 EXCLUDE_KEYWORDS = [
     "wwe", "nfl", "nba", "spoiler", "wrestling", "celebrity",
@@ -343,6 +347,13 @@ def is_trusted_source(article):
     return False
 
 
+def ukraine_mentions(text):
+    """Считаем признаки украинской новости. Одного слова Ukraine мало:
+    статьи про Киев и Зеленского тоже про Украину."""
+    return (text.count("ukraine") + text.count("ukrainian")
+            + text.count("kyiv") + text.count("zelensky"))
+
+
 def is_liveblog(article):
     url = (article.get("url") or "").lower()
     title = (article.get("title") or "").lower()
@@ -452,10 +463,8 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False, skip_sour
         if word in text:
             return False
 
-    if require_ukraine:
-        ukraine_count = text.count("ukraine") + text.count("ukrainian")
-        if ukraine_count < 2:
-            return False
+    if require_ukraine and ukraine_mentions(text) < 2:
+        return False
 
     if require_kharkiv and "kharkiv" not in text and "kharkov" not in text:
         return False
@@ -713,70 +722,85 @@ def get_world_news(count):
         return []
 
 
+def newsapi_everything(params, label):
+    """Запрос к NewsAPI с общими параметрами. Пустой список при любой ошибке,
+    чтобы сбой одного запроса не ронял весь блок."""
+    try:
+        resp = requests.get(
+            "https://newsapi.org/v2/everything",
+            params={
+                "apiKey": NEWS_KEY,
+                "language": "en",
+                "sortBy": "publishedAt",
+                "from": date_from,
+                **params
+            },
+            timeout=15
+        )
+        articles = resp.json().get("articles", [])
+        log(f"NewsAPI ({label}): пришло {len(articles)} статей")
+        return articles
+    except Exception as e:
+        log(f"Ошибка запроса NewsAPI ({label}): {e}")
+        return []
+
+
 def get_ukraine_news(count):
+    """Два источника: напрямую украинские издания и широкий поиск по мировым.
+    Одного запроса по слову Ukraine не хватает, блок оставался полупустым."""
     EXCLUDE_RUSSIA_FOCUS = [
         "russia", "kremlin", "putin", "russian army", "russian forces",
         "moscow", "russian troops", "russian military"
     ]
-    try:
-        resp = requests.get(
-            "https://newsapi.org/v2/everything",
-            params={
-                "apiKey": NEWS_KEY,
-                "q": "Ukraine",
-                "language": "en",
-                "pageSize": 40,
-                "sortBy": "publishedAt",
-                "from": date_from
-            },
-            timeout=15
-        )
-        articles = resp.json().get("articles", [])
-        filtered = []
-        for a in articles:
-            if not is_relevant(a, require_ukraine=True, skip_source_check=True):
-                continue
-            title = (a.get("title") or "").lower()
-            description = (a.get("description") or "").lower()
-            text = title + " " + description
-            russia_count = sum(1 for w in EXCLUDE_RUSSIA_FOCUS if w in text)
-            if russia_count >= 2 and text.count("ukraine") < 2:
-                log(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
-                continue
+
+    filtered = []
+
+    # Украинские издания пишут про Украину по определению, поэтому проверку
+    # на количество упоминаний страны к ним не применяем
+    for a in newsapi_everything({"domains": UA_DOMAINS, "pageSize": 50}, "украинские издания"):
+        if is_relevant(a, skip_source_check=True):
             filtered.append(a)
-        filtered = deduplicate_articles(filtered)
-        log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
-        filtered = select_top_articles(filtered, count, "жизнь Украины: политика, экономика, города, люди")
-        return filtered[:count]
-    except Exception as e:
-        log(f"Ошибка получения новостей по Украине: {e}")
-        return []
+
+    # Мировые издания: тут проверка на упоминания и на российский фокус нужна
+    for a in newsapi_everything(
+        {"q": "Ukraine OR Ukrainian OR Kyiv OR Zelensky", "pageSize": 50},
+        "мировые про Украину"
+    ):
+        if not is_relevant(a, require_ukraine=True, skip_source_check=True):
+            continue
+        title = (a.get("title") or "").lower()
+        description = (a.get("description") or "").lower()
+        text = title + " " + description
+        russia_count = sum(1 for w in EXCLUDE_RUSSIA_FOCUS if w in text)
+        if russia_count >= 2 and ukraine_mentions(text) < 2:
+            log(f"Пропускаю российский фокус: {a.get('title', '')[:50]}")
+            continue
+        filtered.append(a)
+
+    filtered = deduplicate_articles(filtered)
+    log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
+    filtered = select_top_articles(filtered, count, "жизнь Украины: политика, экономика, города, люди")
+    return filtered[:count]
 
 
 def get_kharkiv_news():
-    try:
-        resp = requests.get(
-            "https://newsapi.org/v2/everything",
-            params={
-                "apiKey": NEWS_KEY,
-                "q": "Kharkiv OR Kharkov",
-                "language": "en",
-                "pageSize": 20,
-                "sortBy": "publishedAt",
-                "from": date_from
-            },
-            timeout=15
-        )
-        articles = resp.json().get("articles", [])
-        articles = [a for a in articles if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
-        if articles:
-            log(f"Харьков: найдена новость: {articles[0].get('title', '')[:50]}")
-            return articles[0]
-        log("Харьков: новостей не найдено")
-        return None
-    except Exception as e:
-        log(f"Ошибка получения новостей Харькова: {e}")
-        return None
+    """Ищем и по всем изданиям, и отдельно по украинским: харьковские сюжеты
+    мировая пресса берёт редко, а местные издания пишут о них постоянно."""
+    candidates = []
+    candidates += newsapi_everything(
+        {"q": "Kharkiv OR Kharkov", "pageSize": 40}, "Харьков, все издания"
+    )
+    candidates += newsapi_everything(
+        {"q": "Kharkiv OR Kharkov", "domains": UA_DOMAINS, "pageSize": 30}, "Харьков, украинские издания"
+    )
+
+    articles = [a for a in candidates if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
+    articles = deduplicate_articles(articles)
+    if articles:
+        log(f"Харьков: найдена новость: {articles[0].get('title', '')[:50]}")
+        return articles[0]
+    log("Харьков: новостей не найдено")
+    return None
 
 
 def get_ai_news(count):
