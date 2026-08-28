@@ -135,6 +135,8 @@ BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
 # блок оставался полупустым.
 UA_FEEDS = [
     ("https://www.ukrinform.net/rss/block-lastnews", "Ukrinform"),
+    # Военная рубрика: именно в ней чаще всего попадаются харьковские сюжеты
+    ("https://www.ukrinform.net/rss/rubric-ato", "Ukrinform"),
     ("https://euromaidanpress.com/feed/", "Euromaidan Press"),
 ]
 
