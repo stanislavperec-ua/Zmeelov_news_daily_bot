@@ -3256,3 +3256,80 @@
 [2026-08-28 05:52:30] Попытка 1 для: Russia targets Ukrainian food shipments,
 [2026-08-28 05:52:34] Успешно, получено 1652 символов
 [2026-08-28 05:52:37] === Блок morning завершён ===
+[2026-08-28 05:55:41] Загружено 300 уже отправленных новостей
+[2026-08-28 05:55:41] === Запуск блока: morning (тест: True) ===
+[2026-08-28 05:55:41] Пропускаю уже отправленную: Fed governor Lisa Cook: "No legitimate basis for r
+[2026-08-28 05:55:41] Пропускаю уже отправленную: ‘We will retaliate like an earthquake:’ How Iran c
+[2026-08-28 05:55:41] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
+[2026-08-28 05:55:41] Пропускаю уже отправленную: Official leading Trump’s Gaza ceasefire effort cri
+[2026-08-28 05:55:41] Неизвестный источник (nbcsports.com): Roger Goodell: We want the Pro Bowl to b
+[2026-08-28 05:55:41] Неизвестный источник (mmafighting.com): Bella Mir releases statement following d
+[2026-08-28 05:55:41] Пропускаю уже отправленную: CIA Director John Ratcliffe warned Russia not to a
+[2026-08-28 05:55:41] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
+[2026-08-28 05:55:41] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
+[2026-08-28 05:55:41] Неизвестный источник (space.com): From spy satellite to space telescope: T
+[2026-08-28 05:55:41] Неизвестный источник (wtop.com): ‘There’s a bat in my mouth’: Doctor’s ba
+[2026-08-28 05:55:41] Неизвестный источник (mashable.com): 'GTA VI' Cyberleek update: Everything le
+[2026-08-28 05:55:41] Неизвестный источник (macrumors.com): iPhone 17 Remains World's Best Selling S
+[2026-08-28 05:55:41] Неизвестный источник (gamesradar.com): Despite positive early reactions, Ridley
+[2026-08-28 05:55:41] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
+[2026-08-28 05:55:41] Старая новость (2026-08-25T21:00:00Z): 'You just saved the video dish': Two ast
+[2026-08-28 05:55:41] Мировые новости: найдено 14 после фильтрации
+[2026-08-28 05:55:43] Редакторский отбор: выбраны позиции [8, 11, 7, 4, 2, 9, 1]
+[2026-08-28 05:55:44] RSS Ukrinform: 30 записей
+[2026-08-28 05:55:44] RSS Euromaidan Press: 29 записей
+[2026-08-28 05:55:44] Старая новость (2026-08-26T05:15:00Z): Ukraine has wrecked more than 100,000 Ru
+[2026-08-28 05:55:44] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-08-28 05:55:44] Заблокированный источник (biztoc.com): Analyst Says National Average Gas Price 
+[2026-08-28 05:55:44] Заблокированный источник (sports.yahoo.com): Czech duo Muchova and Mensik win US Open
+[2026-08-28 05:55:44] Заблокированный источник (biztoc.com): Ukraine under fire but European anti-mis
+[2026-08-28 05:55:44] Заблокированный источник (rt.com): Ukrainian basketball player quits US col
+[2026-08-28 05:55:44] Лента обновлений, пропускаю: Breaking News Live Updates: Russian miss
+[2026-08-28 05:55:44] Спорт, пропускаю: Elina Svitolina, Gael Monfils Share ‘Une
+[2026-08-28 05:55:44] Заблокированный источник (biztoc.com): Russian strikes target Kyiv, Zaporizhzhi
+[2026-08-28 05:55:44] Заблокированный источник (nypost.com): Zelensky cuddles adorable puppy given to
+[2026-08-28 05:55:44] Спорт, пропускаю: Champions League Draw: 36 Teams Set for 
+[2026-08-28 05:55:44] Заблокированный источник (dailymail.com): Fears Putin will use 'tactical nuclear w
+[2026-08-28 05:55:44] Нет фото: Russian flag causes spat between Islam M
+[2026-08-28 05:55:44] Нет фото: Ukrainian Warfare Gostomel Heroes Update
+[2026-08-28 05:55:44] Заблокированный источник (rt.com): AI erodes our humanity while elites prof
+[2026-08-28 05:55:44] Заблокированный источник (nypost.com): How Putin’s Black Sea food fight puts th
+[2026-08-28 05:55:44] Заблокированный источник (biztoc.com): Another Major Russian Refinery Up In Fla
+[2026-08-28 05:55:44] Пропускаю уже отправленную: Ukraine Butters Up Musk With Highest State Honor f
+[2026-08-28 05:55:44] Украинские новости: найдено 58 после фильтрации
+[2026-08-28 05:55:46] Редакторский отбор: выбраны позиции [9, 2, 10, 12, 18]
+[2026-08-28 05:55:47] NewsAPI (Харьков, все издания): пришло 6 статей
+[2026-08-28 05:55:47] RSS Ukrinform: 30 записей
+[2026-08-28 05:55:48] RSS Euromaidan Press: 29 записей
+[2026-08-28 05:55:48] Старая новость (2026-08-26T05:15:00Z): Ukraine has wrecked more than 100,000 Ru
+[2026-08-28 05:55:48] Харьков: новостей не найдено
+[2026-08-28 05:55:48] Обрабатываю: Iran warns of military ship ban in Hormuz under potential de | https://apnews.com/article/middle-east-iran-israel-west-bank-august-26
+[2026-08-28 05:55:48] Попытка 1 для: Iran warns of military ship ban in Hormu
+[2026-08-28 05:55:49] Успешно, получено 1104 символов
+[2026-08-28 05:55:49] Обрабатываю: Exclusive: Swedish EU letter reopens debate over frozen Russ | https://kyivindependent.com/exclusive-swedish-eu-letter-reopens-russia
+[2026-08-28 05:55:50] Полный текст получен (3000 символов)
+[2026-08-28 05:55:50] Попытка 1 для: Exclusive: Swedish EU letter reopens deb
+[2026-08-28 05:55:58] Успешно, получено 1626 символов
+[2026-08-28 05:55:58] Обрабатываю: Meta's $18bn settlement may hasten reckoning for social medi | https://www.bbc.com/news/articles/clyq4gxwe7go
+[2026-08-28 05:55:58] Полный текст получен (3000 символов)
+[2026-08-28 05:55:58] Попытка 1 для: Meta's $18bn settlement may hasten recko
+[2026-08-28 05:56:19] Успешно, получено 1597 символов
+[2026-08-28 05:56:19] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
+[2026-08-28 05:56:31] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
+[2026-08-28 05:56:31] Попытка 1 для: FDA approves pancreatic cancer drug that
+[2026-08-28 05:56:37] Ответ модели без нужной структуры (1202 символов), пробую ещё раз
+[2026-08-28 05:56:42] Попытка 2 для: FDA approves pancreatic cancer drug that
+[2026-08-28 05:56:48] Успешно, получено 1102 символов
+[2026-08-28 05:56:51] Пауза 3 секунд...
+[2026-08-28 05:56:54] Пауза 3 секунд...
+[2026-08-28 05:56:57] Пауза 3 секунд...
+[2026-08-28 05:57:01] Обрабатываю: Global wheat prices rise amid escalation of Russia’s war aga | https://www.ukrinform.net/rubric-economy/4158259-global-wheat-prices-r
+[2026-08-28 05:57:02] Полный текст получен (1400 символов)
+[2026-08-28 05:57:02] Попытка 1 для: Global wheat prices rise amid escalation
+[2026-08-28 05:57:08] Успешно, получено 2087 символов
+[2026-08-28 05:57:08] Обрабатываю: CIA Director gives Kremlin intelligence on Russian losses th | https://www.ukrinform.net/rubric-polytics/4158424-cia-director-gives-k
+[2026-08-28 05:57:09] Полный текст получен (2354 символов)
+[2026-08-28 05:57:09] Попытка 1 для: CIA Director gives Kremlin intelligence 
+[2026-08-28 05:57:20] Успешно, получено 2016 символов
+[2026-08-28 05:57:23] Пауза 3 секунд...
+[2026-08-28 05:57:26] === Блок morning завершён ===
