@@ -620,6 +620,8 @@ def select_top_articles(articles, count, theme):
         seen = set()
         chosen_idx = [i for i in chosen_idx if not (i in seen or seen.add(i))]
         if not chosen_idx:
+            preview = " ".join(raw.split())[:200]
+            log(f"Отбор не дал номеров, беру по порядку. Ответ модели: {preview}")
             return articles
         chosen = [articles[i] for i in chosen_idx]
         rest = [a for i, a in enumerate(articles) if i not in set(chosen_idx)]
