@@ -721,7 +721,9 @@ def analyze(title, description, source_name, published_at=None, article_url=None
 
         except Exception as e:
             error = str(e)
-            log(f"Ошибка (попытка {attempt}): {error[:150]}")
+            # Лимит логируем целиком: в тексте написано, какой именно предел
+            # исчерпан и через сколько сбросится
+            log(f"Ошибка (попытка {attempt}): {error[:400]}")
             if "rate" in error.lower() or "429" in error:
                 log("Лимит запросов, ждём 60 секунд...")
                 time.sleep(60)
