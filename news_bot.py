@@ -579,7 +579,13 @@ def clean_model_output(text):
 def select_top_articles(articles, count, theme):
     """Просим модель выбрать самые значимые новости из кандидатов.
     Возвращаем переупорядоченный список: выбранные первыми, остальные запасом.
-    При любой ошибке возвращаем исходный порядок."""
+    При любой ошибке возвращаем исходный порядок.
+
+    Важно: count это сколько новостей реально пойдёт в выпуск, без запаса.
+    Раньше сюда передавали количество с запасом, и модель получала
+    бессмысленную задачу вида "выбери 7 лучших из 9", после чего отвечала
+    невнятно, номера не разбирались, и отбор молча не работал."""
+    count = max(1, count)
     if len(articles) <= count:
         return articles
 
@@ -777,7 +783,7 @@ def get_world_news(count):
         articles = [a for a in articles if is_relevant(a)]
         articles = deduplicate_articles(articles)
         log(f"Мировые новости: найдено {len(articles)} после фильтрации")
-        articles = select_top_articles(articles, count, "главные мировые события")
+        articles = select_top_articles(articles, count - RESERVE, "главные мировые события")
         return articles[:count]
     except Exception as e:
         log(f"Ошибка получения мировых новостей: {e}")
@@ -917,7 +923,7 @@ def get_ukraine_news(count):
 
     filtered = deduplicate_articles(filtered)
     log(f"Украинские новости: найдено {len(filtered)} после фильтрации")
-    filtered = select_top_articles(filtered, count, "жизнь Украины: политика, экономика, города, люди")
+    filtered = select_top_articles(filtered, count - RESERVE, "жизнь Украины: политика, экономика, города, люди")
     return filtered[:count]
 
 
@@ -972,7 +978,7 @@ def get_ai_news(count):
 
         log(f"AI новости: {len(candidates)} кандидатов после фильтрации")
         candidates = select_top_articles(
-            candidates, count,
+            candidates, count - RESERVE,
             "искусственный интеллект: модели, компании, исследования, влияние ИИ на общество"
         )
         return candidates[:count]
