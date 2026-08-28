@@ -6,6 +6,7 @@ import requests
 import trafilatura
 from groq import Groq
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import urlparse
 
@@ -128,9 +129,14 @@ LIVE_TITLE_PARTS = [
 
 BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
 
-# Украинские издания на английском. Запрос к ним идёт напрямую: поиска по
-# слову Ukraine в мировой прессе не хватает, блок оставался полупустым.
-UA_DOMAINS = "kyivindependent.com,ukrinform.net,pravda.com.ua,euromaidanpress.com,unn.ua"
+# Украинские издания читаются напрямую через RSS. Через NewsAPI их не достать:
+# параметр domains на нашем плане молча возвращает ноль статей по любому
+# домену, а поиска по слову Ukraine в мировой прессе не хватает, украинский
+# блок оставался полупустым.
+UA_FEEDS = [
+    ("https://www.ukrinform.net/rss/block-lastnews", "Ukrinform"),
+    ("https://euromaidanpress.com/feed/", "Euromaidan Press"),
+]
 
 # ── Спорт и развлечения отсекаем по словам, доменам и разделам сайтов ──
 EXCLUDE_KEYWORDS = [
@@ -729,6 +735,77 @@ def get_world_news(count):
         return []
 
 
+def strip_tags(text):
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def parse_rss(xml, source_name):
+    """Разбираем RSS в тот же формат, в котором статьи приходят от NewsAPI,
+    чтобы дальше работали те же фильтры."""
+    articles = []
+    for raw in re.findall(r"<item[^>]*>(.*?)</item>", xml, re.S):
+        def tag(name):
+            m = re.search(rf"<{name}[^>]*>(.*?)</{name}>", raw, re.S)
+            if not m:
+                return ""
+            value = m.group(1).strip()
+            cdata = re.match(r"<!\[CDATA\[(.*?)\]\]>", value, re.S)
+            return (cdata.group(1) if cdata else value).strip()
+
+        link = tag("link")
+        title = strip_tags(tag("title"))
+        if not link or not title:
+            continue
+
+        image = ""
+        enclosure = re.search(r"<enclosure[^>]*url=[\"']([^\"']+)[\"'][^>]*>", raw)
+        if enclosure:
+            image = enclosure.group(1)
+        if not image:
+            media = re.search(r"<media:(?:content|thumbnail)[^>]*url=[\"']([^\"']+)[\"']", raw)
+            if media:
+                image = media.group(1)
+        if not image:
+            inline = re.search(r"<img[^>]*src=[\"']([^\"']+)[\"']", raw)
+            if inline:
+                image = inline.group(1)
+
+        published = ""
+        pub_raw = tag("pubDate")
+        if pub_raw:
+            try:
+                published = parsedate_to_datetime(pub_raw).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                published = ""
+
+        articles.append({
+            "title": title,
+            "description": strip_tags(tag("description"))[:600],
+            "url": link,
+            "urlToImage": image,
+            "publishedAt": published,
+            "source": {"name": source_name},
+        })
+    return articles
+
+
+def fetch_feed(url, source_name):
+    """Читаем RSS украинского издания. Пустой список при любой ошибке."""
+    try:
+        resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        if resp.status_code != 200:
+            log(f"RSS {source_name}: код {resp.status_code}")
+            return []
+        articles = parse_rss(resp.text, source_name)
+        log(f"RSS {source_name}: {len(articles)} записей")
+        return articles
+    except Exception as e:
+        log(f"RSS {source_name} не прочитался: {e.__class__.__name__}")
+        return []
+
+
 def newsapi_everything(params, label):
     """Запрос к NewsAPI с общими параметрами. Пустой список при любой ошибке,
     чтобы сбой одного запроса не ронял весь блок."""
@@ -768,15 +845,10 @@ def get_ukraine_news(count):
 
     # Украинские издания пишут про Украину по определению, поэтому проверку
     # на количество упоминаний страны к ним не применяем
-    ua_media = newsapi_everything({"domains": UA_DOMAINS, "pageSize": 50}, "украинские издания")
-    if not ua_media:
-        # Общий запрос пуст: проверяем домены поштучно, чтобы найти рабочие
-        for domain in UA_DOMAINS.split(","):
-            ua_media += newsapi_everything({"domains": domain, "pageSize": 20}, f"домен {domain}")
-
-    for a in ua_media:
-        if is_relevant(a, skip_source_check=True):
-            filtered.append(a)
+    for feed_url, feed_name in UA_FEEDS:
+        for a in fetch_feed(feed_url, feed_name):
+            if is_relevant(a, skip_source_check=True):
+                filtered.append(a)
 
     # Мировые издания: тут проверка на упоминания и на российский фокус нужна
     for a in newsapi_everything(
@@ -803,13 +875,11 @@ def get_ukraine_news(count):
 def get_kharkiv_news():
     """Ищем и по всем изданиям, и отдельно по украинским: харьковские сюжеты
     мировая пресса берёт редко, а местные издания пишут о них постоянно."""
-    candidates = []
-    candidates += newsapi_everything(
+    candidates = newsapi_everything(
         {"q": "Kharkiv OR Kharkov", "pageSize": 40}, "Харьков, все издания"
     )
-    candidates += newsapi_everything(
-        {"q": "Kharkiv OR Kharkov", "domains": UA_DOMAINS, "pageSize": 30}, "Харьков, украинские издания"
-    )
+    for feed_url, feed_name in UA_FEEDS:
+        candidates += fetch_feed(feed_url, feed_name)
 
     articles = [a for a in candidates if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
     articles = deduplicate_articles(articles)
