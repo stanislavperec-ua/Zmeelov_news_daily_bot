@@ -3559,3 +3559,102 @@
 [2026-08-28 06:06:11] Пауза 3 секунд...
 [2026-08-28 06:06:15] Пауза 3 секунд...
 [2026-08-28 06:06:18] === Блок morning завершён ===
+[2026-08-28 06:08:08] Загружено 300 уже отправленных новостей
+[2026-08-28 06:08:08] === Запуск блока: morning (тест: True) ===
+[2026-08-28 06:08:08] Пропускаю уже отправленную: Fed governor Lisa Cook: "No legitimate basis for r
+[2026-08-28 06:08:08] Пропускаю уже отправленную: ‘We will retaliate like an earthquake:’ How Iran c
+[2026-08-28 06:08:08] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
+[2026-08-28 06:08:08] Пропускаю уже отправленную: Official leading Trump’s Gaza ceasefire effort cri
+[2026-08-28 06:08:08] Неизвестный источник (nbcsports.com): Roger Goodell: We want the Pro Bowl to b
+[2026-08-28 06:08:08] Неизвестный источник (mmafighting.com): Bella Mir releases statement following d
+[2026-08-28 06:08:08] Пропускаю уже отправленную: CIA Director John Ratcliffe warned Russia not to a
+[2026-08-28 06:08:08] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
+[2026-08-28 06:08:08] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
+[2026-08-28 06:08:08] Неизвестный источник (space.com): From spy satellite to space telescope: T
+[2026-08-28 06:08:08] Неизвестный источник (wtop.com): ‘There’s a bat in my mouth’: Doctor’s ba
+[2026-08-28 06:08:08] Неизвестный источник (mashable.com): 'GTA VI' Cyberleek update: Everything le
+[2026-08-28 06:08:08] Неизвестный источник (macrumors.com): iPhone 17 Remains World's Best Selling S
+[2026-08-28 06:08:08] Неизвестный источник (gamesradar.com): Despite positive early reactions, Ridley
+[2026-08-28 06:08:08] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
+[2026-08-28 06:08:08] Старая новость (2026-08-25T21:00:00Z): 'You just saved the video dish': Two ast
+[2026-08-28 06:08:08] Мировые новости: найдено 14 после фильтрации
+[2026-08-28 06:08:10] Редакторский отбор: выбраны позиции [2, 4, 7, 8, 11, 9, 10]
+[2026-08-28 06:08:11] RSS Ukrinform: 30 записей
+[2026-08-28 06:08:13] RSS Ukrinform: 30 записей
+[2026-08-28 06:08:13] RSS Euromaidan Press: 29 записей
+[2026-08-28 06:08:13] Старая новость (2026-08-26T05:15:00Z): Ukraine has wrecked more than 100,000 Ru
+[2026-08-28 06:08:13] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-08-28 06:08:13] Заблокированный источник (sputnikglobe.com): Russia Hits Energy Facilities Ensuring W
+[2026-08-28 06:08:13] Спорт, пропускаю: Preston 0-4 Everton: Players Ratings and
+[2026-08-28 06:08:13] Заблокированный источник (naturalnews.com): Roger Waters warns AI and social media a
+[2026-08-28 06:08:13] Заблокированный источник (naturalnews.com): CIA Director Ratcliffe Visits Moscow for
+[2026-08-28 06:08:13] Заблокированный источник (naturalnews.com): Ukrainian Village Evacuated After Myster
+[2026-08-28 06:08:13] Заблокированный источник (naturalnews.com): Russian General says their operation is 
+[2026-08-28 06:08:13] Заблокированный источник (naturalnews.com): “UNBREAKABLE” on BrightU: Exploring gene
+[2026-08-28 06:08:13] Заблокированный источник (biztoc.com): Analyst Says National Average Gas Price 
+[2026-08-28 06:08:13] Заблокированный источник (sports.yahoo.com): Czech duo Muchova and Mensik win US Open
+[2026-08-28 06:08:13] Заблокированный источник (biztoc.com): Ukraine under fire but European anti-mis
+[2026-08-28 06:08:13] Заблокированный источник (rt.com): Ukrainian basketball player quits US col
+[2026-08-28 06:08:13] Лента обновлений, пропускаю: Breaking News Live Updates: Russian miss
+[2026-08-28 06:08:13] Спорт, пропускаю: Elina Svitolina, Gael Monfils Share ‘Une
+[2026-08-28 06:08:13] Заблокированный источник (biztoc.com): Russian strikes target Kyiv, Zaporizhzhi
+[2026-08-28 06:08:13] Заблокированный источник (nypost.com): Zelensky cuddles adorable puppy given to
+[2026-08-28 06:08:13] Спорт, пропускаю: Champions League Draw: 36 Teams Set for 
+[2026-08-28 06:08:13] Заблокированный источник (dailymail.com): Fears Putin will use 'tactical nuclear w
+[2026-08-28 06:08:13] Нет фото: Russian flag causes spat between Islam M
+[2026-08-28 06:08:13] Нет фото: Ukrainian Warfare Gostomel Heroes Update
+[2026-08-28 06:08:13] Заблокированный источник (rt.com): AI erodes our humanity while elites prof
+[2026-08-28 06:08:13] Внутренний дубль: Russian attacks on Kherson region over past day le
+[2026-08-28 06:08:13] Внутренний дубль: Russian forces strike Nova Post facility, warehous
+[2026-08-28 06:08:13] Внутренний дубль: Russian army loses another 1,630 troops in Ukraine
+[2026-08-28 06:08:13] Внутренний дубль: Russian forces attack Dnipropetrovsk region more t
+[2026-08-28 06:08:13] Внутренний дубль: Russian spy network targeting Ukraine's Defense Fo
+[2026-08-28 06:08:13] Внутренний дубль: More than 250 kilometers of roads in Kherson regio
+[2026-08-28 06:08:13] Внутренний дубль: CCD exposes Russian fake about 'mobilization of wo
+[2026-08-28 06:08:13] Внутренний дубль: Kherson could face prolonged power and heating bla
+[2026-08-28 06:08:13] Внутренний дубль: Russian forces strike Sumy with glide bombs, injur
+[2026-08-28 06:08:13] Внутренний дубль: Russian drones strike Kyiv: Building damaged, dorm
+[2026-08-28 06:08:13] Внутренний дубль: Ukraine’s air defenses down around 120 Russian dro
+[2026-08-28 06:08:13] Внутренний дубль: FPV drone hits car stopped at traffic light in Zap
+[2026-08-28 06:08:13] Внутренний дубль: Defense Forces test new robotic turrets with assau
+[2026-08-28 06:08:13] Украинские новости: найдено 74 после фильтрации
+[2026-08-28 06:08:15] Редакторский отбор: выбраны позиции [12, 5, 15, 1, 13]
+[2026-08-28 06:08:15] NewsAPI (Харьков, все издания): пришло 6 статей
+[2026-08-28 06:08:17] RSS Ukrinform: 30 записей
+[2026-08-28 06:08:18] RSS Ukrinform: 30 записей
+[2026-08-28 06:08:18] RSS Euromaidan Press: 29 записей
+[2026-08-28 06:08:18] Старая новость (2026-08-26T05:15:00Z): Ukraine has wrecked more than 100,000 Ru
+[2026-08-28 06:08:18] Харьков: найдена новость: Injury toll after Russian strike on shopping cente
+[2026-08-28 06:08:18] Обрабатываю: Secret Service officials placed on leave in inquiry over ‘po | https://www.nbcnews.com/politics/white-house/secret-service-officials-
+[2026-08-28 06:08:19] Полный текст получен (1604 символов)
+[2026-08-28 06:08:19] Попытка 1 для: Secret Service officials placed on leave
+[2026-08-28 06:08:22] Успешно, получено 1665 символов
+[2026-08-28 06:08:22] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
+[2026-08-28 06:08:34] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
+[2026-08-28 06:08:34] Попытка 1 для: FDA approves pancreatic cancer drug that
+[2026-08-28 06:08:44] Успешно, получено 1063 символов
+[2026-08-28 06:08:44] Обрабатываю: Meta's $18bn settlement may hasten reckoning for social medi | https://www.bbc.com/news/articles/clyq4gxwe7go
+[2026-08-28 06:08:44] Полный текст получен (3000 символов)
+[2026-08-28 06:08:44] Попытка 1 для: Meta's $18bn settlement may hasten recko
+[2026-08-28 06:09:03] Успешно, получено 1665 символов
+[2026-08-28 06:09:03] Обрабатываю: Iran warns of military ship ban in Hormuz under potential de | https://apnews.com/article/middle-east-iran-israel-west-bank-august-26
+[2026-08-28 06:09:03] Попытка 1 для: Iran warns of military ship ban in Hormu
+[2026-08-28 06:09:29] Успешно, получено 1201 символов
+[2026-08-28 06:09:32] Пауза 3 секунд...
+[2026-08-28 06:09:36] Пауза 3 секунд...
+[2026-08-28 06:09:39] Пауза 3 секунд...
+[2026-08-28 06:09:43] Обрабатываю: Global wheat prices rise amid escalation of Russia’s war aga | https://www.ukrinform.net/rubric-economy/4158259-global-wheat-prices-r
+[2026-08-28 06:09:44] Полный текст получен (1400 символов)
+[2026-08-28 06:09:44] Попытка 1 для: Global wheat prices rise amid escalation
+[2026-08-28 06:09:48] Успешно, получено 2040 символов
+[2026-08-28 06:09:48] Обрабатываю: CIA Director gives Kremlin intelligence on Russian losses th | https://www.ukrinform.net/rubric-polytics/4158424-cia-director-gives-k
+[2026-08-28 06:09:50] Полный текст получен (2354 символов)
+[2026-08-28 06:09:50] Попытка 1 для: CIA Director gives Kremlin intelligence 
+[2026-08-28 06:10:05] Успешно, получено 1845 символов
+[2026-08-28 06:10:05] Обрабатываю: Injury toll after Russian strike on shopping center in Khark | https://www.ukrinform.net/rubric-ato/4158276-injury-toll-after-russian
+[2026-08-28 06:10:06] Полный текст получен (915 символов)
+[2026-08-28 06:10:06] Попытка 1 для: Injury toll after Russian strike on shop
+[2026-08-28 06:10:16] Успешно, получено 1481 символов
+[2026-08-28 06:10:19] Пауза 3 секунд...
+[2026-08-28 06:10:22] Пауза 3 секунд...
+[2026-08-28 06:10:26] === Блок morning завершён ===
