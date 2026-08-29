@@ -1,137 +1,3 @@
-[2026-08-25 16:09:32] Попытка 1 для: Ukraine: Three killed in Russian strike 
-[2026-08-25 16:09:33] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 16:09:43] Попытка 2 для: Ukraine: Three killed in Russian strike 
-[2026-08-25 16:09:43] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 16:09:53] Попытка 3 для: Ukraine: Three killed in Russian strike 
-[2026-08-25 16:09:53] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 16:10:03] === Блок evening завершён ===
-[2026-08-25 18:01:17] Загружено 3122 уже отправленных новостей
-[2026-08-25 18:01:17] === Запуск блока: ai_evening ===
-[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Physical AI’s moment has arrived – but m
-[2026-08-25 18:01:18] Неизвестный источник (kqed): Monterey Park Becomes a Role Model for B
-[2026-08-25 18:01:18] Заблокированный источник (rt): The Vatican wants a seat at the Ukraine 
-[2026-08-25 18:01:18] Неизвестный источник (www.gov.uk): Joint Declaration of Intent between the 
-[2026-08-25 18:01:18] Неизвестный источник (pymnts.com): Flagright Advances ACH Security as Nacha
-[2026-08-25 18:01:18] Неизвестный источник (israelnationalnews.com): The Arab Case for Israel: Essays from a 
-[2026-08-25 18:01:18] Неизвестный источник (winter is coming): Review & recap: Silo season 3 episode 8 
-[2026-08-25 18:01:18] Неизвестный источник (crypto briefing): Fasset achieves $1B valuation with SBI b
-[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Northborne Partners Advises Genesis Rail
-[2026-08-25 18:01:18] Неизвестный источник (the daily caller): Pentagon Wants To Curb CCP Infiltration 
-[2026-08-25 18:01:18] Неизвестный источник (nvidia.com): With Groq 3 LPX in Full Production, NVID
-[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Nvidia’s dedicated inference accelerator
-[2026-08-25 18:01:18] Неизвестный источник (techradar): Windscribe's bizarre AI Hitler marketing
-[2026-08-25 18:01:18] Неизвестный источник (forbes): Foreign Investment Can Help Rebuild Amer
-[2026-08-25 18:01:18] Неизвестный источник (nvidia.com): How NVIDIA Groq 3 LPX Unlocks Ultrafast 
-[2026-08-25 18:01:18] Неизвестный источник (internet): ⚡ Weekly Recap: AI-Powered PLC Attacks, 
-[2026-08-25 18:01:18] Нет фото: aait 5.0.5
-[2026-08-25 18:01:18] Неизвестный источник (princeton university): DOE and Princeton University extend, str
-[2026-08-25 18:01:18] Неизвестный источник (plos.org): Bridging the gaps in innovation research
-[2026-08-25 18:01:18] Неизвестный источник (plos.org): Hybrid CNN-embedding fusion with MFCC-SV
-[2026-08-25 18:01:18] Неизвестный источник (plos.org): Vector competence of temperate and tropi
-[2026-08-25 18:01:18] Неизвестный источник (plos.org): Development and validation of a national
-[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Brayton Purcell LLP Highlights KQED Foru
-[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Thomson Reuters launches proprietary AI 
-[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Apple Emergency SOS Live Video Now Avail
-[2026-08-25 18:01:18] Неизвестный источник (prnewswire): Conexiant To Serve as Exclusive Media Pa
-[2026-08-25 18:01:18] Неизвестный источник (pyimagesearch.com): YOLO26 Open-Vocabulary Object Detection 
-[2026-08-25 18:01:18] Неизвестный источник (prnewswire): World Media Gather at the Center for Isl
-[2026-08-25 18:01:18] Неизвестный источник (yahoo entertainment): Is Adobe (ADBE) Losing Its Edge Despite 
-[2026-08-25 18:01:18] Неизвестный источник (siliconangle news): Fake Codex installer tricks Mac users in
-[2026-08-25 18:01:18] Неизвестный источник (rigzone): Masdar Starts Up 35MW BESS in England
-[2026-08-25 18:01:18] Неизвестный источник (crypto coins news): AI Isn’t Bullish for Bitcoin, Peter Schi
-[2026-08-25 18:01:18] Неизвестный источник (kdnuggets.com): Build an End-to-End Data Science Project
-[2026-08-25 18:01:18] Нет фото: AIxC's RoboShare Secures New Short- and 
-[2026-08-25 18:01:18] Нет фото: Plug and Play and Alibaba.com Team Up on
-[2026-08-25 18:01:18] Нет фото: Capability before prestige: A realistic 
-[2026-08-25 18:01:18] AI новости: найдено 3 после фильтрации
-[2026-08-25 18:01:20] Обрабатываю: Alibaba Shares Plunge Nearly 9% After $10 Billion Share Sale
-[2026-08-25 18:01:20] Попытка 1 для: Alibaba Shares Plunge Nearly 9% After $1
-[2026-08-25 18:01:21] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:01:31] Попытка 2 для: Alibaba Shares Plunge Nearly 9% After $1
-[2026-08-25 18:01:31] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:01:41] Попытка 3 для: Alibaba Shares Plunge Nearly 9% After $1
-[2026-08-25 18:01:41] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:01:51] Пауза 60 секунд...
-[2026-08-25 18:02:51] Обрабатываю: Intel Shares Drop Nearly 3% to $87 Amid Dilution Worries Fol
-[2026-08-25 18:02:51] Попытка 1 для: Intel Shares Drop Nearly 3% to $87 Amid 
-[2026-08-25 18:02:51] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:03:01] Попытка 2 для: Intel Shares Drop Nearly 3% to $87 Amid 
-[2026-08-25 18:03:02] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:03:12] Попытка 3 для: Intel Shares Drop Nearly 3% to $87 Amid 
-[2026-08-25 18:03:12] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:03:22] Пауза 60 секунд...
-[2026-08-25 18:04:22] Обрабатываю: GENESIS EIR Cohort-3: Govt backs deeptech startups, apply by
-[2026-08-25 18:04:22] Попытка 1 для: GENESIS EIR Cohort-3: Govt backs deeptec
-[2026-08-25 18:04:22] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:04:32] Попытка 2 для: GENESIS EIR Cohort-3: Govt backs deeptec
-[2026-08-25 18:04:32] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:04:42] Попытка 3 для: GENESIS EIR Cohort-3: Govt backs deeptec
-[2026-08-25 18:04:42] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 18:04:53] === Блок ai_evening завершён ===
-[2026-08-26 06:01:27] Загружено 3125 уже отправленных новостей
-[2026-08-26 06:01:27] === Запуск блока: morning ===
-[2026-08-26 06:01:27] Неизвестный источник (macrumors): AirPods 5 to Launch as Early as Next Mon
-[2026-08-26 06:01:27] Неизвестный источник (gizmodo.com): Shein’s IPO Plans Value It at About $27 
-[2026-08-26 06:01:27] Неизвестный источник (newsnationnow.com): Body found believed to be Karen Solomon,
-[2026-08-26 06:01:27] Неизвестный источник (variety): Hulu Cancels Mindy Kaling-Created Comedy
-[2026-08-26 06:01:27] Неизвестный источник (espn): Owners thrilled with 'family investment'
-[2026-08-26 06:01:27] Неизвестный источник (fox news): Ex-Lakers player speaks out in defense o
-[2026-08-26 06:01:27] Неизвестный источник (hollywood reporter): Taylor Swift on Dealing With Public Perc
-[2026-08-26 06:01:27] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
-[2026-08-26 06:01:27] Неизвестный источник (fox news): Putin ‘panicked’ as defiant Ukraine mark
-[2026-08-26 06:01:27] Неизвестный источник (9news.com kusa): How to view the near-total lunar eclipse
-[2026-08-26 06:01:27] Неизвестный источник (cnbc): Paramount CEO David Ellison is at the fi
-[2026-08-26 06:01:27] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Box Office S
-[2026-08-26 06:01:27] Неизвестный источник (gizmodo.com): Fox Business Host Learns NASA’s New Tele
-[2026-08-26 06:01:27] Заблокированный источник (bleacher report): Dae'Quan Wright Waived by Browns, TE Lin
-[2026-08-26 06:01:27] Неизвестный источник (push square): Protesting PS5 Players Now Plan Permanen
-[2026-08-26 06:01:27] Неизвестный источник (cnet): I’ve Used Samsung and Google’s New Folda
-[2026-08-26 06:01:27] Неизвестный источник (space.com): It's been 20 years since Pluto lost plan
-[2026-08-26 06:01:27] Мировые новости: найдено 13 после фильтрации
-[2026-08-26 06:01:27] Заблокированный источник (naturalnews.com): Russia’s UN envoy believes the nation is
-[2026-08-26 06:01:27] Нет фото: Burnham Plans US Trip Next Month to Lobb
-[2026-08-26 06:01:27] Нет фото: Ukraine's wartime AI innovation
-[2026-08-26 06:01:27] Нет фото: Burnham planning to visit US in Septembe
-[2026-08-26 06:01:27] Нет фото: "Loser" and "King of Bankruptcies": This
-[2026-08-26 06:01:27] Заблокированный источник (rt): Netherlands dumps Eurovision over Israel
-[2026-08-26 06:01:27] Нет фото: Kate Koval of Ukraine leaves LSU followi
-[2026-08-26 06:01:27] Заблокированный источник (rt): Ukraine has morphed into Zelensky’s ‘con
-[2026-08-26 06:01:27] Внутренний дубль: A women's shelter in Poland fights for survival as
-[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
-[2026-08-26 06:01:27] Внутренний дубль: A women's shelter for refugees in Poland fights fo
-[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
-[2026-08-26 06:01:27] Внутренний дубль: The UK will help Ukraine make long-range missiles 
-[2026-08-26 06:01:27] Украинские новости: найдено 6 после фильтрации
-[2026-08-26 06:01:28] Харьков: новостей не найдено
-[2026-08-26 06:01:30] Обрабатываю: Supreme Court eases path for Trump’s sweeping limits on mail
-[2026-08-26 06:01:30] Попытка 1 для: Supreme Court eases path for Trump’s swe
-[2026-08-26 06:01:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:01:40] Попытка 2 для: Supreme Court eases path for Trump’s swe
-[2026-08-26 06:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:01:51] Попытка 3 для: Supreme Court eases path for Trump’s swe
-[2026-08-26 06:01:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:02:01] Пауза 60 секунд...
-[2026-08-26 06:03:01] Обрабатываю: Lindsay Clancy trial judge denies mistrial request, but repr
-[2026-08-26 06:03:01] Попытка 1 для: Lindsay Clancy trial judge denies mistri
-[2026-08-26 06:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:03:11] Попытка 2 для: Lindsay Clancy trial judge denies mistri
-[2026-08-26 06:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:03:21] Попытка 3 для: Lindsay Clancy trial judge denies mistri
-[2026-08-26 06:03:22] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:03:37] Пауза 60 секунд...
-[2026-08-26 06:04:37] Обрабатываю: Target apologizes for children’s clown Halloween costume aft
-[2026-08-26 06:04:37] Попытка 1 для: Target apologizes for children’s clown H
-[2026-08-26 06:04:37] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:04:47] Попытка 2 для: Target apologizes for children’s clown H
-[2026-08-26 06:04:47] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:04:57] Попытка 3 для: Target apologizes for children’s clown H
-[2026-08-26 06:04:58] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:05:08] Пауза 60 секунд...
-[2026-08-26 06:06:08] Обрабатываю: Apple Gears Up to Launch Its First New Mac Mini in Two Years
-[2026-08-26 06:06:08] Попытка 1 для: Apple Gears Up to Launch Its First New M
-[2026-08-26 06:06:08] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:06:18] Попытка 2 для: Apple Gears Up to Launch Its First New M
-[2026-08-26 06:06:18] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 06:06:28] Попытка 3 для: Apple Gears Up to Launch Its First New M
 [2026-08-26 06:06:29] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 06:06:42] Обрабатываю: The U.K. will help Ukraine make long-range missiles by shari
@@ -2998,3 +2864,137 @@
 [2026-08-29 15:06:32] Пауза 60 секунд...
 [2026-08-29 15:07:32] sent_urls.txt обрезан: 307 -> 300
 [2026-08-29 15:07:32] === Блок evening завершён ===
+[2026-08-29 17:01:20] Загружено 300 уже отправленных новостей
+[2026-08-29 17:01:20] === Запуск блока: ai_evening (тест: False) ===
+[2026-08-29 17:01:20] Неизвестный источник (pymnts.com): ChatGPT Now Helps You Pick a Credit Card
+[2026-08-29 17:01:20] Неизвестный источник (financialpost.com): Ottawa pumps $195 million into quantum m
+[2026-08-29 17:01:20] Заблокированный источник (prnewswire.com): Tampa General Hospital and Florida Ortho
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Tougher penalties for ‘aggravated’ and ‘wrong-way’
+[2026-08-29 17:01:20] Неизвестный источник (mychesco.com): UHS Completes Talkspace Deal, Expands Be
+[2026-08-29 17:01:20] Неизвестный источник (aws.amazon.com): How Decathlon runs demand forecasting at
+[2026-08-29 17:01:20] Неизвестный источник (wwd.com): The Best Women’s Cross-Training Shoes to
+[2026-08-29 17:01:20] Неизвестный источник (pymnts.com): The New Cyber Math for CFOs: One Attack,
+[2026-08-29 17:01:20] Неизвестный источник (scientificamerican.com): Alpha School’s AI teaching model is expa
+[2026-08-29 17:01:20] Неизвестный источник (foxnews.com): Massive Chinese bot farm caught conducti
+[2026-08-29 17:01:20] Неизвестный источник (geektyrant.com): New VISIONQUEST Image Reveals the Human 
+[2026-08-29 17:01:20] Неизвестный источник (wwd.com): Shuffle Board: Old Navy Names CEO; Kohl’
+[2026-08-29 17:01:20] Неизвестный источник (business-standard.com): IndiGo Ventures invests in AI firm Sarva
+[2026-08-29 17:01:20] Неизвестный источник (insurancejournal.com): Auto and Home Insurance Consumers Gettin
+[2026-08-29 17:01:20] Неизвестный источник (researchbuzz.me): Facial Recognition Errors, Public Opinio
+[2026-08-29 17:01:20] Неизвестный источник (en.protothema.gr): “Home Renovation”: Deadline extended to 
+[2026-08-29 17:01:20] Заблокированный источник (marketbeat.com): Nano Labs H1 Earnings Call Highlights
+[2026-08-29 17:01:20] Нет фото: COSCO SHIPPING Ports Announces 2026 Inte
+[2026-08-29 17:01:20] Неизвестный источник (siliconangle.com): It’s Nvidia’s world. We just live in it
+[2026-08-29 17:01:20] Неизвестный источник (journals.plos.org): AI-assisted forecasting in microsurgery:
+[2026-08-29 17:01:20] Неизвестный источник (journals.plos.org): Disentangling the drivers of heterogenei
+[2026-08-29 17:01:20] Неизвестный источник (journals.plos.org): Comparative machine learning models for 
+[2026-08-29 17:01:20] Неизвестный источник (journals.plos.org): Social context suppresses food anticipat
+[2026-08-29 17:01:20] Неизвестный источник (journals.plos.org): Combining a diffusion model with a spars
+[2026-08-29 17:01:20] Неизвестный источник (thehindubusinessline.com): IndiGo steps up AI focus, announces inve
+[2026-08-29 17:01:20] Неизвестный источник (en.protothema.gr): Meta takes down Iranian propaganda netwo
+[2026-08-29 17:01:20] Неизвестный источник (thenewsfacts.com): UP Startup Policy 2026 Brings 7 Major Ch
+[2026-08-29 17:01:20] Неизвестный источник (economictimes.indiatimes.com): Bengaluru to host seven-day AI festival 
+[2026-08-29 17:01:20] Неизвестный источник (foxnews.com): STEPHEN MOORE: Data centers aren’t just 
+[2026-08-29 17:01:20] Нет фото: Check-Cap Completes MBody AI Merger, Clo
+[2026-08-29 17:01:20] Нет фото: Trump Called It: X Uncovers Massive Chin
+[2026-08-29 17:01:20] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-08-29 17:01:20] Неизвестный источник (researchbuzz.me): License Plate Reader Contracts, Argentin
+[2026-08-29 17:01:20] Неизвестный источник (business-standard.com): Sensex, Nifty snap two-day losing streak
+[2026-08-29 17:01:20] Нет фото: GURU Organic Energy to Report Third Quar
+[2026-08-29 17:01:20] Неизвестный источник (tribuneindia.com): Galgotias University's Students Take on 
+[2026-08-29 17:01:20] Заблокированный источник (finance.yahoo.com): Where to Invest Now as Data Centers Turn
+[2026-08-29 17:01:20] Неизвестный источник (business-standard.com): Indices snap 2-day losses; IT shares ral
+[2026-08-29 17:01:20] Неизвестный источник (thepointsguy.com): Rove adds dining and in-store rewards in
+[2026-08-29 17:01:20] Неизвестный источник (grist.org): The rush to power data centers is weaken
+[2026-08-29 17:01:20] Неизвестный источник (business-standard.com): Sensex, Nifty trade marginally higher; E
+[2026-08-29 17:01:20] Неизвестный источник (cointelegraph.com): Visa works with Upbit parent on stableco
+[2026-08-29 17:01:20] Неизвестный источник (business-standard.com): Indices trade with minor gains; media sh
+[2026-08-29 17:01:20] Неизвестный источник (counterpunch.org): Have Flock Cameras Awakened a Sleeping L
+[2026-08-29 17:01:20] Неизвестный источник (en.protothema.gr): New-generation scams to beware of: Calls
+[2026-08-29 17:01:20] Неизвестный источник (screenrant.com): Wolverine's New Spin-Off Multiverse Expl
+[2026-08-29 17:01:20] Неизвестный источник (eff.org): EFF and Allies on Brazil's Elections: Pr
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 24
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 23
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 22
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 21
+[2026-08-29 17:01:20] Неизвестный источник (siliconangle.com): Marvell’s stock sinks despite earnings b
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 20
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 19
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 18
+[2026-08-29 17:01:20] Неизвестный источник (livemint.com): Catch them young: VCs are scouting colle
+[2026-08-29 17:01:20] Неизвестный источник (siliconangle.com): Anthropic previews MHS standard for AI a
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 17
+[2026-08-29 17:01:20] Неизвестный источник (usatoday.com): Today in sports history, September 16
+[2026-08-29 17:01:20] Неизвестный источник (optimizedbyotto.com): Otto Kekäläinen: The growing divide betw
+[2026-08-29 17:01:20] AI новости: 0 с доверенных источников
+[2026-08-29 17:01:20] Доверенных AI-источников мало, добираю из остальных
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Ottawa pumps $195 million into quantum manufacturi
+[2026-08-29 17:01:20] Заблокированный источник (prnewswire.com): Tampa General Hospital and Florida Ortho
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Tougher penalties for ‘aggravated’ and ‘wrong-way’
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: UHS Completes Talkspace Deal, Expands Behavioral H
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: How Decathlon runs demand forecasting at scale wit
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: The Best Women’s Cross-Training Shoes to Wear to t
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: The New Cyber Math for CFOs: One Attack, Hundreds 
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: New VISIONQUEST Image Reveals the Human Form The P
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Shuffle Board: Old Navy Names CEO; Kohl’s Creates 
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: “Home Renovation”: Deadline extended to September 
+[2026-08-29 17:01:20] Заблокированный источник (marketbeat.com): Nano Labs H1 Earnings Call Highlights
+[2026-08-29 17:01:20] Нет фото: COSCO SHIPPING Ports Announces 2026 Inte
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: It’s Nvidia’s world. We just live in it
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Disentangling the drivers of heterogeneity in SARS
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Comparative machine learning models for predicting
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Social context suppresses food anticipatory activi
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Combining a diffusion model with a sparse coding s
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: UP Startup Policy 2026 Brings 7 Major Changes
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: STEPHEN MOORE: Data centers aren’t just buildings.
+[2026-08-29 17:01:20] Нет фото: Check-Cap Completes MBody AI Merger, Clo
+[2026-08-29 17:01:20] Нет фото: Trump Called It: X Uncovers Massive Chin
+[2026-08-29 17:01:20] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: License Plate Reader Contracts, Argentina Periodic
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Sensex, Nifty snap two-day losing streak; IT stock
+[2026-08-29 17:01:20] Нет фото: GURU Organic Energy to Report Third Quar
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Galgotias University's Students Take on the World'
+[2026-08-29 17:01:20] Заблокированный источник (finance.yahoo.com): Where to Invest Now as Data Centers Turn
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Indices snap 2-day losses; IT shares rally
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Rove adds dining and in-store rewards in major pla
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: The rush to power data centers is weakening the Cl
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Sensex, Nifty trade marginally higher; European mr
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Indices trade with minor gains; media shares jump
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Have Flock Cameras Awakened a Sleeping Luddite Gia
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: New-generation scams to beware of: Calls emptying 
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Wolverine's New Spin-Off Multiverse Explained. Mai
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: EFF and Allies on Brazil's Elections: Privacy Prot
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 24
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 23
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 22
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 21
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Marvell’s stock sinks despite earnings beat and st
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 20
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 19
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 18
+[2026-08-29 17:01:20] Не про ИИ, пропускаю: Catch them young: VCs are scouting college campuse
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 17
+[2026-08-29 17:01:20] Спорт, пропускаю: Today in sports history, September 16
+[2026-08-29 17:01:20] AI новости: 12 кандидатов после фильтрации
+[2026-08-29 17:01:22] Редакторский отбор: выбраны позиции [8, 4, 2, 6]
+[2026-08-29 17:01:22] Обрабатываю: Meta takes down Iranian propaganda network that used AI: Tar | https://en.protothema.gr/2026/08/28/meta-takes-down-iranian-propaganda
+[2026-08-29 17:01:23] Полный текст получен (3000 символов)
+[2026-08-29 17:01:23] Попытка 1 для: Meta takes down Iranian propaganda netwo
+[2026-08-29 17:01:24] Успешно, получено 1532 символов
+[2026-08-29 17:01:24] Обрабатываю: Auto and Home Insurance Consumers Getting Used to Using AI:  | https://www.insurancejournal.com/news/national/2026/08/28/883247.htm
+[2026-08-29 17:01:24] Полный текст получен (3000 символов)
+[2026-08-29 17:01:24] Попытка 1 для: Auto and Home Insurance Consumers Gettin
+[2026-08-29 17:01:42] Успешно, получено 1895 символов
+[2026-08-29 17:01:42] Обрабатываю: Alpha School’s AI teaching model is expanding. Does it work? | https://www.scientificamerican.com/article/alpha-schools-ai-teaching-m
+[2026-08-29 17:01:42] Полный текст получен (3000 символов)
+[2026-08-29 17:01:42] Попытка 1 для: Alpha School’s AI teaching model is expa
+[2026-08-29 17:02:11] Успешно, получено 1802 символов
+[2026-08-29 17:02:11] Обрабатываю: AI-assisted forecasting in microsurgery: A dual-component fr | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357
+[2026-08-29 17:02:12] Полный текст получен (3000 символов)
+[2026-08-29 17:02:12] Попытка 1 для: AI-assisted forecasting in microsurgery:
+[2026-08-29 17:02:16] Успешно, получено 2062 символов
+[2026-08-29 17:02:19] Пауза 60 секунд...
+[2026-08-29 17:03:20] Пауза 60 секунд...
+[2026-08-29 17:04:20] Пауза 60 секунд...
+[2026-08-29 17:05:21] sent_urls.txt обрезан: 304 -> 300
+[2026-08-29 17:05:21] === Блок ai_evening завершён ===
