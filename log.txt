@@ -1,44 +1,3 @@
-[2026-08-25 08:02:56] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:03:06] Попытка 2 для: Pay €25,000 for Schengen visa: Indian co
-[2026-08-25 08:03:06] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:03:16] Попытка 3 для: Pay €25,000 for Schengen visa: Indian co
-[2026-08-25 08:03:17] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:03:27] Пауза 60 секунд...
-[2026-08-25 08:04:27] Обрабатываю: Global Market: Alibaba shares slide after $10.2 billion shar
-[2026-08-25 08:04:27] Попытка 1 для: Global Market: Alibaba shares slide afte
-[2026-08-25 08:04:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:04:37] Попытка 2 для: Global Market: Alibaba shares slide afte
-[2026-08-25 08:04:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:04:47] Попытка 3 для: Global Market: Alibaba shares slide afte
-[2026-08-25 08:04:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 08:04:57] === Блок ai_morning завершён ===
-[2026-08-25 11:01:20] Загружено 3112 уже отправленных новостей
-[2026-08-25 11:01:20] === Запуск блока: midday ===
-[2026-08-25 11:01:20] Неизвестный источник (intouch weekly): Hayden Panettiere’s Mom Claims Brian Hic
-[2026-08-25 11:01:20] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
-[2026-08-25 11:01:20] Неизвестный источник (dw (english)): Ukraine news: UK PM Burnham arrives in K
-[2026-08-25 11:01:20] Неизвестный источник (fox news): Lindsay Clancy's three child victims for
-[2026-08-25 11:01:20] Пропускаю уже отправленную: Fast-moving wildfire amid shifting winds threatens
-[2026-08-25 11:01:20] Неизвестный источник (espn): Sources: Raiders RB Jeanty believed to h
-[2026-08-25 11:01:20] Неизвестный источник (pff.com): NFL Preseason Week 2 Recap: Immediate fa
-[2026-08-25 11:01:20] Неизвестный источник (yahoo entertainment): Caitlin Clark scores 37 points as the Fe
-[2026-08-25 11:01:20] Неизвестный источник (cbs sports): NFL preseason Week 2 overreactions: Shed
-[2026-08-25 11:01:20] Неизвестный источник (entertainment weekly): ‘Spider-Man: Brand New Day’ to oust ‘Tit
-[2026-08-25 11:01:20] Неизвестный источник (9to5google.com): Samsung reportedly bringing this major r
-[2026-08-25 11:01:20] Неизвестный источник (deadline): Shelley Fabares Dead: ‘The Donna Reed Sh
-[2026-08-25 11:01:20] Неизвестный источник (instyle): Kourtney Kardashian Bares Her Butt in a 
-[2026-08-25 11:01:20] Неизвестный источник (appleinsider): Some people outside of Apple have alread
-[2026-08-25 11:01:20] Неизвестный источник (new york post): Why can’t we just kill all the ticks? - 
-[2026-08-25 11:01:20] Неизвестный источник (yahoo entertainment): Nvidia's Q2 earnings to test resurgent A
-[2026-08-25 11:01:20] Старая новость (2026-08-23T00:13:52Z): NASA to launch new space telescope later
-[2026-08-25 11:01:20] Старая новость (2026-08-22T13:00:00Z): Top Stories: Apple Leaks - Camera-Equipp
-[2026-08-25 11:01:20] Мировые новости: найдено 11 после фильтрации
-[2026-08-25 11:01:23] Обрабатываю: Live Updates: U.S. Treasury to unveil new Iran sanctions aft
-[2026-08-25 11:01:23] Попытка 1 для: Live Updates: U.S. Treasury to unveil ne
-[2026-08-25 11:01:23] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 11:01:33] Попытка 2 для: Live Updates: U.S. Treasury to unveil ne
-[2026-08-25 11:01:33] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-25 11:01:43] Попытка 3 для: Live Updates: U.S. Treasury to unveil ne
 [2026-08-25 11:01:43] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-25 11:01:53] Пауза 60 секунд...
 [2026-08-25 11:02:53] Обрабатываю: Guinea rubbish landfill collapse kills 31 in Conakry
@@ -2998,3 +2957,44 @@
 [2026-08-29 07:04:35] Пауза 60 секунд...
 [2026-08-29 07:05:35] sent_urls.txt обрезан: 304 -> 300
 [2026-08-29 07:05:35] === Блок ai_morning завершён ===
+[2026-08-29 10:01:17] Загружено 300 уже отправленных новостей
+[2026-08-29 10:01:17] === Запуск блока: midday (тест: False) ===
+[2026-08-29 10:01:17] Неизвестный источник (tmz.com): 'Baywatch' Star Erika Eleniak Making Fiv
+[2026-08-29 10:01:17] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
+[2026-08-29 10:01:17] Лента обновлений, пропускаю: S&P 500 futures are little changed as in
+[2026-08-29 10:01:17] Неизвестный источник (patspulpit.com): Instant analysis from Patriots’ 37-13 lo
+[2026-08-29 10:01:17] Неизвестный источник (si.com): Grading the 49ers After their 18-12 Pres
+[2026-08-29 10:01:17] Неизвестный источник (ksl.com): U. researchers find possible water sourc
+[2026-08-29 10:01:17] Неизвестный источник (post-gazette.com): Who's rising and who's falling after the
+[2026-08-29 10:01:17] Неизвестный источник (hollywoodreporter.com): Golf Channel Cancels ‘Big Break x Good G
+[2026-08-29 10:01:17] Неизвестный источник (pbs.org): 3 Secret Service officials placed on adm
+[2026-08-29 10:01:17] Неизвестный источник (9to5mac.com): Tim Cook and John Ternus host Pikachu an
+[2026-08-29 10:01:17] Неизвестный источник (cfr.org): The Iran War at Six Months: A Region—and
+[2026-08-29 10:01:17] Неизвестный источник (goodmorningamerica.com): Dolly Parton’s sister reveals the singer
+[2026-08-29 10:01:17] Неизвестный источник (wral.com): New telescope could rewrite what we know
+[2026-08-29 10:01:17] Неизвестный источник (foxbusiness.com): Parent activist says Meta settlement is 
+[2026-08-29 10:01:17] Неизвестный источник (vulture.com): Beloved Avant-Garde Artist Yayoi Kusama 
+[2026-08-29 10:01:17] Неизвестный источник (androidheadlines.com): Exclusive: Samsung Galaxy S27 Pro Offici
+[2026-08-29 10:01:17] Неизвестный источник (macrumors.com): Apple Event Logo Hints at Two iPhone 18 
+[2026-08-29 10:01:17] Старая новость (2026-08-25T22:21:06Z): The world’s busiest spaceport is about t
+[2026-08-29 10:01:17] Мировые новости: найдено 11 после фильтрации
+[2026-08-29 10:01:18] Редакторский отбор: выбраны позиции [2, 8, 1, 10]
+[2026-08-29 10:01:18] Обрабатываю: Putin sees U.S. as weakened by Iran war, intelligence report | https://www.washingtonpost.com/national-security/2026/08/27/putin-sees
+[2026-08-29 10:01:30] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/national-security/2026/08/27/
+[2026-08-29 10:01:30] Попытка 1 для: Putin sees U.S. as weakened by Iran war,
+[2026-08-29 10:01:32] Успешно, получено 915 символов
+[2026-08-29 10:01:32] Обрабатываю: Congo begins vaccinations to fight the fastest-growing Ebola | https://apnews.com/article/congo-ebola-vaccines-e7a52f96763d6e113b51eb
+[2026-08-29 10:01:32] Попытка 1 для: Congo begins vaccinations to fight the f
+[2026-08-29 10:01:34] Успешно, получено 857 символов
+[2026-08-29 10:01:34] Обрабатываю: Death toll rises in Nepal-China border disaster as lake pose | https://apnews.com/article/nepal-tibet-china-glacier-floods-ae9973b5fd
+[2026-08-29 10:01:34] Попытка 1 для: Death toll rises in Nepal-China border d
+[2026-08-29 10:01:37] Успешно, получено 980 символов
+[2026-08-29 10:01:37] Обрабатываю: Tech giants urge global response to AI cybersecurity threats | https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a
+[2026-08-29 10:01:38] Полный текст получен (2549 символов)
+[2026-08-29 10:01:38] Попытка 1 для: Tech giants urge global response to AI c
+[2026-08-29 10:01:56] Успешно, получено 2072 символов
+[2026-08-29 10:01:58] Пауза 60 секунд...
+[2026-08-29 10:02:59] Пауза 60 секунд...
+[2026-08-29 10:03:59] Пауза 60 секунд...
+[2026-08-29 10:05:00] sent_urls.txt обрезан: 304 -> 300
+[2026-08-29 10:05:00] === Блок midday завершён ===
