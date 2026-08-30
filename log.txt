@@ -1,137 +1,3 @@
-[2026-08-26 11:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:03:18] Попытка 3 для: The US has the economic strength to with
-[2026-08-26 11:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:03:29] Пауза 60 секунд...
-[2026-08-26 11:04:29] Обрабатываю: Android is getting its own weird dots to cure car sickness
-[2026-08-26 11:04:29] Попытка 1 для: Android is getting its own weird dots to
-[2026-08-26 11:04:29] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:04:39] Попытка 2 для: Android is getting its own weird dots to
-[2026-08-26 11:04:39] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:04:49] Попытка 3 для: Android is getting its own weird dots to
-[2026-08-26 11:04:49] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:05:00] Пауза 60 секунд...
-[2026-08-26 11:06:00] Обрабатываю: The US says it’ll crack down on countries doing business wit
-[2026-08-26 11:06:00] Попытка 1 для: The US says it’ll crack down on countrie
-[2026-08-26 11:06:00] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:06:10] Попытка 2 для: The US says it’ll crack down on countrie
-[2026-08-26 11:06:10] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:06:20] Попытка 3 для: The US says it’ll crack down on countrie
-[2026-08-26 11:06:20] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:06:30] === Блок midday завершён ===
-[2026-08-26 16:01:34] Загружено 3137 уже отправленных новостей
-[2026-08-26 16:01:34] === Запуск блока: evening ===
-[2026-08-26 16:01:35] Неизвестный источник (cbs sports): College football odds, picks, prediction
-[2026-08-26 16:01:35] Неизвестный источник (fox news): Angel Reese sets two WNBA records with h
-[2026-08-26 16:01:35] Неизвестный источник (9to5mac): Apple releases new Magic Keyboards with 
-[2026-08-26 16:01:35] Неизвестный источник (hollywood reporter): ‘Ali G: Who Iz I?’ Trailer: Sacha Baron 
-[2026-08-26 16:01:35] Неизвестный источник (nbcsports.com): NFC North, AFC South teams reveal "Rival
-[2026-08-26 16:01:35] Неизвестный источник (usa today): Here's when the Social Security COLA upd
-[2026-08-26 16:01:35] Неизвестный источник (9to5google.com): Galaxy S27 Ultra’s major redesign detail
-[2026-08-26 16:01:35] Неизвестный источник (mma fighting): Matt Brown understands why Mike Perry to
-[2026-08-26 16:01:35] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
-[2026-08-26 16:01:35] Неизвестный источник (yahoo entertainment): Earnings live updates: Dick's Sporting G
-[2026-08-26 16:01:35] Неизвестный источник (the points guy): United adds 10 new international destina
-[2026-08-26 16:01:35] Неизвестный источник (fox news): Prince William ‘blindsided’ by Harry, Me
-[2026-08-26 16:01:35] Неизвестный источник (cnbc): SEC reportedly subpoenas Wall Street ban
-[2026-08-26 16:01:35] Неизвестный источник (variety): Hulu Cancels Mindy Kaling-Created Comedy
-[2026-08-26 16:01:35] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
-[2026-08-26 16:01:35] Неизвестный источник (usa today): 'Nashville' star Charles Esten gives emo
-[2026-08-26 16:01:35] Старая новость (2026-08-24T14:00:00Z): Satellite sees Greenland's most signific
-[2026-08-26 16:01:35] Старая новость (2026-08-24T11:00:00Z): The dementia vaccine some of us are taki
-[2026-08-26 16:01:35] Мировые новости: найдено 13 после фильтрации
-[2026-08-26 16:01:35] Заблокированный источник (breitbart news): Ukrainian LSU Women’s Basketball Star Qu
-[2026-08-26 16:01:35] Нет фото: Boston's debut album turns 50: Discover 
-[2026-08-26 16:01:35] Нет фото: Multiple people, including kids, killed 
-[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): Russia Continues Strikes on Ukrainian Sh
-[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): UK-French Missile Tech Transfer Gambit W
-[2026-08-26 16:01:35] Нет фото: Hillary Clinton 'planning' husband Bill'
-[2026-08-26 16:01:35] Нет фото: Shasta County Election Chief Exposes Emp
-[2026-08-26 16:01:35] Заблокированный источник (rt): Bail set for ex-Zelensky aide accused of
-[2026-08-26 16:01:35] Нет фото: Civilian Toll Soars as Ukraine Marks 35 
-[2026-08-26 16:01:35] Нет фото: World’s First Military Drone Parade: Wha
-[2026-08-26 16:01:35] Заблокированный источник (sputnikglobe.com): UN Security Council Becomes Virtually Pa
-[2026-08-26 16:01:35] Украинские новости: найдено 2 после фильтрации
-[2026-08-26 16:01:35] Заблокированный источник (rt): Is Europe ready for Ukraine’s defeat?
-[2026-08-26 16:01:35] Харьков: новостей не найдено
-[2026-08-26 16:01:37] Обрабатываю: Two die of measles in Pennsylvania outbreak, health official
-[2026-08-26 16:01:37] Попытка 1 для: Two die of measles in Pennsylvania outbr
-[2026-08-26 16:01:38] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:01:48] Попытка 2 для: Two die of measles in Pennsylvania outbr
-[2026-08-26 16:01:48] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:01:58] Попытка 3 для: Two die of measles in Pennsylvania outbr
-[2026-08-26 16:01:58] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:02:08] Пауза 60 секунд...
-[2026-08-26 16:03:08] Обрабатываю: A tornado tears through a village in southern France, wrecki
-[2026-08-26 16:03:08] Попытка 1 для: A tornado tears through a village in sou
-[2026-08-26 16:03:08] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:03:18] Попытка 2 для: A tornado tears through a village in sou
-[2026-08-26 16:03:18] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:03:28] Попытка 3 для: A tornado tears through a village in sou
-[2026-08-26 16:03:28] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:03:39] Пауза 60 секунд...
-[2026-08-26 16:04:39] Обрабатываю: Graham, Norman tied in South Carolina Senate poll
-[2026-08-26 16:04:39] Попытка 1 для: Graham, Norman tied in South Carolina Se
-[2026-08-26 16:04:39] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:04:49] Попытка 2 для: Graham, Norman tied in South Carolina Se
-[2026-08-26 16:04:49] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:04:59] Попытка 3 для: Graham, Norman tied in South Carolina Se
-[2026-08-26 16:04:59] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:05:10] Пауза 60 секунд...
-[2026-08-26 16:06:10] Обрабатываю: CIA director Ratcliffe visits Moscow
-[2026-08-26 16:06:10] Попытка 1 для: CIA director Ratcliffe visits Moscow
-[2026-08-26 16:06:10] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:06:20] Попытка 2 для: CIA director Ratcliffe visits Moscow
-[2026-08-26 16:06:20] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:06:30] Попытка 3 для: CIA director Ratcliffe visits Moscow
-[2026-08-26 16:06:30] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:06:43] Обрабатываю: Does Burnham’s Political Salvation Run Through Ukraine?
-[2026-08-26 16:06:43] Попытка 1 для: Does Burnham’s Political Salvation Run T
-[2026-08-26 16:06:43] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:06:53] Попытка 2 для: Does Burnham’s Political Salvation Run T
-[2026-08-26 16:06:53] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:07:03] Попытка 3 для: Does Burnham’s Political Salvation Run T
-[2026-08-26 16:07:03] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:07:13] Пауза 60 секунд...
-[2026-08-26 16:08:13] Обрабатываю: The Ukrainian people should be in no doubt
-[2026-08-26 16:08:13] Попытка 1 для: The Ukrainian people should be in no dou
-[2026-08-26 16:08:13] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:08:23] Попытка 2 для: The Ukrainian people should be in no dou
-[2026-08-26 16:08:23] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:08:33] Попытка 3 для: The Ukrainian people should be in no dou
-[2026-08-26 16:08:34] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 16:08:44] === Блок evening завершён ===
-[2026-08-26 18:01:29] Загружено 3143 уже отправленных новостей
-[2026-08-26 18:01:29] === Запуск блока: ai_evening ===
-[2026-08-26 18:01:29] Неизвестный источник (nakedcapitalism.com): Coffee Break: Armed Madhouse – Humanoid 
-[2026-08-26 18:01:29] Неизвестный источник (futurity: research news): Model teaches AI to read more like human
-[2026-08-26 18:01:29] Неизвестный источник (moneylion.com): I Asked ChatGPT What Medicare Advantage 
-[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Anthropic updates Claude’s memory to enh
-[2026-08-26 18:01:29] Неизвестный источник (prnewswire): ECRI Expands Problem Reporting Network a
-[2026-08-26 18:01:29] Нет фото: My Friend Aaron
-[2026-08-26 18:01:29] Неизвестный источник (daily signal): Elon Musk Should Reach for the Next Fron
-[2026-08-26 18:01:29] Неизвестный источник (amazon.com): GPU-accelerated Apache Spark with Amazon
-[2026-08-26 18:01:29] Неизвестный источник (dailymail.com): Man United Confidential: Joshua Zirkzee 
-[2026-08-26 18:01:29] Неизвестный источник (prnewswire): Teledyne LeCroy Accelerates Ultra Ethern
-[2026-08-26 18:01:29] Нет фото: AIxCrypto Provides Additional Context on
-[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Cisco expands rack-scale secure AI facto
-[2026-08-26 18:01:29] Неизвестный источник (prnewswire): S4 Capital's Monks Strengthens EMEA Stra
-[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nvidia doubles compute for entry-level e
-[2026-08-26 18:01:29] Неизвестный источник (prnewswire): S4 Capital's Monks Strengthens EMEA Stra
-[2026-08-26 18:01:29] Неизвестный источник (hollywood reporter): Andrew Garfield Breaks Silence on Playin
-[2026-08-26 18:01:29] Неизвестный источник (financial post): York University School of Continuing Stu
-[2026-08-26 18:01:29] Неизвестный источник (bleeding cool news): Hidden Springs #4 Preview: Seniors Save 
-[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): AI factories enter the execution era as 
-[2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nvidia and Cisco push the enterprise AI 
-[2026-08-26 18:01:29] Неизвестный источник (commercial observer): Cellular Provider InfiniG Secures $5M Se
-[2026-08-26 18:01:29] Неизвестный источник (plos.org): Brachyury expression levels predict line
-[2026-08-26 18:01:29] Неизвестный источник (entrepreneur): Why Physical Infrastructure Is Becoming 
-[2026-08-26 18:01:29] Неизвестный источник (plos.org): The multi-omics fallacy in microbiome sc
-[2026-08-26 18:01:29] Нет фото: Global prevalence of Tritrichomonas foet
-[2026-08-26 18:01:29] Неизвестный источник (crypto briefing): Bitwise launches Automated Token Portfol
-[2026-08-26 18:01:29] Неизвестный источник (globalresearch.ca): Killing the Commons: The Hidden Politics
-[2026-08-26 18:01:29] Неизвестный источник (adexchanger): AdExchanger Announces Finalists for the 
-[2026-08-26 18:01:29] Неизвестный источник (businessline): HSRP number plates maker Rosmerta target
-[2026-08-26 18:01:29] Нет фото: Salary.com Completes Workday Design Appr
 [2026-08-26 18:01:29] Нет фото: Gurobi and Carahsoft Partner to Deliver 
 [2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Nucleus Security launches Helix, an AI e
 [2026-08-26 18:01:29] Неизвестный источник (siliconangle news): Ropedia launches next-gen wearable captu
@@ -2998,3 +2864,137 @@
 [2026-08-30 05:06:58] Пауза 60 секунд...
 [2026-08-30 05:07:58] sent_urls.txt обрезан: 307 -> 300
 [2026-08-30 05:07:58] === Блок morning завершён ===
+[2026-08-30 07:01:17] Загружено 300 уже отправленных новостей
+[2026-08-30 07:01:17] === Запуск блока: ai_morning (тест: False) ===
+[2026-08-30 07:01:18] Заблокированный источник (naturalnews.com): Investigation Reveals Coordinated AI Bot
+[2026-08-30 07:01:18] Неизвестный источник (foxnews.com): Texas Gov. Greg Abbott moves to cut stat
+[2026-08-30 07:01:18] Неизвестный источник (livemint.com): IndiGo invests in Sarvam AI to boost AI-
+[2026-08-30 07:01:18] Нет фото: Is the AI Spending Bubble About to Burst
+[2026-08-30 07:01:18] Неизвестный источник (economictimes.indiatimes.com): IndiGo Ventures backs sovereign AI firm 
+[2026-08-30 07:01:18] Неизвестный источник (forkast.news): Warsh Used His First Jackson Hole Keynot
+[2026-08-30 07:01:18] Неизвестный источник (siliconangle.com): Owner raises $240M for its restaurant ma
+[2026-08-30 07:01:18] Неизвестный источник (usatoday.com): Today in sports history, September 26
+[2026-08-30 07:01:18] Неизвестный источник (bleedingcool.com): Giant Robot Hellboy Returns #2 Preview: 
+[2026-08-30 07:01:18] Неизвестный источник (siliconangle.com): Andreessen Horowitz raises $1.1B AI infr
+[2026-08-30 07:01:18] Нет фото: perforatedai 3.2.7
+[2026-08-30 07:01:18] Нет фото: Amazon EC2 C8gn instances are now availa
+[2026-08-30 07:01:18] Заблокированный источник (marketbeat.com): Cimpress Targets 7% Growth, Higher Margi
+[2026-08-30 07:01:18] Неизвестный источник (siliconangle.com): Court rules Pentagon can’t ban Anthropic
+[2026-08-30 07:01:18] Неизвестный источник (kpbs.org): The data center backlash is here — and B
+[2026-08-30 07:01:18] Неизвестный источник (reason.com): The CIA Is Making AI-Generated Reports f
+[2026-08-30 07:01:18] Неизвестный источник (bleedingcool.com): Dungeons & Dragons: Total Party Killers 
+[2026-08-30 07:01:18] Нет фото: mindupload 1.13.0
+[2026-08-30 07:01:18] Неизвестный источник (iphoneincanada.ca): Meta is Looking to Replace Data Centre W
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): California Legislature Protects Wildfire
+[2026-08-30 07:01:18] Неизвестный источник (siliconangle.com): Blue Yonder redesigns supply chain opera
+[2026-08-30 07:01:18] Неизвестный источник (onefootball.com): Lojas do Galo unveil new brand and conce
+[2026-08-30 07:01:18] Неизвестный источник (bleedingcool.com): Absolute Green Lantern #18 Preview: Jo F
+[2026-08-30 07:01:18] Неизвестный источник (247wallst.com): CrowdStrike and Okta Soar as AI Could Cr
+[2026-08-30 07:01:18] Неизвестный источник (securityaffairs.com): Trump Targets Foreign Technology in New 
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Survivors Provide Recommendations for An
+[2026-08-30 07:01:18] Неизвестный источник (pymnts.com): ChatGPT Now Helps You Pick a Credit Card
+[2026-08-30 07:01:18] Неизвестный источник (financialpost.com): Ottawa pumps $195 million into quantum m
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Tampa General Hospital and Florida Ortho
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Tougher penalties for ‘aggravated’ and ‘wrong-way’
+[2026-08-30 07:01:18] Неизвестный источник (mychesco.com): UHS Completes Talkspace Deal, Expands Be
+[2026-08-30 07:01:18] Неизвестный источник (aws.amazon.com): How Decathlon runs demand forecasting at
+[2026-08-30 07:01:18] Неизвестный источник (wwd.com): The Best Women’s Cross-Training Shoes to
+[2026-08-30 07:01:18] Неизвестный источник (pymnts.com): The New Cyber Math for CFOs: One Attack,
+[2026-08-30 07:01:18] Неизвестный источник (scientificamerican.com): Alpha School’s AI teaching model is expa
+[2026-08-30 07:01:18] Неизвестный источник (foxnews.com): Massive Chinese bot farm caught conducti
+[2026-08-30 07:01:18] Неизвестный источник (geektyrant.com): New VISIONQUEST Image Reveals the Human 
+[2026-08-30 07:01:18] Неизвестный источник (wwd.com): Shuffle Board: Old Navy Names CEO; Kohl’
+[2026-08-30 07:01:18] Неизвестный источник (business-standard.com): IndiGo Ventures invests in AI firm Sarva
+[2026-08-30 07:01:18] Неизвестный источник (insurancejournal.com): Auto and Home Insurance Consumers Gettin
+[2026-08-30 07:01:18] Неизвестный источник (researchbuzz.me): Facial Recognition Errors, Public Opinio
+[2026-08-30 07:01:18] Неизвестный источник (en.protothema.gr): “Home Renovation”: Deadline extended to 
+[2026-08-30 07:01:18] Заблокированный источник (marketbeat.com): Nano Labs H1 Earnings Call Highlights
+[2026-08-30 07:01:18] Нет фото: COSCO SHIPPING Ports Announces 2026 Inte
+[2026-08-30 07:01:18] Неизвестный источник (siliconangle.com): It’s Nvidia’s world. We just live in it
+[2026-08-30 07:01:18] Неизвестный источник (journals.plos.org): AI-assisted forecasting in microsurgery:
+[2026-08-30 07:01:18] Неизвестный источник (journals.plos.org): Disentangling the drivers of heterogenei
+[2026-08-30 07:01:18] Неизвестный источник (journals.plos.org): Comparative machine learning models for 
+[2026-08-30 07:01:18] Неизвестный источник (journals.plos.org): Social context suppresses food anticipat
+[2026-08-30 07:01:18] Неизвестный источник (journals.plos.org): Combining a diffusion model with a spars
+[2026-08-30 07:01:18] Неизвестный источник (thehindubusinessline.com): IndiGo steps up AI focus, announces inve
+[2026-08-30 07:01:18] Неизвестный источник (en.protothema.gr): Meta takes down Iranian propaganda netwo
+[2026-08-30 07:01:18] Неизвестный источник (thenewsfacts.com): UP Startup Policy 2026 Brings 7 Major Ch
+[2026-08-30 07:01:18] Неизвестный источник (economictimes.indiatimes.com): Bengaluru to host seven-day AI festival 
+[2026-08-30 07:01:18] Неизвестный источник (foxnews.com): STEPHEN MOORE: Data centers aren’t just 
+[2026-08-30 07:01:18] Нет фото: Check-Cap Completes MBody AI Merger, Clo
+[2026-08-30 07:01:18] Нет фото: Trump Called It: X Uncovers Massive Chin
+[2026-08-30 07:01:18] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-08-30 07:01:18] Неизвестный источник (researchbuzz.me): License Plate Reader Contracts, Argentin
+[2026-08-30 07:01:18] Неизвестный источник (business-standard.com): Sensex, Nifty snap two-day losing streak
+[2026-08-30 07:01:18] AI новости: 0 с доверенных источников
+[2026-08-30 07:01:18] Доверенных AI-источников мало, добираю из остальных
+[2026-08-30 07:01:18] Заблокированный источник (naturalnews.com): Investigation Reveals Coordinated AI Bot
+[2026-08-30 07:01:18] Нет фото: Is the AI Spending Bubble About to Burst
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Warsh Used His First Jackson Hole Keynote to Talk 
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Owner raises $240M for its restaurant management p
+[2026-08-30 07:01:18] Спорт, пропускаю: Today in sports history, September 26
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Giant Robot Hellboy Returns #2 Preview: Deep Sea H
+[2026-08-30 07:01:18] Нет фото: perforatedai 3.2.7
+[2026-08-30 07:01:18] Нет фото: Amazon EC2 C8gn instances are now availa
+[2026-08-30 07:01:18] Заблокированный источник (marketbeat.com): Cimpress Targets 7% Growth, Higher Margi
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: The data center backlash is here — and Big Tech is
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Dungeons & Dragons: Total Party Killers #2 Preview
+[2026-08-30 07:01:18] Нет фото: mindupload 1.13.0
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Meta is Looking to Replace Data Centre Workers wit
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): California Legislature Protects Wildfire
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Lojas do Galo unveil new brand and concept
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Absolute Green Lantern #18 Preview: Jo Faces Unive
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Trump Targets Foreign Technology in New U.S. Power
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Survivors Provide Recommendations for An
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Ottawa pumps $195 million into quantum manufacturi
+[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Tampa General Hospital and Florida Ortho
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Tougher penalties for ‘aggravated’ and ‘wrong-way’
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: UHS Completes Talkspace Deal, Expands Behavioral H
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: How Decathlon runs demand forecasting at scale wit
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: The Best Women’s Cross-Training Shoes to Wear to t
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: The New Cyber Math for CFOs: One Attack, Hundreds 
+[2026-08-30 07:01:18] Пропускаю уже отправленную: Alpha School’s AI teaching model is expanding. Doe
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: New VISIONQUEST Image Reveals the Human Form The P
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Shuffle Board: Old Navy Names CEO; Kohl’s Creates 
+[2026-08-30 07:01:18] Пропускаю уже отправленную: Auto and Home Insurance Consumers Getting Used to 
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: “Home Renovation”: Deadline extended to September 
+[2026-08-30 07:01:18] Заблокированный источник (marketbeat.com): Nano Labs H1 Earnings Call Highlights
+[2026-08-30 07:01:18] Нет фото: COSCO SHIPPING Ports Announces 2026 Inte
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: It’s Nvidia’s world. We just live in it
+[2026-08-30 07:01:18] Пропускаю уже отправленную: AI-assisted forecasting in microsurgery: A dual-co
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Disentangling the drivers of heterogeneity in SARS
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Comparative machine learning models for predicting
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Social context suppresses food anticipatory activi
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Combining a diffusion model with a sparse coding s
+[2026-08-30 07:01:18] Пропускаю уже отправленную: Meta takes down Iranian propaganda network that us
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: UP Startup Policy 2026 Brings 7 Major Changes
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: STEPHEN MOORE: Data centers aren’t just buildings.
+[2026-08-30 07:01:18] Нет фото: Check-Cap Completes MBody AI Merger, Clo
+[2026-08-30 07:01:18] Нет фото: Trump Called It: X Uncovers Massive Chin
+[2026-08-30 07:01:18] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: License Plate Reader Contracts, Argentina Periodic
+[2026-08-30 07:01:18] Не про ИИ, пропускаю: Sensex, Nifty snap two-day losing streak; IT stock
+[2026-08-30 07:01:18] Внутренний дубль: IndiGo Ventures invests in AI firm Sarvam as part 
+[2026-08-30 07:01:18] AI новости: 12 кандидатов после фильтрации
+[2026-08-30 07:01:19] Редакторский отбор: выбраны позиции [5, 1, 4, 6]
+[2026-08-30 07:01:19] Обрабатываю: Court rules Pentagon can’t ban Anthropic’s AI models | https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anth
+[2026-08-30 07:01:19] Полный текст получен (3000 символов)
+[2026-08-30 07:01:19] Попытка 1 для: Court rules Pentagon can’t ban Anthropic
+[2026-08-30 07:01:21] Успешно, получено 1483 символов
+[2026-08-30 07:01:21] Обрабатываю: Texas Gov. Greg Abbott moves to cut state funding for AI-pow | https://www.foxnews.com/politics/texas-gov-greg-abbott-moves-cut-state
+[2026-08-30 07:01:21] Полный текст получен (3000 символов)
+[2026-08-30 07:01:21] Попытка 1 для: Texas Gov. Greg Abbott moves to cut stat
+[2026-08-30 07:01:38] Успешно, получено 1917 символов
+[2026-08-30 07:01:38] Обрабатываю: Andreessen Horowitz raises $1.1B AI infrastructure fund | https://siliconangle.com/2026/08/28/andreessen-horowitz-raises-1-1b-ai
+[2026-08-30 07:01:38] Полный текст получен (3000 символов)
+[2026-08-30 07:01:38] Попытка 1 для: Andreessen Horowitz raises $1.1B AI infr
+[2026-08-30 07:01:57] Успешно, получено 2025 символов
+[2026-08-30 07:01:57] Обрабатываю: The CIA Is Making AI-Generated Reports for Local Police | https://reason.com/2026/08/28/the-cia-is-making-ai-generated-reports-f
+[2026-08-30 07:01:57] Полный текст получен (3000 символов)
+[2026-08-30 07:01:57] Попытка 1 для: The CIA Is Making AI-Generated Reports f
+[2026-08-30 07:02:01] Успешно, получено 1733 символов
+[2026-08-30 07:02:04] Пауза 60 секунд...
+[2026-08-30 07:03:04] Пауза 60 секунд...
+[2026-08-30 07:04:05] Пауза 60 секунд...
+[2026-08-30 07:05:05] sent_urls.txt обрезан: 304 -> 300
+[2026-08-30 07:05:05] === Блок ai_morning завершён ===
