@@ -1,113 +1,3 @@
-[2026-08-26 06:06:28] Попытка 3 для: Apple Gears Up to Launch Its First New M
-[2026-08-26 06:06:29] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:06:42] Обрабатываю: The U.K. will help Ukraine make long-range missiles by shari
-[2026-08-26 06:06:42] Попытка 1 для: The U.K. will help Ukraine make long-ran
-[2026-08-26 06:06:42] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:06:52] Попытка 2 для: The U.K. will help Ukraine make long-ran
-[2026-08-26 06:06:52] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:07:02] Попытка 3 для: The U.K. will help Ukraine make long-ran
-[2026-08-26 06:07:02] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:07:13] Фото не отправилось: 400
-[2026-08-26 06:07:13] Пауза 60 секунд...
-[2026-08-26 06:08:13] Обрабатываю: A women's shelter for refugees in Poland fights for survival
-[2026-08-26 06:08:13] Попытка 1 для: A women's shelter for refugees in Poland
-[2026-08-26 06:08:13] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:08:23] Попытка 2 для: A women's shelter for refugees in Poland
-[2026-08-26 06:08:23] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:08:33] Попытка 3 для: A women's shelter for refugees in Poland
-[2026-08-26 06:08:33] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 06:08:44] Фото не отправилось: 400
-[2026-08-26 06:08:45] === Блок morning завершён ===
-[2026-08-26 08:01:28] Загружено 3130 уже отправленных новостей
-[2026-08-26 08:01:28] === Запуск блока: ai_morning ===
-[2026-08-26 08:01:28] Неизвестный источник (theblaze): Trump’s next tax cut should make America
-[2026-08-26 08:01:28] Неизвестный источник (cna): India’s space startups are taking off. B
-[2026-08-26 08:01:28] Неизвестный источник (livemint): Musk-led SpaceX to launch first Nvidia-p
-[2026-08-26 08:01:28] Неизвестный источник (esa.int): No signal left behind: new ways to detec
-[2026-08-26 08:01:28] Неизвестный источник (landezine.com): Phoebe Lickwar: Agriculture Is a Form of
-[2026-08-26 08:01:28] Нет фото: Chunghwa Telecom Earns Frost & Sullivan'
-[2026-08-26 08:01:28] Неизвестный источник (jasondoyle.ie): Show HN: When AI Decides What Matters
-[2026-08-26 08:01:28] Неизвестный источник (medical daily): AI Models Scored 100 Percent Identifying
-[2026-08-26 08:01:28] Неизвестный источник (cointelegraph): Korean bank taps Ripple for payments, Pa
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Robotics AI startup Generalist reportedl
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Chip software automation startup Embedd 
-[2026-08-26 08:01:28] Неизвестный источник (pymnts.com): Amazon Envisions Next-Generation Automat
-[2026-08-26 08:01:28] Неизвестный источник (bleeding cool news): Teenage Mutant Ninja Turtles: Saturday M
-[2026-08-26 08:01:28] Неизвестный источник (edsurge.com): As Male Teachers Vanish From the Classro
-[2026-08-26 08:01:28] Неизвестный источник (vmware.com): VMware vDefend IDPS: Securing Private Cl
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Nvidia reportedly eyes another investmen
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Quintessent bags $40M to develop lasers 
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Trump defends AI data center buildout am
-[2026-08-26 08:01:28] Неизвестный источник (itnews): AEMO predicts seven-fold rise in data ce
-[2026-08-26 08:01:28] Неизвестный источник (storagereview.com): NVIDIA Groq 3 LPX Enters Full Production
-[2026-08-26 08:01:28] Неизвестный источник (prnewswire): TGH Brooksville Performs First Cardiotho
-[2026-08-26 08:01:28] Неизвестный источник (cointelegraph): Bernstein sees new USDC growth cycle, se
-[2026-08-26 08:01:28] Неизвестный источник (biztoc.com): United Airlines CEO Makes Big JFK Move
-[2026-08-26 08:01:28] Нет фото: Show HN: I built a lite LPU that can do 
-[2026-08-26 08:01:28] Заблокированный источник (barchart.com): This Analyst Just Upped Its Price Target
-[2026-08-26 08:01:28] Неизвестный источник (siliconangle news): Physical AI’s moment has arrived – but m
-[2026-08-26 08:01:28] Неизвестный источник (kqed): Monterey Park Becomes a Role Model for B
-[2026-08-26 08:01:28] Заблокированный источник (rt): The Vatican wants a seat at the Ukraine 
-[2026-08-26 08:01:28] Неизвестный источник (www.gov.uk): Joint Declaration of Intent between the 
-[2026-08-26 08:01:28] Неизвестный источник (pymnts.com): Flagright Advances ACH Security as Nacha
-[2026-08-26 08:01:28] Неизвестный источник (israelnationalnews.com): The Arab Case for Israel: Essays from a 
-[2026-08-26 08:01:28] AI новости: найдено 7 после фильтрации
-[2026-08-26 08:01:30] Обрабатываю: Why experience alone is not enough for the next level of lea
-[2026-08-26 08:01:30] Попытка 1 для: Why experience alone is not enough for t
-[2026-08-26 08:01:30] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:01:40] Попытка 2 для: Why experience alone is not enough for t
-[2026-08-26 08:01:41] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:01:51] Попытка 3 для: Why experience alone is not enough for t
-[2026-08-26 08:01:51] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:02:01] Пауза 60 секунд...
-[2026-08-26 08:03:01] Обрабатываю: TGH Brooksville Performs First Cardiothoracic Surgery, Expan
-[2026-08-26 08:03:01] Попытка 1 для: TGH Brooksville Performs First Cardiotho
-[2026-08-26 08:03:01] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:03:11] Попытка 2 для: TGH Brooksville Performs First Cardiotho
-[2026-08-26 08:03:11] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:03:21] Попытка 3 для: TGH Brooksville Performs First Cardiotho
-[2026-08-26 08:03:21] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:03:32] Пауза 60 секунд...
-[2026-08-26 08:04:32] Обрабатываю: Nokia China exit deepens telecom split as Nvidia bets on 6G 
-[2026-08-26 08:04:32] Попытка 1 для: Nokia China exit deepens telecom split a
-[2026-08-26 08:04:32] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:04:42] Попытка 2 для: Nokia China exit deepens telecom split a
-[2026-08-26 08:04:42] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:04:52] Попытка 3 для: Nokia China exit deepens telecom split a
-[2026-08-26 08:04:52] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 08:05:03] === Блок ai_morning завершён ===
-[2026-08-26 11:01:24] Загружено 3133 уже отправленных новостей
-[2026-08-26 11:01:24] === Запуск блока: midday ===
-[2026-08-26 11:01:24] Неизвестный источник (wral.com): SpaceX Starlink launch visible in NC ski
-[2026-08-26 11:01:24] Неизвестный источник (the weather channel): Lunar eclipse 2026: Will weather block i
-[2026-08-26 11:01:24] Неизвестный источник (yahoo entertainment): Nvidia's valuation looks surprisingly ch
-[2026-08-26 11:01:24] Неизвестный источник (wfyi.org): Gary residents turn to prayer as power o
-[2026-08-26 11:01:24] Неизвестный источник (macrumors): New iPad Mini With Four Upgrades Expecte
-[2026-08-26 11:01:24] Неизвестный источник (9to5mac): Apple could debut two AirPods 5 models n
-[2026-08-26 11:01:24] Неизвестный источник (espn): Owners thrilled with 'family investment'
-[2026-08-26 11:01:24] Неизвестный источник (kcci des moines): Measles outbreak in southern Iowa expand
-[2026-08-26 11:01:24] Неизвестный источник (fox news): Ex-NBA player tells Laura Ingraham why W
-[2026-08-26 11:01:24] Неизвестный источник (courthouse news service): Supreme Court frees Trump to enforce mai
-[2026-08-26 11:01:24] Неизвестный источник (cnbc): Paramount CEO David Ellison is at the fi
-[2026-08-26 11:01:24] Неизвестный источник (ktvq billings news): Sheriff: Multiple people dead following 
-[2026-08-26 11:01:24] Неизвестный источник (techpowerup.com): Lenovo Addresses Legion Go BIOS Update B
-[2026-08-26 11:01:24] Неизвестный источник (hollywood reporter): ‘Spider-Man: Brand New Day’ Box Office S
-[2026-08-26 11:01:24] Неизвестный источник (rolling stone): Reggie Watts: Festivals Remove Comedian,
-[2026-08-26 11:01:24] Заблокированный источник (bleacher report): Dae'Quan Wright Waived by Browns, TE Lin
-[2026-08-26 11:01:24] Старая новость (2026-08-24T10:00:00Z): It's been 20 years since Pluto lost plan
-[2026-08-26 11:01:24] Мировые новости: найдено 13 после фильтрации
-[2026-08-26 11:01:27] Обрабатываю: Can Trump's economic war against Iran do what airstrikes and
-[2026-08-26 11:01:27] Попытка 1 для: Can Trump's economic war against Iran do
-[2026-08-26 11:01:27] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:01:37] Попытка 2 для: Can Trump's economic war against Iran do
-[2026-08-26 11:01:37] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:01:47] Попытка 3 для: Can Trump's economic war against Iran do
-[2026-08-26 11:01:47] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:01:58] Пауза 60 секунд...
-[2026-08-26 11:02:58] Обрабатываю: The US has the economic strength to withstand a Canadian tra
-[2026-08-26 11:02:58] Попытка 1 для: The US has the economic strength to with
-[2026-08-26 11:02:58] Ошибка (попытка 1): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
-[2026-08-26 11:03:08] Попытка 2 для: The US has the economic strength to with
 [2026-08-26 11:03:08] Ошибка (попытка 2): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
 [2026-08-26 11:03:18] Попытка 3 для: The US has the economic strength to with
 [2026-08-26 11:03:18] Ошибка (попытка 3): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
@@ -2998,3 +2888,113 @@
 [2026-08-29 17:04:20] Пауза 60 секунд...
 [2026-08-29 17:05:21] sent_urls.txt обрезан: 304 -> 300
 [2026-08-29 17:05:21] === Блок ai_evening завершён ===
+[2026-08-30 05:01:14] Загружено 300 уже отправленных новостей
+[2026-08-30 05:01:14] === Запуск блока: morning (тест: False) ===
+[2026-08-30 05:01:15] Неизвестный источник (fieldgulls.com): Seahawks-Chiefs instant video reaction: 
+[2026-08-30 05:01:15] Неизвестный источник (foxbusiness.com): Apple implements price hikes for its TV 
+[2026-08-30 05:01:15] Неизвестный источник (cbssports.com): Fantasy football rankings 2026: Sleepers
+[2026-08-30 05:01:15] Неизвестный источник (hollywoodreporter.com): Jelly Roll Clarifies Political Views, Re
+[2026-08-30 05:01:15] Лента обновлений, пропускаю: Live Updates: Iran war hits 6-month mark
+[2026-08-30 05:01:15] Неизвестный источник (space.com): What time will SpaceX launch NASA's Roma
+[2026-08-30 05:01:15] Неизвестный источник (6abc.com): Jerry Sandusky speaks from Pennsylvania 
+[2026-08-30 05:01:15] Неизвестный источник (wyff4.com): 'Jolene' surges after Dolly Parton’s dea
+[2026-08-30 05:01:15] Неизвестный источник (wkbn.com): Potential measles exposure announced at 
+[2026-08-30 05:01:15] Неизвестный источник (azmirror.com): 9th Circuit sides with states in Kalshi 
+[2026-08-30 05:01:15] Лента обновлений, пропускаю: Nepal-China flooding latest: Rescue effo
+[2026-08-30 05:01:15] Неизвестный источник (foxnews.com): Judge throws out Khalid Sheikh Mohammed'
+[2026-08-30 05:01:15] Неизвестный источник (jsonline.com): What channel is Packers vs Cardinals on 
+[2026-08-30 05:01:15] Неизвестный источник (gsmarena.com): Samsung Galaxy S26 series receives seven
+[2026-08-30 05:01:15] Неизвестный источник (deseret.com): Harry and Meghan’s American dream runs o
+[2026-08-30 05:01:15] Неизвестный источник (forbes.com): Friday Northern Lights Forecast: 10 Stat
+[2026-08-30 05:01:15] Неизвестный источник (ktla.com): Heat concerns for Olivia Rodrigo’s Daisy
+[2026-08-30 05:01:15] Неизвестный источник (nbcboston.com): No verdict in Lindsay Clancy trial Frida
+[2026-08-30 05:01:15] Старая новость (2026-08-27T22:43:01Z): 3 Secret Service officials placed on adm
+[2026-08-30 05:01:15] Мировые новости: найдено 14 после фильтрации
+[2026-08-30 05:01:16] Редакторский отбор: выбраны позиции [5, 2, 9, 8]
+[2026-08-30 05:01:18] RSS Ukrinform: 30 записей
+[2026-08-30 05:01:19] RSS Ukrinform: 30 записей
+[2026-08-30 05:01:19] Пропускаю уже отправленную: Death toll from Russian attack in Bucha district r
+[2026-08-30 05:01:19] RSS Euromaidan Press: 29 записей
+[2026-08-30 05:01:19] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-08-30 05:01:19] Заблокированный источник (biztoc.com): Ukrainian attack injures 7 in Russia's R
+[2026-08-30 05:01:19] Нет фото: News Summary-Intelligence Report 8/28/20
+[2026-08-30 05:01:19] Нет фото: US Patriot missile stocks in Europe are 
+[2026-08-30 05:01:19] Заблокированный источник (rt.com): Multipolar Eurasia? Here is why India st
+[2026-08-30 05:01:19] Заблокированный источник (dailymail.com): 'Welsh rugby has two choices - cut one o
+[2026-08-30 05:01:19] Заблокированный источник (biztoc.com): Casualties reported in Kyiv region after
+[2026-08-30 05:01:19] Нет фото: Homer Is Free. The Rembrandt Isn’t.
+[2026-08-30 05:01:19] Заблокированный источник (dailymail.com): AMANDA PLATELL: Harry's 'at home' and th
+[2026-08-30 05:01:19] Заблокированный источник (breitbart.com): Breitbart Business Digest: Warsh Goes Hi
+[2026-08-30 05:01:19] Заблокированный источник (rt.com): WATCH huge blasts rock ‘missile warehous
+[2026-08-30 05:01:19] Заблокированный источник (biztoc.com): Trump’s CIA director delivered secret, u
+[2026-08-30 05:01:19] Заблокированный источник (thegatewaypundit.com): Russia’s Cheap, Jet-Powered Banderol Mis
+[2026-08-30 05:01:19] Заблокированный источник (rt.com): London doubles down, Meta hides the evid
+[2026-08-30 05:01:19] Нет фото: Poland Rejects Hosting Allied Nuclear Wa
+[2026-08-30 05:01:19] Заблокированный источник (rt.com): Deal, warning or spy swap? What Russian 
+[2026-08-30 05:01:19] Заблокированный источник (rt.com): Merz lays into Germany’s most popular pa
+[2026-08-30 05:01:19] Заблокированный источник (dailymail.com): BORIS JOHNSON: The hot dang Right-winger
+[2026-08-30 05:01:19] Внутренний дубль: Dnipropetrovsk region holds funeral for police off
+[2026-08-30 05:01:19] Внутренний дубль: People injured in drone attack on Kyiv, damage rep
+[2026-08-30 05:01:19] Внутренний дубль: Ukraine must develop its own method of waging war 
+[2026-08-30 05:01:19] Внутренний дубль: Several floors of building on fire in Kyiv followi
+[2026-08-30 05:01:19] Внутренний дубль: Russian drone strikes gas station in Kharkiv, caus
+[2026-08-30 05:01:19] Внутренний дубль: Russian drones injure two residents of Kherson
+[2026-08-30 05:01:19] Внутренний дубль: Russian forces attack Dnipropetrovsk region nearly
+[2026-08-30 05:01:19] Внутренний дубль: Air defense forces shoot down 199 of 224 Russian d
+[2026-08-30 05:01:19] Внутренний дубль: Russian shelling kills police officer in Kharkiv r
+[2026-08-30 05:01:19] Внутренний дубль: Drone attack on Kyiv: Injury toll rises to eight, 
+[2026-08-30 05:01:19] Внутренний дубль: Around 80 sites damaged in Bucha district — Tkache
+[2026-08-30 05:01:19] Внутренний дубль: Russian forces strike hospital in Kramatorsk with 
+[2026-08-30 05:01:19] Внутренний дубль: Russian forces strike high-rise building in Slovia
+[2026-08-30 05:01:19] Внутренний дубль: Debris removal continues in Myla, Kyiv region, dea
+[2026-08-30 05:01:19] Внутренний дубль: Russian drone hits Ukrposhta vehicle near Kramator
+[2026-08-30 05:01:19] Внутренний дубль: Two-year-old girl dies in Kyiv after Russian drone
+[2026-08-30 05:01:19] Украинские новости: найдено 78 после фильтрации
+[2026-08-30 05:01:21] Редакторский отбор: выбраны позиции [17, 16]
+[2026-08-30 05:01:21] NewsAPI (Харьков, все издания): пришло 6 статей
+[2026-08-30 05:01:22] RSS Ukrinform: 30 записей
+[2026-08-30 05:01:24] RSS Ukrinform: 30 записей
+[2026-08-30 05:01:24] RSS Euromaidan Press: 29 записей
+[2026-08-30 05:01:24] Заблокированный источник (dailymail.com): Ukraine takes out one of Putin's feared 
+[2026-08-30 05:01:24] Заблокированный источник (dailymail.com): CIA chief flew to Moscow 'to warn Russia
+[2026-08-30 05:01:24] Заблокированный источник (uk.news.yahoo.com): Russia strikes Ukraine's capital with wa
+[2026-08-30 05:01:24] Заблокированный источник (dailymail.com): CIA chief flew to Moscow 'to warn Russia
+[2026-08-30 05:01:24] Заблокированный источник (naturalnews.com): Russia strikes nine Ukrainian cities in 
+[2026-08-30 05:01:24] Внутренний дубль: Russian drone strikes gas station in Kharkiv, caus
+[2026-08-30 05:01:24] Внутренний дубль: Russian shelling kills police officer in Kharkiv r
+[2026-08-30 05:01:24] Харьков: найдена новость: Russian drone strikes gas station in Kharkiv, caus
+[2026-08-30 05:01:24] Обрабатываю: Ebola spreads to two new zones in DRC; 60 areas now affected | https://www.aljazeera.com/news/2026/8/28/ebola-spreads-to-two-new-zone
+[2026-08-30 05:01:24] Полный текст получен (3000 символов)
+[2026-08-30 05:01:24] Попытка 1 для: Ebola spreads to two new zones in DRC; 6
+[2026-08-30 05:01:27] Успешно, получено 1764 символов
+[2026-08-30 05:01:27] Обрабатываю: Trump says U.S. has entered deal with Venezuela to take cont | https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entere
+[2026-08-30 05:01:28] Полный текст получен (3000 символов)
+[2026-08-30 05:01:28] Попытка 1 для: Trump says U.S. has entered deal with Ve
+[2026-08-30 05:01:56] Успешно, получено 1524 символов
+[2026-08-30 05:01:56] Обрабатываю: President Donald Trump signs order creating US Space Academy | https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-
+[2026-08-30 05:01:56] Полный текст получен (3000 символов)
+[2026-08-30 05:01:56] Попытка 1 для: President Donald Trump signs order creat
+[2026-08-30 05:02:27] Успешно, получено 1485 символов
+[2026-08-30 05:02:27] Обрабатываю: Norway mourns King Harald as Haakon VIII ascends throne | https://www.bbc.com/news/articles/cm2rzxrdr71o
+[2026-08-30 05:02:27] Полный текст получен (3000 символов)
+[2026-08-30 05:02:27] Попытка 1 для: Norway mourns King Harald as Haakon VIII
+[2026-08-30 05:02:36] Успешно, получено 1511 символов
+[2026-08-30 05:02:39] Пауза 60 секунд...
+[2026-08-30 05:03:40] Пауза 60 секунд...
+[2026-08-30 05:04:40] Пауза 60 секунд...
+[2026-08-30 05:05:41] Обрабатываю: Air defense forces shoot down 199 of 224 Russian drones duri | https://www.ukrinform.net/rubric-ato/4158992-air-defense-forces-shoot-
+[2026-08-30 05:05:42] Полный текст получен (947 символов)
+[2026-08-30 05:05:42] Попытка 1 для: Air defense forces shoot down 199 of 224
+[2026-08-30 05:05:45] Успешно, получено 1617 символов
+[2026-08-30 05:05:45] Обрабатываю: Russian forces attack Dnipropetrovsk region nearly 50 times | https://www.ukrinform.net/rubric-ato/4158993-russian-forces-attack-dni
+[2026-08-30 05:05:47] Полный текст получен (1412 символов)
+[2026-08-30 05:05:47] Попытка 1 для: Russian forces attack Dnipropetrovsk reg
+[2026-08-30 05:05:50] Успешно, получено 1649 символов
+[2026-08-30 05:05:50] Обрабатываю: Russian drone strikes gas station in Kharkiv, causing fire | https://www.ukrinform.net/rubric-ato/4159001-russian-drone-strikes-gas
+[2026-08-30 05:05:52] Полный текст получен (790 символов)
+[2026-08-30 05:05:52] Попытка 1 для: Russian drone strikes gas station in Kha
+[2026-08-30 05:05:54] Успешно, получено 1273 символов
+[2026-08-30 05:05:57] Пауза 60 секунд...
+[2026-08-30 05:06:58] Пауза 60 секунд...
+[2026-08-30 05:07:58] sent_urls.txt обрезан: 307 -> 300
+[2026-08-30 05:07:58] === Блок morning завершён ===
