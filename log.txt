@@ -1,54 +1,3 @@
-[2026-08-27 17:06:34] Внутренний дубль: The network becomes the computer as Cisco and Nvid
-[2026-08-27 17:06:34] AI новости: 2 кандидатов после фильтрации
-[2026-08-27 17:06:34] Обрабатываю: The network becomes the computer as Cisco and Nvidia acceler | https://siliconangle.com/2026/08/26/the-network-becomes-the-computer-a
-[2026-08-27 17:06:35] Полный текст получен (3000 символов)
-[2026-08-27 17:06:35] Попытка 1 для: The network becomes the computer as Cisc
-[2026-08-27 17:06:36] Успешно, получено 1788 символов
-[2026-08-27 17:06:36] Обрабатываю: Andrew Garfield Admits He Didn’t Love Playing OpenAI CEO Sam | https://www.thewrap.com/creative-content/movies/andrew-garfield-playin
-[2026-08-27 17:06:37] Полный текст получен (3000 символов)
-[2026-08-27 17:06:37] Попытка 1 для: Andrew Garfield Admits He Didn’t Love Pl
-[2026-08-27 17:06:39] Успешно, получено 2094 символов
-[2026-08-27 17:06:42] Пауза 3 секунд...
-[2026-08-27 17:06:45] === Блок ai_evening завершён ===
-[2026-08-27 17:09:05] Загружено 3390 уже отправленных новостей
-[2026-08-27 17:09:05] === Запуск блока: ai_evening (тест: True) ===
-[2026-08-27 17:09:05] Неизвестный источник (financialpost.com): Software stocks get an earnings gut chec
-[2026-08-27 17:09:05] Неизвестный источник (punchng.com): Huawei explores secure networks for Nige
-[2026-08-27 17:09:05] Неизвестный источник (healthcaredive.com): Employers face ‘existential reckoning’ a
-[2026-08-27 17:09:05] Неизвестный источник (bizrapidx.com): DarwinHealth Introduces Quantum Cancer B
-[2026-08-27 17:09:05] Пресс-релиз, пропускаю: Galux Makes the Forbes Asia 100 to Watch
-[2026-08-27 17:09:05] Неизвестный источник (thehindubusinessline.com): Hyundai Motor aims 5.55 million units in
-[2026-08-27 17:09:05] Заблокированный источник (dailymail.com): Brittany Hockley's private regrets after
-[2026-08-27 17:09:05] Неизвестный источник (bitcoinfoundation.org): New Crypto Coins Are Heating Up: 5 Proje
-[2026-08-27 17:09:05] Заблокированный источник (prnewswire.com): Blend Expands into Brazil, Accelerating 
-[2026-08-27 17:09:05] Неизвестный источник (telecomtv.com): What’s up with… RAIA Grid, Telefónica, S
-[2026-08-27 17:09:05] Неизвестный источник (globalresearch.ca): Going Underground and Underwater in Warf
-[2026-08-27 17:09:05] Заблокированный источник (marketbeat.com): DSC Q2 Earnings Call Highlights
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): Exclusive: Mate Security launches Gamebo
-[2026-08-27 17:09:05] Неизвестный источник (journals.plos.org): Linguistic markers of deception in Arabi
-[2026-08-27 17:09:05] Неизвестный источник (journals.plos.org): Behavioral engagement and stimulus regul
-[2026-08-27 17:09:05] Неизвестный источник (journals.plos.org): Two-dimensional to three-dimensional kne
-[2026-08-27 17:09:05] Неизвестный источник (financialpost.com): Nvidia earnings give investors a baromet
-[2026-08-27 17:09:05] Неизвестный источник (ccn.com): Ethereum is Going to $10,000, Says Tom L
-[2026-08-27 17:09:05] Заблокированный источник (marketbeat.com): LightInTheBox Q2 Earnings Call Highlight
-[2026-08-27 17:09:05] Неизвестный источник (livemint.com): Wipro Consumer launches Snuggles, joinin
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): Nutanix expands cloud platform with cont
-[2026-08-27 17:09:05] Нет фото: How Power Constraints Are Shaping the Fu
-[2026-08-27 17:09:05] Неизвестный источник (hollywoodreporter.com): 'The Uprising' Causes Confusion After Re
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): Glean unveils Tau desktop workspace, cla
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): Autonomous drone intercept startup Mara 
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:09:05] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:09:05] Неизвестный источник (financialpost.com): Posthaste: Concerned students seek skill
-[2026-08-27 17:09:05] Неизвестный источник (adexchanger.com): The Great Meta Migration
-[2026-08-27 17:09:05] Неизвестный источник (cryptobriefing.com): Shinhan Financial Group partners with Vi
-[2026-08-27 17:09:05] Неизвестный источник (lf0.com): Phibro Animal Health (PAHC) 10-K: Risk F
-[2026-08-27 17:09:05] Неизвестный источник (huffpost.com): In A Divided America, The Left And Right
-[2026-08-27 17:09:05] Неизвестный источник (pluginboutique.com): 37% off INTENSITY 2 at Plugin Boutique u
-[2026-08-27 17:09:05] Нет фото: Bidgely Unveils 2027 EmPOWER AI Conferen
-[2026-08-27 17:09:05] Нет фото: Check-Cap Ltd. Announces Pricing of $10 
-[2026-08-27 17:09:05] Неизвестный источник (economictimes.indiatimes.com): Jio Financial to launch AI-powered ‘pers
-[2026-08-27 17:09:05] Неизвестный источник (snopes.com): Rumor has it 'necrophilia brothel' was s
 [2026-08-27 17:09:05] Нет фото: JinkoSolar Announces Second Quarter 2026
 [2026-08-27 17:09:05] Нет фото: Commercialization Roadmap Validated with
 [2026-08-27 17:09:05] Неизвестный источник (usatoday.com): Ranking 29* NFL stadiums from best to wo
@@ -2998,3 +2947,54 @@
 [2026-08-31 07:02:53] Пауза 60 секунд...
 [2026-08-31 07:03:53] sent_urls.txt обрезан: 303 -> 300
 [2026-08-31 07:03:53] === Блок ai_morning завершён ===
+[2026-08-31 10:01:22] Загружено 300 уже отправленных новостей
+[2026-08-31 10:01:22] === Запуск блока: midday (тест: False) ===
+[2026-08-31 10:01:22] Неизвестный источник (space.com): Nancy Grace Roman Telescope live updates
+[2026-08-31 10:01:22] Лента обновлений, пропускаю: Nepal-China flooding latest: Rescuers se
+[2026-08-31 10:01:22] Неизвестный источник (tmz.com): Marcellus Wiley Wants Sexual Assault Law
+[2026-08-31 10:01:22] Неизвестный источник (hollywoodreporter.com): Melinda French Gates Doubles Olivia Rodr
+[2026-08-31 10:01:22] Пропускаю уже отправленную: Trump hails 'historic' deal for US to control 65bn
+[2026-08-31 10:01:22] Неизвестный источник (foxnews.com): North Carolina warns mobile petting zoo 
+[2026-08-31 10:01:22] Заблокированный источник (sports.yahoo.com): College football Week 0 scores, live upd
+[2026-08-31 10:01:22] Неизвестный источник (mmafighting.com): Mike Perry dislocates shoulder, Brandon 
+[2026-08-31 10:01:22] Неизвестный источник (espn.com): College football is back, and Bill Belic
+[2026-08-31 10:01:22] Неизвестный источник (usatoday.com): 3 states battling new measles outbreaks.
+[2026-08-31 10:01:22] Неизвестный источник (tpr.org): Thousands face days without power as San
+[2026-08-31 10:01:22] Неизвестный источник (motorsport.com): Tom Cruise announces Days of Thunder seq
+[2026-08-31 10:01:22] Неизвестный источник (forbes.com): What We Know About Measles Deaths In Pen
+[2026-08-31 10:01:22] Неизвестный источник (forbes.com): Apple iPhone 18 Pro Release Timeline: Ne
+[2026-08-31 10:01:22] Неизвестный источник (rollingstone.com): See Ella Langley Pay Tribute to Dolly Pa
+[2026-08-31 10:01:22] Неизвестный источник (space.com): When is the next lunar eclipse? - Space
+[2026-08-31 10:01:22] Неизвестный источник (eurogamer.net): GTA 6's gameplay reveal broke a streamin
+[2026-08-31 10:01:22] Неизвестный источник (pcmag.com): After 15 Years, the Tim Cook Era at Appl
+[2026-08-31 10:01:22] Неизвестный источник (mmamania.com): UFC Shanghai live results, highlights an
+[2026-08-31 10:01:22] Старая новость (2026-08-28T21:53:00Z): Apple TV raises prices without offering 
+[2026-08-31 10:01:22] Старая новость (2026-08-28T17:47:02Z): Samsung Galaxy S26 series receives seven
+[2026-08-31 10:01:22] Старая новость (2026-08-28T16:17:08Z): Friday Northern Lights Forecast: 10 Stat
+[2026-08-31 10:01:22] Старая новость (2026-08-28T14:35:53Z): DRAM Prices Explode 401% as One Kilogram
+[2026-08-31 10:01:22] Старая новость (2026-08-28T12:38:00Z): Nvidia Stock Is Too Cheap. Apple Once Ha
+[2026-08-31 10:01:22] Старая новость (2026-08-28T12:29:32Z): 2 airport workers die of malaria from mo
+[2026-08-31 10:01:22] Старая новость (2026-08-23T14:36:33Z): China postpones launch of unprecedented 
+[2026-08-31 10:01:22] Мировые новости: найдено 7 после фильтрации
+[2026-08-31 10:01:23] Редакторский отбор: выбраны позиции [1, 3, 6, 4]
+[2026-08-31 10:01:23] Обрабатываю: Iceland rejects EU-accession talks plan in referendum | https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership
+[2026-08-31 10:01:24] Полный текст получен (3000 символов)
+[2026-08-31 10:01:24] Попытка 1 для: Iceland rejects EU-accession talks plan 
+[2026-08-31 10:01:26] Успешно, получено 1610 символов
+[2026-08-31 10:01:26] Обрабатываю: A power struggle in Iran could decide when Trump’s war ends | https://www.cnn.com/2026/08/30/middleeast/iran-trump-power-struggle-wa
+[2026-08-31 10:01:26] Текст не совпадает с заголовком, беру описание: https://www.cnn.com/2026/08/30/middleeast/iran-trump-power-s
+[2026-08-31 10:01:26] Попытка 1 для: A power struggle in Iran could decide wh
+[2026-08-31 10:01:36] Успешно, получено 959 символов
+[2026-08-31 10:01:36] Обрабатываю: Israeli settlers surround Palestinian home in occupied West  | https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-pal
+[2026-08-31 10:01:36] Полный текст получен (3000 символов)
+[2026-08-31 10:01:36] Попытка 1 для: Israeli settlers surround Palestinian ho
+[2026-08-31 10:01:54] Успешно, получено 1691 символов
+[2026-08-31 10:01:54] Обрабатываю: US deports relative of Afghans who aided military to Africa | https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghan
+[2026-08-31 10:01:55] Полный текст получен (2485 символов)
+[2026-08-31 10:01:55] Попытка 1 для: US deports relative of Afghans who aided
+[2026-08-31 10:02:24] Успешно, получено 1783 символов
+[2026-08-31 10:02:27] Пауза 60 секунд...
+[2026-08-31 10:03:28] Пауза 60 секунд...
+[2026-08-31 10:04:28] Пауза 60 секунд...
+[2026-08-31 10:05:29] sent_urls.txt обрезан: 304 -> 300
+[2026-08-31 10:05:29] === Блок midday завершён ===
