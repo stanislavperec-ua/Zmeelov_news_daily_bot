@@ -1,72 +1,3 @@
-[2026-08-27 17:01:37] Неизвестный источник (tom's hardware uk): Hot Chips 2026: d-Matrix stacks AI accel
-[2026-08-27 17:01:37] Неизвестный источник (huffpost): In A Divided America, The Left And Right
-[2026-08-27 17:01:37] Неизвестный источник (pluginboutique.com): 37% off INTENSITY 2 at Plugin Boutique u
-[2026-08-27 17:01:37] Нет фото: Bidgely Unveils 2027 EmPOWER AI Conferen
-[2026-08-27 17:01:37] Нет фото: Check-Cap Ltd. Announces Pricing of $10 
-[2026-08-27 17:01:37] AI новости: найдено 2 после фильтрации
-[2026-08-27 17:01:37] Обрабатываю: Galux Makes the Forbes Asia 100 to Watch 2026 List
-[2026-08-27 17:01:37] Попытка 1 для: Galux Makes the Forbes Asia 100 to Watch
-[2026-08-27 17:01:39] Ответ модели слишком короткий или без структуры (1232 символов), пробую ещё раз
-[2026-08-27 17:01:44] Попытка 2 для: Galux Makes the Forbes Asia 100 to Watch
-[2026-08-27 17:01:45] Успешно, получено 1054 символов
-[2026-08-27 17:01:45] Обрабатываю: Jio Financial to launch AI-powered ‘personal CFO’, membershi
-[2026-08-27 17:01:45] Попытка 1 для: Jio Financial to launch AI-powered ‘pers
-[2026-08-27 17:01:47] Успешно, получено 1399 символов
-[2026-08-27 17:01:51] Пауза 3 секунд...
-[2026-08-27 17:01:54] === Блок ai_evening завершён ===
-[2026-08-27 17:02:49] Загружено 3390 уже отправленных новостей
-[2026-08-27 17:02:49] === Запуск блока: ai_evening (тест: True) ===
-[2026-08-27 17:02:50] Неизвестный источник (healthcaredive.com): Employers face ‘existential reckoning’ a
-[2026-08-27 17:02:50] Неизвестный источник (bizrapidx.com): DarwinHealth Introduces Quantum Cancer B
-[2026-08-27 17:02:50] Неизвестный источник (tomshardware.com): Hot Chips 2026: Nvidia presents Groq 3 L
-[2026-08-27 17:02:50] Неизвестный источник (fortune.com): How Cigna’s AI chief is investing in the
-[2026-08-27 17:02:50] Неизвестный источник (businessinsider.com): Amazon is shutting down a go-to option f
-[2026-08-27 17:02:50] Неизвестный источник (thehindubusinessline.com): Hyundai Motor aims 5.55 million units in
-[2026-08-27 17:02:50] Неизвестный источник (dailymail.com): Brittany Hockley's private regrets after
-[2026-08-27 17:02:50] Неизвестный источник (bitcoinfoundation.org): New Crypto Coins Are Heating Up: 5 Proje
-[2026-08-27 17:02:50] Неизвестный источник (prnewswire.com): Blend Expands into Brazil, Accelerating 
-[2026-08-27 17:02:50] Неизвестный источник (theconversation.com): Africa’s herbarium collections are a sci
-[2026-08-27 17:02:50] Неизвестный источник (telecomtv.com): What’s up with… RAIA Grid, Telefónica, S
-[2026-08-27 17:02:50] Неизвестный источник (globalresearch.ca): Going Underground and Underwater in Warf
-[2026-08-27 17:02:50] Неизвестный источник (marketbeat.com): DSC Q2 Earnings Call Highlights
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): Exclusive: Mate Security launches Gamebo
-[2026-08-27 17:02:50] Неизвестный источник (journals.plos.org): Linguistic markers of deception in Arabi
-[2026-08-27 17:02:50] Неизвестный источник (journals.plos.org): Behavioral engagement and stimulus regul
-[2026-08-27 17:02:50] Неизвестный источник (journals.plos.org): Two-dimensional to three-dimensional kne
-[2026-08-27 17:02:50] Неизвестный источник (financialpost.com): Nvidia earnings give investors a baromet
-[2026-08-27 17:02:50] Неизвестный источник (ccn.com): Ethereum is Going to $10,000, Says Tom L
-[2026-08-27 17:02:50] Неизвестный источник (marketbeat.com): LightInTheBox Q2 Earnings Call Highlight
-[2026-08-27 17:02:50] Неизвестный источник (livemint.com): Wipro Consumer launches Snuggles, joinin
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): Nutanix expands cloud platform with cont
-[2026-08-27 17:02:50] Неизвестный источник (fortune.com): Polarized America united around one issu
-[2026-08-27 17:02:50] Нет фото: How Power Constraints Are Shaping the Fu
-[2026-08-27 17:02:50] Неизвестный источник (hollywoodreporter.com): 'The Uprising' Causes Confusion After Re
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): Glean unveils Tau desktop workspace, cla
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): Autonomous drone intercept startup Mara 
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:02:50] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:02:50] Неизвестный источник (financialpost.com): Posthaste: Concerned students seek skill
-[2026-08-27 17:02:50] Неизвестный источник (adexchanger.com): The Great Meta Migration
-[2026-08-27 17:02:50] Неизвестный источник (cryptobriefing.com): Shinhan Financial Group partners with Vi
-[2026-08-27 17:02:50] Неизвестный источник (lf0.com): Phibro Animal Health (PAHC) 10-K: Risk F
-[2026-08-27 17:02:50] Неизвестный источник (tomshardware.com): Hot Chips 2026: d-Matrix stacks AI accel
-[2026-08-27 17:02:50] Неизвестный источник (huffpost.com): In A Divided America, The Left And Right
-[2026-08-27 17:02:50] Неизвестный источник (pluginboutique.com): 37% off INTENSITY 2 at Plugin Boutique u
-[2026-08-27 17:02:50] Нет фото: Bidgely Unveils 2027 EmPOWER AI Conferen
-[2026-08-27 17:02:50] Нет фото: Check-Cap Ltd. Announces Pricing of $10 
-[2026-08-27 17:02:50] Неизвестный источник (economictimes.indiatimes.com): Jio Financial to launch AI-powered ‘pers
-[2026-08-27 17:02:50] AI новости: найдено 1 после фильтрации
-[2026-08-27 17:02:50] Обрабатываю: Galux Makes the Forbes Asia 100 to Watch 2026 List
-[2026-08-27 17:02:50] Попытка 1 для: Galux Makes the Forbes Asia 100 to Watch
-[2026-08-27 17:02:53] Успешно, получено 985 символов
-[2026-08-27 17:02:56] === Блок ai_evening завершён ===
-[2026-08-27 17:06:34] Загружено 3390 уже отправленных новостей
-[2026-08-27 17:06:34] === Запуск блока: ai_evening (тест: True) ===
-[2026-08-27 17:06:34] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:06:34] Неизвестный источник (siliconangle.com): The network becomes the computer as Cisc
-[2026-08-27 17:06:34] Неизвестный источник (thewrap.com): Andrew Garfield Admits He Didn’t Love Pl
-[2026-08-27 17:06:34] AI новости: 0 с доверенных источников
-[2026-08-27 17:06:34] Доверенных AI-источников мало, добираю из остальных
 [2026-08-27 17:06:34] Внутренний дубль: The network becomes the computer as Cisco and Nvid
 [2026-08-27 17:06:34] AI новости: 2 кандидатов после фильтрации
 [2026-08-27 17:06:34] Обрабатываю: The network becomes the computer as Cisco and Nvidia acceler | https://siliconangle.com/2026/08/26/the-network-becomes-the-computer-a
@@ -2998,3 +2929,72 @@
 [2026-08-31 05:05:32] Пауза 60 секунд...
 [2026-08-31 05:06:33] sent_urls.txt обрезан: 306 -> 300
 [2026-08-31 05:06:33] === Блок morning завершён ===
+[2026-08-31 07:01:13] Загружено 300 уже отправленных новостей
+[2026-08-31 07:01:13] === Запуск блока: ai_morning (тест: False) ===
+[2026-08-31 07:01:13] Нет фото: This Flock AI Tool Finds You Without A N
+[2026-08-31 07:01:13] Неизвестный источник (texastribune.org): Lawmakers added $1 to car insurance poli
+[2026-08-31 07:01:13] Неизвестный источник (usatoday.com): Bills' new stadium facing another hurdle
+[2026-08-31 07:01:13] Заблокированный источник (marketbeat.com): Brilliant Earth Sees Fine Jewelry Growth
+[2026-08-31 07:01:13] Заблокированный источник (dailymail.com): REVEALED: The exact amount of alcohol ga
+[2026-08-31 07:01:13] Заблокированный источник (dailymail.com): While we're ordered to not use hosepipes
+[2026-08-31 07:01:13] Заблокированный источник (prnewswire.com): Newly Released SB 492 Confirms Major Vic
+[2026-08-31 07:01:13] Нет фото: Meet Flock, the $8 billion startup backe
+[2026-08-31 07:01:13] Нет фото: kquika-sansai 1.0.1
+[2026-08-31 07:01:13] Нет фото: kquika-sansai 1.0.0
+[2026-08-31 07:01:13] Нет фото: kquika-sansai added to PyPI
+[2026-08-31 07:01:13] Неизвестный источник (bleedingcool.com): JSA #23 Preview: Secret Missions and Sec
+[2026-08-31 07:01:13] Неизвестный источник (dailycaller.com): This Flock AI Tool Finds You Without A N
+[2026-08-31 07:01:13] Неизвестный источник (kqed.org): Newsom, Lawmakers Reach Last-Minute Deal
+[2026-08-31 07:01:13] Неизвестный источник (economictimes.indiatimes.com): In 2011, Andalusia mapped 27,022 hectare
+[2026-08-31 07:01:13] Неизвестный источник (siliconangle.com): CrowdStrike’s post-Mythos surge: Moat, m
+[2026-08-31 07:01:13] Неизвестный источник (dailycaller.com): AI Labs Look To Space For Their Data Cen
+[2026-08-31 07:01:13] Заблокированный источник (nypost.com): Bessent’s bet that the mullahs can’t bea
+[2026-08-31 07:01:13] Неизвестный источник (wpdash.medianewsgroup.com): ‘Compromise’ state wildfire bill pleases
+[2026-08-31 07:01:13] Неизвестный источник (wnd.com): Evaluate the Mecca Defense deal by how p
+[2026-08-31 07:01:13] Неизвестный источник (dailycaller.com): Is America Ready If An Enemy Military La
+[2026-08-31 07:01:13] Неизвестный источник (linkedin.com): Marketing / Channel Sales Manager (North
+[2026-08-31 07:01:13] Неизвестный источник (bleedingcool.com): Black Panther / Namor: Doomed #1 Preview
+[2026-08-31 07:01:13] Неизвестный источник (foxnews.com): Crackdown on critical tech could open Am
+[2026-08-31 07:01:13] Заблокированный источник (marketbeat.com): BNP Paribas Has $5.15 Million Position i
+[2026-08-31 07:01:13] AI новости: 1 с доверенных источников
+[2026-08-31 07:01:13] Доверенных AI-источников мало, добираю из остальных
+[2026-08-31 07:01:13] Нет фото: This Flock AI Tool Finds You Without A N
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Lawmakers added $1 to car insurance policies. That
+[2026-08-31 07:01:13] Спорт, пропускаю: Bills' new stadium facing another hurdle
+[2026-08-31 07:01:13] Заблокированный источник (marketbeat.com): Brilliant Earth Sees Fine Jewelry Growth
+[2026-08-31 07:01:13] Заблокированный источник (dailymail.com): REVEALED: The exact amount of alcohol ga
+[2026-08-31 07:01:13] Заблокированный источник (dailymail.com): While we're ordered to not use hosepipes
+[2026-08-31 07:01:13] Заблокированный источник (prnewswire.com): Newly Released SB 492 Confirms Major Vic
+[2026-08-31 07:01:13] Нет фото: Meet Flock, the $8 billion startup backe
+[2026-08-31 07:01:13] Нет фото: kquika-sansai 1.0.1
+[2026-08-31 07:01:13] Нет фото: kquika-sansai 1.0.0
+[2026-08-31 07:01:13] Нет фото: kquika-sansai added to PyPI
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: JSA #23 Preview: Secret Missions and Secret Identi
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Newsom, Lawmakers Reach Last-Minute Deal on Wildfi
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: In 2011, Andalusia mapped 27,022 hectares of Posid
+[2026-08-31 07:01:13] Пропускаю уже отправленную: CrowdStrike’s post-Mythos surge: Moat, momentum an
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: AI Labs Look To Space For Their Data Center Needs
+[2026-08-31 07:01:13] Заблокированный источник (nypost.com): Bessent’s bet that the mullahs can’t bea
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: ‘Compromise’ state wildfire bill pleases victims b
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Evaluate the Mecca Defense deal by how power is us
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Is America Ready If An Enemy Military Launches Dro
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Black Panther / Namor: Doomed #1 Preview: Hell Tri
+[2026-08-31 07:01:13] Не про ИИ, пропускаю: Crackdown on critical tech could open Americans to
+[2026-08-31 07:01:13] Заблокированный источник (marketbeat.com): BNP Paribas Has $5.15 Million Position i
+[2026-08-31 07:01:13] AI новости: 3 кандидатов после фильтрации
+[2026-08-31 07:01:13] Обрабатываю: AI models are being used to track zoonotic diseases. Will th | https://www.nature.com/articles/d41586-026-02684-1
+[2026-08-31 07:01:14] Текст не совпадает с заголовком, беру описание: https://www.nature.com/articles/d41586-026-02684-1
+[2026-08-31 07:01:14] Попытка 1 для: AI models are being used to track zoonot
+[2026-08-31 07:01:17] Успешно, получено 718 символов
+[2026-08-31 07:01:17] Обрабатываю: This Flock AI Tool Finds You Without A Name Or Plate | https://dailycaller.com/2026/08/29/flock-safety-investigate-nightshift
+[2026-08-31 07:01:17] Полный текст получен (3000 символов)
+[2026-08-31 07:01:17] Попытка 1 для: This Flock AI Tool Finds You Without A N
+[2026-08-31 07:01:21] Успешно, получено 2039 символов
+[2026-08-31 07:01:21] Обрабатываю: Marketing / Channel Sales Manager (North America – Offline C | https://www.linkedin.com/pulse/marketing-channel-sales-manager-north-a
+[2026-08-31 07:01:21] Полный текст получен (1390 символов)
+[2026-08-31 07:01:21] Попытка 1 для: Marketing / Channel Sales Manager (North
+[2026-08-31 07:01:49] Успешно, получено 1587 символов
+[2026-08-31 07:01:52] Пауза 60 секунд...
+[2026-08-31 07:02:53] Пауза 60 секунд...
+[2026-08-31 07:03:53] sent_urls.txt обрезан: 303 -> 300
+[2026-08-31 07:03:53] === Блок ai_morning завершён ===
