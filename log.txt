@@ -1,50 +1,3 @@
-[2026-08-28 05:51:51] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
-[2026-08-28 05:51:51] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
-[2026-08-28 05:51:51] Неизвестный источник (space.com): From spy satellite to space telescope: T
-[2026-08-28 05:51:51] Неизвестный источник (wtop.com): ‘There’s a bat in my mouth’: Doctor’s ba
-[2026-08-28 05:51:51] Неизвестный источник (mashable.com): 'GTA VI' Cyberleek update: Everything le
-[2026-08-28 05:51:51] Неизвестный источник (macrumors.com): iPhone 17 Remains World's Best Selling S
-[2026-08-28 05:51:51] Неизвестный источник (gamesradar.com): Despite positive early reactions, Ridley
-[2026-08-28 05:51:51] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
-[2026-08-28 05:51:51] Старая новость (2026-08-25T21:00:00Z): 'You just saved the video dish': Two ast
-[2026-08-28 05:51:51] Мировые новости: найдено 14 после фильтрации
-[2026-08-28 05:51:53] Редакторский отбор: выбраны позиции [7, 4, 8, 11, 2, 9, 1]
-[2026-08-28 05:51:53] NewsAPI (украинские издания): пришло 0 статей
-[2026-08-28 05:51:53] NewsAPI (домен kyivindependent.com): пришло 0 статей
-[2026-08-28 05:51:53] NewsAPI (домен ukrinform.net): пришло 0 статей
-[2026-08-28 05:51:53] NewsAPI (домен pravda.com.ua): пришло 0 статей
-[2026-08-28 05:51:54] NewsAPI (домен euromaidanpress.com): пришло 0 статей
-[2026-08-28 05:51:54] NewsAPI (домен unn.ua): пришло 0 статей
-[2026-08-28 05:51:54] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-08-28 05:51:54] Заблокированный источник (biztoc.com): Analyst Says National Average Gas Price 
-[2026-08-28 05:51:54] Заблокированный источник (sports.yahoo.com): Czech duo Muchova and Mensik win US Open
-[2026-08-28 05:51:54] Заблокированный источник (biztoc.com): Ukraine under fire but European anti-mis
-[2026-08-28 05:51:54] Заблокированный источник (rt.com): Ukrainian basketball player quits US col
-[2026-08-28 05:51:54] Лента обновлений, пропускаю: Breaking News Live Updates: Russian miss
-[2026-08-28 05:51:54] Спорт, пропускаю: Elina Svitolina, Gael Monfils Share ‘Une
-[2026-08-28 05:51:54] Заблокированный источник (biztoc.com): Russian strikes target Kyiv, Zaporizhzhi
-[2026-08-28 05:51:54] Заблокированный источник (nypost.com): Zelensky cuddles adorable puppy given to
-[2026-08-28 05:51:54] Спорт, пропускаю: Champions League Draw: 36 Teams Set for 
-[2026-08-28 05:51:54] Заблокированный источник (dailymail.com): Fears Putin will use 'tactical nuclear w
-[2026-08-28 05:51:54] Нет фото: Russian flag causes spat between Islam M
-[2026-08-28 05:51:54] Нет фото: Ukrainian Warfare Gostomel Heroes Update
-[2026-08-28 05:51:54] Заблокированный источник (rt.com): AI erodes our humanity while elites prof
-[2026-08-28 05:51:54] Заблокированный источник (nypost.com): How Putin’s Black Sea food fight puts th
-[2026-08-28 05:51:54] Заблокированный источник (biztoc.com): Another Major Russian Refinery Up In Fla
-[2026-08-28 05:51:54] Пропускаю уже отправленную: Ukraine Butters Up Musk With Highest State Honor f
-[2026-08-28 05:51:54] Нет фото: Bayern's possible Champions League oppon
-[2026-08-28 05:51:54] Украинские новости: найдено 1 после фильтрации
-[2026-08-28 05:51:54] NewsAPI (Харьков, все издания): пришло 6 статей
-[2026-08-28 05:51:54] NewsAPI (Харьков, украинские издания): пришло 0 статей
-[2026-08-28 05:51:54] Харьков: новостей не найдено
-[2026-08-28 05:51:54] Обрабатываю: Meta's $18bn settlement may hasten reckoning for social medi | https://www.bbc.com/news/articles/clyq4gxwe7go
-[2026-08-28 05:51:55] Полный текст получен (3000 символов)
-[2026-08-28 05:51:55] Попытка 1 для: Meta's $18bn settlement may hasten recko
-[2026-08-28 05:51:56] Успешно, получено 1554 символов
-[2026-08-28 05:51:56] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
-[2026-08-28 05:52:09] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
-[2026-08-28 05:52:09] Попытка 1 для: FDA approves pancreatic cancer drug that
-[2026-08-28 05:52:11] Успешно, получено 1095 символов
 [2026-08-28 05:52:11] Обрабатываю: Iran warns of military ship ban in Hormuz under potential de | https://apnews.com/article/middle-east-iran-israel-west-bank-august-26
 [2026-08-28 05:52:11] Попытка 1 для: Iran warns of military ship ban in Hormu
 [2026-08-28 05:52:14] Успешно, получено 1097 символов
@@ -2998,3 +2951,50 @@
 [2026-09-01 07:01:23] Пауза 60 секунд...
 [2026-09-01 07:02:24] sent_urls.txt обрезан: 302 -> 300
 [2026-09-01 07:02:24] === Блок ai_morning завершён ===
+[2026-09-01 10:01:14] Загружено 300 уже отправленных новостей
+[2026-09-01 10:01:14] === Запуск блока: midday (тест: False) ===
+[2026-09-01 10:01:14] Заблокированный источник (nypost.com): 9/11 cancers skyrocket nearly 1,700% as 
+[2026-09-01 10:01:14] Лента обновлений, пропускаю: Stock futures fall after U.S. strikes Ir
+[2026-09-01 10:01:14] Заблокированный источник (finance.yahoo.com): Oil jumps more than 2% after US attack o
+[2026-09-01 10:01:14] Пропускаю уже отправленную: Iran attacks US bases in Jordan after US strikes L
+[2026-09-01 10:01:14] Неизвестный источник (espn.com): Novak Djokovic upset by Mariano Navone i
+[2026-09-01 10:01:14] Неизвестный источник (ktla.com): A hurricane could form near Southern Cal
+[2026-09-01 10:01:14] Неизвестный источник (wgal.com): FULL INTERVIEW | Lancaster County corone
+[2026-09-01 10:01:14] Неизвестный источник (cbssports.com): Scottie Scheffler passes Tiger Woods at 
+[2026-09-01 10:01:14] Неизвестный источник (techpowerup.com): GTA VI Extended Gameplay Preview Attract
+[2026-09-01 10:01:14] Неизвестный источник (wyff4.com): NCDPH: Hotel guests possibly exposed to 
+[2026-09-01 10:01:14] Неизвестный источник (forbes.com): Northern Lights Could Be Visible From Th
+[2026-09-01 10:01:14] Неизвестный источник (forbes.com): Apple iPhone 18 Pro Release Timeline: Ne
+[2026-09-01 10:01:14] Неизвестный источник (usatoday.com): USC responds to empty crowd in Week 0 wi
+[2026-09-01 10:01:14] Неизвестный источник (rollingstone.com): Olivia Rodrigo's Daisy Chain Fields Fest
+[2026-09-01 10:01:14] Неизвестный источник (space.com): Trump calls in to NASA press conference 
+[2026-09-01 10:01:14] Неизвестный источник (variety.com): Box Office: ‘The Dog Stars’ Bombs With $
+[2026-09-01 10:01:14] Неизвестный источник (newsnationnow.com): When Social Security recipients will get
+[2026-09-01 10:01:14] Неизвестный источник (israelhayom.com): Facing a 'Muslim NATO': Israel's biggest
+[2026-09-01 10:01:14] Неизвестный источник (fool.com): I've Covered Semiconductors for 5 Years.
+[2026-09-01 10:01:14] Старая новость (2026-08-30T02:45:00Z): Xbox CEO says next-gen Project Helix wil
+[2026-09-01 10:01:14] Старая новость (2026-08-29T15:00:00Z): When is the next lunar eclipse? - Space
+[2026-09-01 10:01:14] Старая новость (2026-08-29T11:09:02Z): Here's our best look yet at the inward-f
+[2026-09-01 10:01:14] Старая новость (2026-08-28T18:00:08Z): Scientists capture first molecular-level
+[2026-09-01 10:01:14] Мировые новости: найдено 9 после фильтрации
+[2026-09-01 10:01:15] Редакторский отбор: выбраны позиции [9, 3, 1, 4]
+[2026-09-01 10:01:15] Обрабатываю: Russian strikes on food warehouses pose threat of shortages  | https://www.washingtonpost.com/world/2026/08/30/russian-strikes-food-w
+[2026-09-01 10:01:27] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/08/30/russian-stri
+[2026-09-01 10:01:27] Попытка 1 для: Russian strikes on food warehouses pose 
+[2026-09-01 10:01:29] Успешно, получено 741 символов
+[2026-09-01 10:01:29] Обрабатываю: China's Xi builds diplomatic clout with multiple state visit | https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi
+[2026-09-01 10:01:30] Полный текст получен (3000 символов)
+[2026-09-01 10:01:30] Попытка 1 для: China's Xi builds diplomatic clout with 
+[2026-09-01 10:01:32] Успешно, получено 1615 символов
+[2026-09-01 10:01:32] Обрабатываю: The U.S. Venezuela oil deal won’t lower your gas prices. Her | https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal
+[2026-09-01 10:01:32] Полный текст получен (3000 символов)
+[2026-09-01 10:01:32] Попытка 1 для: The U.S. Venezuela oil deal won’t lower 
+[2026-09-01 10:01:46] Успешно, получено 1594 символов
+[2026-09-01 10:01:46] Обрабатываю: Bessent heads to the G20 to rally allies on Iran as tariffs  | https://apnews.com/article/bessent-treasury-g20-finance-ministers-iran
+[2026-09-01 10:01:46] Попытка 1 для: Bessent heads to the G20 to rally allies
+[2026-09-01 10:02:11] Успешно, получено 779 символов
+[2026-09-01 10:02:14] Пауза 60 секунд...
+[2026-09-01 10:03:14] Пауза 60 секунд...
+[2026-09-01 10:04:15] Пауза 60 секунд...
+[2026-09-01 10:05:15] sent_urls.txt обрезан: 304 -> 300
+[2026-09-01 10:05:15] === Блок midday завершён ===
