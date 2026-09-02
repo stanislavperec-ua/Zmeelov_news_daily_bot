@@ -1,138 +1,3 @@
-[2026-08-28 07:38:13] Полный текст получен (3000 символов)
-[2026-08-28 07:38:13] Попытка 1 для: Bill Gates issues stark warning about AI
-[2026-08-28 07:38:17] Успешно, получено 1939 символов
-[2026-08-28 07:38:17] Обрабатываю: OpenAI says it could have reacted sooner to prevent AI hack  | https://www.business-standard.com/technology/tech-news/openai-says-it-
-[2026-08-28 07:38:17] Полный текст получен (3000 символов)
-[2026-08-28 07:38:17] Попытка 1 для: OpenAI says it could have reacted sooner
-[2026-08-28 07:38:17] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:38:17] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:39:17] Попытка 2 для: OpenAI says it could have reacted sooner
-[2026-08-28 07:39:17] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:39:17] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:40:17] Попытка 3 для: OpenAI says it could have reacted sooner
-[2026-08-28 07:40:17] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:40:17] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:41:17] Анализ не удался, статья пропущена: OpenAI says it could have reacted sooner to prevent AI hack 
-[2026-08-28 07:41:17] Обрабатываю: Humans vs Robots: The jobs world may not be full of 'Franken | https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-led-jo
-[2026-08-28 07:41:18] Текст не совпадает с заголовком, беру описание: https://economictimes.indiatimes.com/jobs/hr-policies-trends
-[2026-08-28 07:41:18] Попытка 1 для: Humans vs Robots: The jobs world may not
-[2026-08-28 07:41:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:41:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:42:18] Попытка 2 для: Humans vs Robots: The jobs world may not
-[2026-08-28 07:42:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:42:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:43:18] Попытка 3 для: Humans vs Robots: The jobs world may not
-[2026-08-28 07:43:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:43:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:44:18] Анализ не удался, статья пропущена: Humans vs Robots: The jobs world may not be full of 'Franken
-[2026-08-28 07:44:18] Обрабатываю: Z.ai open-sources ‘Ox Alpha’ model as GLM-5.3-Flash | https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-a
-[2026-08-28 07:44:18] Полный текст получен (3000 символов)
-[2026-08-28 07:44:18] Попытка 1 для: Z.ai open-sources ‘Ox Alpha’ model as GL
-[2026-08-28 07:44:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:44:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:45:18] Попытка 2 для: Z.ai open-sources ‘Ox Alpha’ model as GL
-[2026-08-28 07:45:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:45:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:46:18] Попытка 3 для: Z.ai open-sources ‘Ox Alpha’ model as GL
-[2026-08-28 07:46:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:46:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:47:18] Анализ не удался, статья пропущена: Z.ai open-sources ‘Ox Alpha’ model as GLM-5.3-Flash
-[2026-08-28 07:47:18] Обрабатываю: Deep Cogito raises $43M to develop self-improving AI models | https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-
-[2026-08-28 07:47:18] Полный текст получен (3000 символов)
-[2026-08-28 07:47:18] Попытка 1 для: Deep Cogito raises $43M to develop self-
-[2026-08-28 07:47:18] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:47:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:48:18] Попытка 2 для: Deep Cogito raises $43M to develop self-
-[2026-08-28 07:48:18] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:48:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:49:18] Попытка 3 для: Deep Cogito raises $43M to develop self-
-[2026-08-28 07:49:18] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:49:18] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:50:18] Анализ не удался, статья пропущена: Deep Cogito raises $43M to develop self-improving AI models
-[2026-08-28 07:50:18] Обрабатываю: Exclusive: Mate Security launches Gamebooks to govern how AI | https://siliconangle.com/2026/08/26/exclusive-mate-security-launches-g
-[2026-08-28 07:50:19] Полный текст получен (3000 символов)
-[2026-08-28 07:50:19] Попытка 1 для: Exclusive: Mate Security launches Gamebo
-[2026-08-28 07:50:19] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:50:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:51:19] Попытка 2 для: Exclusive: Mate Security launches Gamebo
-[2026-08-28 07:51:19] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:51:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:52:19] Попытка 3 для: Exclusive: Mate Security launches Gamebo
-[2026-08-28 07:52:19] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:52:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:53:19] Анализ не удался, статья пропущена: Exclusive: Mate Security launches Gamebooks to govern how AI
-[2026-08-28 07:53:19] Обрабатываю: AMD, Supermicro and MinIO target the enterprise data pipelin | https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio
-[2026-08-28 07:53:19] Полный текст получен (3000 символов)
-[2026-08-28 07:53:19] Попытка 1 для: AMD, Supermicro and MinIO target the ent
-[2026-08-28 07:53:19] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:53:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:54:19] Попытка 2 для: AMD, Supermicro and MinIO target the ent
-[2026-08-28 07:54:19] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:54:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:55:19] Попытка 3 для: AMD, Supermicro and MinIO target the ent
-[2026-08-28 07:55:19] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service t
-[2026-08-28 07:55:19] Лимит запросов, ждём 60 секунд...
-[2026-08-28 07:56:19] Анализ не удался, статья пропущена: AMD, Supermicro and MinIO target the enterprise data pipelin
-[2026-08-28 07:56:23] === Блок ai_morning завершён ===
-[2026-08-28 10:01:12] Загружено 300 уже отправленных новостей
-[2026-08-28 10:01:12] === Запуск блока: midday (тест: False) ===
-[2026-08-28 10:01:12] Пропускаю уже отправленную: ‘We will retaliate like an earthquake:’ How Iran c
-[2026-08-28 10:01:12] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
-[2026-08-28 10:01:12] Неизвестный источник (bleacherreport.com): Kinley Rasmus' Box Score Stats, Highligh
-[2026-08-28 10:01:12] Неизвестный источник (mmafighting.com): Bella Mir releases statement following d
-[2026-08-28 10:01:12] Пропускаю уже отправленную: CIA Director John Ratcliffe warned Russia not to a
-[2026-08-28 10:01:12] Неизвестный источник (pbs.org): News Wrap: States sue USPS, challenging 
-[2026-08-28 10:01:12] Неизвестный источник (inquirer.com): A newborn baby was one of Pa.’s two meas
-[2026-08-28 10:01:12] Неизвестный источник (espn.com): Signs calling out Deshaun Watson's past 
-[2026-08-28 10:01:12] Неизвестный источник (space.com): From spy satellite to space telescope: T
-[2026-08-28 10:01:12] Неизвестный источник (mashable.com): 'GTA VI' Netflix extended look: 3 things
-[2026-08-28 10:01:12] Неизвестный источник (phys.org): Reconstructed Jurassic insect calls evok
-[2026-08-28 10:01:12] Неизвестный источник (androidheadlines.com): Exclusive: Samsung Galaxy S27 Official C
-[2026-08-28 10:01:12] Старая новость (2026-08-26T08:47:27Z): Despite positive early reactions, Ridley
-[2026-08-28 10:01:12] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
-[2026-08-28 10:01:12] Мировые новости: найдено 14 после фильтрации
-[2026-08-28 10:01:14] Редакторский отбор: выбраны позиции [11, 10, 6, 3, 7, 9, 1]
-[2026-08-28 10:01:14] Обрабатываю: Israel-Hamas truce failure ‘point of no return’, envoy warns | https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-po
-[2026-08-28 10:01:14] Полный текст получен (3000 символов)
-[2026-08-28 10:01:14] Попытка 1 для: Israel-Hamas truce failure ‘point of no 
-[2026-08-28 10:01:17] Успешно, получено 1776 символов
-[2026-08-28 10:01:17] Обрабатываю: Exclusive: Swedish EU letter reopens debate over frozen Russ | https://kyivindependent.com/exclusive-swedish-eu-letter-reopens-russia
-[2026-08-28 10:01:18] Полный текст получен (3000 символов)
-[2026-08-28 10:01:18] Попытка 1 для: Exclusive: Swedish EU letter reopens deb
-[2026-08-28 10:01:42] Успешно, получено 1793 символов
-[2026-08-28 10:01:42] Обрабатываю: Meta's $18bn settlement may hasten reckoning for social medi | https://www.bbc.com/news/articles/clyq4gxwe7go
-[2026-08-28 10:01:42] Полный текст получен (3000 символов)
-[2026-08-28 10:01:42] Попытка 1 для: Meta's $18bn settlement may hasten recko
-[2026-08-28 10:02:11] Успешно, получено 1452 символов
-[2026-08-28 10:02:11] Обрабатываю: FDA approves pancreatic cancer drug that extends patients’ l | https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark
-[2026-08-28 10:02:24] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/08/26/fda-approve
-[2026-08-28 10:02:24] Попытка 1 для: FDA approves pancreatic cancer drug that
-[2026-08-28 10:02:25] Успешно, получено 868 символов
-[2026-08-28 10:02:29] Пауза 60 секунд...
-[2026-08-28 10:03:29] Пауза 60 секунд...
-[2026-08-28 10:04:30] Пауза 60 секунд...
-[2026-08-28 10:05:31] sent_urls.txt обрезан: 304 -> 300
-[2026-08-28 10:05:31] === Блок midday завершён ===
-[2026-08-28 15:01:11] Загружено 300 уже отправленных новостей
-[2026-08-28 15:01:11] === Запуск блока: evening (тест: False) ===
-[2026-08-28 15:01:12] Лента обновлений, пропускаю: Lindsay Clancy trial hears closing argum
-[2026-08-28 15:01:12] Неизвестный источник (usatoday.com): Daughter of ex-MLB player breaking Littl
-[2026-08-28 15:01:12] Неизвестный источник (nbcsports.com): NFL finally throws in the towel on the P
-[2026-08-28 15:01:12] Неизвестный источник (foxnews.com): Missouri deputy AG, missing 6 days after
-[2026-08-28 15:01:12] Неизвестный источник (macrumors.com): Apple Event Logo Hints at Two iPhone 18 
-[2026-08-28 15:01:12] Неизвестный источник (foxnews.com): Oil prices remain low; Strait of Hormuz 
-[2026-08-28 15:01:12] Неизвестный источник (goerie.com): RFK Jr. questions Pa. measles deaths rep
-[2026-08-28 15:01:12] Лента обновлений, пропускаю: Stock futures rise as Nvidia shares gain
-[2026-08-28 15:01:12] Неизвестный источник (variety.com): Harry Styles Pays Tribute to Dolly Parto
-[2026-08-28 15:01:12] Неизвестный источник (androidpolice.com): Galaxy S27 Ultra leak reveals the 7,000m
-[2026-08-28 15:01:12] Неизвестный источник (hollywoodreporter.com): Tim Curry Dead: Susan Sarandon, Carol Bu
-[2026-08-28 15:01:12] Неизвестный источник (space.com): From spy satellite to space telescope: T
-[2026-08-28 15:01:12] Неизвестный источник (sciencealert.com): Forget Acid Rain: Electrically Charged R
-[2026-08-28 15:01:12] Старая новость (2026-08-26T11:05:25Z): Norah O'Donnell: Secrets of the gut micr
-[2026-08-28 15:01:12] Старая новость (2026-08-25T23:35:00Z): Owner says business dips at Ottumwa Pizz
-[2026-08-28 15:01:12] Мировые новости: найдено 10 после фильтрации
-[2026-08-28 15:01:15] RSS Ukrinform: 30 записей
-[2026-08-28 15:01:16] RSS Ukrinform: 30 записей
 [2026-08-28 15:01:16] RSS Euromaidan Press: 29 записей
 [2026-08-28 15:01:16] Старая новость (2026-08-26T15:00:44Z): What Spain’s response to Ukraine reveals
 [2026-08-28 15:01:16] Старая новость (2026-08-26T14:37:06Z): Ukraine asks US orchestra to drop Russia
@@ -2998,3 +2863,138 @@
 [2026-09-02 15:06:06] Пауза 60 секунд...
 [2026-09-02 15:07:06] sent_urls.txt обрезан: 306 -> 300
 [2026-09-02 15:07:06] === Блок evening завершён ===
+[2026-09-02 17:01:13] Загружено 300 уже отправленных новостей
+[2026-09-02 17:01:13] === Запуск блока: ai_evening (тест: False) ===
+[2026-09-02 17:01:13] Неизвестный источник (nzherald.co.nz): NZ reporting season: Companies get on wi
+[2026-09-02 17:01:13] Неизвестный источник (pymnts.com): ChatGPT Facing Dual Regulatory Regimes U
+[2026-09-02 17:01:13] Неизвестный источник (prospect.org): California Wildfire Package Preserves Su
+[2026-09-02 17:01:13] Неизвестный источник (bleedingcool.com): Crowbound #1 Preview: Factory Reset for 
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): S&P Global Completes Acquisition of data
+[2026-09-02 17:01:13] Неизвестный источник (usatoday.com): Today in sports history, October 1
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): S&P Global Completes Divestiture of Upst
+[2026-09-02 17:01:13] Неизвестный источник (usatoday.com): Today in sports history, October 3
+[2026-09-02 17:01:13] Неизвестный источник (financialpost.com): YouTube inks Amazon partnership to boost
+[2026-09-02 17:01:13] Неизвестный источник (usatoday.com): Today in sports history, October 2
+[2026-09-02 17:01:13] Неизвестный источник (usatoday.com): Today in sports history, October 1
+[2026-09-02 17:01:13] Нет фото: 12 Key Takeaways on AI in Home Design an
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): Phonely launches Alma, a voice AI model 
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): Phonely launches Alma, a voice AI model 
+[2026-09-02 17:01:13] Неизвестный источник (insurancejournal.com): Markets/Coverages: Coalition Launches Cy
+[2026-09-02 17:01:13] Нет фото: scdiag added to PyPI
+[2026-09-02 17:01:13] Неизвестный источник (financialpost.com): Dominic Barton named chair of Invest in 
+[2026-09-02 17:01:13] Неизвестный источник (timesofindia.indiatimes.com): In 1996, USGS released an 8-day Glen Can
+[2026-09-02 17:01:13] Нет фото: Criminal IP Appoints Reconn as Distribut
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): Aranya raises $11M to turn bare-metal se
+[2026-09-02 17:01:13] Неизвестный источник (journals.plos.org): The TRAF6-Akt axis is required for effic
+[2026-09-02 17:01:13] Неизвестный источник (journals.plos.org): From sequences to strategies: Early dete
+[2026-09-02 17:01:13] Неизвестный источник (journals.plos.org): Confidence-guided integration of otoscop
+[2026-09-02 17:01:13] Неизвестный источник (economictimes.indiatimes.com): UpGrad completes Unacademy acquisition; 
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): ODG by MCG Expert Joins Workers' Comp Ex
+[2026-09-02 17:01:13] Неизвестный источник (english.aawsat.com): Former Gang Member Found Guilty of Murde
+[2026-09-02 17:01:13] Неизвестный источник (ibtimes.co.uk): Quick Facts About Apple's New CEO John T
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Why China will not comply with US sanctions on Ira
+[2026-09-02 17:01:13] Неизвестный источник (federalreserve.gov): Barr, Unlocking Opportunities for Worker
+[2026-09-02 17:01:13] Нет фото: Kulicke & Soffa Advances AI Infrastructu
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): CBTS launches Forge Agents to build cust
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): SciFin launches with $44M to help revenu
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): After raising $10M in funding, Visko deb
+[2026-09-02 17:01:13] Неизвестный источник (rollingstone.com): The 50 Most Anticipated Movies of Fall 2
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): PayToMe.co Accelerates Global Expansion 
+[2026-09-02 17:01:13] Неизвестный источник (livemint.com): Meesho wants its small sellers to gradua
+[2026-09-02 17:01:13] Неизвестный источник (newsday.com): Fall Movie Guide: Here are the films com
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Many space missions are searching for life beyond 
+[2026-09-02 17:01:13] Нет фото: Beyond GenAI: Amygdala Launches NeuroPol
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): Orchestra launches management solution f
+[2026-09-02 17:01:13] Неизвестный источник (financialpost.com): Global bond selloff sends yields to the 
+[2026-09-02 17:01:13] Неизвестный источник (medicaldevice-network.com): How better tail spend data can strengthe
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): GI Partners Acquires a Majority Interest
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): Chobani Begins Its Next Chapter of Growt
+[2026-09-02 17:01:13] Неизвестный источник (powermag.com): Make Every Data Center a Power Hub
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): Filigran adds attack chaining to OpenAEV
+[2026-09-02 17:01:13] Неизвестный источник (arxiv.org): Active Visual Semantics: A large-scale M
+[2026-09-02 17:01:13] Неизвестный источник (wallstreet-online.de): HEALWELL to Deploy AI-Powered SMART Sear
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): ICAC Commissioner in Vienna to meet new 
+[2026-09-02 17:01:13] Неизвестный источник (winnipegfreepress.com): Aaron Sorkin hits refresh on Facebook in
+[2026-09-02 17:01:13] Неизвестный источник (rte.ie): Central Bank to spend €600,000 on digita
+[2026-09-02 17:01:13] Неизвестный источник (siliconangle.com): DataAgent raises $10M to let AI fix prod
+[2026-09-02 17:01:13] Пресс-релиз, пропускаю: ZEDEDA and VAS Limited Sign Distribution
+[2026-09-02 17:01:13] Неизвестный источник (rte.ie): Why schools and universities are major t
+[2026-09-02 17:01:13] Неизвестный источник (warontherocks.com): The Educated Operator: Rethinking Lethal
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Burning Man showed Sam Altman what the future coul
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): AI is a Mirror, Not a Replacement: Bioni
+[2026-09-02 17:01:13] AI новости: 1 с доверенных источников
+[2026-09-02 17:01:13] Доверенных AI-источников мало, добираю из остальных
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: NZ reporting season: Companies get on with it desp
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: California Wildfire Package Preserves Survivors’ L
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Crowbound #1 Preview: Factory Reset for Humanity's
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): S&P Global Completes Acquisition of data
+[2026-09-02 17:01:13] Спорт, пропускаю: Today in sports history, October 1
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): S&P Global Completes Divestiture of Upst
+[2026-09-02 17:01:13] Спорт, пропускаю: Today in sports history, October 3
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: YouTube inks Amazon partnership to boost online sh
+[2026-09-02 17:01:13] Спорт, пропускаю: Today in sports history, October 2
+[2026-09-02 17:01:13] Спорт, пропускаю: Today in sports history, October 1
+[2026-09-02 17:01:13] Нет фото: 12 Key Takeaways on AI in Home Design an
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Markets/Coverages: Coalition Launches Cyber Insura
+[2026-09-02 17:01:13] Нет фото: scdiag added to PyPI
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Dominic Barton named chair of Invest in Canada aft
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: In 1996, USGS released an 8-day Glen Canyon flood 
+[2026-09-02 17:01:13] Нет фото: Criminal IP Appoints Reconn as Distribut
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: The TRAF6-Akt axis is required for efficient lytic
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: From sequences to strategies: Early detection of n
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Confidence-guided integration of otoscopy videos a
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: UpGrad completes Unacademy acquisition; Ultrahuman
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): ODG by MCG Expert Joins Workers' Comp Ex
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Former Gang Member Found Guilty of Murdering Tupac
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Quick Facts About Apple's New CEO John Ternus: Age
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Why China will not comply with US sanctions on Ira
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Barr, Unlocking Opportunities for Workers and Entr
+[2026-09-02 17:01:13] Нет фото: Kulicke & Soffa Advances AI Infrastructu
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: SciFin launches with $44M to help revenue teams cl
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: After raising $10M in funding, Visko debuts Orbis,
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: The 50 Most Anticipated Movies of Fall 2026
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): PayToMe.co Accelerates Global Expansion 
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Meesho wants its small sellers to graduate from me
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Fall Movie Guide: Here are the films coming out th
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Many space missions are searching for life beyond 
+[2026-09-02 17:01:13] Нет фото: Beyond GenAI: Amygdala Launches NeuroPol
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: How better tail spend data can strengthen medical 
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): GI Partners Acquires a Majority Interest
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): Chobani Begins Its Next Chapter of Growt
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Make Every Data Center a Power Hub
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Filigran adds attack chaining to OpenAEV for autom
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Active Visual Semantics: A large-scale MEG and eye
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: HEALWELL to Deploy AI-Powered SMART Search and SMA
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): ICAC Commissioner in Vienna to meet new 
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Aaron Sorkin hits refresh on Facebook in ‘The Soci
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Central Bank to spend €600,000 on digital coaching
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: DataAgent raises $10M to let AI fix production fau
+[2026-09-02 17:01:13] Пресс-релиз, пропускаю: ZEDEDA and VAS Limited Sign Distribution
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Why schools and universities are major targets for
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: The Educated Operator: Rethinking Lethality in Spe
+[2026-09-02 17:01:13] Не про ИИ, пропускаю: Burning Man showed Sam Altman what the future coul
+[2026-09-02 17:01:13] Заблокированный источник (prnewswire.com): AI is a Mirror, Not a Replacement: Bioni
+[2026-09-02 17:01:13] Внутренний дубль: Phonely launches Alma, a voice AI model trained on
+[2026-09-02 17:01:13] AI новости: 6 кандидатов после фильтрации
+[2026-09-02 17:01:15] Редакторский отбор: выбраны позиции [2, 1, 3, 4]
+[2026-09-02 17:01:15] Обрабатываю: ChatGPT Facing Dual Regulatory Regimes Under New EU Designat | https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-facin
+[2026-09-02 17:01:15] Полный текст получен (3000 символов)
+[2026-09-02 17:01:15] Попытка 1 для: ChatGPT Facing Dual Regulatory Regimes U
+[2026-09-02 17:01:19] Успешно, получено 1674 символов
+[2026-09-02 17:01:19] Обрабатываю: OneRail launches AI platform with Nvidia for retailers to ma | https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.ht
+[2026-09-02 17:01:20] Полный текст получен (3000 символов)
+[2026-09-02 17:01:20] Попытка 1 для: OneRail launches AI platform with Nvidia
+[2026-09-02 17:01:39] Успешно, получено 1904 символов
+[2026-09-02 17:01:39] Обрабатываю: Phonely launches Alma, a voice AI model trained on over 10 m | https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-m
+[2026-09-02 17:01:40] Полный текст получен (3000 символов)
+[2026-09-02 17:01:40] Попытка 1 для: Phonely launches Alma, a voice AI model 
+[2026-09-02 17:02:10] Успешно, получено 1755 символов
+[2026-09-02 17:02:10] Обрабатываю: Aranya raises $11M to turn bare-metal servers into AI cluste | https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-met
+[2026-09-02 17:02:11] Полный текст получен (3000 символов)
+[2026-09-02 17:02:11] Попытка 1 для: Aranya raises $11M to turn bare-metal se
+[2026-09-02 17:02:42] Успешно, получено 2146 символов
+[2026-09-02 17:02:44] Пауза 60 секунд...
+[2026-09-02 17:03:45] Пауза 60 секунд...
+[2026-09-02 17:04:45] Пауза 60 секунд...
+[2026-09-02 17:05:46] sent_urls.txt обрезан: 304 -> 300
+[2026-09-02 17:05:46] === Блок ai_evening завершён ===
