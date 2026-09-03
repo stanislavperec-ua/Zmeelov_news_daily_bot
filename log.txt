@@ -1,41 +1,3 @@
-[2026-08-28 17:49:10] Неизвестный источник (cryptobriefing.com): Meta disrupts Iran-linked network using 
-[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): GLOBO Language Solutions Shortlisted for
-[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Runable raises $21M to realize small bus
-[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Toronto Dominion Bank Q3 Earnings Call H
-[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): Royal Bank Of Canada Q3 Earnings Call Hi
-[2026-08-28 17:49:10] Не про ИИ, пропускаю: How AI-armed script kiddies will soon wield the po
-[2026-08-28 17:49:10] Нет фото: Why HPSC Is a Big Deal for Space Explora
-[2026-08-28 17:49:10] Неизвестный источник (shows.acast.com): Rational Security: The “All Takin’ and N
-[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): wan AIChef ultra Launches on Indiegogo: 
-[2026-08-28 17:49:10] Неизвестный источник (pymnts.com): FinTechs Bet on AI and Lending to Drive 
-[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Vulnerability-free container image start
-[2026-08-28 17:49:10] Неизвестный источник (news.mit.edu): New type of attack can slip past the def
-[2026-08-28 17:49:10] Неизвестный источник (pymnts.com): Community Banks Embrace Pooled Infrastru
-[2026-08-28 17:49:10] Неизвестный источник (siliconangle.com): Harness tackles influx of agent-delivere
-[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Raiven Expands Board with Building Trade
-[2026-08-28 17:49:10] Неизвестный источник (onefootball.com): Travel info for the Bundesliga opener ag
-[2026-08-28 17:49:10] Неизвестный источник (financialpost.com): 6th Monaco Smart & Sustainable Marina Re
-[2026-08-28 17:49:10] Неизвестный источник (business-standard.com): Sebi chairman says regulator 'close' to 
-[2026-08-28 17:49:10] Нет фото: AIxC Launches RoboShare & Co. North Amer
-[2026-08-28 17:49:10] Неизвестный источник (thestreet.com): The Retirement Savings Crisis Isn’t What
-[2026-08-28 17:49:10] Неизвестный источник (thehindubusinessline.com): Twelve years of Jan Dhan: From financial
-[2026-08-28 17:49:10] Неизвестный источник (ewtnnews.com): Cardinal Bo urges lawmakers to reject th
-[2026-08-28 17:49:10] Неизвестный источник (jpost.com): After 500,000 tutoring lessons in Israel
-[2026-08-28 17:49:10] Заблокированный источник (marketbeat.com): IES Sees Data Center Boom, Plans $650M D
-[2026-08-28 17:49:10] Неизвестный источник (telecomtv.com): Singtel lays out its AI progress, ambiti
-[2026-08-28 17:49:10] Нет фото: WATT Fuel Cell Assessed Awardable for De
-[2026-08-28 17:49:10] Неизвестный источник (screenrant.com): 2026 Fall Movie Preview: An Exclusive Lo
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): In silico framework for designing and va
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): STRIPAK-associated greenbeard proteins D
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Epidemiology and mortality rate of thyro
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Noisy models of the ventral stream revea
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Beat- and Side-family cell-surface molec
-[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): SMBC Asia Rising Fund and Singtel Innov8
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): MeCoLog: Meta-contrastive learning for c
-[2026-08-28 17:49:10] Неизвестный источник (journals.plos.org): Sustainable gypsum binders reinforced wi
-[2026-08-28 17:49:10] Неизвестный источник (thehackernews.com): Amazon Kiro Prompt Injection Can Exfiltr
-[2026-08-28 17:49:10] Неизвестный источник (medicaldaily.com): Dr. Elsa R. Flores on Why Cancer Treatme
-[2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Positive Technologies positioned as a Le
 [2026-08-28 17:49:10] Заблокированный источник (prnewswire.com): Scheidt & Bachmann USA Selected by NEORi
 [2026-08-28 17:49:10] Пресс-релиз, пропускаю: Uniphore and Tech Mahindra Partner to De
 [2026-08-28 17:49:10] Нет фото: BABA ALERT: Alibaba Group Holding Limite
@@ -2998,3 +2960,41 @@
 [2026-09-03 07:04:20] Пауза 60 секунд...
 [2026-09-03 07:05:21] sent_urls.txt обрезан: 304 -> 300
 [2026-09-03 07:05:21] === Блок ai_morning завершён ===
+[2026-09-03 10:01:17] Загружено 300 уже отправленных новостей
+[2026-09-03 10:01:17] === Запуск блока: midday (тест: False) ===
+[2026-09-03 10:01:17] Неизвестный источник (tmz.com): Michael Bay Details Recent Conversation 
+[2026-09-03 10:01:17] Неизвестный источник (cbssports.com): Fantasy football 2026 rankings, draft pr
+[2026-09-03 10:01:17] Неизвестный источник (hollywoodreporter.com): Every ‘Spider-Man’ Movie Villain, Ranked
+[2026-09-03 10:01:17] Неизвестный источник (foxnews.com): Haitian college student in Ohio dies by 
+[2026-09-03 10:01:17] Лента обновлений, пропускаю: Stock futures are little changed after W
+[2026-09-03 10:01:17] Неизвестный источник (mlbtraderumors.com): Arte Moreno Agrees To Sell Angels To Ram
+[2026-09-03 10:01:17] Неизвестный источник (mmafighting.com): DWCS Season 10, Week 4 results: 5 UFC co
+[2026-09-03 10:01:17] Неизвестный источник (macrumors.com): Mac App Store Apps Can Now Drop Support 
+[2026-09-03 10:01:17] Неизвестный источник (charlotteobserver.com): North Carolina teenager infected with br
+[2026-09-03 10:01:17] Неизвестный источник (profootballnetwork.com): ‘Needs to Be Fired’ — LSU National Champ
+[2026-09-03 10:01:17] Старая новость (2026-09-01T04:06:44Z): The Roman Space Telescope: The power of 
+[2026-09-03 10:01:17] Старая новость (2026-09-01T04:05:00Z): Watch 2 astronauts take 6th-ever all-fem
+[2026-09-03 10:01:17] Старая новость (2026-08-31T17:00:00Z): Column | I’m an oncologist. Every man sh
+[2026-09-03 10:01:17] Старая новость (2026-08-31T14:31:55Z): Congo authorities report more than 6,000
+[2026-09-03 10:01:17] Мировые новости: найдено 15 после фильтрации
+[2026-09-03 10:01:18] Редакторский отбор: выбраны позиции [9, 5, 1, 4]
+[2026-09-03 10:01:18] Обрабатываю: Iran retaliates after US strikes kill four at wedding party, | https://www.bbc.com/news/articles/cj06q4ynpmjo
+[2026-09-03 10:01:18] Полный текст получен (3000 символов)
+[2026-09-03 10:01:18] Попытка 1 для: Iran retaliates after US strikes kill fo
+[2026-09-03 10:01:21] Успешно, получено 1676 символов
+[2026-09-03 10:01:21] Обрабатываю: Germany blames Russia for drone attack on airport, announces | https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-
+[2026-09-03 10:01:33] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/09/01/germany-blam
+[2026-09-03 10:01:33] Попытка 1 для: Germany blames Russia for drone attack o
+[2026-09-03 10:01:35] Успешно, получено 1013 символов
+[2026-09-03 10:01:35] Обрабатываю: Zelenskyy says airlines should avoid Russian airspace as Ukr | https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-dron
+[2026-09-03 10:01:36] Полный текст получен (2192 символов)
+[2026-09-03 10:01:36] Попытка 1 для: Zelenskyy says airlines should avoid Rus
+[2026-09-03 10:01:38] Успешно, получено 1728 символов
+[2026-09-03 10:01:38] Обрабатываю: Some missing tourists make contact as Nepal flood death toll | https://apnews.com/article/nepal-china-flash-floods-4dadbf49cf21d37af2
+[2026-09-03 10:01:38] Попытка 1 для: Some missing tourists make contact as Ne
+[2026-09-03 10:01:40] Успешно, получено 808 символов
+[2026-09-03 10:01:43] Пауза 60 секунд...
+[2026-09-03 10:02:43] Пауза 60 секунд...
+[2026-09-03 10:03:44] Пауза 60 секунд...
+[2026-09-03 10:04:44] sent_urls.txt обрезан: 304 -> 300
+[2026-09-03 10:04:44] === Блок midday завершён ===
