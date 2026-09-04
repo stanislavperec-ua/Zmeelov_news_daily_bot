@@ -1,113 +1,3 @@
-[2026-08-28 17:57:01] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197978, Requested 3648. Please try again in 11m42.432s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_excee
-[2026-08-28 17:57:01] Лимит запросов, ждём 60 секунд...
-[2026-08-28 17:58:01] Анализ не удался, статья пропущена: Socure raises $156M at $5.2B valuation and acquires AI start
-[2026-08-28 17:58:01] Обрабатываю: Sonar launches Hunter Agent to find flaws code scanners can’ | https://siliconangle.com/2026/08/27/sonar-launches-hunter-agent-to-fin
-[2026-08-28 17:58:01] Полный текст получен (3000 символов)
-[2026-08-28 17:58:01] Попытка 1 для: Sonar launches Hunter Agent to find flaw
-[2026-08-28 17:58:01] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197840, Requested 3606. Please try again in 10m24.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_excee
-[2026-08-28 17:58:01] Лимит запросов, ждём 60 секунд...
-[2026-08-28 17:59:01] Попытка 2 для: Sonar launches Hunter Agent to find flaw
-[2026-08-28 17:59:01] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197699, Requested 3606. Please try again in 9m23.76s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceede
-[2026-08-28 17:59:01] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:00:01] Попытка 3 для: Sonar launches Hunter Agent to find flaw
-[2026-08-28 18:00:02] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197559, Requested 3606. Please try again in 8m23.28s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceede
-[2026-08-28 18:00:02] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:01:02] Анализ не удался, статья пропущена: Sonar launches Hunter Agent to find flaws code scanners can’
-[2026-08-28 18:01:02] Обрабатываю: Plaud unveils wearable earbuds with built-in agentic AI inte | https://siliconangle.com/2026/08/27/plaud-unveils-wearable-earbuds-wit
-[2026-08-28 18:01:02] Полный текст получен (3000 символов)
-[2026-08-28 18:01:02] Попытка 1 для: Plaud unveils wearable earbuds with buil
-[2026-08-28 18:01:02] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197419, Requested 3638. Please try again in 7m36.623999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_
-[2026-08-28 18:01:02] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:02:02] Попытка 2 для: Plaud unveils wearable earbuds with buil
-[2026-08-28 18:02:02] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197280, Requested 3638. Please try again in 6m36.576s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceed
-[2026-08-28 18:02:02] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:03:02] Попытка 3 для: Plaud unveils wearable earbuds with buil
-[2026-08-28 18:03:02] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197143, Requested 3638. Please try again in 5m37.392s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceed
-[2026-08-28 18:03:02] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:04:02] Анализ не удался, статья пропущена: Plaud unveils wearable earbuds with built-in agentic AI inte
-[2026-08-28 18:04:02] Обрабатываю: HP has a solution to expensive AI tokens: Buy a more expensi | https://www.theregister.com/personal-tech/2026/08/27/hp-has-a-solution
-[2026-08-28 18:04:03] Полный текст получен (3000 символов)
-[2026-08-28 18:04:03] Попытка 1 для: HP has a solution to expensive AI tokens
-[2026-08-28 18:04:03] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197000, Requested 3571. Please try again in 4m6.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceede
-[2026-08-28 18:04:03] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:05:03] Попытка 2 для: HP has a solution to expensive AI tokens
-[2026-08-28 18:05:03] Ошибка (попытка 2): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 196863, Requested 3571. Please try again in 3m7.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceede
-[2026-08-28 18:05:03] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:06:03] Попытка 3 для: HP has a solution to expensive AI tokens
-[2026-08-28 18:06:03] Ошибка (попытка 3): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 196722, Requested 3571. Please try again in 2m6.576s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceede
-[2026-08-28 18:06:03] Лимит запросов, ждём 60 секунд...
-[2026-08-28 18:07:03] Анализ не удался, статья пропущена: HP has a solution to expensive AI tokens: Buy a more expensi
-[2026-08-28 18:07:03] ⚠️ Блок <b>AI вечер</b> (28.08.2026): ни одна новость не обработалась, проверь Groq!
-[2026-08-28 18:07:04] === Блок ai_evening завершён ===
-[2026-08-29 05:01:12] Загружено 300 уже отправленных новостей
-[2026-08-29 05:01:12] === Запуск блока: morning (тест: False) ===
-[2026-08-29 05:01:12] Неизвестный источник (space.com): Partial lunar eclipse Aug. 27-28 live up
-[2026-08-29 05:01:12] Неизвестный источник (bleacherreport.com): Dillon Gabriel's Box Score Stats & Highl
-[2026-08-29 05:01:12] Неизвестный источник (ksl.com): U. researchers find possible water sourc
-[2026-08-29 05:01:12] Неизвестный источник (hollywoodreporter.com): 'The Whisper Man' Review: Robert De Niro
-[2026-08-29 05:01:12] Неизвестный источник (fox11online.com): Packers' Josh Jacobs charged with misdem
-[2026-08-29 05:01:12] Лента обновлений, пропускаю: Lindsay Clancy murder trial jury begins 
-[2026-08-29 05:01:12] Неизвестный источник (pbs.org): 3 Secret Service officials placed on adm
-[2026-08-29 05:01:12] Неизвестный источник (pbs.org): AP exclusive: U.S. Patriot missile stock
-[2026-08-29 05:01:12] Неизвестный источник (barrons.com): Marvell Stock Sinks as Big Expectations 
-[2026-08-29 05:01:12] Неизвестный источник (espn.com): Good Good Golf out as PGA Tour event tit
-[2026-08-29 05:01:12] Неизвестный источник (orlandosentinel.com): Grand jury blasts DeSantis staff, Hope F
-[2026-08-29 05:01:12] Неизвестный источник (9to5google.com): Google announces ‘Expert Intelligence’ t
-[2026-08-29 05:01:12] Неизвестный источник (247sports.com): College football's top recruiting games 
-[2026-08-29 05:01:12] Неизвестный источник (wral.com): New telescope could rewrite what we know
-[2026-08-29 05:01:12] Неизвестный источник (foxbusiness.com): Parent activist says Meta settlement is 
-[2026-08-29 05:01:12] Неизвестный источник (weartv.com): Patronis: Jelly Roll 'not welcomed' to F
-[2026-08-29 05:01:12] Неизвестный источник (macrumors.com): Apple Event Logo Hints at Two iPhone 18 
-[2026-08-29 05:01:12] Неизвестный источник (esa.int): MTG-I2 ready for launch on Ariane 6 - Eu
-[2026-08-29 05:01:12] Мировые новости: найдено 10 после фильтрации
-[2026-08-29 05:01:14] Редакторский отбор: выбраны позиции [3, 2, 8, 1]
-[2026-08-29 05:01:15] RSS Ukrinform: 30 записей
-[2026-08-29 05:01:15] Пропускаю уже отправленную: Budanov on prospects for peace: Ending war now sim
-[2026-08-29 05:01:15] Пропускаю уже отправленную: Russian attacks across Ukraine leave 16 killed, 50
-[2026-08-29 05:01:16] RSS Ukrinform: 30 записей
-[2026-08-29 05:01:16] Пропускаю уже отправленную: Budanov on prospects for peace: Ending war now sim
-[2026-08-29 05:01:16] Пропускаю уже отправленную: Russian attacks across Ukraine leave 16 killed, 50
-[2026-08-29 05:01:16] RSS Euromaidan Press: 29 записей
-[2026-08-29 05:01:17] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-08-29 05:01:17] Заблокированный источник (rt.com): Lavrov reveals what brought CIA chief an
-[2026-08-29 05:01:17] Заблокированный источник (yahoo.com): US, South Korea and Japan to hold trilat
-[2026-08-29 05:01:17] Нет фото: What was the CIA doing in Moscow?
-[2026-08-29 05:01:17] Заблокированный источник (rt.com): Loss of cheap energy harmed EU economy –
-[2026-08-29 05:01:17] Нет фото: Narrow majority of Icelanders back EU me
-[2026-08-29 05:01:17] Заблокированный источник (dailymail.com): Putin's new nuclear sub revealed: It's a
-[2026-08-29 05:01:17] Заблокированный источник (biztoc.com): Explosions reported in Kyiv
-[2026-08-29 05:01:17] Заблокированный источник (biztoc.com): Russia-Ukraine war enters deadlier phase
-[2026-08-29 05:01:17] Заблокированный источник (biztoc.com): Trump Says Putin Will Not Be Attacking N
-[2026-08-29 05:01:17] Заблокированный источник (dailymail.com): ALISON BOSHOFF: Nice work if you can get
-[2026-08-29 05:01:17] Спорт, пропускаю: Stellato-Dudek, who won figure skating w
-[2026-08-29 05:01:17] Заблокированный источник (rt.com): Gotcha: How the BBC falsely presented a 
-[2026-08-29 05:01:17] Спорт, пропускаю: Champions League draw: Troy Parrott set 
-[2026-08-29 05:01:17] Внутренний дубль: Russian drones attack Kharkiv, strikes reported in
-[2026-08-29 05:01:17] Внутренний дубль: Russians attack Kyiv region for second day in row,
-[2026-08-29 05:01:17] Внутренний дубль: Russians attack food warehouses in Zaporizhzhia
-[2026-08-29 05:01:17] Внутренний дубль: Russians strike gas station in Kharkiv, killing on
-[2026-08-29 05:01:17] Внутренний дубль: Russian drone strikes three-story administrative b
-[2026-08-29 05:01:17] Внутренний дубль: Zelensky holds command meeting: goal is 1,000 dron
-[2026-08-29 05:01:17] Внутренний дубль: Russians strike supermarket in Pavlohrad, injuring
-[2026-08-29 05:01:17] Внутренний дубль: Russian forces attack Zaporizhzhia for second time
-[2026-08-29 05:01:17] Внутренний дубль: Ukraine needs to mobilize at least 30,000 people e
-[2026-08-29 05:01:17] Внутренний дубль: FOZZY hypermarket damaged in Russian attack in Vys
-[2026-08-29 05:01:17] Внутренний дубль: Russian forces attack Pavlohrad, two people injure
-[2026-08-29 05:01:17] Внутренний дубль: Russian attack destroys Yasno energy company wareh
-[2026-08-29 05:01:17] Внутренний дубль: Russians strike Sumy with multiple rocket launcher
-[2026-08-29 05:01:17] Внутренний дубль: Fires extinguished at three locations in Bucha dis
-[2026-08-29 05:01:17] Внутренний дубль: Russia plans to scale up ballistic missile product
-[2026-08-29 05:01:17] Внутренний дубль: Strikes on Kyiv region: 17 warehouses, 19 homes da
-[2026-08-29 05:01:17] Внутренний дубль: USF strikes another 21 energy facilities in tempor
-[2026-08-29 05:01:17] Внутренний дубль: Russian forces strike Kharkiv with drone, casualti
-[2026-08-29 05:01:17] Украинские новости: найдено 71 после фильтрации
-[2026-08-29 05:01:19] Редакторский отбор: выбраны позиции [14, 10]
-[2026-08-29 05:01:19] NewsAPI (Харьков, все издания): пришло 8 статей
-[2026-08-29 05:01:20] RSS Ukrinform: 30 записей
-[2026-08-29 05:01:21] RSS Ukrinform: 30 записей
-[2026-08-29 05:01:21] RSS Euromaidan Press: 29 записей
-[2026-08-29 05:01:21] Заблокированный источник (rt.com): The West is obsessed with ‘Russia’s next
-[2026-08-29 05:01:21] Пропускаю уже отправленную: Russia Bombards 9 Ukrainian Cities Overnight, Call
 [2026-08-29 05:01:21] Заблокированный источник (yahoo.com): Russia bombards 9 Ukrainian cities overn
 [2026-08-29 05:01:21] Внутренний дубль: Russian drones attack Kharkiv, strikes reported in
 [2026-08-29 05:01:21] Внутренний дубль: Russians strike gas station in Kharkiv, killing on
@@ -2998,3 +2888,113 @@
 [2026-09-03 17:03:36] Пауза 60 секунд...
 [2026-09-03 17:04:36] sent_urls.txt обрезан: 304 -> 300
 [2026-09-03 17:04:36] === Блок ai_evening завершён ===
+[2026-09-04 05:01:06] Загружено 300 уже отправленных новостей
+[2026-09-04 05:01:06] === Запуск блока: morning (тест: False) ===
+[2026-09-04 05:01:07] Неизвестный источник (goodmorningamerica.com): 'Zombies' star Carla Jeffery dies at 33 
+[2026-09-04 05:01:07] Неизвестный источник (espn.com): NBA punishes Clippers after Kawhi invest
+[2026-09-04 05:01:07] Неизвестный источник (abc7.com): Tim Curry's cause of death revealed afte
+[2026-09-04 05:01:07] Неизвестный источник (wbur.org): Clancy jurors tell judge they're still d
+[2026-09-04 05:01:07] Неизвестный источник (investors.com): Snowflake Earnings, Revenue, Guidance To
+[2026-09-04 05:01:07] Неизвестный источник (barrons.com): Broadcom’s Outlook Shows Surging AI Chip
+[2026-09-04 05:01:07] Неизвестный источник (space.com): Astronomers discover mysterious 10-sided
+[2026-09-04 05:01:07] Неизвестный источник (bleacherreport.com): Stan Kroenke Reportedly Plans to Build N
+[2026-09-04 05:01:07] Неизвестный источник (9to5mac.com): iPhone 18 Pro will have three upgrades t
+[2026-09-04 05:01:07] Неизвестный источник (sammobile.com): Galaxy S25 gets Super Steady with Horizo
+[2026-09-04 05:01:07] Неизвестный источник (foxnews.com): Raiders name Kirk Cousins as Week 1 star
+[2026-09-04 05:01:07] Неизвестный источник (abcnews.com): Congo's Ebola outbreak shows no signs of
+[2026-09-04 05:01:07] Неизвестный источник (space.com): Falcon Heavy brings the heat photo of th
+[2026-09-04 05:01:07] Неизвестный источник (calmatters.org): Why a signature Newsom power move floppe
+[2026-09-04 05:01:07] Неизвестный источник (spacenews.com): NASA selects Blue Origin for Mars commun
+[2026-09-04 05:01:07] Неизвестный источник (videocardz.com): Acer Project DualPlay Mini turns an 8-in
+[2026-09-04 05:01:07] Старая новость (2026-09-01T19:13:00Z): Lancaster coroner investigating child me
+[2026-09-04 05:01:07] Старая новость (2026-09-01T16:55:00Z): Android Auto tests Quick Settings and hi
+[2026-09-04 05:01:07] Мировые новости: найдено 9 после фильтрации
+[2026-09-04 05:01:08] Редакторский отбор: выбраны позиции [5, 9, 3, 4]
+[2026-09-04 05:01:09] RSS Ukrinform: 30 записей
+[2026-09-04 05:01:09] Пропускаю уже отправленную: Zelensky orders push to speed up production of int
+[2026-09-04 05:01:10] RSS Ukrinform: 30 записей
+[2026-09-04 05:01:10] Пропускаю уже отправленную: Russian attacks cause destruction in 13 regions of
+[2026-09-04 05:01:10] RSS Euromaidan Press: 29 записей
+[2026-09-04 05:01:10] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-04 05:01:10] Заблокированный источник (sports.yahoo.com): Columbia’s Michael Zheng comes full circ
+[2026-09-04 05:01:10] Нет фото: Even after being caught red-handed wasti
+[2026-09-04 05:01:10] Заблокированный источник (sputnikglobe.com): Spirit of Neo-Nazism Alive in Europe — L
+[2026-09-04 05:01:10] Заблокированный источник (yahoo.com): Ukraine's drone attacks caused turmoil f
+[2026-09-04 05:01:10] Нет фото: Makkah Collective Defense Agreement
+[2026-09-04 05:01:10] Заблокированный источник (biztoc.com): Putin to speak on Russia's economy at Vl
+[2026-09-04 05:01:10] Спорт, пропускаю: Ukrainian LSU women’s basketball player 
+[2026-09-04 05:01:10] Нет фото: BREAKING: Biden Judge Blocks President T
+[2026-09-04 05:01:10] Заблокированный источник (dailymail.com): GOP senator issues brutal takedown of Pe
+[2026-09-04 05:01:10] Нет фото: Jelly Roll Gets What He Asked For: Repor
+[2026-09-04 05:01:10] Нет фото: Does Ukraine have poisonous snakes?
+[2026-09-04 05:01:10] Нет фото: ‘A rolling prison’: 4 kids abused, held 
+[2026-09-04 05:01:10] Заблокированный источник (rt.com): Norway seizes Russian Arctic science ves
+[2026-09-04 05:01:10] Нет фото: Karmelo Anthony’s family asks donors for
+[2026-09-04 05:01:10] Спорт, пропускаю: Kate Koval breaks silence on LSU departu
+[2026-09-04 05:01:10] Заблокированный источник (dailymail.com): How refreshing to see a film that portra
+[2026-09-04 05:01:10] Заблокированный источник (rt.com): Ukrainian attacks fueling global ‘energy
+[2026-09-04 05:01:10] Заблокированный источник (dailymail.com): Kemi vows to slash the benefits bill to 
+[2026-09-04 05:01:10] Заблокированный источник (dailymail.com): DAILY MAIL COMMENT: The PM's Left-wing r
+[2026-09-04 05:01:10] Заблокированный источник (sports.yahoo.com): How hard did the NBA hit the Clippers? H
+[2026-09-04 05:01:10] Спорт, пропускаю: Kate Koval left LSU after Kim Mulkey add
+[2026-09-04 05:01:10] Заблокированный источник (sports.yahoo.com): Ukrainian center Koval says she left LSU
+[2026-09-04 05:01:10] Внутренний дубль: Russian forces strike Odesa, one killed, three inj
+[2026-09-04 05:01:10] Внутренний дубль: Fire breaks out near Russian air defense unit outs
+[2026-09-04 05:01:10] Внутренний дубль: Russian drone strike sets apartment building on fi
+[2026-09-04 05:01:10] Внутренний дубль: Russian drone strike on Kyiv high-rise injures thr
+[2026-09-04 05:01:10] Внутренний дубль: Russia strikes WHO warehouse in Kyiv region
+[2026-09-04 05:01:10] Внутренний дубль: Russian attack on Kyiv kills one and injures six
+[2026-09-04 05:01:10] Внутренний дубль: Russian forces attack Dnipro and surrounding regio
+[2026-09-04 05:01:10] Внутренний дубль: Russian attack strikes nine-story building in Kyiv
+[2026-09-04 05:01:10] Внутренний дубль: Six people injured in Russian attack on Kyiv
+[2026-09-04 05:01:10] Внутренний дубль: Ukraine’s Defense Forces debunk Russian claims of 
+[2026-09-04 05:01:10] Внутренний дубль: Moscow and region under drone attack since midnigh
+[2026-09-04 05:01:10] Внутренний дубль: Injury toll in Russian attack on Kyiv region rises
+[2026-09-04 05:01:10] Внутренний дубль: Ukrainian forces liberate new ground near Kupiansk
+[2026-09-04 05:01:10] Внутренний дубль: Russian attack on Dnipro kills one and injures fiv
+[2026-09-04 05:01:10] Украинские новости: найдено 77 после фильтрации
+[2026-09-04 05:01:12] Редакторский отбор: выбраны позиции [19, 14]
+[2026-09-04 05:01:12] NewsAPI (Харьков, все издания): пришло 4 статей
+[2026-09-04 05:01:13] RSS Ukrinform: 30 записей
+[2026-09-04 05:01:14] RSS Ukrinform: 30 записей
+[2026-09-04 05:01:14] RSS Euromaidan Press: 29 записей
+[2026-09-04 05:01:14] Нет фото: Russian Forces Liberate Kazachya Lopan S
+[2026-09-04 05:01:14] Нет фото: EU Foreign Ministers meeting in Ireland:
+[2026-09-04 05:01:14] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Kazachya Lopan S
+[2026-09-04 05:01:14] Внутренний дубль: Ukrainian forces liberate new ground near Kupiansk
+[2026-09-04 05:01:14] Харьков: найдена новость: Ukrainian forces liberate new ground near Kupiansk
+[2026-09-04 05:01:14] Обрабатываю: Tehran targets U.S. allies in Gulf after U.S. launched ‘larg | https://www.nbcnews.com/world/iran/us-launched-large-powerful-strikes-
+[2026-09-04 05:01:14] Полный текст получен (3000 символов)
+[2026-09-04 05:01:14] Попытка 1 для: Tehran targets U.S. allies in Gulf after
+[2026-09-04 05:01:18] Успешно, получено 1556 символов
+[2026-09-04 05:01:18] Обрабатываю: EU and Nato vow to step up pressure on Russia after 'new esc | https://www.bbc.com/news/articles/ce9e810pg7ko
+[2026-09-04 05:01:18] Полный текст получен (3000 символов)
+[2026-09-04 05:01:18] Попытка 1 для: EU and Nato vow to step up pressure on R
+[2026-09-04 05:01:22] Успешно, получено 1912 символов
+[2026-09-04 05:01:22] Обрабатываю: Presented with bleak polling, the White House moves to make  | https://www.nbcnews.com/politics/elections/presented-bleak-polling-whi
+[2026-09-04 05:01:22] Полный текст получен (733 символов)
+[2026-09-04 05:01:22] Попытка 1 для: Presented with bleak polling, the White 
+[2026-09-04 05:01:24] Успешно, получено 1226 символов
+[2026-09-04 05:01:24] Обрабатываю: Progressive Senate candidates rack up primary wins even as t | https://www.nbcnews.com/politics/politics-news/progressive-senate-cand
+[2026-09-04 05:01:25] Полный текст получен (3000 символов)
+[2026-09-04 05:01:25] Попытка 1 для: Progressive Senate candidates rack up pr
+[2026-09-04 05:01:35] Успешно, получено 1677 символов
+[2026-09-04 05:01:38] Пауза 60 секунд...
+[2026-09-04 05:02:38] Пауза 60 секунд...
+[2026-09-04 05:03:38] Пауза 60 секунд...
+[2026-09-04 05:04:39] Обрабатываю: Russian forces attack Dnipro and surrounding region more tha | https://www.ukrinform.net/rubric-ato/4160617-russian-forces-attack-dni
+[2026-09-04 05:04:40] Полный текст получен (1448 символов)
+[2026-09-04 05:04:40] Попытка 1 для: Russian forces attack Dnipro and surroun
+[2026-09-04 05:04:43] Успешно, получено 1791 символов
+[2026-09-04 05:04:43] Обрабатываю: Russia strikes WHO warehouse in Kyiv region | https://www.ukrinform.net/rubric-ato/4160641-russia-strikes-who-wareho
+[2026-09-04 05:04:45] Полный текст получен (897 символов)
+[2026-09-04 05:04:45] Попытка 1 для: Russia strikes WHO warehouse in Kyiv reg
+[2026-09-04 05:04:49] Успешно, получено 1625 символов
+[2026-09-04 05:04:49] Обрабатываю: Ukrainian forces liberate new ground near Kupiansk | https://www.ukrinform.net/rubric-ato/4160526-ukrainian-forces-liberate
+[2026-09-04 05:04:50] Полный текст получен (949 символов)
+[2026-09-04 05:04:50] Попытка 1 для: Ukrainian forces liberate new ground nea
+[2026-09-04 05:04:53] Успешно, получено 1644 символов
+[2026-09-04 05:04:56] Пауза 60 секунд...
+[2026-09-04 05:05:56] Пауза 60 секунд...
+[2026-09-04 05:06:57] sent_urls.txt обрезан: 307 -> 300
+[2026-09-04 05:06:57] === Блок morning завершён ===
