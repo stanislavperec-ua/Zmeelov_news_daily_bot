@@ -1,45 +1,3 @@
-[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): California Legislature Protects Wildfire
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Lojas do Galo unveil new brand and concept
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Absolute Green Lantern #18 Preview: Jo Faces Unive
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Trump Targets Foreign Technology in New U.S. Power
-[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Survivors Provide Recommendations for An
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Ottawa pumps $195 million into quantum manufacturi
-[2026-08-30 07:01:18] Заблокированный источник (prnewswire.com): Tampa General Hospital and Florida Ortho
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Tougher penalties for ‘aggravated’ and ‘wrong-way’
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: UHS Completes Talkspace Deal, Expands Behavioral H
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: How Decathlon runs demand forecasting at scale wit
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: The Best Women’s Cross-Training Shoes to Wear to t
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: The New Cyber Math for CFOs: One Attack, Hundreds 
-[2026-08-30 07:01:18] Пропускаю уже отправленную: Alpha School’s AI teaching model is expanding. Doe
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: New VISIONQUEST Image Reveals the Human Form The P
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Shuffle Board: Old Navy Names CEO; Kohl’s Creates 
-[2026-08-30 07:01:18] Пропускаю уже отправленную: Auto and Home Insurance Consumers Getting Used to 
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: “Home Renovation”: Deadline extended to September 
-[2026-08-30 07:01:18] Заблокированный источник (marketbeat.com): Nano Labs H1 Earnings Call Highlights
-[2026-08-30 07:01:18] Нет фото: COSCO SHIPPING Ports Announces 2026 Inte
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: It’s Nvidia’s world. We just live in it
-[2026-08-30 07:01:18] Пропускаю уже отправленную: AI-assisted forecasting in microsurgery: A dual-co
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Disentangling the drivers of heterogeneity in SARS
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Comparative machine learning models for predicting
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Social context suppresses food anticipatory activi
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Combining a diffusion model with a sparse coding s
-[2026-08-30 07:01:18] Пропускаю уже отправленную: Meta takes down Iranian propaganda network that us
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: UP Startup Policy 2026 Brings 7 Major Changes
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: STEPHEN MOORE: Data centers aren’t just buildings.
-[2026-08-30 07:01:18] Нет фото: Check-Cap Completes MBody AI Merger, Clo
-[2026-08-30 07:01:18] Нет фото: Trump Called It: X Uncovers Massive Chin
-[2026-08-30 07:01:18] Нет фото: NetworkNews Audio Announces Audio Press 
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: License Plate Reader Contracts, Argentina Periodic
-[2026-08-30 07:01:18] Не про ИИ, пропускаю: Sensex, Nifty snap two-day losing streak; IT stock
-[2026-08-30 07:01:18] Внутренний дубль: IndiGo Ventures invests in AI firm Sarvam as part 
-[2026-08-30 07:01:18] AI новости: 12 кандидатов после фильтрации
-[2026-08-30 07:01:19] Редакторский отбор: выбраны позиции [5, 1, 4, 6]
-[2026-08-30 07:01:19] Обрабатываю: Court rules Pentagon can’t ban Anthropic’s AI models | https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anth
-[2026-08-30 07:01:19] Полный текст получен (3000 символов)
-[2026-08-30 07:01:19] Попытка 1 для: Court rules Pentagon can’t ban Anthropic
-[2026-08-30 07:01:21] Успешно, получено 1483 символов
-[2026-08-30 07:01:21] Обрабатываю: Texas Gov. Greg Abbott moves to cut state funding for AI-pow | https://www.foxnews.com/politics/texas-gov-greg-abbott-moves-cut-state
-[2026-08-30 07:01:21] Полный текст получен (3000 символов)
 [2026-08-30 07:01:21] Попытка 1 для: Texas Gov. Greg Abbott moves to cut stat
 [2026-08-30 07:01:38] Успешно, получено 1917 символов
 [2026-08-30 07:01:38] Обрабатываю: Andreessen Horowitz raises $1.1B AI infrastructure fund | https://siliconangle.com/2026/08/28/andreessen-horowitz-raises-1-1b-ai
@@ -2998,3 +2956,45 @@
 [2026-09-05 07:03:23] Пауза 60 секунд...
 [2026-09-05 07:04:23] sent_urls.txt обрезан: 304 -> 300
 [2026-09-05 07:04:23] === Блок ai_morning завершён ===
+[2026-09-05 10:01:13] Загружено 300 уже отправленных новостей
+[2026-09-05 10:01:13] === Запуск блока: midday (тест: False) ===
+[2026-09-05 10:01:13] Неизвестный источник (bleacherreport.com): Louisiana Judge Rules Against NCAA, Clea
+[2026-09-05 10:01:13] Лента обновлений, пропускаю: Live updates: Rescues underway as two wo
+[2026-09-05 10:01:13] Неизвестный источник (kmbc.com): Missouri Supreme Court makes ruling on r
+[2026-09-05 10:01:13] Неизвестный источник (tmz.com): Hayden Panettiere's BF Seen Wobbly, Spit
+[2026-09-05 10:01:13] Неизвестный источник (pagesix.com): Biggest bombshells from Alix Earle’s Net
+[2026-09-05 10:01:13] Неизвестный источник (kstp.com): Deadly downtown Minneapolis shooting sta
+[2026-09-05 10:01:13] Неизвестный источник (nj.com): UMASSACRE! Rutgers suffers shocking upse
+[2026-09-05 10:01:13] Пропускаю уже отправленную: U.S. military reviewing deadly strike on Iranian w
+[2026-09-05 10:01:13] Неизвестный источник (tvline.com): Big Brother Decides Its First Season 28 
+[2026-09-05 10:01:13] Неизвестный источник (variety.com): Pablo Torre Sounds Off on the NBA’s Hist
+[2026-09-05 10:01:13] Пропускаю уже отправленную: Trump administration asks Supreme Court to allow m
+[2026-09-05 10:01:13] Неизвестный источник (deseret.com): 2 years after her Olympic infamy, Raygun
+[2026-09-05 10:01:13] Неизвестный источник (livescience.com): 'There is no conflict between quantum ph
+[2026-09-05 10:01:13] Неизвестный источник (macrumors.com): Foldable iPhone Ultra: The Latest Rumors
+[2026-09-05 10:01:13] Пропускаю уже отправленную: Leading medical groups update flu, COVID vaccine r
+[2026-09-05 10:01:13] Неизвестный источник (space.com): 2 spacecraft will soon reach Mercury aft
+[2026-09-05 10:01:13] Старая новость (2026-09-03T09:11:40Z): Was Dark Matter Detected? - Medium
+[2026-09-05 10:01:13] Старая новость (2026-09-03T09:00:00Z): GLP-1 medications may worsen or speed ha
+[2026-09-05 10:01:13] Мировые новости: найдено 10 после фильтрации
+[2026-09-05 10:01:15] Редакторский отбор: выбраны позиции [1, 3, 5, 7]
+[2026-09-05 10:01:15] Обрабатываю: Europe targeted by spiralling campaign of sabotage and Russi | https://www.bbc.com/news/articles/c5y4g6meekro
+[2026-09-05 10:01:15] Полный текст получен (3000 символов)
+[2026-09-05 10:01:15] Попытка 1 для: Europe targeted by spiralling campaign o
+[2026-09-05 10:01:19] Успешно, получено 1893 символов
+[2026-09-05 10:01:19] Обрабатываю: Argentina’s Milei escalates Falklands dispute, seizing on Tr | https://apnews.com/article/argentina-president-donald-trump-javier-mil
+[2026-09-05 10:01:19] Попытка 1 для: Argentina’s Milei escalates Falklands di
+[2026-09-05 10:01:21] Успешно, получено 1060 символов
+[2026-09-05 10:01:21] Обрабатываю: Federal prosecutor fired after investigating ICE officer for | https://www.cbsnews.com/news/ice-minnesota-federal-prosecutor-fired-in
+[2026-09-05 10:01:21] Полный текст получен (3000 символов)
+[2026-09-05 10:01:21] Попытка 1 для: Federal prosecutor fired after investiga
+[2026-09-05 10:01:24] Успешно, получено 1679 символов
+[2026-09-05 10:01:24] Обрабатываю: Reports: RFK Jr. ordered measles deaths deletion; CDC still  | https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-
+[2026-09-05 10:01:24] Полный текст получен (1411 символов)
+[2026-09-05 10:01:24] Попытка 1 для: Reports: RFK Jr. ordered measles deaths 
+[2026-09-05 10:01:27] Успешно, получено 1376 символов
+[2026-09-05 10:01:30] Пауза 60 секунд...
+[2026-09-05 10:02:30] Пауза 60 секунд...
+[2026-09-05 10:03:31] Пауза 60 секунд...
+[2026-09-05 10:04:32] sent_urls.txt обрезан: 304 -> 300
+[2026-09-05 10:04:32] === Блок midday завершён ===
