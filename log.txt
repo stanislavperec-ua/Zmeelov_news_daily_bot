@@ -1,45 +1,3 @@
-[2026-08-31 10:01:22] Неизвестный источник (pcmag.com): After 15 Years, the Tim Cook Era at Appl
-[2026-08-31 10:01:22] Неизвестный источник (mmamania.com): UFC Shanghai live results, highlights an
-[2026-08-31 10:01:22] Старая новость (2026-08-28T21:53:00Z): Apple TV raises prices without offering 
-[2026-08-31 10:01:22] Старая новость (2026-08-28T17:47:02Z): Samsung Galaxy S26 series receives seven
-[2026-08-31 10:01:22] Старая новость (2026-08-28T16:17:08Z): Friday Northern Lights Forecast: 10 Stat
-[2026-08-31 10:01:22] Старая новость (2026-08-28T14:35:53Z): DRAM Prices Explode 401% as One Kilogram
-[2026-08-31 10:01:22] Старая новость (2026-08-28T12:38:00Z): Nvidia Stock Is Too Cheap. Apple Once Ha
-[2026-08-31 10:01:22] Старая новость (2026-08-28T12:29:32Z): 2 airport workers die of malaria from mo
-[2026-08-31 10:01:22] Старая новость (2026-08-23T14:36:33Z): China postpones launch of unprecedented 
-[2026-08-31 10:01:22] Мировые новости: найдено 7 после фильтрации
-[2026-08-31 10:01:23] Редакторский отбор: выбраны позиции [1, 3, 6, 4]
-[2026-08-31 10:01:23] Обрабатываю: Iceland rejects EU-accession talks plan in referendum | https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership
-[2026-08-31 10:01:24] Полный текст получен (3000 символов)
-[2026-08-31 10:01:24] Попытка 1 для: Iceland rejects EU-accession talks plan 
-[2026-08-31 10:01:26] Успешно, получено 1610 символов
-[2026-08-31 10:01:26] Обрабатываю: A power struggle in Iran could decide when Trump’s war ends | https://www.cnn.com/2026/08/30/middleeast/iran-trump-power-struggle-wa
-[2026-08-31 10:01:26] Текст не совпадает с заголовком, беру описание: https://www.cnn.com/2026/08/30/middleeast/iran-trump-power-s
-[2026-08-31 10:01:26] Попытка 1 для: A power struggle in Iran could decide wh
-[2026-08-31 10:01:36] Успешно, получено 959 символов
-[2026-08-31 10:01:36] Обрабатываю: Israeli settlers surround Palestinian home in occupied West  | https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-pal
-[2026-08-31 10:01:36] Полный текст получен (3000 символов)
-[2026-08-31 10:01:36] Попытка 1 для: Israeli settlers surround Palestinian ho
-[2026-08-31 10:01:54] Успешно, получено 1691 символов
-[2026-08-31 10:01:54] Обрабатываю: US deports relative of Afghans who aided military to Africa | https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghan
-[2026-08-31 10:01:55] Полный текст получен (2485 символов)
-[2026-08-31 10:01:55] Попытка 1 для: US deports relative of Afghans who aided
-[2026-08-31 10:02:24] Успешно, получено 1783 символов
-[2026-08-31 10:02:27] Пауза 60 секунд...
-[2026-08-31 10:03:28] Пауза 60 секунд...
-[2026-08-31 10:04:28] Пауза 60 секунд...
-[2026-08-31 10:05:29] sent_urls.txt обрезан: 304 -> 300
-[2026-08-31 10:05:29] === Блок midday завершён ===
-[2026-08-31 15:01:13] Загружено 300 уже отправленных новостей
-[2026-08-31 15:01:13] === Запуск блока: evening (тест: False) ===
-[2026-08-31 15:01:13] Неизвестный источник (usatoday.com): 'Cuba is opening up.' Reforms begin as U
-[2026-08-31 15:01:13] Неизвестный источник (instyle.com): Harry Styles Breaks His Silence About Ex
-[2026-08-31 15:01:13] Неизвестный источник (discoverwildlife.com): “That puzzled us quite a bit.” Scientist
-[2026-08-31 15:01:13] Неизвестный источник (space.com): Nancy Grace Roman Telescope live updates
-[2026-08-31 15:01:13] Неизвестный источник (vox.com): One of the Supreme Court’s worst ideas c
-[2026-08-31 15:01:13] Спорт, пропускаю: Filip Hrgovic defeats Moses Itauma in Lo
-[2026-08-31 15:01:13] Неизвестный источник (rollingstone.com): Olivia Rodrigo Delivers Magic With Stevi
-[2026-08-31 15:01:13] Заблокированный источник (sports.yahoo.com): College football Week 0 scores, live upd
 [2026-08-31 15:01:13] Неизвестный источник (wgal.com): Lancaster County coroner disputes measle
 [2026-08-31 15:01:13] Неизвестный источник (espn.com): College football is back, and Bill Belic
 [2026-08-31 15:01:13] Неизвестный источник (wxii12.com): Davidson County warns of rabies exposure
@@ -2998,3 +2956,45 @@
 [2026-09-06 07:03:33] Пауза 60 секунд...
 [2026-09-06 07:04:33] sent_urls.txt обрезан: 304 -> 300
 [2026-09-06 07:04:33] === Блок ai_morning завершён ===
+[2026-09-06 10:01:13] Загружено 300 уже отправленных новостей
+[2026-09-06 10:01:13] === Запуск блока: midday (тест: False) ===
+[2026-09-06 10:01:13] Лента обновлений, пропускаю: Live Updates: Iran war is "small potatoe
+[2026-09-06 10:01:13] Неизвестный источник (nbcsports.com): LSU blinks, for now, on the issue of put
+[2026-09-06 10:01:13] Неизвестный источник (pagesix.com): Ex-‘Wheel of Fortune’ announcer Jim Thor
+[2026-09-06 10:01:13] Неизвестный источник (hollywoodreporter.com): 'Tender Loving Care' Review: Kate O'Flyn
+[2026-09-06 10:01:13] Неизвестный источник (tampabay.com): Inside the fight against mosquitoes spre
+[2026-09-06 10:01:13] Пропускаю уже отправленную: After 8 years, Europe’s BepiColombo mission is on 
+[2026-09-06 10:01:13] Неизвестный источник (usatoday.com): USA vs. China winners, losers: Caitlin C
+[2026-09-06 10:01:13] Неизвестный источник (macrumors.com): iPhone Ultra, iPhone 18 Pro, and More: A
+[2026-09-06 10:01:13] Неизвестный источник (ew.com): Dolly Parton’s sister says family has en
+[2026-09-06 10:01:13] Неизвестный источник (9to5mac.com): OpenAI releasing major upgrade to ChatGP
+[2026-09-06 10:01:13] Неизвестный источник (cbssports.com): Ilia Topuria breaks silence 'after going
+[2026-09-06 10:01:13] Пропускаю уже отправленную: UN votes to adopt new world map showing Africa's t
+[2026-09-06 10:01:13] Неизвестный источник (hollywoodreporter.com): HBO’s ‘Harry Potter’ Casts Tom Riddle, D
+[2026-09-06 10:01:13] Заблокированный источник (finance.yahoo.com): Apple's Foldable iPhone Runs Into Early 
+[2026-09-06 10:01:13] Пропускаю уже отправленную: Rescue satellite gets close to NASA’s doomed teles
+[2026-09-06 10:01:13] Старая новость (2026-09-04T07:00:00Z): Audacity enters a “new era” with the big
+[2026-09-06 10:01:13] Старая новость (2026-09-02T09:00:04Z): Eight-letter DNA alphabet is accurately 
+[2026-09-06 10:01:13] Мировые новости: найдено 12 после фильтрации
+[2026-09-06 10:01:15] Редакторский отбор: выбраны позиции [2, 9, 10, 7]
+[2026-09-06 10:01:15] Обрабатываю: Germany’s far-right AfD is poised for power – and split on w | https://www.cnn.com/2026/09/05/europe/germany-state-election-afd-trump
+[2026-09-06 10:01:15] Полный текст получен (3000 символов)
+[2026-09-06 10:01:15] Попытка 1 для: Germany’s far-right AfD is poised for po
+[2026-09-06 10:01:20] Успешно, получено 1939 символов
+[2026-09-06 10:01:20] Обрабатываю: 'The health system in Nepal is not prepared for this' | https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physic
+[2026-09-06 10:01:20] Полный текст получен (3000 символов)
+[2026-09-06 10:01:20] Попытка 1 для: 'The health system in Nepal is not prepa
+[2026-09-06 10:01:23] Успешно, получено 1903 символов
+[2026-09-06 10:01:23] Обрабатываю: Pig kidney works for a record 271 days inside the body of Am | https://www.nbcnews.com/news/us-news/pig-kidney-works-record-271-days-
+[2026-09-06 10:01:23] Полный текст получен (3000 символов)
+[2026-09-06 10:01:23] Попытка 1 для: Pig kidney works for a record 271 days i
+[2026-09-06 10:01:27] Успешно, получено 1469 символов
+[2026-09-06 10:01:27] Обрабатываю: Senior aides to U.K.'s Nigel Farage step down in donation sc | https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/
+[2026-09-06 10:01:27] Полный текст получен (3000 символов)
+[2026-09-06 10:01:27] Попытка 1 для: Senior aides to U.K.'s Nigel Farage step
+[2026-09-06 10:01:42] Успешно, получено 1829 символов
+[2026-09-06 10:01:45] Пауза 60 секунд...
+[2026-09-06 10:02:45] Пауза 60 секунд...
+[2026-09-06 10:03:46] Пауза 60 секунд...
+[2026-09-06 10:04:46] sent_urls.txt обрезан: 304 -> 300
+[2026-09-06 10:04:46] === Блок midday завершён ===
