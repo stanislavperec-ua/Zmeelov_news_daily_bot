@@ -1,92 +1,3 @@
-[2026-08-31 15:04:38] Пауза 60 секунд...
-[2026-08-31 15:05:39] Обрабатываю: Russian strikes on energy facilities in Dnipropetrovsk regio | https://www.ukrinform.net/rubric-economy/4159418-russian-strikes-on-en
-[2026-08-31 15:05:39] Полный текст получен (739 символов)
-[2026-08-31 15:05:39] Попытка 1 для: Russian strikes on energy facilities in 
-[2026-08-31 15:05:42] Успешно, получено 1074 символов
-[2026-08-31 15:05:42] Обрабатываю: Zelensky names three key priorities for Ukraine's diplomatic | https://www.ukrinform.net/rubric-polytics/4159447-zelensky-names-three
-[2026-08-31 15:05:42] Полный текст получен (1686 символов)
-[2026-08-31 15:05:42] Попытка 1 для: Zelensky names three key priorities for 
-[2026-08-31 15:05:44] Успешно, получено 1701 символов
-[2026-08-31 15:05:44] Обрабатываю: Russian forces shell 13 settlements in Kharkiv region over p | https://www.ukrinform.net/rubric-ato/4159268-russian-forces-shell-13-s
-[2026-08-31 15:05:45] Полный текст получен (1593 символов)
-[2026-08-31 15:05:45] Попытка 1 для: Russian forces shell 13 settlements in K
-[2026-08-31 15:05:59] Успешно, получено 1561 символов
-[2026-08-31 15:06:01] Пауза 60 секунд...
-[2026-08-31 15:07:02] Пауза 60 секунд...
-[2026-08-31 15:08:02] sent_urls.txt обрезан: 307 -> 300
-[2026-08-31 15:08:02] === Блок evening завершён ===
-[2026-08-31 17:01:20] Загружено 300 уже отправленных новостей
-[2026-08-31 17:01:20] === Запуск блока: ai_evening (тест: False) ===
-[2026-08-31 17:01:20] Неизвестный источник (business-standard.com): The unmaking of the nation state
-[2026-08-31 17:01:20] Неизвестный источник (spacedaily.com): For 21 years, millions of volunteers let
-[2026-08-31 17:01:20] Неизвестный источник (business-standard.com): Indian telcos bet on AI networks to driv
-[2026-08-31 17:01:20] Нет фото: Arduino UNO Q: the dual-brain board that
-[2026-08-31 17:01:20] Неизвестный источник (siliconangle.com): Four safeguards to stop your AI agents f
-[2026-08-31 17:01:20] Неизвестный источник (incrediblethings.com): NASA Launches Roman Space Telescope On a
-[2026-08-31 17:01:20] Неизвестный источник (bleedingcool.com): Superman: The Stranger #1 Preview: Can S
-[2026-08-31 17:01:20] Неизвестный источник (legalinsurrection.com): X Takes Down 200,000 Suspected Chinese A
-[2026-08-31 17:01:20] Неизвестный источник (nasa.gov): NASA’s Dark Universe-Seeking Nancy Grace
-[2026-08-31 17:01:20] Неизвестный источник (commercialobserver.com): Sunday Summary: It’s a Forever 9 to 5 Wo
-[2026-08-31 17:01:20] Нет фото: PetroChina Achieves a Strong Start for "
-[2026-08-31 17:01:20] Неизвестный источник (hurriyetdailynews.com): Greece, Israel to ink deal for air defen
-[2026-08-31 17:01:20] Нет фото: Nuclear Safeguards Are Gone – Former Can
-[2026-08-31 17:01:20] Неизвестный источник (livemint.com): Elon Musk and Yuval Noah Harari's views 
-[2026-08-31 17:01:20] Нет фото: This Flock AI Tool Finds You Without A N
-[2026-08-31 17:01:20] Пропускаю уже отправленную: AI models are being used to track zoonotic disease
-[2026-08-31 17:01:20] Неизвестный источник (texastribune.org): Lawmakers added $1 to car insurance poli
-[2026-08-31 17:01:20] Неизвестный источник (usatoday.com): Bills' new stadium facing another hurdle
-[2026-08-31 17:01:20] Заблокированный источник (marketbeat.com): Brilliant Earth Sees Fine Jewelry Growth
-[2026-08-31 17:01:20] Заблокированный источник (dailymail.com): REVEALED: The exact amount of alcohol ga
-[2026-08-31 17:01:20] Заблокированный источник (dailymail.com): While we're ordered to not use hosepipes
-[2026-08-31 17:01:20] Заблокированный источник (prnewswire.com): Newly Released SB 492 Confirms Major Vic
-[2026-08-31 17:01:20] Нет фото: Meet Flock, the $8 billion startup backe
-[2026-08-31 17:01:20] Нет фото: kquika-sansai 1.0.1
-[2026-08-31 17:01:20] Нет фото: kquika-sansai 1.0.0
-[2026-08-31 17:01:20] Нет фото: kquika-sansai added to PyPI
-[2026-08-31 17:01:20] Неизвестный источник (bleedingcool.com): JSA #23 Preview: Secret Missions and Sec
-[2026-08-31 17:01:20] Неизвестный источник (dailycaller.com): This Flock AI Tool Finds You Without A N
-[2026-08-31 17:01:20] Неизвестный источник (kqed.org): Newsom, Lawmakers Reach Last-Minute Deal
-[2026-08-31 17:01:20] AI новости: 0 с доверенных источников
-[2026-08-31 17:01:20] Доверенных AI-источников мало, добираю из остальных
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: The unmaking of the nation state
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: For 21 years, millions of volunteers let UC Berkel
-[2026-08-31 17:01:20] Нет фото: Arduino UNO Q: the dual-brain board that
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: NASA Launches Roman Space Telescope On a Milion-Mi
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: Superman: The Stranger #1 Preview: Can Superman Be
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: NASA’s Dark Universe-Seeking Nancy Grace Roman Spa
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: Sunday Summary: It’s a Forever 9 to 5 World
-[2026-08-31 17:01:20] Нет фото: PetroChina Achieves a Strong Start for "
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: Greece, Israel to ink deal for air defense systems
-[2026-08-31 17:01:20] Нет фото: Nuclear Safeguards Are Gone – Former Can
-[2026-08-31 17:01:20] Нет фото: This Flock AI Tool Finds You Without A N
-[2026-08-31 17:01:20] Пропускаю уже отправленную: AI models are being used to track zoonotic disease
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: Lawmakers added $1 to car insurance policies. That
-[2026-08-31 17:01:20] Спорт, пропускаю: Bills' new stadium facing another hurdle
-[2026-08-31 17:01:20] Заблокированный источник (marketbeat.com): Brilliant Earth Sees Fine Jewelry Growth
-[2026-08-31 17:01:20] Заблокированный источник (dailymail.com): REVEALED: The exact amount of alcohol ga
-[2026-08-31 17:01:20] Заблокированный источник (dailymail.com): While we're ordered to not use hosepipes
-[2026-08-31 17:01:20] Заблокированный источник (prnewswire.com): Newly Released SB 492 Confirms Major Vic
-[2026-08-31 17:01:20] Нет фото: Meet Flock, the $8 billion startup backe
-[2026-08-31 17:01:20] Нет фото: kquika-sansai 1.0.1
-[2026-08-31 17:01:20] Нет фото: kquika-sansai 1.0.0
-[2026-08-31 17:01:20] Нет фото: kquika-sansai added to PyPI
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: JSA #23 Preview: Secret Missions and Secret Identi
-[2026-08-31 17:01:20] Пропускаю уже отправленную: This Flock AI Tool Finds You Without A Name Or Pla
-[2026-08-31 17:01:20] Не про ИИ, пропускаю: Newsom, Lawmakers Reach Last-Minute Deal on Wildfi
-[2026-08-31 17:01:20] AI новости: 3 кандидатов после фильтрации
-[2026-08-31 17:01:20] Обрабатываю: Indian telcos bet on AI networks to drive revenue growth, in | https://www.business-standard.com/technology/artificial-intelligence/i
-[2026-08-31 17:01:20] Полный текст получен (1290 символов)
-[2026-08-31 17:01:20] Попытка 1 для: Indian telcos bet on AI networks to driv
-[2026-08-31 17:01:23] Успешно, получено 1825 символов
-[2026-08-31 17:01:23] Обрабатываю: Four safeguards to stop your AI agents from going rogue | https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-ag
-[2026-08-31 17:01:24] Полный текст получен (3000 символов)
-[2026-08-31 17:01:24] Попытка 1 для: Four safeguards to stop your AI agents f
-[2026-08-31 17:01:26] Успешно, получено 1575 символов
-[2026-08-31 17:01:26] Обрабатываю: Elon Musk and Yuval Noah Harari's views on AI diverge but co | https://www.livemint.com/opinion/online-views/elon-musk-yuval-noah-har
-[2026-08-31 17:01:26] Полный текст получен (3000 символов)
-[2026-08-31 17:01:26] Попытка 1 для: Elon Musk and Yuval Noah Harari's views 
-[2026-08-31 17:01:56] Успешно, получено 2239 символов
-[2026-08-31 17:01:59] Пауза 60 секунд...
 [2026-08-31 17:02:59] Пауза 60 секунд...
 [2026-08-31 17:04:00] sent_urls.txt обрезан: 303 -> 300
 [2026-08-31 17:04:00] === Блок ai_evening завершён ===
@@ -2998,3 +2909,92 @@
 [2026-09-06 15:04:59] Пауза 60 секунд...
 [2026-09-06 15:05:59] sent_urls.txt обрезан: 306 -> 300
 [2026-09-06 15:05:59] === Блок evening завершён ===
+[2026-09-06 17:01:09] Загружено 300 уже отправленных новостей
+[2026-09-06 17:01:09] === Запуск блока: ai_evening (тест: False) ===
+[2026-09-06 17:01:09] Неизвестный источник (thehindubusinessline.com): Jio eyes global market with India-built 
+[2026-09-06 17:01:09] Неизвестный источник (economictimes.indiatimes.com): After 10 years of India feat, Jio sets i
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: U.S. attacks 3 Iranian oil tankers after missiles 
+[2026-09-06 17:01:09] Нет фото: The West Faces Two Islams
+[2026-09-06 17:01:09] Неизвестный источник (cryptoslate.com): Zcash breaks $1,000 as its spot ETF cros
+[2026-09-06 17:01:09] Неизвестный источник (livemint.com): TCS’s HyperVault to build 1GW AI data ce
+[2026-09-06 17:01:09] Неизвестный источник (cryptobriefing.com): Kai-Fu Lee explains why Chinese AI’s ‘go
+[2026-09-06 17:01:09] Неизвестный источник (bleedingcool.com): Six of Us #1 Preview: Sitcom Star Dies, 
+[2026-09-06 17:01:09] Неизвестный источник (freethoughtblogs.com): The secret abilities of plants
+[2026-09-06 17:01:09] Неизвестный источник (financialpost.com): Multi-model platforms are changing how c
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Don’t Ban AI on Campus
+[2026-09-06 17:01:09] Неизвестный источник (infoq.com): Beyond Zero: Google Publishes Successor 
+[2026-09-06 17:01:09] Неизвестный источник (vanguardngr.com): Tested Before Elected: Why Ogbomoso Shou
+[2026-09-06 17:01:09] Нет фото: kquika-sansai 1.1.2
+[2026-09-06 17:01:09] Неизвестный источник (ibtimes.com.au): Jeff Bezos' Blue Origin Hires 47 Amazon 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Flock says its cameras make US safer - so why are 
+[2026-09-06 17:01:09] Неизвестный источник (siliconangle.com): Equinix turns the network into the contr
+[2026-09-06 17:01:09] Нет фото: BMO Completes Sale of 138 U.S. Branches 
+[2026-09-06 17:01:09] Нет фото: BMO Completes Sale of 138 U.S. Branches 
+[2026-09-06 17:01:09] Неизвестный источник (financialpost.com): This TSX stock was a top gainer with pro
+[2026-09-06 17:01:09] Неизвестный источник (aws.amazon.com): Deploy a multimodal WhatsApp ordering as
+[2026-09-06 17:01:09] Неизвестный источник (siliconangle.com): Cisco remakes the edge for AI’s data-hea
+[2026-09-06 17:01:09] Нет фото: kquika-sansai 1.1.0
+[2026-09-06 17:01:09] Неизвестный источник (siliconangle.com): Report: OpenAI agents took over a websit
+[2026-09-06 17:01:09] Неизвестный источник (4sysops.com): Microsoft Project Zenith: ready-to-code 
+[2026-09-06 17:01:09] Неизвестный источник (commondreams.org): 'Things Are Getting Even More Insane': A
+[2026-09-06 17:01:09] Неизвестный источник (fxguide.com): Congrats to the Engineering, Science & T
+[2026-09-06 17:01:09] Неизвестный источник (economictimes.indiatimes.com): Telco operators reject quality of servic
+[2026-09-06 17:01:09] Нет фото: cosc604 added to PyPI
+[2026-09-06 17:01:09] Неизвестный источник (decrypt.co): Crypto Traders Are Pairing Meme Coins Wi
+[2026-09-06 17:01:09] Неизвестный источник (timesofindia.indiatimes.com): Nagpur cops’ Coimbatore raid exposes mul
+[2026-09-06 17:01:09] Неизвестный источник (abc.net.au): Fred Hollows built something remarkable 
+[2026-09-06 17:01:09] Неизвестный источник (cbc.ca): STM using AI to detect people loitering 
+[2026-09-06 17:01:09] Неизвестный источник (ibtimes.com.au): 10 Standout Technologies To Watch From I
+[2026-09-06 17:01:09] Неизвестный источник (siliconangle.com): Everpure sees AI infrastructure strategy
+[2026-09-06 17:01:09] AI новости: 0 с доверенных источников
+[2026-09-06 17:01:09] Доверенных AI-источников мало, добираю из остальных
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Jio eyes global market with India-built technology
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: After 10 years of India feat, Jio sets its sights 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: U.S. attacks 3 Iranian oil tankers after missiles 
+[2026-09-06 17:01:09] Нет фото: The West Faces Two Islams
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Zcash breaks $1,000 as its spot ETF crosses $400 m
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Six of Us #1 Preview: Sitcom Star Dies, Ratings Sk
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: The secret abilities of plants
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Don’t Ban AI on Campus
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Tested Before Elected: Why Ogbomoso Should Send Dr
+[2026-09-06 17:01:09] Нет фото: kquika-sansai 1.1.2
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Jeff Bezos' Blue Origin Hires 47 Amazon Satellite 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Flock says its cameras make US safer - so why are 
+[2026-09-06 17:01:09] Нет фото: BMO Completes Sale of 138 U.S. Branches 
+[2026-09-06 17:01:09] Нет фото: BMO Completes Sale of 138 U.S. Branches 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: This TSX stock was a top gainer with products less
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Deploy a multimodal WhatsApp ordering assistant wi
+[2026-09-06 17:01:09] Пропускаю уже отправленную: Cisco remakes the edge for AI’s data-heavy future
+[2026-09-06 17:01:09] Нет фото: kquika-sansai 1.1.0
+[2026-09-06 17:01:09] Пропускаю уже отправленную: Report: OpenAI agents took over a website, used it
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Microsoft Project Zenith: ready-to-code Windows 11
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Congrats to the Engineering, Science & Technology 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Telco operators reject quality of service norms fo
+[2026-09-06 17:01:09] Нет фото: cosc604 added to PyPI
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Crypto Traders Are Pairing Meme Coins With Stocks 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Nagpur cops’ Coimbatore raid exposes mule account 
+[2026-09-06 17:01:09] Не про ИИ, пропускаю: Fred Hollows built something remarkable but its fu
+[2026-09-06 17:01:09] Пропускаю уже отправленную: STM using AI to detect people loitering in certain
+[2026-09-06 17:01:09] AI новости: 8 кандидатов после фильтрации
+[2026-09-06 17:01:11] Редакторский отбор: выбраны позиции [2, 1, 4, 5]
+[2026-09-06 17:01:11] Обрабатываю: Kai-Fu Lee explains why Chinese AI’s ‘good enough’ strategy  | https://cryptobriefing.com/kai-fu-lee-chinese-ai-global-edge/
+[2026-09-06 17:01:11] Полный текст получен (3000 символов)
+[2026-09-06 17:01:11] Попытка 1 для: Kai-Fu Lee explains why Chinese AI’s ‘go
+[2026-09-06 17:01:13] Успешно, получено 1733 символов
+[2026-09-06 17:01:13] Обрабатываю: TCS’s HyperVault to build 1GW AI data centre in Telangana's  | https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-dat
+[2026-09-06 17:01:13] Полный текст получен (3000 символов)
+[2026-09-06 17:01:13] Попытка 1 для: TCS’s HyperVault to build 1GW AI data ce
+[2026-09-06 17:01:16] Успешно, получено 1984 символов
+[2026-09-06 17:01:16] Обрабатываю: Beyond Zero: Google Publishes Successor to BeyondCorp | https://www.infoq.com/news/2026/09/google-beyond-zero/
+[2026-09-06 17:01:17] Полный текст получен (3000 символов)
+[2026-09-06 17:01:17] Попытка 1 для: Beyond Zero: Google Publishes Successor 
+[2026-09-06 17:01:20] Успешно, получено 2070 символов
+[2026-09-06 17:01:20] Обрабатываю: Equinix turns the network into the control plane for enterpr | https://siliconangle.com/2026/09/04/equinix-turns-the-network-into-the
+[2026-09-06 17:01:21] Полный текст получен (3000 символов)
+[2026-09-06 17:01:21] Попытка 1 для: Equinix turns the network into the contr
+[2026-09-06 17:01:35] Успешно, получено 1866 символов
+[2026-09-06 17:01:38] Пауза 60 секунд...
+[2026-09-06 17:02:38] Пауза 60 секунд...
+[2026-09-06 17:03:39] Пауза 60 секунд...
+[2026-09-06 17:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-09-06 17:04:39] === Блок ai_evening завершён ===
