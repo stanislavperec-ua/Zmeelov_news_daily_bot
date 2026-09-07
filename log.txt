@@ -1,135 +1,3 @@
-[2026-09-01 10:01:46] Попытка 1 для: Bessent heads to the G20 to rally allies
-[2026-09-01 10:02:11] Успешно, получено 779 символов
-[2026-09-01 10:02:14] Пауза 60 секунд...
-[2026-09-01 10:03:14] Пауза 60 секунд...
-[2026-09-01 10:04:15] Пауза 60 секунд...
-[2026-09-01 10:05:15] sent_urls.txt обрезан: 304 -> 300
-[2026-09-01 10:05:15] === Блок midday завершён ===
-[2026-09-01 15:01:15] Загружено 300 уже отправленных новостей
-[2026-09-01 15:01:15] === Запуск блока: evening (тест: False) ===
-[2026-09-01 15:01:15] Неизвестный источник (weather.com): Edouard could form in Gulf, bringing soa
-[2026-09-01 15:01:15] Заблокированный источник (finance.yahoo.com): It's Tim Cook's last day as Apple CEO. I
-[2026-09-01 15:01:15] Пропускаю уже отправленную: The U.S. Venezuela oil deal won’t lower your gas p
-[2026-09-01 15:01:15] Неизвестный источник (patspulpit.com): 8 winners and losers from Patriots roste
-[2026-09-01 15:01:15] Неизвестный источник (jpost.com): Greece, Israel sign over NIS 10b. defens
-[2026-09-01 15:01:15] Неизвестный источник (abcnews.com): Novak Djokovic loses in opening round of
-[2026-09-01 15:01:15] Пропускаю уже отправленную: Bessent heads to the G20 to rally allies on Iran a
-[2026-09-01 15:01:15] Неизвестный источник (wgal.com): FULL INTERVIEW | Lancaster County corone
-[2026-09-01 15:01:15] Заблокированный источник (nypost.com): Ladera Ranch childhood cancer mystery de
-[2026-09-01 15:01:15] Неизвестный источник (pbs.org): Lake Ontario now called Lake America on 
-[2026-09-01 15:01:15] Неизвестный источник (forbes.com): Northern Lights Could Be Visible From Th
-[2026-09-01 15:01:15] Неизвестный источник (variety.com): ‘Days of Thunder’ Star Randy Quaid Says 
-[2026-09-01 15:01:15] Неизвестный источник (forbes.com): Apple iPhone 18 Pro Release Timeline: Ne
-[2026-09-01 15:01:15] Неизвестный источник (pbs.org): Karina becomes a Pacific hurricane well 
-[2026-09-01 15:01:15] Неизвестный источник (movieweb.com): Ridley Scott's New Sci-Fi Epic Tanks at 
-[2026-09-01 15:01:15] Старая новость (2026-08-30T12:22:34Z): Microsoft Admits Windows 11 KB5120998 Up
-[2026-09-01 15:01:15] Старая новость (2026-08-29T15:00:00Z): When is the next lunar eclipse? - Space
-[2026-09-01 15:01:15] Старая новость (2026-08-28T22:29:00Z): Android 17 QPR2 adds Status bar customiz
-[2026-09-01 15:01:15] Старая новость (2026-08-28T18:00:08Z): Scientists capture first molecular-level
-[2026-09-01 15:01:15] Мировые новости: найдено 13 после фильтрации
-[2026-09-01 15:01:17] Редакторский отбор: выбраны позиции [3, 8, 1, 5]
-[2026-09-01 15:01:18] RSS Ukrinform: 30 записей
-[2026-09-01 15:01:19] RSS Ukrinform: 30 записей
-[2026-09-01 15:01:19] Пропускаю уже отправленную: Russian ballistic missile strike on railway infras
-[2026-09-01 15:01:19] RSS Euromaidan Press: 29 записей
-[2026-09-01 15:01:19] Старая новость (2026-08-30T13:12:01Z): Ukraine strikes Russia’s second-largest 
-[2026-09-01 15:01:19] Старая новость (2026-08-30T12:05:35Z): Four days of Russian attacks keep Kyiv u
-[2026-09-01 15:01:19] Старая новость (2026-08-30T05:14:02Z): Ukrainian ground-robot maker has moved i
-[2026-09-01 15:01:19] Старая новость (2026-08-30T04:31:20Z): Russo-Ukrainian war, day 1648: Russia hu
-[2026-09-01 15:01:19] Старая новость (2026-08-29T19:37:53Z): “We have surprises for our neighbors”: U
-[2026-09-01 15:01:19] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-09-01 15:01:19] Заблокированный источник (nypost.com): Russia strikes Kyiv for fifth straight d
-[2026-09-01 15:01:19] Заблокированный источник (sputnikglobe.com): Russia Intensifies Campaign Against Ukra
-[2026-09-01 15:01:19] Заблокированный источник (biztoc.com): Modi to talk Ukraine conflict solutions 
-[2026-09-01 15:01:19] Заблокированный источник (sputnikglobe.com): Ukraine Not Open to Mediator Pressure on
-[2026-09-01 15:01:19] Заблокированный источник (nypost.com): Putin, Modi and Xi Jinping unite for ant
-[2026-09-01 15:01:19] Нет фото: Russia plans to open 16 polling stations
-[2026-09-01 15:01:19] Заблокированный источник (biztoc.com): Russian Military Strikes Destroy 10 Mill
-[2026-09-01 15:01:19] Заблокированный источник (dailymail.com): Putin meets his ally Chinese President X
-[2026-09-01 15:01:19] Заблокированный источник (sputnikglobe.com): Putin and Xi Meet in 'Friendly, Construc
-[2026-09-01 15:01:19] Заблокированный источник (dailymail.com): Strictly's Karen Hauer, 44, flashes her 
-[2026-09-01 15:01:19] Заблокированный источник (yahoo.com): Turkey says it has Black Sea grain plan 
-[2026-09-01 15:01:19] Заблокированный источник (prnewswire.com): IPA Terminal Commences Arbitration to Pr
-[2026-09-01 15:01:19] Заблокированный источник (biztoc.com): European Forces Seize Sixth Oil Tanker L
-[2026-09-01 15:01:19] Заблокированный источник (uk.news.yahoo.com): Taiwan says 'unpredictable' China streng
-[2026-09-01 15:01:19] Внутренний дубль: Russian military attacks Kushuhum in Zaporizhzhia 
-[2026-09-01 15:01:19] Внутренний дубль: Russian drone attacks taxi in Kherson, injuring tw
-[2026-09-01 15:01:19] Внутренний дубль: Defense Forces debunk Russian claim of capturing M
-[2026-09-01 15:01:19] Внутренний дубль: General Staff: Russian army lost over 124,000 troo
-[2026-09-01 15:01:19] Внутренний дубль: Russian forces strike Nova Poshta terminal in Odes
-[2026-09-01 15:01:19] Внутренний дубль: Russia attacks Orlivka international border crossi
-[2026-09-01 15:01:19] Внутренний дубль: Air Force spokesperson says all cruise missiles we
-[2026-09-01 15:01:19] Внутренний дубль: Russian forces attack enterprise in Poltava commun
-[2026-09-01 15:01:19] Внутренний дубль: Fire breaks out in Kyiv high-rise following drone 
-[2026-09-01 15:01:19] Внутренний дубль: Fire erupts in apartment building in Kyiv’s Podils
-[2026-09-01 15:01:19] Внутренний дубль: Defense Forces strike Russian drone launch sites, 
-[2026-09-01 15:01:19] Внутренний дубль: Russia’s overnight attack kills 12, including Indi
-[2026-09-01 15:01:19] Внутренний дубль: Five injured in Russian strikes in Kharkiv region 
-[2026-09-01 15:01:19] Внутренний дубль: Death toll from overnight atack on Kyiv rises to e
-[2026-09-01 15:01:19] Внутренний дубль: Drones attack Ust-Luga port in Leningrad region, f
-[2026-09-01 15:01:19] Внутренний дубль: Air defenses neutralize 10 missiles and 187 drones
-[2026-09-01 15:01:19] Внутренний дубль: Death toll from Russian ballistic missile attack i
-[2026-09-01 15:01:19] Внутренний дубль: Enemy attacks Dnipropetrovsk region more than 20 t
-[2026-09-01 15:01:19] Внутренний дубль: Russian army loses another 1,440 personnel and 71 
-[2026-09-01 15:01:19] Украинские новости: найдено 65 после фильтрации
-[2026-09-01 15:01:21] Редакторский отбор: выбраны позиции [5, 13]
-[2026-09-01 15:01:21] NewsAPI (Харьков, все издания): пришло 1 статей
-[2026-09-01 15:01:22] RSS Ukrinform: 30 записей
-[2026-09-01 15:01:23] RSS Ukrinform: 30 записей
-[2026-09-01 15:01:23] RSS Euromaidan Press: 29 записей
-[2026-09-01 15:01:23] Заблокированный источник (biztoc.com): Russian Military Strikes Destroy 10 Mill
-[2026-09-01 15:01:23] Старая новость (2026-08-30T13:12:01Z): Ukraine strikes Russia’s second-largest 
-[2026-09-01 15:01:23] Старая новость (2026-08-30T12:05:35Z): Four days of Russian attacks keep Kyiv u
-[2026-09-01 15:01:23] Старая новость (2026-08-30T05:14:02Z): Ukrainian ground-robot maker has moved i
-[2026-09-01 15:01:23] Старая новость (2026-08-30T04:31:20Z): Russo-Ukrainian war, day 1648: Russia hu
-[2026-09-01 15:01:23] Старая новость (2026-08-29T19:37:53Z): “We have surprises for our neighbors”: U
-[2026-09-01 15:01:23] Внутренний дубль: Five injured in Russian strikes in Kharkiv region 
-[2026-09-01 15:01:23] Харьков: найдена новость: Five injured in Russian strikes in Kharkiv region 
-[2026-09-01 15:01:23] Обрабатываю: A U.S. strike on Iran breaks a month-long lull, and Iran fir | https://www.washingtonpost.com/national-security/2026/08/30/us-strikes
-[2026-09-01 15:01:35] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/national-security/2026/08/30/
-[2026-09-01 15:01:35] Попытка 1 для: A U.S. strike on Iran breaks a month-lon
-[2026-09-01 15:01:37] Успешно, получено 788 символов
-[2026-09-01 15:01:37] Обрабатываю: Hundreds of workers feared stuck in hydropower tunnels as Ne | https://apnews.com/article/nepal-tibet-china-flash-floods-744fe6e15ae7
-[2026-09-01 15:01:37] Попытка 1 для: Hundreds of workers feared stuck in hydr
-[2026-09-01 15:01:49] Успешно, получено 799 символов
-[2026-09-01 15:01:49] Обрабатываю: At least 1 dead, over a dozen missing at Grand Canyon after  | https://www.nbcnews.com/news/us-news/20-missing-grand-canyon-extreme-f
-[2026-09-01 15:01:50] Полный текст получен (3000 символов)
-[2026-09-01 15:01:50] Попытка 1 для: At least 1 dead, over a dozen missing at
-[2026-09-01 15:02:20] Успешно, получено 1521 символов
-[2026-09-01 15:02:20] Обрабатываю: US futures fall and oil prices surge after US hits Iranian s | https://apnews.com/article/stocks-markets-ipo-oil-rates-fed-future-00f
-[2026-09-01 15:02:20] Попытка 1 для: US futures fall and oil prices surge aft
-[2026-09-01 15:02:22] Успешно, получено 772 символов
-[2026-09-01 15:02:25] Пауза 60 секунд...
-[2026-09-01 15:03:25] Пауза 60 секунд...
-[2026-09-01 15:04:25] Пауза 60 секунд...
-[2026-09-01 15:05:26] Обрабатываю: Lubinets: 423 educational institutions destroyed by enemy sh | https://www.ukrinform.net/rubric-society/4159774-lubinets-423-educatio
-[2026-09-01 15:05:27] Полный текст получен (1248 символов)
-[2026-09-01 15:05:27] Попытка 1 для: Lubinets: 423 educational institutions d
-[2026-09-01 15:05:30] Успешно, получено 1782 символов
-[2026-09-01 15:05:30] Обрабатываю: Fire breaks out in Kyiv high-rise following drone attack, th | https://www.ukrinform.net/rubric-ato/4159697-fire-breaks-out-in-kyiv-h
-[2026-09-01 15:05:31] Полный текст получен (835 символов)
-[2026-09-01 15:05:31] Попытка 1 для: Fire breaks out in Kyiv high-rise follow
-[2026-09-01 15:05:32] Успешно, получено 1116 символов
-[2026-09-01 15:05:32] Обрабатываю: Five injured in Russian strikes in Kharkiv region over past  | https://www.ukrinform.net/rubric-ato/4159626-five-injured-in-russian-s
-[2026-09-01 15:05:33] Полный текст получен (2014 символов)
-[2026-09-01 15:05:33] Попытка 1 для: Five injured in Russian strikes in Khark
-[2026-09-01 15:05:59] Успешно, получено 1403 символов
-[2026-09-01 15:06:02] Пауза 60 секунд...
-[2026-09-01 15:07:02] Пауза 60 секунд...
-[2026-09-01 15:08:03] sent_urls.txt обрезан: 307 -> 300
-[2026-09-01 15:08:03] === Блок evening завершён ===
-[2026-09-01 17:01:19] Загружено 300 уже отправленных новостей
-[2026-09-01 17:01:19] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-01 17:01:20] Неизвестный источник (brobible.com): The Bills Are Already Replacing The Fiel
-[2026-09-01 17:01:20] Неизвестный источник (capitalandmain.com): Mental Health Workers Say Algorithmic Tr
-[2026-09-01 17:01:20] Неизвестный источник (siliconangle.com): OpenClaw just gave everyone version 2.0 
-[2026-09-01 17:01:20] Неизвестный источник (wnd.com): Here are the 20 biggest donors in the mi
-[2026-09-01 17:01:20] Неизвестный источник (pymnts.com): AI Opens a New Distribution Channel for 
-[2026-09-01 17:01:20] Неизвестный источник (siliconangle.com): On theCUBE Pod: Nvidia steamrolls expect
-[2026-09-01 17:01:20] Нет фото: HUMAIN and Applied Intuition Announce St
-[2026-09-01 17:01:20] Неизвестный источник (hothardware.com): NASA’s New Telescope Begins A Million-Mi
-[2026-09-01 17:01:20] Нет фото: AMD, Cisco and HUMAIN Expand Saudi Arabi
-[2026-09-01 17:01:20] Нет фото: HUMAIN and KORA Partner to Build Operati
 [2026-09-01 17:01:20] Неизвестный источник (blogs.cisco.com): The AI ready home: how Cisco helps broad
 [2026-09-01 17:01:20] Неизвестный источник (military.com): Japan to Beef Up Its Defense with Drones
 [2026-09-01 17:01:20] Неизвестный источник (ibtimes.com.au): Amazon Stock Falls More Than 2 Percent a
@@ -2998,3 +2866,135 @@
 [2026-09-07 10:03:33] Пауза 60 секунд...
 [2026-09-07 10:04:33] sent_urls.txt обрезан: 304 -> 300
 [2026-09-07 10:04:33] === Блок midday завершён ===
+[2026-09-07 15:01:13] Загружено 300 уже отправленных новостей
+[2026-09-07 15:01:13] === Запуск блока: evening (тест: False) ===
+[2026-09-07 15:01:13] Неизвестный источник (foxnews.com): LSU had a revival, Clemson was at a fune
+[2026-09-07 15:01:13] Пропускаю уже отправленную: German voters head to polls as far-right AfD party
+[2026-09-07 15:01:13] Неизвестный источник (usatoday.com): Michigan Hail Mary robs Western Michigan
+[2026-09-07 15:01:13] Неизвестный источник (deadline.com): 2026 Emmy Awards Winners List -- Live Up
+[2026-09-07 15:01:13] Пропускаю уже отправленную: U.S. military says it hit 3 Iranian tankers after 
+[2026-09-07 15:01:13] Неизвестный источник (komonews.com): Washington blocks new Trump mail voting 
+[2026-09-07 15:01:13] Пропускаю уже отправленную: Hurricane Lowell threatens Hawaiian islands with l
+[2026-09-07 15:01:13] Неизвестный источник (mensjournal.com): ‘Spider-Man: Brand New Day’ Nears Box-Of
+[2026-09-07 15:01:13] Неизвестный источник (espn.com): Salahdine Parnasse knocks out Dan Hooker
+[2026-09-07 15:01:13] Неизвестный источник (gematsu.com): Sid Meier’s Civilization VII major updat
+[2026-09-07 15:01:13] Неизвестный источник (gizmodo.com): OpenAI Says It Wants to Create a Standar
+[2026-09-07 15:01:13] Нет фото: Just one drink a day may increase the ri
+[2026-09-07 15:01:13] Неизвестный источник (variety.com): Robert Pattinson Kisses Suki Waterhouse 
+[2026-09-07 15:01:13] Неизвестный источник (foxnews.com): Trump weighs in on Lindsay Clancy murder
+[2026-09-07 15:01:13] Старая новость (2026-09-05T13:00:00Z): Top Stories: 'Surprise and Shine' Apple 
+[2026-09-07 15:01:13] Старая новость (2026-09-05T10:45:00Z): The Pixel 11 Pro should be a disappointm
+[2026-09-07 15:01:13] Старая новость (2026-09-05T07:17:46Z): Have scientists discovered a dark matter
+[2026-09-07 15:01:13] Старая новость (2026-09-05T06:41:00Z): BepiColombo sheds its ride and starts th
+[2026-09-07 15:01:13] Старая новость (2026-09-02T22:56:00Z): Top US doctors offer updated flu and COV
+[2026-09-07 15:01:13] Старая новость (2026-09-02T21:19:34Z): Landmark pancreatic cancer drug shows po
+[2026-09-07 15:01:13] Мировые новости: найдено 8 после фильтрации
+[2026-09-07 15:01:15] Редакторский отбор: выбраны позиции [2, 3, 6, 8]
+[2026-09-07 15:01:16] RSS Ukrinform: 30 записей
+[2026-09-07 15:01:18] RSS Ukrinform: 30 записей
+[2026-09-07 15:01:18] RSS Euromaidan Press: 29 записей
+[2026-09-07 15:01:18] Старая новость (2026-09-05T14:50:03Z): More than 400 defense firms ask Kyiv to 
+[2026-09-07 15:01:18] Старая новость (2026-09-05T14:30:24Z): Slovakia, led by one of EU’s most Russia
+[2026-09-07 15:01:18] Старая новость (2026-09-05T12:09:42Z): Russia made 500 Ukrainian schoolchildren
+[2026-09-07 15:01:18] Старая новость (2026-09-05T11:49:39Z): From HQ to the zero line: Ukraine’s Hraf
+[2026-09-07 15:01:18] Старая новость (2026-09-05T11:45:26Z): Ukraine is taking 1980s Leopards from ac
+[2026-09-07 15:01:18] Старая новость (2026-09-05T11:27:10Z): “Everyone is absolutely livid”: Expert s
+[2026-09-07 15:01:18] Старая новость (2026-09-05T10:45:23Z): Russia destroyed most of Ukraine’s big w
+[2026-09-07 15:01:18] Старая новость (2026-09-04T21:44:52Z): Russo-Ukrainian war, day 1654: Ukraine o
+[2026-09-07 15:01:18] Старая новость (2026-09-04T21:25:55Z): Ukraine orders temporary ceasefire as US
+[2026-09-07 15:01:18] Старая новость (2026-09-04T21:03:07Z): Germany suspects Russian intelligence be
+[2026-09-07 15:01:18] Старая новость (2026-09-04T19:53:48Z): After years of disputes, Hungary finds c
+[2026-09-07 15:01:18] Старая новость (2026-09-04T18:19:34Z): Ukraine’s anti-corruption agencies targe
+[2026-09-07 15:01:18] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-07 15:01:18] Нет фото: US envoys make first Kyiv visit amid Ukr
+[2026-09-07 15:01:18] Заблокированный источник (biztoc.com): Witkoff, Kushner hold talks with Zelensk
+[2026-09-07 15:01:18] Заблокированный источник (sputnikglobe.com): Russian Strike Ignites Cargo Ship Carryi
+[2026-09-07 15:01:18] Заблокированный источник (biztoc.com): U.S. envoys Witkoff and Kushner arrive i
+[2026-09-07 15:01:18] Нет фото: 2 spacecraft will soon reach Mercury aft
+[2026-09-07 15:01:18] Заблокированный источник (breitbart.com): U.N. Backs New Map Projection, Demands W
+[2026-09-07 15:01:18] Заблокированный источник (biztoc.com): US Envoys Test New Opening in Ukraine Ta
+[2026-09-07 15:01:18] Нет фото: US envoys Kushner and Witkoff arrive in 
+[2026-09-07 15:01:18] Заблокированный источник (dailymail.com): Russia claims Germany 'wants war again' 
+[2026-09-07 15:01:18] Заблокированный источник (nypost.com): US peace envoys Jared Kushner and Steve 
+[2026-09-07 15:01:18] Заблокированный источник (rt.com): Kremlin sees ‘atmosphere of trust in Put
+[2026-09-07 15:01:18] Заблокированный источник (yahoo.com): US Envoy Set for Talks in Ukraine After 
+[2026-09-07 15:01:18] Заблокированный источник (finance.yahoo.com): Inflation data, Oracle earnings, and an 
+[2026-09-07 15:01:18] Заблокированный источник (rt.com): View from Russia: Experts on why Kushner
+[2026-09-07 15:01:18] Внутренний дубль: Kyiv to restrict mass events at venues without she
+[2026-09-07 15:01:18] Внутренний дубль: Ukraine's military intelligence strikes Russian ai
+[2026-09-07 15:01:18] Внутренний дубль: Ukraine's military intelligence strikes Russian ai
+[2026-09-07 15:01:18] Внутренний дубль: Russian drones strike enterprise in Pryluky, woman
+[2026-09-07 15:01:18] Внутренний дубль: Kyiv to shorten curfew by one hour starting Septem
+[2026-09-07 15:01:18] Внутренний дубль: Apartment building damaged in drone attack on Zapo
+[2026-09-07 15:01:18] Внутренний дубль: Over 60% of Russians are against the war --HUR Chi
+[2026-09-07 15:01:18] Внутренний дубль: Ukrainian strikes on logistics hubs disrupt Russia
+[2026-09-07 15:01:18] Внутренний дубль: Defense Forces strike railway bridge over North Cr
+[2026-09-07 15:01:18] Внутренний дубль: Russia may have sufficient resources to continue t
+[2026-09-07 15:01:18] Внутренний дубль: Ukraine capable of striking 2,000 kilometers deep 
+[2026-09-07 15:01:18] Внутренний дубль: Russia to increase pressure on NATO’s eastern flan
+[2026-09-07 15:01:18] Внутренний дубль: Defense Forces strike oil refineries in three Russ
+[2026-09-07 15:01:18] Внутренний дубль: Russia’s 101st Missile Brigade units deployed in B
+[2026-09-07 15:01:18] Внутренний дубль: Two killed, four injured in Russian airstrike on K
+[2026-09-07 15:01:18] Внутренний дубль: Russia launches 32 Rassvet satellites — HUR Chief
+[2026-09-07 15:01:18] Внутренний дубль: Crimea is 100% within the strike range of Ukrainia
+[2026-09-07 15:01:18] Внутренний дубль: Ukrainian SOF destroy Russian ammunition depot in 
+[2026-09-07 15:01:18] Внутренний дубль: General Biletskyi refutes Russian claim of capturi
+[2026-09-07 15:01:18] Внутренний дубль: Injuries reported as Russian forces attack Zaporiz
+[2026-09-07 15:01:18] Внутренний дубль: Russians attack Zaporizhzhia’s largest shopping ma
+[2026-09-07 15:01:18] Внутренний дубль: US envoys Witkoff, Kushner arrive in Kiyv after Pu
+[2026-09-07 15:01:18] Внутренний дубль: U.S. envoys Witkoff and Kushner arrive in Kyiv aft
+[2026-09-07 15:01:18] Украинские новости: найдено 67 после фильтрации
+[2026-09-07 15:01:20] Редакторский отбор: выбраны позиции [10, 16]
+[2026-09-07 15:01:20] NewsAPI (Харьков, все издания): пришло 8 статей
+[2026-09-07 15:01:21] RSS Ukrinform: 30 записей
+[2026-09-07 15:01:23] RSS Ukrinform: 30 записей
+[2026-09-07 15:01:23] RSS Euromaidan Press: 29 записей
+[2026-09-07 15:01:23] Заблокированный источник (breitbart.com): Trump Envoys Kushner and Witkoff Arrive 
+[2026-09-07 15:01:23] Заблокированный источник (biztoc.com): Eight killed, 69 wounded in Russian atta
+[2026-09-07 15:01:23] Заблокированный источник (thegatewaypundit.com): Field Report: Russia Strikes Kyiv, Odesa
+[2026-09-07 15:01:23] Старая новость (2026-09-05T14:50:03Z): More than 400 defense firms ask Kyiv to 
+[2026-09-07 15:01:23] Старая новость (2026-09-05T14:30:24Z): Slovakia, led by one of EU’s most Russia
+[2026-09-07 15:01:23] Старая новость (2026-09-05T12:09:42Z): Russia made 500 Ukrainian schoolchildren
+[2026-09-07 15:01:23] Старая новость (2026-09-05T11:49:39Z): From HQ to the zero line: Ukraine’s Hraf
+[2026-09-07 15:01:23] Старая новость (2026-09-05T11:45:26Z): Ukraine is taking 1980s Leopards from ac
+[2026-09-07 15:01:23] Старая новость (2026-09-05T11:27:10Z): “Everyone is absolutely livid”: Expert s
+[2026-09-07 15:01:23] Старая новость (2026-09-05T10:45:23Z): Russia destroyed most of Ukraine’s big w
+[2026-09-07 15:01:23] Старая новость (2026-09-04T21:44:52Z): Russo-Ukrainian war, day 1654: Ukraine o
+[2026-09-07 15:01:23] Старая новость (2026-09-04T21:25:55Z): Ukraine orders temporary ceasefire as US
+[2026-09-07 15:01:23] Старая новость (2026-09-04T21:03:07Z): Germany suspects Russian intelligence be
+[2026-09-07 15:01:23] Старая новость (2026-09-04T19:53:48Z): After years of disputes, Hungary finds c
+[2026-09-07 15:01:23] Старая новость (2026-09-04T18:19:34Z): Ukraine’s anti-corruption agencies targe
+[2026-09-07 15:01:23] Харьков: найдена новость: Five injured in Kharkiv region due to Russian atta
+[2026-09-07 15:01:23] Обрабатываю: Witkoff and Kushner arrive in Kyiv for second leg of US dipl | https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl
+[2026-09-07 15:01:23] Полный текст получен (3000 символов)
+[2026-09-07 15:01:23] Попытка 1 для: Witkoff and Kushner arrive in Kyiv for s
+[2026-09-07 15:01:25] Успешно, получено 1469 символов
+[2026-09-07 15:01:25] Обрабатываю: Indonesia volcano eruption cancels hundreds of flights in ma | https://www.cbsnews.com/news/indonesia-volcano-eruption-flights-airpor
+[2026-09-07 15:01:25] Полный текст получен (3000 символов)
+[2026-09-07 15:01:25] Попытка 1 для: Indonesia volcano eruption cancels hundr
+[2026-09-07 15:01:29] Успешно, получено 2088 символов
+[2026-09-07 15:01:29] Обрабатываю: Rescuers in Nepal pull 2 people alive from the debris 10 day | https://apnews.com/article/nepal-floods-chinese-national-alive-f9a6d18
+[2026-09-07 15:01:29] Попытка 1 для: Rescuers in Nepal pull 2 people alive fr
+[2026-09-07 15:01:31] Успешно, получено 889 символов
+[2026-09-07 15:01:31] Обрабатываю: RFK Jr. accepts PA child died of measles, says Shapiro hasti | https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsyl
+[2026-09-07 15:01:32] Попытка 1 для: RFK Jr. accepts PA child died of measles
+[2026-09-07 15:01:44] Успешно, получено 848 символов
+[2026-09-07 15:01:47] Пауза 60 секунд...
+[2026-09-07 15:02:48] Пауза 60 секунд...
+[2026-09-07 15:03:49] Пауза 60 секунд...
+[2026-09-07 15:04:49] Обрабатываю: Dombrovskis, Koretskyi discuss Ukraine’s financial needs — E | https://www.ukrinform.net/rubric-polytics/4161653-dombrovskis-koretsky
+[2026-09-07 15:04:50] Полный текст получен (2112 символов)
+[2026-09-07 15:04:50] Попытка 1 для: Dombrovskis, Koretskyi discuss Ukraine’s
+[2026-09-07 15:04:53] Успешно, получено 1561 символов
+[2026-09-07 15:04:53] Обрабатываю: European Commission considers Danube Corridor an alternative | https://www.ukrinform.net/rubric-economy/4161629-european-commission-c
+[2026-09-07 15:04:55] Полный текст получен (2287 символов)
+[2026-09-07 15:04:55] Попытка 1 для: European Commission considers Danube Cor
+[2026-09-07 15:04:57] Успешно, получено 1438 символов
+[2026-09-07 15:04:57] Обрабатываю: Five injured in Kharkiv region due to Russian attacks over p | https://www.ukrinform.net/rubric-ato/4161533-five-injured-in-kharkiv-r
+[2026-09-07 15:04:58] Полный текст получен (764 символов)
+[2026-09-07 15:04:58] Попытка 1 для: Five injured in Kharkiv region due to Ru
+[2026-09-07 15:05:01] Успешно, получено 1476 символов
+[2026-09-07 15:05:04] Пауза 60 секунд...
+[2026-09-07 15:06:05] Пауза 60 секунд...
+[2026-09-07 15:07:06] sent_urls.txt обрезан: 307 -> 300
+[2026-09-07 15:07:06] === Блок evening завершён ===
