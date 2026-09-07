@@ -1,49 +1,3 @@
-[2026-09-01 07:01:18] Полный текст получен (3000 символов)
-[2026-09-01 07:01:18] Попытка 1 для: Bentley Awards Finalists Signal AI Shift
-[2026-09-01 07:01:20] Успешно, получено 1756 символов
-[2026-09-01 07:01:23] Пауза 60 секунд...
-[2026-09-01 07:02:24] sent_urls.txt обрезан: 302 -> 300
-[2026-09-01 07:02:24] === Блок ai_morning завершён ===
-[2026-09-01 10:01:14] Загружено 300 уже отправленных новостей
-[2026-09-01 10:01:14] === Запуск блока: midday (тест: False) ===
-[2026-09-01 10:01:14] Заблокированный источник (nypost.com): 9/11 cancers skyrocket nearly 1,700% as 
-[2026-09-01 10:01:14] Лента обновлений, пропускаю: Stock futures fall after U.S. strikes Ir
-[2026-09-01 10:01:14] Заблокированный источник (finance.yahoo.com): Oil jumps more than 2% after US attack o
-[2026-09-01 10:01:14] Пропускаю уже отправленную: Iran attacks US bases in Jordan after US strikes L
-[2026-09-01 10:01:14] Неизвестный источник (espn.com): Novak Djokovic upset by Mariano Navone i
-[2026-09-01 10:01:14] Неизвестный источник (ktla.com): A hurricane could form near Southern Cal
-[2026-09-01 10:01:14] Неизвестный источник (wgal.com): FULL INTERVIEW | Lancaster County corone
-[2026-09-01 10:01:14] Неизвестный источник (cbssports.com): Scottie Scheffler passes Tiger Woods at 
-[2026-09-01 10:01:14] Неизвестный источник (techpowerup.com): GTA VI Extended Gameplay Preview Attract
-[2026-09-01 10:01:14] Неизвестный источник (wyff4.com): NCDPH: Hotel guests possibly exposed to 
-[2026-09-01 10:01:14] Неизвестный источник (forbes.com): Northern Lights Could Be Visible From Th
-[2026-09-01 10:01:14] Неизвестный источник (forbes.com): Apple iPhone 18 Pro Release Timeline: Ne
-[2026-09-01 10:01:14] Неизвестный источник (usatoday.com): USC responds to empty crowd in Week 0 wi
-[2026-09-01 10:01:14] Неизвестный источник (rollingstone.com): Olivia Rodrigo's Daisy Chain Fields Fest
-[2026-09-01 10:01:14] Неизвестный источник (space.com): Trump calls in to NASA press conference 
-[2026-09-01 10:01:14] Неизвестный источник (variety.com): Box Office: ‘The Dog Stars’ Bombs With $
-[2026-09-01 10:01:14] Неизвестный источник (newsnationnow.com): When Social Security recipients will get
-[2026-09-01 10:01:14] Неизвестный источник (israelhayom.com): Facing a 'Muslim NATO': Israel's biggest
-[2026-09-01 10:01:14] Неизвестный источник (fool.com): I've Covered Semiconductors for 5 Years.
-[2026-09-01 10:01:14] Старая новость (2026-08-30T02:45:00Z): Xbox CEO says next-gen Project Helix wil
-[2026-09-01 10:01:14] Старая новость (2026-08-29T15:00:00Z): When is the next lunar eclipse? - Space
-[2026-09-01 10:01:14] Старая новость (2026-08-29T11:09:02Z): Here's our best look yet at the inward-f
-[2026-09-01 10:01:14] Старая новость (2026-08-28T18:00:08Z): Scientists capture first molecular-level
-[2026-09-01 10:01:14] Мировые новости: найдено 9 после фильтрации
-[2026-09-01 10:01:15] Редакторский отбор: выбраны позиции [9, 3, 1, 4]
-[2026-09-01 10:01:15] Обрабатываю: Russian strikes on food warehouses pose threat of shortages  | https://www.washingtonpost.com/world/2026/08/30/russian-strikes-food-w
-[2026-09-01 10:01:27] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/08/30/russian-stri
-[2026-09-01 10:01:27] Попытка 1 для: Russian strikes on food warehouses pose 
-[2026-09-01 10:01:29] Успешно, получено 741 символов
-[2026-09-01 10:01:29] Обрабатываю: China's Xi builds diplomatic clout with multiple state visit | https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi
-[2026-09-01 10:01:30] Полный текст получен (3000 символов)
-[2026-09-01 10:01:30] Попытка 1 для: China's Xi builds diplomatic clout with 
-[2026-09-01 10:01:32] Успешно, получено 1615 символов
-[2026-09-01 10:01:32] Обрабатываю: The U.S. Venezuela oil deal won’t lower your gas prices. Her | https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal
-[2026-09-01 10:01:32] Полный текст получен (3000 символов)
-[2026-09-01 10:01:32] Попытка 1 для: The U.S. Venezuela oil deal won’t lower 
-[2026-09-01 10:01:46] Успешно, получено 1594 символов
-[2026-09-01 10:01:46] Обрабатываю: Bessent heads to the G20 to rally allies on Iran as tariffs  | https://apnews.com/article/bessent-treasury-g20-finance-ministers-iran
 [2026-09-01 10:01:46] Попытка 1 для: Bessent heads to the G20 to rally allies
 [2026-09-01 10:02:11] Успешно, получено 779 символов
 [2026-09-01 10:02:14] Пауза 60 секунд...
@@ -2998,3 +2952,49 @@
 [2026-09-07 07:01:18] Пауза 60 секунд...
 [2026-09-07 07:02:19] sent_urls.txt обрезан: 302 -> 300
 [2026-09-07 07:02:19] === Блок ai_morning завершён ===
+[2026-09-07 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-07 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-07 10:01:13] Неизвестный источник (tucson.com): Tucson real estate agent duct-taped to s
+[2026-09-07 10:01:13] Неизвестный источник (espn.com): Lane Kiffin's LSU era begins with easy v
+[2026-09-07 10:01:13] Неизвестный источник (mlbtraderumors.com): Dodgers Notes: Ohtani, Rushing, Hernande
+[2026-09-07 10:01:13] Спорт, пропускаю: Michigan football stuns WMU with miracle
+[2026-09-07 10:01:13] Неизвестный источник (deadline.com): Emmy Awards Night 1 Winners: The Full Li
+[2026-09-07 10:01:13] Пропускаю уже отправленную: U.S. military says it hit 3 Iranian tankers after 
+[2026-09-07 10:01:13] Неизвестный источник (komonews.com): Washington blocks new Trump mail voting 
+[2026-09-07 10:01:13] Неизвестный источник (mmafighting.com): UFC Paris Results: Hooker vs. Parnasse -
+[2026-09-07 10:01:13] Неизвестный источник (gizmodo.com): OpenAI Says It Wants to Create a Standar
+[2026-09-07 10:01:13] Нет фото: Just one drink a day may increase the ri
+[2026-09-07 10:01:13] Неизвестный источник (rollingstone.com): Fundraiser for Lindsay Clancy’s Parents 
+[2026-09-07 10:01:13] Неизвестный источник (variety.com): Robert Pattinson Kisses Suki Waterhouse 
+[2026-09-07 10:01:13] Неизвестный источник (usatoday.com): Keffe D says he's 'not worried' after co
+[2026-09-07 10:01:13] Неизвестный источник (hollywoodreporter.com): ‘Spider-Man: Brand New Day’ Topping Box 
+[2026-09-07 10:01:13] Старая новость (2026-09-05T09:30:00Z): ‘Pervasive and ungovernable.’ South Flor
+[2026-09-07 10:01:13] Старая новость (2026-09-05T07:17:46Z): Have scientists discovered a dark matter
+[2026-09-07 10:01:13] Старая новость (2026-09-05T06:41:00Z): BepiColombo sheds its ride and starts th
+[2026-09-07 10:01:13] Старая новость (2026-09-04T16:01:36Z): IFA 2026 Best in Show: Android Police's 
+[2026-09-07 10:01:13] Старая новость (2026-09-04T13:40:19Z): NBA 2K27 predicts the season: LeBron's s
+[2026-09-07 10:01:13] Старая новость (2026-09-04T12:40:42Z): Miami Police Release New Official Statem
+[2026-09-07 10:01:13] Старая новость (2026-09-02T22:56:00Z): Top US doctors offer updated flu and COV
+[2026-09-07 10:01:13] Старая новость (2026-09-02T21:19:34Z): Landmark pancreatic cancer drug shows po
+[2026-09-07 10:01:13] Старая новость (2026-08-30T11:54:00Z): NASA launches its Roman Space Telescope 
+[2026-09-07 10:01:13] Мировые новости: найдено 8 после фильтрации
+[2026-09-07 10:01:14] Редакторский отбор: выбраны позиции [5, 1, 2, 3]
+[2026-09-07 10:01:14] Обрабатываю: Russia’s Putin meets US envoys to discuss Trump proposal to  | https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-
+[2026-09-07 10:01:14] Полный текст получен (3000 символов)
+[2026-09-07 10:01:14] Попытка 1 для: Russia’s Putin meets US envoys to discus
+[2026-09-07 10:01:17] Успешно, получено 1731 символов
+[2026-09-07 10:01:17] Обрабатываю: German voters head to polls as far-right AfD party eyes hist | https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as
+[2026-09-07 10:01:17] Полный текст получен (2699 символов)
+[2026-09-07 10:01:17] Попытка 1 для: German voters head to polls as far-right
+[2026-09-07 10:01:21] Успешно, получено 1595 символов
+[2026-09-07 10:01:21] Обрабатываю: Indonesia cancels flights at Jakarta airport as Anak Krakata | https://apnews.com/article/indonesia-volcano-eruption-airport-flights-
+[2026-09-07 10:01:21] Попытка 1 для: Indonesia cancels flights at Jakarta air
+[2026-09-07 10:01:23] Успешно, получено 770 символов
+[2026-09-07 10:01:23] Обрабатываю: Ukraine Considers Legalizing Porn Industry to Fund Its War C | https://www.wsj.com/world/europe/ukraine-considers-legalizing-porn-ind
+[2026-09-07 10:01:23] Попытка 1 для: Ukraine Considers Legalizing Porn Indust
+[2026-09-07 10:01:27] Успешно, получено 954 символов
+[2026-09-07 10:01:31] Пауза 60 секунд...
+[2026-09-07 10:02:32] Пауза 60 секунд...
+[2026-09-07 10:03:33] Пауза 60 секунд...
+[2026-09-07 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-09-07 10:04:33] === Блок midday завершён ===
