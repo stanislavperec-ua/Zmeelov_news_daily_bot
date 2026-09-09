@@ -1,46 +1,3 @@
-[2026-09-03 05:04:47] Успешно, получено 1438 символов
-[2026-09-03 05:04:47] Обрабатываю: 11th–13th-century Polovtsian stone sculpture disappears from | https://www.ukrinform.net/rubric-society/4160301-11th13thcentury-polov
-[2026-09-03 05:04:48] Полный текст получен (3000 символов)
-[2026-09-03 05:04:48] Попытка 1 для: 11th–13th-century Polovtsian stone sculp
-[2026-09-03 05:04:51] Успешно, получено 1673 символов
-[2026-09-03 05:04:54] Пауза 60 секунд...
-[2026-09-03 05:05:55] Пауза 60 секунд...
-[2026-09-03 05:06:56] sent_urls.txt обрезан: 307 -> 300
-[2026-09-03 05:06:56] === Блок morning завершён ===
-[2026-09-03 07:01:52] Загружено 300 уже отправленных новостей
-[2026-09-03 07:01:52] === Запуск блока: ai_morning (тест: False) ===
-[2026-09-03 07:01:52] Нет фото: mfai 8.0.1
-[2026-09-03 07:01:52] Заблокированный источник (naturalnews.com): Leaked analysis: Miliband’s clean energy
-[2026-09-03 07:01:52] Неизвестный источник (cryptoslate.com): Bitcoin’s 316-day hashrate drought shows
-[2026-09-03 07:01:52] Неизвестный источник (business-standard.com): Temasek-backed philanthropy group expand
-[2026-09-03 07:01:52] Пресс-релиз, пропускаю: New York Academy of Medicine’s 2025 Impa
-[2026-09-03 07:01:52] Неизвестный источник (sei.cmu.edu): Native AI Integration for Model-Based Sy
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): Fei-Fei Li’s World Labs debuts Atlas, a 
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): From metal to model: Private cloud gets 
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): MongoDB delivers stellar earnings and re
-[2026-09-03 07:01:52] Заблокированный источник (prnewswire.com): HelloNation Article Examines Blue Light 
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): AIR Security launches with $50M to build
-[2026-09-03 07:01:52] Не про ИИ, пропускаю: Current therapeutic landscape and future treatment
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): Dell’s AI servers sell like hot cakes ag
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): Palo Alto Networks beats estimates but m
-[2026-09-03 07:01:52] Неизвестный источник (kqed.org): Ex-Google Engineer Gets Nearly 1 Year fo
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): CrowdStrike builds security frontier mod
-[2026-09-03 07:01:52] Неизвестный источник (linkedin.com): Paying More, Receiving Less: The Health 
-[2026-09-03 07:01:52] Неизвестный источник (pymnts.com): AI Agent Security Startup AIR Raises $50
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): HR software startup HiBob raises $166M a
-[2026-09-03 07:01:52] Неизвестный источник (bleedingcool.com): Stitch #8 Preview: Jumba's Theme Park Sc
-[2026-09-03 07:01:52] Неизвестный источник (siliconangle.com): CrowdStrike launches Falcon Guardian to 
-[2026-09-03 07:01:52] Не про ИИ, пропускаю: Why the Flock Backlash Has Gotten So Intense
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 9
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 10
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 9
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 8
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 7
-[2026-09-03 07:01:52] Неизвестный источник (usatoday.com): Today in sports history, October 4
-[2026-09-03 07:01:52] Заблокированный источник (prnewswire.com): HelloNation Features Cosmetic Dentistry 
-[2026-09-03 07:01:52] Неизвестный источник (brobible.com): Different Kinds Of ‘Heroes’ – Andrew Gar
-[2026-09-03 07:01:52] Неизвестный источник (kqed.org): Chatbots, Data Centers and Surveillance:
-[2026-09-03 07:01:52] Заблокированный источник (prnewswire.com): Hyperscale Data Highlights Blockchain So
 [2026-09-03 07:01:52] Неизвестный источник (landezine.com): Dermot Foley: As Soon as You Start Build
 [2026-09-03 07:01:52] Неизвестный источник (observer.com): Tone Hansen Takes the Helm at Stockholm’
 [2026-09-03 07:01:52] Неизвестный источник (coolcatteacher.com): AI Fact Checking Using the Ensemble Meth
@@ -2998,3 +2955,46 @@
 [2026-09-09 07:03:46] Пауза 60 секунд...
 [2026-09-09 07:04:47] sent_urls.txt обрезан: 304 -> 300
 [2026-09-09 07:04:47] === Блок ai_morning завершён ===
+[2026-09-09 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-09 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-09 10:01:13] Неизвестный источник (foxsports.com): College Football Rankings: Where Michiga
+[2026-09-09 10:01:13] Неизвестный источник (techpowerup.com): Mod Revives Multi-GPU Gaming With Dedica
+[2026-09-09 10:01:13] Неизвестный источник (espn.com): 49ers' Nick Bosa set to face Rams; Georg
+[2026-09-09 10:01:13] Пропускаю уже отправленную: China's imports in August miss estimates as export
+[2026-09-09 10:01:13] Пропускаю уже отправленную: Trump calls for a Bombardier plane ban, drawing pu
+[2026-09-09 10:01:13] Неизвестный источник (usatoday.com): 'Pay your power bill': College football 
+[2026-09-09 10:01:13] Пропускаю уже отправленную: Germany's Merz shocked by far-right state election
+[2026-09-09 10:01:13] Неизвестный источник (foxnews.com): US forces sink narco-refueling station l
+[2026-09-09 10:01:13] Заблокированный источник (nypost.com): Wild drone video shows cops drop hammer 
+[2026-09-09 10:01:13] Неизвестный источник (hellomagazine.com): Taylor Swift looks radiant in flowing go
+[2026-09-09 10:01:13] Пропускаю уже отправленную: Hurricane Lowell nears Hawaii, prompting warnings 
+[2026-09-09 10:01:13] Неизвестный источник (9to5google.com): Sony WH-1000XM4C launch for $299 alongsi
+[2026-09-09 10:01:13] Неизвестный источник (gizmodo.com): NASA Readies Its Quiet Supersonic Jet fo
+[2026-09-09 10:01:13] Неизвестный источник (cbssports.com): Breech's final record prediction for all
+[2026-09-09 10:01:13] Неизвестный источник (phys.org): Do black holes have hidden hair? Scienti
+[2026-09-09 10:01:13] Неизвестный источник (9to5mac.com): Three new iPhones launch this week, here
+[2026-09-09 10:01:13] Лента обновлений, пропускаю: Live Updates: Iran says it will expand c
+[2026-09-09 10:01:13] Старая новость (2026-09-06T19:00:45Z): Measles death undercuts RFK Jr.’s doubts
+[2026-09-09 10:01:13] Старая новость (2026-09-06T10:00:00Z): NASA expands Deep Space Network with gia
+[2026-09-09 10:01:13] Старая новость (2026-09-02T22:56:00Z): Top US doctors offer updated flu and COV
+[2026-09-09 10:01:13] Старая новость (2026-09-02T21:19:34Z): Landmark pancreatic cancer drug shows po
+[2026-09-09 10:01:13] Мировые новости: найдено 8 после фильтрации
+[2026-09-09 10:01:14] Редакторский отбор: выбраны позиции [1, 2, 6, 3]
+[2026-09-09 10:01:14] Обрабатываю: Saudi Arabia says 73 wounded as Houthis attack civilian and  | https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia
+[2026-09-09 10:01:14] Полный текст получен (3000 символов)
+[2026-09-09 10:01:14] Попытка 1 для: Saudi Arabia says 73 wounded as Houthis 
+[2026-09-09 10:01:18] Успешно, получено 1864 символов
+[2026-09-09 10:01:18] Обрабатываю: Russia and North Korea open the first road across their shar | https://apnews.com/article/russia-north-korea-ties-bridge-cars-38e5c39
+[2026-09-09 10:01:18] Попытка 1 для: Russia and North Korea open the first ro
+[2026-09-09 10:01:19] Успешно, получено 686 символов
+[2026-09-09 10:01:19] Обрабатываю: Israeli airstrikes on a village in southern Lebanon kill 12  | https://www.politico.com/news/2026/09/07/israeli-airstrike-south-leban
+[2026-09-09 10:01:19] Попытка 1 для: Israeli airstrikes on a village in south
+[2026-09-09 10:01:21] Успешно, получено 839 символов
+[2026-09-09 10:01:21] Обрабатываю: UK’s Burnham Risks Trump Anger With New Sanctions on Israel | https://www.bloomberg.com/news/articles/2026-09-07/uk-s-burnham-risks-
+[2026-09-09 10:01:22] Попытка 1 для: UK’s Burnham Risks Trump Anger With New 
+[2026-09-09 10:01:24] Успешно, получено 878 символов
+[2026-09-09 10:01:28] Пауза 60 секунд...
+[2026-09-09 10:02:28] Пауза 60 секунд...
+[2026-09-09 10:03:29] Пауза 60 секунд...
+[2026-09-09 10:04:30] sent_urls.txt обрезан: 304 -> 300
+[2026-09-09 10:04:30] === Блок midday завершён ===
