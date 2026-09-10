@@ -1,38 +1,3 @@
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 17
-[2026-09-04 07:01:16] Неизвестный источник (siliconangle.com): Frontier AI research moves into cyber de
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 16
-[2026-09-04 07:01:16] Неизвестный источник (theregister.com): Claude Mythos only model to complete ful
-[2026-09-04 07:01:16] Неизвестный источник (abc.net.au): Why it may get harder for tourists to fi
-[2026-09-04 07:01:16] Заблокированный источник (prnewswire.com): Costa Rica welcomes more than 400 buyers
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 15
-[2026-09-04 07:01:16] Неизвестный источник (activistpost.com): How the Epstein Network Is Privatizing T
-[2026-09-04 07:01:16] Неизвестный источник (pymnts.com): Anthropic Gives Retailers Blueprint for 
-[2026-09-04 07:01:16] Неизвестный источник (financialpost.com): Meta releases more powerful AI model, ed
-[2026-09-04 07:01:16] Нет фото: Forbes names C.H. Robinson one of Americ
-[2026-09-04 07:01:16] Заблокированный источник (prnewswire.com): Costa Rica welcomes more than 400 buyers
-[2026-09-04 07:01:16] Не про ИИ, пропускаю: ‘What a fool I was’: Reported scams reach record h
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 14
-[2026-09-04 07:01:16] Неизвестный источник (siliconangle.com): Wonderful raises $550M at $5B valuation 
-[2026-09-04 07:01:16] Неизвестный источник (financialpost.com): Snowflake Reports Financial Results for 
-[2026-09-04 07:01:16] Неизвестный источник (aninews.in): Magellanic Cloud Completes Handover of 6
-[2026-09-04 07:01:16] Неизвестный источник (barchart.com): Dear Zscaler Stock Fans, Mark Your Calen
-[2026-09-04 07:01:16] Неизвестный источник (gizmodo.com): Bill Simmons’ Cozy Relationship With Tec
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 13
-[2026-09-04 07:01:16] Неизвестный источник (financialpost.com): OpenAI faces new lawsuits linked to shoo
-[2026-09-04 07:01:16] Нет фото: Humanity has built the records of FATE b
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 12
-[2026-09-04 07:01:16] Неизвестный источник (usatoday.com): Today in sports history, October 11
-[2026-09-04 07:01:16] Неизвестный источник (aws.amazon.com): Trinity: Agentic AI-powered transition p
-[2026-09-04 07:01:16] Неизвестный источник (psychologytoday.com): When Thought Loses Its Address
-[2026-09-04 07:01:16] Неизвестный источник (siliconangle.com): Storage leaders target AI’s unstructured
-[2026-09-04 07:01:16] Неизвестный источник (blog.okfn.org): A Peace Negotiator’s Guide to AI – OKFN 
-[2026-09-04 07:01:16] Неизвестный источник (punchng.com): PFIPC scandal: Reps uncover 58 bank acco
-[2026-09-04 07:01:16] Неизвестный источник (thewrap.com): Bluesky’s Post-Election Boom Is Fading. 
-[2026-09-04 07:01:16] Неизвестный источник (rand.org): When Disaster Strikes, Could AI Help? Q&
-[2026-09-04 07:01:16] Неизвестный источник (mercurynews.com): Fall films 2026: Get ready for a bounty 
-[2026-09-04 07:01:16] Неизвестный источник (siliconangle.com): Broadcom enlists partners to tie VCF ado
-[2026-09-04 07:01:16] Неизвестный источник (siliconangle.com): Broadcom enlists partners to tie VCF ado
-[2026-09-04 07:01:16] Нет фото: Protein Industries Canada invests in AI 
 [2026-09-04 07:01:16] Нет фото: AI (Artificial Intelligence) - Moderatel
 [2026-09-04 07:01:16] Нет фото: AI (Artificial Intelligence) - Moderatel
 [2026-09-04 07:01:16] Неизвестный источник (pymnts.com): States Defy Washington, Tech Lobby as Vo
@@ -2998,3 +2963,38 @@
 [2026-09-10 07:03:31] Пауза 60 секунд...
 [2026-09-10 07:04:32] sent_urls.txt обрезан: 304 -> 300
 [2026-09-10 07:04:32] === Блок ai_morning завершён ===
+[2026-09-10 10:01:17] Загружено 300 уже отправленных новостей
+[2026-09-10 10:01:17] === Запуск блока: midday (тест: False) ===
+[2026-09-10 10:01:17] Неизвестный источник (marketwatch.com): Bombardier’s stock drops as the U.S.-Can
+[2026-09-10 10:01:17] Неизвестный источник (espn.com): Buccaneers extend Baker Mayfield: Key in
+[2026-09-10 10:01:17] Неизвестный источник (thetimes.com): Let your cuppa cool down — or risk cance
+[2026-09-10 10:01:17] Неизвестный источник (usatoday.com): ABC denies 'inaccurate' report 'Jimmy Ki
+[2026-09-10 10:01:17] Неизвестный источник (wgal.com): Two infants identified in Lancaster Coun
+[2026-09-10 10:01:17] Неизвестный источник (hola.com): King Harald V’s final farewell: Inside t
+[2026-09-10 10:01:17] Неизвестный источник (nbcsports.com): Mid-American Conference appeals to have 
+[2026-09-10 10:01:17] Неизвестный источник (9to5mac.com): OpenAI releases ChatGPT Images 2.5 with 
+[2026-09-10 10:01:17] Неизвестный источник (realitytea.com): Jim Thornton Gets Surprising Defender Am
+[2026-09-10 10:01:17] Неизвестный источник (space.com): SpaceX rocket taxi returns after Roman T
+[2026-09-10 10:01:17] Неизвестный источник (phys.org): Big supernova dataset challenges dark en
+[2026-09-10 10:01:17] Старая новость (2026-09-08T10:00:42Z): Ebola epidemic outpaces containment desp
+[2026-09-10 10:01:17] Старая новость (2026-09-07T18:18:25Z): ASUS details ProArt GR1X mini PC with NV
+[2026-09-10 10:01:17] Мировые новости: найдено 12 после фильтрации
+[2026-09-10 10:01:18] Редакторский отбор: выбраны позиции [10, 3, 2, 6]
+[2026-09-10 10:01:18] Обрабатываю: US issues sweeping sanctions against Iranian airlines, forei | https://thehill.com/homenews/administration/6076934-trump-sanctions-ir
+[2026-09-10 10:01:18] Попытка 1 для: US issues sweeping sanctions against Ira
+[2026-09-10 10:01:21] Успешно, получено 817 символов
+[2026-09-10 10:01:21] Обрабатываю: Trump bans some Canadian imports as North America trade war  | https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcoh
+[2026-09-10 10:01:21] Попытка 1 для: Trump bans some Canadian imports as Nort
+[2026-09-10 10:01:23] Успешно, получено 716 символов
+[2026-09-10 10:01:23] Обрабатываю: Asian shares are mixed as Brent crude approaches $100 a barr | https://apnews.com/article/stock-markets-inflation-currencies-fed-rate
+[2026-09-10 10:01:23] Попытка 1 для: Asian shares are mixed as Brent crude ap
+[2026-09-10 10:01:26] Успешно, получено 997 символов
+[2026-09-10 10:01:26] Обрабатываю: Chris Mason: Burnham looks to show he will go further than S | https://www.bbc.com/news/articles/c3v439n5xlpo
+[2026-09-10 10:01:27] Полный текст получен (3000 символов)
+[2026-09-10 10:01:27] Попытка 1 для: Chris Mason: Burnham looks to show he wi
+[2026-09-10 10:01:30] Успешно, получено 1407 символов
+[2026-09-10 10:01:33] Пауза 60 секунд...
+[2026-09-10 10:02:33] Пауза 60 секунд...
+[2026-09-10 10:03:34] Пауза 60 секунд...
+[2026-09-10 10:04:34] sent_urls.txt обрезан: 304 -> 300
+[2026-09-10 10:04:34] === Блок midday завершён ===
