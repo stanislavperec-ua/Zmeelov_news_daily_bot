@@ -1,106 +1,3 @@
-[2026-09-05 07:01:07] Пресс-релиз, пропускаю: Tenable Uses OpenAI GPT Cyber Models to 
-[2026-09-05 07:01:07] Заблокированный источник (biztoc.com): Report exposes network of paid YouTube a
-[2026-09-05 07:01:07] Заблокированный источник (finance.yahoo.com): Caesarstone’s Premium Multi-Material & D
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Can the ‘Vanguard Effect’ Extend to Wealth Managem
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Nvidia confirms $12.9B acquisition of AI hosting p
-[2026-09-05 07:01:07] Заблокированный источник (rt.com): Japan and Germany are forgetting the les
-[2026-09-05 07:01:07] Заблокированный источник (yahoo.com): A New Bill Reflects the Bipartisan Backl
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: A New Bill Reflects the Bipartisan Backlash Agains
-[2026-09-05 07:01:07] Заблокированный источник (breitbart.com): Pro-Migration Lobbies Defend College Pip
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Television Academy, NATAS Announce 2026 Engineerin
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: EmailXpose — Updated!
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Uber, Wayve unleash supervised robotaxis on the U.
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Guardio raises $40M at $1.1B valuation to enhance 
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: 14 organizations are looking to join federal elect
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Marine Corps Develops Plan to Grow Force by More T
-[2026-09-05 07:01:07] Пропускаю уже отправленную: Major AI platforms go down in unprecedented simult
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Cloudflare Down? Users Report Access Issues As Int
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: BraZetsu Malware Turns Compromised Windows Hosts I
-[2026-09-05 07:01:07] Заблокированный источник (prnewswire.com): Military Antenna Market to Reach $6.65 B
-[2026-09-05 07:01:07] Пропускаю уже отправленную: When AI changes the world's demand for copper
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Crypto Agility: Why PQC Is Not a One-Time Upgrade
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Tesla Shares Surge Ahead Of Highly Anticipated Cyb
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Palantir CEO just made bet that could reshape defe
-[2026-09-05 07:01:07] Нет фото: iA Financial Group Supports New Professo
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: An American’s Guide to the University of Edinburgh
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Association between nirsevimab coverage and pediat
-[2026-09-05 07:01:07] AI новости: 15 кандидатов после фильтрации
-[2026-09-05 07:01:08] Редакторский отбор: выбраны позиции [14, 1, 10, 12]
-[2026-09-05 07:01:08] Обрабатываю: Nvidia buys AI platform Hugging Face for US$13 billion | https://financialpost.com/technology/tech-news/nvidia-buys-ai-platform
-[2026-09-05 07:01:08] Полный текст получен (3000 символов)
-[2026-09-05 07:01:08] Попытка 1 для: Nvidia buys AI platform Hugging Face for
-[2026-09-05 07:01:11] Успешно, получено 1696 символов
-[2026-09-05 07:01:11] Обрабатываю: OpenAI does a victory lap for its new AI model: 'Welcome to  | https://www.businessinsider.com/astra-model-launch-agi-milestone-opena
-[2026-09-05 07:01:11] Полный текст получен (2905 символов)
-[2026-09-05 07:01:11] Попытка 1 для: OpenAI does a victory lap for its new AI
-[2026-09-05 07:01:14] Успешно, получено 1497 символов
-[2026-09-05 07:01:14] Обрабатываю: Pentagon says its Anthropic ban is on, despite Lutnick remar | https://financialpost.com/cybersecurity/pentagon-says-anthropic-ban-st
-[2026-09-05 07:01:14] Полный текст получен (2780 символов)
-[2026-09-05 07:01:14] Попытка 1 для: Pentagon says its Anthropic ban is on, d
-[2026-09-05 07:01:16] Успешно, получено 1636 символов
-[2026-09-05 07:01:16] Обрабатываю: Three new companies face Josh Hawley's investigation into AI | https://www.foxnews.com/politics/three-new-companies-face-josh-hawley-
-[2026-09-05 07:01:16] Полный текст получен (3000 символов)
-[2026-09-05 07:01:16] Попытка 1 для: Three new companies face Josh Hawley's i
-[2026-09-05 07:01:19] Успешно, получено 2132 символов
-[2026-09-05 07:01:22] Пауза 60 секунд...
-[2026-09-05 07:02:22] Пауза 60 секунд...
-[2026-09-05 07:03:23] Пауза 60 секунд...
-[2026-09-05 07:04:23] sent_urls.txt обрезан: 304 -> 300
-[2026-09-05 07:04:23] === Блок ai_morning завершён ===
-[2026-09-05 10:01:13] Загружено 300 уже отправленных новостей
-[2026-09-05 10:01:13] === Запуск блока: midday (тест: False) ===
-[2026-09-05 10:01:13] Неизвестный источник (bleacherreport.com): Louisiana Judge Rules Against NCAA, Clea
-[2026-09-05 10:01:13] Лента обновлений, пропускаю: Live updates: Rescues underway as two wo
-[2026-09-05 10:01:13] Неизвестный источник (kmbc.com): Missouri Supreme Court makes ruling on r
-[2026-09-05 10:01:13] Неизвестный источник (tmz.com): Hayden Panettiere's BF Seen Wobbly, Spit
-[2026-09-05 10:01:13] Неизвестный источник (pagesix.com): Biggest bombshells from Alix Earle’s Net
-[2026-09-05 10:01:13] Неизвестный источник (kstp.com): Deadly downtown Minneapolis shooting sta
-[2026-09-05 10:01:13] Неизвестный источник (nj.com): UMASSACRE! Rutgers suffers shocking upse
-[2026-09-05 10:01:13] Пропускаю уже отправленную: U.S. military reviewing deadly strike on Iranian w
-[2026-09-05 10:01:13] Неизвестный источник (tvline.com): Big Brother Decides Its First Season 28 
-[2026-09-05 10:01:13] Неизвестный источник (variety.com): Pablo Torre Sounds Off on the NBA’s Hist
-[2026-09-05 10:01:13] Пропускаю уже отправленную: Trump administration asks Supreme Court to allow m
-[2026-09-05 10:01:13] Неизвестный источник (deseret.com): 2 years after her Olympic infamy, Raygun
-[2026-09-05 10:01:13] Неизвестный источник (livescience.com): 'There is no conflict between quantum ph
-[2026-09-05 10:01:13] Неизвестный источник (macrumors.com): Foldable iPhone Ultra: The Latest Rumors
-[2026-09-05 10:01:13] Пропускаю уже отправленную: Leading medical groups update flu, COVID vaccine r
-[2026-09-05 10:01:13] Неизвестный источник (space.com): 2 spacecraft will soon reach Mercury aft
-[2026-09-05 10:01:13] Старая новость (2026-09-03T09:11:40Z): Was Dark Matter Detected? - Medium
-[2026-09-05 10:01:13] Старая новость (2026-09-03T09:00:00Z): GLP-1 medications may worsen or speed ha
-[2026-09-05 10:01:13] Мировые новости: найдено 10 после фильтрации
-[2026-09-05 10:01:15] Редакторский отбор: выбраны позиции [1, 3, 5, 7]
-[2026-09-05 10:01:15] Обрабатываю: Europe targeted by spiralling campaign of sabotage and Russi | https://www.bbc.com/news/articles/c5y4g6meekro
-[2026-09-05 10:01:15] Полный текст получен (3000 символов)
-[2026-09-05 10:01:15] Попытка 1 для: Europe targeted by spiralling campaign o
-[2026-09-05 10:01:19] Успешно, получено 1893 символов
-[2026-09-05 10:01:19] Обрабатываю: Argentina’s Milei escalates Falklands dispute, seizing on Tr | https://apnews.com/article/argentina-president-donald-trump-javier-mil
-[2026-09-05 10:01:19] Попытка 1 для: Argentina’s Milei escalates Falklands di
-[2026-09-05 10:01:21] Успешно, получено 1060 символов
-[2026-09-05 10:01:21] Обрабатываю: Federal prosecutor fired after investigating ICE officer for | https://www.cbsnews.com/news/ice-minnesota-federal-prosecutor-fired-in
-[2026-09-05 10:01:21] Полный текст получен (3000 символов)
-[2026-09-05 10:01:21] Попытка 1 для: Federal prosecutor fired after investiga
-[2026-09-05 10:01:24] Успешно, получено 1679 символов
-[2026-09-05 10:01:24] Обрабатываю: Reports: RFK Jr. ordered measles deaths deletion; CDC still  | https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-
-[2026-09-05 10:01:24] Полный текст получен (1411 символов)
-[2026-09-05 10:01:24] Попытка 1 для: Reports: RFK Jr. ordered measles deaths 
-[2026-09-05 10:01:27] Успешно, получено 1376 символов
-[2026-09-05 10:01:30] Пауза 60 секунд...
-[2026-09-05 10:02:30] Пауза 60 секунд...
-[2026-09-05 10:03:31] Пауза 60 секунд...
-[2026-09-05 10:04:32] sent_urls.txt обрезан: 304 -> 300
-[2026-09-05 10:04:32] === Блок midday завершён ===
-[2026-09-05 15:01:13] Загружено 300 уже отправленных новостей
-[2026-09-05 15:01:13] === Запуск блока: evening (тест: False) ===
-[2026-09-05 15:01:13] Заблокированный источник (finance.yahoo.com): Jobs report live updates: August jobs da
-[2026-09-05 15:01:13] Неизвестный источник (bleacherreport.com): Louisiana Judge Rules Against NCAA, Clea
-[2026-09-05 15:01:13] Пропускаю уже отправленную: Europe targeted by spiralling campaign of sabotage
-[2026-09-05 15:01:13] Неизвестный источник (pagesix.com): Alix Earle goes after ‘sick and twisted’
-[2026-09-05 15:01:13] Лента обновлений, пропускаю: Live updates: Rescues underway as two wo
-[2026-09-05 15:01:13] Неизвестный источник (tmz.com): Hayden Panettiere's BF Seen Wobbly, Spit
-[2026-09-05 15:01:13] Неизвестный источник (ew.com): ‘Wheel of Fortune’ announcer Jim Thornto
-[2026-09-05 15:01:13] Неизвестный источник (kstp.com): Deadly downtown Minneapolis shooting sta
-[2026-09-05 15:01:13] Пропускаю уже отправленную: Federal prosecutor fired after investigating ICE o
-[2026-09-05 15:01:13] Неизвестный источник (nbcsports.com): Greg Schiano on the hot seat after Rutge
 [2026-09-05 15:01:13] Неизвестный источник (variety.com): Pablo Torre Sounds Off on the NBA’s Hist
 [2026-09-05 15:01:13] Неизвестный источник (pbs.org): Trump again appeals to Supreme Court on 
 [2026-09-05 15:01:13] Неизвестный источник (wccftech.com): Watch The AMD IFA Opening Keynote Live H
@@ -2998,3 +2895,106 @@
 [2026-09-11 10:03:48] Пауза 60 секунд...
 [2026-09-11 10:04:49] sent_urls.txt обрезан: 304 -> 300
 [2026-09-11 10:04:49] === Блок midday завершён ===
+[2026-09-11 15:01:18] Загружено 300 уже отправленных новостей
+[2026-09-11 15:01:18] === Запуск блока: evening (тест: False) ===
+[2026-09-11 15:01:18] Неизвестный источник (9to5mac.com): Apple Watch Ultra 4 and Series 12 have s
+[2026-09-11 15:01:18] Неизвестный источник (variety.com): Harry Styles Announces Stadium Tour for 
+[2026-09-11 15:01:18] Неизвестный источник (foxsports.com): How to Watch 49ers vs. Rams: TV Channel,
+[2026-09-11 15:01:18] Неизвестный источник (the-independent.com): Jimmy Kimmel says interview with rising 
+[2026-09-11 15:01:18] Заблокированный источник (yahoo.com): South Park creators take 'full responsib
+[2026-09-11 15:01:18] Неизвестный источник (macrumors.com): iPhone 18 Pro and Pro Max Benchmarks Rev
+[2026-09-11 15:01:18] Неизвестный источник (si.com): The McVay-Verse: How One Coaching Tree T
+[2026-09-11 15:01:18] Неизвестный источник (espn.com): Week 2 GameDay Kickoff: QB issues for Mi
+[2026-09-11 15:01:18] Неизвестный источник (foxnews.com): 9/11 Museum unveils exhibition for gener
+[2026-09-11 15:01:18] Лента обновлений, пропускаю: Live Updates: Trump says war to end "imm
+[2026-09-11 15:01:18] Неизвестный источник (missouriindependent.com): Missouri fight over gerrymandered congre
+[2026-09-11 15:01:18] Неизвестный источник (ew.com): ‘Practical Magic 2’ first reviews: Criti
+[2026-09-11 15:01:18] Неизвестный источник (ksl.com): Artemis II moonshot commander and pilot 
+[2026-09-11 15:01:18] Неизвестный источник (gizmodo.com): Scientists Found a Surprising Effect of 
+[2026-09-11 15:01:18] Старая новость (2026-09-09T14:46:00Z): New COVID, flu strains circulating. What
+[2026-09-11 15:01:18] Мировые новости: найдено 15 после фильтрации
+[2026-09-11 15:01:20] Редакторский отбор: выбраны позиции [7, 12, 9, 10]
+[2026-09-11 15:01:21] RSS Ukrinform: 30 записей
+[2026-09-11 15:01:21] Пропускаю уже отправленную: DIU deploys interceptor drones to protect Kyiv’s a
+[2026-09-11 15:01:22] RSS Ukrinform: 30 записей
+[2026-09-11 15:01:22] Пропускаю уже отправленную: DIU deploys interceptor drones to protect Kyiv’s a
+[2026-09-11 15:01:23] RSS Euromaidan Press: 29 записей
+[2026-09-11 15:01:23] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-09-11 15:01:23] Нет фото: EXCLUSIVE: NATO allies foil Russian subs
+[2026-09-11 15:01:23] Заблокированный источник (biztoc.com): Ukraine is going into winter with a gas 
+[2026-09-11 15:01:23] Нет фото: Amazon pilots were warned they were comi
+[2026-09-11 15:01:23] Заблокированный источник (biztoc.com): Top Picks For Members: August
+[2026-09-11 15:01:23] Заблокированный источник (prnewswire.com): New Research Finds Collective View of Wh
+[2026-09-11 15:01:23] Заблокированный источник (prnewswire.com): New Research Finds Collective View of Wh
+[2026-09-11 15:01:23] Заблокированный источник (sputnikglobe.com): No Substantive Talks About Possibility o
+[2026-09-11 15:01:23] Заблокированный источник (biztoc.com): Lagarde: Growth risks tilted to downside
+[2026-09-11 15:01:23] Заблокированный источник (biztoc.com): Ukraine says AI is moving beyond drones 
+[2026-09-11 15:01:23] Нет фото: Le Pen wants to end military and financi
+[2026-09-11 15:01:23] Нет фото: BREAKING: Never-Before Seen 9/11 Footage
+[2026-09-11 15:01:23] Спорт, пропускаю: Figure skating-ISU revokes Russian skate
+[2026-09-11 15:01:23] Спорт, пропускаю: Russian figure skater Valieva loses neut
+[2026-09-11 15:01:23] Внутренний дубль: Polish foreign minister arrives in Kyiv
+[2026-09-11 15:01:23] Внутренний дубль: About 30,000 Hasidim have already arrived in Uman 
+[2026-09-11 15:01:23] Внутренний дубль: Russian attack on Dnipro leaves seven people injur
+[2026-09-11 15:01:23] Внутренний дубль: Russians strike Kyivstar building in Kyiv — Zelens
+[2026-09-11 15:01:23] Внутренний дубль: Kyiv attack toll rises to 12 casualties, with two 
+[2026-09-11 15:01:23] Внутренний дубль: Russian forces strike Dnipro, wounding one person
+[2026-09-11 15:01:23] Внутренний дубль: Russian forces strike Sloviansk with two aerial bo
+[2026-09-11 15:01:23] Внутренний дубль: Ukrainian forces strike Saratov oil refinery in Ru
+[2026-09-11 15:01:23] Внутренний дубль: Russian drone hits office premises in Kyiv's Podil
+[2026-09-11 15:01:23] Внутренний дубль: Three medics injured in Russian drone attack on am
+[2026-09-11 15:01:23] Внутренний дубль: Two injured in Russian attack on Kyiv gas stations
+[2026-09-11 15:01:23] Внутренний дубль: Woman killed in Russian attack on Kyiv region
+[2026-09-11 15:01:23] Внутренний дубль: Injury toll from Russian attack on Kyiv rises to f
+[2026-09-11 15:01:23] Внутренний дубль: Drones attack chemical plant in Russia's Perm Krai
+[2026-09-11 15:01:23] Внутренний дубль: Strikes hit two gas stations in Kyiv: Double-tap s
+[2026-09-11 15:01:23] Внутренний дубль: Explosions were heard in Kyiv— Russians attacked t
+[2026-09-11 15:01:23] Внутренний дубль: Business in Zhytomyr region was damaged by Russian
+[2026-09-11 15:01:23] Внутренний дубль: Russians launched second strike on warehouses in B
+[2026-09-11 15:01:23] Внутренний дубль: Russia loses nearly 1,500 soldiers in single day i
+[2026-09-11 15:01:23] Внутренний дубль: Russian forces attack Dnipro and surrounding regio
+[2026-09-11 15:01:23] Внутренний дубль: Russian drone attack sparks fire in high-rise buil
+[2026-09-11 15:01:23] Внутренний дубль: Foreign volunteers most often choose unmanned syst
+[2026-09-11 15:01:23] Внутренний дубль: Ukraine says AI is moving beyond drones and into s
+[2026-09-11 15:01:23] Украинские новости: найдено 71 после фильтрации
+[2026-09-11 15:01:24] Редакторский отбор: выбраны позиции [10, 4]
+[2026-09-11 15:01:25] NewsAPI (Харьков, все издания): пришло 7 статей
+[2026-09-11 15:01:25] RSS Ukrinform: 30 записей
+[2026-09-11 15:01:26] RSS Ukrinform: 30 записей
+[2026-09-11 15:01:26] RSS Euromaidan Press: 29 записей
+[2026-09-11 15:01:26] Нет фото: Russian Forces Liberate Zarubinka and Go
+[2026-09-11 15:01:26] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Zarubinka and Go
+[2026-09-11 15:01:26] Заблокированный источник (biztoc.com): Over 90 casualties reported in Kharkiv r
+[2026-09-11 15:01:26] Пропускаю уже отправленную: Angelina Jolie’s Son Knox Just Trained Muay Thai f
+[2026-09-11 15:01:26] Нет фото: Strong coupling between RF photons and p
+[2026-09-11 15:01:26] Заблокированный источник (dailymail.com): British SAS and US Navy Seal veterans 'a
+[2026-09-11 15:01:27] Харьков: новостей не найдено
+[2026-09-11 15:01:27] Обрабатываю: Scientists say August was Earth's hottest month they've meas | https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest
+[2026-09-11 15:01:27] Полный текст получен (3000 символов)
+[2026-09-11 15:01:27] Попытка 1 для: Scientists say August was Earth's hottes
+[2026-09-11 15:01:31] Успешно, получено 1911 символов
+[2026-09-11 15:01:31] Обрабатываю: Hurricane Lowell leaves trail of destruction across Kauai | https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-flooding-d
+[2026-09-11 15:01:32] Полный текст получен (3000 символов)
+[2026-09-11 15:01:32] Попытка 1 для: Hurricane Lowell leaves trail of destruc
+[2026-09-11 15:01:35] Успешно, получено 1848 символов
+[2026-09-11 15:01:35] Обрабатываю: ‘A communist caucus’: Trump gives Republicans their midterms | https://www.politico.com/news/2026/09/09/a-communist-caucus-trump-give
+[2026-09-11 15:01:35] Попытка 1 для: ‘A communist caucus’: Trump gives Republ
+[2026-09-11 15:01:38] Успешно, получено 1153 символов
+[2026-09-11 15:01:38] Обрабатываю: Coroner releases details on 2 infant deaths in Pennsylvania  | https://www.cbsnews.com/news/pennsylvania-coroner-measles-outbreak-inf
+[2026-09-11 15:01:39] Полный текст получен (3000 символов)
+[2026-09-11 15:01:39] Попытка 1 для: Coroner releases details on 2 infant dea
+[2026-09-11 15:01:48] Успешно, получено 1427 символов
+[2026-09-11 15:01:52] Пауза 60 секунд...
+[2026-09-11 15:02:52] Пауза 60 секунд...
+[2026-09-11 15:03:53] Пауза 60 секунд...
+[2026-09-11 15:04:53] Обрабатываю: EU approves funding for Patriot missiles for Ukraine | https://www.ukrinform.net/rubric-polytics/4163152-eu-approves-funding-
+[2026-09-11 15:04:54] Полный текст получен (2862 символов)
+[2026-09-11 15:04:54] Попытка 1 для: EU approves funding for Patriot missiles
+[2026-09-11 15:04:58] Успешно, получено 2088 символов
+[2026-09-11 15:04:58] Обрабатываю: Kyiv attack toll rises to 12 casualties, with two people kil | https://www.ukrinform.net/rubric-ato/4163220-kyiv-attack-toll-rises-to
+[2026-09-11 15:04:59] Полный текст получен (851 символов)
+[2026-09-11 15:04:59] Попытка 1 для: Kyiv attack toll rises to 12 casualties,
+[2026-09-11 15:05:02] Успешно, получено 1177 символов
+[2026-09-11 15:05:04] Пауза 60 секунд...
+[2026-09-11 15:06:05] sent_urls.txt обрезан: 306 -> 300
+[2026-09-11 15:06:05] === Блок evening завершён ===
