@@ -1,44 +1,3 @@
-[2026-09-05 07:01:07] Неизвестный источник (financialpost.com): Stock indexes eye gains as Fedspeak sign
-[2026-09-05 07:01:07] Неизвестный источник (financialpost.com): Pentagon says its Anthropic ban is on, d
-[2026-09-05 07:01:07] Неизвестный источник (kitploit.com): EmailXpose — Updated!
-[2026-09-05 07:01:07] Неизвестный источник (financialpost.com): Uber, Wayve unleash supervised robotaxis
-[2026-09-05 07:01:07] Неизвестный источник (siliconangle.com): The AI model is table stakes: Enterprise
-[2026-09-05 07:01:07] Неизвестный источник (foxnews.com): Three new companies face Josh Hawley's i
-[2026-09-05 07:01:07] Неизвестный источник (siliconangle.com): Guardio raises $40M at $1.1B valuation t
-[2026-09-05 07:01:07] Неизвестный источник (nextgov.com): 14 organizations are looking to join fed
-[2026-09-05 07:01:07] Неизвестный источник (soldiersystems.net): Marine Corps Develops Plan to Grow Force
-[2026-09-05 07:01:07] Неизвестный источник (ifm.ai): K2 Horizon: Frontier Performance, Radica
-[2026-09-05 07:01:07] Неизвестный источник (macdailynews.com): Major AI platforms go down in unpreceden
-[2026-09-05 07:01:07] Неизвестный источник (ibtimes.com.au): Cloudflare Down? Users Report Access Iss
-[2026-09-05 07:01:07] Неизвестный источник (thehackernews.com): BraZetsu Malware Turns Compromised Windo
-[2026-09-05 07:01:07] Заблокированный источник (prnewswire.com): Military Antenna Market to Reach $6.65 B
-[2026-09-05 07:01:07] Неизвестный источник (en.antaranews.com): When AI changes the world's demand for c
-[2026-09-05 07:01:07] Неизвестный источник (blogs.cisco.com): Crypto Agility: Why PQC Is Not a One-Tim
-[2026-09-05 07:01:07] Неизвестный источник (ibtimes.com.au): Tesla Shares Surge Ahead Of Highly Antic
-[2026-09-05 07:01:07] Неизвестный источник (financialpost.com): Nvidia buys AI platform Hugging Face for
-[2026-09-05 07:01:07] Неизвестный источник (thestreet.com): Palantir CEO just made bet that could re
-[2026-09-05 07:01:07] Неизвестный источник (openchannels.fm): Open Channels FM: Podcasting Meets AI Sh
-[2026-09-05 07:01:07] Нет фото: iA Financial Group Supports New Professo
-[2026-09-05 07:01:07] Неизвестный источник (anglotopia.net): An American’s Guide to the University of
-[2026-09-05 07:01:07] Неизвестный источник (journals.plos.org): Association between nirsevimab coverage 
-[2026-09-05 07:01:07] AI новости: 1 с доверенных источников
-[2026-09-05 07:01:07] Доверенных AI-источников мало, добираю из остальных
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Flock surveillance cameras become midterm campaign
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Flock surveillance cameras become midterm campaign
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Flock surveillance cameras become midterm campaign
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開
-[2026-09-05 07:01:07] Заблокированный источник (biztoc.com): Stock Is Trading Up Today
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Community colleges merit funding priority
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: WIOCC secures $300m for Africa’s digital infrastru
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Why the humble 4G smartphone has refused to die
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Upwind reels in $300M for its automated cloud secu
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Benchmarking biomedical foundation models
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Rajan: Policy Beginning To Tilt More Decisively To
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: UiPath beats on revenue but its stock tanks after-
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: This Chip Equipment Stock Just Raised Its Dividend
-[2026-09-05 07:01:07] Заблокированный источник (nypost.com): Mamdani’s influencers rush to defend him
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Cut petroleum product imports, CORAN urges govt
-[2026-09-05 07:01:07] Не про ИИ, пропускаю: Rackspace launches managed multitenant cloud on VC
 [2026-09-05 07:01:07] Пресс-релиз, пропускаю: Tenable Uses OpenAI GPT Cyber Models to 
 [2026-09-05 07:01:07] Заблокированный источник (biztoc.com): Report exposes network of paid YouTube a
 [2026-09-05 07:01:07] Заблокированный источник (finance.yahoo.com): Caesarstone’s Premium Multi-Material & D
@@ -2998,3 +2957,44 @@
 [2026-09-11 07:03:54] Пауза 60 секунд...
 [2026-09-11 07:04:54] sent_urls.txt обрезан: 304 -> 300
 [2026-09-11 07:04:54] === Блок ai_morning завершён ===
+[2026-09-11 10:01:16] Загружено 300 уже отправленных новостей
+[2026-09-11 10:01:16] === Запуск блока: midday (тест: False) ===
+[2026-09-11 10:01:16] Лента обновлений, пропускаю: Stock futures inch higher as traders bra
+[2026-09-11 10:01:16] Неизвестный источник (nbcsports.com): Mike Vrabel had no postgame update on A.
+[2026-09-11 10:01:16] Неизвестный источник (espn.com): Seahawks take Week 1 win over Patriots, 
+[2026-09-11 10:01:16] Неизвестный источник (pff.com): NFL Week 1 Recap: Immediate fantasy foot
+[2026-09-11 10:01:16] Неизвестный источник (variety.com): ‘Death Stranding’ Creator Hideo Kojima’s
+[2026-09-11 10:01:16] Неизвестный источник (variety.com): 'South Park' Creators Apologize for Dela
+[2026-09-11 10:01:16] Неизвестный источник (hollywoodreporter.com): Suki Waterhouse Is Open to “Nepo-Babying
+[2026-09-11 10:01:16] Неизвестный источник (missouriindependent.com): Missouri fight over gerrymandered congre
+[2026-09-11 10:01:16] Неизвестный источник (ksl.com): Artemis II moonshot commander and pilot 
+[2026-09-11 10:01:16] Спорт, пропускаю: Manchester United vs Sabah: UEFA Champio
+[2026-09-11 10:01:16] Неизвестный источник (people.com): Henry Winkler Addresses Ongoing Tension 
+[2026-09-11 10:01:16] Неизвестный источник (hodinkee.com): Introducing Apple Announces The Apple Wa
+[2026-09-11 10:01:16] Неизвестный источник (pbs.org): Why 9/11 isn’t a federal holiday, accord
+[2026-09-11 10:01:16] Неизвестный источник (macrumors.com): iPhone 18 Pro and iPhone Duo Feature App
+[2026-09-11 10:01:16] Неизвестный источник (space.com): NASA's newly launched Roman Space Telesc
+[2026-09-11 10:01:16] Неизвестный источник (lansingstatejournal.com): New COVID, flu strains circulating. What
+[2026-09-11 10:01:16] Неизвестный источник (rollingstone.com): Bruce Springsteen on His New Concert Fil
+[2026-09-11 10:01:16] Мировые новости: найдено 15 после фильтрации
+[2026-09-11 10:01:18] Редакторский отбор: выбраны позиции [5, 1, 8, 12]
+[2026-09-11 10:01:18] Обрабатываю: Exclusive: This small island off Yemen is now a strategic pr | https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-ir
+[2026-09-11 10:01:18] Полный текст получен (3000 символов)
+[2026-09-11 10:01:18] Попытка 1 для: Exclusive: This small island off Yemen i
+[2026-09-11 10:01:23] Успешно, получено 2027 символов
+[2026-09-11 10:01:23] Обрабатываю: CIA officer’s arrest with 303 gold bars thrusts the Pentagon | https://www.nbcnews.com/politics/national-security/cia-officers-arrest
+[2026-09-11 10:01:23] Полный текст получен (770 символов)
+[2026-09-11 10:01:23] Попытка 1 для: CIA officer’s arrest with 303 gold bars 
+[2026-09-11 10:01:27] Успешно, получено 1653 символов
+[2026-09-11 10:01:27] Обрабатываю: Ceuta: Documents show Spanish intelligence warned of crisis | https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned
+[2026-09-11 10:01:28] Полный текст получен (3000 символов)
+[2026-09-11 10:01:28] Попытка 1 для: Ceuta: Documents show Spanish intelligen
+[2026-09-11 10:01:31] Успешно, получено 1932 символов
+[2026-09-11 10:01:31] Обрабатываю: Bessent Yen Jawboning Risks Raising Expectations BOJ Can’t M | https://www.bloomberg.com/news/articles/2026-09-09/bessent-yen-jawboni
+[2026-09-11 10:01:32] Попытка 1 для: Bessent Yen Jawboning Risks Raising Expe
+[2026-09-11 10:01:43] Успешно, получено 806 символов
+[2026-09-11 10:01:47] Пауза 60 секунд...
+[2026-09-11 10:02:47] Пауза 60 секунд...
+[2026-09-11 10:03:48] Пауза 60 секунд...
+[2026-09-11 10:04:49] sent_urls.txt обрезан: 304 -> 300
+[2026-09-11 10:04:49] === Блок midday завершён ===
