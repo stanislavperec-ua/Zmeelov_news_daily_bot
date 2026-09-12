@@ -1,46 +1,3 @@
-[2026-09-06 07:01:06] Неизвестный источник (abc.net.au): Fred Hollows built something remarkable 
-[2026-09-06 07:01:06] Неизвестный источник (cbc.ca): STM using AI to detect people loitering 
-[2026-09-06 07:01:06] Неизвестный источник (ibtimes.com.au): 10 Standout Technologies To Watch From I
-[2026-09-06 07:01:06] Неизвестный источник (siliconangle.com): Everpure sees AI infrastructure strategy
-[2026-09-06 07:01:06] Неизвестный источник (manilatimes.net): 70 groups oppose US-led Pax Silica proje
-[2026-09-06 07:01:06] Неизвестный источник (developer.nvidia.com): Frontier Reasoning Reaches the Edge: How
-[2026-09-06 07:01:06] Неизвестный источник (siliconangle.com): Resect launches with $25M to reduce hall
-[2026-09-06 07:01:06] Неизвестный источник (pymnts.com): FinCEN Says Stopping Crypto Scams Means 
-[2026-09-06 07:01:06] Неизвестный источник (pymnts.com): 77% of Merchants Are Ready to Share Data
-[2026-09-06 07:01:06] Заблокированный источник (dailymail.com): Elon Musk unveils bizarre new Tesla robo
-[2026-09-06 07:01:06] Неизвестный источник (foxnews.com): Fox News AI Newsletter: The network driv
-[2026-09-06 07:01:06] Не про ИИ, пропускаю: War drama Pressure depicts D-day’s weather forecas
-[2026-09-06 07:01:06] Неизвестный источник (siliconangle.com): Experian expands into AI agents with Ser
-[2026-09-06 07:01:06] Неизвестный источник (financialpost.com): Canada may have escaped the pain of risi
-[2026-09-06 07:01:06] Заблокированный источник (prnewswire.com): SimpliTrain recognized as a 'Pervasive P
-[2026-09-06 07:01:06] Заблокированный источник (prnewswire.com): Eightpoint Technologies Joins Enterprise
-[2026-09-06 07:01:06] Неизвестный источник (themattwalshblog.com): Acquisition.com Review
-[2026-09-06 07:01:06] Заблокированный источник (prnewswire.com): Dental Service Organization Market worth
-[2026-09-06 07:01:06] Неизвестный источник (financialpost.com): Rising yields seen pushing companies to 
-[2026-09-06 07:01:06] Неизвестный источник (siliconangle.com): Nvidia bags Hugging Face, AI models play
-[2026-09-06 07:01:06] Нет фото: The widening medication adherence gap
-[2026-09-06 07:01:06] Неизвестный источник (telecomtv.com): Spain’s MásOrange signals a next step in
-[2026-09-06 07:01:06] Неизвестный источник (dailysignal.com): The New Kingmakers: Crypto, AI and Betti
-[2026-09-06 07:01:06] Неизвестный источник (financialpost.com): TD’s chief operating officer leaving aft
-[2026-09-06 07:01:06] Неизвестный источник (business-standard.com): RenewBuy-InsuranceDekho merged entity pl
-[2026-09-06 07:01:06] Неизвестный источник (thediplomat.com): The Real Key to the AI Race: Nanometers 
-[2026-09-06 07:01:06] Неизвестный источник (ibtimes.com.au): 5 Countries Hit Hardest By AI-Driven Tec
-[2026-09-06 07:01:06] Неизвестный источник (pypi.org): views_r2darts2 0.2.1
-[2026-09-06 07:01:06] Неизвестный источник (en.protothema.gr): Swarm of autonomous OpenAI agents ‘hijac
-[2026-09-06 07:01:06] Неизвестный источник (nextgov.com): Funding the future: A look back on feder
-[2026-09-06 07:01:06] Неизвестный источник (github.com): Restoring 5 GHz Wi-Fi on an LG C5 by cha
-[2026-09-06 07:01:06] Нет фото: CLPS Incorporation Regains Compliance wi
-[2026-09-06 07:01:06] Не про ИИ, пропускаю: The big business of personal protection: How priva
-[2026-09-06 07:01:06] Неизвестный источник (bitcoinfoundation.org): Top Crypto Market Makers: Leading Crypto
-[2026-09-06 07:01:06] Заблокированный источник (finance.yahoo.com): ‘The soul of an innovator’: Tim Cook han
-[2026-09-06 07:01:06] Неизвестный источник (meydan.tv): Les luxueuses demeures d'Azerbaïdjan app
-[2026-09-06 07:01:06] Нет фото: UofT staff vote 96% for strike mandate
-[2026-09-06 07:01:06] Не про ИИ, пропускаю: Am I Talking to You, or ChatGPT?
-[2026-09-06 07:01:06] Пресс-релиз, пропускаю: AI Trading Forex (ATF) Expands Across TO
-[2026-09-06 07:01:06] Неизвестный источник (github.com): Show HN: TERMy – A fast terminal assista
-[2026-09-06 07:01:06] Неизвестный источник (esa.int): Back to School 2026-2027: 5 school proje
-[2026-09-06 07:01:06] Не про ИИ, пропускаю: 2026 Beethoven Festival evokes a sense of home
-[2026-09-06 07:01:06] Неизвестный источник (naftemporiki.gr): Cosmote rebrands as Telekom: Focus on AI
 [2026-09-06 07:01:06] AI новости: 0 с доверенных источников
 [2026-09-06 07:01:06] Доверенных AI-источников мало, добираю из остальных
 [2026-09-06 07:01:06] Не про ИИ, пропускаю: Jeff Bezos' Blue Origin Hires 47 Amazon Satellite 
@@ -2998,3 +2955,46 @@
 [2026-09-12 07:03:36] Пауза 60 секунд...
 [2026-09-12 07:04:37] sent_urls.txt обрезан: 304 -> 300
 [2026-09-12 07:04:37] === Блок ai_morning завершён ===
+[2026-09-12 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-12 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-12 10:01:12] Спорт, пропускаю: Fenerbahce coach Kartal’s resignation re
+[2026-09-12 10:01:12] Неизвестный источник (ksl.com): 'Modern-day martyr': Thousands honor Cha
+[2026-09-12 10:01:12] Неизвестный источник (deadline.com): ‘Practical Magic 2’ Sparks $3.5M+ In Pre
+[2026-09-12 10:01:12] Неизвестный источник (nbcsports.com): Brock Purdy, 49ers dominate Rams 27-7 in
+[2026-09-12 10:01:12] Пропускаю уже отправленную: Iran-backed Houthi rebels take strategic port city
+[2026-09-12 10:01:12] Неизвестный источник (bostonglobe.com): Lindsay Clancy juror can’t shake feeling
+[2026-09-12 10:01:12] Неизвестный источник (gsmarena.com): Here are the iPhone 18 Pro and iPhone 18
+[2026-09-12 10:01:12] Неизвестный источник (usatoday.com): Mariska Hargitay calls pre-Emmy wardrobe
+[2026-09-12 10:01:12] Неизвестный источник (foxnews.com): Dolly Parton’s sister reveals ‘last thin
+[2026-09-12 10:01:12] Неизвестный источник (wgal.com): Plain community shares perspectives as m
+[2026-09-12 10:01:12] Неизвестный источник (sci.news): Exceptionally Preserved Bird Feathers Fo
+[2026-09-12 10:01:12] Неизвестный источник (factcheck.org): FactChecking Trump’s Midterm Convention 
+[2026-09-12 10:01:12] Неизвестный источник (thefalcoholic.com): Tua Tagovailoa exited practice with obli
+[2026-09-12 10:01:12] Неизвестный источник (macrumors.com): Upgrading to Apple Watch Series 12 Could
+[2026-09-12 10:01:12] Неизвестный источник (fox4kc.com): Missouri Supreme Court finds Hoskins ‘di
+[2026-09-12 10:01:12] Неизвестный источник (realitytea.com): Palace Reminded Meghan Markle & Prince H
+[2026-09-12 10:01:12] Неизвестный источник (wktv.com): The Closest Planet to Our Sun Is Shrinki
+[2026-09-12 10:01:12] Неизвестный источник (space.com): What comes after the moon? Artemis II co
+[2026-09-12 10:01:12] Старая новость (2026-09-09T18:00:00Z): NASA's newly launched Roman Space Telesc
+[2026-09-12 10:01:12] Мировые новости: найдено 10 после фильтрации
+[2026-09-12 10:01:14] Редакторский отбор: выбраны позиции [4, 2, 1, 3]
+[2026-09-12 10:01:14] Обрабатываю: Hong Kong's Tiananmen activists sentenced to up to seven yea | https://www.bbc.com/news/articles/cvgyvk2djk4o
+[2026-09-12 10:01:14] Полный текст получен (3000 символов)
+[2026-09-12 10:01:14] Попытка 1 для: Hong Kong's Tiananmen activists sentence
+[2026-09-12 10:01:17] Успешно, получено 1789 символов
+[2026-09-12 10:01:17] Обрабатываю: Anthropic says it blocked misuse of its AI that could have s | https://apnews.com/article/anthropic-ai-threat-bioweapon-russia-00266d
+[2026-09-12 10:01:17] Попытка 1 для: Anthropic says it blocked misuse of its 
+[2026-09-12 10:01:19] Успешно, получено 1028 символов
+[2026-09-12 10:01:19] Обрабатываю: Scott Bessent fails to break ‘fever’ in US bond market | https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25
+[2026-09-12 10:01:20] Полный текст получен (1037 символов)
+[2026-09-12 10:01:20] Попытка 1 для: Scott Bessent fails to break ‘fever’ in 
+[2026-09-12 10:01:24] Успешно, получено 1556 символов
+[2026-09-12 10:01:24] Обрабатываю: Republican midterm convention wraps up in Dallas, Texas: Key | https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention
+[2026-09-12 10:01:24] Полный текст получен (3000 символов)
+[2026-09-12 10:01:24] Попытка 1 для: Republican midterm convention wraps up i
+[2026-09-12 10:01:40] Успешно, получено 1784 символов
+[2026-09-12 10:01:43] Пауза 60 секунд...
+[2026-09-12 10:02:44] Пауза 60 секунд...
+[2026-09-12 10:03:45] Пауза 60 секунд...
+[2026-09-12 10:04:45] sent_urls.txt обрезан: 304 -> 300
+[2026-09-12 10:04:45] === Блок midday завершён ===
