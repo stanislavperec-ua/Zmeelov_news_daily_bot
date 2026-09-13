@@ -1,113 +1,3 @@
-[2026-09-07 15:01:23] Старая новость (2026-09-05T14:30:24Z): Slovakia, led by one of EU’s most Russia
-[2026-09-07 15:01:23] Старая новость (2026-09-05T12:09:42Z): Russia made 500 Ukrainian schoolchildren
-[2026-09-07 15:01:23] Старая новость (2026-09-05T11:49:39Z): From HQ to the zero line: Ukraine’s Hraf
-[2026-09-07 15:01:23] Старая новость (2026-09-05T11:45:26Z): Ukraine is taking 1980s Leopards from ac
-[2026-09-07 15:01:23] Старая новость (2026-09-05T11:27:10Z): “Everyone is absolutely livid”: Expert s
-[2026-09-07 15:01:23] Старая новость (2026-09-05T10:45:23Z): Russia destroyed most of Ukraine’s big w
-[2026-09-07 15:01:23] Старая новость (2026-09-04T21:44:52Z): Russo-Ukrainian war, day 1654: Ukraine o
-[2026-09-07 15:01:23] Старая новость (2026-09-04T21:25:55Z): Ukraine orders temporary ceasefire as US
-[2026-09-07 15:01:23] Старая новость (2026-09-04T21:03:07Z): Germany suspects Russian intelligence be
-[2026-09-07 15:01:23] Старая новость (2026-09-04T19:53:48Z): After years of disputes, Hungary finds c
-[2026-09-07 15:01:23] Старая новость (2026-09-04T18:19:34Z): Ukraine’s anti-corruption agencies targe
-[2026-09-07 15:01:23] Харьков: найдена новость: Five injured in Kharkiv region due to Russian atta
-[2026-09-07 15:01:23] Обрабатываю: Witkoff and Kushner arrive in Kyiv for second leg of US dipl | https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl
-[2026-09-07 15:01:23] Полный текст получен (3000 символов)
-[2026-09-07 15:01:23] Попытка 1 для: Witkoff and Kushner arrive in Kyiv for s
-[2026-09-07 15:01:25] Успешно, получено 1469 символов
-[2026-09-07 15:01:25] Обрабатываю: Indonesia volcano eruption cancels hundreds of flights in ma | https://www.cbsnews.com/news/indonesia-volcano-eruption-flights-airpor
-[2026-09-07 15:01:25] Полный текст получен (3000 символов)
-[2026-09-07 15:01:25] Попытка 1 для: Indonesia volcano eruption cancels hundr
-[2026-09-07 15:01:29] Успешно, получено 2088 символов
-[2026-09-07 15:01:29] Обрабатываю: Rescuers in Nepal pull 2 people alive from the debris 10 day | https://apnews.com/article/nepal-floods-chinese-national-alive-f9a6d18
-[2026-09-07 15:01:29] Попытка 1 для: Rescuers in Nepal pull 2 people alive fr
-[2026-09-07 15:01:31] Успешно, получено 889 символов
-[2026-09-07 15:01:31] Обрабатываю: RFK Jr. accepts PA child died of measles, says Shapiro hasti | https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsyl
-[2026-09-07 15:01:32] Попытка 1 для: RFK Jr. accepts PA child died of measles
-[2026-09-07 15:01:44] Успешно, получено 848 символов
-[2026-09-07 15:01:47] Пауза 60 секунд...
-[2026-09-07 15:02:48] Пауза 60 секунд...
-[2026-09-07 15:03:49] Пауза 60 секунд...
-[2026-09-07 15:04:49] Обрабатываю: Dombrovskis, Koretskyi discuss Ukraine’s financial needs — E | https://www.ukrinform.net/rubric-polytics/4161653-dombrovskis-koretsky
-[2026-09-07 15:04:50] Полный текст получен (2112 символов)
-[2026-09-07 15:04:50] Попытка 1 для: Dombrovskis, Koretskyi discuss Ukraine’s
-[2026-09-07 15:04:53] Успешно, получено 1561 символов
-[2026-09-07 15:04:53] Обрабатываю: European Commission considers Danube Corridor an alternative | https://www.ukrinform.net/rubric-economy/4161629-european-commission-c
-[2026-09-07 15:04:55] Полный текст получен (2287 символов)
-[2026-09-07 15:04:55] Попытка 1 для: European Commission considers Danube Cor
-[2026-09-07 15:04:57] Успешно, получено 1438 символов
-[2026-09-07 15:04:57] Обрабатываю: Five injured in Kharkiv region due to Russian attacks over p | https://www.ukrinform.net/rubric-ato/4161533-five-injured-in-kharkiv-r
-[2026-09-07 15:04:58] Полный текст получен (764 символов)
-[2026-09-07 15:04:58] Попытка 1 для: Five injured in Kharkiv region due to Ru
-[2026-09-07 15:05:01] Успешно, получено 1476 символов
-[2026-09-07 15:05:04] Пауза 60 секунд...
-[2026-09-07 15:06:05] Пауза 60 секунд...
-[2026-09-07 15:07:06] sent_urls.txt обрезан: 307 -> 300
-[2026-09-07 15:07:06] === Блок evening завершён ===
-[2026-09-07 17:01:10] Загружено 300 уже отправленных новостей
-[2026-09-07 17:01:10] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-07 17:01:10] Нет фото: feagi 2.1.44
-[2026-09-07 17:01:10] Неизвестный источник (economictimes.indiatimes.com): "When knowledge is shared, innovation gr
-[2026-09-07 17:01:10] Неизвестный источник (github.com): Show HN: Dsnitch – Real-time, zero-confi
-[2026-09-07 17:01:10] Неизвестный источник (somaliprobe.com): How ChatGPT ads expansion Could Reshape 
-[2026-09-07 17:01:10] Неизвестный источник (salon.com): Lawmakers added $1 to Texans’ car insura
-[2026-09-07 17:01:10] Неизвестный источник (business-standard.com): Premium demand, bargain hunting set to d
-[2026-09-07 17:01:10] Неизвестный источник (economictimes.indiatimes.com): India's festive season promises strong s
-[2026-09-07 17:01:10] Неизвестный источник (ibtimes.com.au): IFA Berlin 2026: Top 30 Products To Chec
-[2026-09-07 17:01:10] Неизвестный источник (onefootball.com): Santos FC v Atlético Mineiro: Sudamerica
-[2026-09-07 17:01:10] Нет фото: jedi-board-of-directors added to PyPI
-[2026-09-07 17:01:10] Нет фото: What factors influence mate choice?
-[2026-09-07 17:01:10] Неизвестный источник (english.khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
-[2026-09-07 17:01:10] Нет фото: CNN framework enhanced with attention we
-[2026-09-07 17:01:10] Заблокированный источник (finance.yahoo.com): Michael Burry Says He Sold Alibaba, Call
-[2026-09-07 17:01:10] Неизвестный источник (onefootball.com): São Paulo FC opens support room at Morum
-[2026-09-07 17:01:10] Неизвестный источник (siliconangle.com): What to expect during DigiCert’s World Q
-[2026-09-07 17:01:10] Неизвестный источник (abc.net.au): Crime gangs use bots to lure young men i
-[2026-09-07 17:01:10] Неизвестный источник (siliconangle.com): What to expect at Workiva’s Amplify even
-[2026-09-07 17:01:10] Неизвестный источник (ovid.com): Infrasound in Biology and Medicine: Insi
-[2026-09-07 17:01:10] AI новости: 0 с доверенных источников
-[2026-09-07 17:01:10] Доверенных AI-источников мало, добираю из остальных
-[2026-09-07 17:01:10] Нет фото: feagi 2.1.44
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: "When knowledge is shared, innovation grows": MEA 
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Show HN: Dsnitch – Real-time, zero-config Docker e
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Lawmakers added $1 to Texans’ car insurance polici
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Premium demand, bargain hunting set to drive festi
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: India's festive season promises strong show as qui
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: IFA Berlin 2026: Top 30 Products To Check Out From
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Santos FC v Atlético Mineiro: Sudamericana tickets
-[2026-09-07 17:01:10] Нет фото: jedi-board-of-directors added to PyPI
-[2026-09-07 17:01:10] Нет фото: What factors influence mate choice?
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Economic Digest: A Snapshot of Nepal’s Business Ne
-[2026-09-07 17:01:10] Нет фото: CNN framework enhanced with attention we
-[2026-09-07 17:01:10] Заблокированный источник (finance.yahoo.com): Michael Burry Says He Sold Alibaba, Call
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: São Paulo FC opens support room at MorumBIS
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: What to expect during DigiCert’s World Quantum Rea
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Crime gangs use bots to lure young men in sextorti
-[2026-09-07 17:01:10] Пропускаю уже отправленную: What to expect at Workiva’s Amplify event: Join th
-[2026-09-07 17:01:10] Не про ИИ, пропускаю: Infrasound in Biology and Medicine: Insights into.
-[2026-09-07 17:01:10] AI новости: 1 кандидатов после фильтрации
-[2026-09-07 17:01:10] Обрабатываю: How ChatGPT ads expansion Could Reshape Middle East Marketin | https://somaliprobe.com/how-chatgpt-ads-expansion-could-reshape-middle
-[2026-09-07 17:01:11] Текст не совпадает с заголовком, беру описание: https://somaliprobe.com/how-chatgpt-ads-expansion-could-resh
-[2026-09-07 17:01:11] Попытка 1 для: How ChatGPT ads expansion Could Reshape 
-[2026-09-07 17:01:14] Успешно, получено 970 символов
-[2026-09-07 17:01:16] sent_urls.txt обрезан: 301 -> 300
-[2026-09-07 17:01:16] === Блок ai_evening завершён ===
-[2026-09-08 05:01:12] Загружено 300 уже отправленных новостей
-[2026-09-08 05:01:12] === Запуск блока: morning (тест: False) ===
-[2026-09-08 05:01:12] Пропускаю уже отправленную: Hurricane Lowell menaces Hawaiian Islands with lif
-[2026-09-08 05:01:12] Неизвестный источник (deadline.com): Emmy Awards Night 2 Winners List (Updati
-[2026-09-08 05:01:12] Неизвестный источник (nbcsports.com): Western Michigan-Michigan outcome create
-[2026-09-08 05:01:12] Неизвестный источник (actionnetwork.com): Notre Dame vs Wisconsin Picks, Odds, Par
-[2026-09-08 05:01:12] Неизвестный источник (espn.com): Team USA escapes with win over Italy at 
-[2026-09-08 05:01:12] Неизвестный источник (variety.com): Box Office: ‘Spider-Man: Brand New Day’ 
-[2026-09-08 05:01:12] Неизвестный источник (rollingstone.com): 14 People Hospitalized During the Chains
-[2026-09-08 05:01:12] Спорт, пропускаю: The Latest Act from Lane Kiffin’s Colleg
-[2026-09-08 05:01:12] Неизвестный источник (space.com): SpaceX Falcon 9 rocket launches 27 Starl
-[2026-09-08 05:01:12] Неизвестный источник (bgr.com): 5 Cheaper Android Phones To Try Instead 
-[2026-09-08 05:01:12] Старая новость (2026-09-05T14:02:00Z): Something Strange Just Happened With the
-[2026-09-08 05:01:12] Старая новость (2026-09-05T11:54:01Z): IFA Berlin 2026 Live: The Biggest Announ
-[2026-09-08 05:01:12] Старая новость (2026-09-05T10:20:01Z): Spacecraft bound for Mercury begins 'tri
-[2026-09-08 05:01:12] Старая новость (2026-09-02T22:56:00Z): Top US doctors offer updated flu and COV
-[2026-09-08 05:01:12] Мировые новости: найдено 11 после фильтрации
 [2026-09-08 05:01:14] Редакторский отбор: выбраны позиции [2, 4, 5, 6]
 [2026-09-08 05:01:15] RSS Ukrinform: 30 записей
 [2026-09-08 05:01:16] RSS Ukrinform: 30 записей
@@ -2998,3 +2888,113 @@
 [2026-09-13 15:05:01] Пауза 60 секунд...
 [2026-09-13 15:06:01] sent_urls.txt обрезан: 306 -> 300
 [2026-09-13 15:06:01] === Блок evening завершён ===
+[2026-09-13 17:01:14] Загружено 300 уже отправленных новостей
+[2026-09-13 17:01:14] === Запуск блока: ai_evening (тест: False) ===
+[2026-09-13 17:01:15] Неизвестный источник (wattsupwiththat.com): When AI Agents Started Working Together
+[2026-09-13 17:01:15] Неизвестный источник (securityaffairs.com): Anthropic: AI Misuse Is Entering a New P
+[2026-09-13 17:01:15] Неизвестный источник (thehindubusinessline.com): BRICS Summit 2026 Day 1 Highlights: Indi
+[2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): Leaders of BRICS countries call for stro
+[2026-09-13 17:01:15] Нет фото: feagi 2.1.51
+[2026-09-13 17:01:15] Неизвестный источник (business-standard.com): Brics nations push joint disease surveil
+[2026-09-13 17:01:15] Неизвестный источник (thehindubusinessline.com): Rotimatic: Can the AI-enabled kitchen ro
+[2026-09-13 17:01:15] Неизвестный источник (barchart.com): Intuit vs. Block: 1 Fintech Stock Is Bui
+[2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): BRICS backs diversified energy mix, says
+[2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): At BRICS, PM Modi calls for replacing 'p
+[2026-09-13 17:01:15] Неизвестный источник (en.antaranews.com): Indonesia's Kadin proposes three steps t
+[2026-09-13 17:01:15] Нет фото: Global Times: Silk Road Maritime shippin
+[2026-09-13 17:01:15] Нет фото: The Nerd Reich: Nation States
+[2026-09-13 17:01:15] Неизвестный источник (timesofindia.indiatimes.com): Telangana BJP chief demands clarity on R
+[2026-09-13 17:01:15] Неизвестный источник (timesofindia.indiatimes.com): Three devotees killed in hit-and-run nea
+[2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): The epistemology of power: Why BRICS mus
+[2026-09-13 17:01:15] Неизвестный источник (punchng.com): Again, Nigerians lose savings to Ponzi s
+[2026-09-13 17:01:15] Заблокированный источник (marketbeat.com): SpaceX Eyes Orbital AI Compute as Starsh
+[2026-09-13 17:01:15] Нет фото: What places do axolotls live in?
+[2026-09-13 17:01:15] Неизвестный источник (aiguide.substack.com): (7) Misleading Metaphors, Real Risks - b
+[2026-09-13 17:01:15] Неизвестный источник (me.pcmag.com): 'We Need to Slow Down': AI Crowd Reacts 
+[2026-09-13 17:01:15] Неизвестный источник (themattwalshblog.com): EasyGrow Review
+[2026-09-13 17:01:15] Неизвестный источник (americanthinker.com): Ask HAL 9000 about artificial intelligen
+[2026-09-13 17:01:15] Неизвестный источник (gainesville.com): Ben Shelton's tennis rise from Gainesvil
+[2026-09-13 17:01:15] Неизвестный источник (business-standard.com): US, India join hands to strengthen secur
+[2026-09-13 17:01:15] Неизвестный источник (siliconangle.com): Researchers link another hacking campaig
+[2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): US, India partner to secure undersea cab
+[2026-09-13 17:01:15] Неизвестный источник (thenightly.com.au): BrainChip unveils Australian AI technolo
+[2026-09-13 17:01:15] Неизвестный источник (siliconangle.com): Salesforce introduces new AI agents to a
+[2026-09-13 17:01:15] Неизвестный источник (financialpost.com): News of the day: Buying in on Canada, bi
+[2026-09-13 17:01:15] Нет фото: smooth-reading 0.3.0
+[2026-09-13 17:01:15] Неизвестный источник (siliconangle.com): Dynatrace and Arize AI push observabilit
+[2026-09-13 17:01:15] Неизвестный источник (uk.pcmag.com): 'We Need to Slow Down': AI Crowd Reacts 
+[2026-09-13 17:01:15] Неизвестный источник (androidguys.com): Best of IFA 2026
+[2026-09-13 17:01:15] Неизвестный источник (siliconangle.com): Chinese AI chip developer Enflame raises
+[2026-09-13 17:01:15] Неизвестный источник (pymnts.com): Nvidia Becomes the World’s Most Active $
+[2026-09-13 17:01:15] Неизвестный источник (bleepingcomputer.com): Hackers abused Claude to extract secrets
+[2026-09-13 17:01:15] Неизвестный источник (cmswire.com): Why Big Tech's AI Layoff Playbook Doesn'
+[2026-09-13 17:01:15] Неизвестный источник (digitaljournal.com): Weapons, spyware and AI scams: Anthropic
+[2026-09-13 17:01:15] Неизвестный источник (wwd.com): Exiger Powers Up Supply Chain Platform w
+[2026-09-13 17:01:15] Неизвестный источник (wwd.com): Exiger Powers Up Supply Chain Platform w
+[2026-09-13 17:01:15] Неизвестный источник (gofugyourself.com): Fugs & Pieces: Sept. 11, 2026
+[2026-09-13 17:01:15] Неизвестный источник (nofilmschool.com): A Massive Job Jargon Glossary For Writer
+[2026-09-13 17:01:15] Неизвестный источник (fool.com.au): 2 ASX shares I'd buy before they return 
+[2026-09-13 17:01:15] Неизвестный источник (cryptobriefing.com): Palantir partners with Nvidia to build s
+[2026-09-13 17:01:15] Неизвестный источник (ign.com): The 9 Biggest Trailers Worth Watching Th
+[2026-09-13 17:01:15] Неизвестный источник (business-standard.com): Iran for expanding use of national curre
+[2026-09-13 17:01:15] Неизвестный источник (siliconangle.com): Contact center AI faces its resolution t
+[2026-09-13 17:01:15] Неизвестный источник (foxnews.com): America built a fortress after 9/11. The
+[2026-09-13 17:01:15] AI новости: 0 с доверенных источников
+[2026-09-13 17:01:15] Доверенных AI-источников мало, добираю из остальных
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Leaders of BRICS countries call for stronger coope
+[2026-09-13 17:01:15] Нет фото: feagi 2.1.51
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Brics nations push joint disease surveillance, med
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: BRICS backs diversified energy mix, says fossil fu
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: At BRICS, PM Modi calls for replacing 'pyramid of 
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Indonesia's Kadin proposes three steps to strength
+[2026-09-13 17:01:15] Нет фото: Global Times: Silk Road Maritime shippin
+[2026-09-13 17:01:15] Нет фото: The Nerd Reich: Nation States
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Telangana BJP chief demands clarity on Rs 15k cror
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Three devotees killed in hit-and-run near Salasar 
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: The epistemology of power: Why BRICS must build a 
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Again, Nigerians lose savings to Ponzi scheme
+[2026-09-13 17:01:15] Заблокированный источник (marketbeat.com): SpaceX Eyes Orbital AI Compute as Starsh
+[2026-09-13 17:01:15] Нет фото: What places do axolotls live in?
+[2026-09-13 17:01:15] Пропускаю уже отправленную: 'We Need to Slow Down': AI Crowd Reacts to Viral H
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: EasyGrow Review
+[2026-09-13 17:01:15] Спорт, пропускаю: Ben Shelton's tennis rise from Gainesvil
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: US, India join hands to strengthen security of und
+[2026-09-13 17:01:15] Пропускаю уже отправленную: Researchers link another hacking campaign to OpenA
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: US, India partner to secure undersea cable network
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: BrainChip unveils Australian AI technology that mi
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: News of the day: Buying in on Canada, big banks hi
+[2026-09-13 17:01:15] Нет фото: smooth-reading 0.3.0
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Best of IFA 2026
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Nvidia Becomes the World’s Most Active $100 Millio
+[2026-09-13 17:01:15] Пропускаю уже отправленную: Hackers abused Claude to extract secrets from 1.8M
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Why Big Tech's AI Layoff Playbook Doesn't Work on 
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Exiger Powers Up Supply Chain Platform with Advanc
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Fugs & Pieces: Sept. 11, 2026
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: A Massive Job Jargon Glossary For Writers
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: 2 ASX shares I'd buy before they return to their 5
+[2026-09-13 17:01:15] Пропускаю уже отправленную: Palantir partners with Nvidia to build secure AI s
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: The 9 Biggest Trailers Worth Watching This Week
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: Iran for expanding use of national currencies, div
+[2026-09-13 17:01:15] Не про ИИ, пропускаю: America built a fortress after 9/11. Then the thre
+[2026-09-13 17:01:15] AI новости: 10 кандидатов после фильтрации
+[2026-09-13 17:01:16] Редакторский отбор: выбраны позиции [1, 8, 7, 3]
+[2026-09-13 17:01:16] Обрабатываю: Anthropic: AI Misuse Is Entering a New Phase: From Cybercrim | https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-
+[2026-09-13 17:01:17] Текст не совпадает с заголовком, беру описание: https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is
+[2026-09-13 17:01:17] Попытка 1 для: Anthropic: AI Misuse Is Entering a New P
+[2026-09-13 17:01:19] Успешно, получено 1091 символов
+[2026-09-13 17:01:19] Обрабатываю: Weapons, spyware and AI scams: Anthropic exposes Claude misu | https://www.digitaljournal.com/article/weapons-spyware-and-ai-scams-an
+[2026-09-13 17:01:19] Полный текст получен (3000 символов)
+[2026-09-13 17:01:19] Попытка 1 для: Weapons, spyware and AI scams: Anthropic
+[2026-09-13 17:01:24] Успешно, получено 2755 символов
+[2026-09-13 17:01:24] Обрабатываю: 'We Need to Slow Down': AI Crowd Reacts to Viral Human Extin | https://uk.pcmag.com/ai/167292/we-need-to-slow-down-ai-crowd-reacts-to
+[2026-09-13 17:01:24] Текст не совпадает с заголовком, беру описание: https://uk.pcmag.com/ai/167292/we-need-to-slow-down-ai-crowd
+[2026-09-13 17:01:24] Попытка 1 для: 'We Need to Slow Down': AI Crowd Reacts 
+[2026-09-13 17:01:25] Успешно, получено 792 символов
+[2026-09-13 17:01:25] Обрабатываю: (7) Misleading Metaphors, Real Risks | https://aiguide.substack.com/p/misleading-metaphors-and-real-risks
+[2026-09-13 17:01:25] Попытка 1 для: (7) Misleading Metaphors, Real Risks
+[2026-09-13 17:01:28] Успешно, получено 773 символов
+[2026-09-13 17:01:31] Пауза 60 секунд...
+[2026-09-13 17:02:32] Пауза 60 секунд...
+[2026-09-13 17:03:32] Пауза 60 секунд...
+[2026-09-13 17:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-09-13 17:04:33] === Блок ai_evening завершён ===
