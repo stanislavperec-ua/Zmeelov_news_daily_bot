@@ -1,47 +1,3 @@
-[2026-09-08 15:01:18] Неизвестный источник (space.com): SpaceX Falcon 9 rocket launches 27 Starl
-[2026-09-08 15:01:18] Старая новость (2026-09-06T10:00:00Z): NASA expands Deep Space Network with gia
-[2026-09-08 15:01:18] Старая новость (2026-09-05T19:05:48Z): Fundraiser for Lindsay Clancy’s Parents 
-[2026-09-08 15:01:18] Старая новость (2026-09-05T10:32:02Z): Her back hurt, then she couldn’t button 
-[2026-09-08 15:01:18] Старая новость (2026-09-02T18:21:19Z): Top U.S. doctors offer updated flu and C
-[2026-09-08 15:01:18] Мировые новости: найдено 12 после фильтрации
-[2026-09-08 15:01:20] Редакторский отбор: выбраны позиции [1, 8, 6, 9]
-[2026-09-08 15:01:21] RSS Ukrinform: 30 записей
-[2026-09-08 15:01:22] RSS Ukrinform: 30 записей
-[2026-09-08 15:01:22] RSS Euromaidan Press: 29 записей
-[2026-09-08 15:01:22] Старая новость (2026-09-06T10:05:43Z): Ukraine logged impacts at 11 sites while
-[2026-09-08 15:01:22] Старая новость (2026-09-06T09:32:01Z): Ukrainian drones took Ryazan’s blending 
-[2026-09-08 15:01:22] Старая новость (2026-09-06T05:31:45Z): Ukraine’s drone forces say they hit 58,4
-[2026-09-08 15:01:22] Старая новость (2026-09-06T04:34:44Z): Russo-Ukrainian war, day 1655: More than
-[2026-09-08 15:01:22] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-08 15:01:22] Заблокированный источник (biztoc.com): Zelensky Expects War To Continue Through
-[2026-09-08 15:01:22] Заблокированный источник (rt.com): Moscow orders German consulate to shut i
-[2026-09-08 15:01:22] Заблокированный источник (biztoc.com): Witkoff claims 'substantial' progress in
-[2026-09-08 15:01:22] Заблокированный источник (biztoc.com): French National Rally's Bardella on Budg
-[2026-09-08 15:01:22] Внутренний дубль: About 95 children remain in mandatory evacuation z
-[2026-09-08 15:01:22] Внутренний дубль: Russian forces destroy pharmacy warehouse storing 
-[2026-09-08 15:01:22] Внутренний дубль: Russians restrict use of military equipment in Ole
-[2026-09-08 15:01:22] Внутренний дубль: Russian drone hits market place in Kherson, one pe
-[2026-09-08 15:01:22] Внутренний дубль: Russians attack Dnipro–Zaporizhzhia passenger trai
-[2026-09-08 15:01:22] Внутренний дубль: Russian forces attack industrial enterprise in Zap
-[2026-09-08 15:01:22] Внутренний дубль: Russia plans to mobilize additional 300,000 people
-[2026-09-08 15:01:22] Внутренний дубль: Three killed, 19 injured in Russian attack on Kyiv
-[2026-09-08 15:01:22] Внутренний дубль: Foreign components manufactured in 2025-2026 found
-[2026-09-08 15:01:22] Внутренний дубль: Russian forces attack We-Ukraine TV channel office
-[2026-09-08 15:01:22] Внутренний дубль: Ukrainian forces strike Russian storage and launch
-[2026-09-08 15:01:22] Внутренний дубль: Russian forces strike Dnipro-Zaporizhzhia train, c
-[2026-09-08 15:01:22] Внутренний дубль: Ukrainian AI company after NATO competition: effec
-[2026-09-08 15:01:22] Внутренний дубль: Russians attack shopping center in Pryluky
-[2026-09-08 15:01:22] Внутренний дубль: Casualty toll in Kyiv rises to 18 following massiv
-[2026-09-08 15:01:22] Внутренний дубль: Enemy strikes Dnipro, fire breaks out
-[2026-09-08 15:01:22] Внутренний дубль: Winter package: UK allocates £100 million for Ukra
-[2026-09-08 15:01:22] Внутренний дубль: Medical center damaged in Russian strike on Kyiv
-[2026-09-08 15:01:22] Внутренний дубль: Russians tried to plan attack to cause maximum dam
-[2026-09-08 15:01:22] Внутренний дубль: Russia strikes Kyiv–Sumy train, no injuries report
-[2026-09-08 15:01:22] Внутренний дубль: Large-scale Russian attack on Kyiv: Injury toll ri
-[2026-09-08 15:01:22] Украинские новости: найдено 65 после фильтрации
-[2026-09-08 15:01:25] Редакторский отбор: выбраны позиции [4, 2]
-[2026-09-08 15:01:25] NewsAPI (Харьков, все издания): пришло 5 статей
-[2026-09-08 15:01:26] RSS Ukrinform: 30 записей
 [2026-09-08 15:01:27] RSS Ukrinform: 30 записей
 [2026-09-08 15:01:27] RSS Euromaidan Press: 29 записей
 [2026-09-08 15:01:27] Нет фото: Ukrainian Troop Encirclement Near Kharko
@@ -2998,3 +2954,47 @@
 [2026-09-14 07:02:28] Пауза 60 секунд...
 [2026-09-14 07:03:29] sent_urls.txt обрезан: 303 -> 300
 [2026-09-14 07:03:29] === Блок ai_morning завершён ===
+[2026-09-14 10:01:19] Загружено 300 уже отправленных новостей
+[2026-09-14 10:01:19] === Запуск блока: midday (тест: False) ===
+[2026-09-14 10:01:19] Неизвестный источник (nbcsports.com): Arch Manning puts "nightmares" behind hi
+[2026-09-14 10:01:19] Неизвестный источник (foxnews.com): Wisconsin GOP governor candidate swims f
+[2026-09-14 10:01:19] Неизвестный источник (sfgate.com): Horoscope for Sunday, 09/13/26 by Christ
+[2026-09-14 10:01:19] Заблокированный источник (sports.yahoo.com): 'Easiest money ever': Ryan Garcia's brut
+[2026-09-14 10:01:19] Неизвестный источник (cbssports.com): College football winners, losers of Week
+[2026-09-14 10:01:19] Неизвестный источник (deadline.com): 'Misty Green' Review: Rosalind Eleazar S
+[2026-09-14 10:01:19] Неизвестный источник (bgr.com): 5 Mini Gadgets From Belkin That Are Smal
+[2026-09-14 10:01:19] Неизвестный источник (foxnews.com): 'Reacher' star Alan Ritchson and wife Ca
+[2026-09-14 10:01:19] Неизвестный источник (macrumors.com): Apple Says iPhone 18 Pro Max Sold in U.S
+[2026-09-14 10:01:19] Неизвестный источник (variety.com): Maggie Gyllenhaal’s Venice Jury Didn’t A
+[2026-09-14 10:01:19] Неизвестный источник (sciencealert.com): Physicists Just Turned The Entire Planet
+[2026-09-14 10:01:19] Неизвестный источник (9to5mac.com): Apple nailed iPhone Duo split screen, ev
+[2026-09-14 10:01:19] Неизвестный источник (pbs.org): BRICS leaders voice concern over Middle 
+[2026-09-14 10:01:19] Пропускаю уже отправленную: DR Congo’s worst Ebola epidemic ever passes 7,000 
+[2026-09-14 10:01:19] Старая новость (2026-09-12T08:30:00Z): Date the world will be destroyed and uni
+[2026-09-14 10:01:19] Старая новость (2026-09-11T22:23:00Z): First-ever adult Tyrannosaurus rex track
+[2026-09-14 10:01:19] Старая новость (2026-09-11T20:29:00Z): Four fully vaccinated people test positi
+[2026-09-14 10:01:19] Старая новость (2026-09-11T19:19:00Z): Ancient Bird Feather in Dino Poop May Ho
+[2026-09-14 10:01:19] Старая новость (2026-09-11T19:05:00Z): In photos: Remembering the Sept. 11 atta
+[2026-09-14 10:01:19] Старая новость (2026-09-11T18:34:15Z): 10,000 steps a day may not be the key to
+[2026-09-14 10:01:19] Старая новость (2026-09-11T10:32:18Z): Alcohol-linked cancer deaths have double
+[2026-09-14 10:01:19] Мировые новости: найдено 8 после фильтрации
+[2026-09-14 10:01:20] Редакторский отбор: выбраны позиции [2, 5, 1, 7]
+[2026-09-14 10:01:20] Обрабатываю: Baghdad confirms attack on Saudi pipeline came from Iraq | https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-f
+[2026-09-14 10:01:20] Полный текст получен (3000 символов)
+[2026-09-14 10:01:20] Попытка 1 для: Baghdad confirms attack on Saudi pipelin
+[2026-09-14 10:01:24] Успешно, получено 1614 символов
+[2026-09-14 10:01:24] Обрабатываю: Anthropic CEO Says It’s Time to Slow AI Model Advances | https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-
+[2026-09-14 10:01:24] Попытка 1 для: Anthropic CEO Says It’s Time to Slow AI 
+[2026-09-14 10:01:25] Успешно, получено 856 символов
+[2026-09-14 10:01:25] Обрабатываю: What's next after Donald Trump's united Ireland comments? | https://www.bbc.com/news/articles/c1wxlx98yqyo
+[2026-09-14 10:01:26] Полный текст получен (3000 символов)
+[2026-09-14 10:01:26] Попытка 1 для: What's next after Donald Trump's united 
+[2026-09-14 10:01:27] Успешно, получено 1453 символов
+[2026-09-14 10:01:27] Обрабатываю: Where have all the Atlantic hurricanes gone? El Nino might b | https://apnews.com/article/hurricanes-atlantic-el-nino-warming-oceans-
+[2026-09-14 10:01:28] Попытка 1 для: Where have all the Atlantic hurricanes g
+[2026-09-14 10:01:30] Успешно, получено 966 символов
+[2026-09-14 10:01:33] Пауза 60 секунд...
+[2026-09-14 10:02:33] Пауза 60 секунд...
+[2026-09-14 10:03:34] Пауза 60 секунд...
+[2026-09-14 10:04:34] sent_urls.txt обрезан: 304 -> 300
+[2026-09-14 10:04:34] === Блок midday завершён ===
