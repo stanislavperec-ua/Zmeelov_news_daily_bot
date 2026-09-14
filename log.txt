@@ -1,77 +1,3 @@
-[2026-09-08 17:01:18] Не про ИИ, пропускаю: The Green Energy Paradox: Saving Nature by Destroy
-[2026-09-08 17:01:18] Пропускаю уже отправленную: David Sacks warns AI doom narratives backed by ser
-[2026-09-08 17:01:18] Не про ИИ, пропускаю: India set to pitch tech synergy for cementing BRIC
-[2026-09-08 17:01:18] Не про ИИ, пропускаю: ‘White hats’ take 4000 BTC from Liquid, ETFs see b
-[2026-09-08 17:01:18] Пропускаю уже отправленную: OpenAI to set misalignment disclosure rules after 
-[2026-09-08 17:01:18] Заблокированный источник (dailymail.com): Would you get buried in a 'living coffin
-[2026-09-08 17:01:18] Нет фото: LibreOffice 26.8.0
-[2026-09-08 17:01:18] Пропускаю уже отправленную: Equinix Is Doubling Down on AI Data Centers. How t
-[2026-09-08 17:01:18] Нет фото: Jason Calcanis is Wrong About Cybercab, 
-[2026-09-08 17:01:18] AI новости: 3 кандидатов после фильтрации
-[2026-09-08 17:01:18] Обрабатываю: Show HN: Benzi – Code Intelligence Infrastructure for Fronti | https://github.com/oooscoos/Benzi
-[2026-09-08 17:01:18] Текст не совпадает с заголовком, беру описание: https://github.com/oooscoos/Benzi
-[2026-09-08 17:01:18] Попытка 1 для: Show HN: Benzi – Code Intelligence Infra
-[2026-09-08 17:01:21] Успешно, получено 1164 символов
-[2026-09-08 17:01:21] Обрабатываю: MediaTek MT8875 Launches: 5G IoT Chip With Edge Generative A | https://www.ubergizmo.com/2026/09/mediatek-mt8875/
-[2026-09-08 17:01:21] Полный текст получен (2365 символов)
-[2026-09-08 17:01:21] Попытка 1 для: MediaTek MT8875 Launches: 5G IoT Chip Wi
-[2026-09-08 17:01:23] Успешно, получено 1732 символов
-[2026-09-08 17:01:23] Обрабатываю: Experience AI evolves with flexible resources for every clas | https://www.raspberrypi.org/blog/experience-ai-evolves-with-flexible-r
-[2026-09-08 17:01:24] Полный текст получен (3000 символов)
-[2026-09-08 17:01:24] Попытка 1 для: Experience AI evolves with flexible reso
-[2026-09-08 17:01:26] Успешно, получено 1208 символов
-[2026-09-08 17:01:29] Пауза 60 секунд...
-[2026-09-08 17:02:29] Пауза 60 секунд...
-[2026-09-08 17:03:30] sent_urls.txt обрезан: 303 -> 300
-[2026-09-08 17:03:30] === Блок ai_evening завершён ===
-[2026-09-09 05:01:14] Загружено 300 уже отправленных новостей
-[2026-09-09 05:01:14] === Запуск блока: morning (тест: False) ===
-[2026-09-09 05:01:14] Неизвестный источник (usatoday.com): 'Pay your power bill': College football 
-[2026-09-09 05:01:14] Пропускаю уже отправленную: Germany's Merz shocked by far-right state election
-[2026-09-09 05:01:14] Заблокированный источник (nypost.com): Wild drone video shows cops drop hammer 
-[2026-09-09 05:01:14] Неизвестный источник (hellomagazine.com): Taylor Swift looks radiant in flowing go
-[2026-09-09 05:01:14] Неизвестный источник (variety.com): Macklemore Says 'Free Palestine' Is Not 
-[2026-09-09 05:01:14] Неизвестный источник (bleacherreport.com): Texas' Steve Sarkisian 'Shocked' Michiga
-[2026-09-09 05:01:14] Неизвестный источник (startribune.com): Lynx sign former No. 3 overall pick. Wit
-[2026-09-09 05:01:14] Неизвестный источник (foxnews.com): Dangerous mosquito-borne virus spreads i
-[2026-09-09 05:01:14] Неизвестный источник (cbssports.com): Breech's final record prediction for all
-[2026-09-09 05:01:14] Неизвестный источник (macrumors.com): Xiaomi Announces Foldable iPhone Rival -
-[2026-09-09 05:01:14] Неизвестный источник (digitalfoundry.net): DLSS 5 Mod Shifts Load to Second GPU, Do
-[2026-09-09 05:01:14] Неизвестный источник (9to5mac.com): Three new iPhones launch this week, here
-[2026-09-09 05:01:14] Лента обновлений, пропускаю: Live Updates: Iran says it will expand c
-[2026-09-09 05:01:14] Старая новость (2026-09-06T19:00:45Z): Measles death undercuts RFK Jr.’s doubts
-[2026-09-09 05:01:14] Старая новость (2026-09-06T10:00:00Z): NASA expands Deep Space Network with gia
-[2026-09-09 05:01:14] Старая новость (2026-09-04T07:00:00Z): Popular brain supplement linked to short
-[2026-09-09 05:01:14] Старая новость (2026-09-02T22:56:00Z): Top US doctors offer updated flu and COV
-[2026-09-09 05:01:14] Мировые новости: найдено 10 после фильтрации
-[2026-09-09 05:01:16] Редакторский отбор: выбраны позиции [1, 9, 6, 2]
-[2026-09-09 05:01:17] RSS Ukrinform: 30 записей
-[2026-09-09 05:01:18] RSS Ukrinform: 30 записей
-[2026-09-09 05:01:18] Пропускаю уже отправленную: Injury toll in Russian attack on Kyiv rises to 26,
-[2026-09-09 05:01:18] RSS Euromaidan Press: 29 записей
-[2026-09-09 05:01:19] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Ukrainian drones said to hit Russia's Sa
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Russia resumes strikes on Kyiv after thr
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Two dead, 7 injured in Russia's attack o
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): North Korea and Russia open first road b
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Labor Day gas prices have never been thi
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Russian attack on Kyiv injures at least 
-[2026-09-09 05:01:19] Заблокированный источник (sputnikglobe.com): Grossi Thanks Russia, Ukraine for Ceasef
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Ukraine attack hits civilian infrastruct
-[2026-09-09 05:01:19] Заблокированный источник (uk.news.yahoo.com): Russia to strip contract soldiers of one
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Polish airspace secured amid Russia's at
-[2026-09-09 05:01:19] Спорт, пропускаю: Heavyweight Boxing: Oleksandr Usyk Camp 
-[2026-09-09 05:01:19] Заблокированный источник (biztoc.com): Klitschko says emergency response underw
-[2026-09-09 05:01:19] Внутренний дубль: Two injured, over 10 homes damaged in Russian atta
-[2026-09-09 05:01:19] Внутренний дубль: Russian drone hits apartment building in Kharkiv –
-[2026-09-09 05:01:19] Внутренний дубль: Russian forces leave behind extensive minefields i
-[2026-09-09 05:01:19] Внутренний дубль: Main result of operation in Oleksandrivka sector i
-[2026-09-09 05:01:19] Внутренний дубль: Russia destroys or damages 2,687 medical facilitie
-[2026-09-09 05:01:19] Внутренний дубль: Injury toll from Russian strikes on Kyiv rises to 
-[2026-09-09 05:01:19] Внутренний дубль: Transferring Patriot missiles from European stocks
-[2026-09-09 05:01:19] Внутренний дубль: Private house catches fire in Kyiv following Russi
-[2026-09-09 05:01:19] Внутренний дубль: Fire breaks out at enterprise in Bila Tserkva foll
-[2026-09-09 05:01:19] Внутренний дубль: Police recover spent propulsion section of Russian
 [2026-09-09 05:01:19] Внутренний дубль: Russians strike diesel train in Sumy region, nine 
 [2026-09-09 05:01:19] Внутренний дубль: Ukraine updates: Explosions rock Kyiv as 3-day tru
 [2026-09-09 05:01:19] Украинские новости: найдено 85 после фильтрации
@@ -2998,3 +2924,77 @@
 [2026-09-14 15:06:04] Пауза 60 секунд...
 [2026-09-14 15:07:05] sent_urls.txt обрезан: 307 -> 300
 [2026-09-14 15:07:05] === Блок evening завершён ===
+[2026-09-14 17:01:11] Загружено 300 уже отправленных новостей
+[2026-09-14 17:01:11] === Запуск блока: ai_evening (тест: False) ===
+[2026-09-14 17:01:11] Неизвестный источник (siliconangle.com): Supio’s long-horizon agents point to a n
+[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Businesses put up guard rails in deployi
+[2026-09-14 17:01:11] Неизвестный источник (insidethemagic.net): Disney Shut Down a Key Section of Animal
+[2026-09-14 17:01:11] Нет фото: cobra-rfic added to PyPI
+[2026-09-14 17:01:11] Неизвестный источник (zycrypto.com): Zcash Miners Quietly Crushing Bitcoin on
+[2026-09-14 17:01:11] Неизвестный источник (securityaffairs.com): Security Affairs newsletter Round 594 by
+[2026-09-14 17:01:11] Нет фото: mnemolink 0.2.3
+[2026-09-14 17:01:11] Неизвестный источник (wnd.com): America is slamming the brakes on the ca
+[2026-09-14 17:01:11] Нет фото: radiate 0.0.15
+[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Brics labour initiatives may aid cross-b
+[2026-09-14 17:01:11] Нет фото: New Delhi Summit provides clear guidance
+[2026-09-14 17:01:11] Неизвестный источник (livemint.com): PwC US and PwC India form joint venture 
+[2026-09-14 17:01:11] Неизвестный источник (thehackernews.com): Attackers Use Passkey Phishing to Hijack
+[2026-09-14 17:01:11] Неизвестный источник (newrepublic.com): The Big Greedy Data Center Next Door
+[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): FISME calls for easier trade finance, te
+[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Weaponising critical minerals can hinder
+[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Manipal Hospitals scouts for acquisition
+[2026-09-14 17:01:11] Неизвестный источник (economictimes.indiatimes.com): Manipal Hospitals scouts for acquisition
+[2026-09-14 17:01:11] Неизвестный источник (nzherald.co.nz): Ministry of Awesome triples Christchurch
+[2026-09-14 17:01:11] Нет фото: feagi 2.1.52
+[2026-09-14 17:01:11] Неизвестный источник (researchbuzz.me): Ancient Egypt Misinformation, California
+[2026-09-14 17:01:11] Неизвестный источник (economictimes.indiatimes.com): BRICS 2026: Global South must now shape,
+[2026-09-14 17:01:11] Нет фото: sofi-series added to PyPI
+[2026-09-14 17:01:11] Заблокированный источник (marketbeat.com): American Tower Sees 2026 Growth Trough B
+[2026-09-14 17:01:11] Нет фото: If AI attempts to take over world, don’t
+[2026-09-14 17:01:11] Неизвестный источник (eastleighvoice.co.ke): Energy CS Wandayi denies link to AI camp
+[2026-09-14 17:01:11] Заблокированный источник (dailymail.com): America's new nightmare attack revealed:
+[2026-09-14 17:01:11] Неизвестный источник (timesofsandiego.com): No seed oils and only organic ingredient
+[2026-09-14 17:01:11] Неизвестный источник (screenrant.com): Fall 2026’s 9 Most Exciting Sitcoms
+[2026-09-14 17:01:11] Неизвестный источник (dailycaller.com): America Is Slamming The Brakes On The Ca
+[2026-09-14 17:01:11] AI новости: 0 с доверенных источников
+[2026-09-14 17:01:11] Доверенных AI-источников мало, добираю из остальных
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Businesses put up guard rails in deploying AI, pri
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Disney Shut Down a Key Section of Animal Kingdom M
+[2026-09-14 17:01:11] Нет фото: cobra-rfic added to PyPI
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Zcash Miners Quietly Crushing Bitcoin on Profitabi
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Security Affairs newsletter Round 594 by Pierluigi
+[2026-09-14 17:01:11] Нет фото: mnemolink 0.2.3
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: America is slamming the brakes on the camera netwo
+[2026-09-14 17:01:11] Нет фото: radiate 0.0.15
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Brics labour initiatives may aid cross-border hiri
+[2026-09-14 17:01:11] Нет фото: New Delhi Summit provides clear guidance
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: PwC US and PwC India form joint venture to scale I
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Attackers Use Passkey Phishing to Hijack Microsoft
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: The Big Greedy Data Center Next Door
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: FISME calls for easier trade finance, tech access 
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Weaponising critical minerals can hinder common gr
+[2026-09-14 17:01:11] Пропускаю уже отправленную: Manipal Hospitals scouts for acquisitions in Andhr
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Ministry of Awesome triples Christchurch footprint
+[2026-09-14 17:01:11] Нет фото: feagi 2.1.52
+[2026-09-14 17:01:11] Пропускаю уже отправленную: Ancient Egypt Misinformation, California Fairgroun
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: BRICS 2026: Global South must now shape, not merel
+[2026-09-14 17:01:11] Нет фото: sofi-series added to PyPI
+[2026-09-14 17:01:11] Заблокированный источник (marketbeat.com): American Tower Sees 2026 Growth Trough B
+[2026-09-14 17:01:11] Нет фото: If AI attempts to take over world, don’t
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Energy CS Wandayi denies link to AI campaign prais
+[2026-09-14 17:01:11] Заблокированный источник (dailymail.com): America's new nightmare attack revealed:
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: No seed oils and only organic ingredients at Sourp
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: Fall 2026’s 9 Most Exciting Sitcoms
+[2026-09-14 17:01:11] Не про ИИ, пропускаю: America Is Slamming The Brakes On The Camera Netwo
+[2026-09-14 17:01:11] AI новости: 2 кандидатов после фильтрации
+[2026-09-14 17:01:11] Обрабатываю: Supio’s long-horizon agents point to a new operating model f | https://siliconangle.com/2026/09/13/supios-long-horizon-agents-point-t
+[2026-09-14 17:01:11] Полный текст получен (3000 символов)
+[2026-09-14 17:01:11] Попытка 1 для: Supio’s long-horizon agents point to a n
+[2026-09-14 17:01:14] Успешно, получено 1791 символов
+[2026-09-14 17:01:14] Обрабатываю: Manipal Hospitals scouts for acquisitions in Andhra, Keralam | https://economictimes.indiatimes.com/industry/healthcare/biotech/healt
+[2026-09-14 17:01:14] Полный текст получен (3000 символов)
+[2026-09-14 17:01:14] Попытка 1 для: Manipal Hospitals scouts for acquisition
+[2026-09-14 17:01:20] Успешно, получено 2220 символов
+[2026-09-14 17:01:23] Пауза 60 секунд...
+[2026-09-14 17:02:23] sent_urls.txt обрезан: 302 -> 300
+[2026-09-14 17:02:23] === Блок ai_evening завершён ===
