@@ -1,44 +1,3 @@
-[2026-09-09 10:04:30] === Блок midday завершён ===
-[2026-09-09 15:01:18] Загружено 300 уже отправленных новостей
-[2026-09-09 15:01:18] === Запуск блока: evening (тест: False) ===
-[2026-09-09 15:01:18] Неизвестный источник (hollywoodreporter.com): ‘Musk’: Alex Gibney Shares His Take on E
-[2026-09-09 15:01:18] Неизвестный источник (patspulpit.com): Instant grades for Christian Gonzalez co
-[2026-09-09 15:01:18] Пропускаю уже отправленную: Saudi Arabia says 73 wounded as Houthis attack civ
-[2026-09-09 15:01:18] Спорт, пропускаю: Who will reach Super Bowl? - NFL predict
-[2026-09-09 15:01:18] Неизвестный источник (tallahassee.com): FSU football final: Mustangs beat Semino
-[2026-09-09 15:01:18] Неизвестный источник (sfchronicle.com): Hawaii sees its first-ever tornado watch
-[2026-09-09 15:01:18] Неизвестный источник (creativebloq.com): Some people are worried Apple's folding 
-[2026-09-09 15:01:18] Неизвестный источник (9to5mac.com): 9to5Mac Overtime 080: Six new Apple prod
-[2026-09-09 15:01:18] Пропускаю уже отправленную: Trump calls for a Bombardier plane ban, drawing pu
-[2026-09-09 15:01:18] Пропускаю уже отправленную: Israeli airstrikes on a village in southern Lebano
-[2026-09-09 15:01:18] Неизвестный источник (gizmodo.com): Study Suggests AI-Generated Drug Could S
-[2026-09-09 15:01:18] Старая новость (2026-09-07T11:39:00Z): Live Updates: Iran says it will expand c
-[2026-09-09 15:01:18] Старая новость (2026-09-06T19:00:45Z): Measles death undercuts RFK Jr.’s doubts
-[2026-09-09 15:01:18] Старая новость (2026-09-06T15:00:01Z): The extinct American 'cheetah' was not a
-[2026-09-09 15:01:18] Старая новость (2026-09-05T12:00:04Z): A woman was in pain for decades. A surpr
-[2026-09-09 15:01:18] Старая новость (2026-09-02T21:19:34Z): Landmark pancreatic cancer drug shows po
-[2026-09-09 15:01:18] Мировые новости: найдено 9 после фильтрации
-[2026-09-09 15:01:24] Редакторский отбор: выбраны позиции [4, 8, 3, 9]
-[2026-09-09 15:01:25] RSS Ukrinform: 30 записей
-[2026-09-09 15:01:27] RSS Ukrinform: 30 записей
-[2026-09-09 15:01:27] Пропускаю уже отправленную: Russia destroys or damages 2,687 medical facilitie
-[2026-09-09 15:01:27] Пропускаю уже отправленную: Injury toll from Russian strikes on Kyiv rises to 
-[2026-09-09 15:01:27] RSS Euromaidan Press: 29 записей
-[2026-09-09 15:01:27] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-09 15:01:27] Заблокированный источник (uk.news.yahoo.com): Trump told Putin he wants swift end to U
-[2026-09-09 15:01:27] Заблокированный источник (dailymail.com): China's Xi Jinping warns Andy Burnham to
-[2026-09-09 15:01:27] Заблокированный источник (ca.news.yahoo.com): Germany to send more Patriot missiles to
-[2026-09-09 15:01:27] Заблокированный источник (biztoc.com): Lavrov Says 'Start Of Real War' Emerging
-[2026-09-09 15:01:27] Нет фото: Watch: Stadium Erupts as Florida Brings 
-[2026-09-09 15:01:27] Заблокированный источник (rt.com): Putin and Trump hold phone talks – Kreml
-[2026-09-09 15:01:27] Нет фото: The Word America Wouldn’t Say Before Is 
-[2026-09-09 15:01:27] Заблокированный источник (sputnikglobe.com): Putin and Trump Held Phone Call on Tuesd
-[2026-09-09 15:01:27] Заблокированный источник (biztoc.com): Ukraine asks allies for 300 Patriot miss
-[2026-09-09 15:01:27] Заблокированный источник (yahoo.com): As election looms, Sweden's government i
-[2026-09-09 15:01:27] Заблокированный источник (yahoo.com): Norway returns 69 Russians stranded in A
-[2026-09-09 15:01:27] Нет фото: Russia Bombards Kyiv Soon After Witkoff,
-[2026-09-09 15:01:27] Заблокированный источник (dailymail.com): Climate extremist is arrested over Germa
-[2026-09-09 15:01:27] Нет фото: The Democrats are both cynical and naive
 [2026-09-09 15:01:27] Нет фото: France to ban products from illegal Isra
 [2026-09-09 15:01:27] Заблокированный источник (nypost.com): At least 3 dead, 16 wounded in Russian a
 [2026-09-09 15:01:27] Заблокированный источник (rt.com): Hunter Biden turns laptop scandal into m
@@ -2998,3 +2957,44 @@
 [2026-09-15 07:03:37] Пауза 60 секунд...
 [2026-09-15 07:04:37] sent_urls.txt обрезан: 304 -> 300
 [2026-09-15 07:04:37] === Блок ai_morning завершён ===
+[2026-09-15 10:01:15] Загружено 300 уже отправленных новостей
+[2026-09-15 10:01:15] === Запуск блока: midday (тест: False) ===
+[2026-09-15 10:01:15] Неизвестный источник (japantimes.co.jp): LDP-backed Genta Koja wins Okinawa gover
+[2026-09-15 10:01:15] Неизвестный источник (nbcsports.com): Sunday Night Football: Jaxson Dart throw
+[2026-09-15 10:01:15] Неизвестный источник (usatoday.com): Hayden Panettiere's boyfriend Brian Hick
+[2026-09-15 10:01:15] Неизвестный источник (usatoday.com): House Speaker Johnson says Congress shou
+[2026-09-15 10:01:15] Неизвестный источник (wisn.com): Tom Tiffany's plane forced to make emerg
+[2026-09-15 10:01:15] Неизвестный источник (nbcsports.com): Cardinals beat Chargers in NFL’s biggest
+[2026-09-15 10:01:15] Неизвестный источник (ew.com): ‘Practical Magic 2’ bests ‘Spider-Man’ a
+[2026-09-15 10:01:15] Лента обновлений, пропускаю: Stock futures fall as investors weigh AI
+[2026-09-15 10:01:15] Неизвестный источник (slashgear.com): Xbox Is Bringing A Big Dose Of Nostalgia
+[2026-09-15 10:01:15] Неизвестный источник (cbssports.com): LOOK: Derrick Henry makes NFL history du
+[2026-09-15 10:01:15] Заблокированный источник (nypost.com): US archaeologists unearth first footprin
+[2026-09-15 10:01:15] Неизвестный источник (abc7ny.com): Yankee Stadium tower among 10 ordered cl
+[2026-09-15 10:01:15] Пропускаю уже отправленную: Trump dismisses AI leaders’ calls to slow down, ci
+[2026-09-15 10:01:15] Неизвестный источник (notebookcheck.net): Galaxy S27 Pro and S27 Ultra to get majo
+[2026-09-15 10:01:15] Старая новость (2026-09-12T20:00:53Z): Physicists Just Turned The Entire Planet
+[2026-09-15 10:01:15] Старая новость (2026-09-12T16:23:21Z): Mercury is shrinking much more than scie
+[2026-09-15 10:01:15] Старая новость (2026-09-10T16:14:12Z): Alcohol tied to surprising cancer death 
+[2026-09-15 10:01:15] Мировые новости: найдено 13 после фильтрации
+[2026-09-15 10:01:16] Редакторский отбор: выбраны позиции [4, 5, 1, 10]
+[2026-09-15 10:01:16] Обрабатываю: Russia hits Ukrainian train shortly after Boris Johnson and  | https://www.bbc.com/news/articles/cy5zg41dkqwo
+[2026-09-15 10:01:16] Полный текст получен (3000 символов)
+[2026-09-15 10:01:16] Попытка 1 для: Russia hits Ukrainian train shortly afte
+[2026-09-15 10:01:20] Успешно, получено 1745 символов
+[2026-09-15 10:01:20] Обрабатываю: Air Force officer recalls ‘free-falling’ after jet was shot  | https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-je
+[2026-09-15 10:01:20] Полный текст получен (3000 символов)
+[2026-09-15 10:01:20] Попытка 1 для: Air Force officer recalls ‘free-falling’
+[2026-09-15 10:01:22] Успешно, получено 1403 символов
+[2026-09-15 10:01:22] Обрабатываю: Second federal judge freezes Trump mail ballot order with US | https://apnews.com/article/trump-mail-voting-executive-order-midterms-
+[2026-09-15 10:01:22] Попытка 1 для: Second federal judge freezes Trump mail 
+[2026-09-15 10:01:24] Успешно, получено 986 символов
+[2026-09-15 10:01:24] Обрабатываю: Centre-left opposition bloc leads in Swedish vote, poll show | https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-l
+[2026-09-15 10:01:24] Полный текст получен (3000 символов)
+[2026-09-15 10:01:24] Попытка 1 для: Centre-left opposition bloc leads in Swe
+[2026-09-15 10:01:26] Успешно, получено 1860 символов
+[2026-09-15 10:01:29] Пауза 60 секунд...
+[2026-09-15 10:02:29] Пауза 60 секунд...
+[2026-09-15 10:03:30] Пауза 60 секунд...
+[2026-09-15 10:04:31] sent_urls.txt обрезан: 304 -> 300
+[2026-09-15 10:04:31] === Блок midday завершён ===
