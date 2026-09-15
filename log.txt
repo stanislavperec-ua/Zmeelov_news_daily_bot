@@ -1,93 +1,3 @@
-[2026-09-09 05:01:19] Внутренний дубль: Russians strike diesel train in Sumy region, nine 
-[2026-09-09 05:01:19] Внутренний дубль: Ukraine updates: Explosions rock Kyiv as 3-day tru
-[2026-09-09 05:01:19] Украинские новости: найдено 85 после фильтрации
-[2026-09-09 05:01:20] Редакторский отбор: выбраны позиции [11, 13]
-[2026-09-09 05:01:20] NewsAPI (Харьков, все издания): пришло 7 статей
-[2026-09-09 05:01:22] RSS Ukrinform: 30 записей
-[2026-09-09 05:01:22] RSS Ukrinform: 30 записей
-[2026-09-09 05:01:22] RSS Euromaidan Press: 29 записей
-[2026-09-09 05:01:22] Заблокированный источник (sputnikglobe.com): Russian Air Defenses Destroy 32 Ukrainia
-[2026-09-09 05:01:22] Заблокированный источник (sputnikglobe.com): Ukrainian Troop Encirclement Near Kharko
-[2026-09-09 05:01:22] Заблокированный источник (biztoc.com): Air raid alert issued in Kyiv
-[2026-09-09 05:01:22] Нет фото: Ukrainian Troop Encirclement Near Kharko
-[2026-09-09 05:01:22] Нет фото: Russian Forces Encircle 1,700 Ukrainian 
-[2026-09-09 05:01:22] Заблокированный источник (sputnikglobe.com): Russian Forces Encircle 1,700 Ukrainian 
-[2026-09-09 05:01:22] Заблокированный источник (sputnikglobe.com): Russian Forces Unleash Barrage on Ukrain
-[2026-09-09 05:01:22] Внутренний дубль: Russian drone hits apartment building in Kharkiv –
-[2026-09-09 05:01:22] Харьков: найдена новость: Russian drone hits apartment building in Kharkiv –
-[2026-09-09 05:01:22] Обрабатываю: China's imports in August miss estimates as exports pick up  | https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-reb
-[2026-09-09 05:01:23] Полный текст получен (3000 символов)
-[2026-09-09 05:01:23] Попытка 1 для: China's imports in August miss estimates
-[2026-09-09 05:01:26] Успешно, получено 1739 символов
-[2026-09-09 05:01:26] Обрабатываю: Fuel prices at record Labor Day high in US thanks to Iran wa | https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa0
-[2026-09-09 05:01:27] Попытка 1 для: Fuel prices at record Labor Day high in 
-[2026-09-09 05:01:29] Успешно, получено 788 символов
-[2026-09-09 05:01:29] Обрабатываю: Hurricane Lowell nears Hawaii, prompting warnings for 3 isla | https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-forecast-h
-[2026-09-09 05:01:29] Полный текст получен (3000 символов)
-[2026-09-09 05:01:29] Попытка 1 для: Hurricane Lowell nears Hawaii, prompting
-[2026-09-09 05:01:31] Успешно, получено 1446 символов
-[2026-09-09 05:01:31] Обрабатываю: Trump calls for a Bombardier plane ban, drawing pushback fro | https://www.nbcnews.com/politics/trump-administration/trump-calls-bomb
-[2026-09-09 05:01:32] Полный текст получен (3000 символов)
-[2026-09-09 05:01:32] Попытка 1 для: Trump calls for a Bombardier plane ban, 
-[2026-09-09 05:01:44] Успешно, получено 2031 символов
-[2026-09-09 05:01:47] Пауза 60 секунд...
-[2026-09-09 05:02:48] Пауза 60 секунд...
-[2026-09-09 05:03:48] Пауза 60 секунд...
-[2026-09-09 05:04:49] Обрабатываю: Russia destroys or damages 2,687 medical facilities in Ukrai | https://www.ukrinform.net/rubric-ato/4161841-russia-destroys-or-damage
-[2026-09-09 05:04:50] Полный текст получен (1741 символов)
-[2026-09-09 05:04:50] Попытка 1 для: Russia destroys or damages 2,687 medical
-[2026-09-09 05:04:52] Успешно, получено 1451 символов
-[2026-09-09 05:04:52] Обрабатываю: Injury toll from Russian strikes on Kyiv rises to 35, five d | https://www.ukrinform.net/rubric-ato/4162242-injury-toll-from-russian-
-[2026-09-09 05:04:54] Полный текст получен (748 символов)
-[2026-09-09 05:04:54] Попытка 1 для: Injury toll from Russian strikes on Kyiv
-[2026-09-09 05:04:56] Успешно, получено 1161 символов
-[2026-09-09 05:04:59] Пауза 60 секунд...
-[2026-09-09 05:05:59] sent_urls.txt обрезан: 306 -> 300
-[2026-09-09 05:05:59] === Блок morning завершён ===
-[2026-09-09 07:01:14] Загружено 300 уже отправленных новостей
-[2026-09-09 07:01:14] === Запуск блока: ai_morning (тест: False) ===
-[2026-09-09 07:01:14] Неизвестный источник (abcnews.com): China's Huawei Technologies faces racket
-[2026-09-09 07:01:14] Неизвестный источник (cryptobriefing.com): Huawei invests in lithography chipmaking
-[2026-09-09 07:01:14] Неизвестный источник (english.gossiplankanews.com): Trump's claim that America owns the moon
-[2026-09-09 07:01:14] Нет фото: Why do birds suddenly disappear?
-[2026-09-09 07:01:14] Заблокированный источник (prnewswire.com): Airties Introduces Aura: Agentic AI Engi
-[2026-09-09 07:01:14] Неизвестный источник (economictimes.indiatimes.com): BRICS Summit 2026: Key likely outcomes a
-[2026-09-09 07:01:14] Неизвестный источник (economictimes.indiatimes.com): FIIs poured nearly Rs 50,000 crore into 
-[2026-09-09 07:01:14] Неизвестный источник (bleedingcool.com): Sonic the Hedgehog #89 Preview: Staff In
-[2026-09-09 07:01:14] Неизвестный источник (siliconangle.com): OpenAI chief scientist argues for AI res
-[2026-09-09 07:01:14] Не про ИИ, пропускаю: MemBrain v2: an end-to-end tool for the analysis o
-[2026-09-09 07:01:14] Неизвестный источник (nlppeople.com): Data Scientist – Machine Learning
-[2026-09-09 07:01:14] Неизвестный источник (nlppeople.com): Research Scientist Intern, AI/ML, Core A
-[2026-09-09 07:01:14] Заблокированный источник (prnewswire.com): Tyrese Gibson and Kevin Chou Co-Chair th
-[2026-09-09 07:01:14] Неизвестный источник (bleedingcool.com): Transformers #36 Preview: Superion Gets 
-[2026-09-09 07:01:14] Неизвестный источник (globalresearch.ca): The Green Energy Paradox: Saving Nature 
-[2026-09-09 07:01:14] Неизвестный источник (usatoday.com): Today in sports history, October 21
-[2026-09-09 07:01:14] Неизвестный источник (newsonjapan.com): Isuzu Begins Full Development of Second-
-[2026-09-09 07:01:14] Неизвестный источник (usatoday.com): Today in sports history, October 20
-[2026-09-09 07:01:14] Неизвестный источник (usatoday.com): Today in sports history, October 19
-[2026-09-09 07:01:14] Неизвестный источник (usatoday.com): Today in sports history, October 18
-[2026-09-09 07:01:14] Неизвестный источник (wnd.com): The misnamed industry, and what should b
-[2026-09-09 07:01:14] Неизвестный источник (digitaljournal.com): AI, automation and delivery apps: What f
-[2026-09-09 07:01:14] Неизвестный источник (siliconangle.com): Hyperspectral satellite startup Pixxel n
-[2026-09-09 07:01:14] Неизвестный источник (pymnts.com): Mastercard and Flowcart Team to Promote 
-[2026-09-09 07:01:14] Неизвестный источник (newatlas.com): Teaching a hexapedal robot to walk like 
-[2026-09-09 07:01:14] Неизвестный источник (thestreet.com): Nike just got kicked out of an elite clu
-[2026-09-09 07:01:14] Заблокированный источник (finance.yahoo.com): Billionaire Ken Fisher Goes All In on Th
-[2026-09-09 07:01:14] Неизвестный источник (hai.stanford.edu): How Art And AI Can Hold Each Other Accou
-[2026-09-09 07:01:14] Неизвестный источник (cryptoslate.com): Vitalik Buterin now confident AI won’t b
-[2026-09-09 07:01:14] Заблокированный источник (marketbeat.com): Ride-Share Reckoning: Tesla Drives Into 
-[2026-09-09 07:01:14] Заблокированный источник (nypost.com): OpenAI hires Chuck Schumer’s daughter as
-[2026-09-09 07:01:14] Неизвестный источник (github.com): Show HN: Benzi – Code Intelligence Infra
-[2026-09-09 07:01:14] Заблокированный источник (nypost.com): AI is unlocking a new ‘golden age’ in me
-[2026-09-09 07:01:14] Заблокированный источник (ca.news.yahoo.com): Far-right triumph in eastern Germany lea
-[2026-09-09 07:01:14] Нет фото: aait 6.0.0
-[2026-09-09 07:01:14] Заблокированный источник (marketbeat.com): How 4 Million Hewlett Packard Shares Bou
-[2026-09-09 07:01:14] Неизвестный источник (ibtimes.com.au): SpaceX Investors Turn To Warren Buffett'
-[2026-09-09 07:01:14] Неизвестный источник (thestreet.com): Cathie Wood buys $3.5 million of surging
-[2026-09-09 07:01:14] Неизвестный источник (economictimes.indiatimes.com): Udaan to buy Swiggy’s Lynk; India’s BRIC
-[2026-09-09 07:01:14] Неизвестный источник (telecomtv.com): What’s up with… ETSI, Qualcomm, Telecom 
-[2026-09-09 07:01:14] Неизвестный источник (techradar.com): Cyber confidence must be tested, never a
-[2026-09-09 07:01:14] Неизвестный источник (ubergizmo.com): MediaTek MT8875 Launches: 5G IoT Chip Wi
 [2026-09-09 07:01:14] Заблокированный источник (prnewswire.com): Hyosung Chairman Cho Hyun-Joon targets U
 [2026-09-09 07:01:14] Неизвестный источник (raspberrypi.org): Experience AI evolves with flexible reso
 [2026-09-09 07:01:14] Неизвестный источник (profootballnetwork.com): ‘Delusional, Dangerous’ — MLK Jr.’s Daug
@@ -2998,3 +2908,93 @@
 [2026-09-14 17:01:23] Пауза 60 секунд...
 [2026-09-14 17:02:23] sent_urls.txt обрезан: 302 -> 300
 [2026-09-14 17:02:23] === Блок ai_evening завершён ===
+[2026-09-15 05:01:13] Загружено 300 уже отправленных новостей
+[2026-09-15 05:01:13] === Запуск блока: morning (тест: False) ===
+[2026-09-15 05:01:13] Неизвестный источник (espn.com): Key NFL Week 1 stats on Bears, Bills, Te
+[2026-09-15 05:01:13] Неизвестный источник (wisn.com): Tom Tiffany's plane forced to make emerg
+[2026-09-15 05:01:13] Неизвестный источник (macrumors.com): iOS 27 Available Tomorrow With These 8 N
+[2026-09-15 05:01:13] Неизвестный источник (ew.com): ‘Practical Magic 2’ bests ‘Spider-Man’ a
+[2026-09-15 05:01:13] Неизвестный источник (foxnews.com): Houthis enter US 'kill box' after seizin
+[2026-09-15 05:01:13] Неизвестный источник (foxnews.com): Hayden Panettiere's boyfriend Brian Hick
+[2026-09-15 05:01:13] Неизвестный источник (cbssports.com): New York Jets vs. Tennessee Titans Live 
+[2026-09-15 05:01:13] Неизвестный источник (teslarati.com): Why SpaceX is finishing another space-in
+[2026-09-15 05:01:13] Заблокированный источник (nypost.com): US archaeologists unearth first footprin
+[2026-09-15 05:01:13] Неизвестный источник (usatoday.com): 'I Play Rocky' biopic lands a knockout d
+[2026-09-15 05:01:13] Старая новость (2026-09-12T20:00:00Z): Solar system’s smallest planet is gettin
+[2026-09-15 05:01:13] Старая новость (2026-09-12T08:30:00Z): Date the world will be destroyed and uni
+[2026-09-15 05:01:13] Старая новость (2026-09-10T16:14:12Z): Alcohol tied to surprising cancer death 
+[2026-09-15 05:01:13] Мировые новости: найдено 17 после фильтрации
+[2026-09-15 05:01:15] Редакторский отбор: выбраны позиции [6, 9, 13, 12]
+[2026-09-15 05:01:16] RSS Ukrinform: код 503
+[2026-09-15 05:01:17] RSS Ukrinform: код 503
+[2026-09-15 05:01:17] RSS Euromaidan Press: 29 записей
+[2026-09-15 05:01:17] Старая новость (2026-09-12T19:04:57Z): Watch first naval battle in history foug
+[2026-09-15 05:01:17] Старая новость (2026-09-12T18:47:15Z): “There is real hunger there”: Oleshky, o
+[2026-09-15 05:01:17] Старая новость (2026-09-12T16:42:18Z): EU has never sanctioned Russia’s nuclear
+[2026-09-15 05:01:17] Старая новость (2026-09-12T16:13:47Z): Ukraine’s Third Army Corps won’t just ho
+[2026-09-15 05:01:17] Старая новость (2026-09-12T15:41:33Z): Fast kill but also long game: Russia is 
+[2026-09-15 05:01:17] Старая новость (2026-09-12T15:12:00Z): Russia is working to modernize its weapo
+[2026-09-15 05:01:17] Старая новость (2026-09-12T12:18:54Z): A Russian intelligence operative and a B
+[2026-09-15 05:01:17] Старая новость (2026-09-12T12:14:56Z): Second fire in a month hits the Bulgaria
+[2026-09-15 05:01:17] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-15 05:01:17] Нет фото: Ukraine is fighting Russian-propped mili
+[2026-09-15 05:01:17] Нет фото: Russia Is Churning Out Smart, Cheap New 
+[2026-09-15 05:01:17] Заблокированный источник (sputnikglobe.com): Trump Tells Zelensky to Stop Attacking R
+[2026-09-15 05:01:17] Заблокированный источник (yahoo.com): Russians are still fleeing abroad, citin
+[2026-09-15 05:01:17] Заблокированный источник (biztoc.com): Trump Calls On Zelenskyy To Stop Attacks
+[2026-09-15 05:01:17] Нет фото: Mystery of Canada’s disappearing island 
+[2026-09-15 05:01:17] Заблокированный источник (biztoc.com): Russia Is Churning Out Smart, Cheap New 
+[2026-09-15 05:01:17] Нет фото: Major US Retailer Rations Motor Oil Due 
+[2026-09-15 05:01:17] Заблокированный источник (rt.com): Zelensky sanctions ex-press secretary tu
+[2026-09-15 05:01:17] Нет фото: Russian Strikes on Ukraine Hits Near Dav
+[2026-09-15 05:01:17] Заблокированный источник (biztoc.com): The West is losing two wars at once
+[2026-09-15 05:01:17] Заблокированный источник (dailymail.com): Real reason Ivanka Trump can't stop flau
+[2026-09-15 05:01:17] Заблокированный источник (yahoo.com): NEW WORLD ORDER: China, Russia, India se
+[2026-09-15 05:01:17] Внутренний дубль: “We expect specifics from our partners”: Zelenskyy
+[2026-09-15 05:01:17] Внутренний дубль: Russia strikes passenger train near Polish border 
+[2026-09-15 05:01:17] Украинские новости: найдено 28 после фильтрации
+[2026-09-15 05:01:19] Редакторский отбор: выбраны позиции [12, 5]
+[2026-09-15 05:01:19] NewsAPI (Харьков, все издания): пришло 4 статей
+[2026-09-15 05:01:20] RSS Ukrinform: код 503
+[2026-09-15 05:01:21] RSS Ukrinform: код 503
+[2026-09-15 05:01:21] RSS Euromaidan Press: 29 записей
+[2026-09-15 05:01:21] Нет фото: Russian Forces Liberate Chernyakov Settl
+[2026-09-15 05:01:21] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Chernyakov Settl
+[2026-09-15 05:01:21] Старая новость (2026-09-12T19:04:57Z): Watch first naval battle in history foug
+[2026-09-15 05:01:21] Старая новость (2026-09-12T18:47:15Z): “There is real hunger there”: Oleshky, o
+[2026-09-15 05:01:21] Старая новость (2026-09-12T16:42:18Z): EU has never sanctioned Russia’s nuclear
+[2026-09-15 05:01:21] Старая новость (2026-09-12T16:13:47Z): Ukraine’s Third Army Corps won’t just ho
+[2026-09-15 05:01:21] Старая новость (2026-09-12T15:41:33Z): Fast kill but also long game: Russia is 
+[2026-09-15 05:01:21] Старая новость (2026-09-12T15:12:00Z): Russia is working to modernize its weapo
+[2026-09-15 05:01:21] Старая новость (2026-09-12T12:18:54Z): A Russian intelligence operative and a B
+[2026-09-15 05:01:21] Старая новость (2026-09-12T12:14:56Z): Second fire in a month hits the Bulgaria
+[2026-09-15 05:01:21] Харьков: новостей не найдено
+[2026-09-15 05:01:21] Обрабатываю: Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says | https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with
+[2026-09-15 05:01:22] Попытка 1 для: Hormuz Meeting With Iran and Gulf Nation
+[2026-09-15 05:01:23] Успешно, получено 732 символов
+[2026-09-15 05:01:23] Обрабатываю: Trump calls on Ukraine to stop striking Russian oil refineri | https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25
+[2026-09-15 05:01:24] Полный текст получен (1037 символов)
+[2026-09-15 05:01:24] Попытка 1 для: Trump calls on Ukraine to stop striking 
+[2026-09-15 05:01:27] Успешно, получено 939 символов
+[2026-09-15 05:01:27] Обрабатываю: Trump dismisses AI leaders’ calls to slow down, citing Chine | https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls
+[2026-09-15 05:01:39] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/09/13/trump-rej
+[2026-09-15 05:01:39] Попытка 1 для: Trump dismisses AI leaders’ calls to slo
+[2026-09-15 05:01:42] Успешно, получено 980 символов
+[2026-09-15 05:01:42] Обрабатываю: Six dead, over 100 missing after Indonesian passenger ship h | https://www.washingtonpost.com/world/2026/09/13/six-dead-140-missing-a
+[2026-09-15 05:01:54] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/09/13/six-dead-140
+[2026-09-15 05:01:54] Попытка 1 для: Six dead, over 100 missing after Indones
+[2026-09-15 05:01:56] Успешно, получено 858 символов
+[2026-09-15 05:01:59] Пауза 60 секунд...
+[2026-09-15 05:02:59] Пауза 60 секунд...
+[2026-09-15 05:04:00] Пауза 60 секунд...
+[2026-09-15 05:05:00] Обрабатываю: Russian strikes will cost Ukraine’s economy up to $10 billio | https://euromaidanpress.com/2026/09/14/russian-strikes-will-cost-ukrai
+[2026-09-15 05:05:01] Полный текст получен (2972 символов)
+[2026-09-15 05:05:01] Попытка 1 для: Russian strikes will cost Ukraine’s econ
+[2026-09-15 05:05:05] Успешно, получено 1992 символов
+[2026-09-15 05:05:05] Обрабатываю: Zelenskyy suspends prosecutor general who charged the bureau | https://euromaidanpress.com/2026/09/14/ukraine-prosecutor-general-targ
+[2026-09-15 05:05:05] Полный текст получен (3000 символов)
+[2026-09-15 05:05:05] Попытка 1 для: Zelenskyy suspends prosecutor general wh
+[2026-09-15 05:05:08] Успешно, получено 1791 символов
+[2026-09-15 05:05:11] Пауза 60 секунд...
+[2026-09-15 05:06:11] sent_urls.txt обрезан: 306 -> 300
+[2026-09-15 05:06:11] === Блок morning завершён ===
