@@ -1,45 +1,3 @@
-[2026-09-10 10:01:23] Попытка 1 для: Asian shares are mixed as Brent crude ap
-[2026-09-10 10:01:26] Успешно, получено 997 символов
-[2026-09-10 10:01:26] Обрабатываю: Chris Mason: Burnham looks to show he will go further than S | https://www.bbc.com/news/articles/c3v439n5xlpo
-[2026-09-10 10:01:27] Полный текст получен (3000 символов)
-[2026-09-10 10:01:27] Попытка 1 для: Chris Mason: Burnham looks to show he wi
-[2026-09-10 10:01:30] Успешно, получено 1407 символов
-[2026-09-10 10:01:33] Пауза 60 секунд...
-[2026-09-10 10:02:33] Пауза 60 секунд...
-[2026-09-10 10:03:34] Пауза 60 секунд...
-[2026-09-10 10:04:34] sent_urls.txt обрезан: 304 -> 300
-[2026-09-10 10:04:34] === Блок midday завершён ===
-[2026-09-10 15:01:18] Загружено 300 уже отправленных новостей
-[2026-09-10 15:01:18] === Запуск блока: evening (тест: False) ===
-[2026-09-10 15:01:18] Лента обновлений, пропускаю: Miliband says UK had to 'call out' Israe
-[2026-09-10 15:01:18] Неизвестный источник (foxnews.com): Weight regain after obesity drugs tied t
-[2026-09-10 15:01:18] Неизвестный источник (espn.com): Predicting the 2026 NFL playoff field, p
-[2026-09-10 15:01:18] Заблокированный источник (finance.yahoo.com): Apple’s (AAPL) “Surprise and Shine” Even
-[2026-09-10 15:01:18] Лента обновлений, пропускаю: Iran War Updates: Oil hits $100 per barr
-[2026-09-10 15:01:18] Неизвестный источник (jpost.com): John Malkovich cancels Israel performanc
-[2026-09-10 15:01:18] Неизвестный источник (9to5mac.com): The new Apple Watch will use microphone 
-[2026-09-10 15:01:18] Пропускаю уже отправленную: Trump bans some Canadian imports as North America 
-[2026-09-10 15:01:18] Неизвестный источник (hawaiinewsnow.com): ‘I was shaking’: West Kauai residents ri
-[2026-09-10 15:01:18] Неизвестный источник (japantimes.co.jp): Bessent dares traders to bet against yen
-[2026-09-10 15:01:18] Неизвестный источник (thecentersquare.com): Pappas to face Sununu in New Hampshire U
-[2026-09-10 15:01:18] Неизвестный источник (ew.com): ABC denies report that Jimmy Kimmel’s la
-[2026-09-10 15:01:18] Неизвестный источник (foxnews.com): Baker Mayfield and Buccaneers go from be
-[2026-09-10 15:01:18] Неизвестный источник (wgal.com): Two infants identified in Lancaster Coun
-[2026-09-10 15:01:18] Неизвестный источник (phys.org): Interstellar visitor 3I/ATLAS carries cl
-[2026-09-10 15:01:18] Старая новость (2026-09-08T14:00:00Z): SpaceX rocket taxi returns after Roman T
-[2026-09-10 15:01:18] Старая новость (2026-09-08T10:00:42Z): Ebola epidemic outpaces containment desp
-[2026-09-10 15:01:18] Старая новость (2026-09-07T03:25:01Z): Astronomers using Hubble found a new rou
-[2026-09-10 15:01:18] Мировые новости: найдено 8 после фильтрации
-[2026-09-10 15:01:22] Редакторский отбор: выбраны позиции [1, 6, 3, 8]
-[2026-09-10 15:01:24] RSS Ukrinform: 30 записей
-[2026-09-10 15:01:24] Пропускаю уже отправленную: Zelensky arrives in Canada for visit
-[2026-09-10 15:01:25] RSS Ukrinform: 30 записей
-[2026-09-10 15:01:25] Пропускаю уже отправленную: Russian drone strike on Sumy shopping mall kills t
-[2026-09-10 15:01:25] RSS Euromaidan Press: 29 записей
-[2026-09-10 15:01:25] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-09-10 15:01:25] Заблокированный источник (rt.com): Europe is playing a dangerous game with 
-[2026-09-10 15:01:25] Заблокированный источник (finance.yahoo.com): Cosmos Health Launches C-ScrubVet in the
-[2026-09-10 15:01:25] Нет фото: Renoir paintings worth millions stolen i
 [2026-09-10 15:01:25] Заблокированный источник (biztoc.com): Russian hackers may have used fake CAPTC
 [2026-09-10 15:01:25] Спорт, пропускаю: Man City legend Yaya Toure makes Champio
 [2026-09-10 15:01:25] Заблокированный источник (marketbeat.com): ExxonMobil Touts Permian Synergies, Guya
@@ -2998,3 +2956,45 @@
 [2026-09-16 07:03:59] Пауза 60 секунд...
 [2026-09-16 07:05:00] sent_urls.txt обрезан: 304 -> 300
 [2026-09-16 07:05:00] === Блок ai_morning завершён ===
+[2026-09-16 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-16 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-16 10:01:12] Неизвестный источник (espn.com): Kenneth Walker III, Patrick Mahomes lead
+[2026-09-16 10:01:12] Неизвестный источник (macrumors.com): 50 New Things Your iPhone Can Do in iOS 
+[2026-09-16 10:01:12] Неизвестный источник (nfl.com): NFL ties Week 1 scoring record for Super
+[2026-09-16 10:01:12] Неизвестный источник (televisionacademy.com): Widow's Bay Carries the Day with Six Win
+[2026-09-16 10:01:12] Неизвестный источник (coindesk.com): Democrats send counteroffer to Republica
+[2026-09-16 10:01:12] Неизвестный источник (bleacherreport.com): Aaron Judge, Yankees Clinch 2026 MLB Pla
+[2026-09-16 10:01:12] Неизвестный источник (thecut.com): All the Biggest Moments From the 2026 Em
+[2026-09-16 10:01:12] Неизвестный источник (space.com): Vega C rocket launches 2 European Earth-
+[2026-09-16 10:01:12] Неизвестный источник (foxbusiness.com): Trump calls Nvidia CEO Jensen Huang duri
+[2026-09-16 10:01:12] Неизвестный источник (texastribune.org): UT students attacked by Bo French call h
+[2026-09-16 10:01:12] Лента обновлений, пропускаю: Sen. Kennedy readies AI ‘kill switch’ bi
+[2026-09-16 10:01:12] Неизвестный источник (sciencealert.com): Scientists Find First Adult T. Rex Track
+[2026-09-16 10:01:12] Лента обновлений, пропускаю: Stock futures are little changed as trad
+[2026-09-16 10:01:12] Неизвестный источник (rollingstone.com): Robert Kraft Confirms He Barred Macklemo
+[2026-09-16 10:01:12] Неизвестный источник (nbcsports.com): Flowers’ hamstring injury ‘not considere
+[2026-09-16 10:01:12] Неизвестный источник (miamiherald.com): Detainees confined to small metal cages 
+[2026-09-16 10:01:12] Неизвестный источник (wral.com): Look up Monday for the crescent Moon and
+[2026-09-16 10:01:12] Неизвестный источник (theregister.com): Microsoft patches Windows and Excel – br
+[2026-09-16 10:01:12] Неизвестный источник (abcnews.com): New York Yankees say Legionella bacteria
+[2026-09-16 10:01:12] Мировые новости: найдено 10 после фильтрации
+[2026-09-16 10:01:13] Редакторский отбор: выбраны позиции [5, 3, 2, 1]
+[2026-09-16 10:01:13] Обрабатываю: Houthis seize 2 strategic Red Sea islands, and other Mideast | https://apnews.com/article/mideast-iran-yemen-houthis-israel-saudi-oil
+[2026-09-16 10:01:13] Попытка 1 для: Houthis seize 2 strategic Red Sea island
+[2026-09-16 10:01:16] Успешно, получено 1147 символов
+[2026-09-16 10:01:16] Обрабатываю: What I saw when drones targeted a train in Ukraine, with ex- | https://www.washingtonpost.com/world/2026/09/14/when-drones-targeted-o
+[2026-09-16 10:01:28] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/09/14/when-drones-
+[2026-09-16 10:01:28] Попытка 1 для: What I saw when drones targeted a train 
+[2026-09-16 10:01:31] Успешно, получено 904 символов
+[2026-09-16 10:01:31] Обрабатываю: Pentagon inspector general says Iran war has caused weapons  | https://www.cbsnews.com/news/us-iran-war-ammunition-munition-shortage-
+[2026-09-16 10:01:31] Полный текст получен (3000 символов)
+[2026-09-16 10:01:31] Попытка 1 для: Pentagon inspector general says Iran war
+[2026-09-16 10:01:35] Успешно, получено 1935 символов
+[2026-09-16 10:01:35] Обрабатываю: Inside John Thune’s AI dilemma | https://www.politico.com/news/2026/09/15/john-thune-ai-safety-dilemma-
+[2026-09-16 10:01:35] Попытка 1 для: Inside John Thune’s AI dilemma
+[2026-09-16 10:01:38] Успешно, получено 794 символов
+[2026-09-16 10:01:40] Пауза 60 секунд...
+[2026-09-16 10:02:41] Пауза 60 секунд...
+[2026-09-16 10:03:41] Пауза 60 секунд...
+[2026-09-16 10:04:42] sent_urls.txt обрезан: 304 -> 300
+[2026-09-16 10:04:42] === Блок midday завершён ===
