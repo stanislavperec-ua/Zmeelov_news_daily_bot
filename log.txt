@@ -1,78 +1,3 @@
-[2026-09-11 07:01:29] Спорт, пропускаю: Today in sports history, October 29
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Sales automation startup Clay boosts valuation to 
-[2026-09-11 07:01:29] Спорт, пропускаю: Today in sports history, October 28
-[2026-09-11 07:01:29] Спорт, пропускаю: Today in sports history, October 27
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Feature interference underlies a neuronal basis fo
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Representational learning by optimization of neura
-[2026-09-11 07:01:29] Нет фото: Performance evaluation of solar flat pla
-[2026-09-11 07:01:29] Спорт, пропускаю: Today in sports history, October 26
-[2026-09-11 07:01:29] Спорт, пропускаю: Today in sports history, October 25
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Glo leads telcos with 1.3m new internet subscriber
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Louisville's Trinity High School Closes Campus Ove
-[2026-09-11 07:01:29] Заблокированный источник (nypost.com): Experts warn AI could kill us all — this
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Three insights you may have missed from theCUBE’s 
-[2026-09-11 07:01:29] Нет фото: GURU Organic Energy Announces Leadership
-[2026-09-11 07:01:29] Нет фото: GURU Organic Energy Delivers Profitable 
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Silicon Valley is getting the Hollywood treatment 
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Amazon adds cybersecurity veteran Kevin Mandia to 
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Apple announces foldable iPhone alongside the new 
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Govt to hold 3-phase camps for disabled people fro
-[2026-09-11 07:01:29] Заблокированный источник (prnewswire.com): Tampa General Ranks No. 20 on Fast Compa
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Beyond shared responsibility: When AI acts, who ow
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Momentum reversal is ringing alarm bells for indus
-[2026-09-11 07:01:29] Заблокированный источник (marketbeat.com): Microsoft CFO Touts AI Stack, Azure Effi
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Five things investors may have missed from Netskop
-[2026-09-11 07:01:29] Заблокированный источник (nypost.com): Secretive, high-security LA landmark wil
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Announcing Coursera’s 2026 Outstanding Achievement
-[2026-09-11 07:01:29] Не про ИИ, пропускаю: Christchurch Engine Centre expansion: $250m projec
-[2026-09-11 07:01:29] AI новости: 18 кандидатов после фильтрации
-[2026-09-11 07:01:31] Редакторский отбор: выбраны позиции [1, 3, 5, 7]
-[2026-09-11 07:01:31] Обрабатываю: UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos | https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to
-[2026-09-11 07:01:31] Текст не совпадает с заголовком, беру описание: https://www.wired.com/story/uk-lawmakers-are-scrambling-in-r
-[2026-09-11 07:01:31] Попытка 1 для: UK Lawmakers Are Freaking Out Over AI’s 
-[2026-09-11 07:01:33] Успешно, получено 932 символов
-[2026-09-11 07:01:33] Обрабатываю: Malaysia Reportedly Eyeing Huawei Chips for RM2 Billion Sove | https://soyacincau.com/2026/09/10/malaysia-reportedly-eyeing-huawei-ch
-[2026-09-11 07:01:34] Полный текст получен (2926 символов)
-[2026-09-11 07:01:34] Попытка 1 для: Malaysia Reportedly Eyeing Huawei Chips 
-[2026-09-11 07:01:36] Успешно, получено 2055 символов
-[2026-09-11 07:01:36] Обрабатываю: AI traffic lights coming to Brisbane, but a human will be ke | https://www.abc.net.au/news/2026-09-10/brisbane-traffic-light-signalli
-[2026-09-11 07:01:37] Полный текст получен (3000 символов)
-[2026-09-11 07:01:37] Попытка 1 для: AI traffic lights coming to Brisbane, bu
-[2026-09-11 07:01:40] Успешно, получено 1971 символов
-[2026-09-11 07:01:40] Обрабатываю: Ottawa puts $13 million into AI literacy | https://www.digitaljournal.com/article/ottawa-puts-13-million-into-ai-
-[2026-09-11 07:01:40] Полный текст получен (3000 символов)
-[2026-09-11 07:01:40] Попытка 1 для: Ottawa puts $13 million into AI literacy
-[2026-09-11 07:01:49] Успешно, получено 1901 символов
-[2026-09-11 07:01:52] Пауза 60 секунд...
-[2026-09-11 07:02:53] Пауза 60 секунд...
-[2026-09-11 07:03:54] Пауза 60 секунд...
-[2026-09-11 07:04:54] sent_urls.txt обрезан: 304 -> 300
-[2026-09-11 07:04:54] === Блок ai_morning завершён ===
-[2026-09-11 10:01:16] Загружено 300 уже отправленных новостей
-[2026-09-11 10:01:16] === Запуск блока: midday (тест: False) ===
-[2026-09-11 10:01:16] Лента обновлений, пропускаю: Stock futures inch higher as traders bra
-[2026-09-11 10:01:16] Неизвестный источник (nbcsports.com): Mike Vrabel had no postgame update on A.
-[2026-09-11 10:01:16] Неизвестный источник (espn.com): Seahawks take Week 1 win over Patriots, 
-[2026-09-11 10:01:16] Неизвестный источник (pff.com): NFL Week 1 Recap: Immediate fantasy foot
-[2026-09-11 10:01:16] Неизвестный источник (variety.com): ‘Death Stranding’ Creator Hideo Kojima’s
-[2026-09-11 10:01:16] Неизвестный источник (variety.com): 'South Park' Creators Apologize for Dela
-[2026-09-11 10:01:16] Неизвестный источник (hollywoodreporter.com): Suki Waterhouse Is Open to “Nepo-Babying
-[2026-09-11 10:01:16] Неизвестный источник (missouriindependent.com): Missouri fight over gerrymandered congre
-[2026-09-11 10:01:16] Неизвестный источник (ksl.com): Artemis II moonshot commander and pilot 
-[2026-09-11 10:01:16] Спорт, пропускаю: Manchester United vs Sabah: UEFA Champio
-[2026-09-11 10:01:16] Неизвестный источник (people.com): Henry Winkler Addresses Ongoing Tension 
-[2026-09-11 10:01:16] Неизвестный источник (hodinkee.com): Introducing Apple Announces The Apple Wa
-[2026-09-11 10:01:16] Неизвестный источник (pbs.org): Why 9/11 isn’t a federal holiday, accord
-[2026-09-11 10:01:16] Неизвестный источник (macrumors.com): iPhone 18 Pro and iPhone Duo Feature App
-[2026-09-11 10:01:16] Неизвестный источник (space.com): NASA's newly launched Roman Space Telesc
-[2026-09-11 10:01:16] Неизвестный источник (lansingstatejournal.com): New COVID, flu strains circulating. What
-[2026-09-11 10:01:16] Неизвестный источник (rollingstone.com): Bruce Springsteen on His New Concert Fil
-[2026-09-11 10:01:16] Мировые новости: найдено 15 после фильтрации
-[2026-09-11 10:01:18] Редакторский отбор: выбраны позиции [5, 1, 8, 12]
-[2026-09-11 10:01:18] Обрабатываю: Exclusive: This small island off Yemen is now a strategic pr | https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-ir
-[2026-09-11 10:01:18] Полный текст получен (3000 символов)
-[2026-09-11 10:01:18] Попытка 1 для: Exclusive: This small island off Yemen i
-[2026-09-11 10:01:23] Успешно, получено 2027 символов
 [2026-09-11 10:01:23] Обрабатываю: CIA officer’s arrest with 303 gold bars thrusts the Pentagon | https://www.nbcnews.com/politics/national-security/cia-officers-arrest
 [2026-09-11 10:01:23] Полный текст получен (770 символов)
 [2026-09-11 10:01:23] Попытка 1 для: CIA officer’s arrest with 303 gold bars 
@@ -2998,3 +2923,78 @@
 [2026-09-17 10:03:28] Пауза 60 секунд...
 [2026-09-17 10:04:28] sent_urls.txt обрезан: 304 -> 300
 [2026-09-17 10:04:28] === Блок midday завершён ===
+[2026-09-17 15:01:14] Загружено 300 уже отправленных новостей
+[2026-09-17 15:01:14] === Запуск блока: evening (тест: False) ===
+[2026-09-17 15:01:14] Неизвестный источник (gameinformer.com): Fire Emblem: Fortune's Weave Review: Let
+[2026-09-17 15:01:14] Неизвестный источник (usatoday.com): This Midwest airport was named America's
+[2026-09-17 15:01:14] Неизвестный источник (motorsport.com): F1 clash avoided but can Lando Norris or
+[2026-09-17 15:01:14] Неизвестный источник (foxnews.com): Rare cancer cases strike in California c
+[2026-09-17 15:01:14] Неизвестный источник (foxnews.com): Charlie Kirk's family alleges UVU knew o
+[2026-09-17 15:01:14] Пропускаю уже отправленную: US House votes to end Iran war, 7 Republicans join
+[2026-09-17 15:01:14] Неизвестный источник (nbcsports.com): Arch Manning apologizes for “insensitive
+[2026-09-17 15:01:14] Неизвестный источник (wral.com): Durham water feature found as likely sou
+[2026-09-17 15:01:14] Неизвестный источник (variety.com): ‘Resident Evil’ First Reactions: Zach Cr
+[2026-09-17 15:01:14] Пропускаю уже отправленную: Saudi-led coalition intercepts Houthi drone headed
+[2026-09-17 15:01:14] Неизвестный источник (deadline.com): 'Dancing With The Stars' Season 35 Premi
+[2026-09-17 15:01:14] Неизвестный источник (pbs.org): Election officials get mail-in voting cl
+[2026-09-17 15:01:14] Неизвестный источник (pbs.org): NATO jets shoot down drone in Lithuania 
+[2026-09-17 15:01:14] Неизвестный источник (espn.com): Ohtani takes first swings off tee since 
+[2026-09-17 15:01:14] Неизвестный источник (deadline.com): Trump Says Kennedy Center Will Close Imm
+[2026-09-17 15:01:14] Неизвестный источник (macrumors.com): Reminder: iOS 27's All-New Siri AI Has a
+[2026-09-17 15:01:14] Старая новость (2026-09-15T14:47:00Z): Elena Rybakina turned down 15 colleges t
+[2026-09-17 15:01:14] Старая новость (2026-09-15T10:00:00Z): Is iOS 27 Draining Your iPhone Battery? 
+[2026-09-17 15:01:14] Старая новость (2026-09-15T02:15:26Z): Vega C rocket launches 2 European Earth-
+[2026-09-17 15:01:14] Мировые новости: найдено 15 после фильтрации
+[2026-09-17 15:01:16] Редакторский отбор: выбраны позиции [4, 11, 8, 6]
+[2026-09-17 15:01:17] RSS Ukrinform: 0 записей
+[2026-09-17 15:01:17] RSS Ukrinform: 0 записей
+[2026-09-17 15:01:17] RSS Euromaidan Press: 29 записей
+[2026-09-17 15:01:18] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-17 15:01:18] Нет фото: Russian Intelligence Service Members Cha
+[2026-09-17 15:01:18] Спорт, пропускаю: Critics Take Shots at Washington Capital
+[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Brussels hit with furious backlash after
+[2026-09-17 15:01:18] Заблокированный источник (rt.com): Russian war with Europe would be ‘very s
+[2026-09-17 15:01:18] Нет фото: The Democrat Party and Its Supporters Ar
+[2026-09-17 15:01:18] Спорт, пропускаю: Capitals Issue Statement After Alex Ovec
+[2026-09-17 15:01:18] Заблокированный источник (biztoc.com): Map Shows Scale of Ukraine's New Battlef
+[2026-09-17 15:01:18] Заблокированный источник (nypost.com): NATO fighter jet shoots down mystery dro
+[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Koby Abberton's glamorous Ukrainian mode
+[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Hundreds of forecourts already charging 
+[2026-09-17 15:01:18] Заблокированный источник (sputnikglobe.com): Western Europe Failed to Ensure Security
+[2026-09-17 15:01:18] Нет фото: The BRICS Coalition Meets In India
+[2026-09-17 15:01:18] Нет фото: The 10 Weirdest Things I Found in the La
+[2026-09-17 15:01:18] Украинские новости: найдено 32 после фильтрации
+[2026-09-17 15:01:19] Редакторский отбор: выбраны позиции [20, 9]
+[2026-09-17 15:01:20] NewsAPI (Харьков, все издания): пришло 0 статей
+[2026-09-17 15:01:20] RSS Ukrinform: 0 записей
+[2026-09-17 15:01:20] RSS Ukrinform: 0 записей
+[2026-09-17 15:01:21] RSS Euromaidan Press: 29 записей
+[2026-09-17 15:01:21] Харьков: новостей не найдено
+[2026-09-17 15:01:21] Обрабатываю: A Hague court convicts Kosovo’s former President Thaci of wa | https://apnews.com/article/thaci-kosovo-serbia-war-crimes-0b24b81d6e1c
+[2026-09-17 15:01:21] Попытка 1 для: A Hague court convicts Kosovo’s former P
+[2026-09-17 15:01:23] Успешно, получено 1069 символов
+[2026-09-17 15:01:23] Обрабатываю: Gaza building collapse kills 12, traps dozens under rubble | https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-col
+[2026-09-17 15:01:24] Полный текст получен (3000 символов)
+[2026-09-17 15:01:24] Попытка 1 для: Gaza building collapse kills 12, traps d
+[2026-09-17 15:01:27] Успешно, получено 1526 символов
+[2026-09-17 15:01:27] Обрабатываю: An aging Congress attempts to regulate AI without using it | https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-i
+[2026-09-17 15:01:27] Попытка 1 для: An aging Congress attempts to regulate A
+[2026-09-17 15:01:30] Успешно, получено 765 символов
+[2026-09-17 15:01:30] Обрабатываю: EU's Ursula von der Leyen says she wants Canada to become an | https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associat
+[2026-09-17 15:01:30] Полный текст получен (3000 символов)
+[2026-09-17 15:01:30] Попытка 1 для: EU's Ursula von der Leyen says she wants
+[2026-09-17 15:01:43] Успешно, получено 1667 символов
+[2026-09-17 15:01:46] Пауза 60 секунд...
+[2026-09-17 15:02:47] Пауза 60 секунд...
+[2026-09-17 15:03:47] Пауза 60 секунд...
+[2026-09-17 15:04:48] Обрабатываю: Russia’s strikes on UN warehouses push Ukraine aid money fro | https://euromaidanpress.com/2026/09/16/strikes-on-un-warehouses-push-a
+[2026-09-17 15:04:48] Полный текст получен (2179 символов)
+[2026-09-17 15:04:48] Попытка 1 для: Russia’s strikes on UN warehouses push U
+[2026-09-17 15:04:50] Успешно, получено 1687 символов
+[2026-09-17 15:04:50] Обрабатываю: Russo-Ukrainian war, day 1666: Ukraine’s counteroffensive di | https://euromaidanpress.com/2026/09/17/russo-ukrainian-war-day-1666-uk
+[2026-09-17 15:04:50] Полный текст получен (3000 символов)
+[2026-09-17 15:04:50] Попытка 1 для: Russo-Ukrainian war, day 1666: Ukraine’s
+[2026-09-17 15:04:52] Успешно, получено 1438 символов
+[2026-09-17 15:04:56] Пауза 60 секунд...
+[2026-09-17 15:05:56] sent_urls.txt обрезан: 306 -> 300
+[2026-09-17 15:05:56] === Блок evening завершён ===
