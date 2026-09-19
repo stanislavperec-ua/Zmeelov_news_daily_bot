@@ -1,49 +1,3 @@
-[2026-09-13 05:01:19] Внутренний дубль: Ukraine hands US list of military needs, including
-[2026-09-13 05:01:19] Украинские новости: найдено 70 после фильтрации
-[2026-09-13 05:01:21] Редакторский отбор: выбраны позиции [1, 11]
-[2026-09-13 05:01:21] NewsAPI (Харьков, все издания): пришло 4 статей
-[2026-09-13 05:01:22] RSS Ukrinform: 30 записей
-[2026-09-13 05:01:23] RSS Ukrinform: 30 записей
-[2026-09-13 05:01:23] RSS Euromaidan Press: 29 записей
-[2026-09-13 05:01:23] Заблокированный источник (sputnikglobe.com): Russia Liberates Novogrishino in Donetsk
-[2026-09-13 05:01:23] Старая новость (2026-09-10T22:45:01Z): Ukraine is working down the short list o
-[2026-09-13 05:01:23] Старая новость (2026-09-10T21:47:31Z): Russo-Ukrainian war, day 1660: Ukraine s
-[2026-09-13 05:01:23] Старая новость (2026-09-10T21:29:41Z): Ukraine hits key Russia-Iran logistics h
-[2026-09-13 05:01:23] Старая новость (2026-09-10T20:40:47Z): EU lawmakers renew push to seize frozen 
-[2026-09-13 05:01:23] Старая новость (2026-09-10T19:29:53Z): Romania plans to send 20 officers to sup
-[2026-09-13 05:01:23] Внутренний дубль: Russian drone attacks on Kharkiv region injure fiv
-[2026-09-13 05:01:23] Внутренний дубль: Russia's foothold on right bank of Oskil River is 
-[2026-09-13 05:01:23] Харьков: найдена новость: Russian drone attacks on Kharkiv region injure fiv
-[2026-09-13 05:01:23] Обрабатываю: Saudi Arabia says East-West pipeline hit by drones launched  | https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-p
-[2026-09-13 05:01:23] Полный текст получен (3000 символов)
-[2026-09-13 05:01:23] Попытка 1 для: Saudi Arabia says East-West pipeline hit
-[2026-09-13 05:01:26] Успешно, получено 2222 символов
-[2026-09-13 05:01:26] Обрабатываю: Sweden election becomes tight race, as hard right eyes role  | https://www.bbc.com/news/articles/cwyz8dn5nn3o
-[2026-09-13 05:01:26] Полный текст получен (3000 символов)
-[2026-09-13 05:01:26] Попытка 1 для: Sweden election becomes tight race, as h
-[2026-09-13 05:01:29] Успешно, получено 1879 символов
-[2026-09-13 05:01:29] Обрабатываю: The debate over AI ‘doomsday’ warnings | https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-
-[2026-09-13 05:01:29] Попытка 1 для: The debate over AI ‘doomsday’ warnings
-[2026-09-13 05:01:32] Успешно, получено 1167 символов
-[2026-09-13 05:01:32] Обрабатываю: As diseases loom, CDC's response to measles deaths stirs fea | https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-res
-[2026-09-13 05:01:32] Полный текст получен (3000 символов)
-[2026-09-13 05:01:32] Попытка 1 для: As diseases loom, CDC's response to meas
-[2026-09-13 05:01:48] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5519, Requested 2502. Please try again in 157.5ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
-[2026-09-13 05:01:48] Лимит запросов, ждём 60 секунд...
-[2026-09-13 05:02:48] Попытка 2 для: As diseases loom, CDC's response to meas
-[2026-09-13 05:02:51] Успешно, получено 1801 символов
-[2026-09-13 05:02:54] Пауза 60 секунд...
-[2026-09-13 05:03:55] Пауза 60 секунд...
-[2026-09-13 05:04:55] Пауза 60 секунд...
-[2026-09-13 05:05:56] Обрабатываю: Ukraine moves to secure $29.5B in international funding by O | https://www.ukrinform.net/rubric-economy/4163626-ukraine-moves-to-secu
-[2026-09-13 05:05:57] Полный текст получен (1609 символов)
-[2026-09-13 05:05:57] Попытка 1 для: Ukraine moves to secure $29.5B in intern
-[2026-09-13 05:06:00] Успешно, получено 1719 символов
-[2026-09-13 05:06:00] Обрабатываю: New round of peace talks could take place in early October — | https://www.ukrinform.net/rubric-polytics/4163609-new-round-of-peace-t
-[2026-09-13 05:06:01] Полный текст получен (1855 символов)
-[2026-09-13 05:06:01] Попытка 1 для: New round of peace talks could take plac
-[2026-09-13 05:06:05] Успешно, получено 1711 символов
-[2026-09-13 05:06:05] Обрабатываю: Russian drone attacks on Kharkiv region injure five people t | https://www.ukrinform.net/rubric-ato/4163597-russian-drone-attacks-on-
 [2026-09-13 05:06:06] Полный текст получен (945 символов)
 [2026-09-13 05:06:06] Попытка 1 для: Russian drone attacks on Kharkiv region 
 [2026-09-13 05:06:08] Успешно, получено 1342 символов
@@ -2998,3 +2952,49 @@
 [2026-09-19 07:03:28] Пауза 60 секунд...
 [2026-09-19 07:04:29] sent_urls.txt обрезан: 304 -> 300
 [2026-09-19 07:04:29] === Блок ai_morning завершён ===
+[2026-09-19 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-19 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-19 10:01:12] Лента обновлений, пропускаю: Iran War Updates: U.N. panel cites possi
+[2026-09-19 10:01:12] Неизвестный источник (newsnationnow.com): Raymond Horsch posted ads on Craigslist,
+[2026-09-19 10:01:12] Неизвестный источник (cbssports.com): NFL Week 2 picks: Our experts face off o
+[2026-09-19 10:01:12] Неизвестный источник (pff.com): NFL Week 2 Recap: Immediate fantasy foot
+[2026-09-19 10:01:12] Неизвестный источник (investors.com): Market Rebounds, But What Comes Next? Sp
+[2026-09-19 10:01:12] Неизвестный источник (9to5mac.com): WhatsApp starts rolling out new in-chat 
+[2026-09-19 10:01:12] Неизвестный источник (hollywoodreporter.com): ‘Resident Evil’ Racing Toward Healthy Bo
+[2026-09-19 10:01:12] Неизвестный источник (6abc.com): Philadelphia health department warns of 
+[2026-09-19 10:01:12] Неизвестный источник (rollingstone.com): Guitar Center Addresses 'Not Legitimate'
+[2026-09-19 10:01:12] Пропускаю уже отправленную: OpenAI caught its models leaving notes to successo
+[2026-09-19 10:01:12] Неизвестный источник (instyle.com): Princess Diana Believed King Charles Was
+[2026-09-19 10:01:12] Неизвестный источник (space.com): A NASA spacecraft just found a giant new
+[2026-09-19 10:01:12] Неизвестный источник (usatoday.com): Lady Gaga and Michael Polansky baby's na
+[2026-09-19 10:01:12] Неизвестный источник (pnj.com): Florida Vibrio vulnificus infections ris
+[2026-09-19 10:01:12] Неизвестный источник (macrumors.com): New iPhone 18 Pro Models Will Have Day O
+[2026-09-19 10:01:12] Неизвестный источник (usatoday.com): This country has over 100,000 people age
+[2026-09-19 10:01:12] Неизвестный источник (radio.wpsu.org): Gov. Josh Shapiro calls on CDC to recogn
+[2026-09-19 10:01:12] Неизвестный источник (gsmarena.com): Snap's Specs AR glasses are now on pre-o
+[2026-09-19 10:01:12] Неизвестный источник (jalopnik.com): Scientists Discover T. Rex Blood Was As 
+[2026-09-19 10:01:12] Неизвестный источник (usatoday.com): This intense exchange with Trump's surge
+[2026-09-19 10:01:12] Неизвестный источник (espn.com): UFC 331 preview and picks: Pantoja sees 
+[2026-09-19 10:01:12] Старая новость (2026-09-16T17:55:00Z): Humpback whale seen grieving dead calf i
+[2026-09-19 10:01:12] Мировые новости: найдено 6 после фильтрации
+[2026-09-19 10:01:13] Редакторский отбор: выбраны позиции [1, 3, 4, 2]
+[2026-09-19 10:01:13] Обрабатываю: Russia votes in wartime parliamentary election set to secure | https://apnews.com/article/russia-putin-election-parliament-duma-ukrai
+[2026-09-19 10:01:13] Попытка 1 для: Russia votes in wartime parliamentary el
+[2026-09-19 10:01:15] Успешно, получено 806 символов
+[2026-09-19 10:01:15] Обрабатываю: How a team of AIs discovered a promising lung-cancer drug | https://www.nature.com/articles/d41586-026-02954-y
+[2026-09-19 10:01:17] Полный текст получен (3000 символов)
+[2026-09-19 10:01:17] Попытка 1 для: How a team of AIs discovered a promising
+[2026-09-19 10:01:19] Успешно, получено 3127 символов
+[2026-09-19 10:01:19] Обрабатываю: White House withdraws nominee for ICE director allied with D | https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-
+[2026-09-19 10:01:31] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/immigration/2026/09/17/trump-
+[2026-09-19 10:01:31] Попытка 1 для: White House withdraws nominee for ICE di
+[2026-09-19 10:01:34] Успешно, получено 968 символов
+[2026-09-19 10:01:34] Обрабатываю: Trump threatens to tear down the Kennedy Center, as legal ba | https://www.npr.org/2026/09/17/nx-s1-5973036/trump-threat-tear-down-ke
+[2026-09-19 10:01:34] Полный текст получен (3000 символов)
+[2026-09-19 10:01:34] Попытка 1 для: Trump threatens to tear down the Kennedy
+[2026-09-19 10:01:37] Успешно, получено 1646 символов
+[2026-09-19 10:01:40] Пауза 60 секунд...
+[2026-09-19 10:02:41] Пауза 60 секунд...
+[2026-09-19 10:03:41] Пауза 60 секунд...
+[2026-09-19 10:04:41] sent_urls.txt обрезан: 304 -> 300
+[2026-09-19 10:04:41] === Блок midday завершён ===
