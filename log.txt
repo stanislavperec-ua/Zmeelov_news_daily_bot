@@ -1,52 +1,3 @@
-[2026-09-13 15:01:16] Украинские новости: найдено 64 после фильтрации
-[2026-09-13 15:01:18] Редакторский отбор: выбраны позиции [2, 17]
-[2026-09-13 15:01:18] NewsAPI (Харьков, все издания): пришло 4 статей
-[2026-09-13 15:01:19] RSS Ukrinform: 30 записей
-[2026-09-13 15:01:20] RSS Ukrinform: 30 записей
-[2026-09-13 15:01:20] RSS Euromaidan Press: 29 записей
-[2026-09-13 15:01:20] Пропускаю уже отправленную: Russian drone attacks on Kharkiv region injure fiv
-[2026-09-13 15:01:20] Старая новость (2026-09-11T14:54:58Z): Ukraine shows its drones in Canada as Ot
-[2026-09-13 15:01:20] Старая новость (2026-09-11T14:12:36Z): Money, not engineering, is what stands b
-[2026-09-13 15:01:20] Старая новость (2026-09-11T12:13:13Z): “Sometimes I forget I don’t have a leg”:
-[2026-09-13 15:01:20] Старая новость (2026-09-11T09:24:42Z): Canada sanctions eight Russians over dep
-[2026-09-13 15:01:20] Старая новость (2026-09-10T22:45:01Z): Ukraine is working down the short list o
-[2026-09-13 15:01:20] Старая новость (2026-09-10T21:47:31Z): Russo-Ukrainian war, day 1660: Ukraine s
-[2026-09-13 15:01:20] Старая новость (2026-09-10T21:29:41Z): Ukraine hits key Russia-Iran logistics h
-[2026-09-13 15:01:20] Внутренний дубль: Three civilians injured in Russian strikes on Khar
-[2026-09-13 15:01:20] Харьков: найдена новость: Ombudsman: 981 bodies found in Kharkiv region afte
-[2026-09-13 15:01:20] Обрабатываю: Yemen's Houthis capture a Red Sea island in threat to shippi | https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-
-[2026-09-13 15:01:21] Полный текст получен (3000 символов)
-[2026-09-13 15:01:21] Попытка 1 для: Yemen's Houthis capture a Red Sea island
-[2026-09-13 15:01:23] Успешно, получено 1342 символов
-[2026-09-13 15:01:23] Обрабатываю: Your health insurance bills are about to go up | https://www.nbcnews.com/health/health-news/aca-medicare-work-health-in
-[2026-09-13 15:01:23] Полный текст получен (3000 символов)
-[2026-09-13 15:01:23] Попытка 1 для: Your health insurance bills are about to
-[2026-09-13 15:01:27] Успешно, получено 2306 символов
-[2026-09-13 15:01:27] Обрабатываю: Trump meets Ireland's leaders before heading to his golf clu | https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leader
-[2026-09-13 15:01:27] Полный текст получен (3000 символов)
-[2026-09-13 15:01:27] Попытка 1 для: Trump meets Ireland's leaders before hea
-[2026-09-13 15:01:29] Успешно, получено 1603 символов
-[2026-09-13 15:01:29] Обрабатываю: Miami crash raises concerns about the jet's operator, and wh | https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-carg
-[2026-09-13 15:01:29] Полный текст получен (3000 символов)
-[2026-09-13 15:01:29] Попытка 1 для: Miami crash raises concerns about the je
-[2026-09-13 15:01:47] Успешно, получено 1742 символов
-[2026-09-13 15:01:50] Пауза 60 секунд...
-[2026-09-13 15:02:50] Пауза 60 секунд...
-[2026-09-13 15:03:51] Пауза 60 секунд...
-[2026-09-13 15:04:51] Обрабатываю: Ombudsman: 981 bodies found in Kharkiv region after de-occup | https://www.ukrinform.net/rubric-ato/4163772-ombudsman-981-bodies-foun
-[2026-09-13 15:04:52] Полный текст получен (2309 символов)
-[2026-09-13 15:04:52] Попытка 1 для: Ombudsman: 981 bodies found in Kharkiv r
-[2026-09-13 15:04:54] Успешно, получено 1592 символов
-[2026-09-13 15:04:54] Обрабатываю: UN warns Ukraine could face toughest winter since start of f | https://www.ukrinform.net/rubric-society/4163674-un-warns-ukraine-coul
-[2026-09-13 15:04:55] Полный текст получен (1829 символов)
-[2026-09-13 15:04:55] Попытка 1 для: UN warns Ukraine could face toughest win
-[2026-09-13 15:04:58] Успешно, получено 1771 символов
-[2026-09-13 15:05:01] Пауза 60 секунд...
-[2026-09-13 15:06:01] sent_urls.txt обрезан: 306 -> 300
-[2026-09-13 15:06:01] === Блок evening завершён ===
-[2026-09-13 17:01:14] Загружено 300 уже отправленных новостей
-[2026-09-13 17:01:14] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-13 17:01:15] Неизвестный источник (wattsupwiththat.com): When AI Agents Started Working Together
 [2026-09-13 17:01:15] Неизвестный источник (securityaffairs.com): Anthropic: AI Misuse Is Entering a New P
 [2026-09-13 17:01:15] Неизвестный источник (thehindubusinessline.com): BRICS Summit 2026 Day 1 Highlights: Indi
 [2026-09-13 17:01:15] Неизвестный источник (economictimes.indiatimes.com): Leaders of BRICS countries call for stro
@@ -2998,3 +2949,52 @@
 [2026-09-20 05:04:52] Пауза 60 секунд...
 [2026-09-20 05:05:52] sent_urls.txt обрезан: 306 -> 300
 [2026-09-20 05:05:52] === Блок morning завершён ===
+[2026-09-20 07:01:12] Загружено 300 уже отправленных новостей
+[2026-09-20 07:01:12] === Запуск блока: ai_morning (тест: False) ===
+[2026-09-20 07:01:12] Заблокированный источник (naturalnews.com): Report: AI Data Center Boom To Generate 
+[2026-09-20 07:01:12] Заблокированный источник (naturalnews.com): FBI Director Defends Surveillance Partne
+[2026-09-20 07:01:12] Неизвестный источник (vanguardngr.com): AI could ‘kill all humans’: How safe are
+[2026-09-20 07:01:12] Не про ИИ, пропускаю: A new arms race is unfolding on the ocean floor
+[2026-09-20 07:01:12] Неизвестный источник (americanthinker.com): The truth about AI and ‘Hugging Face’ is
+[2026-09-20 07:01:12] Не про ИИ, пропускаю: India forces caller-ID apps to feed spam reports t
+[2026-09-20 07:01:12] Неизвестный источник (siliconangle.com): Data center builder Nscale files for IPO
+[2026-09-20 07:01:12] Неизвестный источник (punchng.com): Closing mobile gap could unlock $3.5tn –
+[2026-09-20 07:01:12] Заблокированный источник (dailymail.com): Russia plotting to deploy sinister new A
+[2026-09-20 07:01:12] Заблокированный источник (nypost.com): Shocking new analysis exposes Bay Area r
+[2026-09-20 07:01:12] Неизвестный источник (financialpost.com): Ottawa’s ‘mega deduction’ tax write-off 
+[2026-09-20 07:01:12] Неизвестный источник (techradar.com): Quote of the day by ex-OpenAI chief scie
+[2026-09-20 07:01:12] Неизвестный источник (techradar.com): Tiny Dutch startup enlists Samsung as ba
+[2026-09-20 07:01:12] Неизвестный источник (alumni.yale.edu): YAA Public Service Awards honor three Ya
+[2026-09-20 07:01:12] Неизвестный источник (aws.amazon.com): Amazon SageMaker Inference: 2026 year-to
+[2026-09-20 07:01:12] Неизвестный источник (github.com): Show HN: I told my open-source AI agent 
+[2026-09-20 07:01:12] Неизвестный источник (mediaite.com): Shock Report Reveals US Military Almost 
+[2026-09-20 07:01:12] Не про ИИ, пропускаю: The Goal of Contemporary Journalism
+[2026-09-20 07:01:12] Неизвестный источник (cbc.ca): Rogue AI swarm used a University of Toro
+[2026-09-20 07:01:12] Неизвестный источник (scientificamerican.com): Why AI is speeding up scientific researc
+[2026-09-20 07:01:12] Неизвестный источник (africasacountry.com): The extinction pitch
+[2026-09-20 07:01:12] Нет фото: Coffee Break: Reading for Health, AI Lan
+[2026-09-20 07:01:12] Неизвестный источник (computerweekly.com): Interview: François-Xavier Pierrel, chie
+[2026-09-20 07:01:12] Неизвестный источник (tribuneindia.com): SEMI and India Deep Tech Alliance (IDTA)
+[2026-09-20 07:01:12] Неизвестный источник (pymnts.com): AI Agents Are Getting Their Own Bank Acc
+[2026-09-20 07:01:12] Неизвестный источник (foxnews.com): Powerful Cold War-era tool Trump could u
+[2026-09-20 07:01:12] Неизвестный источник (thenextweb.com): Keeping people connected during disaster
+[2026-09-20 07:01:12] Неизвестный источник (economictimes.indiatimes.com): Trai tightens anti-spam rules, brings AI
+[2026-09-20 07:01:12] Заблокированный источник (prnewswire.com): ASI Names Former Zillow Product Leader M
+[2026-09-20 07:01:12] Неизвестный источник (siliconangle.com): PrismML launches Bonsai 2 27B, a high-in
+[2026-09-20 07:01:12] Неизвестный источник (marketing-tutor.com): Optimizing Threads for Video Conversatio
+[2026-09-20 07:01:12] Неизвестный источник (devdiscourse.com): More Than Entertainment: Instagram Reels
+[2026-09-20 07:01:12] Неизвестный источник (foxnews.com): GOP lawmakers smell something else behin
+[2026-09-20 07:01:12] Неизвестный источник (financialpost.com): Brookfield’s Flatt says AI ‘slowing down
+[2026-09-20 07:01:12] Нет фото: Best’s Market Segment Report: Focus on D
+[2026-09-20 07:01:12] Нет фото: The AI apocalypse and the ‘NAZA’ blood l
+[2026-09-20 07:01:12] Неизвестный источник (cryptobriefing.com): AI PACs spend nearly $1M in support of M
+[2026-09-20 07:01:12] Заблокированный источник (marketbeat.com): CleanSpark Unveils $6.6B AI Data Center 
+[2026-09-20 07:01:12] Заблокированный источник (prnewswire.com): BEN Shareholder Skye Africa Intelligence
+[2026-09-20 07:01:12] Неизвестный источник (globalresearch.ca): Are We Capable of Making Any Meaningful 
+[2026-09-20 07:01:12] Неизвестный источник (the-digital-reader.com): Why Simple Digital Games Still Have a Pl
+[2026-09-20 07:01:12] Неизвестный источник (financialpost.com): 6th Monaco Smart & Sustainable Marina Re
+[2026-09-20 07:01:12] Заблокированный источник (prnewswire.com): Skye Africa Intelligence Commissioned to
+[2026-09-20 07:01:12] Неизвестный источник (telecomtv.com): What’s up with… NTT, US DFC and WIOCC, B
+[2026-09-20 07:01:12] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-09-20 07:01:12] ⚠️ Блок <b>AI утро</b> (20.09.2026): новостей не найдено!
+[2026-09-20 07:01:12] === Блок ai_morning завершён ===
