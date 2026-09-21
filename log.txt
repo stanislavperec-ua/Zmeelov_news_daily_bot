@@ -1,47 +1,3 @@
-[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): FISME calls for easier trade finance, te
-[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Weaponising critical minerals can hinder
-[2026-09-14 17:01:11] Неизвестный источник (business-standard.com): Manipal Hospitals scouts for acquisition
-[2026-09-14 17:01:11] Неизвестный источник (economictimes.indiatimes.com): Manipal Hospitals scouts for acquisition
-[2026-09-14 17:01:11] Неизвестный источник (nzherald.co.nz): Ministry of Awesome triples Christchurch
-[2026-09-14 17:01:11] Нет фото: feagi 2.1.52
-[2026-09-14 17:01:11] Неизвестный источник (researchbuzz.me): Ancient Egypt Misinformation, California
-[2026-09-14 17:01:11] Неизвестный источник (economictimes.indiatimes.com): BRICS 2026: Global South must now shape,
-[2026-09-14 17:01:11] Нет фото: sofi-series added to PyPI
-[2026-09-14 17:01:11] Заблокированный источник (marketbeat.com): American Tower Sees 2026 Growth Trough B
-[2026-09-14 17:01:11] Нет фото: If AI attempts to take over world, don’t
-[2026-09-14 17:01:11] Неизвестный источник (eastleighvoice.co.ke): Energy CS Wandayi denies link to AI camp
-[2026-09-14 17:01:11] Заблокированный источник (dailymail.com): America's new nightmare attack revealed:
-[2026-09-14 17:01:11] Неизвестный источник (timesofsandiego.com): No seed oils and only organic ingredient
-[2026-09-14 17:01:11] Неизвестный источник (screenrant.com): Fall 2026’s 9 Most Exciting Sitcoms
-[2026-09-14 17:01:11] Неизвестный источник (dailycaller.com): America Is Slamming The Brakes On The Ca
-[2026-09-14 17:01:11] AI новости: 0 с доверенных источников
-[2026-09-14 17:01:11] Доверенных AI-источников мало, добираю из остальных
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Businesses put up guard rails in deploying AI, pri
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Disney Shut Down a Key Section of Animal Kingdom M
-[2026-09-14 17:01:11] Нет фото: cobra-rfic added to PyPI
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Zcash Miners Quietly Crushing Bitcoin on Profitabi
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Security Affairs newsletter Round 594 by Pierluigi
-[2026-09-14 17:01:11] Нет фото: mnemolink 0.2.3
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: America is slamming the brakes on the camera netwo
-[2026-09-14 17:01:11] Нет фото: radiate 0.0.15
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Brics labour initiatives may aid cross-border hiri
-[2026-09-14 17:01:11] Нет фото: New Delhi Summit provides clear guidance
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: PwC US and PwC India form joint venture to scale I
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Attackers Use Passkey Phishing to Hijack Microsoft
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: The Big Greedy Data Center Next Door
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: FISME calls for easier trade finance, tech access 
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Weaponising critical minerals can hinder common gr
-[2026-09-14 17:01:11] Пропускаю уже отправленную: Manipal Hospitals scouts for acquisitions in Andhr
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Ministry of Awesome triples Christchurch footprint
-[2026-09-14 17:01:11] Нет фото: feagi 2.1.52
-[2026-09-14 17:01:11] Пропускаю уже отправленную: Ancient Egypt Misinformation, California Fairgroun
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: BRICS 2026: Global South must now shape, not merel
-[2026-09-14 17:01:11] Нет фото: sofi-series added to PyPI
-[2026-09-14 17:01:11] Заблокированный источник (marketbeat.com): American Tower Sees 2026 Growth Trough B
-[2026-09-14 17:01:11] Нет фото: If AI attempts to take over world, don’t
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: Energy CS Wandayi denies link to AI campaign prais
-[2026-09-14 17:01:11] Заблокированный источник (dailymail.com): America's new nightmare attack revealed:
-[2026-09-14 17:01:11] Не про ИИ, пропускаю: No seed oils and only organic ingredients at Sourp
 [2026-09-14 17:01:11] Не про ИИ, пропускаю: Fall 2026’s 9 Most Exciting Sitcoms
 [2026-09-14 17:01:11] Не про ИИ, пропускаю: America Is Slamming The Brakes On The Camera Netwo
 [2026-09-14 17:01:11] AI новости: 2 кандидатов после фильтрации
@@ -2998,3 +2954,47 @@
 [2026-09-21 07:03:28] Пауза 60 секунд...
 [2026-09-21 07:04:29] sent_urls.txt обрезан: 304 -> 300
 [2026-09-21 07:04:29] === Блок ai_morning завершён ===
+[2026-09-21 10:01:20] Загружено 300 уже отправленных новостей
+[2026-09-21 10:01:20] === Запуск блока: midday (тест: False) ===
+[2026-09-21 10:01:20] Неизвестный источник (nbcsports.com): Trinidad Chambliss shows NFL talent in l
+[2026-09-21 10:01:20] Неизвестный источник (tmz.com): Jack Avery Fights Ex Gabbie Gonzalez's L
+[2026-09-21 10:01:20] Неизвестный источник (kcra.com): California officials warn of possible me
+[2026-09-21 10:01:20] Неизвестный источник (cbssports.com): College football winners, losers: Alabam
+[2026-09-21 10:01:20] Неизвестный источник (espn.com): Joshua Van dominates Alexandre Pantoja i
+[2026-09-21 10:01:20] Неизвестный источник (usatoday.com): 'Fire everyone': How NC State lost to Va
+[2026-09-21 10:01:20] Пропускаю уже отправленную: Trump to form ‘AI Force,’ name AI czar but rejects
+[2026-09-21 10:01:20] Неизвестный источник (foxnews.com): 'Devoted' father and grandfather-to-be s
+[2026-09-21 10:01:20] Неизвестный источник (6abc.com): Phila. health officials warn of possible
+[2026-09-21 10:01:20] Неизвестный источник (gsmarena.com): Deals: iPhone 18 Pros launch, refurbishe
+[2026-09-21 10:01:20] Неизвестный источник (thetimes.com): Hypocrite Earl Spencer is peddling Diana
+[2026-09-21 10:01:20] Неизвестный источник (hollywoodreporter.com): ‘Resident Evil’ Feasting at Box Office a
+[2026-09-21 10:01:20] Пропускаю уже отправленную: Lawsuit says Anthropic, OpenAI, SpaceXAI and Googl
+[2026-09-21 10:01:20] Неизвестный источник (digitaltrends.com): 5 phones to buy instead of the Google Pi
+[2026-09-21 10:01:20] Неизвестный источник (spacedaily.com): A routine quality check on a Moon map tu
+[2026-09-21 10:01:20] Старая новость (2026-09-19T06:16:14Z): Russian cargo spacecraft arriving at ISS
+[2026-09-21 10:01:20] Старая новость (2026-09-19T05:57:47Z): Trump says he will demand drug companies
+[2026-09-21 10:01:20] Старая новость (2026-09-19T03:23:22Z): I went hands-on with the iPhone Duo, and
+[2026-09-21 10:01:20] Старая новость (2026-09-18T22:39:21Z): Tyrannosaurus rex Had Mammal-Like Body T
+[2026-09-21 10:01:20] Старая новость (2026-09-18T21:52:00Z): Iran war’s cost grows to $43.6 billion i
+[2026-09-21 10:01:20] Мировые новости: найдено 9 после фильтрации
+[2026-09-21 10:01:22] Редакторский отбор: выбраны позиции [1, 5, 4, 8]
+[2026-09-21 10:01:22] Обрабатываю: Mass Ukrainian drone attack on Moscow kills two, Russia says | https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-o
+[2026-09-21 10:01:22] Полный текст получен (3000 символов)
+[2026-09-21 10:01:22] Попытка 1 для: Mass Ukrainian drone attack on Moscow ki
+[2026-09-21 10:01:25] Успешно, получено 1489 символов
+[2026-09-21 10:01:25] Обрабатываю: Saudi Arabia says Houthis tried to attack its capital | https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-atte
+[2026-09-21 10:01:25] Полный текст получен (2802 символов)
+[2026-09-21 10:01:25] Попытка 1 для: Saudi Arabia says Houthis tried to attac
+[2026-09-21 10:01:28] Успешно, получено 1642 символов
+[2026-09-21 10:01:28] Обрабатываю: Trump used to slam China. Here’s why he’s now rolling out th | https://apnews.com/article/trump-xi-china-relationship-ai-tariffs-iran
+[2026-09-21 10:01:28] Попытка 1 для: Trump used to slam China. Here’s why he’
+[2026-09-21 10:01:31] Успешно, получено 995 символов
+[2026-09-21 10:01:31] Обрабатываю: Google’s Gemini is the latest AI model to hack other compani | https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-mode
+[2026-09-21 10:01:31] Полный текст получен (1189 символов)
+[2026-09-21 10:01:31] Попытка 1 для: Google’s Gemini is the latest AI model t
+[2026-09-21 10:01:34] Успешно, получено 1629 символов
+[2026-09-21 10:01:37] Пауза 60 секунд...
+[2026-09-21 10:02:38] Пауза 60 секунд...
+[2026-09-21 10:03:38] Пауза 60 секунд...
+[2026-09-21 10:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-09-21 10:04:39] === Блок midday завершён ===
