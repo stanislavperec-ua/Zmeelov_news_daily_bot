@@ -1,49 +1,3 @@
-[2026-09-15 15:05:10] Попытка 1 для: One day of war costs Ukraine $190 millio
-[2026-09-15 15:05:12] Успешно, получено 1530 символов
-[2026-09-15 15:05:12] Обрабатываю: Russian missile strike on Izium injures four, including chil | https://www.ukrinform.net/rubric-ato/4164192-russian-missile-strike-on
-[2026-09-15 15:05:14] Полный текст получен (684 символов)
-[2026-09-15 15:05:14] Попытка 1 для: Russian missile strike on Izium injures 
-[2026-09-15 15:05:16] Успешно, получено 1063 символов
-[2026-09-15 15:05:19] Пауза 60 секунд...
-[2026-09-15 15:06:20] Пауза 60 секунд...
-[2026-09-15 15:07:20] sent_urls.txt обрезан: 307 -> 300
-[2026-09-15 15:07:20] === Блок evening завершён ===
-[2026-09-15 17:01:10] Загружено 300 уже отправленных новостей
-[2026-09-15 17:01:10] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-15 17:01:10] Неизвестный источник (comicbook.com): 5 Great Sci-Fi Anime Originals You Can W
-[2026-09-15 17:01:10] Неизвестный источник (wattsupwiththat.com): Wrong, USA Today, “Hottest Summer Ever” 
-[2026-09-15 17:01:10] Неизвестный источник (thehackernews.com): Red Heron Exploits Gitea RCE to Compromi
-[2026-09-15 17:01:10] Нет фото: DIAGNOS to Hold its Annual General Meeti
-[2026-09-15 17:01:10] Неизвестный источник (usatoday.com): Today in sports history, November 2
-[2026-09-15 17:01:10] Заблокированный источник (breitbart.com): Barack Obama Reemerges to Lead Democrats
-[2026-09-15 17:01:10] Неизвестный источник (economictimes.indiatimes.com): Since 2025, Belgium installed 23 concret
-[2026-09-15 17:01:10] Нет фото: For AI leaders Doom is a form of hype
-[2026-09-15 17:01:10] Неизвестный источник (techradar.com): The hidden legal dangers of your video d
-[2026-09-15 17:01:10] Неизвестный источник (siliconangle.com): Akuity gives AI agents a governed path i
-[2026-09-15 17:01:10] Неизвестный источник (siliconangle.com): Flam raises $40M in funding to make AI-e
-[2026-09-15 17:01:10] Нет фото: aait 6.0.2
-[2026-09-15 17:01:10] Неизвестный источник (financialpost.com): Carney calls for global tech body to str
-[2026-09-15 17:01:10] Неизвестный источник (usatoday.com): Today in sports history, November 1
-[2026-09-15 17:01:10] Неизвестный источник (spectrum.ieee.org): China's Regulators Take Aim at "AI Boyfr
-[2026-09-15 17:01:10] Нет фото: Belgravia Announces Adoption of Semi-Ann
-[2026-09-15 17:01:10] Неизвестный источник (ibtimes.com.au): Elon Musk's X Corp and xAI Drop Grok Mon
-[2026-09-15 17:01:10] Неизвестный источник (newrepublic.com): Trump and JD Vance Completely Shut Down 
-[2026-09-15 17:01:10] Неизвестный источник (vanguardngr.com): Trump blasts ‘sick conspiracy’ against A
-[2026-09-15 17:01:10] Неизвестный источник (timeout.com): 13 Oscar-worthy films to see this year a
-[2026-09-15 17:01:10] Не про ИИ, пропускаю: China’s robots can run faster than Usain Bolt – no
-[2026-09-15 17:01:10] Неизвестный источник (knowledge.wharton.upenn.edu): How AI Is Reshaping Quantitative Finance
-[2026-09-15 17:01:10] Нет фото: SENA Health Secures Series A Financing t
-[2026-09-15 17:01:10] Неизвестный источник (fairobserver.com): Is Anthropic Drafting AI’s “Hays Code?” 
-[2026-09-15 17:01:10] Заблокированный источник (marketbeat.com): RF Industries Q3 Earnings Call Highlight
-[2026-09-15 17:01:10] Неизвестный источник (telecomtv.com): What’s up with… Equatys, Telecom Italia,
-[2026-09-15 17:01:10] Неизвестный источник (observer.com): How Fashion Week Became an Economy of At
-[2026-09-15 17:01:10] Заблокированный источник (prnewswire.com): WISDOM Announces Networking Event to Sup
-[2026-09-15 17:01:10] Нет фото: Most Canadian Small Businesses Haven’t F
-[2026-09-15 17:01:10] Неизвестный источник (bitcoinfoundation.org): Hunter Biden’s $LAPTOP Collapse Raises Q
-[2026-09-15 17:01:10] Неизвестный источник (financialpost.com): TD and Scotiabank join other banks in pr
-[2026-09-15 17:01:10] Неизвестный источник (newsbtc.com): From Concrete to Compute: Why Clichmont 
-[2026-09-15 17:01:10] Неизвестный источник (siliconangle.com): Cornelis Networks raises $205M and scale
-[2026-09-15 17:01:10] Неизвестный источник (siliconangle.com): Dataminr puts real-time intelligence and
 [2026-09-15 17:01:10] Неизвестный источник (siliconangle.com): Copado extends Agentia agentic AI DevOps
 [2026-09-15 17:01:10] Неизвестный источник (dzone.com): A Firewall for AI Agents: Enforce Author
 [2026-09-15 17:01:10] Заблокированный источник (prnewswire.com): OnTrac Appoints Arjun Sainath as Chief T
@@ -2998,3 +2952,49 @@
 [2026-09-22 07:02:28] Пауза 60 секунд...
 [2026-09-22 07:03:29] sent_urls.txt обрезан: 303 -> 300
 [2026-09-22 07:03:29] === Блок ai_morning завершён ===
+[2026-09-22 10:01:12] Загружено 300 уже отправленных новостей
+[2026-09-22 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-09-22 10:01:12] Заблокированный источник (finance.yahoo.com): Stocks advance after Bessent says talks 
+[2026-09-22 10:01:12] Неизвестный источник (nbcsports.com): Sunday Night Football: Patrick Mahomes t
+[2026-09-22 10:01:12] Неизвестный источник (the-independent.com): Piers Morgan criticises Ed Sheeran’s tea
+[2026-09-22 10:01:12] Пропускаю уже отправленную: White House strips CNN of TV pool assignment as Tr
+[2026-09-22 10:01:12] Неизвестный источник (ktla.com): Family mourns man killed on ground in KN
+[2026-09-22 10:01:12] Неизвестный источник (ktla.com): Measles-infected traveler exposed Amtrak
+[2026-09-22 10:01:12] Неизвестный источник (chicago.suntimes.com): Bears QB Caleb Williams hurts hamstring 
+[2026-09-22 10:01:12] Неизвестный источник (thecrimson.com): NIH Director Bhattacharya Refuses Trump 
+[2026-09-22 10:01:12] Неизвестный источник (9to5mac.com): iFixit tears down iPhone 18 Pro, explore
+[2026-09-22 10:01:12] Неизвестный источник (mmafighting.com): Gable Steveson’s manager releases statem
+[2026-09-22 10:01:12] Пропускаю уже отправленную: Ukraine fires over 1,000 drones at Russia, includi
+[2026-09-22 10:01:12] Неизвестный источник (indiewire.com): Zach Cregger’s ‘Resident Evil’ Grossed M
+[2026-09-22 10:01:12] Неизвестный источник (9to5mac.com): Five ways that the new Siri AI is frustr
+[2026-09-22 10:01:12] Неизвестный источник (phys.org): Venus ate its moon: How Earth's 'twin' c
+[2026-09-22 10:01:12] Неизвестный источник (pbs.org): Trump says his planned arch would become
+[2026-09-22 10:01:12] Пропускаю уже отправленную: The tech battle to build your AI assistant - Axios
+[2026-09-22 10:01:12] Старая новость (2026-09-20T10:00:00Z): 'We are on our way to groundbreaking sci
+[2026-09-22 10:01:12] Старая новость (2026-09-20T09:00:11Z): T. rex teeth indicate it ran as warm as 
+[2026-09-22 10:01:12] Старая новость (2026-09-20T00:22:59Z): There was a possible measles exposure at
+[2026-09-22 10:01:12] Старая новость (2026-09-19T19:11:00Z): OnePlus 16 makes Geekbench 7 debut, fail
+[2026-09-22 10:01:12] Старая новость (2026-09-19T06:16:14Z): Russian cargo spacecraft arriving at ISS
+[2026-09-22 10:01:12] Старая новость (2026-09-18T20:25:00Z): Asus Googlebook shows off a big trackpad
+[2026-09-22 10:01:12] Мировые новости: найдено 10 после фильтрации
+[2026-09-22 10:01:13] Редакторский отбор: выбраны позиции [9, 5, 6, 1]
+[2026-09-22 10:01:13] Обрабатываю: Polls close in Russian wartime election with ruling party se | https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartim
+[2026-09-22 10:01:14] Полный текст получен (3000 символов)
+[2026-09-22 10:01:14] Попытка 1 для: Polls close in Russian wartime election 
+[2026-09-22 10:01:17] Успешно, получено 1698 символов
+[2026-09-22 10:01:17] Обрабатываю: US proposes AI incident alert system in talks with China, Be | https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e7
+[2026-09-22 10:01:17] Попытка 1 для: US proposes AI incident alert system in 
+[2026-09-22 10:01:20] Успешно, получено 937 символов
+[2026-09-22 10:01:20] Обрабатываю: Haiti extradites 18 suspects in assassination of president t | https://www.bbc.com/news/articles/cvwyz2jr4r7eo
+[2026-09-22 10:01:20] Полный текст получен (2924 символов)
+[2026-09-22 10:01:20] Попытка 1 для: Haiti extradites 18 suspects in assassin
+[2026-09-22 10:01:22] Успешно, получено 1643 символов
+[2026-09-22 10:01:22] Обрабатываю: How Trump turned a refugee bureau into a $410 million deport | https://www.washingtonpost.com/politics/interactive/2026/09/21/how-tru
+[2026-09-22 10:01:34] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/interactive/2026/09/
+[2026-09-22 10:01:34] Попытка 1 для: How Trump turned a refugee bureau into a
+[2026-09-22 10:01:37] Успешно, получено 965 символов
+[2026-09-22 10:01:40] Пауза 60 секунд...
+[2026-09-22 10:02:40] Пауза 60 секунд...
+[2026-09-22 10:03:41] Пауза 60 секунд...
+[2026-09-22 10:04:41] sent_urls.txt обрезан: 304 -> 300
+[2026-09-22 10:04:41] === Блок midday завершён ===
