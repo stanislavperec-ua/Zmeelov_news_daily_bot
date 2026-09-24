@@ -1,88 +1,3 @@
-[2026-09-17 10:01:14] Попытка 1 для: Fed expected to hike interest rates for 
-[2026-09-17 10:01:18] Успешно, получено 1629 символов
-[2026-09-17 10:01:18] Обрабатываю: Trump's push to restrict mail ballots has failed. Other effo | https://apnews.com/article/donald-trump-mail-ballots-voting-election-m
-[2026-09-17 10:01:18] Попытка 1 для: Trump's push to restrict mail ballots ha
-[2026-09-17 10:01:19] Успешно, получено 1006 символов
-[2026-09-17 10:01:19] Обрабатываю: EU rebuffs Mark Carney’s ‘unique alliance’ with Canada | https://www.ft.com/content/2e2e0c1e-51d6-49e2-9f4a-6ef793908b85?syn-25
-[2026-09-17 10:01:20] Полный текст получен (1037 символов)
-[2026-09-17 10:01:20] Попытка 1 для: EU rebuffs Mark Carney’s ‘unique allianc
-[2026-09-17 10:01:24] Успешно, получено 1763 символов
-[2026-09-17 10:01:27] Пауза 60 секунд...
-[2026-09-17 10:02:27] Пауза 60 секунд...
-[2026-09-17 10:03:28] Пауза 60 секунд...
-[2026-09-17 10:04:28] sent_urls.txt обрезан: 304 -> 300
-[2026-09-17 10:04:28] === Блок midday завершён ===
-[2026-09-17 15:01:14] Загружено 300 уже отправленных новостей
-[2026-09-17 15:01:14] === Запуск блока: evening (тест: False) ===
-[2026-09-17 15:01:14] Неизвестный источник (gameinformer.com): Fire Emblem: Fortune's Weave Review: Let
-[2026-09-17 15:01:14] Неизвестный источник (usatoday.com): This Midwest airport was named America's
-[2026-09-17 15:01:14] Неизвестный источник (motorsport.com): F1 clash avoided but can Lando Norris or
-[2026-09-17 15:01:14] Неизвестный источник (foxnews.com): Rare cancer cases strike in California c
-[2026-09-17 15:01:14] Неизвестный источник (foxnews.com): Charlie Kirk's family alleges UVU knew o
-[2026-09-17 15:01:14] Пропускаю уже отправленную: US House votes to end Iran war, 7 Republicans join
-[2026-09-17 15:01:14] Неизвестный источник (nbcsports.com): Arch Manning apologizes for “insensitive
-[2026-09-17 15:01:14] Неизвестный источник (wral.com): Durham water feature found as likely sou
-[2026-09-17 15:01:14] Неизвестный источник (variety.com): ‘Resident Evil’ First Reactions: Zach Cr
-[2026-09-17 15:01:14] Пропускаю уже отправленную: Saudi-led coalition intercepts Houthi drone headed
-[2026-09-17 15:01:14] Неизвестный источник (deadline.com): 'Dancing With The Stars' Season 35 Premi
-[2026-09-17 15:01:14] Неизвестный источник (pbs.org): Election officials get mail-in voting cl
-[2026-09-17 15:01:14] Неизвестный источник (pbs.org): NATO jets shoot down drone in Lithuania 
-[2026-09-17 15:01:14] Неизвестный источник (espn.com): Ohtani takes first swings off tee since 
-[2026-09-17 15:01:14] Неизвестный источник (deadline.com): Trump Says Kennedy Center Will Close Imm
-[2026-09-17 15:01:14] Неизвестный источник (macrumors.com): Reminder: iOS 27's All-New Siri AI Has a
-[2026-09-17 15:01:14] Старая новость (2026-09-15T14:47:00Z): Elena Rybakina turned down 15 colleges t
-[2026-09-17 15:01:14] Старая новость (2026-09-15T10:00:00Z): Is iOS 27 Draining Your iPhone Battery? 
-[2026-09-17 15:01:14] Старая новость (2026-09-15T02:15:26Z): Vega C rocket launches 2 European Earth-
-[2026-09-17 15:01:14] Мировые новости: найдено 15 после фильтрации
-[2026-09-17 15:01:16] Редакторский отбор: выбраны позиции [4, 11, 8, 6]
-[2026-09-17 15:01:17] RSS Ukrinform: 0 записей
-[2026-09-17 15:01:17] RSS Ukrinform: 0 записей
-[2026-09-17 15:01:17] RSS Euromaidan Press: 29 записей
-[2026-09-17 15:01:18] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-17 15:01:18] Нет фото: Russian Intelligence Service Members Cha
-[2026-09-17 15:01:18] Спорт, пропускаю: Critics Take Shots at Washington Capital
-[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Brussels hit with furious backlash after
-[2026-09-17 15:01:18] Заблокированный источник (rt.com): Russian war with Europe would be ‘very s
-[2026-09-17 15:01:18] Нет фото: The Democrat Party and Its Supporters Ar
-[2026-09-17 15:01:18] Спорт, пропускаю: Capitals Issue Statement After Alex Ovec
-[2026-09-17 15:01:18] Заблокированный источник (biztoc.com): Map Shows Scale of Ukraine's New Battlef
-[2026-09-17 15:01:18] Заблокированный источник (nypost.com): NATO fighter jet shoots down mystery dro
-[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Koby Abberton's glamorous Ukrainian mode
-[2026-09-17 15:01:18] Заблокированный источник (dailymail.com): Hundreds of forecourts already charging 
-[2026-09-17 15:01:18] Заблокированный источник (sputnikglobe.com): Western Europe Failed to Ensure Security
-[2026-09-17 15:01:18] Нет фото: The BRICS Coalition Meets In India
-[2026-09-17 15:01:18] Нет фото: The 10 Weirdest Things I Found in the La
-[2026-09-17 15:01:18] Украинские новости: найдено 32 после фильтрации
-[2026-09-17 15:01:19] Редакторский отбор: выбраны позиции [20, 9]
-[2026-09-17 15:01:20] NewsAPI (Харьков, все издания): пришло 0 статей
-[2026-09-17 15:01:20] RSS Ukrinform: 0 записей
-[2026-09-17 15:01:20] RSS Ukrinform: 0 записей
-[2026-09-17 15:01:21] RSS Euromaidan Press: 29 записей
-[2026-09-17 15:01:21] Харьков: новостей не найдено
-[2026-09-17 15:01:21] Обрабатываю: A Hague court convicts Kosovo’s former President Thaci of wa | https://apnews.com/article/thaci-kosovo-serbia-war-crimes-0b24b81d6e1c
-[2026-09-17 15:01:21] Попытка 1 для: A Hague court convicts Kosovo’s former P
-[2026-09-17 15:01:23] Успешно, получено 1069 символов
-[2026-09-17 15:01:23] Обрабатываю: Gaza building collapse kills 12, traps dozens under rubble | https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-col
-[2026-09-17 15:01:24] Полный текст получен (3000 символов)
-[2026-09-17 15:01:24] Попытка 1 для: Gaza building collapse kills 12, traps d
-[2026-09-17 15:01:27] Успешно, получено 1526 символов
-[2026-09-17 15:01:27] Обрабатываю: An aging Congress attempts to regulate AI without using it | https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-i
-[2026-09-17 15:01:27] Попытка 1 для: An aging Congress attempts to regulate A
-[2026-09-17 15:01:30] Успешно, получено 765 символов
-[2026-09-17 15:01:30] Обрабатываю: EU's Ursula von der Leyen says she wants Canada to become an | https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associat
-[2026-09-17 15:01:30] Полный текст получен (3000 символов)
-[2026-09-17 15:01:30] Попытка 1 для: EU's Ursula von der Leyen says she wants
-[2026-09-17 15:01:43] Успешно, получено 1667 символов
-[2026-09-17 15:01:46] Пауза 60 секунд...
-[2026-09-17 15:02:47] Пауза 60 секунд...
-[2026-09-17 15:03:47] Пауза 60 секунд...
-[2026-09-17 15:04:48] Обрабатываю: Russia’s strikes on UN warehouses push Ukraine aid money fro | https://euromaidanpress.com/2026/09/16/strikes-on-un-warehouses-push-a
-[2026-09-17 15:04:48] Полный текст получен (2179 символов)
-[2026-09-17 15:04:48] Попытка 1 для: Russia’s strikes on UN warehouses push U
-[2026-09-17 15:04:50] Успешно, получено 1687 символов
-[2026-09-17 15:04:50] Обрабатываю: Russo-Ukrainian war, day 1666: Ukraine’s counteroffensive di | https://euromaidanpress.com/2026/09/17/russo-ukrainian-war-day-1666-uk
-[2026-09-17 15:04:50] Полный текст получен (3000 символов)
-[2026-09-17 15:04:50] Попытка 1 для: Russo-Ukrainian war, day 1666: Ukraine’s
 [2026-09-17 15:04:52] Успешно, получено 1438 символов
 [2026-09-17 15:04:56] Пауза 60 секунд...
 [2026-09-17 15:05:56] sent_urls.txt обрезан: 306 -> 300
@@ -2998,3 +2913,88 @@
 [2026-09-23 17:04:50] Пауза 60 секунд...
 [2026-09-23 17:05:51] sent_urls.txt обрезан: 304 -> 300
 [2026-09-23 17:05:51] === Блок ai_evening завершён ===
+[2026-09-24 05:01:09] Загружено 300 уже отправленных новостей
+[2026-09-24 05:01:09] === Запуск блока: morning (тест: False) ===
+[2026-09-24 05:01:09] Лента обновлений, пропускаю: Stock futures are little changed after N
+[2026-09-24 05:01:09] Неизвестный источник (people.com): ‘Dancing with the Stars’ Recap: 1 Star G
+[2026-09-24 05:01:09] Неизвестный источник (foxnews.com): Ella Langley says 'Choosin' Texas' succe
+[2026-09-24 05:01:09] Неизвестный источник (expressnews.com): Texas Rangers accuse Camp Mystic of crim
+[2026-09-24 05:01:09] Заблокированный источник (nypost.com): Ex-Canadian soldier opens fire at synago
+[2026-09-24 05:01:09] Неизвестный источник (deadline.com): Judge Sets Hearing On State AGs Settleme
+[2026-09-24 05:01:09] Неизвестный источник (mmafighting.com): Gable Steveson responds to sexual assaul
+[2026-09-24 05:01:09] Неизвестный источник (cbssports.com): Resetting expectations for these six NFL
+[2026-09-24 05:01:09] Неизвестный источник (space.com): Scientists find weird exoplanet that orb
+[2026-09-24 05:01:09] Неизвестный источник (gizmodo.com): Nearly 1 in 6 Kids on GLP-1s Developed T
+[2026-09-24 05:01:09] Заблокированный источник (sports.yahoo.com): Maxx Crosby defends Caleb Williams' reac
+[2026-09-24 05:01:09] Неизвестный источник (espn.com): Sources: Giants QB Jaxson Dart out for e
+[2026-09-24 05:01:09] Неизвестный источник (macrumors.com): Beats 360 Pre-Orders Open at Amazon With
+[2026-09-24 05:01:09] Неизвестный источник (skyatnightmagazine.com): Spectacular image from the surface of Ma
+[2026-09-24 05:01:09] Старая новость (2026-09-21T21:00:00Z): Large Hadron Collider is still on the hu
+[2026-09-24 05:01:09] Мировые новости: найдено 14 после фильтрации
+[2026-09-24 05:01:11] Редакторский отбор: выбраны позиции [1, 5, 10, 7]
+[2026-09-24 05:01:12] RSS Ukrinform: 30 записей
+[2026-09-24 05:01:12] Пропускаю уже отправленную: Egypt, India and Türkiye offer ways to overcome Bl
+[2026-09-24 05:01:13] RSS Ukrinform: 30 записей
+[2026-09-24 05:01:13] RSS Euromaidan Press: 29 записей
+[2026-09-24 05:01:14] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-24 05:01:14] Заблокированный источник (biztoc.com): Kyiv warehouse on fire after Russian att
+[2026-09-24 05:01:14] Заблокированный источник (biztoc.com): Zelensky Asks Trump for Winter Arms Pack
+[2026-09-24 05:01:14] Заблокированный источник (breitbart.com): Trump: U.S.-Iran Talks ‘Went Very Well’ 
+[2026-09-24 05:01:14] Заблокированный источник (dailymail.com): Anthony Albanese comes face-to-face with
+[2026-09-24 05:01:14] Заблокированный источник (biztoc.com): Trump says he backs diesel export ban to
+[2026-09-24 05:01:14] Заблокированный источник (biztoc.com): In photos: Key takeaways from day one of
+[2026-09-24 05:01:14] Заблокированный источник (dailymail.com): Who's a sleepy Ed? Foreign Secretary Mil
+[2026-09-24 05:01:14] Нет фото: Zelenskyy names condition for energy cea
+[2026-09-24 05:01:14] Заблокированный источник (biztoc.com): Air raid alert sounds in Kyiv
+[2026-09-24 05:01:14] Внутренний дубль: Agent of Russian and Belarusian intelligence servi
+[2026-09-24 05:01:14] Внутренний дубль: Over 200 people notified of suspicion over organiz
+[2026-09-24 05:01:14] Внутренний дубль: Ukrainian forces destroy Russian ammunition depot 
+[2026-09-24 05:01:14] Внутренний дубль: Russian forces launch another attack on non-reside
+[2026-09-24 05:01:14] Внутренний дубль: Russians drop guided glide bombs on Sumy, injuring
+[2026-09-24 05:01:14] Внутренний дубль: Russia strikes Kramatorsk with Uragan MLRS, injuri
+[2026-09-24 05:01:14] Внутренний дубль: Zelensky at Crimea Platform: Ukrainians under occu
+[2026-09-24 05:01:14] Внутренний дубль: Ukrainian border guards evacuate 15 crew members f
+[2026-09-24 05:01:14] Украинские новости: найдено 80 после фильтрации
+[2026-09-24 05:01:15] Редакторский отбор: выбраны позиции [17, 6]
+[2026-09-24 05:01:16] NewsAPI (Харьков, все издания): пришло 5 статей
+[2026-09-24 05:01:17] RSS Ukrinform: 30 записей
+[2026-09-24 05:01:18] RSS Ukrinform: 30 записей
+[2026-09-24 05:01:18] RSS Euromaidan Press: 29 записей
+[2026-09-24 05:01:18] Нет фото: Four Violinists, Four Helicopters, One O
+[2026-09-24 05:01:18] Нет фото: Russian Army Strikes Ukrainian Drone Wor
+[2026-09-24 05:01:18] Нет фото: Search for the Nonresonant Production of
+[2026-09-24 05:01:18] Нет фото: Search for Electroweakinos in Compressed
+[2026-09-24 05:01:18] Заблокированный источник (sputnikglobe.com): Russian Army Strikes Ukrainian Drone Wor
+[2026-09-24 05:01:18] Харьков: новостей не найдено
+[2026-09-24 05:01:18] Обрабатываю: Hurricane Polo grows into powerful Category 5 storm off Mexi | https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-thr
+[2026-09-24 05:01:18] Полный текст получен (3000 символов)
+[2026-09-24 05:01:18] Попытка 1 для: Hurricane Polo grows into powerful Categ
+[2026-09-24 05:01:20] Успешно, получено 1525 символов
+[2026-09-24 05:01:20] Обрабатываю: Trump tells UN he has 'big decision' on whether to 'annihila | https://www.bbc.com/news/articles/c52e0ywl9pr7o
+[2026-09-24 05:01:21] Полный текст получен (3000 символов)
+[2026-09-24 05:01:21] Попытка 1 для: Trump tells UN he has 'big decision' on 
+[2026-09-24 05:01:24] Успешно, получено 1927 символов
+[2026-09-24 05:01:24] Обрабатываю: Macron urges world to 'stand firm' against 'abuse of power b | https://www.france24.com/en/france/20260922-macron-urges-world-stand-f
+[2026-09-24 05:01:24] Попытка 1 для: Macron urges world to 'stand firm' again
+[2026-09-24 05:01:27] Успешно, получено 1217 символов
+[2026-09-24 05:01:27] Обрабатываю: White House launches 'Trump TV' after ban on major news outl | https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-
+[2026-09-24 05:01:27] Полный текст получен (3000 символов)
+[2026-09-24 05:01:27] Попытка 1 для: White House launches 'Trump TV' after ba
+[2026-09-24 05:01:43] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5775, Requested 2572. Please try again in 2.6025s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
+[2026-09-24 05:01:43] Лимит запросов, ждём 60 секунд...
+[2026-09-24 05:02:43] Попытка 2 для: White House launches 'Trump TV' after ba
+[2026-09-24 05:02:47] Успешно, получено 2033 символов
+[2026-09-24 05:02:50] Пауза 60 секунд...
+[2026-09-24 05:03:50] Пауза 60 секунд...
+[2026-09-24 05:04:51] Пауза 60 секунд...
+[2026-09-24 05:05:51] Обрабатываю: More civilians killed or injured in Russian strikes in eight | https://www.ukrinform.net/rubric-polytics/4167314-more-civilians-kille
+[2026-09-24 05:05:52] Полный текст получен (2640 символов)
+[2026-09-24 05:05:52] Попытка 1 для: More civilians killed or injured in Russ
+[2026-09-24 05:05:56] Успешно, получено 2080 символов
+[2026-09-24 05:05:56] Обрабатываю: Ukrainians' bank deposits rise to UAH 1.76T – Deposit Guaran | https://www.ukrinform.net/rubric-economy/4167139-ukrainians-bank-depos
+[2026-09-24 05:05:57] Полный текст получен (1428 символов)
+[2026-09-24 05:05:57] Попытка 1 для: Ukrainians' bank deposits rise to UAH 1.
+[2026-09-24 05:05:59] Успешно, получено 1534 символов
+[2026-09-24 05:06:02] Пауза 60 секунд...
+[2026-09-24 05:07:03] sent_urls.txt обрезан: 306 -> 300
+[2026-09-24 05:07:03] === Блок morning завершён ===
