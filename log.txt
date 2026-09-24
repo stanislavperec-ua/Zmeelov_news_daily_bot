@@ -1,43 +1,3 @@
-[2026-09-17 17:01:16] Неизвестный источник (pymnts.com): Circle Debuts Agentic Commerce-Focused B
-[2026-09-17 17:01:16] Неизвестный источник (newrepublic.com): Trump’s Rabid Refusal to Regulate AI Isn
-[2026-09-17 17:01:16] Неизвестный источник (economictimes.indiatimes.com): Florida was throwing away damaged metal 
-[2026-09-17 17:01:16] Неизвестный источник (blogs.cisco.com): Cisco integrates Axis devices, bringing 
-[2026-09-17 17:01:16] Нет фото: Plug and Play Foundation Launches SMB Te
-[2026-09-17 17:01:16] Неизвестный источник (sciencedaily.com): Scientists turn seawater into fresh wate
-[2026-09-17 17:01:16] Неизвестный источник (marketingdive.com): Why Lowe’s chief marketer Jen Wilson add
-[2026-09-17 17:01:16] Неизвестный источник (247wallst.com): Tesla Tanked This Year: One Of Tech’s Bi
-[2026-09-17 17:01:16] Неизвестный источник (mustafa-suleyman.ai): A warning about 'model welfare'
-[2026-09-17 17:01:16] Заблокированный источник (rt.com): China is building the machinery of a pos
-[2026-09-17 17:01:16] Неизвестный источник (telecomtv.com): What’s up with… Transatlantic networks, 
-[2026-09-17 17:01:16] Неизвестный источник (thestreet.com): One stock quietly did 590% in 2026 after
-[2026-09-17 17:01:16] Неизвестный источник (open-electronics.org): Vertiv plans 7,000 m² expansion at Lette
-[2026-09-17 17:01:16] Заблокированный источник (prnewswire.com): AI in Network Market worth $21.52 billio
-[2026-09-17 17:01:16] Неизвестный источник (journals.plos.org): Real-time gesture mapping system for a 1
-[2026-09-17 17:01:16] Неизвестный источник (journals.plos.org): High-throughput virus quantification usi
-[2026-09-17 17:01:16] Неизвестный источник (journals.plos.org): Biophysical and functional characterizat
-[2026-09-17 17:01:16] Неизвестный источник (journals.plos.org): Does rural talent cultivation enhance fa
-[2026-09-17 17:01:16] Неизвестный источник (journals.plos.org): Hierarchical feature binding in a spikin
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): HubSpot rebuilds its CRM platform around
-[2026-09-17 17:01:16] Неизвестный источник (futurism.com): Data Centers Are Causing a Huge Surge in
-[2026-09-17 17:01:16] Заблокированный источник (prnewswire.com): Apex Intelligence Raises Nearly US$50 Mi
-[2026-09-17 17:01:16] Заблокированный источник (biztoc.com): Nokia Jumps 6% as AI-RAN Trials Expand A
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): ThinkingDataAI launches Agentic Engine w
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): Neo4j launches GraphAware financial crim
-[2026-09-17 17:01:16] Неизвестный источник (247wallst.com): Nokia Jumps 6% as AI-RAN Trials Expand A
-[2026-09-17 17:01:16] Неизвестный источник (247wallst.com): Red October Sell-Off Could Be Coming: 5 
-[2026-09-17 17:01:16] Неизвестный источник (business-standard.com): CBIC plans wider AI use, unified portal 
-[2026-09-17 17:01:16] Нет фото: INDROTEK Expands Board of Directors with
-[2026-09-17 17:01:16] Нет фото: DAF Battle Network driving multi-domain 
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): Pipedrive launches Nova AI assistant to 
-[2026-09-17 17:01:16] Неизвестный источник (landezine.com): European Prize for Urban Public Space 20
-[2026-09-17 17:01:16] Неизвестный источник (business-standard.com): OpenAI's rogue agents probed Hugging Fac
-[2026-09-17 17:01:16] Заблокированный источник (prnewswire.com): TELUS Digital Named as a Leader in Evere
-[2026-09-17 17:01:16] Заблокированный источник (prnewswire.com): TELUS Digital Named as a Leader in Evere
-[2026-09-17 17:01:16] Нет фото: New Data by Shift Canada Reveals Early E
-[2026-09-17 17:01:16] Нет фото: Media Advisory: MADD Canada to Unveil Ne
-[2026-09-17 17:01:16] Заблокированный источник (marketbeat.com): Dollar General Sees Shopper Pressure Per
-[2026-09-17 17:01:16] Неизвестный источник (channelnewsasia.com): Exclusive-OpenAI's rogue agents probed H
-[2026-09-17 17:01:16] Неизвестный источник (telecomtv.com): Why provincial UK universities are enjoy
 [2026-09-17 17:01:16] Неизвестный источник (gizmodo.com): Bitcoin’s Network Hashrate Is 50% Below 
 [2026-09-17 17:01:16] Неизвестный источник (bitcoinfoundation.org): AI Crypto Has a Data Problem: How Much o
 [2026-09-17 17:01:16] Нет фото: Citi Institute Supply Chain Financing Re
@@ -2998,3 +2958,43 @@
 [2026-09-24 07:01:13] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-09-24 07:01:13] ⚠️ Блок <b>AI утро</b> (24.09.2026): новостей не найдено!
 [2026-09-24 07:01:13] === Блок ai_morning завершён ===
+[2026-09-24 10:01:14] Загружено 300 уже отправленных новостей
+[2026-09-24 10:01:14] === Запуск блока: midday (тест: False) ===
+[2026-09-24 10:01:14] Неизвестный источник (macrumors.com): New Mac Mini Has Two Storage Downsides, 
+[2026-09-24 10:01:14] Неизвестный источник (nbcsports.com): Report: Jaxson Dart’s injury could be se
+[2026-09-24 10:01:14] Неизвестный источник (ew.com): ‘Dancing With the Stars’ season 35 week 
+[2026-09-24 10:01:14] Неизвестный источник (gizmodo.com): New Adtech From Microsoft Would Interrup
+[2026-09-24 10:01:14] Неизвестный источник (hollywoodreporter.com): Paramount-Warner Bros. Settlement to Be 
+[2026-09-24 10:01:14] Заблокированный источник (nypost.com): Ex-Canadian soldier opens fire at synago
+[2026-09-24 10:01:14] Неизвестный источник (mmafighting.com): Gable Steveson responds to sexual assaul
+[2026-09-24 10:01:14] Неизвестный источник (cbssports.com): Resetting expectations for these six NFL
+[2026-09-24 10:01:14] Неизвестный источник (variety.com): ‘Digger’ First Reactions Split Over Tom 
+[2026-09-24 10:01:14] Неизвестный источник (gizmodo.com): Nearly 1 in 6 Kids on GLP-1s Developed T
+[2026-09-24 10:01:14] Неизвестный источник (usatoday.com): El Niño goes wild: Pacific Ocean under s
+[2026-09-24 10:01:14] Неизвестный источник (phys.org): Light beam 'swims' upstream through a qu
+[2026-09-24 10:01:14] Неизвестный источник (boingboing.net): Nancy Grace Roman Space Telescope test i
+[2026-09-24 10:01:14] Неизвестный источник (sciencedaily.com): Coffee doesn’t have to keep you awake to
+[2026-09-24 10:01:14] Неизвестный источник (skyatnightmagazine.com): Spectacular image from the surface of Ma
+[2026-09-24 10:01:14] Старая новость (2026-09-17T11:00:18Z): What To Expect From Sick Season This Yea
+[2026-09-24 10:01:14] Мировые новости: найдено 15 после фильтрации
+[2026-09-24 10:01:15] Редакторский отбор: выбраны позиции [4, 3, 13, 2]
+[2026-09-24 10:01:15] Обрабатываю: U.S. and Iran officials meet in New York to discuss ending t | https://www.axios.com/2026/09/22/unga-iran-us-trump-war
+[2026-09-24 10:01:15] Попытка 1 для: U.S. and Iran officials meet in New York
+[2026-09-24 10:01:17] Успешно, получено 620 символов
+[2026-09-24 10:01:17] Обрабатываю: Category 5 Hurricane Polo is 'one of the strongest storms ev | https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo
+[2026-09-24 10:01:17] Полный текст получен (3000 символов)
+[2026-09-24 10:01:17] Попытка 1 для: Category 5 Hurricane Polo is 'one of the
+[2026-09-24 10:01:21] Успешно, получено 1888 символов
+[2026-09-24 10:01:21] Обрабатываю: Fifteen guilty in 2019 Sri Lanka Easter bombings: What the v | https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sr
+[2026-09-24 10:01:21] Полный текст получен (3000 символов)
+[2026-09-24 10:01:21] Попытка 1 для: Fifteen guilty in 2019 Sri Lanka Easter 
+[2026-09-24 10:01:25] Успешно, получено 1791 символов
+[2026-09-24 10:01:25] Обрабатываю: Poll: Most voters agree the 2026 midterms are all about Trum | https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-cong
+[2026-09-24 10:01:25] Полный текст получен (3000 символов)
+[2026-09-24 10:01:25] Попытка 1 для: Poll: Most voters agree the 2026 midterm
+[2026-09-24 10:01:40] Успешно, получено 1901 символов
+[2026-09-24 10:01:43] Пауза 60 секунд...
+[2026-09-24 10:02:44] Пауза 60 секунд...
+[2026-09-24 10:03:44] Пауза 60 секунд...
+[2026-09-24 10:04:45] sent_urls.txt обрезан: 304 -> 300
+[2026-09-24 10:04:45] === Блок midday завершён ===
