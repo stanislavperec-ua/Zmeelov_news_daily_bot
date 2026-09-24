@@ -1,16 +1,3 @@
-[2026-09-17 15:04:52] Успешно, получено 1438 символов
-[2026-09-17 15:04:56] Пауза 60 секунд...
-[2026-09-17 15:05:56] sent_urls.txt обрезан: 306 -> 300
-[2026-09-17 15:05:56] === Блок evening завершён ===
-[2026-09-17 17:01:15] Загружено 300 уже отправленных новостей
-[2026-09-17 17:01:15] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-17 17:01:16] Заблокированный источник (prnewswire.com): CONSULTING MAGAZINE NAMES HONOREES FOR 2
-[2026-09-17 17:01:16] Неизвестный источник (smithsonianmag.com): This New Brain Map Shows Every Nerve Cel
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): Jack & Jill raises $40M to change the fa
-[2026-09-17 17:01:16] Неизвестный источник (rte.ie): OpenAI's rogue agents tried hacking Hugg
-[2026-09-17 17:01:16] Неизвестный источник (viewfromthewing.com): Chase Sapphire Reserve Turns 10 With Up 
-[2026-09-17 17:01:16] Неизвестный источник (capitalandmain.com): A Lucrative Tax Break Is Fueling Pennsyl
-[2026-09-17 17:01:16] Неизвестный источник (siliconangle.com): Tutor Intelligence launches second-gener
 [2026-09-17 17:01:16] Неизвестный источник (pymnts.com): Circle Debuts Agentic Commerce-Focused B
 [2026-09-17 17:01:16] Неизвестный источник (newrepublic.com): Trump’s Rabid Refusal to Regulate AI Isn
 [2026-09-17 17:01:16] Неизвестный источник (economictimes.indiatimes.com): Florida was throwing away damaged metal 
@@ -2998,3 +2985,16 @@
 [2026-09-24 05:06:02] Пауза 60 секунд...
 [2026-09-24 05:07:03] sent_urls.txt обрезан: 306 -> 300
 [2026-09-24 05:07:03] === Блок morning завершён ===
+[2026-09-24 07:01:13] Загружено 300 уже отправленных новостей
+[2026-09-24 07:01:13] === Запуск блока: ai_morning (тест: False) ===
+[2026-09-24 07:01:13] Заблокированный источник (naturalnews.com): Trump Gets AI Right: Don’t Let Anthropic
+[2026-09-24 07:01:13] Неизвестный источник (persuasion.community): Why I Changed My Mind About AI Risk - by
+[2026-09-24 07:01:13] Неизвестный источник (abcnews.com): Worries about an AI internet takeover ga
+[2026-09-24 07:01:13] Неизвестный источник (businessnewsthisweek.com): Customer Service: The Role of AI Technol
+[2026-09-24 07:01:13] Спорт, пропускаю: Hunting hidden gems - is there anywhere 
+[2026-09-24 07:01:13] Неизвестный источник (insurancejournal.com): Viewpoint: Surplus Lines Insurers Offer 
+[2026-09-24 07:01:13] Неизвестный источник (economictimes.indiatimes.com): Delhi govt sets up 110 collection centre
+[2026-09-24 07:01:13] Неизвестный источник (economictimes.indiatimes.com): Worries about an AI internet takeover ga
+[2026-09-24 07:01:13] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-09-24 07:01:13] ⚠️ Блок <b>AI утро</b> (24.09.2026): новостей не найдено!
+[2026-09-24 07:01:13] === Блок ai_morning завершён ===
