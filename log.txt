@@ -1,124 +1,3 @@
-[2026-09-18 15:01:13] Загружено 300 уже отправленных новостей
-[2026-09-18 15:01:13] === Запуск блока: evening (тест: False) ===
-[2026-09-18 15:01:14] Неизвестный источник (cbssports.com): Week 2 NFL odds, picks, predictions: Com
-[2026-09-18 15:01:14] Неизвестный источник (nbcsports.com): Steve Belichick resigns as North Carolin
-[2026-09-18 15:01:14] Неизвестный источник (usatoday.com): 'South Park' returns with a new approach
-[2026-09-18 15:01:14] Неизвестный источник (espn.com): Source: Texans' Nico Collins (hamstring)
-[2026-09-18 15:01:14] Неизвестный источник (pagesix.com): Julia Stiles calls out ‘diva’ Andy Cohen
-[2026-09-18 15:01:14] Неизвестный источник (newsnationnow.com): OpenAI models go rogue in 6 new cases - 
-[2026-09-18 15:01:14] Неизвестный источник (prideofdetroit.com): Detroit Lions updated depth chart: Week 
-[2026-09-18 15:01:14] Неизвестный источник (foxnews.com): Kavanaugh throws Trump 'a lifeline' on m
-[2026-09-18 15:01:14] Неизвестный источник (usatoday.com): Teen's brain-eating amoeba infection lik
-[2026-09-18 15:01:14] Неизвестный источник (hollywoodreporter.com): Matthew Lillard Says He’s “Embarrassed” 
-[2026-09-18 15:01:14] Неизвестный источник (9to5mac.com): Photographer Tyler Stalman reviews the i
-[2026-09-18 15:01:14] Неизвестный источник (ksl.com): Fossil tooth analysis confirms Tyrannosa
-[2026-09-18 15:01:14] Неизвестный источник (macrumors.com): Hands-On With the Redesigned Health App 
-[2026-09-18 15:01:14] Неизвестный источник (pbs.org): Fencing goes up around the main Kennedy 
-[2026-09-18 15:01:14] Старая новость (2026-09-16T13:59:06Z): Russia launches Progress 96 with 3 tons 
-[2026-09-18 15:01:14] Мировые новости: найдено 19 после фильтрации
-[2026-09-18 15:01:16] Редакторский отбор: выбраны позиции [9, 12, 16, 14]
-[2026-09-18 15:01:17] RSS Ukrinform: 30 записей
-[2026-09-18 15:01:18] RSS Ukrinform: 30 записей
-[2026-09-18 15:01:18] RSS Euromaidan Press: 29 записей
-[2026-09-18 15:01:18] Пропускаю уже отправленную: Thousands are starving in occupied Oleshky. People
-[2026-09-18 15:01:18] Пропускаю уже отправленную: No missiles intercepted again: Russia strikes Kyiv
-[2026-09-18 15:01:18] Пропускаю уже отправленную: Russo-Ukrainian war, day 1666: Ukraine’s counterof
-[2026-09-18 15:01:19] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-09-18 15:01:19] Заблокированный источник (sputnikglobe.com): 'Sanctions From Hell' May Hit a Wall Bef
-[2026-09-18 15:01:19] Заблокированный источник (nypost.com): Trump ‘I did that’ stickers pop up on ga
-[2026-09-18 15:01:19] Заблокированный источник (breitbart.com): European Union Offers ‘Associate Members
-[2026-09-18 15:01:19] Нет фото: Susan Kokinda Outlines How Canada and Eu
-[2026-09-18 15:01:19] Нет фото: You Know The AI Panic Is An Op Because T
-[2026-09-18 15:01:19] Заблокированный источник (biztoc.com): The selfish case for helping Ukraine has
-[2026-09-18 15:01:19] Нет фото: Duct-tape plane passenger breaks silence
-[2026-09-18 15:01:19] Заблокированный источник (prnewswire.com): The Drone Arms Race Is Here: Military UA
-[2026-09-18 15:01:19] Нет фото: Sen. Grassley Vindicated Thrice-Fold On 
-[2026-09-18 15:01:19] Заблокированный источник (sputnikglobe.com): West Used Bucha to Derail Istanbul Peace
-[2026-09-18 15:01:19] Нет фото: Dengue fever and other mosquito-borne il
-[2026-09-18 15:01:19] Заблокированный источник (biztoc.com): GM to Produce Patriot Missile Parts as U
-[2026-09-18 15:01:19] Заблокированный источник (uk.news.yahoo.com): Is NATO ready to fight? Ukraine war rais
-[2026-09-18 15:01:19] Нет фото: Fourth Person Dead In Florida From ‘Fles
-[2026-09-18 15:01:19] Внутренний дубль: Russian strike on downtown Odesa damages administr
-[2026-09-18 15:01:19] Внутренний дубль: Russian forces drop explosives on hospital grounds
-[2026-09-18 15:01:19] Внутренний дубль: Russia launches massive barrages of modified RM48U
-[2026-09-18 15:01:19] Внутренний дубль: Russian forces strike Sloviansk, five civilians in
-[2026-09-18 15:01:19] Внутренний дубль: Ukrainian forces strike Russian Orion drone contro
-[2026-09-18 15:01:19] Внутренний дубль: Russian strike hits commuter train in Kharkiv regi
-[2026-09-18 15:01:19] Внутренний дубль: Operation Vivaldi: Third Army Corps shows strikes 
-[2026-09-18 15:01:19] Внутренний дубль: Two killed, two injured in Russian strike on enter
-[2026-09-18 15:01:19] Внутренний дубль: Russian forces launch massive attack on civilian i
-[2026-09-18 15:01:19] Внутренний дубль: War update: 230 clashes on front line over past da
-[2026-09-18 15:01:19] Внутренний дубль: Russian strike destroys shopping center in Zaporiz
-[2026-09-18 15:01:19] Внутренний дубль: Air defense forces shoot down more than 70 Russian
-[2026-09-18 15:01:19] Внутренний дубль: EU to allocate EUR 3.3B to Ukraine for missiles, a
-[2026-09-18 15:01:19] Внутренний дубль: Ukraine should receive air defense interceptors on
-[2026-09-18 15:01:19] Внутренний дубль: Russian forces shell Dnipropetrovsk region more th
-[2026-09-18 15:01:19] Внутренний дубль: Russian forces lose another 1,420 soldiers in war 
-[2026-09-18 15:01:19] Внутренний дубль: Military receives more than one million drones and
-[2026-09-18 15:01:19] Украинские новости: найдено 71 после фильтрации
-[2026-09-18 15:01:21] Редакторский отбор: выбраны позиции [17, 1]
-[2026-09-18 15:01:21] NewsAPI (Харьков, все издания): пришло 4 статей
-[2026-09-18 15:01:22] RSS Ukrinform: 30 записей
-[2026-09-18 15:01:23] RSS Ukrinform: 30 записей
-[2026-09-18 15:01:23] RSS Euromaidan Press: 29 записей
-[2026-09-18 15:01:23] Нет фото: Russian Forces Liberate Malaya Volchya S
-[2026-09-18 15:01:23] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Malaya Volchya S
-[2026-09-18 15:01:23] Внутренний дубль: Russian strike hits commuter train in Kharkiv regi
-[2026-09-18 15:01:23] Харьков: найдена новость: Russian strike hits commuter train in Kharkiv regi
-[2026-09-18 15:01:23] Обрабатываю: The Fed raises interest rates. And, EU proposes Canada becom | https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal
-[2026-09-18 15:01:23] Полный текст получен (3000 символов)
-[2026-09-18 15:01:23] Попытка 1 для: The Fed raises interest rates. And, EU p
-[2026-09-18 15:01:26] Успешно, получено 1663 символов
-[2026-09-18 15:01:26] Обрабатываю: From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil | https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-
-[2026-09-18 15:01:27] Полный текст получен (3000 символов)
-[2026-09-18 15:01:27] Попытка 1 для: From Yanbu to Sohar: Tracking Saudi Arab
-[2026-09-18 15:01:30] Успешно, получено 1741 символов
-[2026-09-18 15:01:30] Обрабатываю: India warns new US tariffs over Russian oil could impact tie | https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-ov
-[2026-09-18 15:01:30] Полный текст получен (2429 символов)
-[2026-09-18 15:01:30] Попытка 1 для: India warns new US tariffs over Russian 
-[2026-09-18 15:01:37] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5785, Requested 2546. Please try again in 2.4825s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
-[2026-09-18 15:01:37] Лимит запросов, ждём 60 секунд...
-[2026-09-18 15:02:37] Попытка 2 для: India warns new US tariffs over Russian 
-[2026-09-18 15:02:40] Успешно, получено 1749 символов
-[2026-09-18 15:02:40] Обрабатываю: How China is driving the emerging partisan divide on AI safe | https://www.politico.com/news/2026/09/16/poll-china-ai-competition-010
-[2026-09-18 15:02:40] Попытка 1 для: How China is driving the emerging partis
-[2026-09-18 15:02:42] Успешно, получено 941 символов
-[2026-09-18 15:02:45] Пауза 60 секунд...
-[2026-09-18 15:03:46] Пауза 60 секунд...
-[2026-09-18 15:04:47] Пауза 60 секунд...
-[2026-09-18 15:05:47] Обрабатываю: EU allocates EUR 3.3B to Ukraine for defense needs | https://www.ukrinform.net/rubric-economy/4165393-eu-allocates-eur-33b-
-[2026-09-18 15:05:49] Полный текст получен (3000 символов)
-[2026-09-18 15:05:49] Попытка 1 для: EU allocates EUR 3.3B to Ukraine for def
-[2026-09-18 15:05:52] Успешно, получено 1652 символов
-[2026-09-18 15:05:52] Обрабатываю: Russian strike on downtown Odesa damages administrative buil | https://www.ukrinform.net/rubric-ato/4165557-russian-strike-on-downtow
-[2026-09-18 15:05:53] Полный текст получен (876 символов)
-[2026-09-18 15:05:53] Попытка 1 для: Russian strike on downtown Odesa damages
-[2026-09-18 15:05:56] Успешно, получено 1191 символов
-[2026-09-18 15:05:56] Обрабатываю: Russian strike hits commuter train in Kharkiv region, killin | https://www.ukrinform.net/rubric-ato/4165423-russian-strike-hits-commu
-[2026-09-18 15:05:57] Полный текст получен (1594 символов)
-[2026-09-18 15:05:57] Попытка 1 для: Russian strike hits commuter train in Kh
-[2026-09-18 15:06:00] Успешно, получено 1536 символов
-[2026-09-18 15:06:03] Пауза 60 секунд...
-[2026-09-18 15:07:03] Пауза 60 секунд...
-[2026-09-18 15:08:04] sent_urls.txt обрезан: 307 -> 300
-[2026-09-18 15:08:04] === Блок evening завершён ===
-[2026-09-18 17:01:16] Загружено 300 уже отправленных новостей
-[2026-09-18 17:01:16] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-18 17:01:16] Неизвестный источник (databricks.com): What is AIOps?
-[2026-09-18 17:01:16] Заблокированный источник (finance.yahoo.com): Jim Cramer on Tesla (TSLA): “My Only Sol
-[2026-09-18 17:01:16] Неизвестный источник (foxnews.com): Fox News AI Newsletter: Trump shreds AI 
-[2026-09-18 17:01:16] Неизвестный источник (news.climate.columbia.edu): Europe’s Earliest Glacier Loss Day in Ye
-[2026-09-18 17:01:16] Заблокированный источник (prnewswire.com): Disruption in Innovation: Steve Rader Br
-[2026-09-18 17:01:16] Заблокированный источник (nypost.com): Andrew Yang joins chorus of AI skeptics,
-[2026-09-18 17:01:16] Неизвестный источник (economictimes.indiatimes.com): JanAI Technology launches AI platform fo
-[2026-09-18 17:01:16] Неизвестный источник (cryptobriefing.com): SpaceX considers buying failed startups’
-[2026-09-18 17:01:16] Не про ИИ, пропускаю: How Do You Dismantle a Propaganda Machine?
-[2026-09-18 17:01:16] Заблокированный источник (prnewswire.com): XKL Optimizes Data Center Interconnects 
-[2026-09-18 17:01:16] Неизвестный источник (financialpost.com): Canada making ‘serious efforts’ on AI sa
-[2026-09-18 17:01:16] Неизвестный источник (cointelegraph.com): Zcash miner Fortitude taps former Hut 8 
-[2026-09-18 17:01:16] Не про ИИ, пропускаю: China, Not Iran, Is Trump’s Real Foreign-Policy De
-[2026-09-18 17:01:16] Неизвестный источник (pymnts.com): Plaud Plans to File IPO for AI Note-Taki
-[2026-09-18 17:01:16] Неизвестный источник (businessnewsthisweek.com): Eightco Holdings (NASDAQ: ORBS) Reports 
 [2026-09-18 17:01:16] Нет фото: China Officially Stands for World Peace 
 [2026-09-18 17:01:16] Неизвестный источник (economictimes.indiatimes.com): Micron to scale up assembly and testing 
 [2026-09-18 17:01:16] Неизвестный источник (futurism.com): How Three Brothers Built an AI Slop Empi
@@ -2998,3 +2877,124 @@
 [2026-09-25 05:05:01] Пауза 60 секунд...
 [2026-09-25 05:06:02] sent_urls.txt обрезан: 306 -> 300
 [2026-09-25 05:06:02] === Блок morning завершён ===
+[2026-09-25 07:01:10] Загружено 300 уже отправленных новостей
+[2026-09-25 07:01:10] === Запуск блока: ai_morning (тест: False) ===
+[2026-09-25 07:01:10] Неизвестный источник (insidehighered.com): Silicon Valley AI Academy Seeks ‘Main Ch
+[2026-09-25 07:01:10] Неизвестный источник (economictimes.indiatimes.com): How fast can China's EVs charge? Inside 
+[2026-09-25 07:01:10] Неизвестный источник (thehindubusinessline.com): Explained: How China’s EV makers are pus
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: ‘There’s nothing like it’: Meta unveils dedicated 
+[2026-09-25 07:01:10] Заблокированный источник (naturalnews.com): The Era of Token Abundance Is Coming â
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): Loyalty Juggernaut Advances Responsible 
+[2026-09-25 07:01:10] Нет фото: MAX Power Mining Corp. (OTC: MAXXF) (CSE
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): Industrious and GANMI Expand Core Columb
+[2026-09-25 07:01:10] Нет фото: Ongoing Efforts to Create Powerful AI a 
+[2026-09-25 07:01:10] Нет фото: cspan added to PyPI
+[2026-09-25 07:01:10] Неизвестный источник (economictimes.indiatimes.com): OpenAI hacks Australian government healt
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Amazon’s new plugin lets sellers manage 
+[2026-09-25 07:01:10] Заблокированный источник (yahoo.com): Australian PM says OPENAI hacked govt he
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Observation of multiphoton entanglement in resonan
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Reconciling global collaboration and data sovereig
+[2026-09-25 07:01:10] Неизвестный источник (nationalobserver.com): AI's dangers 'real and imminent,' Canadi
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Containment is dead: Five takeaways from
+[2026-09-25 07:01:10] Неизвестный источник (kenklippenstein.com): FEDS GOING AFTER AI CRITICS
+[2026-09-25 07:01:10] Неизвестный источник (insiderpaper.com): Australia’s PM says OpenAI hacked govern
+[2026-09-25 07:01:10] Неизвестный источник (huffpost.com): 'Something To Hide': Congress Looks To S
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): UiPath introduces new workflow automatio
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): The AI factory is becoming the computer 
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Microsoft unveils Integrated Security Op
+[2026-09-25 07:01:10] Неизвестный источник (techradar.com): No internet, no problem: Tether just rel
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Oracle puts database security controls b
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Oracle shifts agent controls toward data
+[2026-09-25 07:01:10] Неизвестный источник (screenrant.com): Law & Order Officially Has A New Streami
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Workforce economics emerges as AI reshap
+[2026-09-25 07:01:10] Нет фото: cattykit 0.1.2
+[2026-09-25 07:01:10] Заблокированный источник (dailymail.com): OpenAI agent breached Medicare, Albanese
+[2026-09-25 07:01:10] Неизвестный источник (smh.com.au): OpenAI Medicare Data Breach
+[2026-09-25 07:01:10] Неизвестный источник (cryptoslate.com): BlackRock sees a new $5 trillion AI trad
+[2026-09-25 07:01:10] Неизвестный источник (financialpost.com): Microsoft president backs deployment of 
+[2026-09-25 07:01:10] Неизвестный источник (pymnts.com): Is Muse Really the Answer to Meta’s AI W
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): AI is rewriting the private cloud playbo
+[2026-09-25 07:01:10] Неизвестный источник (financialpost.com): Kraft Heinz looks to replicate success o
+[2026-09-25 07:01:10] Неизвестный источник (business-standard.com): Worries about AI internet takeover gain 
+[2026-09-25 07:01:10] Нет фото: Coffee Break: Effective Altruism Is a Mi
+[2026-09-25 07:01:10] Неизвестный источник (financialpost.com): AI skeptics surrender again as traders e
+[2026-09-25 07:01:10] Неизвестный источник (financialpost.com): Doha Debates Podcast Returns for a New S
+[2026-09-25 07:01:10] Неизвестный источник (thestreet.com): BlackRock predicts what happens once AI 
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): TekStream Introduces MissionTek Advisors
+[2026-09-25 07:01:10] Нет фото: iA Financial Group Announces the Appoint
+[2026-09-25 07:01:10] Неизвестный источник (247wallst.com): Meta’s Muse Just Put Instacart’s Grocery
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): Rabbit returns with OS3, a personal AI a
+[2026-09-25 07:01:10] Неизвестный источник (techradar.com): Microsoft takes down AI-boosted phishing
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): XPRIZE Wildfire Awards $4.55M to Innovat
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): XPRIZE Wildfire Awards $4.55M to Innovat
+[2026-09-25 07:01:10] Неизвестный источник (siliconangle.com): How AI data foundations are rewriting en
+[2026-09-25 07:01:10] Неизвестный источник (futurism.com): AI Community Linked to Disturbing Cultur
+[2026-09-25 07:01:10] Неизвестный источник (wwd.com): What’s Driving Growth at Journeys.com? H
+[2026-09-25 07:01:10] Неизвестный источник (decrypt.co): BlackRock: AI Agents Could Drive Crypto'
+[2026-09-25 07:01:10] Неизвестный источник (foxnews.com): China ‘throwing gasoline on the fire’ in
+[2026-09-25 07:01:10] Неизвестный источник (financialpost.com): Microsoft rises as one of last analyst h
+[2026-09-25 07:01:10] Неизвестный источник (technode.com): The Race to Mass-Produce Silicon Photoni
+[2026-09-25 07:01:10] Неизвестный источник (247wallst.com): Shopify Sinks 5%, Meta Ticks Up as Muse 
+[2026-09-25 07:01:10] Неизвестный источник (abcnews.com): Prince Harry warns AI chatbots can be mo
+[2026-09-25 07:01:10] Неизвестный источник (dezeen.com): Nuclear education centre within English 
+[2026-09-25 07:01:10] AI новости: 2 с доверенных источников
+[2026-09-25 07:01:10] Доверенных AI-источников мало, добираю из остальных
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: How fast can China's EVs charge? Inside the race t
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Explained: How China’s EV makers are pushing charg
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: ‘There’s nothing like it’: Meta unveils dedicated 
+[2026-09-25 07:01:10] Заблокированный источник (naturalnews.com): The Era of Token Abundance Is Coming â
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): Loyalty Juggernaut Advances Responsible 
+[2026-09-25 07:01:10] Нет фото: MAX Power Mining Corp. (OTC: MAXXF) (CSE
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): Industrious and GANMI Expand Core Columb
+[2026-09-25 07:01:10] Нет фото: Ongoing Efforts to Create Powerful AI a 
+[2026-09-25 07:01:10] Нет фото: cspan added to PyPI
+[2026-09-25 07:01:10] Заблокированный источник (yahoo.com): Australian PM says OPENAI hacked govt he
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Observation of multiphoton entanglement in resonan
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Reconciling global collaboration and data sovereig
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: 'Something To Hide': Congress Looks To Subpoena Co
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: UiPath introduces new workflow automation, softwar
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: No internet, no problem: Tether just released free
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Oracle shifts agent controls toward data-layer sec
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Law & Order Officially Has A New Streaming Home Ah
+[2026-09-25 07:01:10] Нет фото: cattykit 0.1.2
+[2026-09-25 07:01:10] Заблокированный источник (dailymail.com): OpenAI agent breached Medicare, Albanese
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: OpenAI Medicare Data Breach
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Kraft Heinz looks to replicate success of clean-la
+[2026-09-25 07:01:10] Нет фото: Coffee Break: Effective Altruism Is a Mi
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Doha Debates Podcast Returns for a New Season Expl
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): TekStream Introduces MissionTek Advisors
+[2026-09-25 07:01:10] Нет фото: iA Financial Group Announces the Appoint
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Meta’s Muse Just Put Instacart’s Grocery Empire on
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Microsoft takes down AI-boosted phishing tool that
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): XPRIZE Wildfire Awards $4.55M to Innovat
+[2026-09-25 07:01:10] Заблокированный источник (prnewswire.com): XPRIZE Wildfire Awards $4.55M to Innovat
+[2026-09-25 07:01:10] Пропускаю уже отправленную: AI Community Linked to Disturbing Culture of Sexua
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: What’s Driving Growth at Journeys.com? Hint: No Gi
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Microsoft rises as one of last analyst holdouts ge
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: The Race to Mass-Produce Silicon Photonics
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Shopify Sinks 5%, Meta Ticks Up as Muse Deal Rally
+[2026-09-25 07:01:10] Не про ИИ, пропускаю: Nuclear education centre within English garden amo
+[2026-09-25 07:01:10] Внутренний дубль: Australia’s PM says OpenAI hacked government healt
+[2026-09-25 07:01:10] AI новости: 22 кандидатов после фильтрации
+[2026-09-25 07:01:12] Редакторский отбор: выбраны позиции [1, 6, 9, 14]
+[2026-09-25 07:01:12] Обрабатываю: OpenAI agent hacked Australia government portal: PM Albanese | https://www.dw.com/en/openai-agent-hacked-australia-government-portal-
+[2026-09-25 07:01:12] Полный текст получен (3000 символов)
+[2026-09-25 07:01:12] Попытка 1 для: OpenAI agent hacked Australia government
+[2026-09-25 07:01:16] Успешно, получено 1651 символов
+[2026-09-25 07:01:16] Обрабатываю: AI's dangers 'real and imminent,' Canadian AI pioneer Yoshua | https://www.nationalobserver.com/2026/09/23/news/ais-dangers-real-immi
+[2026-09-25 07:01:16] Полный текст получен (3000 символов)
+[2026-09-25 07:01:16] Попытка 1 для: AI's dangers 'real and imminent,' Canadi
+[2026-09-25 07:01:17] Успешно, получено 1615 символов
+[2026-09-25 07:01:17] Обрабатываю: The AI factory is becoming the computer and it’s changing th | https://siliconangle.com/2026/09/23/the-ai-factory-is-becoming-the-com
+[2026-09-25 07:01:18] Полный текст получен (3000 символов)
+[2026-09-25 07:01:18] Попытка 1 для: The AI factory is becoming the computer 
+[2026-09-25 07:01:22] Успешно, получено 2018 символов
+[2026-09-25 07:01:22] Обрабатываю: Microsoft president backs deployment of AI safety evaluators | https://financialpost.com/technology/tech-news/microsoft-president-bac
+[2026-09-25 07:01:22] Полный текст получен (3000 символов)
+[2026-09-25 07:01:22] Попытка 1 для: Microsoft president backs deployment of 
+[2026-09-25 07:01:34] Успешно, получено 1880 символов
+[2026-09-25 07:01:37] Пауза 60 секунд...
+[2026-09-25 07:02:38] Пауза 60 секунд...
+[2026-09-25 07:03:38] Пауза 60 секунд...
+[2026-09-25 07:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-09-25 07:04:39] === Блок ai_morning завершён ===
