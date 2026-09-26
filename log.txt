@@ -1,49 +1,3 @@
-[2026-09-19 17:01:18] Неизвестный источник (financialpost.com): Brookfield’s Flatt says AI ‘slowing down
-[2026-09-19 17:01:18] Нет фото: Best’s Market Segment Report: Focus on D
-[2026-09-19 17:01:18] Нет фото: The AI apocalypse and the ‘NAZA’ blood l
-[2026-09-19 17:01:18] Неизвестный источник (cryptobriefing.com): AI PACs spend nearly $1M in support of M
-[2026-09-19 17:01:18] Заблокированный источник (marketbeat.com): CleanSpark Unveils $6.6B AI Data Center 
-[2026-09-19 17:01:18] Заблокированный источник (prnewswire.com): BEN Shareholder Skye Africa Intelligence
-[2026-09-19 17:01:18] Неизвестный источник (globalresearch.ca): Are We Capable of Making Any Meaningful 
-[2026-09-19 17:01:18] Неизвестный источник (the-digital-reader.com): Why Simple Digital Games Still Have a Pl
-[2026-09-19 17:01:18] Неизвестный источник (financialpost.com): 6th Monaco Smart & Sustainable Marina Re
-[2026-09-19 17:01:18] Заблокированный источник (prnewswire.com): Skye Africa Intelligence Commissioned to
-[2026-09-19 17:01:18] Неизвестный источник (telecomtv.com): What’s up with… NTT, US DFC and WIOCC, B
-[2026-09-19 17:01:18] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
-[2026-09-19 17:01:18] ⚠️ Блок <b>AI вечер</b> (19.09.2026): новостей не найдено!
-[2026-09-19 17:01:19] === Блок ai_evening завершён ===
-[2026-09-20 05:01:09] Загружено 300 уже отправленных новостей
-[2026-09-20 05:01:09] === Запуск блока: morning (тест: False) ===
-[2026-09-20 05:01:09] Неизвестный источник (kcra.com): California officials warn of possible me
-[2026-09-20 05:01:09] Неизвестный источник (mmafighting.com): Colby Covington makes quick work of Bela
-[2026-09-20 05:01:09] Неизвестный источник (espn.com): Kelsey Mitchell sets WNBA season scoring
-[2026-09-20 05:01:09] Неизвестный источник (mlbtraderumors.com): Yankees To Place Aaron Judge On IL With 
-[2026-09-20 05:01:09] Неизвестный источник (rollingstone.com): Dropkick Murphys' Ken Casey Says Ed Shee
-[2026-09-20 05:01:09] Неизвестный источник (foxweather.com): NASA scientist discovers largest, newly 
-[2026-09-20 05:01:09] Неизвестный источник (tampabay.com): Tampa woman is first dengue fever death 
-[2026-09-20 05:01:09] Неизвестный источник (rollingstone.com): The Military’s Bogus AI ‘Almost Started 
-[2026-09-20 05:01:09] Неизвестный источник (jalopnik.com): Nancy Grace Roman Space Telescope Isn't 
-[2026-09-20 05:01:09] Неизвестный источник (9to5mac.com): Apple Intelligence has 20+ brand new fea
-[2026-09-20 05:01:09] Неизвестный источник (foxbusiness.com): Apple's iPhone 18 goes on sale as custom
-[2026-09-20 05:01:09] Неизвестный источник (9to5mac.com): Apple VP of hardware talks iPhone Duo du
-[2026-09-20 05:01:09] Заблокированный источник (finance.yahoo.com): SpaceX to fly more NASA crews to space s
-[2026-09-20 05:01:09] Неизвестный источник (steamboatpilot.com): Measles exposure tracked to Steamboat Sp
-[2026-09-20 05:01:09] Неизвестный источник (hollywoodreporter.com): 'Monster: The Lizzie Borden Story' Creat
-[2026-09-20 05:01:09] Старая новость (2026-09-14T21:19:07Z): Diplodocus, Long Thought Exclusively Ame
-[2026-09-20 05:01:09] Мировые новости: найдено 12 после фильтрации
-[2026-09-20 05:01:10] Редакторский отбор: выбраны позиции [6, 11, 3, 10]
-[2026-09-20 05:01:11] RSS Ukrinform: код 403
-[2026-09-20 05:01:12] RSS Ukrinform: код 403
-[2026-09-20 05:01:12] RSS Euromaidan Press: 29 записей
-[2026-09-20 05:01:12] Старая новость (2026-09-17T22:14:33Z): Russo-Ukrainian war, day 1667: US House 
-[2026-09-20 05:01:12] Старая новость (2026-09-17T21:54:12Z): Thousands are starving in occupied Olesh
-[2026-09-20 05:01:12] Старая новость (2026-09-17T20:40:01Z): EU pledges €3.3 billion for Ukraine, von
-[2026-09-20 05:01:12] Старая новость (2026-09-17T20:01:28Z): Russia’s war has devastated Donetsk Obla
-[2026-09-20 05:01:12] Старая новость (2026-09-17T19:45:54Z): Belarus holds military drills around the
-[2026-09-20 05:01:12] Старая новость (2026-09-17T19:20:51Z): Russia kills captain of Tanzanian-flagge
-[2026-09-20 05:01:12] Старая новость (2026-09-17T19:11:13Z): “What Ukraine needs right now”: Poland t
-[2026-09-20 05:01:12] Старая новость (2026-09-17T18:35:03Z): Ukraine receives 252 bodies as repatriat
-[2026-09-20 05:01:12] Старая новость (2026-09-17T16:11:15Z): From the frontline to a rehab center: a 
 [2026-09-20 05:01:12] Старая новость (2026-09-17T16:01:56Z): Fire temporarily shuts part of Slovak am
 [2026-09-20 05:01:12] Старая новость (2026-09-17T15:44:16Z): No missiles intercepted again: Russia st
 [2026-09-20 05:01:12] Старая новость (2026-09-17T14:09:47Z): Ukraine strikes two Russian S-400 launch
@@ -2998,3 +2952,49 @@
 [2026-09-26 07:03:35] Пауза 60 секунд...
 [2026-09-26 07:04:36] sent_urls.txt обрезан: 304 -> 300
 [2026-09-26 07:04:36] === Блок ai_morning завершён ===
+[2026-09-26 10:01:26] Загружено 300 уже отправленных новостей
+[2026-09-26 10:01:26] === Запуск блока: midday (тест: False) ===
+[2026-09-26 10:01:26] Лента обновлений, пропускаю: CNN, MS NOW White House reporters denied
+[2026-09-26 10:01:26] Неизвестный источник (pff.com): NFL Week 3 Recap: Immediate fantasy foot
+[2026-09-26 10:01:26] Неизвестный источник (wtnh.com): Rainy and windy conditions across Connec
+[2026-09-26 10:01:26] Неизвестный источник (mmafighting.com): UFC BJJ 11 Results: Musumeci vs. Mitchel
+[2026-09-26 10:01:26] Неизвестный источник (phys.org): US-India satellite captures time-lapse v
+[2026-09-26 10:01:26] Пропускаю уже отправленную: How every senator voted on the Iran war powers res
+[2026-09-26 10:01:26] Неизвестный источник (variety.com): Dakota Johnson on Being in Taylor Swift’
+[2026-09-26 10:01:26] Заблокированный источник (sports.yahoo.com): Presidents Cup: Scottie Scheffler, Sam B
+[2026-09-26 10:01:26] Неизвестный источник (abc7.com): Super-sized El Niño could cause more tha
+[2026-09-26 10:01:26] Неизвестный источник (wane.com): Measles case confirmed in Allen County -
+[2026-09-26 10:01:26] Неизвестный источник (foxnews.com): Strokes nearly double among adults under
+[2026-09-26 10:01:26] Неизвестный источник (hollywoodreporter.com): Inside the Bombshell Article That Inspir
+[2026-09-26 10:01:26] Неизвестный источник (sheknows.com): King Charles II Allegedly Told Princess 
+[2026-09-26 10:01:26] Неизвестный источник (roadtovr.com): Meta Launches $1M Developer Competition 
+[2026-09-26 10:01:26] Неизвестный источник (indiewire.com): Paramount-WBD Merger Hits a Delay as Jud
+[2026-09-26 10:01:26] Неизвестный источник (wyff4.com): Officials raise awareness on new drug, m
+[2026-09-26 10:01:26] Неизвестный источник (investopedia.com): Stock Market Today: Indexes Decline Afte
+[2026-09-26 10:01:26] Неизвестный источник (spacenews.com): Isaacman says NASA ‘dodged a bullet’ wit
+[2026-09-26 10:01:26] Неизвестный источник (weather.com): Catch 5 planets and the Harvest Moon lig
+[2026-09-26 10:01:26] Старая новость (2026-09-24T07:25:00Z): Just one small serving of ultra-processe
+[2026-09-26 10:01:26] Старая новость (2026-09-23T23:32:12Z): Reference genomes and fossils revise bat
+[2026-09-26 10:01:26] Мировые новости: найдено 8 после фильтрации
+[2026-09-26 10:01:28] Редакторский отбор: выбраны позиции [2, 7, 3, 5]
+[2026-09-26 10:01:28] Обрабатываю: Pomp prevails over substance as Donald Trump hosts Xi Jinpin | https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25
+[2026-09-26 10:01:29] Полный текст получен (1050 символов)
+[2026-09-26 10:01:29] Попытка 1 для: Pomp prevails over substance as Donald T
+[2026-09-26 10:01:31] Успешно, получено 1396 символов
+[2026-09-26 10:01:31] Обрабатываю: Benjamin Netanyahu attacks Israel’s enemies and allies in UN | https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-is
+[2026-09-26 10:01:32] Полный текст получен (3000 символов)
+[2026-09-26 10:01:32] Попытка 1 для: Benjamin Netanyahu attacks Israel’s enem
+[2026-09-26 10:01:35] Успешно, получено 1662 символов
+[2026-09-26 10:01:35] Обрабатываю: Meloni government bans burqas, caps foreign students in Ital | https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas
+[2026-09-26 10:01:35] Полный текст получен (3000 символов)
+[2026-09-26 10:01:35] Попытка 1 для: Meloni government bans burqas, caps fore
+[2026-09-26 10:01:39] Успешно, получено 1618 символов
+[2026-09-26 10:01:39] Обрабатываю: Oracle on the hook to pay data centre investors even if site | https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25
+[2026-09-26 10:01:39] Полный текст получен (1060 символов)
+[2026-09-26 10:01:39] Попытка 1 для: Oracle on the hook to pay data centre in
+[2026-09-26 10:01:48] Успешно, получено 1091 символов
+[2026-09-26 10:01:51] Пауза 60 секунд...
+[2026-09-26 10:02:51] Пауза 60 секунд...
+[2026-09-26 10:03:52] Пауза 60 секунд...
+[2026-09-26 10:04:52] sent_urls.txt обрезан: 304 -> 300
+[2026-09-26 10:04:52] === Блок midday завершён ===
