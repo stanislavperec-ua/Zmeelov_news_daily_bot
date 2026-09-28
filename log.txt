@@ -1,62 +1,3 @@
-[2026-09-22 05:01:28] Старая новость (2026-09-18T21:56:24Z): Russo-Ukrainian war, day 1668: Thousands
-[2026-09-22 05:01:28] Старая новость (2026-09-18T19:26:37Z): Russia is using inaccurate missiles that
-[2026-09-22 05:01:28] Старая новость (2026-09-18T18:26:37Z): Russia paid a recruit to vandalize Londo
-[2026-09-22 05:01:28] Старая новость (2026-09-18T17:41:43Z): One machine handles 52% of a Russian oil
-[2026-09-22 05:01:28] Старая новость (2026-09-18T17:12:44Z): Russia plans ”accidental” drone strikes 
-[2026-09-22 05:01:28] Старая новость (2026-09-18T16:03:25Z): “A warning to companies that remain”: Ru
-[2026-09-22 05:01:28] Старая новость (2026-09-18T13:57:30Z): Drones hit Rostov-on-Don for the second 
-[2026-09-22 05:01:28] Харьков: новостей не найдено
-[2026-09-22 05:01:28] Обрабатываю: Ukraine fires over 1,000 drones at Russia, including ‘larges | https://apnews.com/article/ukraine-russia-war-drones-moscow-5f7889d027
-[2026-09-22 05:01:28] Попытка 1 для: Ukraine fires over 1,000 drones at Russi
-[2026-09-22 05:01:31] Успешно, получено 882 символов
-[2026-09-22 05:01:31] Обрабатываю: Early results show Russia's main Kremlin party dominating ti | https://apnews.com/article/russia-election-parliament-duma-putin-ukrai
-[2026-09-22 05:01:31] Попытка 1 для: Early results show Russia's main Kremlin
-[2026-09-22 05:01:33] Успешно, получено 946 символов
-[2026-09-22 05:01:33] Обрабатываю: US and China agree to dialogue on AI ahead of Trump-Xi meeti | https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25
-[2026-09-22 05:01:34] Полный текст получен (1049 символов)
-[2026-09-22 05:01:34] Попытка 1 для: US and China agree to dialogue on AI ahe
-[2026-09-22 05:01:39] Успешно, получено 1159 символов
-[2026-09-22 05:01:39] Обрабатываю: White House strips CNN of TV pool assignment as Trump’s pres | https://www.cnn.com/2026/09/20/media/cnn-trump-white-house-pool-ban
-[2026-09-22 05:01:39] Полный текст получен (3000 символов)
-[2026-09-22 05:01:39] Попытка 1 для: White House strips CNN of TV pool assign
-[2026-09-22 05:01:59] Успешно, получено 2086 символов
-[2026-09-22 05:02:02] Пауза 60 секунд...
-[2026-09-22 05:03:02] Пауза 60 секунд...
-[2026-09-22 05:04:03] Пауза 60 секунд...
-[2026-09-22 05:05:03] Обрабатываю: Parliament ready to convene extraordinary session to pass bi | https://www.ukrinform.net/rubric-polytics/4166454-parliament-ready-to-
-[2026-09-22 05:05:05] Полный текст получен (1996 символов)
-[2026-09-22 05:05:05] Попытка 1 для: Parliament ready to convene extraordinar
-[2026-09-22 05:05:07] Успешно, получено 1641 символов
-[2026-09-22 05:05:07] Обрабатываю: Ukraine, Romania to strengthen cooperation to ensure reliabl | https://www.ukrinform.net/rubric-economy/4166267-ukraine-romania-to-st
-[2026-09-22 05:05:09] Полный текст получен (1393 символов)
-[2026-09-22 05:05:09] Попытка 1 для: Ukraine, Romania to strengthen cooperati
-[2026-09-22 05:05:12] Успешно, получено 1612 символов
-[2026-09-22 05:05:15] Пауза 60 секунд...
-[2026-09-22 05:06:15] sent_urls.txt обрезан: 306 -> 300
-[2026-09-22 05:06:15] === Блок morning завершён ===
-[2026-09-22 07:01:15] Загружено 300 уже отправленных новостей
-[2026-09-22 07:01:15] === Запуск блока: ai_morning (тест: False) ===
-[2026-09-22 07:01:15] Заблокированный источник (prnewswire.com): Nirvik Singh to Join Monks International
-[2026-09-22 07:01:15] Заблокированный источник (prnewswire.com): Nirvik Singh to Join Monks International
-[2026-09-22 07:01:15] Неизвестный источник (financialpost.com): iPronics and Barcelona Supercomputing Ce
-[2026-09-22 07:01:15] Неизвестный источник (wwd.com): Culture Club Milan, A to C
-[2026-09-22 07:01:15] Неизвестный источник (archdaily.com): Escaping Systems: Architecture Beyond Fa
-[2026-09-22 07:01:15] Нет фото: An interpretable machine learning framew
-[2026-09-22 07:01:15] Не про ИИ, пропускаю: Interpreting human genetic variation at atomic res
-[2026-09-22 07:01:15] Неизвестный источник (siliconangle.com): Trump says he’s planning to create an ‘A
-[2026-09-22 07:01:15] Заблокированный источник (prnewswire.com): SparkLabs and Mirae Asset Launch a Ventu
-[2026-09-22 07:01:15] Неизвестный источник (siliconangle.com): Pacing AI won’t solve the governance gap
-[2026-09-22 07:01:15] Неизвестный источник (siliconangle.com): Dynamic model routing will follow the pa
-[2026-09-22 07:01:15] Неизвестный источник (siliconangle.com): Why AI inference must become a commodity
-[2026-09-22 07:01:15] Неизвестный источник (who.int): Global Digital Collaboration Conference 
-[2026-09-22 07:01:15] Неизвестный источник (spacedaily.com): Modern communications satellites receive
-[2026-09-22 07:01:15] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
-[2026-09-22 07:01:15] Неизвестный источник (business-standard.com): UPI pads up at the crease: From free pla
-[2026-09-22 07:01:15] Неизвестный источник (business-standard.com): Manufacturing: No skills, no scale
-[2026-09-22 07:01:15] Неизвестный источник (variety.com): Aaron Sorkin Says Jeremy Strong Treated 
-[2026-09-22 07:01:15] Неизвестный источник (timesofindia.indiatimes.com): Cheap drugs, fake labels, non-functional
-[2026-09-22 07:01:15] Неизвестный источник (barchart.com): Inside Ciena’s 2029 Roadmap: Ambitious T
-[2026-09-22 07:01:15] Неизвестный источник (spacedaily.com): Earth’s centre of mass wanders several m
 [2026-09-22 07:01:15] Неизвестный источник (blogdoandroid.com): AI adoption slows hiring: The real impac
 [2026-09-22 07:01:15] Неизвестный источник (economictimes.indiatimes.com): Delhi Metro International Limited to mak
 [2026-09-22 07:01:15] Неизвестный источник (barchart.com): Dear Tesla Stock Fans, Mark Your Calenda
@@ -2998,3 +2939,62 @@
 [2026-09-28 05:06:03] Пауза 60 секунд...
 [2026-09-28 05:07:03] sent_urls.txt обрезан: 307 -> 300
 [2026-09-28 05:07:03] === Блок morning завершён ===
+[2026-09-28 07:01:22] Загружено 300 уже отправленных новостей
+[2026-09-28 07:01:22] === Запуск блока: ai_morning (тест: False) ===
+[2026-09-28 07:01:22] Неизвестный источник (skepticalscience.com): 2026 SkS Weekly Climate Change & Global 
+[2026-09-28 07:01:22] Заблокированный источник (naturalnews.com): Australian PM: OpenAI Agent Accessed Cou
+[2026-09-28 07:01:22] Неизвестный источник (institute.deepmind.com): Artificial symbiotic intelligence: Agent
+[2026-09-28 07:01:22] Заблокированный источник (dailymail.com): Fresh twist as Richard Marles reveals he
+[2026-09-28 07:01:22] Нет фото: agentperf-local added to PyPI
+[2026-09-28 07:01:22] Неизвестный источник (hastingstribune.com): AP Technology SummaryBrief at 7:18 p.m. 
+[2026-09-28 07:01:22] Заблокированный источник (thegatewaypundit.com): WATCH: Colombia’s New President Personal
+[2026-09-28 07:01:22] Неизвестный источник (financialpost.com): UAE Opens 15th UN Congress on Crime Prev
+[2026-09-28 07:01:22] Неизвестный источник (kten.com): Rogue OpenAI agents targeted three separ
+[2026-09-28 07:01:22] Неизвестный источник (screenrant.com): Andrew Garfield’s Best Movie Is Streamin
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Europe's data centers may drive digital sovereignt
+[2026-09-28 07:01:22] Неизвестный источник (foxnews.com): Cruz says winning AI race against China 
+[2026-09-28 07:01:22] Неизвестный источник (wnd.com): Big Tech can cut methane … cheaply!
+[2026-09-28 07:01:22] Неизвестный источник (bleedingcool.com): Gambit: Wanted #3 Preview: Remy Gets a N
+[2026-09-28 07:01:22] Пропускаю уже отправленную: Rogue OpenAI agents targeted three separate US gov
+[2026-09-28 07:01:22] Неизвестный источник (siliconangle.com): CoreWeave’s next test: From GPU scarcity
+[2026-09-28 07:01:22] Неизвестный источник (flm.kuber.studio): Show HN: Fly Language Model
+[2026-09-28 07:01:22] Неизвестный источник (democratandchronicle.com): Red Wings championship celebration set f
+[2026-09-28 07:01:22] Неизвестный источник (wpdash.medianewsgroup.com): Why you should work out loud
+[2026-09-28 07:01:22] Неизвестный источник (yanisvaroufakis.eu): The Marxist Case for the Technofeudal Hy
+[2026-09-28 07:01:22] Неизвестный источник (crooksandliars.com): Epstein’s Financial Web: Missing Links C
+[2026-09-28 07:01:22] Неизвестный источник (openthemagazine.com): India’s 2026-27 Health Budget: Massive B
+[2026-09-28 07:01:22] Нет фото: security-knowledge-os added to PyPI
+[2026-09-28 07:01:22] Неизвестный источник (open-electronics.org): Face-tracking robot with Arduino UNO Q
+[2026-09-28 07:01:22] Нет фото: tacit-qda 1.1.1
+[2026-09-28 07:01:22] AI новости: 0 с доверенных источников
+[2026-09-28 07:01:22] Доверенных AI-источников мало, добираю из остальных
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: 2026 SkS Weekly Climate Change & Global Warming Ne
+[2026-09-28 07:01:22] Заблокированный источник (naturalnews.com): Australian PM: OpenAI Agent Accessed Cou
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Artificial symbiotic intelligence: Agents, AGI and
+[2026-09-28 07:01:22] Заблокированный источник (dailymail.com): Fresh twist as Richard Marles reveals he
+[2026-09-28 07:01:22] Нет фото: agentperf-local added to PyPI
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: AP Technology SummaryBrief at 7:18 p.m. EDT
+[2026-09-28 07:01:22] Заблокированный источник (thegatewaypundit.com): WATCH: Colombia’s New President Personal
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: UAE Opens 15th UN Congress on Crime Prevention and
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Andrew Garfield’s Best Movie Is Streaming For Free
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Europe's data centers may drive digital sovereignt
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Big Tech can cut methane … cheaply!
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Gambit: Wanted #3 Preview: Remy Gets a New Queen o
+[2026-09-28 07:01:22] Пропускаю уже отправленную: Rogue OpenAI agents targeted three separate US gov
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: CoreWeave’s next test: From GPU scarcity to a dura
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Show HN: Fly Language Model
+[2026-09-28 07:01:22] Спорт, пропускаю: Red Wings championship celebration set f
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Why you should work out loud
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: The Marxist Case for the Technofeudal Hypothesis (
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Epstein’s Financial Web: Missing Links Congress Ne
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: India’s 2026-27 Health Budget: Massive Boost for R
+[2026-09-28 07:01:22] Нет фото: security-knowledge-os added to PyPI
+[2026-09-28 07:01:22] Не про ИИ, пропускаю: Face-tracking robot with Arduino UNO Q
+[2026-09-28 07:01:22] Нет фото: tacit-qda 1.1.1
+[2026-09-28 07:01:22] AI новости: 1 кандидатов после фильтрации
+[2026-09-28 07:01:22] Обрабатываю: Rogue OpenAI agents targeted three separate US government we | https://www.kten.com/news/business/rogue-openai-agents-targeted-three-
+[2026-09-28 07:01:22] Полный текст получен (3000 символов)
+[2026-09-28 07:01:22] Попытка 1 для: Rogue OpenAI agents targeted three separ
+[2026-09-28 07:01:25] Успешно, получено 1568 символов
+[2026-09-28 07:01:28] sent_urls.txt обрезан: 301 -> 300
+[2026-09-28 07:01:28] === Блок ai_morning завершён ===
