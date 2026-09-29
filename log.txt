@@ -1,129 +1,3 @@
-[2026-09-23 07:01:15] Заблокированный источник (nypost.com): AI companies will have to register in NY
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Meta, tech stocks push indexes higher as oil price
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: How Western tech helps funnel recruits into Russia
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Asiana Fund, JC Capital launch ₹1,000 cr advanced 
-[2026-09-23 07:01:15] Заблокированный источник (nypost.com): NYC’s Founders School ‘guarantees’ stude
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Carter Stubbs named Institute auditor
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): INSEAD AI Forum Americas debates AI's im
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Frontiers | The impact of digital and E-health lit
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Ghost of a Ghost #1 Preview: Spy Gains Groovy Powe
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 15
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: On theCUBE Pod: Dreamforce unveils the agentic dre
-[2026-09-23 07:01:15] Заблокированный источник (marketbeat.com): Capri Sees Second-Half Growth as Michael
-[2026-09-23 07:01:15] Пропускаю уже отправленную: AWS debuts Strands Harness, an open-source AI agen
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Googlebook brings premium intelligence to a lightw
-[2026-09-23 07:01:15] Пропускаю уже отправленную: From Love Letters to AI Agents: Cybersecurity’s Ev
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Get Caught Up in The Further Mis-Adventures of Cli
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Portainer Cuts the Cord Between Its Free and Paid 
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Cloudflare Introduces the Agent Development Lifecy
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): Edge AI Software Market worth $120.31 bi
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Trichinella spiralis galectin disrupts gut epithel
-[2026-09-23 07:01:15] AI новости: 13 кандидатов после фильтрации
-[2026-09-23 07:01:17] Редакторский отбор: выбраны позиции [11, 6, 1, 7]
-[2026-09-23 07:01:17] Обрабатываю: After OpenAI Cyberattack, UN Panel Warns Current Guardrails  | https://www.commondreams.org/news/united-nations-and-ai
-[2026-09-23 07:01:17] Текст не совпадает с заголовком, беру описание: https://www.commondreams.org/news/united-nations-and-ai
-[2026-09-23 07:01:17] Попытка 1 для: After OpenAI Cyberattack, UN Panel Warns
-[2026-09-23 07:01:19] Успешно, получено 890 символов
-[2026-09-23 07:01:19] Обрабатываю: OpenAI Calls for US to Lead Global AI Standards. Will China  | https://gizmodo.com/openai-calls-for-us-to-lead-global-ai-standards-wi
-[2026-09-23 07:01:20] Попытка 1 для: OpenAI Calls for US to Lead Global AI St
-[2026-09-23 07:01:21] Успешно, получено 895 символов
-[2026-09-23 07:01:21] Обрабатываю: Large-scale esophageal cancer screening through noncontrast  | https://www.nature.com/articles/s41591-026-04656-4
-[2026-09-23 07:01:23] Полный текст получен (3000 символов)
-[2026-09-23 07:01:23] Попытка 1 для: Large-scale esophageal cancer screening 
-[2026-09-23 07:01:28] Успешно, получено 2052 символов
-[2026-09-23 07:01:28] Обрабатываю: Bank of Canada developing new AI model to help with economic | https://financialpost.com/news/economy/bank-of-canada-ai-model-help-ec
-[2026-09-23 07:01:28] Полный текст получен (3000 символов)
-[2026-09-23 07:01:28] Попытка 1 для: Bank of Canada developing new AI model t
-[2026-09-23 07:01:31] Успешно, получено 1702 символов
-[2026-09-23 07:01:34] Пауза 60 секунд...
-[2026-09-23 07:02:35] Пауза 60 секунд...
-[2026-09-23 07:03:35] Пауза 60 секунд...
-[2026-09-23 07:04:35] sent_urls.txt обрезан: 304 -> 300
-[2026-09-23 07:04:35] === Блок ai_morning завершён ===
-[2026-09-23 10:01:12] Загружено 300 уже отправленных новостей
-[2026-09-23 10:01:12] === Запуск блока: midday (тест: False) ===
-[2026-09-23 10:01:12] Заблокированный источник (finance.yahoo.com): Stock market today: Nasdaq, Dow and S&P 
-[2026-09-23 10:01:12] Неизвестный источник (espn.com): Aaron Donald's return fires up Rams in r
-[2026-09-23 10:01:12] Неизвестный источник (sciencedaily.com): Brain scans reveal a possible cause of l
-[2026-09-23 10:01:12] Неизвестный источник (kmbc.com): 8th Circuit rules Missouri must use 2025
-[2026-09-23 10:01:12] Неизвестный источник (deadline.com): Post-Merger Paramount May Overdeliver On
-[2026-09-23 10:01:12] Неизвестный источник (9to5mac.com): watchOS 27.2 beta 2 brings the App Switc
-[2026-09-23 10:01:12] Неизвестный источник (hola.com): Meghan Markle steps out with Ellen DeGen
-[2026-09-23 10:01:12] Пропускаю уже отправленную: CNBC's The China Connection newsletter: Five thing
-[2026-09-23 10:01:12] Неизвестный источник (9to5mac.com): iOS 27.2 beta 2 reveals new details abou
-[2026-09-23 10:01:12] Неизвестный источник (motorsport.com): F1 confirms new Hot Wheels "Infinite Rus
-[2026-09-23 10:01:12] Неизвестный источник (bleacherreport.com): Gable Steveson KO Gets New Trading Card 
-[2026-09-23 10:01:12] Неизвестный источник (foxnews.com): Cindy Crawford’s son Presley Gerber said
-[2026-09-23 10:01:12] Неизвестный источник (phys.org): Early Mars rocks reveal at least three s
-[2026-09-23 10:01:12] Неизвестный источник (inquirer.com): Pennsylvania measles cases near 800 in o
-[2026-09-23 10:01:12] Неизвестный источник (medicalxpress.com): When the eyes play tricks, the brain bui
-[2026-09-23 10:01:12] Неизвестный источник (thecut.com): Taylor Frankie Paul Is Done With ‘SLOMW’
-[2026-09-23 10:01:12] Неизвестный источник (phys.org): End of humanity? Blow‑by‑blow account of
-[2026-09-23 10:01:12] Старая новость (2026-09-21T09:00:20Z): Her son was dying, but his rare cancer m
-[2026-09-23 10:01:12] Старая новость (2026-09-17T18:25:17Z): A noncontiguous code for RNA-guided DNA 
-[2026-09-23 10:01:12] Мировые новости: найдено 10 после фильтрации
-[2026-09-23 10:01:13] Редакторский отбор: выбраны позиции [6, 1, 8, 3]
-[2026-09-23 10:01:13] Обрабатываю: Japan: Four dead as Typhoon Dujuan lashes Tokyo and surround | https://www.bbc.com/news/articles/cm3wj2lexl97o
-[2026-09-23 10:01:13] Полный текст получен (3000 символов)
-[2026-09-23 10:01:13] Попытка 1 для: Japan: Four dead as Typhoon Dujuan lashe
-[2026-09-23 10:01:17] Успешно, получено 1759 символов
-[2026-09-23 10:01:17] Обрабатываю: ‘We need to stop the contagion’: GOP ramps up midterms defen | https://www.politico.com/news/2026/09/22/republicans-senate-house-map-
-[2026-09-23 10:01:17] Попытка 1 для: ‘We need to stop the contagion’: GOP ram
-[2026-09-23 10:01:19] Успешно, получено 967 символов
-[2026-09-23 10:01:19] Обрабатываю: Trump seeks fertilizer deal with Russia ally Belarus amid Ca | https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertili
-[2026-09-23 10:01:31] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/09/21/trump-see
-[2026-09-23 10:01:31] Попытка 1 для: Trump seeks fertilizer deal with Russia 
-[2026-09-23 10:01:34] Успешно, получено 840 символов
-[2026-09-23 10:01:34] Обрабатываю: Flights halted at several major airports in Northeast due to | https://www.washingtonpost.com/transportation/2026/09/21/flights-halte
-[2026-09-23 10:01:46] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/transportation/2026/09/21/fli
-[2026-09-23 10:01:46] Попытка 1 для: Flights halted at several major airports
-[2026-09-23 10:01:48] Успешно, получено 931 символов
-[2026-09-23 10:01:51] Пауза 60 секунд...
-[2026-09-23 10:02:51] Пауза 60 секунд...
-[2026-09-23 10:03:52] Пауза 60 секунд...
-[2026-09-23 10:04:52] sent_urls.txt обрезан: 304 -> 300
-[2026-09-23 10:04:52] === Блок midday завершён ===
-[2026-09-23 15:01:17] Загружено 300 уже отправленных новостей
-[2026-09-23 15:01:17] === Запуск блока: evening (тест: False) ===
-[2026-09-23 15:01:17] Лента обновлений, пропускаю: Live updates: Trump arrives at UN Genera
-[2026-09-23 15:01:17] Неизвестный источник (variety.com): Hayden Panettiere’s Cause of Death Revea
-[2026-09-23 15:01:17] Неизвестный источник (nbcsports.com): PFT’s Week 3 2026 NFL power rankings - N
-[2026-09-23 15:01:17] Заблокированный источник (sports.yahoo.com): NFL Week 3 betting: 5 biggest storylines
-[2026-09-23 15:01:17] Неизвестный источник (stocktwits.com): Meta’s Muse Could Become Most Widely Use
-[2026-09-23 15:01:17] Заблокированный источник (finance.yahoo.com): With new Macs, Apple aims to take on Mic
-[2026-09-23 15:01:17] Лента обновлений, пропускаю: Stock futures are little changed after S
-[2026-09-23 15:01:17] Неизвестный источник (sciencealert.com): 150,000 Tons of Radioactive Waste Were D
-[2026-09-23 15:01:17] Неизвестный источник (6abc.com): Travel delays linger after equipment out
-[2026-09-23 15:01:17] Неизвестный источник (espn.com): Aaron Donald's return fires up Rams in r
-[2026-09-23 15:01:17] Неизвестный источник (stocktwits.com): VKTX, GPCR, ALT Stocks Rise: Novo Nordis
-[2026-09-23 15:01:17] Неизвестный источник (deadline.com): Post-Merger Paramount May Overdeliver On
-[2026-09-23 15:01:17] Неизвестный источник (usatoday.com): Dolly Parton's nephew reportedly fired a
-[2026-09-23 15:01:17] Неизвестный источник (macrumors.com): Apple Seeds Second macOS Golden Gate 27.
-[2026-09-23 15:01:17] Неизвестный источник (katu.com): Recognizing early signs of Alzheimer's a
-[2026-09-23 15:01:17] Неизвестный источник (space.com): Scientists track 27 years of a supermass
-[2026-09-23 15:01:17] Старая новость (2026-09-17T18:25:17Z): A noncontiguous code for RNA-guided DNA 
-[2026-09-23 15:01:17] Старая новость (2026-09-17T18:00:42Z): Real-time quantum jump in sound observed
-[2026-09-23 15:01:17] Мировые новости: найдено 10 после фильтрации
-[2026-09-23 15:01:18] Редакторский отбор: выбраны позиции [9, 4, 1, 3]
-[2026-09-23 15:01:20] RSS Ukrinform: 30 записей
-[2026-09-23 15:01:21] RSS Ukrinform: 30 записей
-[2026-09-23 15:01:21] Пропускаю уже отправленную: Russian drone attack damages warehouse, hits gas s
-[2026-09-23 15:01:21] RSS Euromaidan Press: 29 записей
-[2026-09-23 15:01:21] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-23 15:01:21] Заблокированный источник (biztoc.com): Trump: Ukraine deal to come quicker than
-[2026-09-23 15:01:21] Заблокированный источник (biztoc.com): Zelensky claims Ukraine struck two Russi
-[2026-09-23 15:01:21] Нет фото: New migrant caravan starts in Honduras..
-[2026-09-23 15:01:21] Нет фото: Army Flight Surgeon Drops Bombshell in F
-[2026-09-23 15:01:21] Нет фото: FOX NEWS BOOKS SET TO PUBLISH SEQUEL BY 
-[2026-09-23 15:01:21] Заблокированный источник (dailymail.com): Hayden Panettiere's cause of death revea
-[2026-09-23 15:01:21] Нет фото: Spanberger sparks outrage after sneakily
-[2026-09-23 15:01:21] Заблокированный источник (rt.com): West has ‘misunderstood’ depth of India-
-[2026-09-23 15:01:21] Заблокированный источник (biztoc.com): Watch: WSJ's Emma Tucker Interviews Ukra
-[2026-09-23 15:01:21] Заблокированный источник (rt.com): You still don’t have the cards: Is Zelen
-[2026-09-23 15:01:21] Заблокированный источник (dailymail.com): Trump explodes at female CNN reporter as
-[2026-09-23 15:01:21] Нет фото: 'Trump People Out!': Somali Daycare Scan
-[2026-09-23 15:01:21] Нет фото: Trump to address U.N. General Assembly a
-[2026-09-23 15:01:21] Нет фото: Railroad work crews cut fiber optic cabl
 [2026-09-23 15:01:21] Нет фото: Kamala’s Inner Circle Thinks She’s Bowin
 [2026-09-23 15:01:21] Нет фото: Men In Black International 2019 2160P UH
 [2026-09-23 15:01:21] Внутренний дубль: Ukrainian border guards evacuate 15 crew members f
@@ -2998,3 +2872,129 @@
 [2026-09-29 10:03:29] Пауза 60 секунд...
 [2026-09-29 10:04:29] sent_urls.txt обрезан: 304 -> 300
 [2026-09-29 10:04:29] === Блок midday завершён ===
+[2026-09-29 15:01:18] Загружено 300 уже отправленных новостей
+[2026-09-29 15:01:18] === Запуск блока: evening (тест: False) ===
+[2026-09-29 15:01:18] Заблокированный источник (finance.yahoo.com): Nvidia announces jaw-dropping $150 billi
+[2026-09-29 15:01:18] Лента обновлений, пропускаю: Five men arrested near RAF Fairford on s
+[2026-09-29 15:01:18] Спорт, пропускаю: A wild NFL Sunday saved its craziest sev
+[2026-09-29 15:01:18] Неизвестный источник (usatoday.com): Biggest VMAs moments, from Madonna's per
+[2026-09-29 15:01:18] Неизвестный источник (foxnews.com): NFL Week 3 Sunday takeaways: Patriots ha
+[2026-09-29 15:01:18] Неизвестный источник (space.com): What time will SpaceX launch its 1st orb
+[2026-09-29 15:01:18] Неизвестный источник (bgr.com): The Xbox Series X Can Now Play PlayStati
+[2026-09-29 15:01:18] Заблокированный источник (nypost.com): The dangerous assumption people make abo
+[2026-09-29 15:01:18] Лента обновлений, пропускаю: Live Updates: Iran says Trump must choos
+[2026-09-29 15:01:18] Неизвестный источник (gizmodo.com): The Apple Next Vision Pro Is Reportedly 
+[2026-09-29 15:01:18] Пропускаю уже отправленную: Nvidia releases software platform to stop AI agent
+[2026-09-29 15:01:18] Неизвестный источник (foxnews.com): Sen Kennedy says no living politicians s
+[2026-09-29 15:01:18] Спорт, пропускаю: AEW wrestling star Benjamin Satterley, k
+[2026-09-29 15:01:18] Неизвестный источник (variety.com): Taylor Swift Premieres Star-Filled 'Pati
+[2026-09-29 15:01:18] Неизвестный источник (foxnews.com): Pope Leo visits site of miracle cures, m
+[2026-09-29 15:01:18] Старая новость (2026-09-27T13:11:00Z): Powerful nor’easter floods Northeast, le
+[2026-09-29 15:01:18] Старая новость (2026-09-27T12:39:00Z): Canadian study says Earth's core is quie
+[2026-09-29 15:01:18] Старая новость (2026-09-27T12:00:00Z): Googlebooks might be the real deal - The
+[2026-09-29 15:01:18] Старая новость (2026-09-27T10:53:00Z): A scientist turned an $80 motel room int
+[2026-09-29 15:01:18] Мировые новости: найдено 12 после фильтрации
+[2026-09-29 15:01:20] Редакторский отбор: выбраны позиции [1, 2, 6, 9]
+[2026-09-29 15:01:21] RSS Ukrinform: 30 записей
+[2026-09-29 15:01:22] RSS Ukrinform: 30 записей
+[2026-09-29 15:01:23] RSS Euromaidan Press: 29 записей
+[2026-09-29 15:01:23] Старая новость (2026-09-27T14:43:15Z): New Vivaldi tactic: Ukraine’s ground rob
+[2026-09-29 15:01:23] Старая новость (2026-09-27T14:27:06Z): Swiss voters crush neutrality initiative
+[2026-09-29 15:01:23] Старая новость (2026-09-27T13:15:54Z): Ukraine’s jet-drone kill rate just hit 5
+[2026-09-29 15:01:23] Старая новость (2026-09-27T06:27:22Z): Russo-Ukrainian war, day 1676: Zelenskyy
+[2026-09-29 15:01:23] Старая новость (2026-09-26T16:21:18Z): Ukraine destroys record 76 Russian air-d
+[2026-09-29 15:01:23] Нет фото: Asked if Ukraine would send troops to de
+[2026-09-29 15:01:23] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-09-29 15:01:23] Нет фото: Nvidia releases software platform to sto
+[2026-09-29 15:01:23] Заблокированный источник (sputnikglobe.com): Ukraine Sends Battle-Hardened Foreign Co
+[2026-09-29 15:01:23] Нет фото: Why South Korea is demanding an apology 
+[2026-09-29 15:01:23] Заблокированный источник (prnewswire.com): American Investors See NATO's Eastern Fl
+[2026-09-29 15:01:23] Заблокированный источник (dailymail.com): Trump does major U-turn on oil export ba
+[2026-09-29 15:01:23] Спорт, пропускаю: How does Cas work and why can't Man City
+[2026-09-29 15:01:23] Заблокированный источник (rt.com): Trump ‘very seriously’ mulling diesel ex
+[2026-09-29 15:01:23] Нет фото: [4K] Watch the FIRST Orbital Starship Mi
+[2026-09-29 15:01:23] Нет фото: PAW Patrol The Dino Movie 2026 720P WEB 
+[2026-09-29 15:01:23] Нет фото: Michael Hudson: A Clean Slate – How the 
+[2026-09-29 15:01:23] Нет фото: Ukrainian forces advance in key eastern 
+[2026-09-29 15:01:23] Заблокированный источник (rt.com): Moscow responds to Swiss neutrality refe
+[2026-09-29 15:01:23] Заблокированный источник (biztoc.com): Zelensky urges all-out pressure on Russi
+[2026-09-29 15:01:23] Заблокированный источник (nypost.com): Russian drones hammer apartments, office
+[2026-09-29 15:01:23] Нет фото: Russian drones hammer apartments, office
+[2026-09-29 15:01:23] Нет фото: OpenAI Learns Its Tech Probed Another Cy
+[2026-09-29 15:01:23] Заблокированный источник (rt.com): Ukraine admits failure to plug $27 bn de
+[2026-09-29 15:01:23] Заблокированный источник (nypost.com): South Korea fumes at Ukraine after Zelen
+[2026-09-29 15:01:23] Нет фото: Ketanji Brown Jackson Throws a Fit As Su
+[2026-09-29 15:01:23] Внутренний дубль: Drone attack damages warehouse and house in Kyiv r
+[2026-09-29 15:01:23] Внутренний дубль: Warheads of two ballistic missiles neutralized nea
+[2026-09-29 15:01:23] Внутренний дубль: Rescue operations conclude in Kharkiv after Russia
+[2026-09-29 15:01:23] Внутренний дубль: Russian attack damages specialized civilian equipm
+[2026-09-29 15:01:23] Внутренний дубль: Industrial facility damaged by falling debris from
+[2026-09-29 15:01:23] Внутренний дубль: Russian attacks kill 12, injure 200 in Kyiv over p
+[2026-09-29 15:01:23] Внутренний дубль: DM Khmara postpones visits to Germany, Norway due 
+[2026-09-29 15:01:23] Внутренний дубль: Kyiv-Pasazhyrskyi station depot, data centers, bus
+[2026-09-29 15:01:23] Внутренний дубль: Taras Shevchenko Museum damaged in Russian attack 
+[2026-09-29 15:01:23] Внутренний дубль: Possible drone debris found in Romania
+[2026-09-29 15:01:23] Внутренний дубль: Ukrainian Defense Forces strike Kasta radar, Russi
+[2026-09-29 15:01:23] Внутренний дубль: Russians damage 22 sites in five districts of Kyiv
+[2026-09-29 15:01:23] Внутренний дубль: Russian forces strike railway infrastructure facil
+[2026-09-29 15:01:23] Внутренний дубль: Russian attacks on Odesa leave eight injured, infr
+[2026-09-29 15:01:23] Внутренний дубль: Russian attack on Kyiv: Buildings damaged in two d
+[2026-09-29 15:01:23] Внутренний дубль: War update: 213 combat clashes over past day
+[2026-09-29 15:01:23] Внутренний дубль: Russian attacks continue: ADF neutralizes one anti
+[2026-09-29 15:01:23] Внутренний дубль: Russian drone attacks continue in Kyiv as debris s
+[2026-09-29 15:01:23] Внутренний дубль: Russian KAB strikes, drone attacks and mortar fire
+[2026-09-29 15:01:23] Внутренний дубль: Russian forces lose 1,440 soldiers and two air def
+[2026-09-29 15:01:23] Украинские новости: найдено 68 после фильтрации
+[2026-09-29 15:01:27] Редакторский отбор: выбраны позиции [7, 14]
+[2026-09-29 15:01:27] NewsAPI (Харьков, все издания): пришло 14 статей
+[2026-09-29 15:01:28] RSS Ukrinform: 30 записей
+[2026-09-29 15:01:29] RSS Ukrinform: 30 записей
+[2026-09-29 15:01:29] RSS Euromaidan Press: 29 записей
+[2026-09-29 15:01:29] Заблокированный источник (nypost.com): Russian drones hammer apartments, office
+[2026-09-29 15:01:29] Нет фото: Ukraine Reports Deadly Russian Air Strik
+[2026-09-29 15:01:29] Нет фото: Ukraine Sends Battle-Hardened Foreign Co
+[2026-09-29 15:01:29] Заблокированный источник (dailymail.com): Russian drone slams into Kyiv's National
+[2026-09-29 15:01:29] Нет фото: Observation of Nuclear Suppression in Co
+[2026-09-29 15:01:29] Заблокированный источник (biztoc.com): Russia destroys 6 radar stations in Khar
+[2026-09-29 15:01:29] Заблокированный источник (biztoc.com): Russian strikes injure at least 22 in Kh
+[2026-09-29 15:01:29] Старая новость (2026-09-27T14:43:15Z): New Vivaldi tactic: Ukraine’s ground rob
+[2026-09-29 15:01:29] Старая новость (2026-09-27T14:27:06Z): Swiss voters crush neutrality initiative
+[2026-09-29 15:01:29] Старая новость (2026-09-27T13:15:54Z): Ukraine’s jet-drone kill rate just hit 5
+[2026-09-29 15:01:29] Старая новость (2026-09-27T06:27:22Z): Russo-Ukrainian war, day 1676: Zelenskyy
+[2026-09-29 15:01:29] Старая новость (2026-09-26T16:21:18Z): Ukraine destroys record 76 Russian air-d
+[2026-09-29 15:01:29] Нет фото: Asked if Ukraine would send troops to de
+[2026-09-29 15:01:29] Внутренний дубль: Rescue operations conclude in Kharkiv after Russia
+[2026-09-29 15:01:29] Харьков: найдена новость: Russian strikes on Kyiv kills 3 as Ukraine targets
+[2026-09-29 15:01:29] Обрабатываю: Saudi Arabia’s Crucial Oil Pipeline Starts Exports After Rep | https://www.bloomberg.com/news/articles/2026-09-28/saudi-arabia-s-cruc
+[2026-09-29 15:01:29] Попытка 1 для: Saudi Arabia’s Crucial Oil Pipeline Star
+[2026-09-29 15:01:32] Успешно, получено 681 символов
+[2026-09-29 15:01:32] Обрабатываю: Congo Ebola outbreak tops 8,000 confirmed cases as disease r | https://apnews.com/article/congo-ebola-outbreak-virus-3e3b17dca67b9637
+[2026-09-29 15:01:32] Попытка 1 для: Congo Ebola outbreak tops 8,000 confirme
+[2026-09-29 15:01:35] Успешно, получено 786 символов
+[2026-09-29 15:01:35] Обрабатываю: U.S., China to lower tariffs on $60 billion of goods. Here's | https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meetin
+[2026-09-29 15:01:35] Полный текст получен (3000 символов)
+[2026-09-29 15:01:35] Попытка 1 для: U.S., China to lower tariffs on $60 bill
+[2026-09-29 15:01:40] Успешно, получено 1643 символов
+[2026-09-29 15:01:40] Обрабатываю: Two mass shootings in South Africa leave 27 dead | https://www.bbc.com/news/articles/ck5ywnp075d1o
+[2026-09-29 15:01:40] Полный текст получен (2988 символов)
+[2026-09-29 15:01:40] Попытка 1 для: Two mass shootings in South Africa leave
+[2026-09-29 15:01:43] Успешно, получено 1481 символов
+[2026-09-29 15:01:47] Пауза 60 секунд...
+[2026-09-29 15:02:47] Пауза 60 секунд...
+[2026-09-29 15:03:48] Пауза 60 секунд...
+[2026-09-29 15:04:49] Обрабатываю: Ukraine confirms 20,000+ instances of illegal deportation an | https://www.ukrinform.net/rubric-society/4169199-ukraine-confirms-2000
+[2026-09-29 15:04:50] Полный текст получен (2349 символов)
+[2026-09-29 15:04:50] Попытка 1 для: Ukraine confirms 20,000+ instances of il
+[2026-09-29 15:04:53] Успешно, получено 1691 символов
+[2026-09-29 15:04:53] Обрабатываю: Russian attacks kill 12, injure 200 in Kyiv over past week | https://www.ukrinform.net/rubric-ato/4169157-russian-attacks-kill-12-i
+[2026-09-29 15:04:54] Полный текст получен (1165 символов)
+[2026-09-29 15:04:54] Попытка 1 для: Russian attacks kill 12, injure 200 in K
+[2026-09-29 15:04:56] Успешно, получено 1338 символов
+[2026-09-29 15:04:56] Обрабатываю: Russian strikes on Kyiv kills 3 as Ukraine targets oil, mili | https://timesofindia.indiatimes.com/world/europe/russian-strikes-on-ky
+[2026-09-29 15:04:57] Полный текст получен (1820 символов)
+[2026-09-29 15:04:57] Попытка 1 для: Russian strikes on Kyiv kills 3 as Ukrai
+[2026-09-29 15:04:59] Успешно, получено 1419 символов
+[2026-09-29 15:05:02] Пауза 60 секунд...
+[2026-09-29 15:06:03] Пауза 60 секунд...
+[2026-09-29 15:07:03] sent_urls.txt обрезан: 307 -> 300
+[2026-09-29 15:07:03] === Блок evening завершён ===
