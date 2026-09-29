@@ -1,41 +1,3 @@
-[2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): On theCUBE Pod: Dreamforce unveils the a
-[2026-09-23 07:01:15] Заблокированный источник (marketbeat.com): Capri Sees Second-Half Growth as Michael
-[2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): AWS debuts Strands Harness, an open-sour
-[2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): Googlebook brings premium intelligence t
-[2026-09-23 07:01:15] Неизвестный источник (blogs.cisco.com): From Love Letters to AI Agents: Cybersec
-[2026-09-23 07:01:15] Неизвестный источник (vulture.com): Get Caught Up in The Further Mis-Adventu
-[2026-09-23 07:01:15] Неизвестный источник (itsfoss.com): Portainer Cuts the Cord Between Its Free
-[2026-09-23 07:01:15] Неизвестный источник (infoq.com): Cloudflare Introduces the Agent Developm
-[2026-09-23 07:01:15] Неизвестный источник (investorshub.advfn.com): Schneider Electric Releases AI Building 
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): Edge AI Software Market worth $120.31 bi
-[2026-09-23 07:01:15] Неизвестный источник (journals.plos.org): Trichinella spiralis galectin disrupts g
-[2026-09-23 07:01:15] Неизвестный источник (journals.plos.org): Dynamics of jaw kinematics and fundament
-[2026-09-23 07:01:15] AI новости: 2 с доверенных источников
-[2026-09-23 07:01:15] Доверенных AI-источников мало, добираю из остальных
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: The U.S. is backing a $14 billion cable to keep So
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Contagious Interview: 30,000 devices infected by a
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: 20–27 September / Climate Week NYC
-[2026-09-23 07:01:15] Заблокированный источник (naturalnews.com): Chinese Foreign Ministry Accuses Japanes
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Natural General Intelligence
-[2026-09-23 07:01:15] Нет фото: feagi 2.2.1
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: SpaceX launches Grok 4.7 with long-horizon process
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Oil theft decline boosts Nigeria’s crude productio
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Space-time signatures of surface warming accelerat
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: The curious timing of the A.I. panic
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: The Metric Is Not The Mission: History Rarely Anno
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Amazon blocks Meta’s Muse agent from shopping on u
-[2026-09-23 07:01:15] Нет фото: JR Wealth Management Expands Reputation 
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 21
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: State senator says new data center laws will prote
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Motorola Edge (2026) Review
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 20
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 19
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 18
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): Lightera Announces Major Capital Investm
-[2026-09-23 07:01:15] Спорт, пропускаю: Today in sports history, November 16
-[2026-09-23 07:01:15] Нет фото: geoai-py 0.43.1
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Feds promote own news app: 'State run media'...
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Why It’s Time to Load Up on Meta Stock
 [2026-09-23 07:01:15] Заблокированный источник (nypost.com): AI companies will have to register in NY
 [2026-09-23 07:01:15] Не про ИИ, пропускаю: Meta, tech stocks push indexes higher as oil price
 [2026-09-23 07:01:15] Не про ИИ, пропускаю: How Western tech helps funnel recruits into Russia
@@ -2998,3 +2960,41 @@
 [2026-09-29 07:03:37] Пауза 60 секунд...
 [2026-09-29 07:04:38] sent_urls.txt обрезан: 304 -> 300
 [2026-09-29 07:04:38] === Блок ai_morning завершён ===
+[2026-09-29 10:01:13] Загружено 300 уже отправленных новостей
+[2026-09-29 10:01:13] === Запуск блока: midday (тест: False) ===
+[2026-09-29 10:01:14] Неизвестный источник (space.com): What time will SpaceX launch its 1st orb
+[2026-09-29 10:01:14] Заблокированный источник (nypost.com): The dangerous assumption people make abo
+[2026-09-29 10:01:14] Неизвестный источник (investing.com): Asia stocks slip as oil, yields rise; ch
+[2026-09-29 10:01:14] Неизвестный источник (foxnews.com): Sen Kennedy says no living politicians s
+[2026-09-29 10:01:14] Спорт, пропускаю: AEW wrestling star Benjamin Satterley, k
+[2026-09-29 10:01:14] Неизвестный источник (billboard.com): Snubs & Surprises at the 2026 VMAs - Bil
+[2026-09-29 10:01:14] Заблокированный источник (finance.yahoo.com): Here’s the List of Goods the US, China A
+[2026-09-29 10:01:14] Неизвестный источник (espn.com): Ravens stun Cowboys in final seconds as 
+[2026-09-29 10:01:14] Неизвестный источник (variety.com): Taylor Swift Premieres Star-Filled 'Pati
+[2026-09-29 10:01:14] Неизвестный источник (cbssports.com): NFL Week 3 grades for all 32 teams: Patr
+[2026-09-29 10:01:14] Пропускаю уже отправленную: Deadly storm hits the Northeast, and five arrested
+[2026-09-29 10:01:14] Неизвестный источник (9to5mac.com): This is my top feature request for the u
+[2026-09-29 10:01:14] Неизвестный источник (mmafighting.com): Raoni Barcelos’ coach shares medical upd
+[2026-09-29 10:01:14] Неизвестный источник (boxofficepro.com): Weekend Box Office: AVENGERS: ENDGAME EN
+[2026-09-29 10:01:14] Неизвестный источник (notebookcheck.net): First Samsung Galaxy S27 Ultra cases rev
+[2026-09-29 10:01:14] Старая новость (2026-09-23T23:32:12Z): Reference genomes and fossils revise bat
+[2026-09-29 10:01:14] Мировые новости: найдено 14 после фильтрации
+[2026-09-29 10:01:16] Редакторский отбор: выбраны позиции [13, 3, 1, 8]
+[2026-09-29 10:01:16] Обрабатываю: After nixing Iran proposal, Trump tells Axios he expects tal | https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negoti
+[2026-09-29 10:01:16] Попытка 1 для: After nixing Iran proposal, Trump tells 
+[2026-09-29 10:01:18] Успешно, получено 722 символов
+[2026-09-29 10:01:18] Обрабатываю: Air base at the center of a UK terror probe has been used by | https://apnews.com/article/uk-raf-fairford-us-air-force-explainer-739a
+[2026-09-29 10:01:18] Попытка 1 для: Air base at the center of a UK terror pr
+[2026-09-29 10:01:20] Успешно, получено 876 символов
+[2026-09-29 10:01:20] Обрабатываю: Nvidia releases software platform to stop AI agents from mis | https://www.cnbc.com/2026/09/28/nvidia-releases.html
+[2026-09-29 10:01:20] Полный текст получен (3000 символов)
+[2026-09-29 10:01:20] Попытка 1 для: Nvidia releases software platform to sto
+[2026-09-29 10:01:23] Успешно, получено 1779 символов
+[2026-09-29 10:01:23] Обрабатываю: Trump administration set to roll out lower fuel economy stan | https://apnews.com/article/trump-gas-mileage-electric-vehicles-polluti
+[2026-09-29 10:01:23] Попытка 1 для: Trump administration set to roll out low
+[2026-09-29 10:01:25] Успешно, получено 1031 символов
+[2026-09-29 10:01:28] Пауза 60 секунд...
+[2026-09-29 10:02:29] Пауза 60 секунд...
+[2026-09-29 10:03:29] Пауза 60 секунд...
+[2026-09-29 10:04:29] sent_urls.txt обрезан: 304 -> 300
+[2026-09-29 10:04:29] === Блок midday завершён ===
