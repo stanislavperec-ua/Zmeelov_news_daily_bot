@@ -1,90 +1,3 @@
-[2026-09-23 05:01:30] Нет фото: Russia Liberates Polnaya, Novoaleksandro
-[2026-09-23 05:01:30] Заблокированный источник (sputnikglobe.com): Russia Liberates Polnaya, Novoaleksandro
-[2026-09-23 05:01:30] Пропускаю уже отправленную: Russians strike Kharkiv with drone, woman injured
-[2026-09-23 05:01:30] Харьков: найдена новость: Ukraine’s Defense Forces confirm gains on right ba
-[2026-09-23 05:01:30] Обрабатываю: Putin’s party wins supermajority in Russia’s parliamentary e | https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermaj
-[2026-09-23 05:01:30] Полный текст получен (3000 символов)
-[2026-09-23 05:01:30] Попытка 1 для: Putin’s party wins supermajority in Russ
-[2026-09-23 05:01:32] Успешно, получено 1736 символов
-[2026-09-23 05:01:32] Обрабатываю: CNBC's The China Connection newsletter: Five things to watch | https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-
-[2026-09-23 05:01:33] Полный текст получен (3000 символов)
-[2026-09-23 05:01:33] Попытка 1 для: CNBC's The China Connection newsletter: 
-[2026-09-23 05:01:35] Успешно, получено 2164 символов
-[2026-09-23 05:01:35] Обрабатываю: Manchester to host world leaders at G20 summit in 2027 | https://www.bbc.com/news/articles/cv4g503n374jo
-[2026-09-23 05:01:36] Полный текст получен (2308 символов)
-[2026-09-23 05:01:36] Попытка 1 для: Manchester to host world leaders at G20 
-[2026-09-23 05:01:41] Успешно, получено 1524 символов
-[2026-09-23 05:01:41] Обрабатываю: Venezuelan man shot by ICE in Texas says he’s in pain and st | https://www.nbcnews.com/news/us-news/venezuelan-man-shot-ice-texas-say
-[2026-09-23 05:01:41] Полный текст получен (3000 символов)
-[2026-09-23 05:01:41] Попытка 1 для: Venezuelan man shot by ICE in Texas says
-[2026-09-23 05:02:01] Успешно, получено 1611 символов
-[2026-09-23 05:02:04] Пауза 60 секунд...
-[2026-09-23 05:03:05] Пауза 60 секунд...
-[2026-09-23 05:04:05] Пауза 60 секунд...
-[2026-09-23 05:05:07] Обрабатываю: IMF will help secure part of the funding needed for 2027 --  | https://www.ukrinform.net/rubric-economy/4166906-imf-will-help-secure-
-[2026-09-23 05:05:08] Полный текст получен (1509 символов)
-[2026-09-23 05:05:08] Попытка 1 для: IMF will help secure part of the funding
-[2026-09-23 05:05:11] Успешно, получено 1747 символов
-[2026-09-23 05:05:11] Обрабатываю: Russian drone attack damages warehouse, hits gas station in  | https://www.ukrinform.net/rubric-ato/4166972-drone-attack-damages-ware
-[2026-09-23 05:05:12] Полный текст получен (1002 символов)
-[2026-09-23 05:05:12] Попытка 1 для: Russian drone attack damages warehouse, 
-[2026-09-23 05:05:15] Успешно, получено 1144 символов
-[2026-09-23 05:05:15] Обрабатываю: Ukraine’s Defense Forces confirm gains on right bank of Oski | https://www.ukrinform.net/rubric-ato/4166835-ukraines-defense-forces-c
-[2026-09-23 05:05:15] Полный текст получен (932 символов)
-[2026-09-23 05:05:15] Попытка 1 для: Ukraine’s Defense Forces confirm gains o
-[2026-09-23 05:05:17] Успешно, получено 1232 символов
-[2026-09-23 05:05:20] Пауза 60 секунд...
-[2026-09-23 05:06:21] Пауза 60 секунд...
-[2026-09-23 05:07:21] sent_urls.txt обрезан: 307 -> 300
-[2026-09-23 05:07:21] === Блок morning завершён ===
-[2026-09-23 07:01:15] Загружено 300 уже отправленных новостей
-[2026-09-23 07:01:15] === Запуск блока: ai_morning (тест: False) ===
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: The U.S. is backing a $14 billion cable to keep So
-[2026-09-23 07:01:15] Неизвестный источник (securityaffairs.com): Contagious Interview: 30,000 devices inf
-[2026-09-23 07:01:15] Неизвестный источник (landezine.com): 20–27 September / Climate Week NYC
-[2026-09-23 07:01:15] Неизвестный источник (smallwarsjournal.com): Targeting to Win: Operation Mole Cricket
-[2026-09-23 07:01:15] Заблокированный источник (naturalnews.com): Chinese Foreign Ministry Accuses Japanes
-[2026-09-23 07:01:15] Неизвестный источник (economictimes.indiatimes.com): This stock just beat AI star HFCL’s 230%
-[2026-09-23 07:01:15] Неизвестный источник (naturalgeneralintelligence.ai): Natural General Intelligence
-[2026-09-23 07:01:15] Неизвестный источник (lewrockwell.com): What’s the Point of AI, Anyway?
-[2026-09-23 07:01:15] Нет фото: feagi 2.2.1
-[2026-09-23 07:01:15] Неизвестный источник (blogdoandroid.com): AI Job Disruption: The Proven Future of 
-[2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): SpaceX launches Grok 4.7 with long-horiz
-[2026-09-23 07:01:15] Неизвестный источник (punchng.com): Oil theft decline boosts Nigeria’s crude
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: Space-time signatures of surface warming accelerat
-[2026-09-23 07:01:15] Неизвестный источник (wnd.com): The curious timing of the A.I. panic
-[2026-09-23 07:01:15] Неизвестный источник (techdirt.com): The Metric Is Not The Mission: History R
-[2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): Amazon blocks Meta’s Muse agent from sho
-[2026-09-23 07:01:15] Неизвестный источник (gizmodo.com): OpenAI Calls for US to Lead Global AI St
-[2026-09-23 07:01:15] Нет фото: JR Wealth Management Expands Reputation 
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 21
-[2026-09-23 07:01:15] Неизвестный источник (frontiersin.org): Frontiers | The influence of DanceSport 
-[2026-09-23 07:01:15] Неизвестный источник (kpbs.org): State senator says new data center laws 
-[2026-09-23 07:01:15] Неизвестный источник (androidguys.com): Motorola Edge (2026) Review
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 20
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 19
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 18
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): Lightera Announces Major Capital Investm
-[2026-09-23 07:01:15] Неизвестный источник (financialpost.com): Bank of Canada developing new AI model t
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 16
-[2026-09-23 07:01:15] Нет фото: geoai-py 0.43.1
-[2026-09-23 07:01:15] Неизвестный источник (commercialobserver.com): Two AI Companies Ink Full-Floor Deals at
-[2026-09-23 07:01:15] Неизвестный источник (foxnews.com): Reporter's Notebook: Congress faces a cr
-[2026-09-23 07:01:15] Неизвестный источник (the-independent.com): Feds promote own news app: 'State run me
-[2026-09-23 07:01:15] Неизвестный источник (barchart.com): Why It’s Time to Load Up on Meta Stock
-[2026-09-23 07:01:15] Заблокированный источник (nypost.com): AI companies will have to register in NY
-[2026-09-23 07:01:15] Неизвестный источник (financialpost.com): Meta, tech stocks push indexes higher as
-[2026-09-23 07:01:15] Не про ИИ, пропускаю: How Western tech helps funnel recruits into Russia
-[2026-09-23 07:01:15] Неизвестный источник (247wallst.com): Fastly Soars 14% on AI Firewall Launch; 
-[2026-09-23 07:01:15] Неизвестный источник (commondreams.org): After OpenAI Cyberattack, UN Panel Warns
-[2026-09-23 07:01:15] Неизвестный источник (business-standard.com): Asiana Fund, JC Capital launch ₹1,000 cr
-[2026-09-23 07:01:15] Заблокированный источник (nypost.com): NYC’s Founders School ‘guarantees’ stude
-[2026-09-23 07:01:15] Неизвестный источник (247wallst.com): Cybersecurity Stocks Extend Gains on AI 
-[2026-09-23 07:01:15] Неизвестный источник (news.mit.edu): Carter Stubbs named Institute auditor
-[2026-09-23 07:01:15] Заблокированный источник (prnewswire.com): INSEAD AI Forum Americas debates AI's im
-[2026-09-23 07:01:15] Неизвестный источник (frontiersin.org): Frontiers | The impact of digital and E-
-[2026-09-23 07:01:15] Неизвестный источник (bleedingcool.com): Ghost of a Ghost #1 Preview: Spy Gains G
-[2026-09-23 07:01:15] Неизвестный источник (usatoday.com): Today in sports history, November 15
 [2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): On theCUBE Pod: Dreamforce unveils the a
 [2026-09-23 07:01:15] Заблокированный источник (marketbeat.com): Capri Sees Second-Half Growth as Michael
 [2026-09-23 07:01:15] Неизвестный источник (siliconangle.com): AWS debuts Strands Harness, an open-sour
@@ -2998,3 +2911,90 @@
 [2026-09-29 05:06:00] Пауза 60 секунд...
 [2026-09-29 05:07:00] sent_urls.txt обрезан: 307 -> 300
 [2026-09-29 05:07:00] === Блок morning завершён ===
+[2026-09-29 07:01:14] Загружено 300 уже отправленных новостей
+[2026-09-29 07:01:14] === Запуск блока: ai_morning (тест: False) ===
+[2026-09-29 07:01:15] Неизвестный источник (ahelwer.ca): Can we have reachability properties in T
+[2026-09-29 07:01:15] Неизвестный источник (deeshaa.org): Arthur C. Clarke, Visionary Extraordinai
+[2026-09-29 07:01:15] Неизвестный источник (en.protothema.gr): The Greek Prime Minister’s return, the s
+[2026-09-29 07:01:15] Неизвестный источник (screenrant.com): 7 Underrated Cartoon Network Anime That 
+[2026-09-29 07:01:15] Неизвестный источник (english.gossiplankanews.com): Powered by AI, Nokia re-emerges with a n
+[2026-09-29 07:01:15] Неизвестный источник (thehindubusinessline.com): Editorial. Spam traps
+[2026-09-29 07:01:15] Неизвестный источник (business-standard.com): Govt launches initiative to build digita
+[2026-09-29 07:01:15] Неизвестный источник (siliconangle.com): AWS CloudWatch Omni goes after the harde
+[2026-09-29 07:01:15] Неизвестный источник (activistpost.com): How “Argentina’s Elon Musk” Is Bringing 
+[2026-09-29 07:01:15] Неизвестный источник (pymnts.com): OpenAI Slows AI Training Following Lates
+[2026-09-29 07:01:15] Неизвестный источник (english.khabarhub.com): Urgent Structural Reform of Tribhuvan Un
+[2026-09-29 07:01:15] Неизвестный источник (original.antiwar.com): Stop Mad King Donald’s Iran War: An Open
+[2026-09-29 07:01:15] Неизвестный источник (siliconangle.com): Researcher links 16,000 scans of a UN st
+[2026-09-29 07:01:15] Неизвестный источник (dailycaller.com): Attorney General Todd Blanche Pushes Bac
+[2026-09-29 07:01:15] Неизвестный источник (legalinsurrection.com): OpenAI Agent Reportedly Bypassed Safegua
+[2026-09-29 07:01:15] Неизвестный источник (bleedingcool.com): Sorcerer Supreme #10 Preview: Wanda Pays
+[2026-09-29 07:01:15] Неизвестный источник (itnews.com.au): Teen researcher with AI hackbot cracks M
+[2026-09-29 07:01:15] Неизвестный источник (abc.net.au): Get rules in place to hold data centres 
+[2026-09-29 07:01:15] Неизвестный источник (wnd.com): America’s next military advantage is tru
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
+[2026-09-29 07:01:15] Неизвестный источник (wnd.com): America must be able to restore its spac
+[2026-09-29 07:01:15] Неизвестный источник (bleedingcool.com): Queen in Black: Venom Unchained #3 Previ
+[2026-09-29 07:01:15] Неизвестный источник (thehindubusinessline.com): Editorial. Spam traps
+[2026-09-29 07:01:15] Неизвестный источник (thehindubusinessline.com): DTDC sets sights on nearly doubling reve
+[2026-09-29 07:01:15] Неизвестный источник (abcnews.com): Attorney General Blanche says White Hous
+[2026-09-29 07:01:15] Неизвестный источник (superpunch.net): LAPD to place all-purpose, AI-augmented 
+[2026-09-29 07:01:15] Неизвестный источник (bleedingcool.com): Zatanna #6 Preview: Hidden City Has a Dr
+[2026-09-29 07:01:15] Пропускаю уже отправленную: Bill Gates says getting countries to agree on AI r
+[2026-09-29 07:01:15] Неизвестный источник (newsonjapan.com): Nikkei Faces Dividend Test After Five-Da
+[2026-09-29 07:01:15] Неизвестный источник (serplabseo.com): Google Ranking Factors, AI Agents, Linke
+[2026-09-29 07:01:15] Нет фото: radiate 0.0.16
+[2026-09-29 07:01:15] Неизвестный источник (economictimes.indiatimes.com): OpenAI pauses training, tool-use of top 
+[2026-09-29 07:01:15] Неизвестный источник (business-standard.com): OpenAI pauses training of top AI models 
+[2026-09-29 07:01:15] AI новости: 0 с доверенных источников
+[2026-09-29 07:01:15] Доверенных AI-источников мало, добираю из остальных
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Can we have reachability properties in TLA⁺? -
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Arthur C. Clarke, Visionary Extraordinaire
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: The Greek Prime Minister’s return, the small, bigg
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: 7 Underrated Cartoon Network Anime That Are Consid
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Powered by AI, Nokia re-emerges with a new look
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Editorial. Spam traps
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Govt launches initiative to build digital public i
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Urgent Structural Reform of Tribhuvan University
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Stop Mad King Donald’s Iran War: An Open Letter to
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Attorney General Todd Blanche Pushes Back On ABC N
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Sorcerer Supreme #10 Preview: Wanda Pays the Magic
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Teen researcher with AI hackbot cracks Microsoft's
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Get rules in place to hold data centres to account
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: America’s next military advantage is trusted data
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: America must be able to restore its space power at
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Queen in Black: Venom Unchained #3 Preview: Crown 
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Editorial. Spam traps
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: DTDC sets sights on nearly doubling revenue by FY3
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Attorney General Blanche says White House press ac
+[2026-09-29 07:01:15] Пропускаю уже отправленную: LAPD to place all-purpose, AI-augmented readers on
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Zatanna #6 Preview: Hidden City Has a Dragon-Sized
+[2026-09-29 07:01:15] Пропускаю уже отправленную: Bill Gates says getting countries to agree on AI r
+[2026-09-29 07:01:15] Не про ИИ, пропускаю: Nikkei Faces Dividend Test After Five-Day Rally
+[2026-09-29 07:01:15] Пропускаю уже отправленную: Google Ranking Factors, AI Agents, LinkedIn SEO & 
+[2026-09-29 07:01:15] Нет фото: radiate 0.0.16
+[2026-09-29 07:01:15] Пропускаю уже отправленную: OpenAI pauses training, tool-use of top AI models 
+[2026-09-29 07:01:15] AI новости: 6 кандидатов после фильтрации
+[2026-09-29 07:01:16] Редакторский отбор: выбраны позиции [6, 5, 3, 1]
+[2026-09-29 07:01:16] Обрабатываю: OpenAI pauses training of top AI models after agent bypasses | https://www.business-standard.com/technology/artificial-intelligence/o
+[2026-09-29 07:01:16] Полный текст получен (3000 символов)
+[2026-09-29 07:01:16] Попытка 1 для: OpenAI pauses training of top AI models 
+[2026-09-29 07:01:20] Успешно, получено 1811 символов
+[2026-09-29 07:01:20] Обрабатываю: OpenAI Agent Reportedly Bypassed Safeguards and Hacked Austr | https://legalinsurrection.com/2026/09/openai-agent-reportedly-bypassed
+[2026-09-29 07:01:21] Полный текст получен (3000 символов)
+[2026-09-29 07:01:21] Попытка 1 для: OpenAI Agent Reportedly Bypassed Safegua
+[2026-09-29 07:01:25] Успешно, получено 1499 символов
+[2026-09-29 07:01:25] Обрабатываю: OpenAI Slows AI Training Following Latest Security Incident | https://www.pymnts.com/news/artificial-intelligence/2026/openai-slows-
+[2026-09-29 07:01:25] Полный текст получен (2764 символов)
+[2026-09-29 07:01:25] Попытка 1 для: OpenAI Slows AI Training Following Lates
+[2026-09-29 07:01:27] Успешно, получено 1443 символов
+[2026-09-29 07:01:27] Обрабатываю: AWS CloudWatch Omni goes after the hardest question in agent | https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the
+[2026-09-29 07:01:28] Полный текст получен (3000 символов)
+[2026-09-29 07:01:28] Попытка 1 для: AWS CloudWatch Omni goes after the harde
+[2026-09-29 07:01:34] Успешно, получено 1717 символов
+[2026-09-29 07:01:37] Пауза 60 секунд...
+[2026-09-29 07:02:37] Пауза 60 секунд...
+[2026-09-29 07:03:37] Пауза 60 секунд...
+[2026-09-29 07:04:38] sent_urls.txt обрезан: 304 -> 300
+[2026-09-29 07:04:38] === Блок ai_morning завершён ===
