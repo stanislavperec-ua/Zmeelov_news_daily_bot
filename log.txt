@@ -1,46 +1,3 @@
-[2026-09-24 15:01:24] Внутренний дубль: At least 16 garage units destroyed in Kyiv's Obolo
-[2026-09-24 15:01:24] Внутренний дубль: Russian attack damages hospital in Odesa
-[2026-09-24 15:01:24] Внутренний дубль: Polish Deputy PM on Starlink station fire: Russia 
-[2026-09-24 15:01:24] Внутренний дубль: Zelensky announces new package of missiles for Pat
-[2026-09-24 15:01:24] Внутренний дубль: One injured, homes and power line damaged in Russi
-[2026-09-24 15:01:24] Внутренний дубль: Russian attack targets energy and border infrastru
-[2026-09-24 15:01:24] Внутренний дубль: Russian attack damages 120-year-old St. Pokrovsky 
-[2026-09-24 15:01:24] Внутренний дубль: Drone that crashed in Moldova identified as Russia
-[2026-09-24 15:01:24] Внутренний дубль: Ukrainian Defense Forces strike two Russian radars
-[2026-09-24 15:01:24] Внутренний дубль: Poland scrambles military aircraft twice in mornin
-[2026-09-24 15:01:24] Внутренний дубль: Russian strikes damage Nova Poshta sorting depot i
-[2026-09-24 15:01:24] Внутренний дубль: Drone crashes in Romania
-[2026-09-24 15:01:24] Внутренний дубль: Drones attack two oil depots in southern Russia – 
-[2026-09-24 15:01:24] Внутренний дубль: Seven killed, 12 injured in Russian attack on farm
-[2026-09-24 15:01:24] Внутренний дубль: Russian attacks in Kyiv region damage eight sites,
-[2026-09-24 15:01:24] Внутренний дубль: Russian drone hits high-rise residential building 
-[2026-09-24 15:01:24] Внутренний дубль: War update: 277 combat engagements at front over p
-[2026-09-24 15:01:24] Внутренний дубль: Russians launch massive attack on civilian infrast
-[2026-09-24 15:01:24] Украинские новости: найдено 73 после фильтрации
-[2026-09-24 15:01:25] Редакторский отбор: выбраны позиции [11, 15]
-[2026-09-24 15:01:25] NewsAPI (Харьков, все издания): пришло 6 статей
-[2026-09-24 15:01:26] RSS Ukrinform: 30 записей
-[2026-09-24 15:01:27] RSS Ukrinform: 30 записей
-[2026-09-24 15:01:27] RSS Euromaidan Press: 29 записей
-[2026-09-24 15:01:27] Нет фото: Russia Liberates Krasny Yar, Potikhonovo
-[2026-09-24 15:01:27] Заблокированный источник (sputnikglobe.com): Russia Liberates Krasny Yar, Potikhonovo
-[2026-09-24 15:01:27] Нет фото: Four Violinists, Four Helicopters, One O
-[2026-09-24 15:01:27] Внутренний дубль: Seven killed, 12 injured in Russian attack on farm
-[2026-09-24 15:01:27] Харьков: найдена новость: Russia targets Kyiv gas stations, transport; 8 inj
-[2026-09-24 15:01:27] Обрабатываю: Trump-Xi meeting: Why China's self-sufficiency changes the c | https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-suffi
-[2026-09-24 15:01:28] Полный текст получен (3000 символов)
-[2026-09-24 15:01:28] Попытка 1 для: Trump-Xi meeting: Why China's self-suffi
-[2026-09-24 15:01:31] Успешно, получено 1932 символов
-[2026-09-24 15:01:31] Обрабатываю: Xi and Trump Seek Safe AI Without Slowing the Race for Supre | https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-s
-[2026-09-24 15:01:31] Попытка 1 для: Xi and Trump Seek Safe AI Without Slowin
-[2026-09-24 15:01:33] Успешно, получено 696 символов
-[2026-09-24 15:01:33] Обрабатываю: Polo off Mexican coast is among ‘the strongest storms ever’  | https://apnews.com/article/hurricane-polo-mexico-fe846bf4bc35ec5bdfa2e
-[2026-09-24 15:01:33] Попытка 1 для: Polo off Mexican coast is among ‘the str
-[2026-09-24 15:01:35] Успешно, получено 892 символов
-[2026-09-24 15:01:35] Обрабатываю: Trump meets US-backed Venezuelan president for first time si | https://www.bbc.com/news/articles/cj207y30wp0lo
-[2026-09-24 15:01:36] Полный текст получен (1679 символов)
-[2026-09-24 15:01:36] Попытка 1 для: Trump meets US-backed Venezuelan preside
-[2026-09-24 15:01:40] Успешно, получено 1661 символов
 [2026-09-24 15:01:43] Пауза 60 секунд...
 [2026-09-24 15:02:44] Пауза 60 секунд...
 [2026-09-24 15:03:44] Пауза 60 секунд...
@@ -2998,3 +2955,46 @@
 [2026-09-30 07:03:50] Пауза 60 секунд...
 [2026-09-30 07:04:51] sent_urls.txt обрезан: 304 -> 300
 [2026-09-30 07:04:51] === Блок ai_morning завершён ===
+[2026-09-30 10:01:24] Загружено 300 уже отправленных новостей
+[2026-09-30 10:01:24] === Запуск блока: midday (тест: False) ===
+[2026-09-30 10:01:24] Лента обновлений, пропускаю: RAF Fairford latest: Incident 'clearly i
+[2026-09-30 10:01:24] Спорт, пропускаю: 'Period of deception' - Pochettino on Ma
+[2026-09-30 10:01:24] Неизвестный источник (espn.com): Bears call on QB3 Case Keenum in rousing
+[2026-09-30 10:01:24] Неизвестный источник (variety.com): Mayor Zohran Mamdani Refuses Jimmy Kimme
+[2026-09-30 10:01:24] Неизвестный источник (hawaiinewsnow.com): New potent street drug prompts Hawaii he
+[2026-09-30 10:01:24] Неизвестный источник (foxnews.com): Lindsay Clancy holdout juror asks for on
+[2026-09-30 10:01:24] Неизвестный источник (staradvertiser.com): Pennsylvania measles cases cross 900 as 
+[2026-09-30 10:01:24] Неизвестный источник (vogue.in): Aries Horoscope Today: September 29, 202
+[2026-09-30 10:01:24] Неизвестный источник (macrumors.com): iPhone Duo StandBy Leak Reveals Five Una
+[2026-09-30 10:01:24] Неизвестный источник (mlb.com): Blubaugh to open Wild Card Game 1 for As
+[2026-09-30 10:01:24] Неизвестный источник (wlwt.com): KSP: Trooper shot, killed in line of dut
+[2026-09-30 10:01:24] Неизвестный источник (usatoday.com): J.J. McCarthy trade grades as Giants, Vi
+[2026-09-30 10:01:24] Неизвестный источник (space.com): Boeing's Starliner won't launch astronau
+[2026-09-30 10:01:24] Неизвестный источник (hollywoodreporter.com): TV Ratings: VMAs Hit 11-Year High With M
+[2026-09-30 10:01:24] Пропускаю уже отправленную: Congo’s Ebola outbreak tops 8,000 confirmed cases 
+[2026-09-30 10:01:24] Неизвестный источник (gizmodo.com): Scientists Find Microbial Life Could Sur
+[2026-09-30 10:01:24] Неизвестный источник (space.com): Jupiter-bound JUICE spacecraft just got 
+[2026-09-30 10:01:24] Неизвестный источник (9to5google.com): Honor Magic 9 Pro Max goes official with
+[2026-09-30 10:01:24] Неизвестный источник (wane.com): Elon Musk’s SpaceX Starship ends flight 
+[2026-09-30 10:01:24] Мировые новости: найдено 11 после фильтрации
+[2026-09-30 10:01:26] Редакторский отбор: выбраны позиции [8, 5, 1, 2]
+[2026-09-30 10:01:26] Обрабатываю: OpenAI scraps release of latest AI model over safety concern | https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-l
+[2026-09-30 10:01:26] Полный текст получен (3000 символов)
+[2026-09-30 10:01:26] Попытка 1 для: OpenAI scraps release of latest AI model
+[2026-09-30 10:01:30] Успешно, получено 2045 символов
+[2026-09-30 10:01:30] Обрабатываю: Pope Leo leans into statesman role, urging peace in an era o | https://www.washingtonpost.com/world/2026/09/28/pope-leo-leans-into-st
+[2026-09-30 10:01:42] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/09/28/pope-leo-lea
+[2026-09-30 10:01:42] Попытка 1 для: Pope Leo leans into statesman role, urgi
+[2026-09-30 10:01:44] Успешно, получено 723 символов
+[2026-09-30 10:01:44] Обрабатываю: ‘Fires are everywhere right now’: Trump hits the road to sho | https://www.politico.com/news/2026/09/29/fires-are-everywhere-right-no
+[2026-09-30 10:01:45] Попытка 1 для: ‘Fires are everywhere right now’: Trump 
+[2026-09-30 10:01:47] Успешно, получено 955 символов
+[2026-09-30 10:01:47] Обрабатываю: Tennessee is set to execute a woman for the first time in 20 | https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution
+[2026-09-30 10:01:47] Полный текст получен (3000 символов)
+[2026-09-30 10:01:47] Попытка 1 для: Tennessee is set to execute a woman for 
+[2026-09-30 10:01:49] Успешно, получено 1675 символов
+[2026-09-30 10:01:52] Пауза 60 секунд...
+[2026-09-30 10:02:53] Пауза 60 секунд...
+[2026-09-30 10:03:54] Пауза 60 секунд...
+[2026-09-30 10:04:54] sent_urls.txt обрезан: 304 -> 300
+[2026-09-30 10:04:54] === Блок midday завершён ===
