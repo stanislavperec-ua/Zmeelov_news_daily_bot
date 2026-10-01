@@ -1,114 +1,3 @@
-[2026-09-25 15:07:21] sent_urls.txt обрезан: 307 -> 300
-[2026-09-25 15:07:21] === Блок evening завершён ===
-[2026-09-25 17:01:12] Загружено 300 уже отправленных новостей
-[2026-09-25 17:01:12] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-25 17:01:13] Неизвестный источник (siliconangle.com): US is head over heels for AI agents, whi
-[2026-09-25 17:01:13] Неизвестный источник (makeuseof.com): Google is sending AI into space, and the
-[2026-09-25 17:01:13] Неизвестный источник (financialpost.com): Sharjah Advocates More Dominant Role for
-[2026-09-25 17:01:13] Неизвестный источник (wirehub.medianewsgroup.com): Autonomous AI hacks raise thorny questio
-[2026-09-25 17:01:13] Неизвестный источник (dailysignal.com): Always Watching: Congress Begins Investi
-[2026-09-25 17:01:13] Неизвестный источник (futurism.com): The Situation at Alpha School Is Darker 
-[2026-09-25 17:01:13] Неизвестный источник (financialpost.com): Cybersecurity stocks are so hot investor
-[2026-09-25 17:01:13] Неизвестный источник (wwd.com): Bicester Collection Names 12 Asian Final
-[2026-09-25 17:01:13] Неизвестный источник (economictimes.indiatimes.com): Canada has prepared for the unthinkable:
-[2026-09-25 17:01:13] Неизвестный источник (hackernoon.com): Integrating LLMs into iOS Applications W
-[2026-09-25 17:01:13] Неизвестный источник (dezeen.com): Papermaking centre among projects from S
-[2026-09-25 17:01:13] Неизвестный источник (business-standard.com): Aquapulse eyes threefold revenue growth,
-[2026-09-25 17:01:13] Неизвестный источник (volswire.usatoday.com): Ticket prices drop as Trump plans to att
-[2026-09-25 17:01:13] Неизвестный источник (journals.plos.org): Identification of transcriptomic signatu
-[2026-09-25 17:01:13] Неизвестный источник (journals.plos.org): Encampment sweeps and persistent homeles
-[2026-09-25 17:01:13] Неизвестный источник (usatoday.com): Ticket prices drop as Trump plans to att
-[2026-09-25 17:01:13] Неизвестный источник (gov.uk): Professor Dame Anna Dominiczak, Professo
-[2026-09-25 17:01:13] Неизвестный источник (financialpost.com): Don Tapscott: Seven things Canada must d
-[2026-09-25 17:01:13] Неизвестный источник (business-standard.com): Banks should deploy FCNR(B) funds in com
-[2026-09-25 17:01:13] Неизвестный источник (sciencedaily.com): When what you see doesn’t make sense, yo
-[2026-09-25 17:01:13] Неизвестный источник (economictimes.indiatimes.com): What if your eyes are older than you are
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Chinese analysts say Trump should "understand pres
-[2026-09-25 17:01:13] Нет фото: Quantexa Earns Top Honors from Chartis R
-[2026-09-25 17:01:13] Неизвестный источник (siliconangle.com): Groundcover picks up Kubernetes optimiza
-[2026-09-25 17:01:13] Неизвестный источник (siliconangle.com): Dataiku debuts cross-platform Agent Mana
-[2026-09-25 17:01:13] Заблокированный источник (prnewswire.com): Architect Financial Technologies and Ape
-[2026-09-25 17:01:13] Неизвестный источник (nextgov.com): AI scanning tools found security gaps at
-[2026-09-25 17:01:13] Неизвестный источник (foxnews.com): Americans lost over $20 billion to one t
-[2026-09-25 17:01:13] Неизвестный источник (financialpost.com): Meta debuts a dedicated, palm-sized ‘Cha
-[2026-09-25 17:01:13] Неизвестный источник (en.antaranews.com): Indonesia, Russia explore cooperation in
-[2026-09-25 17:01:13] Неизвестный источник (thenewafricamagazine.com): Nigeria Gets $25m AI Maternal Health Pro
-[2026-09-25 17:01:13] Заблокированный источник (prnewswire.com): Billions Behind the Autonomous Machine B
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Xi arrives in D.C., Treasury yields hit multiyear 
-[2026-09-25 17:01:13] Нет фото: Liberty Defense Expands U.S. Distributio
-[2026-09-25 17:01:13] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Fo
-[2026-09-25 17:01:13] Неизвестный источник (economictimes.indiatimes.com): GFGNL flouts norms, say domestic firms; 
-[2026-09-25 17:01:13] Неизвестный источник (cryptobriefing.com): Ondo partners with BlackRock to develop 
-[2026-09-25 17:01:13] Неизвестный источник (globalresearch.ca): The Last Move is the Checkmate. The Dang
-[2026-09-25 17:01:13] Неизвестный источник (siliconangle.com): Pat Gelsinger-backed startup PicoJool ra
-[2026-09-25 17:01:13] Неизвестный источник (siliconangle.com): Kontext raises $4M to control what AI ag
-[2026-09-25 17:01:13] Нет фото: Senate Democrats' Statement on President
-[2026-09-25 17:01:13] Нет фото: DEEP SEA MINERALS CORP. WELCOMES U.S. DE
-[2026-09-25 17:01:13] Неизвестный источник (motherjones.com): Climate Visions Clash at UN Summit, as T
-[2026-09-25 17:01:13] Неизвестный источник (celebitchy.com): Prince Harry at Clinton Global Initiativ
-[2026-09-25 17:01:13] Неизвестный источник (commondreams.org): Why the Ellison Takeover of CNN Is Such 
-[2026-09-25 17:01:13] Неизвестный источник (abcnews.com): Autonomous AI hacks raise thorny questio
-[2026-09-25 17:01:13] Неизвестный источник (securityaffairs.com): OpenAI Agent Bypassed an Australian Gove
-[2026-09-25 17:01:13] Неизвестный источник (salon.com): Trump TV is the end of an era for the “k
-[2026-09-25 17:01:13] Неизвестный источник (cryptobriefing.com): Starknet strkBTC faucet claims go live a
-[2026-09-25 17:01:13] Неизвестный источник (omny.fm): This Man Thinks "AGI" Could Allow Humans
-[2026-09-25 17:01:13] Нет фото: From NVIDIA to MEXC: Autheo Expands the 
-[2026-09-25 17:01:13] Неизвестный источник (cbc.ca): Australia says OpenAI agent hacked gover
-[2026-09-25 17:01:13] Неизвестный источник (en.protothema.gr): OpenAI agent hacks Australian Medicare p
-[2026-09-25 17:01:13] Неизвестный источник (nzherald.co.nz): It took 20 years to start regulating soc
-[2026-09-25 17:01:13] Неизвестный источник (thehackernews.com): OpenAI Agent Bypassed Australian Medicar
-[2026-09-25 17:01:13] Неизвестный источник (newsonjapan.com): Nikkei Rises as AI and Chip Shares Lead 
-[2026-09-25 17:01:13] Неизвестный источник (insidehighered.com): Silicon Valley AI Academy Seeks ‘Main Ch
-[2026-09-25 17:01:13] Неизвестный источник (economictimes.indiatimes.com): How fast can China's EVs charge? Inside 
-[2026-09-25 17:01:13] Неизвестный источник (thehindubusinessline.com): Explained: How China’s EV makers are pus
-[2026-09-25 17:01:13] AI новости: 1 с доверенных источников
-[2026-09-25 17:01:13] Доверенных AI-источников мало, добираю из остальных
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Google is sending AI into space, and there's one b
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Autonomous AI hacks raise thorny questions of lega
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Always Watching: Congress Begins Investigating Flo
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: The Situation at Alpha School Is Darker Than We Th
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Cybersecurity stocks are so hot investors question
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Bicester Collection Names 12 Asian Finalists for F
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Canada has prepared for the unthinkable: A militar
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Papermaking centre among projects from Swinburne U
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Aquapulse eyes threefold revenue growth, expands f
-[2026-09-25 17:01:13] Спорт, пропускаю: Ticket prices drop as Trump plans to att
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Identification of transcriptomic signatures associ
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Encampment sweeps and persistent homelessness amon
-[2026-09-25 17:01:13] Спорт, пропускаю: Ticket prices drop as Trump plans to att
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Professor Dame Anna Dominiczak, Professor Alison S
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Banks should deploy FCNR(B) funds in coming months
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Chinese analysts say Trump should "understand pres
-[2026-09-25 17:01:13] Нет фото: Quantexa Earns Top Honors from Chartis R
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Groundcover picks up Kubernetes optimization start
-[2026-09-25 17:01:13] Заблокированный источник (prnewswire.com): Architect Financial Technologies and Ape
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: AI scanning tools found security gaps at rail oper
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Americans lost over $20 billion to one type of cri
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Indonesia, Russia explore cooperation in satellite
-[2026-09-25 17:01:13] Заблокированный источник (prnewswire.com): Billions Behind the Autonomous Machine B
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Xi arrives in D.C., Treasury yields hit multiyear 
-[2026-09-25 17:01:13] Нет фото: Liberty Defense Expands U.S. Distributio
-[2026-09-25 17:01:13] Нет фото: Nightfood Holdings Inc. (OTCQB: NGTF) Fo
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: GFGNL flouts norms, say domestic firms; BSNL flags
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Ondo partners with BlackRock to develop tokenized 
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: The Last Move is the Checkmate. The Danger of a Nu
-[2026-09-25 17:01:13] Нет фото: Senate Democrats' Statement on President
-[2026-09-25 17:01:13] Нет фото: DEEP SEA MINERALS CORP. WELCOMES U.S. DE
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Climate Visions Clash at UN Summit, as Trump Goes 
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Prince Harry at Clinton Global Initiative: ‘AI is 
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Why the Ellison Takeover of CNN Is Such Bad News f
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Autonomous AI hacks raise thorny questions of lega
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Trump TV is the end of an era for the “king of rat
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Starknet strkBTC faucet claims go live as registra
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: This Man Thinks "AGI" Could Allow Humans To Live F
-[2026-09-25 17:01:13] Нет фото: From NVIDIA to MEXC: Autheo Expands the 
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: How fast can China's EVs charge? Inside the race t
-[2026-09-25 17:01:13] Не про ИИ, пропускаю: Explained: How China’s EV makers are pushing charg
-[2026-09-25 17:01:13] AI новости: 17 кандидатов после фильтрации
-[2026-09-25 17:01:15] Редакторский отбор: выбраны позиции [1, 5, 8, 2]
-[2026-09-25 17:01:15] Обрабатываю: OpenAI agents hacked an Australian government website in sea | https://www.theverge.com/ai-artificial-intelligence/999874/openai-agen
-[2026-09-25 17:01:15] Полный текст получен (3000 символов)
-[2026-09-25 17:01:15] Попытка 1 для: OpenAI agents hacked an Australian gover
 [2026-09-25 17:01:18] Успешно, получено 1541 символов
 [2026-09-25 17:01:18] Обрабатываю: What if your eyes are older than you are? Scientists use a n | https://economictimes.indiatimes.com/news/international/global-trends/
 [2026-09-25 17:01:19] Полный текст получен (3000 символов)
@@ -2998,3 +2887,114 @@
 [2026-10-01 10:03:44] Пауза 60 секунд...
 [2026-10-01 10:04:45] sent_urls.txt обрезан: 304 -> 300
 [2026-10-01 10:04:45] === Блок midday завершён ===
+[2026-10-01 15:01:17] Загружено 300 уже отправленных новостей
+[2026-10-01 15:01:17] === Запуск блока: evening (тест: False) ===
+[2026-10-01 15:01:17] Лента обновлений, пропускаю: Dow futures gain 100 points after data s
+[2026-10-01 15:01:17] Заблокированный источник (sports.yahoo.com): Astros players express anger after fans 
+[2026-10-01 15:01:17] Неизвестный источник (usatoday.com): Actor Chad Lowe's daughter Fiona Lowe di
+[2026-10-01 15:01:17] Неизвестный источник (usatoday.com): Trump to begin sending $500 ACA refund c
+[2026-10-01 15:01:17] Неизвестный источник (foxnews.com): Iran loses grip on Strait of Hormuz as U
+[2026-10-01 15:01:17] Лента обновлений, пропускаю: Live Updates: Iran's military says war w
+[2026-10-01 15:01:17] Заблокированный источник (finance.yahoo.com): Anthropic IPO documents show there reall
+[2026-10-01 15:01:17] Неизвестный источник (mlb.com): King, dingers power Padres in G1 rout at
+[2026-10-01 15:01:17] Неизвестный источник (sciencedaily.com): Creatine may help build muscle even with
+[2026-10-01 15:01:17] Неизвестный источник (overthemonster.com): Payton Tolle and Cam Schlittler lead the
+[2026-10-01 15:01:17] Пропускаю уже отправленную: CDC updates measles toll, now counts 2 deaths - Th
+[2026-10-01 15:01:17] Неизвестный источник (variety.com): 'Digger' Confronts Negative Reviews: New
+[2026-10-01 15:01:17] Неизвестный источник (fox6now.com): Cases of EHD confirmed in Wisconsin cows
+[2026-10-01 15:01:17] Неизвестный источник (gizmodo.com): Boeing’s Starliner Faces a Critical Test
+[2026-10-01 15:01:17] Старая новость (2026-09-29T14:00:00Z): NASA's Crew-13 mission readies on the la
+[2026-10-01 15:01:17] Старая новость (2026-09-28T16:48:01Z): SpaceX launches Starship on giant rocket
+[2026-10-01 15:01:17] Старая новость (2026-09-28T15:00:00Z): Jupiter-bound JUICE spacecraft just got 
+[2026-10-01 15:01:17] Мировые новости: найдено 13 после фильтрации
+[2026-10-01 15:01:18] Редакторский отбор: выбраны позиции [3, 8, 2, 1]
+[2026-10-01 15:01:19] RSS Ukrinform: 30 записей
+[2026-10-01 15:01:20] RSS Ukrinform: 30 записей
+[2026-10-01 15:01:20] Пропускаю уже отправленную: Russian forces attack infrastructure in Odesa
+[2026-10-01 15:01:20] RSS Euromaidan Press: 29 записей
+[2026-10-01 15:01:20] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-10-01 15:01:20] Заблокированный источник (rt.com): Mali has taken its case against Ukraine 
+[2026-10-01 15:01:20] Нет фото: Iran’s IRGC Terrorists to Americans: Whe
+[2026-10-01 15:01:20] Заблокированный источник (biztoc.com): Hung, Drawn, And Third-Quartered: Roll O
+[2026-10-01 15:01:20] Нет фото: Tennessee execution of lone woman on dea
+[2026-10-01 15:01:20] Нет фото: Russia launches largest attack on Ukrain
+[2026-10-01 15:01:20] Нет фото: Knowledge coordination in a semi-closed 
+[2026-10-01 15:01:20] Заблокированный источник (rt.com): Moscow dismisses Atlantic US-Russia swap
+[2026-10-01 15:01:20] Заблокированный источник (dailymail.com): Benefits the only reason households' dis
+[2026-10-01 15:01:20] Заблокированный источник (dailymail.com): Benefits the only reason households' dis
+[2026-10-01 15:01:20] Нет фото: Midair Horror: FlyDubai Pilot Reportedly
+[2026-10-01 15:01:20] Спорт, пропускаю: Criminal investigation? Relegation or ex
+[2026-10-01 15:01:20] Заблокированный источник (biztoc.com): SAP Stock And 2 European Cloud Resilienc
+[2026-10-01 15:01:20] Нет фото: ForkLift 4.7.6
+[2026-10-01 15:01:20] Нет фото: Russia threatens nuclear strikes on Nato
+[2026-10-01 15:01:20] Нет фото: Ukrainian M-Fly Secures New Funding Roun
+[2026-10-01 15:01:20] Нет фото: South Korea says Zelenskyy's revelation 
+[2026-10-01 15:01:20] Заблокированный источник (biztoc.com): Zelensky talks F-16 cooperation with Stu
+[2026-10-01 15:01:20] Нет фото: We Are Alarmed to Learn That People Are 
+[2026-10-01 15:01:20] Заблокированный источник (uk.news.yahoo.com): Israeli officials suggest terror link af
+[2026-10-01 15:01:20] Внутренний дубль: Zelensky: Response system to Russian attacks on Ky
+[2026-10-01 15:01:20] Внутренний дубль: Mysterious 'whiskers' on Russian drones turned out
+[2026-10-01 15:01:20] Внутренний дубль: Ukrainian forces strike Russian UAV storage and la
+[2026-10-01 15:01:20] Внутренний дубль: Train caught in blast wave: Kyiv changes Green Lin
+[2026-10-01 15:01:20] Внутренний дубль: Russian drone attacks Institute for Nuclear Resear
+[2026-10-01 15:01:20] Внутренний дубль: Russian forces strike Pavlohrad, three people inju
+[2026-10-01 15:01:20] Внутренний дубль: Russian drones strike near support structure of Ky
+[2026-10-01 15:01:20] Внутренний дубль: Targets hit in Black Sea and three Russian regions
+[2026-10-01 15:01:20] Внутренний дубль: Russia suffers record 46,230 military personnel lo
+[2026-10-01 15:01:20] Внутренний дубль: Debris from Russian drone found in Kyiv's Pechersk
+[2026-10-01 15:01:20] Внутренний дубль: Power substation hit in Crimea, power outages repo
+[2026-10-01 15:01:20] Внутренний дубль: Russian drone hits warehouses in Kyiv, damage repo
+[2026-10-01 15:01:20] Внутренний дубль: Russian strikes on Kharkiv region leave eight inju
+[2026-10-01 15:01:20] Внутренний дубль: Over 40 facilities damaged, six people injured in 
+[2026-10-01 15:01:20] Внутренний дубль: Russian drone hits school in Kyiv, fire breaks out
+[2026-10-01 15:01:20] Внутренний дубль: War update: 209 combat clashes on front lines over
+[2026-10-01 15:01:20] Внутренний дубль: Ukrainian air defense neutralizes 87 of 107 Russia
+[2026-10-01 15:01:20] Внутренний дубль: Russian forces strike business center in Odesa, on
+[2026-10-01 15:01:20] Внутренний дубль: Man injured in overnight attack on Kyiv
+[2026-10-01 15:01:20] Внутренний дубль: Russia's war casualty toll in Ukraine up by 1,900 
+[2026-10-01 15:01:20] Украинские новости: найдено 69 после фильтрации
+[2026-10-01 15:01:21] Редакторский отбор: выбраны позиции [2, 5]
+[2026-10-01 15:01:21] NewsAPI (Харьков, все издания): пришло 8 статей
+[2026-10-01 15:01:22] RSS Ukrinform: 30 записей
+[2026-10-01 15:01:23] RSS Ukrinform: 30 записей
+[2026-10-01 15:01:23] RSS Euromaidan Press: 29 записей
+[2026-10-01 15:01:23] Нет фото: Knowledge coordination in a semi-closed 
+[2026-10-01 15:01:23] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Shabelnoye Settl
+[2026-10-01 15:01:23] Заблокированный источник (sputnikglobe.com): Russian Drones Strangle Ukrainian Milita
+[2026-10-01 15:01:23] Заблокированный источник (sputnikglobe.com): Russia Strikes in Black Sea Dry Cargo Sh
+[2026-10-01 15:01:23] Внутренний дубль: Russian strikes on Kharkiv region leave eight inju
+[2026-10-01 15:01:23] Харьков: найдена новость: Russian strikes on Kharkiv region leave eight inju
+[2026-10-01 15:01:23] Обрабатываю: Russia threatens nuclear strikes on Nato countries over Kali | https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2?syn-25
+[2026-10-01 15:01:24] Полный текст получен (1048 символов)
+[2026-10-01 15:01:24] Попытка 1 для: Russia threatens nuclear strikes on Nato
+[2026-10-01 15:01:27] Успешно, получено 1308 символов
+[2026-10-01 15:01:27] Обрабатываю: The US military says its withdrawal of troops from Iraq is c | https://apnews.com/article/iraq-us-withdrawal-militias-disarmament-kur
+[2026-10-01 15:01:27] Попытка 1 для: The US military says its withdrawal of t
+[2026-10-01 15:01:29] Успешно, получено 843 символов
+[2026-10-01 15:01:29] Обрабатываю: Romanian political crisis deepens as parliament rejects PM n | https://www.politico.eu/article/romanian-political-crisis-deepens-as-p
+[2026-10-01 15:01:29] Полный текст получен (3000 символов)
+[2026-10-01 15:01:29] Попытка 1 для: Romanian political crisis deepens as par
+[2026-10-01 15:01:32] Успешно, получено 1507 символов
+[2026-10-01 15:01:32] Обрабатываю: Christa Pike seeks firing squad, not lethal injection: Insid | https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squ
+[2026-10-01 15:01:32] Полный текст получен (3000 символов)
+[2026-10-01 15:01:32] Попытка 1 для: Christa Pike seeks firing squad, not let
+[2026-10-01 15:01:35] Успешно, получено 1538 символов
+[2026-10-01 15:01:38] Пауза 60 секунд...
+[2026-10-01 15:02:38] Пауза 60 секунд...
+[2026-10-01 15:03:39] Пауза 60 секунд...
+[2026-10-01 15:04:39] Обрабатываю: EU, Ukraine agree on means to cover budget needs for this ye | https://www.ukrinform.net/rubric-economy/4170093-eu-ukraine-agree-on-m
+[2026-10-01 15:04:40] Полный текст получен (1471 символов)
+[2026-10-01 15:04:40] Попытка 1 для: EU, Ukraine agree on means to cover budg
+[2026-10-01 15:04:43] Успешно, получено 1416 символов
+[2026-10-01 15:04:43] Обрабатываю: Zelensky: Response system to Russian attacks on Kyiv's criti | https://www.ukrinform.net/rubric-ato/4170057-zelensky-response-system-
+[2026-10-01 15:04:44] Полный текст получен (1958 символов)
+[2026-10-01 15:04:44] Попытка 1 для: Zelensky: Response system to Russian att
+[2026-10-01 15:04:47] Успешно, получено 1794 символов
+[2026-10-01 15:04:47] Обрабатываю: Russian strikes on Kharkiv region leave eight injured over p | https://www.ukrinform.net/rubric-ato/4169897-russian-strikes-on-kharki
+[2026-10-01 15:04:48] Полный текст получен (2126 символов)
+[2026-10-01 15:04:48] Попытка 1 для: Russian strikes on Kharkiv region leave 
+[2026-10-01 15:04:52] Успешно, получено 1814 символов
+[2026-10-01 15:04:54] Пауза 60 секунд...
+[2026-10-01 15:05:55] Пауза 60 секунд...
+[2026-10-01 15:06:55] sent_urls.txt обрезан: 307 -> 300
+[2026-10-01 15:06:55] === Блок evening завершён ===
