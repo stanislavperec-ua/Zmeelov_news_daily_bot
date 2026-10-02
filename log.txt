@@ -1,127 +1,3 @@
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Data giant and partners hit the wall for hospital 
-[2026-09-26 07:01:12] Спорт, пропускаю: Chris Murphy proposes $5M cap on college
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Green Energy Is Coming for the Desert
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Who’ll win AI race? U.S.? China? Maybe no one.
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Coworking Firm Industrious to Provide Hologram-Lik
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Ebanx Expands Pakistan Footprint and Deepens Emerg
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Unlock your potential in the tech space with CompT
-[2026-09-26 07:01:12] Спорт, пропускаю: Salty Lane Kiffin Accuses Ole Miss Of Ch
-[2026-09-26 07:01:12] Нет фото: Redefine Surgery Closes Oversubscribed P
-[2026-09-26 07:01:12] Пропускаю уже отправленную: US is head over heels for AI agents, while Europe 
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Google is sending AI into space, and there's one b
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Autonomous AI hacks raise thorny questions of lega
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: Always Watching: Congress Begins Investigating Flo
-[2026-09-26 07:01:12] Не про ИИ, пропускаю: The Situation at Alpha School Is Darker Than We Th
-[2026-09-26 07:01:12] Внутренний дубль: Loyalty Juggernaut Advances Responsible AI with IS
-[2026-09-26 07:01:12] AI новости: 16 кандидатов после фильтрации
-[2026-09-26 07:01:14] Редакторский отбор: выбраны позиции [2, 13, 7, 8]
-[2026-09-26 07:01:14] Обрабатываю: White House asks OpenAI and Anthropic to hold new models fro | https://www.businessinsider.com/white-house-us-review-new-ai-models-be
-[2026-09-26 07:01:14] Полный текст получен (3000 символов)
-[2026-09-26 07:01:14] Попытка 1 для: White House asks OpenAI and Anthropic to
-[2026-09-26 07:01:16] Успешно, получено 1595 символов
-[2026-09-26 07:01:16] Обрабатываю: AI is already deciding whether or not people receive medical | https://www.vox.com/good-medicine-newsletter/503932/ai-health-insuranc
-[2026-09-26 07:01:16] Полный текст получен (3000 символов)
-[2026-09-26 07:01:16] Попытка 1 для: AI is already deciding whether or not pe
-[2026-09-26 07:01:19] Успешно, получено 1873 символов
-[2026-09-26 07:01:19] Обрабатываю: Autonomous AI hacks raise thorny questions of legal accounta | https://economictimes.indiatimes.com/tech/artificial-intelligence/auto
-[2026-09-26 07:01:19] Полный текст получен (3000 символов)
-[2026-09-26 07:01:19] Попытка 1 для: Autonomous AI hacks raise thorny questio
-[2026-09-26 07:01:21] Успешно, получено 2229 символов
-[2026-09-26 07:01:21] Обрабатываю: Google’s first Project Suncatcher AI satellite set to blast  | https://siliconangle.com/2026/09/24/googles-first-project-suncatcher-a
-[2026-09-26 07:01:22] Полный текст получен (3000 символов)
-[2026-09-26 07:01:22] Попытка 1 для: Google’s first Project Suncatcher AI sat
-[2026-09-26 07:01:31] Успешно, получено 2019 символов
-[2026-09-26 07:01:34] Пауза 60 секунд...
-[2026-09-26 07:02:35] Пауза 60 секунд...
-[2026-09-26 07:03:35] Пауза 60 секунд...
-[2026-09-26 07:04:36] sent_urls.txt обрезан: 304 -> 300
-[2026-09-26 07:04:36] === Блок ai_morning завершён ===
-[2026-09-26 10:01:26] Загружено 300 уже отправленных новостей
-[2026-09-26 10:01:26] === Запуск блока: midday (тест: False) ===
-[2026-09-26 10:01:26] Лента обновлений, пропускаю: CNN, MS NOW White House reporters denied
-[2026-09-26 10:01:26] Неизвестный источник (pff.com): NFL Week 3 Recap: Immediate fantasy foot
-[2026-09-26 10:01:26] Неизвестный источник (wtnh.com): Rainy and windy conditions across Connec
-[2026-09-26 10:01:26] Неизвестный источник (mmafighting.com): UFC BJJ 11 Results: Musumeci vs. Mitchel
-[2026-09-26 10:01:26] Неизвестный источник (phys.org): US-India satellite captures time-lapse v
-[2026-09-26 10:01:26] Пропускаю уже отправленную: How every senator voted on the Iran war powers res
-[2026-09-26 10:01:26] Неизвестный источник (variety.com): Dakota Johnson on Being in Taylor Swift’
-[2026-09-26 10:01:26] Заблокированный источник (sports.yahoo.com): Presidents Cup: Scottie Scheffler, Sam B
-[2026-09-26 10:01:26] Неизвестный источник (abc7.com): Super-sized El Niño could cause more tha
-[2026-09-26 10:01:26] Неизвестный источник (wane.com): Measles case confirmed in Allen County -
-[2026-09-26 10:01:26] Неизвестный источник (foxnews.com): Strokes nearly double among adults under
-[2026-09-26 10:01:26] Неизвестный источник (hollywoodreporter.com): Inside the Bombshell Article That Inspir
-[2026-09-26 10:01:26] Неизвестный источник (sheknows.com): King Charles II Allegedly Told Princess 
-[2026-09-26 10:01:26] Неизвестный источник (roadtovr.com): Meta Launches $1M Developer Competition 
-[2026-09-26 10:01:26] Неизвестный источник (indiewire.com): Paramount-WBD Merger Hits a Delay as Jud
-[2026-09-26 10:01:26] Неизвестный источник (wyff4.com): Officials raise awareness on new drug, m
-[2026-09-26 10:01:26] Неизвестный источник (investopedia.com): Stock Market Today: Indexes Decline Afte
-[2026-09-26 10:01:26] Неизвестный источник (spacenews.com): Isaacman says NASA ‘dodged a bullet’ wit
-[2026-09-26 10:01:26] Неизвестный источник (weather.com): Catch 5 planets and the Harvest Moon lig
-[2026-09-26 10:01:26] Старая новость (2026-09-24T07:25:00Z): Just one small serving of ultra-processe
-[2026-09-26 10:01:26] Старая новость (2026-09-23T23:32:12Z): Reference genomes and fossils revise bat
-[2026-09-26 10:01:26] Мировые новости: найдено 8 после фильтрации
-[2026-09-26 10:01:28] Редакторский отбор: выбраны позиции [2, 7, 3, 5]
-[2026-09-26 10:01:28] Обрабатываю: Pomp prevails over substance as Donald Trump hosts Xi Jinpin | https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25
-[2026-09-26 10:01:29] Полный текст получен (1050 символов)
-[2026-09-26 10:01:29] Попытка 1 для: Pomp prevails over substance as Donald T
-[2026-09-26 10:01:31] Успешно, получено 1396 символов
-[2026-09-26 10:01:31] Обрабатываю: Benjamin Netanyahu attacks Israel’s enemies and allies in UN | https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-is
-[2026-09-26 10:01:32] Полный текст получен (3000 символов)
-[2026-09-26 10:01:32] Попытка 1 для: Benjamin Netanyahu attacks Israel’s enem
-[2026-09-26 10:01:35] Успешно, получено 1662 символов
-[2026-09-26 10:01:35] Обрабатываю: Meloni government bans burqas, caps foreign students in Ital | https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas
-[2026-09-26 10:01:35] Полный текст получен (3000 символов)
-[2026-09-26 10:01:35] Попытка 1 для: Meloni government bans burqas, caps fore
-[2026-09-26 10:01:39] Успешно, получено 1618 символов
-[2026-09-26 10:01:39] Обрабатываю: Oracle on the hook to pay data centre investors even if site | https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25
-[2026-09-26 10:01:39] Полный текст получен (1060 символов)
-[2026-09-26 10:01:39] Попытка 1 для: Oracle on the hook to pay data centre in
-[2026-09-26 10:01:48] Успешно, получено 1091 символов
-[2026-09-26 10:01:51] Пауза 60 секунд...
-[2026-09-26 10:02:51] Пауза 60 секунд...
-[2026-09-26 10:03:52] Пауза 60 секунд...
-[2026-09-26 10:04:52] sent_urls.txt обрезан: 304 -> 300
-[2026-09-26 10:04:52] === Блок midday завершён ===
-[2026-09-26 15:01:17] Загружено 300 уже отправленных новостей
-[2026-09-26 15:01:17] === Запуск блока: evening (тест: False) ===
-[2026-09-26 15:01:17] Неизвестный источник (foxnews.com): Pope Leo XIV begins historic 4-day visit
-[2026-09-26 15:01:17] Неизвестный источник (ms.now): Measles is spreading through Pennsylvani
-[2026-09-26 15:01:17] Неизвестный источник (nbcsports.com): Tucker Kraft: Disappointing that fans bo
-[2026-09-26 15:01:17] Неизвестный источник (mandatory.com): Prince Harry’s Silence Over Charles Spen
-[2026-09-26 15:01:17] Неизвестный источник (espn.com): WNBA playoffs 2026: How all eight teams 
-[2026-09-26 15:01:17] Неизвестный источник (wtnh.com): Rainy and windy conditions across Connec
-[2026-09-26 15:01:17] Неизвестный источник (wane.com): Measles case confirmed in Allen County -
-[2026-09-26 15:01:17] Неизвестный источник (techpowerup.com): Microsoft Copilot+ Branding Disappears f
-[2026-09-26 15:01:17] Неизвестный источник (roadtovr.com): Meta Launches $1M Developer Competition 
-[2026-09-26 15:01:17] Неизвестный источник (9to5google.com): Motorola Signature 27 confirmed to suppo
-[2026-09-26 15:01:17] Неизвестный источник (boingboing.net): A dolphin in Australia steals food from 
-[2026-09-26 15:01:17] Неизвестный источник (indiewire.com): Paramount-WBD Merger Hits a Delay as Jud
-[2026-09-26 15:01:17] Старая новость (2026-09-24T10:48:00Z): Catch 5 planets and the Harvest Moon lig
-[2026-09-26 15:01:17] Старая новость (2026-09-23T23:32:12Z): Reference genomes and fossils revise bat
-[2026-09-26 15:01:17] Мировые новости: найдено 12 после фильтрации
-[2026-09-26 15:01:19] Редакторский отбор: выбраны позиции [6, 1, 11, 4]
-[2026-09-26 15:01:20] RSS Ukrinform: 30 записей
-[2026-09-26 15:01:20] Пропускаю уже отправленную: US approves more than $90M in additional military 
-[2026-09-26 15:01:21] RSS Ukrinform: 30 записей
-[2026-09-26 15:01:21] RSS Euromaidan Press: 29 записей
-[2026-09-26 15:01:21] Старая новость (2026-09-24T14:57:24Z): He started as a driver. Now he pilots Uk
-[2026-09-26 15:01:21] Старая новость (2026-09-24T12:36:28Z): Russians guard Madagascar’s parliament s
-[2026-09-26 15:01:21] Старая новость (2026-09-24T11:19:50Z): Russia strikes Kyiv with ballistic and h
-[2026-09-26 15:01:21] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-26 15:01:21] Заблокированный источник (sputnikglobe.com): Russia Hits DataGroup Data Center in Kie
-[2026-09-26 15:01:21] Заблокированный источник (biztoc.com): Gas topped the equivalent of $12 a gallo
-[2026-09-26 15:01:21] Заблокированный источник (dailymail.com): Pope Leo warns against losing humanity i
-[2026-09-26 15:01:21] Заблокированный источник (dailymail.com): Pope Leo warns against losing humanity i
-[2026-09-26 15:01:21] Внутренний дубль: Russian airstrike in Dnipropetrovsk region leaves 
-[2026-09-26 15:01:21] Внутренний дубль: Russian forces strike Lebiazhe in Kharkiv region w
-[2026-09-26 15:01:21] Внутренний дубль: Explosion at Russia's largest coal deposit kills f
-[2026-09-26 15:01:21] Внутренний дубль: Drone attack on Kyiv region: Injury toll rises to 
-[2026-09-26 15:01:21] Внутренний дубль: Russian KAB strikes on Sumy cause fatalities and i
-[2026-09-26 15:01:21] Внутренний дубль: Russian forces launch another attack on Cosmonova 
-[2026-09-26 15:01:21] Внутренний дубль: Defense Forces strike Russian ammunition depot and
-[2026-09-26 15:01:21] Внутренний дубль: Russian attack on highway in Odesa region injures 
-[2026-09-26 15:01:21] Внутренний дубль: Russian forces strike Darnytsia pharmaceutical pla
-[2026-09-26 15:01:21] Внутренний дубль: Defense Forces continue to hold Dobropillia — Azov
 [2026-09-26 15:01:21] Внутренний дубль: Enemy drone crash sparks office building fire and 
 [2026-09-26 15:01:21] Внутренний дубль: Perm oil refinery halts operations after drone att
 [2026-09-26 15:01:21] Внутренний дубль: Ilsky oil refinery catches fire in Russia's Krasno
@@ -2998,3 +2874,127 @@
 [2026-10-02 05:06:01] Пауза 60 секунд...
 [2026-10-02 05:07:02] sent_urls.txt обрезан: 307 -> 300
 [2026-10-02 05:07:02] === Блок morning завершён ===
+[2026-10-02 07:01:14] Загружено 300 уже отправленных новостей
+[2026-10-02 07:01:14] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-02 07:01:14] Нет фото: Thales Strengthens Data Security Posture
+[2026-10-02 07:01:14] Нет фото: Thales Launches Sentinel Envelope Plus t
+[2026-10-02 07:01:14] Нет фото: Before AI agents kill us all: Some more 
+[2026-10-02 07:01:14] Заблокированный источник (naturalnews.com): Geely Reports EV Battery Charges in Unde
+[2026-10-02 07:01:14] Неизвестный источник (skepticalscience.com): Skeptical Science New Research for Week 
+[2026-10-02 07:01:14] Нет фото: XPENG Announces Vehicle Delivery Results
+[2026-10-02 07:01:14] Неизвестный источник (military.com): AI and the Space Force: 6 Ways the Servi
+[2026-10-02 07:01:14] Неизвестный источник (americanthinker.com): What Is The Real AI Cybersecurity Threat
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): From Overseas Range Records to Zero-Carb
+[2026-10-02 07:01:14] Неизвестный источник (economictimes.indiatimes.com): A timeline of developments in AI safety 
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): vivo X Fold6 Makes Global Debut: A New F
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Metaview wants to eliminate recruiting g
+[2026-10-02 07:01:14] Неизвестный источник (news.samsung.com): Lee Kun-Hee Collection Expands to Europe
+[2026-10-02 07:01:14] Заблокированный источник (dailymail.com): Neighbourhood victory as locals revolt a
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Scale-up interconnect startup CScale lau
+[2026-10-02 07:01:14] Нет фото: How many birds have died since 1970 Audu
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Advances in amidases and urethanases as depolymeri
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Cross-border electricity tariffs undermine power s
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): Mynd.ai's Promethean Brand Launches On-D
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Micron almost quadruples its revenue tha
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): FTC reportedly investigating OpenAI, Ant
+[2026-10-02 07:01:14] Неизвестный источник (newatlas.com): Wait, AI is hacking government networks 
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Destro AI raises $8M to coordinate mixed
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Google’s new frontier AI model Gemini 4 
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): USC Dedicates New Korean Air Convergence
+[2026-10-02 07:01:14] Неизвестный источник (arxiv.org): Increasing Width Allows Greedy Layer-wis
+[2026-10-02 07:01:14] Неизвестный источник (digitaljournal.com): Insider threats evolve as AI exposes hid
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): CoreWeave expands its AI stack as infere
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Prominent tech CEOs sign voluntary White
+[2026-10-02 07:01:14] Неизвестный источник (pymnts.com): How Mastercard, Stripe, Visa and Coinbas
+[2026-10-02 07:01:14] Нет фото: HealthLynked to Present at the AI & Tech
+[2026-10-02 07:01:14] Неизвестный источник (blogs.cisco.com): Beyond Operational Obsolescence: The New
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): Health In Tech Launches HitRix to Modern
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): CEO George Kurian outlines NetApp’s data
+[2026-10-02 07:01:14] Неизвестный источник (foxnews.com): Aaron Sorkin reveals why Trump is unment
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Apollo debuts AI app builder, intelligen
+[2026-10-02 07:01:14] Неизвестный источник (logisticsviewpoints.com): Descartes Innovation Forum: Transportati
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): AWS embeds DuckDB in its PostgreSQL DBMS
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): Thales and Landis+Gyr Enable Smarter, Re
+[2026-10-02 07:01:14] Неизвестный источник (cmu.edu): Carnegie Mellon University Announces His
+[2026-10-02 07:01:14] Нет фото: Healthcare Triangle, Inc Signs MOU to Br
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): USC Names David Madigan Provost and Mega
+[2026-10-02 07:01:14] Неизвестный источник (wwd.com): Kering CEO Luca de Meo Cuts the Ribbon o
+[2026-10-02 07:01:14] Неизвестный источник (economictimes.indiatimes.com): How 25 students of Gurgaon-based college
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Gong adds auto-enrichment and event-driv
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): Extreme volatility divergence exposes ‘f
+[2026-10-02 07:01:14] Неизвестный источник (gizmodo.com): Ancient Greeks Built a Harbor on Top of 
+[2026-10-02 07:01:14] Заблокированный источник (tech.yahoo.com): AI agents weren't supposed to get out. S
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): 135 Global Thought Leaders, Decision-Mak
+[2026-10-02 07:01:14] Неизвестный источник (nationalpost.com): Trump posts 'super intelligence' documen
+[2026-10-02 07:01:14] Неизвестный источник (nationalpost.com): Trump posts 'super intelligence' documen
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): Tesla lines up US$30 billion to borrow w
+[2026-10-02 07:01:14] Неизвестный источник (siliconangle.com): Jeeves raises $110M to scale stablecoin-
+[2026-10-02 07:01:14] Неизвестный источник (ign.com): The Best, Worst, and Weirdest Star Wars 
+[2026-10-02 07:01:14] Неизвестный источник (abcnews.com): A timeline of developments in AI safety 
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): Global bonds see worst quarter since 202
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): BMW targets shedding 20% of managers thr
+[2026-10-02 07:01:14] Неизвестный источник (financialpost.com): Messagepoint Wins 2026 Stratus Award for
+[2026-10-02 07:01:14] AI новости: 1 с доверенных источников
+[2026-10-02 07:01:14] Доверенных AI-источников мало, добираю из остальных
+[2026-10-02 07:01:14] Нет фото: Thales Strengthens Data Security Posture
+[2026-10-02 07:01:14] Нет фото: Thales Launches Sentinel Envelope Plus t
+[2026-10-02 07:01:14] Нет фото: Before AI agents kill us all: Some more 
+[2026-10-02 07:01:14] Заблокированный источник (naturalnews.com): Geely Reports EV Battery Charges in Unde
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Skeptical Science New Research for Week #40 2026
+[2026-10-02 07:01:14] Нет фото: XPENG Announces Vehicle Delivery Results
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: From Overseas Range Records to Zero-Carbon Factori
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): vivo X Fold6 Makes Global Debut: A New F
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Metaview wants to eliminate recruiting grunt work 
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Lee Kun-Hee Collection Expands to Europe With Open
+[2026-10-02 07:01:14] Заблокированный источник (dailymail.com): Neighbourhood victory as locals revolt a
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Scale-up interconnect startup CScale launches with
+[2026-10-02 07:01:14] Нет фото: How many birds have died since 1970 Audu
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Advances in amidases and urethanases as depolymeri
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Cross-border electricity tariffs undermine power s
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): Mynd.ai's Promethean Brand Launches On-D
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): USC Dedicates New Korean Air Convergence
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Insider threats evolve as AI exposes hidden pathwa
+[2026-10-02 07:01:14] Нет фото: HealthLynked to Present at the AI & Tech
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): Health In Tech Launches HitRix to Modern
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Aaron Sorkin reveals why Trump is unmentioned in '
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Descartes Innovation Forum: Transportation Managem
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: AWS embeds DuckDB in its PostgreSQL DBMS to speed 
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Thales and Landis+Gyr Enable Smarter, Remotely Man
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Carnegie Mellon University Announces Historic $3B 
+[2026-10-02 07:01:14] Нет фото: Healthcare Triangle, Inc Signs MOU to Br
+[2026-10-02 07:01:14] Заблокированный источник (prnewswire.com): USC Names David Madigan Provost and Mega
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Kering CEO Luca de Meo Cuts the Ribbon of Group’s 
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: How 25 students of Gurgaon-based college raised Rs
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Gong adds auto-enrichment and event-driven agents 
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Extreme volatility divergence exposes ‘fragile foo
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Ancient Greeks Built a Harbor on Top of a Fault Li
+[2026-10-02 07:01:14] Заблокированный источник (tech.yahoo.com): AI agents weren't supposed to get out. S
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: 135 Global Thought Leaders, Decision-Makers and Ex
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Trump posts 'super intelligence' document with U.S
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Trump posts 'super intelligence' document with U.S
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: Jeeves raises $110M to scale stablecoin-native ban
+[2026-10-02 07:01:14] Не про ИИ, пропускаю: The Best, Worst, and Weirdest Star Wars Prequel Tr
+[2026-10-02 07:01:14] Пропускаю уже отправленную: A timeline of developments in AI safety since the 
+[2026-10-02 07:01:14] AI новости: 18 кандидатов после фильтрации
+[2026-10-02 07:01:16] Редакторский отбор: выбраны позиции [1, 6, 12, 4]
+[2026-10-02 07:01:16] Обрабатываю: AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human ex | https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concer
+[2026-10-02 07:01:16] Полный текст получен (3000 символов)
+[2026-10-02 07:01:16] Попытка 1 для: AI ‘godfather’ Yann LeCun has ‘zero conc
+[2026-10-02 07:01:19] Успешно, получено 1895 символов
+[2026-10-02 07:01:19] Обрабатываю: FTC reportedly investigating OpenAI, Anthropic over potentia | https://siliconangle.com/2026/09/30/ftc-reportedly-investigating-opena
+[2026-10-02 07:01:19] Полный текст получен (3000 символов)
+[2026-10-02 07:01:19] Попытка 1 для: FTC reportedly investigating OpenAI, Ant
+[2026-10-02 07:01:24] Успешно, получено 2064 символов
+[2026-10-02 07:01:24] Обрабатываю: Prominent tech CEOs sign voluntary White House AI safety acc | https://siliconangle.com/2026/09/30/prominent-tech-ceos-sign-voluntary
+[2026-10-02 07:01:25] Полный текст получен (3000 символов)
+[2026-10-02 07:01:25] Попытка 1 для: Prominent tech CEOs sign voluntary White
+[2026-10-02 07:01:29] Успешно, получено 2211 символов
+[2026-10-02 07:01:29] Обрабатываю: A timeline of developments in AI safety since the attack on  | https://economictimes.indiatimes.com/tech/artificial-intelligence/a-ti
+[2026-10-02 07:01:30] Текст не совпадает с заголовком, беру описание: https://economictimes.indiatimes.com/tech/artificial-intelli
+[2026-10-02 07:01:30] Попытка 1 для: A timeline of developments in AI safety 
+[2026-10-02 07:01:51] Успешно, получено 1002 символов
+[2026-10-02 07:01:54] Пауза 60 секунд...
+[2026-10-02 07:02:55] Пауза 60 секунд...
+[2026-10-02 07:03:55] Пауза 60 секунд...
+[2026-10-02 07:04:56] sent_urls.txt обрезан: 304 -> 300
+[2026-10-02 07:04:56] === Блок ai_morning завершён ===
