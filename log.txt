@@ -1,43 +1,3 @@
-[2026-09-26 15:01:21] Внутренний дубль: Enemy drone crash sparks office building fire and 
-[2026-09-26 15:01:21] Внутренний дубль: Perm oil refinery halts operations after drone att
-[2026-09-26 15:01:21] Внутренний дубль: Ilsky oil refinery catches fire in Russia's Krasno
-[2026-09-26 15:01:21] Внутренний дубль: Russian attacks in Sumy region leaves one civilian
-[2026-09-26 15:01:21] Внутренний дубль: War update: 205 combat engagements on front line
-[2026-09-26 15:01:21] Внутренний дубль: Drone attack on Kyiv region: Damage reported in th
-[2026-09-26 15:01:21] Внутренний дубль: Russian army loses another 1,710 troops, four air 
-[2026-09-26 15:01:21] Внутренний дубль: Russian drone hits between apartment building and 
-[2026-09-26 15:01:21] Внутренний дубль: ADF neutralizes 134 Russian drones used to attack 
-[2026-09-26 15:01:21] Внутренний дубль: Office building catches fire in Kyiv following dro
-[2026-09-26 15:01:21] Внутренний дубль: Russian attack on Kharkiv leave four people injure
-[2026-09-26 15:01:21] Внутренний дубль: Eight months of 2026 brought more Ukrainian civili
-[2026-09-26 15:01:21] Украинские новости: найдено 64 после фильтрации
-[2026-09-26 15:01:23] Редакторский отбор: выбраны позиции [4, 1]
-[2026-09-26 15:01:23] NewsAPI (Харьков, все издания): пришло 3 статей
-[2026-09-26 15:01:24] RSS Ukrinform: 30 записей
-[2026-09-26 15:01:24] RSS Ukrinform: 30 записей
-[2026-09-26 15:01:24] RSS Euromaidan Press: 29 записей
-[2026-09-26 15:01:24] Заблокированный источник (sputnikglobe.com): Pincer at Dobropolye Gives Russia Contro
-[2026-09-26 15:01:24] Заблокированный источник (nypost.com): Russian strikes in Ukraine kill 8 as UN 
-[2026-09-26 15:01:24] Старая новость (2026-09-24T14:57:24Z): He started as a driver. Now he pilots Uk
-[2026-09-26 15:01:24] Старая новость (2026-09-24T12:36:28Z): Russians guard Madagascar’s parliament s
-[2026-09-26 15:01:24] Старая новость (2026-09-24T11:19:50Z): Russia strikes Kyiv with ballistic and h
-[2026-09-26 15:01:24] Внутренний дубль: Russian forces strike Lebiazhe in Kharkiv region w
-[2026-09-26 15:01:24] Внутренний дубль: Russian attack on Kharkiv leave four people injure
-[2026-09-26 15:01:24] Харьков: найдена новость: Russian forces strike Lebiazhe in Kharkiv region w
-[2026-09-26 15:01:24] Обрабатываю: Russia could attack a NATO country within months, Danish int | https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.
-[2026-09-26 15:01:25] Полный текст получен (2439 символов)
-[2026-09-26 15:01:25] Попытка 1 для: Russia could attack a NATO country withi
-[2026-09-26 15:01:28] Успешно, получено 1903 символов
-[2026-09-26 15:01:28] Обрабатываю: Trump and Xi dined with AI's biggest names. Here's what we k | https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.ht
-[2026-09-26 15:01:28] Текст не совпадает с заголовком, беру описание: https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-a
-[2026-09-26 15:01:28] Попытка 1 для: Trump and Xi dined with AI's biggest nam
-[2026-09-26 15:01:31] Успешно, получено 1053 символов
-[2026-09-26 15:01:31] Обрабатываю: Bond yields surge to fresh two-decade highs, but oil prices  | https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyb
-[2026-09-26 15:01:31] Полный текст получен (3000 символов)
-[2026-09-26 15:01:31] Попытка 1 для: Bond yields surge to fresh two-decade hi
-[2026-09-26 15:01:34] Успешно, получено 1733 символов
-[2026-09-26 15:01:34] Обрабатываю: With Republicans under pressure, Trump’s White House starts  | https://www.politico.com/news/2026/09/25/as-midterm-pressure-builds-th
-[2026-09-26 15:01:35] Попытка 1 для: With Republicans under pressure, Trump’s
 [2026-09-26 15:01:47] Успешно, получено 656 символов
 [2026-09-26 15:01:50] Пауза 60 секунд...
 [2026-09-26 15:02:51] Пауза 60 секунд...
@@ -2998,3 +2958,43 @@
 [2026-10-02 07:03:55] Пауза 60 секунд...
 [2026-10-02 07:04:56] sent_urls.txt обрезан: 304 -> 300
 [2026-10-02 07:04:56] === Блок ai_morning завершён ===
+[2026-10-02 10:01:18] Загружено 300 уже отправленных новостей
+[2026-10-02 10:01:18] === Запуск блока: midday (тест: False) ===
+[2026-10-02 10:01:18] Неизвестный источник (barrons.com): Why Micron’s Dazzling Earnings Report Is
+[2026-10-02 10:01:18] Неизвестный источник (mlb.com): Phillies vs. Braves NL Wild Card Series 
+[2026-10-02 10:01:18] Лента обновлений, пропускаю: Flydubai latest: Indian pilot who fought
+[2026-10-02 10:01:18] Неизвестный источник (cbssports.com): Boston Red Sox vs. New York Yankees Resu
+[2026-10-02 10:01:18] Неизвестный источник (eonline.com): Ashley Tisdale's Husband Christopher Fre
+[2026-10-02 10:01:18] Неизвестный источник (abc7news.com): CA couple accused of killing son-in-law 
+[2026-10-02 10:01:18] Неизвестный источник (deadline.com): ‘East of Eden’ New York Premiere Photos:
+[2026-10-02 10:01:18] Неизвестный источник (space.com): SpaceX is ‘go’ to launch NASA’s Crew-13 
+[2026-10-02 10:01:18] Неизвестный источник (pbs.org): Former diplomats assess U.S. withdrawal 
+[2026-10-02 10:01:18] Неизвестный источник (tvline.com): Ted Lasso's Annette Badland Reflects On 
+[2026-10-02 10:01:18] Неизвестный источник (espn.com): Tyson Fury: Anthony Joshua the landlord?
+[2026-10-02 10:01:18] Неизвестный источник (wane.com): Health Department says zoo visitors poss
+[2026-10-02 10:01:18] Неизвестный источник (gsmarena.com): More images of the Samsung Galaxy Buds O
+[2026-10-02 10:01:18] Неизвестный источник (travelandleisure.com): October’s Night Sky Will Bring 3 Meteor 
+[2026-10-02 10:01:18] Неизвестный источник (hackaday.com): Roman Telescope Saves Fuel, Doubles Miss
+[2026-10-02 10:01:18] Старая новость (2026-09-30T03:14:17Z): Creatine may help build muscle even with
+[2026-10-02 10:01:18] Старая новость (2026-09-24T13:52:34Z): SpaceX Starship Flight 14 live updates: 
+[2026-10-02 10:01:18] Мировые новости: найдено 12 после фильтрации
+[2026-10-02 10:01:20] Редакторский отбор: выбраны позиции [1, 12, 8, 9]
+[2026-10-02 10:01:20] Обрабатываю: Republicans need Trump to turn out the base. Some candidates | https://www.politico.com/news/2026/10/01/republicans-trump-campaign-ra
+[2026-10-02 10:01:20] Попытка 1 для: Republicans need Trump to turn out the b
+[2026-10-02 10:01:23] Успешно, получено 902 символов
+[2026-10-02 10:01:23] Обрабатываю: A new Bolsonaro could pull Brazil away from Europe — and tow | https://www.politico.eu/article/a-new-bolsonaro-could-pull-brazil-away
+[2026-10-02 10:01:23] Полный текст получен (3000 символов)
+[2026-10-02 10:01:23] Попытка 1 для: A new Bolsonaro could pull Brazil away f
+[2026-10-02 10:01:27] Успешно, получено 2157 символов
+[2026-10-02 10:01:27] Обрабатываю: Swiss glaciers suffer another year of record ice loss | https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-ch
+[2026-10-02 10:01:28] Полный текст получен (3000 символов)
+[2026-10-02 10:01:28] Попытка 1 для: Swiss glaciers suffer another year of re
+[2026-10-02 10:01:29] Успешно, получено 1409 символов
+[2026-10-02 10:01:29] Обрабатываю: Inside Zuckerberg, Huang’s push for White House AI pact | https://www.politico.com/news/2026/09/30/zuckerberg-huang-white-house-
+[2026-10-02 10:01:29] Попытка 1 для: Inside Zuckerberg, Huang’s push for Whit
+[2026-10-02 10:01:32] Успешно, получено 1021 символов
+[2026-10-02 10:01:35] Пауза 60 секунд...
+[2026-10-02 10:02:35] Пауза 60 секунд...
+[2026-10-02 10:03:36] Пауза 60 секунд...
+[2026-10-02 10:04:36] sent_urls.txt обрезан: 304 -> 300
+[2026-10-02 10:04:36] === Блок midday завершён ===
