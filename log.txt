@@ -1,46 +1,3 @@
-[2026-09-27 15:01:18] RSS Euromaidan Press: 29 записей
-[2026-09-27 15:01:18] Нет фото: Asked if Ukraine would send troops to de
-[2026-09-27 15:01:18] Старая новость (2026-09-25T14:10:37Z): They say Dobropillia is encircled, but t
-[2026-09-27 15:01:18] Старая новость (2026-09-25T13:54:01Z): A bottle of flammable liquid in Poland, 
-[2026-09-27 15:01:18] Старая новость (2026-09-25T13:45:28Z): Russia strikes second civilian ship in B
-[2026-09-27 15:01:18] Старая новость (2026-09-25T13:42:25Z): Ukraine’s Mirage had killed a cruise mis
-[2026-09-27 15:01:18] Старая новость (2026-09-25T13:11:09Z): ISW connects drone crashes in Moldova an
-[2026-09-27 15:01:18] Старая новость (2026-09-25T08:45:00Z): Zelenskyy says Ukraine has agreed on a n
-[2026-09-27 15:01:18] Старая новость (2026-09-24T21:00:57Z): Russo-Ukrainian war, day 1674: Eight mon
-[2026-09-27 15:01:18] Старая новость (2026-09-24T19:36:05Z): For the 17th or 18th time, Putin promise
-[2026-09-27 15:01:18] Старая новость (2026-09-24T18:43:09Z): Russia spreads false encirclement claims
-[2026-09-27 15:01:18] Старая новость (2026-09-24T18:20:08Z): Russian-linked software sold to US gover
-[2026-09-27 15:01:18] Старая новость (2026-09-24T18:04:28Z): Ukraine put robots where its soldiers us
-[2026-09-27 15:01:18] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-09-27 15:01:18] Заблокированный источник (dailymail.com): Andy Burnham faces growing unrest from L
-[2026-09-27 15:01:18] Нет фото: Svitolina pummels Paolini to send Ukrain
-[2026-09-27 15:01:18] Нет фото: Russia bombs Ukrainian data centers in l
-[2026-09-27 15:01:18] Нет фото: Paramount Gets Warner Bros., and 140 TV 
-[2026-09-27 15:01:18] Заблокированный источник (nypost.com): Russian attacks kill 4 across Ukraine da
-[2026-09-27 15:01:18] Спорт, пропускаю: 'A really special moment' for Ukraine as
-[2026-09-27 15:01:18] Заблокированный источник (sports.yahoo.com): 'A really special moment' for Ukraine as
-[2026-09-27 15:01:18] Заблокированный источник (sputnikglobe.com): Putin, Vucic Discuss Pressing Int'l Issu
-[2026-09-27 15:01:18] Заблокированный источник (biztoc.com): Russia: Ukraine's election strikes were 
-[2026-09-27 15:01:18] Нет фото: Russia Strikes Ukraine Hub for Foreign-S
-[2026-09-27 15:01:18] Нет фото: U.S. may delay Taiwan arms sale amid mor
-[2026-09-27 15:01:18] Заблокированный источник (nypost.com): Serbian president Aleksandar Vucic takes
-[2026-09-27 15:01:18] Нет фото: Norway's Statement in the General Debate
-[2026-09-27 15:01:18] Нет фото: Lavrov at UNGA Outlines Russia's View of
-[2026-09-27 15:01:18] Нет фото: Data Center Supporting Starlink Operatio
-[2026-09-27 15:01:18] Нет фото: Russian Forces Liberate 3 Settlements in
-[2026-09-27 15:01:18] Нет фото: Zelenskyy Calls On Trump To Enact Russia
-[2026-09-27 15:01:18] Нет фото: 'Safeguard the postwar order,' China tel
-[2026-09-27 15:01:18] Нет фото: Canada urges stronger partnerships as gl
-[2026-09-27 15:01:18] Нет фото: Countries far from conflict paying the p
-[2026-09-27 15:01:18] Нет фото: Lavrov issues call for new Eurasian 'sec
-[2026-09-27 15:01:18] Нет фото: Minister Anand concludes participation i
-[2026-09-27 15:01:18] Заблокированный источник (biztoc.com): A U.S. Diesel Ban Would Slam Europe. But
-[2026-09-27 15:01:18] Заблокированный источник (finance.yahoo.com): Defying higher bond yields: Consumers ke
-[2026-09-27 15:01:18] Заблокированный источник (breitbart.com): At Least Seven Killed as Russia and Ukra
-[2026-09-27 15:01:18] Заблокированный источник (biztoc.com): Should Europeans Overthrow Their 'Ruling
-[2026-09-27 15:01:18] Заблокированный источник (biztoc.com): Zelensky confirms strike on Russian oil 
-[2026-09-27 15:01:18] Спорт, пропускаю: Timur Turlov wins FIDE vote, Anand named
-[2026-09-27 15:01:18] Заблокированный источник (biztoc.com): Russian Forces Strike Starlink Data Cent
 [2026-09-27 15:01:18] Заблокированный источник (rt.com): British tourist sparks backlash with Aus
 [2026-09-27 15:01:18] Внутренний дубль: Drone hits apartment building in Kyiv's Darnytskyi
 [2026-09-27 15:01:18] Внутренний дубль: Russian airstrikes in Sumy leaves two killed, five
@@ -2998,3 +2955,46 @@
 [2026-10-03 07:03:35] Пауза 60 секунд...
 [2026-10-03 07:04:36] sent_urls.txt обрезан: 304 -> 300
 [2026-10-03 07:04:36] === Блок ai_morning завершён ===
+[2026-10-03 10:01:12] Загружено 300 уже отправленных новостей
+[2026-10-03 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-10-03 10:01:12] Заблокированный источник (finance.yahoo.com): Stock market today: Dow, S&P 500, Nasdaq
+[2026-10-03 10:01:12] Неизвестный источник (cbssports.com): Philadelphia Phillies vs. Atlanta Braves
+[2026-10-03 10:01:12] Неизвестный источник (hollywoodreporter.com): Ken Urker, the Father of Gypsy-Rose Blan
+[2026-10-03 10:01:12] Неизвестный источник (macrumors.com): AT&T Acknowledges iPhone 18 Pro Max Issu
+[2026-10-03 10:01:12] Неизвестный источник (deadline.com): ‘Big Brother’ Season 28 Crowns Winner On
+[2026-10-03 10:01:12] Неизвестный источник (mlb.com): Here's how the pitching might line up fo
+[2026-10-03 10:01:12] Неизвестный источник (space.com): SpaceX Crew-13 astronauts dock at ISS le
+[2026-10-03 10:01:12] Неизвестный источник (pbs.org): Judge denies motion asking for Lindsay C
+[2026-10-03 10:01:12] Неизвестный источник (pbs.org): Student protests grip France as Prime Mi
+[2026-10-03 10:01:12] Заблокированный источник (sports.yahoo.com): Joey Porter Jr. says he felt 'disrespect
+[2026-10-03 10:01:12] Пропускаю уже отправленную: Putin warns West that Russia is prepared to use ‘a
+[2026-10-03 10:01:12] Спорт, пропускаю: Tyson Fury vs Anthony Joshua fight confi
+[2026-10-03 10:01:12] Неизвестный источник (rollingstone.com): Sean Combs Placed in Solitary Confinemen
+[2026-10-03 10:01:12] Неизвестный источник (9to5mac.com): Twelve South launches tiny new ‘Airfly D
+[2026-10-03 10:01:12] Неизвестный источник (digitalfoundry.net): Sony announces QSSR AI upscaling tech fo
+[2026-10-03 10:01:12] Неизвестный источник (ew.com): Ben Affleck walks back friend Matt Damon
+[2026-10-03 10:01:12] Неизвестный источник (sciencedaily.com): This diet may slow brain aging by 2.5 ye
+[2026-10-03 10:01:12] Старая новость (2026-10-01T02:24:00Z): Pennsylvania reports fifth measles-assoc
+[2026-10-03 10:01:12] Старая новость (2026-09-30T16:20:00Z): October’s Night Sky Will Bring 3 Meteor 
+[2026-10-03 10:01:12] Мировые новости: найдено 11 после фильтрации
+[2026-10-03 10:01:14] Редакторский отбор: выбраны позиции [8, 3, 11, 4]
+[2026-10-03 10:01:14] Обрабатываю: US to send third aircraft carrier towards Iran: US official  | https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-car
+[2026-10-03 10:01:14] Полный текст получен (3000 символов)
+[2026-10-03 10:01:14] Попытка 1 для: US to send third aircraft carrier toward
+[2026-10-03 10:01:17] Успешно, получено 1340 символов
+[2026-10-03 10:01:17] Обрабатываю: Trump is bringing big projects to red states. Republicans fe | https://www.politico.com/news/2026/10/02/trump-is-bringing-big-project
+[2026-10-03 10:01:17] Попытка 1 для: Trump is bringing big projects to red st
+[2026-10-03 10:01:19] Успешно, получено 947 символов
+[2026-10-03 10:01:19] Обрабатываю: The family of Renee Good files lawsuits over her death durin | https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-mi
+[2026-10-03 10:01:20] Полный текст получен (3000 символов)
+[2026-10-03 10:01:20] Попытка 1 для: The family of Renee Good files lawsuits 
+[2026-10-03 10:01:24] Успешно, получено 2140 символов
+[2026-10-03 10:01:24] Обрабатываю: Christa Pike is in critical condition after failed execution | https://www.nbcnews.com/news/us-news/christa-pike-critical-condition-f
+[2026-10-03 10:01:24] Полный текст получен (3000 символов)
+[2026-10-03 10:01:24] Попытка 1 для: Christa Pike is in critical condition af
+[2026-10-03 10:01:28] Успешно, получено 1836 символов
+[2026-10-03 10:01:31] Пауза 60 секунд...
+[2026-10-03 10:02:31] Пауза 60 секунд...
+[2026-10-03 10:03:32] Пауза 60 секунд...
+[2026-10-03 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-03 10:04:33] === Блок midday завершён ===
