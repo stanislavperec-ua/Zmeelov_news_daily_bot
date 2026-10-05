@@ -1,59 +1,3 @@
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Arthur C. Clarke, Visionary Extraordinaire
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: The Greek Prime Minister’s return, the small, bigg
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: 7 Underrated Cartoon Network Anime That Are Consid
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Powered by AI, Nokia re-emerges with a new look
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Editorial. Spam traps
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Govt launches initiative to build digital public i
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Urgent Structural Reform of Tribhuvan University
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Stop Mad King Donald’s Iran War: An Open Letter to
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Attorney General Todd Blanche Pushes Back On ABC N
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Sorcerer Supreme #10 Preview: Wanda Pays the Magic
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Teen researcher with AI hackbot cracks Microsoft's
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Get rules in place to hold data centres to account
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: America’s next military advantage is trusted data
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: America must be able to restore its space power at
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Queen in Black: Venom Unchained #3 Preview: Crown 
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Editorial. Spam traps
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: DTDC sets sights on nearly doubling revenue by FY3
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Attorney General Blanche says White House press ac
-[2026-09-29 07:01:15] Пропускаю уже отправленную: LAPD to place all-purpose, AI-augmented readers on
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Zatanna #6 Preview: Hidden City Has a Dragon-Sized
-[2026-09-29 07:01:15] Пропускаю уже отправленную: Bill Gates says getting countries to agree on AI r
-[2026-09-29 07:01:15] Не про ИИ, пропускаю: Nikkei Faces Dividend Test After Five-Day Rally
-[2026-09-29 07:01:15] Пропускаю уже отправленную: Google Ranking Factors, AI Agents, LinkedIn SEO & 
-[2026-09-29 07:01:15] Нет фото: radiate 0.0.16
-[2026-09-29 07:01:15] Пропускаю уже отправленную: OpenAI pauses training, tool-use of top AI models 
-[2026-09-29 07:01:15] AI новости: 6 кандидатов после фильтрации
-[2026-09-29 07:01:16] Редакторский отбор: выбраны позиции [6, 5, 3, 1]
-[2026-09-29 07:01:16] Обрабатываю: OpenAI pauses training of top AI models after agent bypasses | https://www.business-standard.com/technology/artificial-intelligence/o
-[2026-09-29 07:01:16] Полный текст получен (3000 символов)
-[2026-09-29 07:01:16] Попытка 1 для: OpenAI pauses training of top AI models 
-[2026-09-29 07:01:20] Успешно, получено 1811 символов
-[2026-09-29 07:01:20] Обрабатываю: OpenAI Agent Reportedly Bypassed Safeguards and Hacked Austr | https://legalinsurrection.com/2026/09/openai-agent-reportedly-bypassed
-[2026-09-29 07:01:21] Полный текст получен (3000 символов)
-[2026-09-29 07:01:21] Попытка 1 для: OpenAI Agent Reportedly Bypassed Safegua
-[2026-09-29 07:01:25] Успешно, получено 1499 символов
-[2026-09-29 07:01:25] Обрабатываю: OpenAI Slows AI Training Following Latest Security Incident | https://www.pymnts.com/news/artificial-intelligence/2026/openai-slows-
-[2026-09-29 07:01:25] Полный текст получен (2764 символов)
-[2026-09-29 07:01:25] Попытка 1 для: OpenAI Slows AI Training Following Lates
-[2026-09-29 07:01:27] Успешно, получено 1443 символов
-[2026-09-29 07:01:27] Обрабатываю: AWS CloudWatch Omni goes after the hardest question in agent | https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the
-[2026-09-29 07:01:28] Полный текст получен (3000 символов)
-[2026-09-29 07:01:28] Попытка 1 для: AWS CloudWatch Omni goes after the harde
-[2026-09-29 07:01:34] Успешно, получено 1717 символов
-[2026-09-29 07:01:37] Пауза 60 секунд...
-[2026-09-29 07:02:37] Пауза 60 секунд...
-[2026-09-29 07:03:37] Пауза 60 секунд...
-[2026-09-29 07:04:38] sent_urls.txt обрезан: 304 -> 300
-[2026-09-29 07:04:38] === Блок ai_morning завершён ===
-[2026-09-29 10:01:13] Загружено 300 уже отправленных новостей
-[2026-09-29 10:01:13] === Запуск блока: midday (тест: False) ===
-[2026-09-29 10:01:14] Неизвестный источник (space.com): What time will SpaceX launch its 1st orb
-[2026-09-29 10:01:14] Заблокированный источник (nypost.com): The dangerous assumption people make abo
-[2026-09-29 10:01:14] Неизвестный источник (investing.com): Asia stocks slip as oil, yields rise; ch
-[2026-09-29 10:01:14] Неизвестный источник (foxnews.com): Sen Kennedy says no living politicians s
-[2026-09-29 10:01:14] Спорт, пропускаю: AEW wrestling star Benjamin Satterley, k
 [2026-09-29 10:01:14] Неизвестный источник (billboard.com): Snubs & Surprises at the 2026 VMAs - Bil
 [2026-09-29 10:01:14] Заблокированный источник (finance.yahoo.com): Here’s the List of Goods the US, China A
 [2026-09-29 10:01:14] Неизвестный источник (espn.com): Ravens stun Cowboys in final seconds as 
@@ -2998,3 +2942,59 @@
 [2026-10-05 05:05:56] Пауза 60 секунд...
 [2026-10-05 05:06:56] sent_urls.txt обрезан: 307 -> 300
 [2026-10-05 05:06:56] === Блок morning завершён ===
+[2026-10-05 07:01:19] Загружено 300 уже отправленных новостей
+[2026-10-05 07:01:19] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-05 07:01:19] Неизвестный источник (thehindubusinessline.com): Jio Platforms IPO likely by Oct end at e
+[2026-10-05 07:01:19] Неизвестный источник (business-standard.com): Jio IPO likely by Oct end at enterprise 
+[2026-10-05 07:01:19] Заблокированный источник (nypost.com): Trump defends data centers in Ohio, warn
+[2026-10-05 07:01:19] Неизвестный источник (english.khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-10-05 07:01:19] Неизвестный источник (researchbuzz.me): Illegal Snipe Hunts, Protest Art, Amazon
+[2026-10-05 07:01:19] Нет фото: A low-complexity optical OFDM physical l
+[2026-10-05 07:01:19] Неизвестный источник (bleedingcool.com): DC's Quoth the Raven… Whatever #1 Previe
+[2026-10-05 07:01:19] Неизвестный источник (disneyfoodblog.com): These NEW Disney Patents Could Mean Big 
+[2026-10-05 07:01:19] Неизвестный источник (digitaljournal.com): AI-driven network upgrades expose hidden
+[2026-10-05 07:01:19] Неизвестный источник (brobible.com): Why Is Mississippi State Allowed To Ring
+[2026-10-05 07:01:19] Заблокированный источник (sports.yahoo.com): Aaron Judge reportedly not included on Y
+[2026-10-05 07:01:19] Неизвестный источник (thehindubusinessline.com): RBI committed to remain vigilant of emer
+[2026-10-05 07:01:19] Неизвестный источник (foxnews.com): AI agents can now make phone calls for y
+[2026-10-05 07:01:19] Неизвестный источник (scientificamerican.com): How the brain uses memory to imagine wha
+[2026-10-05 07:01:19] Неизвестный источник (economictimes.indiatimes.com): Next financial crisis may stem from cybe
+[2026-10-05 07:01:19] Неизвестный источник (business-standard.com): IG Defence tests solid rocket motors for
+[2026-10-05 07:01:19] Неизвестный источник (business-standard.com): Today's financial resilience does not gu
+[2026-10-05 07:01:19] Неизвестный источник (thehindubusinessline.com): Resilience of financial system not a gua
+[2026-10-05 07:01:19] Неизвестный источник (economictimes.indiatimes.com): Navigating the future of connectivity an
+[2026-10-05 07:01:19] Нет фото: llmval 1.0.1
+[2026-10-05 07:01:19] Нет фото: How do lateral line and a line of Lorenz
+[2026-10-05 07:01:19] AI новости: 0 с доверенных источников
+[2026-10-05 07:01:19] Доверенных AI-источников мало, добираю из остальных
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Jio Platforms IPO likely by Oct end at enterprise 
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Jio IPO likely by Oct end at enterprise valuation 
+[2026-10-05 07:01:19] Заблокированный источник (nypost.com): Trump defends data centers in Ohio, warn
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Economic Digest: A Snapshot of Nepal’s Business Ne
+[2026-10-05 07:01:19] Нет фото: A low-complexity optical OFDM physical l
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: DC's Quoth the Raven… Whatever #1 Preview: Raven S
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: These NEW Disney Patents Could Mean Big Changes
+[2026-10-05 07:01:19] Спорт, пропускаю: Why Is Mississippi State Allowed To Ring
+[2026-10-05 07:01:19] Заблокированный источник (sports.yahoo.com): Aaron Judge reportedly not included on Y
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: RBI committed to remain vigilant of emerging vulne
+[2026-10-05 07:01:19] Пропускаю уже отправленную: AI agents can now make phone calls for you
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: How the brain uses memory to imagine what might ha
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Next financial crisis may stem from cyberattack or
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: IG Defence tests solid rocket motors for indigenou
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Today's financial resilience does not guarantee fu
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Resilience of financial system not a guarantee aga
+[2026-10-05 07:01:19] Не про ИИ, пропускаю: Navigating the future of connectivity and security
+[2026-10-05 07:01:19] Нет фото: llmval 1.0.1
+[2026-10-05 07:01:19] Нет фото: How do lateral line and a line of Lorenz
+[2026-10-05 07:01:19] AI новости: 2 кандидатов после фильтрации
+[2026-10-05 07:01:19] Обрабатываю: Illegal Snipe Hunts, Protest Art, Amazon and Data Centers, M | https://researchbuzz.me/2026/10/03/illegal-snipe-hunts-protest-art-ama
+[2026-10-05 07:01:20] Полный текст получен (3000 символов)
+[2026-10-05 07:01:20] Попытка 1 для: Illegal Snipe Hunts, Protest Art, Amazon
+[2026-10-05 07:01:23] Успешно, получено 1486 символов
+[2026-10-05 07:01:23] Обрабатываю: AI-driven network upgrades expose hidden complexity in the s | https://www.digitaljournal.com/article/ai-driven-network-upgrades-expo
+[2026-10-05 07:01:23] Текст не совпадает с заголовком, беру описание: https://www.digitaljournal.com/article/ai-driven-network-upg
+[2026-10-05 07:01:23] Попытка 1 для: AI-driven network upgrades expose hidden
+[2026-10-05 07:01:25] Успешно, получено 754 символов
+[2026-10-05 07:01:27] Пауза 60 секунд...
+[2026-10-05 07:02:28] sent_urls.txt обрезан: 302 -> 300
+[2026-10-05 07:02:28] === Блок ai_morning завершён ===
