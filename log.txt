@@ -1,47 +1,3 @@
-[2026-09-29 10:01:14] Неизвестный источник (billboard.com): Snubs & Surprises at the 2026 VMAs - Bil
-[2026-09-29 10:01:14] Заблокированный источник (finance.yahoo.com): Here’s the List of Goods the US, China A
-[2026-09-29 10:01:14] Неизвестный источник (espn.com): Ravens stun Cowboys in final seconds as 
-[2026-09-29 10:01:14] Неизвестный источник (variety.com): Taylor Swift Premieres Star-Filled 'Pati
-[2026-09-29 10:01:14] Неизвестный источник (cbssports.com): NFL Week 3 grades for all 32 teams: Patr
-[2026-09-29 10:01:14] Пропускаю уже отправленную: Deadly storm hits the Northeast, and five arrested
-[2026-09-29 10:01:14] Неизвестный источник (9to5mac.com): This is my top feature request for the u
-[2026-09-29 10:01:14] Неизвестный источник (mmafighting.com): Raoni Barcelos’ coach shares medical upd
-[2026-09-29 10:01:14] Неизвестный источник (boxofficepro.com): Weekend Box Office: AVENGERS: ENDGAME EN
-[2026-09-29 10:01:14] Неизвестный источник (notebookcheck.net): First Samsung Galaxy S27 Ultra cases rev
-[2026-09-29 10:01:14] Старая новость (2026-09-23T23:32:12Z): Reference genomes and fossils revise bat
-[2026-09-29 10:01:14] Мировые новости: найдено 14 после фильтрации
-[2026-09-29 10:01:16] Редакторский отбор: выбраны позиции [13, 3, 1, 8]
-[2026-09-29 10:01:16] Обрабатываю: After nixing Iran proposal, Trump tells Axios he expects tal | https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negoti
-[2026-09-29 10:01:16] Попытка 1 для: After nixing Iran proposal, Trump tells 
-[2026-09-29 10:01:18] Успешно, получено 722 символов
-[2026-09-29 10:01:18] Обрабатываю: Air base at the center of a UK terror probe has been used by | https://apnews.com/article/uk-raf-fairford-us-air-force-explainer-739a
-[2026-09-29 10:01:18] Попытка 1 для: Air base at the center of a UK terror pr
-[2026-09-29 10:01:20] Успешно, получено 876 символов
-[2026-09-29 10:01:20] Обрабатываю: Nvidia releases software platform to stop AI agents from mis | https://www.cnbc.com/2026/09/28/nvidia-releases.html
-[2026-09-29 10:01:20] Полный текст получен (3000 символов)
-[2026-09-29 10:01:20] Попытка 1 для: Nvidia releases software platform to sto
-[2026-09-29 10:01:23] Успешно, получено 1779 символов
-[2026-09-29 10:01:23] Обрабатываю: Trump administration set to roll out lower fuel economy stan | https://apnews.com/article/trump-gas-mileage-electric-vehicles-polluti
-[2026-09-29 10:01:23] Попытка 1 для: Trump administration set to roll out low
-[2026-09-29 10:01:25] Успешно, получено 1031 символов
-[2026-09-29 10:01:28] Пауза 60 секунд...
-[2026-09-29 10:02:29] Пауза 60 секунд...
-[2026-09-29 10:03:29] Пауза 60 секунд...
-[2026-09-29 10:04:29] sent_urls.txt обрезан: 304 -> 300
-[2026-09-29 10:04:29] === Блок midday завершён ===
-[2026-09-29 15:01:18] Загружено 300 уже отправленных новостей
-[2026-09-29 15:01:18] === Запуск блока: evening (тест: False) ===
-[2026-09-29 15:01:18] Заблокированный источник (finance.yahoo.com): Nvidia announces jaw-dropping $150 billi
-[2026-09-29 15:01:18] Лента обновлений, пропускаю: Five men arrested near RAF Fairford on s
-[2026-09-29 15:01:18] Спорт, пропускаю: A wild NFL Sunday saved its craziest sev
-[2026-09-29 15:01:18] Неизвестный источник (usatoday.com): Biggest VMAs moments, from Madonna's per
-[2026-09-29 15:01:18] Неизвестный источник (foxnews.com): NFL Week 3 Sunday takeaways: Patriots ha
-[2026-09-29 15:01:18] Неизвестный источник (space.com): What time will SpaceX launch its 1st orb
-[2026-09-29 15:01:18] Неизвестный источник (bgr.com): The Xbox Series X Can Now Play PlayStati
-[2026-09-29 15:01:18] Заблокированный источник (nypost.com): The dangerous assumption people make abo
-[2026-09-29 15:01:18] Лента обновлений, пропускаю: Live Updates: Iran says Trump must choos
-[2026-09-29 15:01:18] Неизвестный источник (gizmodo.com): The Apple Next Vision Pro Is Reportedly 
-[2026-09-29 15:01:18] Пропускаю уже отправленную: Nvidia releases software platform to stop AI agent
 [2026-09-29 15:01:18] Неизвестный источник (foxnews.com): Sen Kennedy says no living politicians s
 [2026-09-29 15:01:18] Спорт, пропускаю: AEW wrestling star Benjamin Satterley, k
 [2026-09-29 15:01:18] Неизвестный источник (variety.com): Taylor Swift Premieres Star-Filled 'Pati
@@ -2998,3 +2954,47 @@
 [2026-10-05 07:01:27] Пауза 60 секунд...
 [2026-10-05 07:02:28] sent_urls.txt обрезан: 302 -> 300
 [2026-10-05 07:02:28] === Блок ai_morning завершён ===
+[2026-10-05 10:01:16] Загружено 300 уже отправленных новостей
+[2026-10-05 10:01:16] === Запуск блока: midday (тест: False) ===
+[2026-10-05 10:01:16] Неизвестный источник (tampabay.com): Drew Rasmussen no-hits Yankees into 8th 
+[2026-10-05 10:01:16] Неизвестный источник (jsonline.com): High-wire act! Inside the insane play in
+[2026-10-05 10:01:16] Неизвестный источник (tmz.com): Jada Pinkett Smith Wants Will's Ex-Pal T
+[2026-10-05 10:01:16] Неизвестный источник (mlb.com): 1 question for each team going into toda
+[2026-10-05 10:01:16] Неизвестный источник (bostonglobe.com): Searchers find debris of Boston-bound me
+[2026-10-05 10:01:16] Заблокированный источник (sports.yahoo.com): UFC 332 results: Natália Silva wins flyw
+[2026-10-05 10:01:16] Неизвестный источник (vogue.in): Cancer Horoscope Today: October 4, 2026 
+[2026-10-05 10:01:16] Неизвестный источник (kotaku.com): Valorant Player Banned Due To Previous C
+[2026-10-05 10:01:16] Неизвестный источник (oilprice.com): Iran Is Losing Some of Its Leverage Over
+[2026-10-05 10:01:16] Неизвестный источник (hollywoodreporter.com): Tom Cruise’s ‘Digger’ Plunging at Box Of
+[2026-10-05 10:01:16] Пропускаю уже отправленную: 2 Iranian men charged over alleged bomb plot to ta
+[2026-10-05 10:01:16] Неизвестный источник (newser.com): Doctor Groups Fill In for CDC During Flu
+[2026-10-05 10:01:16] Пропускаю уже отправленную: G7 to release 100 million barrels of oil and diese
+[2026-10-05 10:01:16] Старая новость (2026-10-03T09:01:03Z): Canada's Atlantic waters are attracting 
+[2026-10-05 10:01:16] Старая новость (2026-10-02T21:48:00Z): Stock Market Shifts To Higher Gear After
+[2026-10-05 10:01:16] Старая новость (2026-10-02T20:18:00Z): An Ebola treatment center was burned dow
+[2026-10-05 10:01:16] Старая новость (2026-10-02T17:49:00Z): Kansas City can see Saturn at its bright
+[2026-10-05 10:01:16] Старая новость (2026-10-02T15:53:07Z): NASA Has Been So Thoroughly Screwed by B
+[2026-10-05 10:01:16] Старая новость (2026-10-02T14:49:34Z): SpaceX stock surges after successful ISS
+[2026-10-05 10:01:16] Старая новость (2026-10-02T14:21:01Z): Skip the Wait. Microsoft's 26H2 Update F
+[2026-10-05 10:01:16] Старая новость (2026-10-02T11:30:00Z): NASA SpaceX flight sets speed record in 
+[2026-10-05 10:01:16] Старая новость (2026-10-01T19:21:53Z): ChatGPT can now virtually try on clothes
+[2026-10-05 10:01:16] Мировые новости: найдено 9 после фильтрации
+[2026-10-05 10:01:17] Редакторский отбор: выбраны позиции [7, 1, 8, 6]
+[2026-10-05 10:01:17] Обрабатываю: Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote | https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-d
+[2026-10-05 10:01:17] Попытка 1 для: Lula, Bolsonaro in Dead Heat as Brazil P
+[2026-10-05 10:01:20] Успешно, получено 825 символов
+[2026-10-05 10:01:20] Обрабатываю: U.S. Marine arrested on suspicion of killing Japanese woman  | https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killi
+[2026-10-05 10:01:20] Полный текст получен (2810 символов)
+[2026-10-05 10:01:20] Попытка 1 для: U.S. Marine arrested on suspicion of kil
+[2026-10-05 10:01:23] Успешно, получено 1486 символов
+[2026-10-05 10:01:23] Обрабатываю: AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer | https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powe
+[2026-10-05 10:01:23] Попытка 1 для: AI Deal Frenzy Powers Hong Kong Fundrais
+[2026-10-05 10:01:26] Успешно, получено 870 символов
+[2026-10-05 10:01:26] Обрабатываю: Trump announces $90 payments for seniors on Medicare ahead o | https://apnews.com/article/trump-medicare-payments-midterms-2a314c1c4b
+[2026-10-05 10:01:26] Попытка 1 для: Trump announces $90 payments for seniors
+[2026-10-05 10:01:28] Успешно, получено 949 символов
+[2026-10-05 10:01:31] Пауза 60 секунд...
+[2026-10-05 10:02:32] Пауза 60 секунд...
+[2026-10-05 10:03:32] Пауза 60 секунд...
+[2026-10-05 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-05 10:04:33] === Блок midday завершён ===
