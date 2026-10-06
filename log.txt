@@ -1,133 +1,3 @@
-[2026-09-30 15:01:20] Внутренний дубль: Massive attack on Kyiv leaves two killed, five inj
-[2026-09-30 15:01:20] Внутренний дубль: Russian drone flies into and explodes in Moldova
-[2026-09-30 15:01:20] Внутренний дубль: War update: 221 clashes on frontline over the past
-[2026-09-30 15:01:20] Внутренний дубль: ADF neutralizes five ballistic missiles, 155 Russi
-[2026-09-30 15:01:20] Украинские новости: найдено 68 после фильтрации
-[2026-09-30 15:01:22] Редакторский отбор: выбраны позиции [19, 6]
-[2026-09-30 15:01:22] NewsAPI (Харьков, все издания): пришло 16 статей
-[2026-09-30 15:01:23] RSS Ukrinform: 30 записей
-[2026-09-30 15:01:24] RSS Ukrinform: 30 записей
-[2026-09-30 15:01:24] RSS Euromaidan Press: 29 записей
-[2026-09-30 15:01:24] Нет фото: Russian Forces Foil Breakout Attempt by 
-[2026-09-30 15:01:24] Нет фото: Russian Forces Liberate Kreydyanka Settl
-[2026-09-30 15:01:24] Заблокированный источник (dailymail.com): Ukraine uses unmanned 'zombie cars' pack
-[2026-09-30 15:01:24] Нет фото: Observation of $\mathrm{ϒ}(1\mathrm{S})+
-[2026-09-30 15:01:24] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Kreydyanka Settl
-[2026-09-30 15:01:24] Заблокированный источник (dailymail.com): Desperate Putin signs decree increasing 
-[2026-09-30 15:01:24] Заблокированный источник (sputnikglobe.com): Russian Forces Foil Breakout Attempt by 
-[2026-09-30 15:01:24] Нет фото: INTERNET APOCALYPSE: Providers Collapsin
-[2026-09-30 15:01:24] Нет фото: INTERNET APOCALYPSE: Providers Collapsin
-[2026-09-30 15:01:24] Заблокированный источник (yahoo.com): Russian drones hit science academy in th
-[2026-09-30 15:01:24] Харьков: новостей не найдено
-[2026-09-30 15:01:24] Обрабатываю: Hurricane Polo makes landfall in Mexico, with life-threateni | https://www.bbc.com/news/articles/cw8d3z5y7958o
-[2026-09-30 15:01:24] Полный текст получен (3000 символов)
-[2026-09-30 15:01:24] Попытка 1 для: Hurricane Polo makes landfall in Mexico,
-[2026-09-30 15:01:27] Успешно, получено 1532 символов
-[2026-09-30 15:01:27] Обрабатываю: RAF Fairford incident involves 'foreign actor', says Rubio | https://www.bbc.com/news/articles/cm7502650gy6o
-[2026-09-30 15:01:28] Полный текст получен (3000 символов)
-[2026-09-30 15:01:28] Попытка 1 для: RAF Fairford incident involves 'foreign 
-[2026-09-30 15:01:30] Успешно, получено 1902 символов
-[2026-09-30 15:01:30] Обрабатываю: America's Canadian import restrictions come into force. Here | https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html
-[2026-09-30 15:01:30] Полный текст получен (3000 символов)
-[2026-09-30 15:01:30] Попытка 1 для: America's Canadian import restrictions c
-[2026-09-30 15:01:35] Успешно, получено 3333 символов
-[2026-09-30 15:01:35] Обрабатываю: Dengue fever surge in Florida shows the virus’ growing threa | https://www.nbcnews.com/health/health-news/dengue-fever-florida-virus-
-[2026-09-30 15:01:35] Полный текст получен (720 символов)
-[2026-09-30 15:01:35] Попытка 1 для: Dengue fever surge in Florida shows the 
-[2026-09-30 15:01:43] Успешно, получено 1318 символов
-[2026-09-30 15:01:46] Пауза 60 секунд...
-[2026-09-30 15:02:47] Пауза 60 секунд...
-[2026-09-30 15:03:47] Пауза 60 секунд...
-[2026-09-30 15:04:48] Обрабатываю: Five killed, 14 injured in Russian attacks primarily targeti | https://www.ukrinform.net/rubric-ato/4169521-five-killed-14-injured-in
-[2026-09-30 15:04:49] Полный текст получен (832 символов)
-[2026-09-30 15:04:49] Попытка 1 для: Five killed, 14 injured in Russian attac
-[2026-09-30 15:04:51] Успешно, получено 1096 символов
-[2026-09-30 15:04:51] Обрабатываю: Humanitarian catastrophe in occupied Oleshky: Ukraine calls  | https://www.ukrinform.net/rubric-polytics/4169660-humanitarian-catastr
-[2026-09-30 15:04:51] Полный текст получен (1623 символов)
-[2026-09-30 15:04:51] Попытка 1 для: Humanitarian catastrophe in occupied Ole
-[2026-09-30 15:04:55] Успешно, получено 1835 символов
-[2026-09-30 15:04:58] Пауза 60 секунд...
-[2026-09-30 15:05:58] sent_urls.txt обрезан: 306 -> 300
-[2026-09-30 15:05:58] === Блок evening завершён ===
-[2026-09-30 17:01:38] Загружено 300 уже отправленных новостей
-[2026-09-30 17:01:38] === Запуск блока: ai_evening (тест: False) ===
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: New data centres designed for AI ‘require power in
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Unily launches Content Studio to drive s
-[2026-09-30 17:01:38] Неизвестный источник (nzherald.co.nz): Super El Niño: Fears for six-figure deat
-[2026-09-30 17:01:38] Неизвестный источник (ozcanbuze947071.substack.com): Is Edward Said’s Critique of Orientalism
-[2026-09-30 17:01:38] Неизвестный источник (microsoft.com): Star Blizzard refines phishing and malwa
-[2026-09-30 17:01:38] Нет фото: artificial-analysis-cli added to PyPI
-[2026-09-30 17:01:38] Неизвестный источник (telecomtv.com): What’s up with… Bell Canada, Ericsson, O
-[2026-09-30 17:01:38] Нет фото: wcag-site-pdf-scanner added to PyPI
-[2026-09-30 17:01:38] Нет фото: pams 0.3.0
-[2026-09-30 17:01:38] Неизвестный источник (journals.plos.org): Selective serotonin reuptake inhibitors 
-[2026-09-30 17:01:38] Неизвестный источник (salon.com): Fox News tries to cool conservative ange
-[2026-09-30 17:01:38] Нет фото: Wisedocs Launches Legal Intelligence at 
-[2026-09-30 17:01:38] Нет фото: PMI and TIME Studios Highlight the Proje
-[2026-09-30 17:01:38] Неизвестный источник (economictimes.indiatimes.com): In 2021, New Jersey dropped about 400 do
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): Top U.S. Health Officials to Address Rar
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Omnissa debuts AI agents for IT, a manag
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): CobbleStone® Expands UK Public Sector Pr
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): CData’s AI gateway governs agents’ acces
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Komprise combats ‘MCP bloat’ with a univ
-[2026-09-30 17:01:38] Нет фото: connectome-agent added to PyPI
-[2026-09-30 17:01:38] Неизвестный источник (financialpost.com): Leading Technology Consultancy Public Di
-[2026-09-30 17:01:38] Нет фото: OBIO’s Capital Access Advisory Program (
-[2026-09-30 17:01:38] Неизвестный источник (landezine.com): Dezeen Awards 2026 Shortlist in Landscap
-[2026-09-30 17:01:38] Неизвестный источник (financialpost.com): Cizzle Brands® Corporation Announces Mul
-[2026-09-30 17:01:38] Неизвестный источник (ibtimes.com.au): Hegseth Orders NSA and Military Cyber Fo
-[2026-09-30 17:01:38] Неизвестный источник (economictimes.indiatimes.com): 10 Terms to Know Ahead of India Mobile C
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Accel and Google back Dodge AI’s ambitio
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Rig Security launches with $12M to watch
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): Oracle expands AI agent features with Fu
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): GTT launches Defense Halo to hunt for th
-[2026-09-30 17:01:38] Неизвестный источник (siliconangle.com): RemoteThreat launches with $7M for an of
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): AIxC (FFR) and FFAI Provide Additional D
-[2026-09-30 17:01:38] Неизвестный источник (thenextweb.com): Trump to host Mark Zuckerberg, Dario Amo
-[2026-09-30 17:01:38] Неизвестный источник (financialpost.com): ProductLife Group completes its transfor
-[2026-09-30 17:01:38] Нет фото: GeoComply MCP brings risk intelligence a
-[2026-09-30 17:01:38] Неизвестный источник (gizmodo.com): This Gene-Tech Is More Impressive Than t
-[2026-09-30 17:01:38] Неизвестный источник (pymnts.com): P&G Takes Its AI Scrap Killer Global
-[2026-09-30 17:01:38] Неизвестный источник (proofsandprompts.com): Can AI truly prove anything?
-[2026-09-30 17:01:38] Неизвестный источник (rte.ie): Ward's new assistant Sorensen named Vill
-[2026-09-30 17:01:38] Нет фото: New Burford Quarterly Explores How Legal
-[2026-09-30 17:01:38] Неизвестный источник (rte.ie): Galway university students say AI use ha
-[2026-09-30 17:01:38] Неизвестный источник (screenrant.com): Daniel Craig’s 107-Minute Adventure Clas
-[2026-09-30 17:01:38] Неизвестный источник (financialpost.com): Cohere CEO calls for global AI safety bo
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): Amplified Planning's The Externship Post
-[2026-09-30 17:01:38] Неизвестный источник (indiancatholicmatters.org): From Semper Magis to Always Locked in. G
-[2026-09-30 17:01:38] Неизвестный источник (punchng.com): Zuckerberg, Pichai, others to meet Trump
-[2026-09-30 17:01:38] Неизвестный источник (newsonjapan.com): Nikkei Falls 396 Points as Ex-Dividend D
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: 4 ways to avoid getting ripped off, according to a
-[2026-09-30 17:01:38] Неизвестный источник (en.antaranews.com): HKTDC raises 2026 export forecast amid A
-[2026-09-30 17:01:38] Неизвестный источник (pymnts.com): CFOs Pay a Price for Every Disconnected 
-[2026-09-30 17:01:38] Неизвестный источник (warontherocks.com): The Unhedgeable Bet: What the Future Com
-[2026-09-30 17:01:38] Неизвестный источник (ibtimes.com.au): Megaport Shares Jump 9% After Nearly $1 
-[2026-09-30 17:01:38] Неизвестный источник (economictimes.indiatimes.com): In 2004, Virginia turned dredged fossil 
-[2026-09-30 17:01:38] Неизвестный источник (ibtimes.com.au): Codan Shares Soar Nearly 24% to Record H
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: SpaceX Starship Flight 14 Reaches Earth’s Orbit fo
-[2026-09-30 17:01:38] Неизвестный источник (ibtimes.com.au): ASX 200 Closes Higher as Tech Stocks Sur
-[2026-09-30 17:01:38] Неизвестный источник (thehindubusinessline.com): 99% of Indian entrepreneurs are reshapin
-[2026-09-30 17:01:38] Неизвестный источник (insidehighered.com): Career Prep When No One Knows What’s Nex
-[2026-09-30 17:01:38] AI новости: 2 с доверенных источников
-[2026-09-30 17:01:38] Доверенных AI-источников мало, добираю из остальных
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: New data centres designed for AI ‘require power in
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Unily launches Content Studio to drive simple, acc
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Super El Niño: Fears for six-figure death toll, dr
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Is Edward Said’s Critique of Orientalism Free of E
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Star Blizzard refines phishing and malware deliver
-[2026-09-30 17:01:38] Нет фото: artificial-analysis-cli added to PyPI
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: What’s up with… Bell Canada, Ericsson, Orange Busi
-[2026-09-30 17:01:38] Нет фото: wcag-site-pdf-scanner added to PyPI
-[2026-09-30 17:01:38] Нет фото: pams 0.3.0
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Selective serotonin reuptake inhibitors and immune
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: Fox News tries to cool conservative anger over AI
-[2026-09-30 17:01:38] Нет фото: Wisedocs Launches Legal Intelligence at 
-[2026-09-30 17:01:38] Нет фото: PMI and TIME Studios Highlight the Proje
-[2026-09-30 17:01:38] Не про ИИ, пропускаю: In 2021, New Jersey dropped about 400 donated grav
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): Top U.S. Health Officials to Address Rar
-[2026-09-30 17:01:38] Заблокированный источник (prnewswire.com): CobbleStone® Expands UK Public Sector Pr
-[2026-09-30 17:01:38] Нет фото: connectome-agent added to PyPI
 [2026-09-30 17:01:38] Не про ИИ, пропускаю: Leading Technology Consultancy Public Digital Warn
 [2026-09-30 17:01:38] Нет фото: OBIO’s Capital Access Advisory Program (
 [2026-09-30 17:01:38] Не про ИИ, пропускаю: Dezeen Awards 2026 Shortlist in Landscape and Urba
@@ -2998,3 +2868,133 @@
 [2026-10-06 15:06:35] Пауза 60 секунд...
 [2026-10-06 15:07:36] sent_urls.txt обрезан: 307 -> 300
 [2026-10-06 15:07:36] === Блок evening завершён ===
+[2026-10-06 17:01:20] Загружено 300 уже отправленных новостей
+[2026-10-06 17:01:20] === Запуск блока: ai_evening (тест: False) ===
+[2026-10-06 17:01:21] Неизвестный источник (abcnews.com): Lack of transparency in what space weapo
+[2026-10-06 17:01:21] Неизвестный источник (onlys.ky): The future of independence is interdepen
+[2026-10-06 17:01:21] Нет фото: aait 6.0.5
+[2026-10-06 17:01:21] Неизвестный источник (reason.com): The End of Social Media
+[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Scindia pitches India as global base for
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): LeapXpert brings governed WhatsApp clien
+[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Moral and perceptual conflict processing
+[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Genetic architecture of basal heart rate
+[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Sustainable hemocompatibility prediction
+[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Fracture propagation and permeability en
+[2026-10-06 17:01:21] Неизвестный источник (financialpost.com): The only billionaires making money this 
+[2026-10-06 17:01:21] Неизвестный источник (thewrap.com): Skydance Signals a New Dawn for Hollywoo
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Exclusive: Iterate.ai’s Lifeboat runs up
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Clockwork.io bags $31M in funding to kee
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Cohere unveils North 2 AI agent platform
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Promevo launches Insights to track Gemin
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Equs launches a personal AI platform wit
+[2026-10-06 17:01:21] Неизвестный источник (pyimagesearch.com): DeepSeek-V3 from Scratch: Building the A
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Bosch Power Tools Expands Jobsite Soluti
+[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Euler CEO urges states to emulate Delhi 
+[2026-10-06 17:01:21] Нет фото: Altus Achieves Leading AI Governance Cer
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Forum Markets Announces Joint Venture wi
+[2026-10-06 17:01:21] Неизвестный источник (hollywoodreporter.com): ‘Artificial’ Took on a Big Tech Giant. H
+[2026-10-06 17:01:21] Неизвестный источник (bitcoinfoundation.org): Is UDR Crypto a Scam? What to Know About
+[2026-10-06 17:01:21] Нет фото: FF EAI Robotics Ecosystem Inc. (NASDAQ: 
+[2026-10-06 17:01:21] Нет фото: frontface-flashy 1.0.0
+[2026-10-06 17:01:21] Нет фото: frontface-flashy added to PyPI
+[2026-10-06 17:01:21] Неизвестный источник (landezine.com): Acanthus Prize Opens for Historic Garden
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
+[2026-10-06 17:01:21] Заблокированный источник (yahoo.com): Sam Altman: ‘The world should accept som
+[2026-10-06 17:01:21] Нет фото: Anaeco Secures Strategic Investment from
+[2026-10-06 17:01:21] Неизвестный источник (stratechery.com): Apple and a Hacker’s Future
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): HOLIDAY CHEER ARRIVES EARLY FOR SHELTER 
+[2026-10-06 17:01:21] Неизвестный источник (startuprise.co.uk): Grow Therapy: How the Mental Health Plat
+[2026-10-06 17:01:21] Неизвестный источник (foxnews.com): America must defend our digital infrastr
+[2026-10-06 17:01:21] Неизвестный источник (wattsupwiththat.com): Weekly Climate and Energy News Roundup #
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): BagelUp Growth Lab Returns as Business I
+[2026-10-06 17:01:21] Неизвестный источник (livemint.com): GST 2.0 and further reforms: The path to
+[2026-10-06 17:01:21] Неизвестный источник (cryptobriefing.com): NATO builds a drone and AI plan to blunt
+[2026-10-06 17:01:21] Нет фото: artificial-intelligence-local 0.0.19
+[2026-10-06 17:01:21] Неизвестный источник (archdaily.com): Unearthing the Ground: Architecture and 
+[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Anthropic brings in-country Claude infer
+[2026-10-06 17:01:21] Неизвестный источник (endurancecapitalhq.substack.com): ISSUE 95 | The twelve-minute test answer
+[2026-10-06 17:01:21] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
+[2026-10-06 17:01:21] Нет фото: What is the best habitat for a hedgehog?
+[2026-10-06 17:01:21] Неизвестный источник (claimsjournal.com): Sedgwick: Property Claims Face Delays, A
+[2026-10-06 17:01:21] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
+[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Sam Altman says people need to accept ‘s
+[2026-10-06 17:01:21] Неизвестный источник (pymnts.com): Apple IDs iPhone Bug That Requires Devic
+[2026-10-06 17:01:21] Неизвестный источник (punchng.com): IXPN marks anniversary with focus on int
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
+[2026-10-06 17:01:21] Неизвестный источник (redhat.com): Building zero trust networks with Red Ha
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
+[2026-10-06 17:01:21] Нет фото: evidence-gap-router added to PyPI
+[2026-10-06 17:01:21] Неизвестный источник (cointelegraph.com): Former SEC boss made AI Czar, Bitcoin ma
+[2026-10-06 17:01:21] AI новости: 1 с доверенных источников
+[2026-10-06 17:01:21] Доверенных AI-источников мало, добираю из остальных
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Lack of transparency in what space weapons nations
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: The future of independence is interdependence
+[2026-10-06 17:01:21] Нет фото: aait 6.0.5
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: The End of Social Media
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Scindia pitches India as global base for innovatio
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: LeapXpert brings governed WhatsApp client messagin
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Sustainable hemocompatibility prediction of electr
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Fracture propagation and permeability enhancement 
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: The only billionaires making money this year are i
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Skydance Signals a New Dawn for Hollywood. Will Da
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: DeepSeek-V3 from Scratch: Building the Architectur
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Bosch Power Tools Expands Jobsite Soluti
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Euler CEO urges states to emulate Delhi policy for
+[2026-10-06 17:01:21] Нет фото: Altus Achieves Leading AI Governance Cer
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Forum Markets Announces Joint Venture wi
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: ‘Artificial’ Took on a Big Tech Giant. Hollywood W
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Is UDR Crypto a Scam? What to Know About United Di
+[2026-10-06 17:01:21] Нет фото: FF EAI Robotics Ecosystem Inc. (NASDAQ: 
+[2026-10-06 17:01:21] Нет фото: frontface-flashy 1.0.0
+[2026-10-06 17:01:21] Нет фото: frontface-flashy added to PyPI
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Acanthus Prize Opens for Historic Garden Initiativ
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
+[2026-10-06 17:01:21] Заблокированный источник (yahoo.com): Sam Altman: ‘The world should accept som
+[2026-10-06 17:01:21] Нет фото: Anaeco Secures Strategic Investment from
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Apple and a Hacker’s Future
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): HOLIDAY CHEER ARRIVES EARLY FOR SHELTER 
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Grow Therapy: How the Mental Health Platform Makes
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: America must defend our digital infrastructure, he
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Weekly Climate and Energy News Roundup #709
+[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): BagelUp Growth Lab Returns as Business I
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: GST 2.0 and further reforms: The path to stronger 
+[2026-10-06 17:01:21] Нет фото: artificial-intelligence-local 0.0.19
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Unearthing the Ground: Architecture and the Politi
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Anthropic brings in-country Claude inference to In
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: ISSUE 95 | The twelve-minute test answers your fit
+[2026-10-06 17:01:21] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
+[2026-10-06 17:01:21] Нет фото: What is the best habitat for a hedgehog?
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Sedgwick: Property Claims Face Delays, Are Growing
+[2026-10-06 17:01:21] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
+[2026-10-06 17:01:21] Пропускаю уже отправленную: Sam Altman says people need to accept ‘some bad th
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Apple IDs iPhone Bug That Requires Device Replacem
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: IXPN marks anniversary with focus on internet resi
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
+[2026-10-06 17:01:21] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
+[2026-10-06 17:01:21] Нет фото: evidence-gap-router added to PyPI
+[2026-10-06 17:01:21] Пропускаю уже отправленную: Former SEC boss made AI Czar, Bitcoin may hit $600
+[2026-10-06 17:01:21] AI новости: 7 кандидатов после фильтрации
+[2026-10-06 17:01:23] Редакторский отбор: выбраны позиции [1, 4, 6, 2]
+[2026-10-06 17:01:23] Обрабатываю: Satya Nadella reinvented Microsoft once. Can he do it again  | https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-onc
+[2026-10-06 17:01:23] Полный текст получен (3000 символов)
+[2026-10-06 17:01:23] Попытка 1 для: Satya Nadella reinvented Microsoft once.
+[2026-10-06 17:01:27] Успешно, получено 4073 символов
+[2026-10-06 17:01:27] Обрабатываю: Cohere unveils North 2 AI agent platform with rebuilt orches | https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-pl
+[2026-10-06 17:01:27] Полный текст получен (3000 символов)
+[2026-10-06 17:01:27] Попытка 1 для: Cohere unveils North 2 AI agent platform
+[2026-10-06 17:01:31] Успешно, получено 2137 символов
+[2026-10-06 17:01:31] Обрабатываю: Equs launches a personal AI platform with private storage to | https://siliconangle.com/2026/10/05/equs-launches-a-personal-ai-platfo
+[2026-10-06 17:01:31] Полный текст получен (3000 символов)
+[2026-10-06 17:01:31] Попытка 1 для: Equs launches a personal AI platform wit
+[2026-10-06 17:01:34] Успешно, получено 1617 символов
+[2026-10-06 17:01:34] Обрабатываю: Exclusive: Iterate.ai’s Lifeboat runs up to six times more A | https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-run
+[2026-10-06 17:01:34] Полный текст получен (3000 символов)
+[2026-10-06 17:01:34] Попытка 1 для: Exclusive: Iterate.ai’s Lifeboat runs up
+[2026-10-06 17:01:42] Успешно, получено 1869 символов
+[2026-10-06 17:01:46] Пауза 60 секунд...
+[2026-10-06 17:02:46] Пауза 60 секунд...
+[2026-10-06 17:03:47] Пауза 60 секунд...
+[2026-10-06 17:04:48] sent_urls.txt обрезан: 304 -> 300
+[2026-10-06 17:04:48] === Блок ai_evening завершён ===
