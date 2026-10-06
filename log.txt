@@ -1,42 +1,3 @@
-[2026-09-30 07:01:16] AI новости: 0 с доверенных источников
-[2026-09-30 07:01:16] Доверенных AI-источников мало, добираю из остальных
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Career Prep When No One Knows What’s Next
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Autonomous AI hacks Raise Thorny Questions of Lega
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Pitting a CFD-Optimized Toroidal Propeller Against
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: North Korean hackers steal millions in crypto heis
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: X-Men #38 Preview: Magneto Gets Future Spam in His
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Skate Ali #4 Preview: Ali Hits Rock Bottom, Then t
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: possible infection, sus behaviour
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Antitrust the Process: Senate Passes Protect Colle
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Piyush Goyal to headline ET Startup Awards; The So
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Venom #262 Preview: Eight Billion Venoms, One Secu
-[2026-09-30 07:01:16] Спорт, пропускаю: Yankees vs. Red Sox playoff series bring
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: AMD acquires world model developer World Labs for 
-[2026-09-30 07:01:16] Заблокированный источник (nypost.com): Goldman Sachs discusses plan to name Joh
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Comprehensive profiling of brain dynamics during a
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Multiband topological heterojunctions on the surfa
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Reproducibility in biomedical research
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: August 2026 Top 40 New CRAN Packages
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: White Sky #6 Preview: Violet's Dad Quest Gets Comp
-[2026-09-30 07:01:16] Нет фото: Sangoma Announces Fourth Quarter Fiscal 
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): AIxCrypto Holdings (NASDAQ: AIXC soon to
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: 5 ‘90s Kids TV Shows Way Darker Than You Remember 
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Bob Chapek Still Feels ‘Let Down’ by Bob Iger and 
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: How Trump Is Sparking a Slovenian Website Boom
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: LazyOwn
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Carrier-backed authentication emerges as new weapo
-[2026-09-30 07:01:16] Заблокированный источник (nypost.com): AI agents could spark bank runs by yanki
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Valley Bank Courts Small Businesses With Bluevine 
-[2026-09-30 07:01:16] Нет фото: 9th China·Nanning Overseas Talent Innova
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: SpaceX’s starship explodes during splashdown after
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): City of Oakland Kicks Off Second Annual 
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): /C O R R E C T I O N -- Viome Life Scien
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Ultimate Impact: Reborn #5 Preview: Everyone Wants
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): Matt Fitzpatrick Wins FedEx Open de Fran
-[2026-09-30 07:01:16] Нет фото: ICTC launches Canada-Europe Digital Econ
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: 'You don’t need a .COM to build success': Will .WE
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Nvidia boosts share buyback by a record $150 billi
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Nvidia boosts share buyback by a record $150 billi
 [2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): LeapXpert and Carahsoft Partner to Bring
 [2026-09-30 07:01:16] Нет фото: DIAGNOS Advances Regulatory Strategy wit
 [2026-09-30 07:01:16] Не про ИИ, пропускаю: Fraud Trends Put Fragmented Defenses Under Pressur
@@ -2998,3 +2959,42 @@
 [2026-10-06 07:03:51] Пауза 60 секунд...
 [2026-10-06 07:04:52] sent_urls.txt обрезан: 304 -> 300
 [2026-10-06 07:04:52] === Блок ai_morning завершён ===
+[2026-10-06 10:01:16] Загружено 300 уже отправленных новостей
+[2026-10-06 10:01:16] === Запуск блока: midday (тест: False) ===
+[2026-10-06 10:01:16] Неизвестный источник (mashable.com): NYT Strands hints, answers for October 4
+[2026-10-06 10:01:16] Неизвестный источник (investing.com): Asian stocks rise as weak U.S. jobs data
+[2026-10-06 10:01:16] Неизвестный источник (ktla.com): Long Beach child hospitalized with rare 
+[2026-10-06 10:01:16] Неизвестный источник (hollywoodreporter.com): ‘Lanterns’ Team Breaks Down Finale’s Emo
+[2026-10-06 10:01:16] Неизвестный источник (foxnews.com): Teresa Giudice's daughter Milania writes
+[2026-10-06 10:01:16] Неизвестный источник (abc13.com): Texans' misery deepens: CeeDee Lamb's la
+[2026-10-06 10:01:16] Неизвестный источник (wsbtv.com): 2 dead, dozens injured in mass shooting 
+[2026-10-06 10:01:16] Неизвестный источник (macrumors.com): Amazon Launches Early Prime Day Discount
+[2026-10-06 10:01:16] Неизвестный источник (seekingalpha.com): Micron: The Trade Of The Decade Has Arri
+[2026-10-06 10:01:16] Неизвестный источник (livescience.com): Particle collider experiment recreates t
+[2026-10-06 10:01:16] Старая новость (2026-10-04T07:15:46Z): Trump defiant about midterm chances as h
+[2026-10-06 10:01:16] Старая новость (2026-10-02T23:20:06Z): Team selected for NASA program to explor
+[2026-10-06 10:01:16] Старая новость (2026-10-01T19:00:00Z): Meteor showers, planets, and the core of
+[2026-10-06 10:01:16] Старая новость (2026-10-01T13:00:00Z): HP’s answer to the MacBook Neo is thinne
+[2026-10-06 10:01:16] Мировые новости: найдено 9 после фильтрации
+[2026-10-06 10:01:17] Редакторский отбор: выбраны позиции [5, 3, 1, 9]
+[2026-10-06 10:01:17] Обрабатываю: All passengers presumed dead after plane went missing off US | https://www.bbc.com/news/articles/cmze4g8r6nr9o
+[2026-10-06 10:01:17] Текст похож на ленту обновлений, беру описание: https://www.bbc.com/news/articles/cmze4g8r6nr9o
+[2026-10-06 10:01:17] Попытка 1 для: All passengers presumed dead after plane
+[2026-10-06 10:01:20] Успешно, получено 813 символов
+[2026-10-06 10:01:20] Обрабатываю: Brazil’s presidential race: Three key takeaways from the fir | https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-thr
+[2026-10-06 10:01:20] Полный текст получен (3000 символов)
+[2026-10-06 10:01:20] Попытка 1 для: Brazil’s presidential race: Three key ta
+[2026-10-06 10:01:22] Успешно, получено 1705 символов
+[2026-10-06 10:01:22] Обрабатываю: Japan summons US envoy as Marine arrested over killing in Ok | https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-mar
+[2026-10-06 10:01:22] Полный текст получен (2837 символов)
+[2026-10-06 10:01:22] Попытка 1 для: Japan summons US envoy as Marine arreste
+[2026-10-06 10:01:26] Успешно, получено 1551 символов
+[2026-10-06 10:01:26] Обрабатываю: Trump names national intelligence chief Jay Clayton as new A | https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump
+[2026-10-06 10:01:26] Полный текст получен (3000 символов)
+[2026-10-06 10:01:26] Попытка 1 для: Trump names national intelligence chief 
+[2026-10-06 10:01:29] Успешно, получено 2034 символов
+[2026-10-06 10:01:32] Пауза 60 секунд...
+[2026-10-06 10:02:33] Пауза 60 секунд...
+[2026-10-06 10:03:33] Пауза 60 секунд...
+[2026-10-06 10:04:34] sent_urls.txt обрезан: 304 -> 300
+[2026-10-06 10:04:34] === Блок midday завершён ===
