@@ -1,79 +1,3 @@
-[2026-09-30 05:04:39] Текст похож на ленту обновлений, беру описание: https://www.ukrinform.net/rubric-ato/4169419-russians-launch
-[2026-09-30 05:04:39] Попытка 1 для: Russians launch another missile and dron
-[2026-09-30 05:04:41] Успешно, получено 862 символов
-[2026-09-30 05:04:41] Обрабатываю: German FM calls for Black Sea ceasefire to resume grain expo | https://www.ukrinform.net/rubric-polytics/4169349-german-fm-calls-for-
-[2026-09-30 05:04:42] Полный текст получен (2334 символов)
-[2026-09-30 05:04:42] Попытка 1 для: German FM calls for Black Sea ceasefire 
-[2026-09-30 05:04:43] Успешно, получено 1745 символов
-[2026-09-30 05:04:43] Обрабатываю: Russian Overnight Attacks On Ukraine Kill Azerbaijani Citize | https://www.rferl.org/a/russia-ukraine-deadly-attack-azerbaijani-citiz
-[2026-09-30 05:04:44] Полный текст получен (3000 символов)
-[2026-09-30 05:04:44] Попытка 1 для: Russian Overnight Attacks On Ukraine Kil
-[2026-09-30 05:04:47] Успешно, получено 1485 символов
-[2026-09-30 05:04:49] Пауза 60 секунд...
-[2026-09-30 05:05:50] Пауза 60 секунд...
-[2026-09-30 05:06:50] sent_urls.txt обрезан: 307 -> 300
-[2026-09-30 05:06:50] === Блок morning завершён ===
-[2026-09-30 07:01:16] Загружено 300 уже отправленных новостей
-[2026-09-30 07:01:16] === Запуск блока: ai_morning (тест: False) ===
-[2026-09-30 07:01:16] Неизвестный источник (thehindubusinessline.com): 99% of Indian entrepreneurs are reshapin
-[2026-09-30 07:01:16] Неизвестный источник (insidehighered.com): Career Prep When No One Knows What’s Nex
-[2026-09-30 07:01:16] Неизвестный источник (insurancejournal.com): Autonomous AI hacks Raise Thorny Questio
-[2026-09-30 07:01:16] Неизвестный источник (insurancejournal.com): OpenAI’s Models Accessed Public US Censu
-[2026-09-30 07:01:16] Неизвестный источник (hackaday.com): Pitting a CFD-Optimized Toroidal Propell
-[2026-09-30 07:01:16] Неизвестный источник (abc.net.au): North Korean hackers steal millions in c
-[2026-09-30 07:01:16] Неизвестный источник (bleedingcool.com): X-Men #38 Preview: Magneto Gets Future S
-[2026-09-30 07:01:16] Неизвестный источник (bleedingcool.com): Skate Ali #4 Preview: Ali Hits Rock Bott
-[2026-09-30 07:01:16] Неизвестный источник (bleepingcomputer.com): possible infection, sus behaviour
-[2026-09-30 07:01:16] Неизвестный источник (sportico.com): Antitrust the Process: Senate Passes Pro
-[2026-09-30 07:01:16] Неизвестный источник (economictimes.indiatimes.com): Piyush Goyal to headline ET Startup Awar
-[2026-09-30 07:01:16] Неизвестный источник (economictimes.indiatimes.com): Trump's AI lunch: Zuckerberg, Pichai, Mu
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Florida AG asks court to prevent OpenAI 
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Florida attorney general asks state cour
-[2026-09-30 07:01:16] Неизвестный источник (bleedingcool.com): Venom #262 Preview: Eight Billion Venoms
-[2026-09-30 07:01:16] Неизвестный источник (thehindubusinessline.com): TRAI mandates telecom operators to act a
-[2026-09-30 07:01:16] Неизвестный источник (usatoday.com): Yankees vs. Red Sox playoff series bring
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): AMD acquires world model developer World
-[2026-09-30 07:01:16] Заблокированный источник (nypost.com): Goldman Sachs discusses plan to name Joh
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Comprehensive profiling of brain dynamics during a
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Multiband topological heterojunctions on the surfa
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: Reproducibility in biomedical research
-[2026-09-30 07:01:16] Неизвестный источник (r-bloggers.com): August 2026 Top 40 New CRAN Packages
-[2026-09-30 07:01:16] Неизвестный источник (bleedingcool.com): White Sky #6 Preview: Violet's Dad Quest
-[2026-09-30 07:01:16] Нет фото: Sangoma Announces Fourth Quarter Fiscal 
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): AIxCrypto Holdings (NASDAQ: AIXC soon to
-[2026-09-30 07:01:16] Неизвестный источник (abcnews.com): Contradicting Trump, Pope Leo says artif
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Agentic AI is breaking the token meter, 
-[2026-09-30 07:01:16] Неизвестный источник (channelnewsasia.com): Trump's AI meeting with tech CEOs to foc
-[2026-09-30 07:01:16] Неизвестный источник (comicbook.com): 5 ‘90s Kids TV Shows Way Darker Than You
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Meta hires MongoDB CEO CJ Desai to lead 
-[2026-09-30 07:01:16] Неизвестный источник (variety.com): Bob Chapek Still Feels ‘Let Down’ by Bob
-[2026-09-30 07:01:16] Не про ИИ, пропускаю: How Trump Is Sparking a Slovenian Website Boom
-[2026-09-30 07:01:16] Неизвестный источник (kitploit.com): LazyOwn
-[2026-09-30 07:01:16] Неизвестный источник (digitaljournal.com): Carrier-backed authentication emerges as
-[2026-09-30 07:01:16] Неизвестный источник (financialpost.com): ‘Not a hoax at all’: Bill Gates says Tru
-[2026-09-30 07:01:16] Заблокированный источник (nypost.com): AI agents could spark bank runs by yanki
-[2026-09-30 07:01:16] Неизвестный источник (pymnts.com): Valley Bank Courts Small Businesses With
-[2026-09-30 07:01:16] Неизвестный источник (foxnews.com): Protester storms DC party, flips off cro
-[2026-09-30 07:01:16] Нет фото: 9th China·Nanning Overseas Talent Innova
-[2026-09-30 07:01:16] Неизвестный источник (en.protothema.gr): SpaceX’s starship explodes during splash
-[2026-09-30 07:01:16] Неизвестный источник (economictimes.indiatimes.com): Trump's AI meeting with tech CEOs to foc
-[2026-09-30 07:01:16] Неизвестный источник (economictimes.indiatimes.com): Trai mandates telcos to take action agai
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Agentic AI puts new pressure on identity
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): City of Oakland Kicks Off Second Annual 
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): /C O R R E C T I O N -- Viome Life Scien
-[2026-09-30 07:01:16] Неизвестный источник (bleedingcool.com): Ultimate Impact: Reborn #5 Preview: Ever
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): Matt Fitzpatrick Wins FedEx Open de Fran
-[2026-09-30 07:01:16] Нет фото: ICTC launches Canada-Europe Digital Econ
-[2026-09-30 07:01:16] Неизвестный источник (techradar.com): 'You don’t need a .COM to build success'
-[2026-09-30 07:01:16] Неизвестный источник (financialpost.com): Nvidia boosts share buyback by a record 
-[2026-09-30 07:01:16] Неизвестный источник (financialpost.com): Nvidia boosts share buyback by a record 
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Momentic debuts Mo AI agent to automate 
-[2026-09-30 07:01:16] Заблокированный источник (prnewswire.com): LeapXpert and Carahsoft Partner to Bring
-[2026-09-30 07:01:16] Нет фото: DIAGNOS Advances Regulatory Strategy wit
-[2026-09-30 07:01:16] Неизвестный источник (siliconangle.com): Everyday personal AI assistant startup I
-[2026-09-30 07:01:16] Неизвестный источник (pymnts.com): Fraud Trends Put Fragmented Defenses Und
-[2026-09-30 07:01:16] Нет фото: aait 6.0.4
-[2026-09-30 07:01:16] Неизвестный источник (reason.com): You Can 'Recruit' a Minor for an Abortio
 [2026-09-30 07:01:16] AI новости: 0 с доверенных источников
 [2026-09-30 07:01:16] Доверенных AI-источников мало, добираю из остальных
 [2026-09-30 07:01:16] Не про ИИ, пропускаю: Career Prep When No One Knows What’s Next
@@ -2998,3 +2922,79 @@
 [2026-10-06 05:06:07] Пауза 60 секунд...
 [2026-10-06 05:07:07] sent_urls.txt обрезан: 307 -> 300
 [2026-10-06 05:07:07] === Блок morning завершён ===
+[2026-10-06 07:01:22] Загружено 300 уже отправленных новостей
+[2026-10-06 07:01:22] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-06 07:01:22] Неизвестный источник (endurancecapitalhq.substack.com): ISSUE 95 | The twelve-minute test answer
+[2026-10-06 07:01:22] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
+[2026-10-06 07:01:22] Нет фото: What is the best habitat for a hedgehog?
+[2026-10-06 07:01:22] Неизвестный источник (claimsjournal.com): Sedgwick: Property Claims Face Delays, A
+[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
+[2026-10-06 07:01:22] Неизвестный источник (siliconangle.com): Sam Altman says people need to accept ‘s
+[2026-10-06 07:01:22] Неизвестный источник (pymnts.com): Apple IDs iPhone Bug That Requires Devic
+[2026-10-06 07:01:22] Неизвестный источник (punchng.com): IXPN marks anniversary with focus on int
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
+[2026-10-06 07:01:22] Неизвестный источник (redhat.com): Building zero trust networks with Red Ha
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
+[2026-10-06 07:01:22] Нет фото: evidence-gap-router added to PyPI
+[2026-10-06 07:01:22] Неизвестный источник (cointelegraph.com): Former SEC boss made AI Czar, Bitcoin ma
+[2026-10-06 07:01:22] Неизвестный источник (siliconangle.com): Trump launches Super Intelligence Force 
+[2026-10-06 07:01:22] Неизвестный источник (usatoday.com): Jaguars headline two weeks in London, ge
+[2026-10-06 07:01:22] Неизвестный источник (salon.com): Trump demands Fox cover more Trump
+[2026-10-06 07:01:22] Неизвестный источник (business-standard.com): Rising global bond yields pose huge chal
+[2026-10-06 07:01:22] Нет фото: I assume this cyberpunk chef is training
+[2026-10-06 07:01:22] Нет фото: artificial-intelligence-usage 0.0.1
+[2026-10-06 07:01:22] Неизвестный источник (economictimes.indiatimes.com): AI could turn nuclear weapons into ‘Term
+[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
+[2026-10-06 07:01:22] Неизвестный источник (ibtimes.com.au): (VIDEO) Colts vs Commanders Today: Where
+[2026-10-06 07:01:22] Неизвестный источник (gizmodo.com): TP-Link Tapo Doorbell Pro D260 Review: E
+[2026-10-06 07:01:22] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
+[2026-10-06 07:01:22] Нет фото: jorwal added to PyPI
+[2026-10-06 07:01:22] Неизвестный источник (english.aawsat.com): Iraq Says It Transported 2 Million Barre
+[2026-10-06 07:01:22] Нет фото: artificial-intelligence-local 0.0.17b376
+[2026-10-06 07:01:22] AI новости: 1 с доверенных источников
+[2026-10-06 07:01:22] Доверенных AI-источников мало, добираю из остальных
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: ISSUE 95 | The twelve-minute test answers your fit
+[2026-10-06 07:01:22] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
+[2026-10-06 07:01:22] Нет фото: What is the best habitat for a hedgehog?
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Sedgwick: Property Claims Face Delays, Are Growing
+[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Apple IDs iPhone Bug That Requires Device Replacem
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: IXPN marks anniversary with focus on internet resi
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
+[2026-10-06 07:01:22] Нет фото: evidence-gap-router added to PyPI
+[2026-10-06 07:01:22] Спорт, пропускаю: Jaguars headline two weeks in London, ge
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Trump demands Fox cover more Trump
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Rising global bond yields pose huge challenge to e
+[2026-10-06 07:01:22] Нет фото: I assume this cyberpunk chef is training
+[2026-10-06 07:01:22] Нет фото: artificial-intelligence-usage 0.0.1
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: AI could turn nuclear weapons into ‘Terminator-sty
+[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: TP-Link Tapo Doorbell Pro D260 Review: Everything 
+[2026-10-06 07:01:22] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
+[2026-10-06 07:01:22] Нет фото: jorwal added to PyPI
+[2026-10-06 07:01:22] Не про ИИ, пропускаю: Iraq Says It Transported 2 Million Barrels of Crud
+[2026-10-06 07:01:22] Нет фото: artificial-intelligence-local 0.0.17b376
+[2026-10-06 07:01:22] AI новости: 5 кандидатов после фильтрации
+[2026-10-06 07:01:24] Редакторский отбор: выбраны позиции [5, 1, 4, 2]
+[2026-10-06 07:01:24] Обрабатываю: Trump launches Super Intelligence Force with Jay Clayton as  | https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-
+[2026-10-06 07:01:24] Полный текст получен (3000 символов)
+[2026-10-06 07:01:24] Попытка 1 для: Trump launches Super Intelligence Force 
+[2026-10-06 07:01:26] Успешно, получено 2186 символов
+[2026-10-06 07:01:26] Обрабатываю: Sam Altman said 'the world should accept some bad things hap | https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-s
+[2026-10-06 07:01:26] Полный текст получен (3000 символов)
+[2026-10-06 07:01:26] Попытка 1 для: Sam Altman said 'the world should accept
+[2026-10-06 07:01:30] Успешно, получено 1794 символов
+[2026-10-06 07:01:30] Обрабатываю: Former SEC boss made AI Czar, Bitcoin may hit $600K this cyc | https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoi
+[2026-10-06 07:01:30] Полный текст получен (3000 символов)
+[2026-10-06 07:01:30] Попытка 1 для: Former SEC boss made AI Czar, Bitcoin ma
+[2026-10-06 07:01:33] Успешно, получено 1707 символов
+[2026-10-06 07:01:33] Обрабатываю: Sam Altman says people need to accept ‘some bad things’ are  | https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-acc
+[2026-10-06 07:01:33] Полный текст получен (3000 символов)
+[2026-10-06 07:01:33] Попытка 1 для: Sam Altman says people need to accept ‘s
+[2026-10-06 07:01:46] Успешно, получено 1507 символов
+[2026-10-06 07:01:50] Пауза 60 секунд...
+[2026-10-06 07:02:50] Пауза 60 секунд...
+[2026-10-06 07:03:51] Пауза 60 секунд...
+[2026-10-06 07:04:52] sent_urls.txt обрезан: 304 -> 300
+[2026-10-06 07:04:52] === Блок ai_morning завершён ===
