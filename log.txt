@@ -1,46 +1,3 @@
-[2026-10-01 07:01:16] Нет фото: wcag-site-pdf-scanner added to PyPI
-[2026-10-01 07:01:16] Нет фото: pams 0.3.0
-[2026-10-01 07:01:16] Не про ИИ, пропускаю: Selective serotonin reuptake inhibitors and immune
-[2026-10-01 07:01:16] AI новости: 21 кандидатов после фильтрации
-[2026-10-01 07:01:17] Редакторский отбор: выбраны позиции [3, 1, 2, 16]
-[2026-10-01 07:01:17] Обрабатываю: OpenAI says its AI wrongly accessed Australian govt systems | https://punchng.com/openai-says-its-ai-wrongly-accessed-australian-gov
-[2026-10-01 07:01:17] Полный текст получен (3000 символов)
-[2026-10-01 07:01:17] Попытка 1 для: OpenAI says its AI wrongly accessed Aust
-[2026-10-01 07:01:20] Успешно, получено 1923 символов
-[2026-10-01 07:01:20] Обрабатываю: Palo Alto Networks’ Nikesh Arora is building a defense again | https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-
-[2026-10-01 07:01:21] Полный текст получен (3000 символов)
-[2026-10-01 07:01:21] Попытка 1 для: Palo Alto Networks’ Nikesh Arora is buil
-[2026-10-01 07:01:23] Успешно, получено 1884 символов
-[2026-10-01 07:01:23] Обрабатываю: LLMjacking can run up your business’ AI bill fast – how to s | https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-
-[2026-10-01 07:01:23] Полный текст получен (3000 символов)
-[2026-10-01 07:01:23] Попытка 1 для: LLMjacking can run up your business’ AI 
-[2026-10-01 07:01:26] Успешно, получено 1808 символов
-[2026-10-01 07:01:26] Обрабатываю: Fed’s Bowman Says AI Is Blessing and Threat to Bank Security | https://www.pymnts.com/cybersecurity/2026/federal-reserve-michelle-bow
-[2026-10-01 07:01:26] Полный текст получен (2428 символов)
-[2026-10-01 07:01:26] Попытка 1 для: Fed’s Bowman Says AI Is Blessing and Thr
-[2026-10-01 07:01:34] Успешно, получено 1957 символов
-[2026-10-01 07:01:37] Пауза 60 секунд...
-[2026-10-01 07:02:38] Пауза 60 секунд...
-[2026-10-01 07:03:39] Пауза 60 секунд...
-[2026-10-01 07:04:39] sent_urls.txt обрезан: 304 -> 300
-[2026-10-01 07:04:39] === Блок ai_morning завершён ===
-[2026-10-01 10:01:14] Загружено 300 уже отправленных новостей
-[2026-10-01 10:01:14] === Запуск блока: midday (тест: False) ===
-[2026-10-01 10:01:15] Лента обновлений, пропускаю: ‘Violent incident’ between pilots sparks
-[2026-10-01 10:01:15] Неизвестный источник (cbssports.com): Liberty oust Lynx from playoffs: How Min
-[2026-10-01 10:01:15] Неизвестный источник (espn.com): Padres pummel Cubs behind Tatis' leadoff
-[2026-10-01 10:01:15] Неизвестный источник (variety.com): Fiona Lowe, Daughter of Chad Lowe and Ki
-[2026-10-01 10:01:15] Неизвестный источник (hollywoodreporter.com): ‘Dancing With the Stars’ Caps Yacht Rock
-[2026-10-01 10:01:15] Неизвестный источник (deadline.com): New ‘South Park’ Takes On Data Centers A
-[2026-10-01 10:01:15] Неизвестный источник (overthemonster.com): Payton Tolle and Cam Schlittler lead the
-[2026-10-01 10:01:15] Неизвестный источник (pbs.org): Bear 910 vs. Backpack: It's the final sh
-[2026-10-01 10:01:15] Неизвестный источник (macrumors.com): You Can 'Get Ready' for iPhone Duo Pre-O
-[2026-10-01 10:01:15] Неизвестный источник (foxnews.com): Dengue fever outbreak triggers states of
-[2026-10-01 10:01:15] Пропускаю уже отправленную: CDC updates measles toll, now counts 2 deaths - Th
-[2026-10-01 10:01:15] Неизвестный источник (9to5mac.com): Pages, Keynote, Numbers, and Pixelmator 
-[2026-10-01 10:01:15] Неизвестный источник (gizmodo.com): Boeing’s Starliner Faces a Critical Test
-[2026-10-01 10:01:15] Неизвестный источник (futurism.com): OpenAI Cancels Upcoming AI Model When It
-[2026-10-01 10:01:15] Неизвестный источник (roadtovr.com): Meta Plans VR Glasses Strap Accessory fo
 [2026-10-01 10:01:15] Старая новость (2026-09-28T20:58:47Z): New mRNA flu vaccine for adults over 50 
 [2026-10-01 10:01:15] Старая новость (2026-09-28T20:28:00Z): Congo’s Ebola outbreak tops 8,000 confir
 [2026-10-01 10:01:15] Старая новость (2026-09-28T16:48:01Z): SpaceX launches Starship on giant rocket
@@ -2998,3 +2955,46 @@
 [2026-10-07 07:03:57] Пауза 60 секунд...
 [2026-10-07 07:04:57] sent_urls.txt обрезан: 304 -> 300
 [2026-10-07 07:04:57] === Блок ai_morning завершён ===
+[2026-10-07 10:01:16] Загружено 300 уже отправленных новостей
+[2026-10-07 10:01:16] === Запуск блока: midday (тест: False) ===
+[2026-10-07 10:01:17] Неизвестный источник (hollywoodreporter.com): Austin Abrams’ ‘Whalefall’: First Reacti
+[2026-10-07 10:01:17] Лента обновлений, пропускаю: Stock futures edge higher after Nasdaq h
+[2026-10-07 10:01:17] Неизвестный источник (cbssports.com): Yankees commit four errors in ALDS Game 
+[2026-10-07 10:01:17] Заблокированный источник (sports.yahoo.com): NFL Power Rankings entering Week 5: Chie
+[2026-10-07 10:01:17] Пропускаю уже отправленную: New York state declares measles disaster amid resu
+[2026-10-07 10:01:17] Неизвестный источник (gizmodo.com): Elon Musk Is a Trillionaire Again. He’s 
+[2026-10-07 10:01:17] Неизвестный источник (usatoday.com): 'Brazen plot': Mansion-selling Californi
+[2026-10-07 10:01:17] Неизвестный источник (oilprice.com): Standard Chartered Says Hormuz Oil Flows
+[2026-10-07 10:01:17] Неизвестный источник (wlwt.com): Ex-pastor, 'American Idol' contestant Ca
+[2026-10-07 10:01:17] Неизвестный источник (pagesix.com): Gypsy Rose Blanchard attends private mem
+[2026-10-07 10:01:17] Пропускаю уже отправленную: Saudi-backed Yemeni forces expel Houthi rebels fro
+[2026-10-07 10:01:17] Неизвестный источник (nbcsports.com): NFL suspends referee Adrian Hill, line j
+[2026-10-07 10:01:17] Неизвестный источник (livescience.com): The moon and Jupiter are about to do som
+[2026-10-07 10:01:17] Неизвестный источник (phys.org): Tiny ancient black holes may live in a f
+[2026-10-07 10:01:17] Неизвестный источник (space.com): SpaceX's Crew-13 astronaut launch in inf
+[2026-10-07 10:01:17] Неизвестный источник (9to5mac.com): Apple event is reportedly happening next
+[2026-10-07 10:01:17] Неизвестный источник (macrumors.com): Amazon Launches Early Prime Day Discount
+[2026-10-07 10:01:17] Старая новость (2026-10-05T09:00:01Z): Same calories, different responses: Food
+[2026-10-07 10:01:17] Старая новость (2026-10-05T00:42:00Z): Britain’s Green Party votes to class Zio
+[2026-10-07 10:01:17] Мировые новости: найдено 10 после фильтрации
+[2026-10-07 10:01:18] Редакторский отбор: выбраны позиции [1, 10, 9, 7]
+[2026-10-07 10:01:18] Обрабатываю: Trump says 'threat' led US to pull bombers from RAF Fairford | https://www.bbc.com/news/articles/cwj3413e5m1lo
+[2026-10-07 10:01:18] Полный текст получен (3000 символов)
+[2026-10-07 10:01:18] Попытка 1 для: Trump says 'threat' led US to pull bombe
+[2026-10-07 10:01:21] Успешно, получено 1661 символов
+[2026-10-07 10:01:21] Обрабатываю: Discovery of a second-generation planet candidate accreting  | https://www.nature.com/articles/s41550-026-02983-7
+[2026-10-07 10:01:22] Полный текст получен (3000 символов)
+[2026-10-07 10:01:22] Попытка 1 для: Discovery of a second-generation planet 
+[2026-10-07 10:01:25] Успешно, получено 1767 символов
+[2026-10-07 10:01:25] Обрабатываю: Teen loses hand picking up police grenade as France school p | https://www.cbsnews.com/news/teen-hand-police-grenade-france-school-pr
+[2026-10-07 10:01:25] Полный текст получен (3000 символов)
+[2026-10-07 10:01:25] Попытка 1 для: Teen loses hand picking up police grenad
+[2026-10-07 10:01:28] Успешно, получено 1733 символов
+[2026-10-07 10:01:28] Обрабатываю: Australia launches probe into FlyDubai co-pilot’s past, and  | https://apnews.com/article/iran-yemen-israel-saudi-uae-flydubai-octobe
+[2026-10-07 10:01:28] Попытка 1 для: Australia launches probe into FlyDubai c
+[2026-10-07 10:01:31] Успешно, получено 900 символов
+[2026-10-07 10:01:34] Пауза 60 секунд...
+[2026-10-07 10:02:34] Пауза 60 секунд...
+[2026-10-07 10:03:35] Пауза 60 секунд...
+[2026-10-07 10:04:35] sent_urls.txt обрезан: 304 -> 300
+[2026-10-07 10:04:35] === Блок midday завершён ===
