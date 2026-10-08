@@ -1,46 +1,3 @@
-[2026-10-02 07:01:14] Не про ИИ, пропускаю: Jeeves raises $110M to scale stablecoin-native ban
-[2026-10-02 07:01:14] Не про ИИ, пропускаю: The Best, Worst, and Weirdest Star Wars Prequel Tr
-[2026-10-02 07:01:14] Пропускаю уже отправленную: A timeline of developments in AI safety since the 
-[2026-10-02 07:01:14] AI новости: 18 кандидатов после фильтрации
-[2026-10-02 07:01:16] Редакторский отбор: выбраны позиции [1, 6, 12, 4]
-[2026-10-02 07:01:16] Обрабатываю: AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human ex | https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concer
-[2026-10-02 07:01:16] Полный текст получен (3000 символов)
-[2026-10-02 07:01:16] Попытка 1 для: AI ‘godfather’ Yann LeCun has ‘zero conc
-[2026-10-02 07:01:19] Успешно, получено 1895 символов
-[2026-10-02 07:01:19] Обрабатываю: FTC reportedly investigating OpenAI, Anthropic over potentia | https://siliconangle.com/2026/09/30/ftc-reportedly-investigating-opena
-[2026-10-02 07:01:19] Полный текст получен (3000 символов)
-[2026-10-02 07:01:19] Попытка 1 для: FTC reportedly investigating OpenAI, Ant
-[2026-10-02 07:01:24] Успешно, получено 2064 символов
-[2026-10-02 07:01:24] Обрабатываю: Prominent tech CEOs sign voluntary White House AI safety acc | https://siliconangle.com/2026/09/30/prominent-tech-ceos-sign-voluntary
-[2026-10-02 07:01:25] Полный текст получен (3000 символов)
-[2026-10-02 07:01:25] Попытка 1 для: Prominent tech CEOs sign voluntary White
-[2026-10-02 07:01:29] Успешно, получено 2211 символов
-[2026-10-02 07:01:29] Обрабатываю: A timeline of developments in AI safety since the attack on  | https://economictimes.indiatimes.com/tech/artificial-intelligence/a-ti
-[2026-10-02 07:01:30] Текст не совпадает с заголовком, беру описание: https://economictimes.indiatimes.com/tech/artificial-intelli
-[2026-10-02 07:01:30] Попытка 1 для: A timeline of developments in AI safety 
-[2026-10-02 07:01:51] Успешно, получено 1002 символов
-[2026-10-02 07:01:54] Пауза 60 секунд...
-[2026-10-02 07:02:55] Пауза 60 секунд...
-[2026-10-02 07:03:55] Пауза 60 секунд...
-[2026-10-02 07:04:56] sent_urls.txt обрезан: 304 -> 300
-[2026-10-02 07:04:56] === Блок ai_morning завершён ===
-[2026-10-02 10:01:18] Загружено 300 уже отправленных новостей
-[2026-10-02 10:01:18] === Запуск блока: midday (тест: False) ===
-[2026-10-02 10:01:18] Неизвестный источник (barrons.com): Why Micron’s Dazzling Earnings Report Is
-[2026-10-02 10:01:18] Неизвестный источник (mlb.com): Phillies vs. Braves NL Wild Card Series 
-[2026-10-02 10:01:18] Лента обновлений, пропускаю: Flydubai latest: Indian pilot who fought
-[2026-10-02 10:01:18] Неизвестный источник (cbssports.com): Boston Red Sox vs. New York Yankees Resu
-[2026-10-02 10:01:18] Неизвестный источник (eonline.com): Ashley Tisdale's Husband Christopher Fre
-[2026-10-02 10:01:18] Неизвестный источник (abc7news.com): CA couple accused of killing son-in-law 
-[2026-10-02 10:01:18] Неизвестный источник (deadline.com): ‘East of Eden’ New York Premiere Photos:
-[2026-10-02 10:01:18] Неизвестный источник (space.com): SpaceX is ‘go’ to launch NASA’s Crew-13 
-[2026-10-02 10:01:18] Неизвестный источник (pbs.org): Former diplomats assess U.S. withdrawal 
-[2026-10-02 10:01:18] Неизвестный источник (tvline.com): Ted Lasso's Annette Badland Reflects On 
-[2026-10-02 10:01:18] Неизвестный источник (espn.com): Tyson Fury: Anthony Joshua the landlord?
-[2026-10-02 10:01:18] Неизвестный источник (wane.com): Health Department says zoo visitors poss
-[2026-10-02 10:01:18] Неизвестный источник (gsmarena.com): More images of the Samsung Galaxy Buds O
-[2026-10-02 10:01:18] Неизвестный источник (travelandleisure.com): October’s Night Sky Will Bring 3 Meteor 
-[2026-10-02 10:01:18] Неизвестный источник (hackaday.com): Roman Telescope Saves Fuel, Doubles Miss
 [2026-10-02 10:01:18] Старая новость (2026-09-30T03:14:17Z): Creatine may help build muscle even with
 [2026-10-02 10:01:18] Старая новость (2026-09-24T13:52:34Z): SpaceX Starship Flight 14 live updates: 
 [2026-10-02 10:01:18] Мировые новости: найдено 12 после фильтрации
@@ -2998,3 +2955,46 @@
 [2026-10-08 07:03:45] Пауза 60 секунд...
 [2026-10-08 07:04:45] sent_urls.txt обрезан: 304 -> 300
 [2026-10-08 07:04:45] === Блок ai_morning завершён ===
+[2026-10-08 10:01:10] Загружено 300 уже отправленных новостей
+[2026-10-08 10:01:10] === Запуск блока: midday (тест: False) ===
+[2026-10-08 10:01:11] Лента обновлений, пропускаю: Live Updates: Iran-backed Houthis deny l
+[2026-10-08 10:01:11] Лента обновлений, пропускаю: Israel marks three years since Hamas-led
+[2026-10-08 10:01:11] Лента обновлений, пропускаю: Stock futures are little changed after S
+[2026-10-08 10:01:11] Неизвестный источник (mmafighting.com): Dana White refutes Oscar De La Hoya’s cl
+[2026-10-08 10:01:11] Неизвестный источник (wtae.com): Measles case confirmed in Allegheny Coun
+[2026-10-08 10:01:11] Неизвестный источник (deadline.com): ‘Dancing With The Stars’ Recap: Lots Of 
+[2026-10-08 10:01:11] Неизвестный источник (phys.org): Nobel winner Halzen says years of Octobe
+[2026-10-08 10:01:11] Неизвестный источник (seekingalpha.com): Constellation Energy's sweeping nuclear 
+[2026-10-08 10:01:11] Неизвестный источник (9to5mac.com): Prime Day Mac deals: New Mac mini $150 o
+[2026-10-08 10:01:11] Заблокированный источник (sports.yahoo.com): Eagles OT Lane Johnson announces retirem
+[2026-10-08 10:01:11] Неизвестный источник (pbs.org): French students lead massive protests ag
+[2026-10-08 10:01:11] Неизвестный источник (variety.com): Andrew Garfield Could Win an Oscar for ‘
+[2026-10-08 10:01:11] Неизвестный источник (9to5google.com): Claude launches Google Docs, Sheets, and
+[2026-10-08 10:01:11] Неизвестный источник (jsonline.com): What channel is Brewers vs Padres tonigh
+[2026-10-08 10:01:11] Неизвестный источник (teslarati.com): SpaceX just locked up a NASA record no o
+[2026-10-08 10:01:11] Старая новость (2026-10-06T09:07:27Z): Malaysia’s Anwar to host Myanmar leader 
+[2026-10-08 10:01:11] Старая новость (2026-10-05T20:20:56Z): The moon and Jupiter are about to do som
+[2026-10-08 10:01:11] Старая новость (2026-10-05T16:29:00Z): Scientists Served Processed and Unproces
+[2026-10-08 10:01:11] Мировые новости: найдено 11 после фильтрации
+[2026-10-08 10:01:12] Редакторский отбор: выбраны позиции [2, 11, 4, 8]
+[2026-10-08 10:01:12] Обрабатываю: France’s student protests highlight a debt crisis that could | https://www.cnn.com/2026/10/06/business/france-debt-crisis-europe-econ
+[2026-10-08 10:01:13] Полный текст получен (3000 символов)
+[2026-10-08 10:01:13] Попытка 1 для: France’s student protests highlight a de
+[2026-10-08 10:01:15] Успешно, получено 1836 символов
+[2026-10-08 10:01:15] Обрабатываю: Flu season could kick off ‘incredibly’ early — what scientis | https://www.nature.com/articles/d41586-026-03150-8
+[2026-10-08 10:01:16] Полный текст получен (3000 символов)
+[2026-10-08 10:01:16] Попытка 1 для: Flu season could kick off ‘incredibly’ e
+[2026-10-08 10:01:19] Успешно, получено 1690 символов
+[2026-10-08 10:01:19] Обрабатываю: Isaias: Gulf Coast faces hurricane threat as Tropical Depres | https://www.cnn.com/2026/10/06/weather/tropical-storm-isaias-hurricane
+[2026-10-08 10:01:19] Полный текст получен (3000 символов)
+[2026-10-08 10:01:19] Попытка 1 для: Isaias: Gulf Coast faces hurricane threa
+[2026-10-08 10:01:25] Успешно, получено 1940 символов
+[2026-10-08 10:01:25] Обрабатываю: From million-dollar mansions to surveillance missions, the l | https://www.cbsnews.com/news/wanying-heather-zhang-china-surveillance-
+[2026-10-08 10:01:25] Полный текст получен (3000 символов)
+[2026-10-08 10:01:25] Попытка 1 для: From million-dollar mansions to surveill
+[2026-10-08 10:01:36] Успешно, получено 2497 символов
+[2026-10-08 10:01:39] Пауза 60 секунд...
+[2026-10-08 10:02:39] Пауза 60 секунд...
+[2026-10-08 10:03:40] Пауза 60 секунд...
+[2026-10-08 10:04:40] sent_urls.txt обрезан: 304 -> 300
+[2026-10-08 10:04:40] === Блок midday завершён ===
