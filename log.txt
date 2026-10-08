@@ -1,93 +1,3 @@
-[2026-10-02 10:01:18] Старая новость (2026-09-30T03:14:17Z): Creatine may help build muscle even with
-[2026-10-02 10:01:18] Старая новость (2026-09-24T13:52:34Z): SpaceX Starship Flight 14 live updates: 
-[2026-10-02 10:01:18] Мировые новости: найдено 12 после фильтрации
-[2026-10-02 10:01:20] Редакторский отбор: выбраны позиции [1, 12, 8, 9]
-[2026-10-02 10:01:20] Обрабатываю: Republicans need Trump to turn out the base. Some candidates | https://www.politico.com/news/2026/10/01/republicans-trump-campaign-ra
-[2026-10-02 10:01:20] Попытка 1 для: Republicans need Trump to turn out the b
-[2026-10-02 10:01:23] Успешно, получено 902 символов
-[2026-10-02 10:01:23] Обрабатываю: A new Bolsonaro could pull Brazil away from Europe — and tow | https://www.politico.eu/article/a-new-bolsonaro-could-pull-brazil-away
-[2026-10-02 10:01:23] Полный текст получен (3000 символов)
-[2026-10-02 10:01:23] Попытка 1 для: A new Bolsonaro could pull Brazil away f
-[2026-10-02 10:01:27] Успешно, получено 2157 символов
-[2026-10-02 10:01:27] Обрабатываю: Swiss glaciers suffer another year of record ice loss | https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-ch
-[2026-10-02 10:01:28] Полный текст получен (3000 символов)
-[2026-10-02 10:01:28] Попытка 1 для: Swiss glaciers suffer another year of re
-[2026-10-02 10:01:29] Успешно, получено 1409 символов
-[2026-10-02 10:01:29] Обрабатываю: Inside Zuckerberg, Huang’s push for White House AI pact | https://www.politico.com/news/2026/09/30/zuckerberg-huang-white-house-
-[2026-10-02 10:01:29] Попытка 1 для: Inside Zuckerberg, Huang’s push for Whit
-[2026-10-02 10:01:32] Успешно, получено 1021 символов
-[2026-10-02 10:01:35] Пауза 60 секунд...
-[2026-10-02 10:02:35] Пауза 60 секунд...
-[2026-10-02 10:03:36] Пауза 60 секунд...
-[2026-10-02 10:04:36] sent_urls.txt обрезан: 304 -> 300
-[2026-10-02 10:04:36] === Блок midday завершён ===
-[2026-10-02 15:01:17] Загружено 300 уже отправленных новостей
-[2026-10-02 15:01:17] === Запуск блока: evening (тест: False) ===
-[2026-10-02 15:01:18] Неизвестный источник (mlb.com): Phillies vs. Braves NL Wild Card Series 
-[2026-10-02 15:01:18] Неизвестный источник (bleedcubbieblue.com): Padres 4, Cubs 1: Farewell to 2026, and 
-[2026-10-02 15:01:18] Неизвестный источник (foxnews.com): Former Arizona fraternity leader sentenc
-[2026-10-02 15:01:18] Неизвестный источник (9to5mac.com): The iPhone 18 Pro is selling well in Chi
-[2026-10-02 15:01:18] Неизвестный источник (space.com): SpaceX Crew-13 NASA launch live updates:
-[2026-10-02 15:01:18] Спорт, пропускаю: A top QB showdown and a historic anniver
-[2026-10-02 15:01:18] Неизвестный источник (foxnews.com): Surprising culprit tied to 1 in 8 cancer
-[2026-10-02 15:01:18] Лента обновлений, пропускаю: Stock Market Today: Global Bond Selloff 
-[2026-10-02 15:01:18] Неизвестный источник (usatoday.com): Forget 'coffee badging': 'Calendar stalk
-[2026-10-02 15:01:18] Пропускаю уже отправленную: Republicans need Trump to turn out the base. Some 
-[2026-10-02 15:01:18] Неизвестный источник (barrons.com): Why Micron’s Dazzling Earnings Report Is
-[2026-10-02 15:01:18] Лента обновлений, пропускаю: Live Updates: Iran says it has received 
-[2026-10-02 15:01:18] Неизвестный источник (cbssports.com): Boston Red Sox vs. New York Yankees Resu
-[2026-10-02 15:01:18] Неизвестный источник (ew.com): Jim Carrey marries girlfriend Min Ah in 
-[2026-10-02 15:01:18] Неизвестный источник (deadline.com): ‘East of Eden’ New York Premiere Photos:
-[2026-10-02 15:01:18] Неизвестный источник (variety.com): Box Office: ‘Verity’ Aims for $35 Millio
-[2026-10-02 15:01:18] Неизвестный источник (travelandleisure.com): October’s Night Sky Will Bring 3 Meteor 
-[2026-10-02 15:01:18] Неизвестный источник (pcworld.com): Windows 11 26H2 update has known issues.
-[2026-10-02 15:01:18] Старая новость (2026-09-30T11:48:20Z): NASA's Perseverance Mars rover finds gro
-[2026-10-02 15:01:18] Мировые новости: найдено 14 после фильтрации
-[2026-10-02 15:01:20] Редакторский отбор: выбраны позиции [9, 4, 10, 13]
-[2026-10-02 15:01:20] RSS Ukrinform: 30 записей
-[2026-10-02 15:01:21] RSS Ukrinform: 30 записей
-[2026-10-02 15:01:21] RSS Euromaidan Press: 29 записей
-[2026-10-02 15:01:21] Пропускаю уже отправленную: Ukraine is now sending its tanks into battle with 
-[2026-10-02 15:01:21] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-02 15:01:21] Заблокированный источник (biztoc.com): EU and Ukraine agree Kyiv faces no immin
-[2026-10-02 15:01:21] Заблокированный источник (biztoc.com): Global Crop Prices Log Biggest Quarterly
-[2026-10-02 15:01:21] Заблокированный источник (nypost.com): Russian drone strikes Kyiv school as Mos
-[2026-10-02 15:01:21] Нет фото: Voting Democrat – or Staying Home – Won’
-[2026-10-02 15:01:21] Нет фото: Tennessee's Death Penalty Team Under Scr
-[2026-10-02 15:01:21] Нет фото: District Court Declares Vacatur (Likely)
-[2026-10-02 15:01:21] Заблокированный источник (dailymail.com): Britain could release emergency diesel s
-[2026-10-02 15:01:21] Нет фото: Wife of slain NYT executive seen for the
-[2026-10-02 15:01:21] Нет фото: "Copilot had undergone radical Islamist 
-[2026-10-02 15:01:21] Заблокированный источник (dailymail.com): Russian official warns country will even
-[2026-10-02 15:01:21] Заблокированный источник (biztoc.com): Zelensky: Good results on EU 2026, 2027 
-[2026-10-02 15:01:21] Нет фото: Journalist Evan Gershkovich: My 491 Days
-[2026-10-02 15:01:21] Заблокированный источник (biztoc.com): Russia Hits Ukraine’s Power Infrastructu
-[2026-10-02 15:01:21] Заблокированный источник (biztoc.com): Ukraine Hit By Severe Power Cuts After R
-[2026-10-02 15:01:21] Внутренний дубль: Russia prepares sabotage operations in EU and NATO
-[2026-10-02 15:01:21] Внутренний дубль: Belarus coordinates with Russia on activating sign
-[2026-10-02 15:01:21] Внутренний дубль: Russians drone attacks power company worker near Z
-[2026-10-02 15:01:21] Внутренний дубль: Russian attack on Mykolaiv damages port, civilian 
-[2026-10-02 15:01:21] Внутренний дубль: Two people killed in Russian drone strikes in Khar
-[2026-10-02 15:01:21] Внутренний дубль: Ukraine testing five models of jet drone intercept
-[2026-10-02 15:01:21] Внутренний дубль: Ukrainian forces hit oil refinery in Volgograd, oi
-[2026-10-02 15:01:21] Внутренний дубль: Russians destroy dline.ua data center in Kyiv
-[2026-10-02 15:01:21] Внутренний дубль: Crimea reports new attack on energy facilities, po
-[2026-10-02 15:01:21] Внутренний дубль: Zelensky: Russia launched over 100 attack drones a
-[2026-10-02 15:01:21] Внутренний дубль: Transneft hub ablaze after explosions in Samara, f
-[2026-10-02 15:01:21] Внутренний дубль: Russians shell 29 settlements in Kherson region in
-[2026-10-02 15:01:21] Внутренний дубль: Russians carry out more than 40 attacks on Sumy re
-[2026-10-02 15:01:21] Внутренний дубль: Russian attacks in Kharkiv region leave six people
-[2026-10-02 15:01:21] Внутренний дубль: War update: 207 combat clashes on front line over 
-[2026-10-02 15:01:21] Внутренний дубль: Russian drones damage three apartment buildings in
-[2026-10-02 15:01:21] Внутренний дубль: ADF neutralizes 88 of 108 Russians drones used to 
-[2026-10-02 15:01:21] Внутренний дубль: Civilian enterprise damaged, fire breaks out in Ri
-[2026-10-02 15:01:21] Внутренний дубль: Russian army loses 1,520 troops in war against Ukr
-[2026-10-02 15:01:21] Внутренний дубль: Russian attack in Kyiv's Darnytskyi district leave
-[2026-10-02 15:01:21] Внутренний дубль: Russians attack South Bridge for second time — Kli
-[2026-10-02 15:01:21] Внутренний дубль: Russia targets busy bridge in central Kyiv in broa
-[2026-10-02 15:01:21] Украинские новости: найдено 70 после фильтрации
-[2026-10-02 15:01:22] Редакторский отбор: выбраны позиции [13, 6]
-[2026-10-02 15:01:22] NewsAPI (Харьков, все издания): пришло 40 статей
 [2026-10-02 15:01:23] RSS Ukrinform: 30 записей
 [2026-10-02 15:01:24] RSS Ukrinform: 30 записей
 [2026-10-02 15:01:24] RSS Euromaidan Press: 29 записей
@@ -2998,3 +2908,93 @@
 [2026-10-08 10:03:40] Пауза 60 секунд...
 [2026-10-08 10:04:40] sent_urls.txt обрезан: 304 -> 300
 [2026-10-08 10:04:40] === Блок midday завершён ===
+[2026-10-08 15:01:13] Загружено 300 уже отправленных новостей
+[2026-10-08 15:01:13] === Запуск блока: evening (тест: False) ===
+[2026-10-08 15:01:14] Неизвестный источник (wdsu.com): Isaias forms in Gulf; hurricane watches 
+[2026-10-08 15:01:14] Неизвестный источник (formula1.com): The points Russell has lost to reliabili
+[2026-10-08 15:01:14] Пропускаю уже отправленную: Trump says Iran could ‘take’ San Diego, Los Angele
+[2026-10-08 15:01:14] Неизвестный источник (eurogamer.net): Xbox denies reports it's acquired exclus
+[2026-10-08 15:01:14] Неизвестный источник (creativebloq.com): Jaguar's controversial rebrand finally m
+[2026-10-08 15:01:14] Неизвестный источник (espn.com): Padres turn to King to shut down Brewers
+[2026-10-08 15:01:14] Лента обновлений, пропускаю: Stock futures are little changed after S
+[2026-10-08 15:01:14] Неизвестный источник (deadline.com): Skydance To Make Paramount & Warner Bros
+[2026-10-08 15:01:14] Неизвестный источник (9to5mac.com): Prime Day Mac deals: New Mac mini $150 o
+[2026-10-08 15:01:14] Пропускаю уже отправленную: From million-dollar mansions to surveillance missi
+[2026-10-08 15:01:14] Неизвестный источник (abcnews.com): Eva Marie Saint, star of 'North by North
+[2026-10-08 15:01:14] Неизвестный источник (variety.com): Andrew Garfield Could Win an Oscar for ‘
+[2026-10-08 15:01:14] Неизвестный источник (9to5google.com): Samsung starts rolling out Android 17 fo
+[2026-10-08 15:01:14] Неизвестный источник (space.com): SpaceX's Crew-12 astronauts heading home
+[2026-10-08 15:01:14] Старая новость (2026-10-06T12:00:00Z): Michael Douglas Gets Candid About Affair
+[2026-10-08 15:01:14] Старая новость (2026-10-05T18:35:13Z): Florida's dengue outbreak is largest in 
+[2026-10-08 15:01:14] Мировые новости: найдено 13 после фильтрации
+[2026-10-08 15:01:15] Редакторский отбор: выбраны позиции [1, 6, 12, 2]
+[2026-10-08 15:01:16] RSS Ukrinform: 30 записей
+[2026-10-08 15:01:18] RSS Ukrinform: 30 записей
+[2026-10-08 15:01:18] Пропускаю уже отправленную: Zelensky: Russian combined attack kills 25 and inj
+[2026-10-08 15:01:18] RSS Euromaidan Press: 29 записей
+[2026-10-08 15:01:18] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-10-08 15:01:18] Нет фото: Mom allegedly stabs husband, two young c
+[2026-10-08 15:01:18] Заблокированный источник (rt.com): West wrong to pin hopes on Russia’s coll
+[2026-10-08 15:01:18] Заблокированный источник (sputnikglobe.com): Russia Knocks Out Ukraine’s Flamingo Mis
+[2026-10-08 15:01:18] Заблокированный источник (rt.com): Russia ‘grateful’ to India for Ukraine p
+[2026-10-08 15:01:18] Внутренний дубль: Russian strike hits two buses and pedestrians in K
+[2026-10-08 15:01:18] Внутренний дубль: Ukraine strikes Russia’s largest oil refinery 2,50
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces strike Sumy, one killed, four injur
+[2026-10-08 15:01:18] Внутренний дубль: Three killed, 14 injured in Russian attack on Kyiv
+[2026-10-08 15:01:18] Внутренний дубль: Death toll from Russian strike on two buses in Kra
+[2026-10-08 15:01:18] Внутренний дубль: Dragone: Ukraine has received $10B worth of U.S. w
+[2026-10-08 15:01:18] Внутренний дубль: Ukrainian forces strike Gazprom oil refinery in Ba
+[2026-10-08 15:01:18] Внутренний дубль: Russian drone strikes store in Kyiv's Solomianskyi
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces strike bus in Kramatorsk: 12 killed
+[2026-10-08 15:01:18] Внутренний дубль: Russian drone debris falls in Kyiv's Holosiivskyi 
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces kill four civilians and injure six 
+[2026-10-08 15:01:18] Внутренний дубль: Russian strike damages business in Rivne region
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces strike Dnipropetrovsk region nearly
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces launch more than 50 attacks on Sumy
+[2026-10-08 15:01:18] Внутренний дубль: Defense Forces and Russian troops engage in 224 cl
+[2026-10-08 15:01:18] Внутренний дубль: Russian forces lose another 1,830 soldiers and two
+[2026-10-08 15:01:18] Внутренний дубль: Intel: Russia deploying soldiers with HIV on comba
+[2026-10-08 15:01:18] Внутренний дубль: More than 34,000 civilians, including 436 children
+[2026-10-08 15:01:18] Внутренний дубль: Drone strike hits high-rise building in Kyiv, inju
+[2026-10-08 15:01:18] Украинские новости: найдено 68 после фильтрации
+[2026-10-08 15:01:23] Редакторский отбор: выбраны позиции [12, 9]
+[2026-10-08 15:01:24] NewsAPI (Харьков, все издания): пришло 10 статей
+[2026-10-08 15:01:25] RSS Ukrinform: 30 записей
+[2026-10-08 15:01:26] RSS Ukrinform: 30 записей
+[2026-10-08 15:01:26] RSS Euromaidan Press: 29 записей
+[2026-10-08 15:01:26] Заблокированный источник (rt.com): Russia pounds missile warehouses across 
+[2026-10-08 15:01:26] Заблокированный источник (uk.news.yahoo.com): Russia hits Ukraine with drones and miss
+[2026-10-08 15:01:26] Заблокированный источник (yahoo.com): Russia hits Ukraine with drones and miss
+[2026-10-08 15:01:26] Заблокированный источник (dailymail.com): Putin marks his 74th birthday with 'mass
+[2026-10-08 15:01:26] Заблокированный источник (sputnikglobe.com): Russia Hits Ships Involved in Supporting
+[2026-10-08 15:01:26] Заблокированный источник (nypost.com): Ukraine fires nearly 900 drones at Russi
+[2026-10-08 15:01:26] Харьков: новостей не найдено
+[2026-10-08 15:01:26] Обрабатываю: Three years after Oct. 7, Israeli strikes in Gaza grind on a | https://www.washingtonpost.com/world/2026/10/07/three-years-after-oct-
+[2026-10-08 15:01:38] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/07/three-years-
+[2026-10-08 15:01:38] Попытка 1 для: Three years after Oct. 7, Israeli strike
+[2026-10-08 15:01:41] Успешно, получено 947 символов
+[2026-10-08 15:01:41] Обрабатываю: 3 years on, Israelis grapple with reports Netanyahu was warn | https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-ne
+[2026-10-08 15:01:41] Полный текст получен (3000 символов)
+[2026-10-08 15:01:41] Попытка 1 для: 3 years on, Israelis grapple with report
+[2026-10-08 15:01:43] Успешно, получено 1715 символов
+[2026-10-08 15:01:43] Обрабатываю: Germany's former foreign intelligence chief arrested on susp | https://apnews.com/article/germany-arrest-espionage-allegation-former-
+[2026-10-08 15:01:43] Попытка 1 для: Germany's former foreign intelligence ch
+[2026-10-08 15:01:45] Успешно, получено 915 символов
+[2026-10-08 15:01:45] Обрабатываю: Half a billion dollars in GOP spending does little to move p | https://www.washingtonpost.com/politics/2026/10/07/half-billion-dollar
+[2026-10-08 15:01:57] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/07/half-bill
+[2026-10-08 15:01:57] Попытка 1 для: Half a billion dollars in GOP spending d
+[2026-10-08 15:02:00] Успешно, получено 902 символов
+[2026-10-08 15:02:03] Пауза 60 секунд...
+[2026-10-08 15:03:04] Пауза 60 секунд...
+[2026-10-08 15:04:05] Пауза 60 секунд...
+[2026-10-08 15:05:05] Обрабатываю: Death toll from Russian strike on two buses in Kramatorsk ri | https://www.ukrinform.net/rubric-ato/4172298-death-toll-from-russian-s
+[2026-10-08 15:05:07] Полный текст получен (1121 символов)
+[2026-10-08 15:05:07] Попытка 1 для: Death toll from Russian strike on two bu
+[2026-10-08 15:05:10] Успешно, получено 1237 символов
+[2026-10-08 15:05:10] Обрабатываю: EU extends Russia sanctions over hybrid attacks and destabil | https://www.ukrinform.net/rubric-polytics/4172324-eu-extends-russia-sa
+[2026-10-08 15:05:12] Полный текст получен (2088 символов)
+[2026-10-08 15:05:12] Попытка 1 для: EU extends Russia sanctions over hybrid 
+[2026-10-08 15:05:15] Успешно, получено 1957 символов
+[2026-10-08 15:05:18] Пауза 60 секунд...
+[2026-10-08 15:06:19] sent_urls.txt обрезан: 306 -> 300
+[2026-10-08 15:06:19] === Блок evening завершён ===
