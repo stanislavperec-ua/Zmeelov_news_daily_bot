@@ -1,44 +1,3 @@
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Atiku and the alternative hypothesis
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Volantis raises $88M to develop photonic inference
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: The Metric Is Not The Mission: The Digital Climate
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: This week on "Sunday Morning" (Oct. 4)
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Cheminformatics Resources of U.S. Governmental Org
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Was Trump's 'super intelligence' order a ploy to p
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: IBM allows on-prem deployment of its Bob agentic d
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: A Vintage Kind of Death by Alex T. Singer
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: The Job by Elizabeth Bear
-[2026-10-03 07:01:10] Спорт, пропускаю: Alabama Is Preparing For Mississippi Sta
-[2026-10-03 07:01:10] Нет фото: leadtools 23.0.0.8
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Give yourself room to be human
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Bond yield explosion gives Bitcoin a strong signal
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): NORD Awards Seed Grants to Advance Break
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Hollywood Dealmakers Eye Creators as Mega-Merger O
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Jio Platforms IPO in final stages after concluding
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Tesla EV deliveries set to drop on weak U.S. deman
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): AI Drug Discovery Forecasts Vary Widely 
-[2026-10-03 07:01:10] Нет фото: Adastra Builds Out Global Executive Team
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: AWS debuts Strands Decider 2B, a first lightweight
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Media Insider: Simon Dallow a contender for RNZ?; 
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Presidential hopefuls make health pledges without 
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Starlink Satellite-to-Mobile Service Lau
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Starlink Satellite-to-Mobile Service Lau
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Walapay raises $4.6M to bring near instant global 
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: NVIDIA DLSS 5 Can Now Run On Unsupported GPUs Via 
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Sandler Partners Announces 2026 National
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: The True Cost of Patent Infringement Litigation: E
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: U.S. benchmark yield hits highest since 2002 as bo
-[2026-10-03 07:01:10] Пропускаю уже отправленную: Early Mayo Clinic AI Model Flagged Pancreatic Canc
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Speech enhancement method integrating squeeze and 
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Disease-first public-data integration with local v
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Demographic changes and behavioural responses shap
-[2026-10-03 07:01:10] AI новости: 15 кандидатов после фильтрации
-[2026-10-03 07:01:12] Редакторский отбор: выбраны позиции [5, 2, 12, 13]
-[2026-10-03 07:01:12] Обрабатываю: OpenAI dismisses three safety researchers accused of sharing | https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-rese
-[2026-10-03 07:01:12] Полный текст получен (3000 символов)
-[2026-10-03 07:01:12] Попытка 1 для: OpenAI dismisses three safety researcher
-[2026-10-03 07:01:15] Успешно, получено 1457 символов
-[2026-10-03 07:01:15] Обрабатываю: Report: Anthropic targets pre-Thanksgiving IPO launch, despi | https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thank
-[2026-10-03 07:01:15] Полный текст получен (3000 символов)
 [2026-10-03 07:01:15] Попытка 1 для: Report: Anthropic targets pre-Thanksgivi
 [2026-10-03 07:01:17] Успешно, получено 1698 символов
 [2026-10-03 07:01:17] Обрабатываю: Google tests its plan for AI data centers in space with Proj | https://www.scientificamerican.com/article/google-tests-plan-for-ai-da
@@ -2998,3 +2957,44 @@
 [2026-10-09 07:03:27] Пауза 60 секунд...
 [2026-10-09 07:04:27] sent_urls.txt обрезан: 304 -> 300
 [2026-10-09 07:04:27] === Блок ai_morning завершён ===
+[2026-10-09 10:01:05] Загружено 300 уже отправленных новостей
+[2026-10-09 10:01:05] === Запуск блока: midday (тест: False) ===
+[2026-10-09 10:01:05] Неизвестный источник (eonline.com): Travis Barker Reveals Reason Behind Hosp
+[2026-10-09 10:01:05] Лента обновлений, пропускаю: Stock futures move lower after S&P 500 r
+[2026-10-09 10:01:05] Неизвестный источник (espn.com): As Yankees fall short again, Aaron Judge
+[2026-10-09 10:01:05] Неизвестный источник (bleacherreport.com): Aaron Boone Describes 'Broken' Clubhouse
+[2026-10-09 10:01:05] Неизвестный источник (gizmochina.com): Red Magic 12 Pro+ full design revealed a
+[2026-10-09 10:01:05] Неизвестный источник (sciencedaily.com): Scientists warn a popular vitamin D supp
+[2026-10-09 10:01:05] Неизвестный источник (eonline.com): Kourtney Kardashian Reacts to Jennifer L
+[2026-10-09 10:01:05] Лента обновлений, пропускаю: Live: Police fire tear gas at student pr
+[2026-10-09 10:01:05] Неизвестный источник (thedailybeast.com): Kimberly Guilfoyle’s Demand for Cash Off
+[2026-10-09 10:01:05] Неизвестный источник (deadline.com): 'Ted Lasso' Co-Creator & Star Brendan Hu
+[2026-10-09 10:01:05] Неизвестный источник (phys.org): Nobel physics winner's pride at pioneeri
+[2026-10-09 10:01:05] Неизвестный источник (space.com): NASA SpaceX Crew-12 flight latest news: 
+[2026-10-09 10:01:05] Неизвестный источник (cbssports.com): Georgia vs. Alabama weather tracker: SEC
+[2026-10-09 10:01:05] Неизвестный источник (ktla.com): California could ban quartz countertop p
+[2026-10-09 10:01:05] Пропускаю уже отправленную: PA measles outbreak tops 1,000 cases, largest sinc
+[2026-10-09 10:01:05] Неизвестный источник (9to5mac.com): Redesigned MacBook Pro will reportedly i
+[2026-10-09 10:01:05] Неизвестный источник (avclub.com): Mark Zuckerberg disappears from his own 
+[2026-10-09 10:01:05] Старая новость (2026-10-07T08:12:57Z): Myanmar’s Min Aung Hlaing visits Malaysi
+[2026-10-09 10:01:05] Мировые новости: найдено 11 после фильтрации
+[2026-10-09 10:01:07] Редакторский отбор: выбраны позиции [2, 1, 6, 9]
+[2026-10-09 10:01:07] Обрабатываю: Hurricane Isaias is expected to get stronger on its way to F | https://apnews.com/article/hurricane-isaias-gulf-atlantic-alabama-flor
+[2026-10-09 10:01:07] Попытка 1 для: Hurricane Isaias is expected to get stro
+[2026-10-09 10:01:09] Успешно, получено 1030 символов
+[2026-10-09 10:01:09] Обрабатываю: Democrats’ fortunes are expanding into red territory. Their  | https://www.politico.com/news/2026/10/08/senate-democrat-money-kansas-
+[2026-10-09 10:01:09] Попытка 1 для: Democrats’ fortunes are expanding into r
+[2026-10-09 10:01:11] Успешно, получено 652 символов
+[2026-10-09 10:01:11] Обрабатываю: Democrats sue US President Trump over taxpayer-funded ad cam | https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-tr
+[2026-10-09 10:01:11] Полный текст получен (3000 символов)
+[2026-10-09 10:01:11] Попытка 1 для: Democrats sue US President Trump over ta
+[2026-10-09 10:01:14] Успешно, получено 2038 символов
+[2026-10-09 10:01:14] Обрабатываю: A thorium-229 optical nuclear clock with feedback loop | https://www.nature.com/articles/s41586-026-11084-4
+[2026-10-09 10:01:16] Полный текст получен (3000 символов)
+[2026-10-09 10:01:16] Попытка 1 для: A thorium-229 optical nuclear clock with
+[2026-10-09 10:01:20] Успешно, получено 1962 символов
+[2026-10-09 10:01:22] Пауза 60 секунд...
+[2026-10-09 10:02:23] Пауза 60 секунд...
+[2026-10-09 10:03:23] Пауза 60 секунд...
+[2026-10-09 10:04:24] sent_urls.txt обрезан: 304 -> 300
+[2026-10-09 10:04:24] === Блок midday завершён ===
