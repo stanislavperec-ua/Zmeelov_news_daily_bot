@@ -1,131 +1,3 @@
-[2026-10-03 05:01:17] Внутренний дубль: Ukraine, South Korea clash over transfer of 2 Nort
-[2026-10-03 05:01:17] Внутренний дубль: Seoul warns 'further action' if Ukraine does not a
-[2026-10-03 05:01:17] Внутренний дубль: South Korea warns 'further measures' if Ukraine re
-[2026-10-03 05:01:17] Украинские новости: найдено 74 после фильтрации
-[2026-10-03 05:01:18] Редакторский отбор: выбраны позиции [14, 11]
-[2026-10-03 05:01:18] NewsAPI (Харьков, все издания): пришло 2 статей
-[2026-10-03 05:01:21] RSS Ukrinform: 30 записей
-[2026-10-03 05:01:22] RSS Ukrinform: 30 записей
-[2026-10-03 05:01:22] RSS Euromaidan Press: 29 записей
-[2026-10-03 05:01:22] Нет фото: Measurement of the Ratio of Branching Fr
-[2026-10-03 05:01:22] Заблокированный источник (sputnikglobe.com): Russia Liberates Vysokaya Yaruga Settlem
-[2026-10-03 05:01:22] Пропускаю уже отправленную: Two people killed in Russian drone strikes in Khar
-[2026-10-03 05:01:22] Пропускаю уже отправленную: Ukraine is now sending its tanks into battle with 
-[2026-10-03 05:01:22] Внутренний дубль: Russian forces strike Kharkiv with Molniya drone, 
-[2026-10-03 05:01:22] Внутренний дубль: Russians attack Shevchenkove in Kharkiv region wit
-[2026-10-03 05:01:22] Внутренний дубль: Russian drone attacks gas workers' vehicle in Khar
-[2026-10-03 05:01:22] Внутренний дубль: Russian forces strike Kharkiv with guided aerial b
-[2026-10-03 05:01:22] Харьков: найдена новость: SBU exposes GRU agents who collected data on milit
-[2026-10-03 05:01:22] Обрабатываю: Putin warns West that Russia is prepared to use ‘all weapons | https://www.cnn.com/2026/10/01/europe/putin-kaliningrad-warning-ukrain
-[2026-10-03 05:01:23] Полный текст получен (3000 символов)
-[2026-10-03 05:01:23] Попытка 1 для: Putin warns West that Russia is prepared
-[2026-10-03 05:01:26] Успешно, получено 1611 символов
-[2026-10-03 05:01:26] Обрабатываю: Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’  | https://www.washingtonpost.com/world/2026/10/01/inquiry-into-flydubai-
-[2026-10-03 05:01:38] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/01/inquiry-into
-[2026-10-03 05:01:38] Попытка 1 для: Co-pilot who tried to crash FlyDubai jet
-[2026-10-03 05:01:41] Успешно, получено 1477 символов
-[2026-10-03 05:01:41] Обрабатываю: OpenAI fires three workers over mishandling 'sensitive infor | https://www.bbc.com/news/articles/c6y9z9r4ejzwo
-[2026-10-03 05:01:41] Полный текст получен (2552 символов)
-[2026-10-03 05:01:41] Попытка 1 для: OpenAI fires three workers over mishandl
-[2026-10-03 05:01:44] Успешно, получено 1437 символов
-[2026-10-03 05:01:44] Обрабатываю: US mortgage rates jump the most in four years in blow to hou | https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25
-[2026-10-03 05:01:45] Полный текст получен (1051 символов)
-[2026-10-03 05:01:45] Попытка 1 для: US mortgage rates jump the most in four 
-[2026-10-03 05:01:50] Успешно, получено 1033 символов
-[2026-10-03 05:01:53] Пауза 60 секунд...
-[2026-10-03 05:02:54] Пауза 60 секунд...
-[2026-10-03 05:03:55] Пауза 60 секунд...
-[2026-10-03 05:04:55] Обрабатываю: More than 26,000 bodies returned to Ukraine, but many remain | https://www.ukrinform.net/rubric-ato/4170559-more-than-26000-bodies-re
-[2026-10-03 05:04:57] Полный текст получен (1656 символов)
-[2026-10-03 05:04:57] Попытка 1 для: More than 26,000 bodies returned to Ukra
-[2026-10-03 05:05:00] Успешно, получено 1348 символов
-[2026-10-03 05:05:00] Обрабатываю: Ukraine ready to share experience of countering Russian aggr | https://www.ukrinform.net/rubric-polytics/4170565-ukraine-ready-to-sha
-[2026-10-03 05:05:01] Полный текст получен (984 символов)
-[2026-10-03 05:05:01] Попытка 1 для: Ukraine ready to share experience of cou
-[2026-10-03 05:05:03] Успешно, получено 1392 символов
-[2026-10-03 05:05:03] Обрабатываю: SBU exposes GRU agents who collected data on military person | https://www.ukrinform.net/rubric-crime/4170387-sbu-exposes-gru-agents-
-[2026-10-03 05:05:04] Полный текст получен (2614 символов)
-[2026-10-03 05:05:04] Попытка 1 для: SBU exposes GRU agents who collected dat
-[2026-10-03 05:05:06] Успешно, получено 1434 символов
-[2026-10-03 05:05:09] Пауза 60 секунд...
-[2026-10-03 05:06:10] Пауза 60 секунд...
-[2026-10-03 05:07:11] sent_urls.txt обрезан: 307 -> 300
-[2026-10-03 05:07:11] === Блок morning завершён ===
-[2026-10-03 07:01:10] Загружено 300 уже отправленных новостей
-[2026-10-03 07:01:10] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): FF EAI Robotics Ecosystem Inc. (NASDAQ: 
-[2026-10-03 07:01:10] Неизвестный источник (huggingface.co): nvidia/Nemotron-3-Diarization · Hugging 
-[2026-10-03 07:01:10] Неизвестный источник (techdirt.com): The Metric Is Not The Mission: The Digit
-[2026-10-03 07:01:10] Неизвестный источник (americanthinker.com): Misinterpreting the 'Greater Israel Proj
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: How a failed attack in Leipzig revealed a wider Ru
-[2026-10-03 07:01:10] Нет фото: Nuix Takes to Sibos 2026 to help Financi
-[2026-10-03 07:01:10] Неизвестный источник (singapore-samizdat.com): How Singapore's government-run dating se
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: CNBC Daily Open: Three’s a crowd: U.S. carrier bui
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Microsoft targets ultra-realistic voice 
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Satellite software provider Satlyt close
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Cannabinoid modulation of central amygdala populat
-[2026-10-03 07:01:10] Нет фото: Prediction of fast, slow, and average sh
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Report: Anthropic targets pre-Thanksgivi
-[2026-10-03 07:01:10] Неизвестный источник (pymnts.com): The Alphabet Soup of Agentic Standards: 
-[2026-10-03 07:01:10] Неизвестный источник (punchng.com): Atiku and the alternative hypothesis
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Salesforce to acquire AI customer resear
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Volantis raises $88M to develop photonic
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): OpenAI dismisses three safety researcher
-[2026-10-03 07:01:10] Неизвестный источник (techdirt.com): The Metric Is Not The Mission: The Digit
-[2026-10-03 07:01:10] Неизвестный источник (digitaljournal.com): Cybersecurity awareness month: Why organ
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: This week on "Sunday Morning" (Oct. 4)
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Armadin nabs $255.5M to detect vulnerabi
-[2026-10-03 07:01:10] Неизвестный источник (fda.gov): Cheminformatics Resources of U.S. Govern
-[2026-10-03 07:01:10] Неизвестный источник (snopes.com): Was Trump's 'super intelligence' order a
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): IBM allows on-prem deployment of its Bob
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): NetApp’s ‘sleeping giant’ moment as AI b
-[2026-10-03 07:01:10] Неизвестный источник (clarkesworldmagazine.com): A Vintage Kind of Death by Alex T. Singe
-[2026-10-03 07:01:10] Неизвестный источник (clarkesworldmagazine.com): The Job by Elizabeth Bear
-[2026-10-03 07:01:10] Неизвестный источник (brobible.com): Alabama Is Preparing For Mississippi Sta
-[2026-10-03 07:01:10] Нет фото: leadtools 23.0.0.8
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): NetApp and Nvidia rethink storage for AI
-[2026-10-03 07:01:10] Неизвестный источник (financialpost.com): Anthropic said to target mega-IPO before
-[2026-10-03 07:01:10] Неизвестный источник (blog.talosintelligence.com): Give yourself room to be human
-[2026-10-03 07:01:10] Неизвестный источник (cryptoslate.com): Bond yield explosion gives Bitcoin a str
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): NORD Awards Seed Grants to Advance Break
-[2026-10-03 07:01:10] Неизвестный источник (thewrap.com): Hollywood Dealmakers Eye Creators as Meg
-[2026-10-03 07:01:10] Неизвестный источник (business-standard.com): Jio Platforms IPO in final stages after 
-[2026-10-03 07:01:10] Неизвестный источник (financialpost.com): Tesla EV deliveries set to drop on weak 
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Flow Engineering raises $50M to bring th
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): AI Drug Discovery Forecasts Vary Widely 
-[2026-10-03 07:01:10] Нет фото: Adastra Builds Out Global Executive Team
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): AWS debuts Strands Decider 2B, a first l
-[2026-10-03 07:01:10] Неизвестный источник (nzherald.co.nz): Media Insider: Simon Dallow a contender 
-[2026-10-03 07:01:10] Неизвестный источник (scientificamerican.com): Google tests its plan for AI data center
-[2026-10-03 07:01:10] Неизвестный источник (themusicninja.com): Prosecutors Seek Nearly Four Years in Pr
-[2026-10-03 07:01:10] Неизвестный источник (valorinternational.globo.com): Presidential hopefuls make health pledge
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Starlink Satellite-to-Mobile Service Lau
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Starlink Satellite-to-Mobile Service Lau
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): Walapay raises $4.6M to bring near insta
-[2026-10-03 07:01:10] Неизвестный источник (ubergizmo.com): NVIDIA DLSS 5 Can Now Run On Unsupported
-[2026-10-03 07:01:10] Неизвестный источник (siliconangle.com): AI-driven law firm Arceus Legal raises $
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): Sandler Partners Announces 2026 National
-[2026-10-03 07:01:10] Неизвестный источник (financialpost.com): Microsoft’s trillion-dollar quarter show
-[2026-10-03 07:01:10] Неизвестный источник (ipwatchdog.com): The True Cost of Patent Infringement Lit
-[2026-10-03 07:01:10] Неизвестный источник (financialpost.com): U.S. benchmark yield hits highest since 
-[2026-10-03 07:01:10] Неизвестный источник (medicaldaily.com): Early Mayo Clinic AI Model Flagged Pancr
-[2026-10-03 07:01:10] Неизвестный источник (journals.plos.org): Speech enhancement method integrating sq
-[2026-10-03 07:01:10] Неизвестный источник (journals.plos.org): Disease-first public-data integration wi
-[2026-10-03 07:01:10] Неизвестный источник (journals.plos.org): Demographic changes and behavioural resp
-[2026-10-03 07:01:10] AI новости: 1 с доверенных источников
-[2026-10-03 07:01:10] Доверенных AI-источников мало, добираю из остальных
-[2026-10-03 07:01:10] Заблокированный источник (prnewswire.com): FF EAI Robotics Ecosystem Inc. (NASDAQ: 
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: nvidia/Nemotron-3-Diarization · Hugging Face
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: The Metric Is Not The Mission: The Digital Climate
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Misinterpreting the 'Greater Israel Project'
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: How a failed attack in Leipzig revealed a wider Ru
-[2026-10-03 07:01:10] Нет фото: Nuix Takes to Sibos 2026 to help Financi
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: How Singapore's government-run dating service work
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: CNBC Daily Open: Three’s a crowd: U.S. carrier bui
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Microsoft targets ultra-realistic voice agents wit
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Satellite software provider Satlyt closes $8M inve
-[2026-10-03 07:01:10] Не про ИИ, пропускаю: Cannabinoid modulation of central amygdala populat
-[2026-10-03 07:01:10] Нет фото: Prediction of fast, slow, and average sh
 [2026-10-03 07:01:10] Не про ИИ, пропускаю: Atiku and the alternative hypothesis
 [2026-10-03 07:01:10] Не про ИИ, пропускаю: Volantis raises $88M to develop photonic inference
 [2026-10-03 07:01:10] Не про ИИ, пропускаю: The Metric Is Not The Mission: The Digital Climate
@@ -2998,3 +2870,131 @@
 [2026-10-09 05:04:50] Пауза 60 секунд...
 [2026-10-09 05:05:51] sent_urls.txt обрезан: 306 -> 300
 [2026-10-09 05:05:51] === Блок morning завершён ===
+[2026-10-09 07:01:05] Загружено 300 уже отправленных новостей
+[2026-10-09 07:01:05] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-09 07:01:06] Неизвестный источник (rand.org): AI ecosystems in the Netherlands and the
+[2026-10-09 07:01:06] Неизвестный источник (nzherald.co.nz): Andrew Garfield hid in toilets to avoid 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Hilton is betting on people in an industry that ca
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): US venture deal value reaches record $51
+[2026-10-09 07:01:06] Неизвестный источник (americanthinker.com): Amazon took 20 years, but AI will take l
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Google debuts SynthID Detector tool for 
+[2026-10-09 07:01:06] Неизвестный источник (denverpost.com): Barbed comments, and sharper rejoinders,
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): At WebexOne, Cisco’s Jeetu Patel argues 
+[2026-10-09 07:01:06] Неизвестный источник (nzherald.co.nz): Andrew Garfield reveals ‘scary’ reason h
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Samsung forecasts world record-breaking 
+[2026-10-09 07:01:06] Неизвестный источник (punchng.com): GSMA projects 2.4bn 6G connections
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Nvidia, Samsung back $90M round for AI a
+[2026-10-09 07:01:06] Нет фото: Phylogeny-informed genomic prediction wi
+[2026-10-09 07:01:06] Нет фото: She Died at the San Diego Border. A Surv
+[2026-10-09 07:01:06] Неизвестный источник (cjr.org): Remembrance
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): US government, tech giants and Biohub co
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Cupertino might be made for your mom, but it’s a g
+[2026-10-09 07:01:06] Неизвестный источник (techradar.com): Moving beyond chips and screens: Samsung
+[2026-10-09 07:01:06] Неизвестный источник (decrypt.co): Ethereum Researcher Says AI May Break En
+[2026-10-09 07:01:06] Неизвестный источник (adweek.com): AI Is Pushing Advertising Back Into the 
+[2026-10-09 07:01:06] Нет фото: TekVision and Carahsoft Officially Annou
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): OpenAI publishes 722 AI-generated math d
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Cisco broadens agentic features in Webex
+[2026-10-09 07:01:06] Неизвестный источник (cryptobriefing.com): Trump administration plans to unveil ove
+[2026-10-09 07:01:06] Неизвестный источник (deadline.com): ‘Other Mommy’ To Cook Up $20M Opening, ‘
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Arista takes Ethernet into the rack, and
+[2026-10-09 07:01:06] Неизвестный источник (financialpost.com): San Francisco passes data centre morator
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Three insights you might have missed fro
+[2026-10-09 07:01:06] Неизвестный источник (developer.nvidia.com): The Machines that Make the Machines
+[2026-10-09 07:01:06] Неизвестный источник (ohnotheydidnt.livejournal.com): The Battle Of The Tech Bro Movies
+[2026-10-09 07:01:06] Неизвестный источник (channelnewsasia.com): Elliott and Siris explore $2 billion-plu
+[2026-10-09 07:01:06] Неизвестный источник (economictimes.indiatimes.com): Railways plans recast of freight wagon o
+[2026-10-09 07:01:06] Неизвестный источник (dailykos.com): Being Trump means never having your word
+[2026-10-09 07:01:06] Неизвестный источник (business-standard.com): Ericsson to export India-made antennas t
+[2026-10-09 07:01:06] Нет фото: FireFly Robotics Announces Filing of Reg
+[2026-10-09 07:01:06] Неизвестный источник (onefootball.com): Atlético and Instituto Galo host gala au
+[2026-10-09 07:01:06] Неизвестный источник (financialpost.com): Google, Unity launch platform to create 
+[2026-10-09 07:01:06] Неизвестный источник (financialpost.com): The Grocery Aisle Just Rewrote the Rules
+[2026-10-09 07:01:06] Неизвестный источник (cinemablend.com): The Social Reckoning Reactions Dropped. 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: JD Vance to speak with Tony Dokoupil for town hall
+[2026-10-09 07:01:06] Заблокированный источник (dailymail.com): Andrew Garfield reveals a teacher made h
+[2026-10-09 07:01:06] Неизвестный источник (hothardware.com): AI Music Fraudster Forced To Face The Mu
+[2026-10-09 07:01:06] Неизвестный источник (coincheers.com): How AI is Changing Web3 Marketing Foreve
+[2026-10-09 07:01:06] Неизвестный источник (vulture.com): Artificial Is a Better Social Network Se
+[2026-10-09 07:01:06] Неизвестный источник (github.com): Show HN: One – Post-labor biophysical re
+[2026-10-09 07:01:06] Нет фото: ia-router 0.5.0
+[2026-10-09 07:01:06] Неизвестный источник (worksinprogress.co): Why Were Victorian Elites So Effective?
+[2026-10-09 07:01:06] Неизвестный источник (sheboyganpress.com): 9 Road America race weekends to put on y
+[2026-10-09 07:01:06] Нет фото: Rural Health Transformation Funding Can 
+[2026-10-09 07:01:06] Неизвестный источник (economictimes.indiatimes.com): Paytm's Vijay Shekhar Sharma wants India
+[2026-10-09 07:01:06] Заблокированный источник (prnewswire.com): AI Cybersecurity Market worth $95.25 bil
+[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Kore.ai launches Autoloop to keep tuning
+[2026-10-09 07:01:06] Неизвестный источник (journals.plos.org): Untimely follow-up after cervical cancer
+[2026-10-09 07:01:06] Неизвестный источник (journals.plos.org): Integrating images, sounds, citizen scie
+[2026-10-09 07:01:06] Неизвестный источник (journals.plos.org): Computational identification of natural 
+[2026-10-09 07:01:06] Неизвестный источник (journals.plos.org): HSCM-Lane: A ResNet-based encoder-decode
+[2026-10-09 07:01:06] Неизвестный источник (journals.plos.org): roadDB: An R package for exploring early
+[2026-10-09 07:01:06] Неизвестный источник (rediff.com): Paytm CEO Vijay Shekhar Sharma Funds Ind
+[2026-10-09 07:01:06] Нет фото: ia-router 0.3.0
+[2026-10-09 07:01:06] AI новости: 0 с доверенных источников
+[2026-10-09 07:01:06] Доверенных AI-источников мало, добираю из остальных
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Andrew Garfield hid in toilets to avoid school din
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Hilton is betting on people in an industry that ca
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: US venture deal value reaches record $515.8B as ex
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Barbed comments, and sharper rejoinders, dominate 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: At WebexOne, Cisco’s Jeetu Patel argues the agent 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Samsung forecasts world record-breaking $80B profi
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: GSMA projects 2.4bn 6G connections
+[2026-10-09 07:01:06] Нет фото: Phylogeny-informed genomic prediction wi
+[2026-10-09 07:01:06] Нет фото: She Died at the San Diego Border. A Surv
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Remembrance
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Cupertino might be made for your mom, but it’s a g
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Moving beyond chips and screens: Samsung joins Nvi
+[2026-10-09 07:01:06] Нет фото: TekVision and Carahsoft Officially Annou
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Cisco broadens agentic features in Webex collabora
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Arista takes Ethernet into the rack, and the netwo
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: The Machines that Make the Machines
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: The Battle Of The Tech Bro Movies
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Elliott and Siris explore $2 billion-plus Gigamon 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Railways plans recast of freight wagon operations
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Being Trump means never having your words mean any
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Ericsson to export India-made antennas to Europe, 
+[2026-10-09 07:01:06] Нет фото: FireFly Robotics Announces Filing of Reg
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Atlético and Instituto Galo host gala auction
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Google, Unity launch platform to create video game
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: The Social Reckoning Reactions Dropped. All Anyone
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: JD Vance to speak with Tony Dokoupil for town hall
+[2026-10-09 07:01:06] Заблокированный источник (dailymail.com): Andrew Garfield reveals a teacher made h
+[2026-10-09 07:01:06] Пропускаю уже отправленную: AI Music Fraudster Forced To Face The Music With 1
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: How AI is Changing Web3 Marketing Forever
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Artificial Is a Better Social Network Sequel Than 
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Show HN: One – Post-labor biophysical resource coo
+[2026-10-09 07:01:06] Нет фото: ia-router 0.5.0
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Why Were Victorian Elites So Effective?
+[2026-10-09 07:01:06] Спорт, пропускаю: 9 Road America race weekends to put on y
+[2026-10-09 07:01:06] Нет фото: Rural Health Transformation Funding Can 
+[2026-10-09 07:01:06] Пропускаю уже отправленную: Paytm's Vijay Shekhar Sharma wants India to build 
+[2026-10-09 07:01:06] Заблокированный источник (prnewswire.com): AI Cybersecurity Market worth $95.25 bil
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Untimely follow-up after cervical cancer screening
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: Integrating images, sounds, citizen science and AI
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: HSCM-Lane: A ResNet-based encoder-decoder architec
+[2026-10-09 07:01:06] Не про ИИ, пропускаю: roadDB: An R package for exploring early human pre
+[2026-10-09 07:01:06] Нет фото: ia-router 0.3.0
+[2026-10-09 07:01:06] AI новости: 14 кандидатов после фильтрации
+[2026-10-09 07:01:07] Редакторский отбор: выбраны позиции [6, 9, 3, 7]
+[2026-10-09 07:01:07] Обрабатываю: US government, tech giants and Biohub commit $1.8B to AI bio | https://siliconangle.com/2026/10/07/us-government-tech-giants-and-bioh
+[2026-10-09 07:01:08] Полный текст получен (3000 символов)
+[2026-10-09 07:01:08] Попытка 1 для: US government, tech giants and Biohub co
+[2026-10-09 07:01:11] Успешно, получено 1918 символов
+[2026-10-09 07:01:11] Обрабатываю: OpenAI publishes 722 AI-generated math discoveries in major  | https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-
+[2026-10-09 07:01:11] Полный текст получен (3000 символов)
+[2026-10-09 07:01:11] Попытка 1 для: OpenAI publishes 722 AI-generated math d
+[2026-10-09 07:01:14] Успешно, получено 1592 символов
+[2026-10-09 07:01:14] Обрабатываю: Google debuts SynthID Detector tool for flagging AI-generate | https://siliconangle.com/2026/10/07/google-debuts-synthid-detector-too
+[2026-10-09 07:01:14] Полный текст получен (3000 символов)
+[2026-10-09 07:01:14] Попытка 1 для: Google debuts SynthID Detector tool for 
+[2026-10-09 07:01:16] Успешно, получено 1823 символов
+[2026-10-09 07:01:16] Обрабатываю: Ethereum Researcher Says AI May Break Encryption Before Quan | https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-befo
+[2026-10-09 07:01:16] Полный текст получен (3000 символов)
+[2026-10-09 07:01:16] Попытка 1 для: Ethereum Researcher Says AI May Break En
+[2026-10-09 07:01:22] Успешно, получено 1553 символов
+[2026-10-09 07:01:25] Пауза 60 секунд...
+[2026-10-09 07:02:26] Пауза 60 секунд...
+[2026-10-09 07:03:27] Пауза 60 секунд...
+[2026-10-09 07:04:27] sent_urls.txt обрезан: 304 -> 300
+[2026-10-09 07:04:27] === Блок ai_morning завершён ===
