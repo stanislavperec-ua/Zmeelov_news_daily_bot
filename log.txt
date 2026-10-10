@@ -1,42 +1,3 @@
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Amazon vows to invest $1 billion in areas where it
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Brilliant Things to Do This October
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Ticker: CNN Boss Mark Thompson Meets With New Owne
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Seeking niche in ASEAN semiconductor supply chain
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Steve Bannon Hammers Trump’s National Security Chi
-[2026-10-04 07:01:13] Пропускаю уже отправленную: Ai2 releases Olmo-core 3 to make developing large 
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Everything New on Streaming in October: Netflix, H
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Kobalt Founder Willard Ahdritz Launches Music and 
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: U.S. job growth falls short of forecasts as firms 
-[2026-10-04 07:01:13] Пропускаю уже отправленную: Despite IPO jitters and AI safety worries, Anthrop
-[2026-10-04 07:01:13] Заблокированный источник (prnewswire.com): Heartland Dental Welcomes Foundation Den
-[2026-10-04 07:01:13] Нет фото: feagi 2.2.4
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Applied POSIWID – #SolutionsWatch
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: New Shows & Movies To Watch This Weekend: Netflix’
-[2026-10-04 07:01:13] Заблокированный источник (prnewswire.com): Health In Tech to Attend the 17th Annual
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: America isn’t short of electricity. It’s short of 
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: Quantum coming ‘like a freight train,’ IonQ CEO sa
-[2026-10-04 07:01:13] Нет фото: MATE-runtime 1.0.0.dev0
-[2026-10-04 07:01:13] Нет фото: noone-protocol added to PyPI
-[2026-10-04 07:01:13] Не про ИИ, пропускаю: HPE deploys AI-powered networking at Saudi German 
-[2026-10-04 07:01:13] AI новости: 18 кандидатов после фильтрации
-[2026-10-04 07:01:15] Редакторский отбор: выбраны позиции [1, 7, 3, 5]
-[2026-10-04 07:01:15] Обрабатываю: Anthropic to invest $100 million to train AI engineer talent | https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-tra
-[2026-10-04 07:01:15] Полный текст получен (2495 символов)
-[2026-10-04 07:01:15] Попытка 1 для: Anthropic to invest $100 million to trai
-[2026-10-04 07:01:19] Успешно, получено 1964 символов
-[2026-10-04 07:01:19] Обрабатываю: Tech bills of the week: AI research competitions; Prohibitin | https://www.nextgov.com/artificial-intelligence/2026/10/tech-bills-wee
-[2026-10-04 07:01:19] Полный текст получен (3000 символов)
-[2026-10-04 07:01:19] Попытка 1 для: Tech bills of the week: AI research comp
-[2026-10-04 07:01:21] Успешно, получено 1686 символов
-[2026-10-04 07:01:21] Обрабатываю: Central Asia's biggest state holds month-long initiative to  | https://economictimes.indiatimes.com/news/international/world-news/cen
-[2026-10-04 07:01:22] Текст не совпадает с заголовком, беру описание: https://economictimes.indiatimes.com/news/international/worl
-[2026-10-04 07:01:22] Попытка 1 для: Central Asia's biggest state holds month
-[2026-10-04 07:01:25] Успешно, получено 1370 символов
-[2026-10-04 07:01:25] Обрабатываю: ED probes betting apps using AI firms to move Rs 2,000 crore | https://economictimes.indiatimes.com/news/india/ed-probes-betting-apps
-[2026-10-04 07:01:25] Полный текст получен (2778 символов)
-[2026-10-04 07:01:25] Попытка 1 для: ED probes betting apps using AI firms to
-[2026-10-04 07:01:40] Успешно, получено 1831 символов
-[2026-10-04 07:01:43] Пауза 60 секунд...
 [2026-10-04 07:02:44] Пауза 60 секунд...
 [2026-10-04 07:03:45] Пауза 60 секунд...
 [2026-10-04 07:04:46] sent_urls.txt обрезан: 304 -> 300
@@ -2998,3 +2959,42 @@
 [2026-10-10 07:03:39] Пауза 60 секунд...
 [2026-10-10 07:04:39] sent_urls.txt обрезан: 304 -> 300
 [2026-10-10 07:04:39] === Блок ai_morning завершён ===
+[2026-10-10 10:01:02] Загружено 300 уже отправленных новостей
+[2026-10-10 10:01:02] === Запуск блока: midday (тест: False) ===
+[2026-10-10 10:01:02] Неизвестный источник (the-independent.com): Ted Lasso star explains surprise finale 
+[2026-10-10 10:01:02] Неизвестный источник (foxnews.com): Guardians force decisive ALDS Game 5 as 
+[2026-10-10 10:01:02] Неизвестный источник (espn.com): LeBron James scores 10 points in 18 minu
+[2026-10-10 10:01:02] Неизвестный источник (ew.com): ‘Vampire Diaries’ star Steven R. McQueen
+[2026-10-10 10:01:02] Неизвестный источник (mmafighting.com): Sean Strickland blames UFC for ruining l
+[2026-10-10 10:01:02] Лента обновлений, пропускаю: Hurricane Isaias live updates: Gulf Coas
+[2026-10-10 10:01:02] Неизвестный источник (pbs.org): Exclusive: House Democrats ask Kimberly 
+[2026-10-10 10:01:02] Лента обновлений, пропускаю: Stock futures are little changed after O
+[2026-10-10 10:01:02] Пропускаю уже отправленную: At least 30 dead in Russian bus strike as Moscow c
+[2026-10-10 10:01:02] Неизвестный источник (publicsource.org): Second measles case confirmed in Alleghe
+[2026-10-10 10:01:02] Неизвестный источник (newsnationnow.com): New iron deficiency standards for diagno
+[2026-10-10 10:01:02] Неизвестный источник (macrumors.com): Apple Product Launch Announced for Octob
+[2026-10-10 10:01:02] Неизвестный источник (rollingstone.com): Thom Yorke and Harry Styles Come Togethe
+[2026-10-10 10:01:02] Неизвестный источник (usatoday.com): NASA photo of Mars dawn reveals cliffs i
+[2026-10-10 10:01:02] Старая новость (2026-10-07T22:40:01Z): Nobel physics winner's pride at pioneeri
+[2026-10-10 10:01:02] Мировые новости: найдено 13 после фильтрации
+[2026-10-10 10:01:04] Редакторский отбор: выбраны позиции [13, 10, 1, 8]
+[2026-10-10 10:01:04] Обрабатываю: Tanker hit by multiple projectiles in Gulf off Qatar, mariti | https://www.bbc.com/news/articles/cqlydk7796wdo
+[2026-10-10 10:01:05] Полный текст получен (2603 символов)
+[2026-10-10 10:01:05] Попытка 1 для: Tanker hit by multiple projectiles in Gu
+[2026-10-10 10:01:08] Успешно, получено 1565 символов
+[2026-10-10 10:01:08] Обрабатываю: Four astronauts return to Earth after eight months in space | https://apnews.com/article/spacex-nasa-space-station-3d4ca5874f95fe94a
+[2026-10-10 10:01:08] Попытка 1 для: Four astronauts return to Earth after ei
+[2026-10-10 10:01:11] Успешно, получено 863 символов
+[2026-10-10 10:01:11] Обрабатываю: What smart people are saying about the US suspending PERM vi | https://www.businessinsider.com/smart-people-perm-program-suspended-mi
+[2026-10-10 10:01:11] Полный текст получен (3000 символов)
+[2026-10-10 10:01:11] Попытка 1 для: What smart people are saying about the U
+[2026-10-10 10:01:13] Успешно, получено 1794 символов
+[2026-10-10 10:01:13] Обрабатываю: Mamdani defends Oct. 7 message that angered Jewish leaders,  | https://www.washingtonpost.com/nation/2026/10/08/outcry-over-mamdanis-
+[2026-10-10 10:01:25] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/nation/2026/10/08/outcry-over
+[2026-10-10 10:01:25] Попытка 1 для: Mamdani defends Oct. 7 message that ange
+[2026-10-10 10:01:28] Успешно, получено 830 символов
+[2026-10-10 10:01:31] Пауза 60 секунд...
+[2026-10-10 10:02:31] Пауза 60 секунд...
+[2026-10-10 10:03:32] Пауза 60 секунд...
+[2026-10-10 10:04:32] sent_urls.txt обрезан: 304 -> 300
+[2026-10-10 10:04:32] === Блок midday завершён ===
