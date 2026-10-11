@@ -1,91 +1,3 @@
-[2026-10-05 15:01:28] Внутренний дубль: Russian attacks in Kharkiv and region leave one ki
-[2026-10-05 15:01:28] Харьков: найдена новость: Russian strike on Kharkiv: Three killed, number of
-[2026-10-05 15:01:28] Обрабатываю: Brazil presidential vote pits Trump ally against Lula, who i | https://apnews.com/article/brazil-elections-lula-flavio-bolsonaro-layd
-[2026-10-05 15:01:28] Попытка 1 для: Brazil presidential vote pits Trump ally
-[2026-10-05 15:01:31] Успешно, получено 842 символов
-[2026-10-05 15:01:31] Обрабатываю: How Democrats hope to reverse Trump’s changes to the preside | https://www.washingtonpost.com/politics/2026/10/04/democrats-are-makin
-[2026-10-05 15:01:43] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/04/democrats
-[2026-10-05 15:01:43] Попытка 1 для: How Democrats hope to reverse Trump’s ch
-[2026-10-05 15:01:49] Успешно, получено 973 символов
-[2026-10-05 15:01:49] Обрабатываю: Saudi-led coalition dismisses ‘misleading’ Houthi claim of R | https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-ri
-[2026-10-05 15:01:49] Полный текст получен (2307 символов)
-[2026-10-05 15:01:49] Попытка 1 для: Saudi-led coalition dismisses ‘misleadin
-[2026-10-05 15:01:53] Успешно, получено 1573 символов
-[2026-10-05 15:01:53] Обрабатываю: Supreme Court gears up for new term with major cases on clim | https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-chang
-[2026-10-05 15:01:54] Полный текст получен (3000 символов)
-[2026-10-05 15:01:54] Попытка 1 для: Supreme Court gears up for new term with
-[2026-10-05 15:02:04] Успешно, получено 1957 символов
-[2026-10-05 15:02:07] Пауза 60 секунд...
-[2026-10-05 15:03:08] Пауза 60 секунд...
-[2026-10-05 15:04:08] Пауза 60 секунд...
-[2026-10-05 15:05:09] Обрабатываю: Ukraine and Germany sign agreements worth EUR 8.5 bln – Zele | https://www.ukrinform.net/rubric-economy/4171270-ukraine-and-germany-s
-[2026-10-05 15:05:10] Полный текст получен (1116 символов)
-[2026-10-05 15:05:10] Попытка 1 для: Ukraine and Germany sign agreements wort
-[2026-10-05 15:05:14] Успешно, получено 1170 символов
-[2026-10-05 15:05:14] Обрабатываю: Russian strike on Kharkiv: Three killed, number of injured r | https://www.ukrinform.net/rubric-ato/4171301-russian-strike-on-kharkiv
-[2026-10-05 15:05:15] Полный текст получен (1289 символов)
-[2026-10-05 15:05:15] Попытка 1 для: Russian strike on Kharkiv: Three killed,
-[2026-10-05 15:05:17] Успешно, получено 1361 символов
-[2026-10-05 15:05:20] Пауза 60 секунд...
-[2026-10-05 15:06:21] sent_urls.txt обрезан: 306 -> 300
-[2026-10-05 15:06:21] === Блок evening завершён ===
-[2026-10-05 17:01:16] Загружено 300 уже отправленных новостей
-[2026-10-05 17:01:16] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-05 17:01:17] Неизвестный источник (business-standard.com): Rising global bond yields pose huge chal
-[2026-10-05 17:01:17] Нет фото: I assume this cyberpunk chef is training
-[2026-10-05 17:01:17] Нет фото: artificial-intelligence-usage 0.0.1
-[2026-10-05 17:01:17] Неизвестный источник (economictimes.indiatimes.com): AI could turn nuclear weapons into ‘Term
-[2026-10-05 17:01:17] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
-[2026-10-05 17:01:17] Неизвестный источник (ibtimes.com.au): (VIDEO) Colts vs Commanders Today: Where
-[2026-10-05 17:01:17] Неизвестный источник (gizmodo.com): TP-Link Tapo Doorbell Pro D260 Review: E
-[2026-10-05 17:01:17] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
-[2026-10-05 17:01:17] Нет фото: jorwal added to PyPI
-[2026-10-05 17:01:17] Неизвестный источник (english.aawsat.com): Iraq Says It Transported 2 Million Barre
-[2026-10-05 17:01:17] Нет фото: artificial-intelligence-local 0.0.17b376
-[2026-10-05 17:01:17] Неизвестный источник (thehindubusinessline.com): Jio Platforms IPO likely by Oct end at e
-[2026-10-05 17:01:17] Неизвестный источник (business-standard.com): Jio IPO likely by Oct end at enterprise 
-[2026-10-05 17:01:17] Заблокированный источник (nypost.com): Trump defends data centers in Ohio, warn
-[2026-10-05 17:01:17] Неизвестный источник (english.khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
-[2026-10-05 17:01:17] Неизвестный источник (researchbuzz.me): Illegal Snipe Hunts, Protest Art, Amazon
-[2026-10-05 17:01:17] Нет фото: A low-complexity optical OFDM physical l
-[2026-10-05 17:01:17] Неизвестный источник (bleedingcool.com): DC's Quoth the Raven… Whatever #1 Previe
-[2026-10-05 17:01:17] Неизвестный источник (disneyfoodblog.com): These NEW Disney Patents Could Mean Big 
-[2026-10-05 17:01:17] Неизвестный источник (digitaljournal.com): AI-driven network upgrades expose hidden
-[2026-10-05 17:01:17] AI новости: 0 с доверенных источников
-[2026-10-05 17:01:17] Доверенных AI-источников мало, добираю из остальных
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: Rising global bond yields pose huge challenge to e
-[2026-10-05 17:01:17] Нет фото: I assume this cyberpunk chef is training
-[2026-10-05 17:01:17] Нет фото: artificial-intelligence-usage 0.0.1
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: AI could turn nuclear weapons into ‘Terminator-sty
-[2026-10-05 17:01:17] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: TP-Link Tapo Doorbell Pro D260 Review: Everything 
-[2026-10-05 17:01:17] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
-[2026-10-05 17:01:17] Нет фото: jorwal added to PyPI
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: Iraq Says It Transported 2 Million Barrels of Crud
-[2026-10-05 17:01:17] Нет фото: artificial-intelligence-local 0.0.17b376
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: Jio Platforms IPO likely by Oct end at enterprise 
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: Jio IPO likely by Oct end at enterprise valuation 
-[2026-10-05 17:01:17] Заблокированный источник (nypost.com): Trump defends data centers in Ohio, warn
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: Economic Digest: A Snapshot of Nepal’s Business Ne
-[2026-10-05 17:01:17] Пропускаю уже отправленную: Illegal Snipe Hunts, Protest Art, Amazon and Data 
-[2026-10-05 17:01:17] Нет фото: A low-complexity optical OFDM physical l
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: DC's Quoth the Raven… Whatever #1 Preview: Raven S
-[2026-10-05 17:01:17] Не про ИИ, пропускаю: These NEW Disney Patents Could Mean Big Changes
-[2026-10-05 17:01:17] Пропускаю уже отправленную: AI-driven network upgrades expose hidden complexit
-[2026-10-05 17:01:17] AI новости: 0 кандидатов после фильтрации
-[2026-10-05 17:01:17] ⚠️ Блок <b>AI вечер</b> (05.10.2026): новостей не найдено!
-[2026-10-05 17:01:17] === Блок ai_evening завершён ===
-[2026-10-06 05:01:19] Загружено 300 уже отправленных новостей
-[2026-10-06 05:01:19] === Запуск блока: morning (тест: False) ===
-[2026-10-06 05:01:19] Неизвестный источник (nbcsports.com): Sunday Night Football: Tetairoa McMillan
-[2026-10-06 05:01:19] Неизвестный источник (cbssports.com): Dallas Cowboys vs. Houston Texans Live S
-[2026-10-06 05:01:19] Неизвестный источник (hollywoodreporter.com): ‘Lanterns’ Team Breaks Down Finale’s Emo
-[2026-10-06 05:01:19] Неизвестный источник (arrowheadpride.com): 8 Winners and 4 Losers from the Chiefs’ 
-[2026-10-06 05:01:19] Неизвестный источник (foxnews.com): Teresa Giudice's daughter Milania writes
-[2026-10-06 05:01:19] Неизвестный источник (deadline.com): Reggie McFadden Dies: ‘In Living Color’ 
-[2026-10-06 05:01:19] Неизвестный источник (lifehacker.com): Today's NYT Strands Hints (and Answer) f
-[2026-10-06 05:01:19] Неизвестный источник (ktla.com): Southern California real-estate agent ar
-[2026-10-06 05:01:19] Неизвестный источник (foxnews.com): US monitoring suspected fatal pneumonic 
 [2026-10-06 05:01:19] Неизвестный источник (wsbtv.com): 2 dead, dozens injured in mass shooting 
 [2026-10-06 05:01:19] Неизвестный источник (9to5google.com): ‘Fitbit Edge’ leaks as Google’s next fit
 [2026-10-06 05:01:19] Неизвестный источник (seekingalpha.com): Micron: The Trade Of The Decade Has Arri
@@ -2998,3 +2910,91 @@
 [2026-10-11 15:05:55] Пауза 60 секунд...
 [2026-10-11 15:06:55] sent_urls.txt обрезан: 307 -> 300
 [2026-10-11 15:06:55] === Блок evening завершён ===
+[2026-10-11 17:01:07] Загружено 300 уже отправленных новостей
+[2026-10-11 17:01:07] === Запуск блока: ai_evening (тест: False) ===
+[2026-10-11 17:01:07] Неизвестный источник (siliconangle.com): The AI control gap: Who gets to say ‘It’
+[2026-10-11 17:01:07] Неизвестный источник (opensecrets.org): Outside Groups Have Spent Nearly $2 Bill
+[2026-10-11 17:01:07] Неизвестный источник (economictimes.indiatimes.com): India Mobile Congress 2026 concludes wit
+[2026-10-11 17:01:07] Неизвестный источник (dealeraiguy.com): Toyota Just Admitted It's Marketing to R
+[2026-10-11 17:01:07] Неизвестный источник (proofsandprompts.com): The Difference We Are Optimising Away
+[2026-10-11 17:01:07] Неизвестный источник (ibtimes.com.au): OpenAI vs Anthropic vs Gemini vs Grok: W
+[2026-10-11 17:01:07] Неизвестный источник (ibtimes.com.au): Elon Musk Says SpaceX Could Be Worth Far
+[2026-10-11 17:01:07] Нет фото: CGTN: How China uses digital tech to emp
+[2026-10-11 17:01:07] Неизвестный источник (rte.ie): Anthropic AI model sent fake murder tip 
+[2026-10-11 17:01:07] Неизвестный источник (innovationbridge.info): UNICEF Femtech Ventures – Funding Opport
+[2026-10-11 17:01:07] Неизвестный источник (nymag.com): The Problem With Facebook Was Facebook
+[2026-10-11 17:01:07] Неизвестный источник (travelandtourworld.com): Cape Town Drives October 2026 Tourism Mo
+[2026-10-11 17:01:07] Нет фото: Michael Hudson on the Oil Markets
+[2026-10-11 17:01:07] Неизвестный источник (financialpost.com): Sigenergy Unveils the Latest Energy Solu
+[2026-10-11 17:01:07] Неизвестный источник (lewrockwell.com): The Dead Don’t Die! Zombie Cells Don’t E
+[2026-10-11 17:01:07] Заблокированный источник (dailymail.com): Love Island Australia unveils 2026 cast 
+[2026-10-11 17:01:07] Неизвестный источник (livemint.com): Zetwerk eyes ₹27,000 crore IPO valuation
+[2026-10-11 17:01:07] Неизвестный источник (siliconangle.com): Warehouse robot maker Ultra Robotics bag
+[2026-10-11 17:01:07] Неизвестный источник (digitaljournal.com): Rishabh Singh is betting the road to AGI
+[2026-10-11 17:01:07] Неизвестный источник (cbc.ca): Halton police are turning to AI to help 
+[2026-10-11 17:01:07] Нет фото: Digital Gap Must Not Drive New Inequalit
+[2026-10-11 17:01:07] Неизвестный источник (pymnts.com): 2 Years of SDNY FinCrime Cases Show New 
+[2026-10-11 17:01:07] Неизвестный источник (siliconangle.com): Jev creator TypeSafe closes $870M round 
+[2026-10-11 17:01:07] Неизвестный источник (deadline.com): Indies Flex As ‘Musk’ Doc, Chris Rock’s 
+[2026-10-11 17:01:07] Неизвестный источник (mobilesyrup.com): Trump declares anyone saying AI is ‘the 
+[2026-10-11 17:01:07] Неизвестный источник (codeberg.org): open-slopware – Alternatives to FOSS pro
+[2026-10-11 17:01:07] Неизвестный источник (vulture.com): It’s The Odyssey Versus Everyone Else
+[2026-10-11 17:01:07] Неизвестный источник (economictimes.indiatimes.com): EY data breach puts spotlight on data se
+[2026-10-11 17:01:07] Неизвестный источник (variety.com): Beyond ‘Hollywood North’: How Vancouver’
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Elon Musk’s growing SpaceX empire sends AT&T, Veri
+[2026-10-11 17:01:07] Неизвестный источник (makeuseof.com): This firmware update will make your 3D p
+[2026-10-11 17:01:07] Неизвестный источник (nofilmschool.com): 100 Slasher Film Prompts
+[2026-10-11 17:01:07] Нет фото: The Electrocompaniet EC5 & AW300 Review.
+[2026-10-11 17:01:07] Неизвестный источник (borderlandbeat.com): Former Michoacán Official Used AI for Ex
+[2026-10-11 17:01:07] AI новости: 1 с доверенных источников
+[2026-10-11 17:01:07] Доверенных AI-источников мало, добираю из остальных
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Outside Groups Have Spent Nearly $2 Billion on Cam
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: India Mobile Congress 2026 concludes with focus on
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Toyota Just Admitted It's Marketing to Robots Now,
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: The Difference We Are Optimising Away
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Elon Musk Says SpaceX Could Be Worth Far More Than
+[2026-10-11 17:01:07] Нет фото: CGTN: How China uses digital tech to emp
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: UNICEF Femtech Ventures – Funding Opportunity for 
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: The Problem With Facebook Was Facebook
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Cape Town Drives October 2026 Tourism Momentum in 
+[2026-10-11 17:01:07] Нет фото: Michael Hudson on the Oil Markets
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Sigenergy Unveils the Latest Energy Solutions at M
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: The Dead Don’t Die! Zombie Cells Don’t Either….
+[2026-10-11 17:01:07] Заблокированный источник (dailymail.com): Love Island Australia unveils 2026 cast 
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Zetwerk eyes ₹27,000 crore IPO valuation as over 3
+[2026-10-11 17:01:07] Пропускаю уже отправленную: Rishabh Singh is betting the road to AGI runs thro
+[2026-10-11 17:01:07] Пропускаю уже отправленную: Halton police are turning to AI to help hire, trai
+[2026-10-11 17:01:07] Нет фото: Digital Gap Must Not Drive New Inequalit
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: 2 Years of SDNY FinCrime Cases Show New Technology
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Jev creator TypeSafe closes $870M round at $7.5B v
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Trump declares anyone saying AI is ‘the enemy’
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: EY data breach puts spotlight on data security at 
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Beyond ‘Hollywood North’: How Vancouver’s Indie Fi
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: Elon Musk’s growing SpaceX empire sends AT&T, Veri
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: This firmware update will make your 3D printer les
+[2026-10-11 17:01:07] Не про ИИ, пропускаю: 100 Slasher Film Prompts
+[2026-10-11 17:01:07] Нет фото: The Electrocompaniet EC5 & AW300 Review.
+[2026-10-11 17:01:07] Пропускаю уже отправленную: Former Michoacán Official Used AI for Extortion: H
+[2026-10-11 17:01:07] AI новости: 6 кандидатов после фильтрации
+[2026-10-11 17:01:08] Редакторский отбор: выбраны позиции [2, 3, 4, 5]
+[2026-10-11 17:01:08] Обрабатываю: The AI control gap: Who gets to say ‘It’s safe’? | https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say
+[2026-10-11 17:01:08] Полный текст получен (3000 символов)
+[2026-10-11 17:01:08] Попытка 1 для: The AI control gap: Who gets to say ‘It’
+[2026-10-11 17:01:11] Успешно, получено 2013 символов
+[2026-10-11 17:01:11] Обрабатываю: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI R | https://www.ibtimes.com.au/openai-anthropic-google-xai-2027-ai-race-18
+[2026-10-11 17:01:11] Полный текст получен (3000 символов)
+[2026-10-11 17:01:11] Попытка 1 для: OpenAI vs Anthropic vs Gemini vs Grok: W
+[2026-10-11 17:01:14] Успешно, получено 2102 символов
+[2026-10-11 17:01:14] Обрабатываю: Anthropic AI model sent fake murder tip to US police | https://www.rte.ie/news/2026/1010/1594824-anthropic-murder-tip/
+[2026-10-11 17:01:14] Полный текст получен (3000 символов)
+[2026-10-11 17:01:14] Попытка 1 для: Anthropic AI model sent fake murder tip 
+[2026-10-11 17:01:17] Успешно, получено 1861 символов
+[2026-10-11 17:01:17] Обрабатываю: Warehouse robot maker Ultra Robotics bags $62M | https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-roboti
+[2026-10-11 17:01:17] Полный текст получен (3000 символов)
+[2026-10-11 17:01:17] Попытка 1 для: Warehouse robot maker Ultra Robotics bag
+[2026-10-11 17:01:20] Успешно, получено 1211 символов
+[2026-10-11 17:01:23] Пауза 60 секунд...
+[2026-10-11 17:02:24] Пауза 60 секунд...
+[2026-10-11 17:03:24] Пауза 60 секунд...
+[2026-10-11 17:04:25] sent_urls.txt обрезан: 304 -> 300
+[2026-10-11 17:04:25] === Блок ai_evening завершён ===
