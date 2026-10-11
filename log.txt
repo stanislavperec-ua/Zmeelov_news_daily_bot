@@ -1,44 +1,3 @@
-[2026-10-05 10:01:16] Старая новость (2026-10-02T14:49:34Z): SpaceX stock surges after successful ISS
-[2026-10-05 10:01:16] Старая новость (2026-10-02T14:21:01Z): Skip the Wait. Microsoft's 26H2 Update F
-[2026-10-05 10:01:16] Старая новость (2026-10-02T11:30:00Z): NASA SpaceX flight sets speed record in 
-[2026-10-05 10:01:16] Старая новость (2026-10-01T19:21:53Z): ChatGPT can now virtually try on clothes
-[2026-10-05 10:01:16] Мировые новости: найдено 9 после фильтрации
-[2026-10-05 10:01:17] Редакторский отбор: выбраны позиции [7, 1, 8, 6]
-[2026-10-05 10:01:17] Обрабатываю: Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote | https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-d
-[2026-10-05 10:01:17] Попытка 1 для: Lula, Bolsonaro in Dead Heat as Brazil P
-[2026-10-05 10:01:20] Успешно, получено 825 символов
-[2026-10-05 10:01:20] Обрабатываю: U.S. Marine arrested on suspicion of killing Japanese woman  | https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killi
-[2026-10-05 10:01:20] Полный текст получен (2810 символов)
-[2026-10-05 10:01:20] Попытка 1 для: U.S. Marine arrested on suspicion of kil
-[2026-10-05 10:01:23] Успешно, получено 1486 символов
-[2026-10-05 10:01:23] Обрабатываю: AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer | https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powe
-[2026-10-05 10:01:23] Попытка 1 для: AI Deal Frenzy Powers Hong Kong Fundrais
-[2026-10-05 10:01:26] Успешно, получено 870 символов
-[2026-10-05 10:01:26] Обрабатываю: Trump announces $90 payments for seniors on Medicare ahead o | https://apnews.com/article/trump-medicare-payments-midterms-2a314c1c4b
-[2026-10-05 10:01:26] Попытка 1 для: Trump announces $90 payments for seniors
-[2026-10-05 10:01:28] Успешно, получено 949 символов
-[2026-10-05 10:01:31] Пауза 60 секунд...
-[2026-10-05 10:02:32] Пауза 60 секунд...
-[2026-10-05 10:03:32] Пауза 60 секунд...
-[2026-10-05 10:04:33] sent_urls.txt обрезан: 304 -> 300
-[2026-10-05 10:04:33] === Блок midday завершён ===
-[2026-10-05 15:01:19] Загружено 300 уже отправленных новостей
-[2026-10-05 15:01:19] === Запуск блока: evening (тест: False) ===
-[2026-10-05 15:01:20] Неизвестный источник (foxnews.com): Trump launching 'Super Intelligence Forc
-[2026-10-05 15:01:20] Неизвестный источник (247sports.com): PFF Grades: Miami's top ten performers i
-[2026-10-05 15:01:20] Неизвестный источник (foxnews.com): How an Uzbek truck driver’s fatal crash 
-[2026-10-05 15:01:20] Пропускаю уже отправленную: U.S. Marine arrested on suspicion of killing Japan
-[2026-10-05 15:01:20] Неизвестный источник (the-independent.com): Kathleen Turner shares baffled reaction 
-[2026-10-05 15:01:20] Неизвестный источник (wcvb.com): U.S. Coast Guard locates debris from mis
-[2026-10-05 15:01:20] Неизвестный источник (variety.com): Taylor Swift Crashes Dakota Johnson's 'S
-[2026-10-05 15:01:20] Неизвестный источник (tampabay.com): Drew Rasmussen no-hits Yankees into 8th 
-[2026-10-05 15:01:20] Неизвестный источник (screenrant.com): Tom Cruise's New Warner Bros. Movie Offi
-[2026-10-05 15:01:20] Неизвестный источник (usatoday.com): Americans say inflation has put the FIRE
-[2026-10-05 15:01:20] Неизвестный источник (9to5google.com): Gemini app limiting what models free & A
-[2026-10-05 15:01:20] Неизвестный источник (androidpolice.com): 6 One UI 9 features you should immediate
-[2026-10-05 15:01:20] Пропускаю уже отправленную: Florida’s dengue outbreak reportedly largest US ha
-[2026-10-05 15:01:20] Старая новость (2026-10-03T14:07:00Z): Bank of America resets Micron stock fore
-[2026-10-05 15:01:20] Старая новость (2026-10-03T12:21:00Z): Apple weekend deals: AirPods Pro 3 $179,
 [2026-10-05 15:01:20] Старая новость (2026-10-03T12:18:34Z): G7 to release 100 million barrels of oil
 [2026-10-05 15:01:20] Старая новость (2026-10-03T09:01:03Z): Canada's Atlantic waters are attracting 
 [2026-10-05 15:01:20] Старая новость (2026-10-02T23:03:16Z): Apple changes full-disk access permissio
@@ -2998,3 +2957,44 @@
 [2026-10-11 07:03:33] Пауза 60 секунд...
 [2026-10-11 07:04:33] sent_urls.txt обрезан: 304 -> 300
 [2026-10-11 07:04:33] === Блок ai_morning завершён ===
+[2026-10-11 10:01:04] Загружено 300 уже отправленных новостей
+[2026-10-11 10:01:04] === Запуск блока: midday (тест: False) ===
+[2026-10-11 10:01:05] Заблокированный источник (sports.yahoo.com): WNBA playoffs: Valkyries finish sweep of
+[2026-10-11 10:01:05] Неизвестный источник (bgr.com): 5 Cool MagSafe Gadgets That Are Not Moun
+[2026-10-11 10:01:05] Неизвестный источник (foxnews.com): Trump rallies New York crowd for Republi
+[2026-10-11 10:01:05] Неизвестный источник (eonline.com): Teacher Jacob Myers-Norys Reacts to Khlo
+[2026-10-11 10:01:05] Неизвестный источник (variety.com): Danny Trejo Speaks Out About His Role in
+[2026-10-11 10:01:05] Пропускаю уже отправленную: Trump hits International Criminal Court with sanct
+[2026-10-11 10:01:05] Неизвестный источник (foxnews.com): Trump gives raw reaction after finding o
+[2026-10-11 10:01:05] Неизвестный источник (macrumors.com): Apple Stores Will Add Your Name to iPhon
+[2026-10-11 10:01:05] Неизвестный источник (andscape.com): Georgia vs. Alabama defines college foot
+[2026-10-11 10:01:05] Неизвестный источник (ringsidenews.com): WWE SmackDown Spoiler Lineup for October
+[2026-10-11 10:01:05] Пропускаю уже отправленную: NASA issues long-awaited call to industry for priv
+[2026-10-11 10:01:05] Неизвестный источник (courthousenews.com): NYC man shot by ICE still has bullet in 
+[2026-10-11 10:01:05] Неизвестный источник (barrons.com): AT&T, Verizon, and T-Mobile Are Dropping
+[2026-10-11 10:01:05] Неизвестный источник (marketwatch.com): Here’s how Treasury yields could rise to
+[2026-10-11 10:01:05] Неизвестный источник (timesunion.com): Northern Lights could be visible in Capi
+[2026-10-11 10:01:05] Неизвестный источник (usatoday.com): Aaron Sorkin wants Facebook reform, warn
+[2026-10-11 10:01:05] Неизвестный источник (wccftech.com): GIGABYTE Announces Support For Upcoming 
+[2026-10-11 10:01:05] Старая новость (2026-10-09T09:18:34Z): SpaceX brings four astronauts home after
+[2026-10-11 10:01:05] Мировые новости: найдено 9 после фильтрации
+[2026-10-11 10:01:06] Редакторский отбор: выбраны позиции [4, 3, 1, 2]
+[2026-10-11 10:01:06] Обрабатываю: Panama rocked by 2 powerful earthquakes and multiple aftersh | https://apnews.com/article/panama-earthquake-e4e5dc85829714db88a74de3b
+[2026-10-11 10:01:06] Попытка 1 для: Panama rocked by 2 powerful earthquakes 
+[2026-10-11 10:01:09] Успешно, получено 954 символов
+[2026-10-11 10:01:09] Обрабатываю: Large waves pummel Southern California coast, flooding homes | https://www.washingtonpost.com/weather/2026/10/09/waves-pummel-califor
+[2026-10-11 10:01:21] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/weather/2026/10/09/waves-pumm
+[2026-10-11 10:01:21] Попытка 1 для: Large waves pummel Southern California c
+[2026-10-11 10:01:23] Успешно, получено 784 символов
+[2026-10-11 10:01:23] Обрабатываю: Exclusive: Anthropic breaches spark White House AI reporting | https://www.axios.com/2026/10/09/anthropic-ai-security-white-house
+[2026-10-11 10:01:23] Попытка 1 для: Exclusive: Anthropic breaches spark Whit
+[2026-10-11 10:01:25] Успешно, получено 946 символов
+[2026-10-11 10:01:25] Обрабатываю: Thousands of security personnel deployed as Delhi braces for | https://www.bbc.com/news/articles/cm2d6xd2g4w2o
+[2026-10-11 10:01:26] Полный текст получен (3000 символов)
+[2026-10-11 10:01:26] Попытка 1 для: Thousands of security personnel deployed
+[2026-10-11 10:01:29] Успешно, получено 1669 символов
+[2026-10-11 10:01:32] Пауза 60 секунд...
+[2026-10-11 10:02:32] Пауза 60 секунд...
+[2026-10-11 10:03:33] Пауза 60 секунд...
+[2026-10-11 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-11 10:04:33] === Блок midday завершён ===
