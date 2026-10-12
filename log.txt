@@ -1,47 +1,3 @@
-[2026-10-06 07:01:26] Полный текст получен (3000 символов)
-[2026-10-06 07:01:26] Попытка 1 для: Sam Altman said 'the world should accept
-[2026-10-06 07:01:30] Успешно, получено 1794 символов
-[2026-10-06 07:01:30] Обрабатываю: Former SEC boss made AI Czar, Bitcoin may hit $600K this cyc | https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoi
-[2026-10-06 07:01:30] Полный текст получен (3000 символов)
-[2026-10-06 07:01:30] Попытка 1 для: Former SEC boss made AI Czar, Bitcoin ma
-[2026-10-06 07:01:33] Успешно, получено 1707 символов
-[2026-10-06 07:01:33] Обрабатываю: Sam Altman says people need to accept ‘some bad things’ are  | https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-acc
-[2026-10-06 07:01:33] Полный текст получен (3000 символов)
-[2026-10-06 07:01:33] Попытка 1 для: Sam Altman says people need to accept ‘s
-[2026-10-06 07:01:46] Успешно, получено 1507 символов
-[2026-10-06 07:01:50] Пауза 60 секунд...
-[2026-10-06 07:02:50] Пауза 60 секунд...
-[2026-10-06 07:03:51] Пауза 60 секунд...
-[2026-10-06 07:04:52] sent_urls.txt обрезан: 304 -> 300
-[2026-10-06 07:04:52] === Блок ai_morning завершён ===
-[2026-10-06 10:01:16] Загружено 300 уже отправленных новостей
-[2026-10-06 10:01:16] === Запуск блока: midday (тест: False) ===
-[2026-10-06 10:01:16] Неизвестный источник (mashable.com): NYT Strands hints, answers for October 4
-[2026-10-06 10:01:16] Неизвестный источник (investing.com): Asian stocks rise as weak U.S. jobs data
-[2026-10-06 10:01:16] Неизвестный источник (ktla.com): Long Beach child hospitalized with rare 
-[2026-10-06 10:01:16] Неизвестный источник (hollywoodreporter.com): ‘Lanterns’ Team Breaks Down Finale’s Emo
-[2026-10-06 10:01:16] Неизвестный источник (foxnews.com): Teresa Giudice's daughter Milania writes
-[2026-10-06 10:01:16] Неизвестный источник (abc13.com): Texans' misery deepens: CeeDee Lamb's la
-[2026-10-06 10:01:16] Неизвестный источник (wsbtv.com): 2 dead, dozens injured in mass shooting 
-[2026-10-06 10:01:16] Неизвестный источник (macrumors.com): Amazon Launches Early Prime Day Discount
-[2026-10-06 10:01:16] Неизвестный источник (seekingalpha.com): Micron: The Trade Of The Decade Has Arri
-[2026-10-06 10:01:16] Неизвестный источник (livescience.com): Particle collider experiment recreates t
-[2026-10-06 10:01:16] Старая новость (2026-10-04T07:15:46Z): Trump defiant about midterm chances as h
-[2026-10-06 10:01:16] Старая новость (2026-10-02T23:20:06Z): Team selected for NASA program to explor
-[2026-10-06 10:01:16] Старая новость (2026-10-01T19:00:00Z): Meteor showers, planets, and the core of
-[2026-10-06 10:01:16] Старая новость (2026-10-01T13:00:00Z): HP’s answer to the MacBook Neo is thinne
-[2026-10-06 10:01:16] Мировые новости: найдено 9 после фильтрации
-[2026-10-06 10:01:17] Редакторский отбор: выбраны позиции [5, 3, 1, 9]
-[2026-10-06 10:01:17] Обрабатываю: All passengers presumed dead after plane went missing off US | https://www.bbc.com/news/articles/cmze4g8r6nr9o
-[2026-10-06 10:01:17] Текст похож на ленту обновлений, беру описание: https://www.bbc.com/news/articles/cmze4g8r6nr9o
-[2026-10-06 10:01:17] Попытка 1 для: All passengers presumed dead after plane
-[2026-10-06 10:01:20] Успешно, получено 813 символов
-[2026-10-06 10:01:20] Обрабатываю: Brazil’s presidential race: Three key takeaways from the fir | https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-thr
-[2026-10-06 10:01:20] Полный текст получен (3000 символов)
-[2026-10-06 10:01:20] Попытка 1 для: Brazil’s presidential race: Three key ta
-[2026-10-06 10:01:22] Успешно, получено 1705 символов
-[2026-10-06 10:01:22] Обрабатываю: Japan summons US envoy as Marine arrested over killing in Ok | https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-mar
-[2026-10-06 10:01:22] Полный текст получен (2837 символов)
 [2026-10-06 10:01:22] Попытка 1 для: Japan summons US envoy as Marine arreste
 [2026-10-06 10:01:26] Успешно, получено 1551 символов
 [2026-10-06 10:01:26] Обрабатываю: Trump names national intelligence chief Jay Clayton as new A | https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump
@@ -2998,3 +2954,47 @@
 [2026-10-12 07:03:47] Пауза 60 секунд...
 [2026-10-12 07:04:48] sent_urls.txt обрезан: 304 -> 300
 [2026-10-12 07:04:48] === Блок ai_morning завершён ===
+[2026-10-12 10:01:05] Загружено 300 уже отправленных новостей
+[2026-10-12 10:01:05] === Запуск блока: midday (тест: False) ===
+[2026-10-12 10:01:05] Неизвестный источник (desertsun.com): Head Trip festival update: Calvin Harris
+[2026-10-12 10:01:05] Неизвестный источник (espn.com): Best of Week 6: A Red River game winner 
+[2026-10-12 10:01:05] Неизвестный источник (al.com): Kalen DeBoer talks refs, injuries and mo
+[2026-10-12 10:01:05] Неизвестный источник (variety.com): Shane Gillis Bombs ‘SNL’ Monologue (Agai
+[2026-10-12 10:01:05] Неизвестный источник (techpowerup.com): GTA 6 Leaker Claims to Have Full Build, 
+[2026-10-12 10:01:05] Неизвестный источник (cbssports.com): Guardians advance to ALCS with Game 5 wi
+[2026-10-12 10:01:05] Неизвестный источник (rferl.org): House Republicans Move To Block Trump's 
+[2026-10-12 10:01:05] Неизвестный источник (macrumors.com): Rumor: Apple to Announce New Partnership
+[2026-10-12 10:01:05] Неизвестный источник (ufc.com): Main Card Results | UFC Fight Night: All
+[2026-10-12 10:01:05] Пропускаю уже отправленную: What has Trump’s Board of Peace achieved in a year
+[2026-10-12 10:01:05] Неизвестный источник (inquirer.com): Officer killed, another injured in West 
+[2026-10-12 10:01:05] Неизвестный источник (people.com): Kelly Clarkson Claims She Got the “Prett
+[2026-10-12 10:01:05] Неизвестный источник (usatoday.com): Northern lights may be visible across US
+[2026-10-12 10:01:05] Неизвестный источник (hollywoodreporter.com): ‘Other Mommy’ Delivering $28M in Box Off
+[2026-10-12 10:01:05] Неизвестный источник (neowin.net): Microsoft Weekly: New Surface Laptop, Lo
+[2026-10-12 10:01:05] Неизвестный источник (404media.co): Scientists Detect Record-Breaking Radio 
+[2026-10-12 10:01:05] Старая новость (2026-10-10T05:20:00Z): This Forgotten AI Stock Is Up 689% and N
+[2026-10-12 10:01:05] Старая новость (2026-10-10T04:00:24Z): Today's NYT Strands Hints (and Answer) f
+[2026-10-12 10:01:05] Старая новость (2026-10-09T16:31:00Z): Flu season is already here. Here’s what 
+[2026-10-12 10:01:05] Старая новость (2026-10-08T21:02:00Z): Four astronauts return to Earth after ei
+[2026-10-12 10:01:05] Мировые новости: найдено 11 после фильтрации
+[2026-10-12 10:01:07] Редакторский отбор: выбраны позиции [1, 3, 2, 8]
+[2026-10-12 10:01:07] Обрабатываю: Hurricane Simon strengthens into Category 4 storm as it take | https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-
+[2026-10-12 10:01:07] Полный текст получен (3000 символов)
+[2026-10-12 10:01:07] Попытка 1 для: Hurricane Simon strengthens into Categor
+[2026-10-12 10:01:11] Успешно, получено 2008 символов
+[2026-10-12 10:01:11] Обрабатываю: World condemns deadly Houthi attack on Saudi Arabia’s Riyadh | https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi
+[2026-10-12 10:01:11] Полный текст получен (3000 символов)
+[2026-10-12 10:01:11] Попытка 1 для: World condemns deadly Houthi attack on S
+[2026-10-12 10:01:15] Успешно, получено 1885 символов
+[2026-10-12 10:01:15] Обрабатываю: Justice Department investigating major TV networks over susp | https://www.nbcnews.com/politics/politics-news/justice-department-inve
+[2026-10-12 10:01:16] Полный текст получен (3000 символов)
+[2026-10-12 10:01:16] Попытка 1 для: Justice Department investigating major T
+[2026-10-12 10:01:25] Успешно, получено 1703 символов
+[2026-10-12 10:01:25] Обрабатываю: U.S. measles cases surpass 4,000, with over 25 percent comin | https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass
+[2026-10-12 10:01:25] Попытка 1 для: U.S. measles cases surpass 4,000, with o
+[2026-10-12 10:01:39] Успешно, получено 697 символов
+[2026-10-12 10:01:43] Пауза 60 секунд...
+[2026-10-12 10:02:43] Пауза 60 секунд...
+[2026-10-12 10:03:44] Пауза 60 секунд...
+[2026-10-12 10:04:44] sent_urls.txt обрезан: 304 -> 300
+[2026-10-12 10:04:44] === Блок midday завершён ===
