@@ -1,68 +1,3 @@
-[2026-10-06 05:05:03] Успешно, получено 1398 символов
-[2026-10-06 05:05:06] Пауза 60 секунд...
-[2026-10-06 05:06:07] Пауза 60 секунд...
-[2026-10-06 05:07:07] sent_urls.txt обрезан: 307 -> 300
-[2026-10-06 05:07:07] === Блок morning завершён ===
-[2026-10-06 07:01:22] Загружено 300 уже отправленных новостей
-[2026-10-06 07:01:22] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-06 07:01:22] Неизвестный источник (endurancecapitalhq.substack.com): ISSUE 95 | The twelve-minute test answer
-[2026-10-06 07:01:22] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
-[2026-10-06 07:01:22] Нет фото: What is the best habitat for a hedgehog?
-[2026-10-06 07:01:22] Неизвестный источник (claimsjournal.com): Sedgwick: Property Claims Face Delays, A
-[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
-[2026-10-06 07:01:22] Неизвестный источник (siliconangle.com): Sam Altman says people need to accept ‘s
-[2026-10-06 07:01:22] Неизвестный источник (pymnts.com): Apple IDs iPhone Bug That Requires Devic
-[2026-10-06 07:01:22] Неизвестный источник (punchng.com): IXPN marks anniversary with focus on int
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
-[2026-10-06 07:01:22] Неизвестный источник (redhat.com): Building zero trust networks with Red Ha
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
-[2026-10-06 07:01:22] Нет фото: evidence-gap-router added to PyPI
-[2026-10-06 07:01:22] Неизвестный источник (cointelegraph.com): Former SEC boss made AI Czar, Bitcoin ma
-[2026-10-06 07:01:22] Неизвестный источник (siliconangle.com): Trump launches Super Intelligence Force 
-[2026-10-06 07:01:22] Неизвестный источник (usatoday.com): Jaguars headline two weeks in London, ge
-[2026-10-06 07:01:22] Неизвестный источник (salon.com): Trump demands Fox cover more Trump
-[2026-10-06 07:01:22] Неизвестный источник (business-standard.com): Rising global bond yields pose huge chal
-[2026-10-06 07:01:22] Нет фото: I assume this cyberpunk chef is training
-[2026-10-06 07:01:22] Нет фото: artificial-intelligence-usage 0.0.1
-[2026-10-06 07:01:22] Неизвестный источник (economictimes.indiatimes.com): AI could turn nuclear weapons into ‘Term
-[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
-[2026-10-06 07:01:22] Неизвестный источник (ibtimes.com.au): (VIDEO) Colts vs Commanders Today: Where
-[2026-10-06 07:01:22] Неизвестный источник (gizmodo.com): TP-Link Tapo Doorbell Pro D260 Review: E
-[2026-10-06 07:01:22] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
-[2026-10-06 07:01:22] Нет фото: jorwal added to PyPI
-[2026-10-06 07:01:22] Неизвестный источник (english.aawsat.com): Iraq Says It Transported 2 Million Barre
-[2026-10-06 07:01:22] Нет фото: artificial-intelligence-local 0.0.17b376
-[2026-10-06 07:01:22] AI новости: 1 с доверенных источников
-[2026-10-06 07:01:22] Доверенных AI-источников мало, добираю из остальных
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: ISSUE 95 | The twelve-minute test answers your fit
-[2026-10-06 07:01:22] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
-[2026-10-06 07:01:22] Нет фото: What is the best habitat for a hedgehog?
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Sedgwick: Property Claims Face Delays, Are Growing
-[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Apple IDs iPhone Bug That Requires Device Replacem
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: IXPN marks anniversary with focus on internet resi
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Towards a systematic understanding of the diverse 
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Decoding epithelial–mesenchymal transitions with m
-[2026-10-06 07:01:22] Нет фото: evidence-gap-router added to PyPI
-[2026-10-06 07:01:22] Спорт, пропускаю: Jaguars headline two weeks in London, ge
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Trump demands Fox cover more Trump
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Rising global bond yields pose huge challenge to e
-[2026-10-06 07:01:22] Нет фото: I assume this cyberpunk chef is training
-[2026-10-06 07:01:22] Нет фото: artificial-intelligence-usage 0.0.1
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: AI could turn nuclear weapons into ‘Terminator-sty
-[2026-10-06 07:01:22] Заблокированный источник (nypost.com): Was Cormac McCarthy a horrible guy?
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: TP-Link Tapo Doorbell Pro D260 Review: Everything 
-[2026-10-06 07:01:22] Заблокированный источник (dailymail.com): Unsettling secretive network is causing 
-[2026-10-06 07:01:22] Нет фото: jorwal added to PyPI
-[2026-10-06 07:01:22] Не про ИИ, пропускаю: Iraq Says It Transported 2 Million Barrels of Crud
-[2026-10-06 07:01:22] Нет фото: artificial-intelligence-local 0.0.17b376
-[2026-10-06 07:01:22] AI новости: 5 кандидатов после фильтрации
-[2026-10-06 07:01:24] Редакторский отбор: выбраны позиции [5, 1, 4, 2]
-[2026-10-06 07:01:24] Обрабатываю: Trump launches Super Intelligence Force with Jay Clayton as  | https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-
-[2026-10-06 07:01:24] Полный текст получен (3000 символов)
-[2026-10-06 07:01:24] Попытка 1 для: Trump launches Super Intelligence Force 
-[2026-10-06 07:01:26] Успешно, получено 2186 символов
-[2026-10-06 07:01:26] Обрабатываю: Sam Altman said 'the world should accept some bad things hap | https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-s
 [2026-10-06 07:01:26] Полный текст получен (3000 символов)
 [2026-10-06 07:01:26] Попытка 1 для: Sam Altman said 'the world should accept
 [2026-10-06 07:01:30] Успешно, получено 1794 символов
@@ -2998,3 +2933,68 @@
 [2026-10-12 05:05:42] Пауза 60 секунд...
 [2026-10-12 05:06:42] sent_urls.txt обрезан: 307 -> 300
 [2026-10-12 05:06:42] === Блок morning завершён ===
+[2026-10-12 07:01:07] Загружено 300 уже отправленных новостей
+[2026-10-12 07:01:07] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-12 07:01:07] Неизвестный источник (abc.net.au): Pregnant woman among eight killed in Pen
+[2026-10-12 07:01:07] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
+[2026-10-12 07:01:07] Неизвестный источник (huffpost.com): ‘Musk’ Documentary Suggests DOGE’s Real 
+[2026-10-12 07:01:07] Нет фото: donger-py added to PyPI
+[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): What to expect during the AI Data Pipeli
+[2026-10-12 07:01:07] Неизвестный источник (cbc.ca): Children, pregnant woman among 9 dead in
+[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): AI reshapes professional services around
+[2026-10-12 07:01:07] Неизвестный источник (economictimes.indiatimes.com): AI can enhance 5G network performance by
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
+[2026-10-12 07:01:07] Неизвестный источник (abcnews.com): A timeline of developments in AI safety 
+[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): The AI control gap: Who gets to say ‘It’
+[2026-10-12 07:01:07] Неизвестный источник (opensecrets.org): Outside Groups Have Spent Nearly $2 Bill
+[2026-10-12 07:01:07] Неизвестный источник (economictimes.indiatimes.com): India Mobile Congress 2026 concludes wit
+[2026-10-12 07:01:07] Неизвестный источник (dealeraiguy.com): Toyota Just Admitted It's Marketing to R
+[2026-10-12 07:01:07] Неизвестный источник (proofsandprompts.com): The Difference We Are Optimising Away
+[2026-10-12 07:01:07] Неизвестный источник (ibtimes.com.au): OpenAI vs Anthropic vs Gemini vs Grok: W
+[2026-10-12 07:01:07] Неизвестный источник (ibtimes.com.au): Elon Musk Says SpaceX Could Be Worth Far
+[2026-10-12 07:01:07] Нет фото: CGTN: How China uses digital tech to emp
+[2026-10-12 07:01:07] Неизвестный источник (rte.ie): Anthropic AI model sent fake murder tip 
+[2026-10-12 07:01:07] Неизвестный источник (innovationbridge.info): UNICEF Femtech Ventures – Funding Opport
+[2026-10-12 07:01:07] Неизвестный источник (nymag.com): The Problem With Facebook Was Facebook
+[2026-10-12 07:01:07] AI новости: 1 с доверенных источников
+[2026-10-12 07:01:07] Доверенных AI-источников мало, добираю из остальных
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Pregnant woman among eight killed in Pennsylvania 
+[2026-10-12 07:01:07] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: ‘Musk’ Documentary Suggests DOGE’s Real Purpose Wa
+[2026-10-12 07:01:07] Нет фото: donger-py added to PyPI
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Children, pregnant woman among 9 dead in Pennsylva
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
+[2026-10-12 07:01:07] Пропускаю уже отправленную: The AI control gap: Who gets to say ‘It’s safe’?
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Outside Groups Have Spent Nearly $2 Billion on Cam
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: India Mobile Congress 2026 concludes with focus on
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Toyota Just Admitted It's Marketing to Robots Now,
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: The Difference We Are Optimising Away
+[2026-10-12 07:01:07] Пропускаю уже отправленную: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Wi
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: Elon Musk Says SpaceX Could Be Worth Far More Than
+[2026-10-12 07:01:07] Нет фото: CGTN: How China uses digital tech to emp
+[2026-10-12 07:01:07] Пропускаю уже отправленную: Anthropic AI model sent fake murder tip to US poli
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: UNICEF Femtech Ventures – Funding Opportunity for 
+[2026-10-12 07:01:07] Не про ИИ, пропускаю: The Problem With Facebook Was Facebook
+[2026-10-12 07:01:07] AI новости: 5 кандидатов после фильтрации
+[2026-10-12 07:01:09] Редакторский отбор: выбраны позиции [5, 3, 4, 1]
+[2026-10-12 07:01:09] Обрабатываю: A timeline of developments in AI safety since the attack on  | https://abcnews.com/Technology/wireStory/timeline-developments-ai-safe
+[2026-10-12 07:01:09] Полный текст получен (3000 символов)
+[2026-10-12 07:01:09] Попытка 1 для: A timeline of developments in AI safety 
+[2026-10-12 07:01:13] Успешно, получено 1850 символов
+[2026-10-12 07:01:13] Обрабатываю: AI reshapes professional services around trust and business  | https://siliconangle.com/2026/10/10/human-judgment-ai-professional-ser
+[2026-10-12 07:01:14] Полный текст получен (3000 символов)
+[2026-10-12 07:01:14] Попытка 1 для: AI reshapes professional services around
+[2026-10-12 07:01:16] Успешно, получено 1967 символов
+[2026-10-12 07:01:16] Обрабатываю: AI can enhance 5G network performance by 30%: Ericsson | https://economictimes.indiatimes.com/industry/cons-products/electronic
+[2026-10-12 07:01:16] Полный текст получен (2784 символов)
+[2026-10-12 07:01:16] Попытка 1 для: AI can enhance 5G network performance by
+[2026-10-12 07:01:21] Успешно, получено 1940 символов
+[2026-10-12 07:01:21] Обрабатываю: Hollywood takes on Zuckerberg, Musk and Altman amid widespre | https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html
+[2026-10-12 07:01:21] Полный текст получен (3000 символов)
+[2026-10-12 07:01:21] Попытка 1 для: Hollywood takes on Zuckerberg, Musk and 
+[2026-10-12 07:01:42] Успешно, получено 2182 символов
+[2026-10-12 07:01:46] Пауза 60 секунд...
+[2026-10-12 07:02:46] Пауза 60 секунд...
+[2026-10-12 07:03:47] Пауза 60 секунд...
+[2026-10-12 07:04:48] sent_urls.txt обрезан: 304 -> 300
+[2026-10-12 07:04:48] === Блок ai_morning завершён ===
