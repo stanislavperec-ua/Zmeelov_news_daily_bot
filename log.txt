@@ -1,79 +1,3 @@
-[2026-10-06 15:01:43] Попытка 1 для: Spain snap election: PM Sanchez calls No
-[2026-10-06 15:01:46] Успешно, получено 1562 символов
-[2026-10-06 15:01:46] Обрабатываю: Downing Street says RAF Fairford is 'safe' after US withdraw | https://www.bbc.com/news/articles/cmy56yvv1kxxo
-[2026-10-06 15:01:46] Полный текст получен (3000 символов)
-[2026-10-06 15:01:46] Попытка 1 для: Downing Street says RAF Fairford is 'saf
-[2026-10-06 15:01:50] Успешно, получено 1465 символов
-[2026-10-06 15:01:50] Обрабатываю: Russian lab worker dies of suspected plague as 200 enter med | https://www.nbcnews.com/world/europe/russia-plague-suspected-lab-worke
-[2026-10-06 15:01:50] Полный текст получен (3000 символов)
-[2026-10-06 15:01:50] Попытка 1 для: Russian lab worker dies of suspected pla
-[2026-10-06 15:02:13] Успешно, получено 1621 символов
-[2026-10-06 15:02:16] Пауза 60 секунд...
-[2026-10-06 15:03:16] Пауза 60 секунд...
-[2026-10-06 15:04:17] Пауза 60 секунд...
-[2026-10-06 15:05:17] Обрабатываю: Russian attacks in Kharkiv region leave seven killed, 80 inj | https://www.ukrinform.net/rubric-ato/4171478-russian-attacks-in-kharki
-[2026-10-06 15:05:19] Полный текст получен (2484 символов)
-[2026-10-06 15:05:19] Попытка 1 для: Russian attacks in Kharkiv region leave 
-[2026-10-06 15:05:22] Успешно, получено 1612 символов
-[2026-10-06 15:05:22] Обрабатываю: Critical drop in water level: Odesa region forcibly replenis | https://www.ukrinform.net/rubric-emergencies/4171574-critical-drop-in-
-[2026-10-06 15:05:24] Полный текст получен (1245 символов)
-[2026-10-06 15:05:24] Попытка 1 для: Critical drop in water level: Odesa regi
-[2026-10-06 15:05:27] Успешно, получено 1650 символов
-[2026-10-06 15:05:27] Обрабатываю: USF strikes Russian UAV warehouse and workshop in Kharkiv re | https://www.ukrinform.net/rubric-ato/4171531-usf-strikes-russian-uav-w
-[2026-10-06 15:05:28] Полный текст получен (890 символов)
-[2026-10-06 15:05:28] Попытка 1 для: USF strikes Russian UAV warehouse and wo
-[2026-10-06 15:05:31] Успешно, получено 1367 символов
-[2026-10-06 15:05:34] Пауза 60 секунд...
-[2026-10-06 15:06:35] Пауза 60 секунд...
-[2026-10-06 15:07:36] sent_urls.txt обрезан: 307 -> 300
-[2026-10-06 15:07:36] === Блок evening завершён ===
-[2026-10-06 17:01:20] Загружено 300 уже отправленных новостей
-[2026-10-06 17:01:20] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-06 17:01:21] Неизвестный источник (abcnews.com): Lack of transparency in what space weapo
-[2026-10-06 17:01:21] Неизвестный источник (onlys.ky): The future of independence is interdepen
-[2026-10-06 17:01:21] Нет фото: aait 6.0.5
-[2026-10-06 17:01:21] Неизвестный источник (reason.com): The End of Social Media
-[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Scindia pitches India as global base for
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): LeapXpert brings governed WhatsApp clien
-[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Moral and perceptual conflict processing
-[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Genetic architecture of basal heart rate
-[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Sustainable hemocompatibility prediction
-[2026-10-06 17:01:21] Неизвестный источник (journals.plos.org): Fracture propagation and permeability en
-[2026-10-06 17:01:21] Неизвестный источник (financialpost.com): The only billionaires making money this 
-[2026-10-06 17:01:21] Неизвестный источник (thewrap.com): Skydance Signals a New Dawn for Hollywoo
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Exclusive: Iterate.ai’s Lifeboat runs up
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Clockwork.io bags $31M in funding to kee
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Cohere unveils North 2 AI agent platform
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Promevo launches Insights to track Gemin
-[2026-10-06 17:01:21] Неизвестный источник (siliconangle.com): Equs launches a personal AI platform wit
-[2026-10-06 17:01:21] Неизвестный источник (pyimagesearch.com): DeepSeek-V3 from Scratch: Building the A
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Bosch Power Tools Expands Jobsite Soluti
-[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Euler CEO urges states to emulate Delhi 
-[2026-10-06 17:01:21] Нет фото: Altus Achieves Leading AI Governance Cer
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Forum Markets Announces Joint Venture wi
-[2026-10-06 17:01:21] Неизвестный источник (hollywoodreporter.com): ‘Artificial’ Took on a Big Tech Giant. H
-[2026-10-06 17:01:21] Неизвестный источник (bitcoinfoundation.org): Is UDR Crypto a Scam? What to Know About
-[2026-10-06 17:01:21] Нет фото: FF EAI Robotics Ecosystem Inc. (NASDAQ: 
-[2026-10-06 17:01:21] Нет фото: frontface-flashy 1.0.0
-[2026-10-06 17:01:21] Нет фото: frontface-flashy added to PyPI
-[2026-10-06 17:01:21] Неизвестный источник (landezine.com): Acanthus Prize Opens for Historic Garden
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): Quantinuum and The University of Western
-[2026-10-06 17:01:21] Заблокированный источник (yahoo.com): Sam Altman: ‘The world should accept som
-[2026-10-06 17:01:21] Нет фото: Anaeco Secures Strategic Investment from
-[2026-10-06 17:01:21] Неизвестный источник (stratechery.com): Apple and a Hacker’s Future
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): HOLIDAY CHEER ARRIVES EARLY FOR SHELTER 
-[2026-10-06 17:01:21] Неизвестный источник (startuprise.co.uk): Grow Therapy: How the Mental Health Plat
-[2026-10-06 17:01:21] Неизвестный источник (foxnews.com): America must defend our digital infrastr
-[2026-10-06 17:01:21] Неизвестный источник (wattsupwiththat.com): Weekly Climate and Energy News Roundup #
-[2026-10-06 17:01:21] Заблокированный источник (prnewswire.com): BagelUp Growth Lab Returns as Business I
-[2026-10-06 17:01:21] Неизвестный источник (livemint.com): GST 2.0 and further reforms: The path to
-[2026-10-06 17:01:21] Неизвестный источник (cryptobriefing.com): NATO builds a drone and AI plan to blunt
-[2026-10-06 17:01:21] Нет фото: artificial-intelligence-local 0.0.19
-[2026-10-06 17:01:21] Неизвестный источник (archdaily.com): Unearthing the Ground: Architecture and 
-[2026-10-06 17:01:21] Неизвестный источник (business-standard.com): Anthropic brings in-country Claude infer
-[2026-10-06 17:01:21] Неизвестный источник (endurancecapitalhq.substack.com): ISSUE 95 | The twelve-minute test answer
-[2026-10-06 17:01:21] Заблокированный источник (naturalnews.com): I Just Witnessed the AI That Will Replac
 [2026-10-06 17:01:21] Нет фото: What is the best habitat for a hedgehog?
 [2026-10-06 17:01:21] Неизвестный источник (claimsjournal.com): Sedgwick: Property Claims Face Delays, A
 [2026-10-06 17:01:21] Заблокированный источник (nypost.com): Anthropic’s idiot savants are trying to 
@@ -2998,3 +2922,79 @@
 [2026-10-12 15:05:07] Пауза 60 секунд...
 [2026-10-12 15:06:08] sent_urls.txt обрезан: 306 -> 300
 [2026-10-12 15:06:08] === Блок evening завершён ===
+[2026-10-12 17:01:06] Загружено 300 уже отправленных новостей
+[2026-10-12 17:01:06] === Запуск блока: ai_evening (тест: False) ===
+[2026-10-12 17:01:06] Неизвестный источник (asheradeniyi.com): How to Build Wealth as a Career Person
+[2026-10-12 17:01:06] Неизвестный источник (deadline.com): ‘Resident Evil’ Rises To Top Of Global B
+[2026-10-12 17:01:06] Неизвестный источник (makeuseof.com): I stopped paying for privacy after findi
+[2026-10-12 17:01:06] Неизвестный источник (economictimes.indiatimes.com): IIT tag, 20 years of experience yet he c
+[2026-10-12 17:01:06] Неизвестный источник (business-standard.com): AI is powering telecom, not just satelli
+[2026-10-12 17:01:06] Нет фото: simpliml 1.5.0
+[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
+[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
+[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
+[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
+[2026-10-12 17:01:06] Неизвестный источник (indiewire.com): ‘The Social Reckoning’ Bombs With $5.5 M
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Transcript: Shyam Sankar, chief technology officer
+[2026-10-12 17:01:06] Нет фото: abcopt added to PyPI
+[2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): The hidden tax on enterprise AI: Why dat
+[2026-10-12 17:01:06] Неизвестный источник (pagesix.com): ‘Artificial’ star Ike Barinholtz jokes a
+[2026-10-12 17:01:06] Неизвестный источник (cryptobriefing.com): Vitalik Buterin says AI could accelerate
+[2026-10-12 17:01:06] Неизвестный источник (business-standard.com): Guardrails key to unlocking AI gains for
+[2026-10-12 17:01:06] Неизвестный источник (economictimes.indiatimes.com): Airtel Business CEO backs AI regulation,
+[2026-10-12 17:01:06] Нет фото: How many acres do bison need?
+[2026-10-12 17:01:06] Неизвестный источник (abc.net.au): Pregnant woman among eight killed in Pen
+[2026-10-12 17:01:06] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
+[2026-10-12 17:01:06] Неизвестный источник (huffpost.com): ‘Musk’ Documentary Suggests DOGE’s Real 
+[2026-10-12 17:01:06] Нет фото: donger-py added to PyPI
+[2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): What to expect during the AI Data Pipeli
+[2026-10-12 17:01:06] Неизвестный источник (cbc.ca): Children, pregnant woman among 9 dead in
+[2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): AI reshapes professional services around
+[2026-10-12 17:01:06] Неизвестный источник (economictimes.indiatimes.com): AI can enhance 5G network performance by
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
+[2026-10-12 17:01:06] Неизвестный источник (abcnews.com): A timeline of developments in AI safety 
+[2026-10-12 17:01:06] AI новости: 0 с доверенных источников
+[2026-10-12 17:01:06] Доверенных AI-источников мало, добираю из остальных
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: How to Build Wealth as a Career Person
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: I stopped paying for privacy after finding the app
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: IIT tag, 20 years of experience yet he cannot find
+[2026-10-12 17:01:06] Нет фото: simpliml 1.5.0
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Transcript: Shyam Sankar, chief technology officer
+[2026-10-12 17:01:06] Нет фото: abcopt added to PyPI
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: ‘Artificial’ star Ike Barinholtz jokes about ‘douc
+[2026-10-12 17:01:06] Нет фото: How many acres do bison need?
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Pregnant woman among eight killed in Pennsylvania 
+[2026-10-12 17:01:06] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: ‘Musk’ Documentary Suggests DOGE’s Real Purpose Wa
+[2026-10-12 17:01:06] Нет фото: donger-py added to PyPI
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Children, pregnant woman among 9 dead in Pennsylva
+[2026-10-12 17:01:06] Пропускаю уже отправленную: AI reshapes professional services around trust and
+[2026-10-12 17:01:06] Пропускаю уже отправленную: AI can enhance 5G network performance by 30%: Eric
+[2026-10-12 17:01:06] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
+[2026-10-12 17:01:06] Пропускаю уже отправленную: A timeline of developments in AI safety since the 
+[2026-10-12 17:01:06] Внутренний дубль: Anthropic discloses fake tip to police among new r
+[2026-10-12 17:01:06] Внутренний дубль: Anthropic discloses fake tip to police among new r
+[2026-10-12 17:01:06] Внутренний дубль: Anthropic discloses fake tip to police among new r
+[2026-10-12 17:01:06] AI новости: 7 кандидатов после фильтрации
+[2026-10-12 17:01:08] Редакторский отбор: выбраны позиции [2, 1, 3, 5]
+[2026-10-12 17:01:08] Обрабатываю: Anthropic discloses fake tip to police among new rogue AI in | https://www.itnews.com.au/news/anthropic-discloses-fake-tip-to-police-
+[2026-10-12 17:01:10] Полный текст получен (3000 символов)
+[2026-10-12 17:01:10] Попытка 1 для: Anthropic discloses fake tip to police a
+[2026-10-12 17:01:11] Успешно, получено 1526 символов
+[2026-10-12 17:01:11] Обрабатываю: AI is powering telecom, not just satellites | https://www.business-standard.com/opinion/columns/ai-is-powering-telec
+[2026-10-12 17:01:12] Текст не совпадает с заголовком, беру описание: https://www.business-standard.com/opinion/columns/ai-is-powe
+[2026-10-12 17:01:12] Попытка 1 для: AI is powering telecom, not just satelli
+[2026-10-12 17:01:14] Успешно, получено 829 символов
+[2026-10-12 17:01:14] Обрабатываю: The hidden tax on enterprise AI: Why data architecture is th | https://siliconangle.com/2026/10/11/the-hidden-tax-on-enterprise-ai-wh
+[2026-10-12 17:01:14] Полный текст получен (3000 символов)
+[2026-10-12 17:01:14] Попытка 1 для: The hidden tax on enterprise AI: Why dat
+[2026-10-12 17:01:16] Успешно, получено 1948 символов
+[2026-10-12 17:01:16] Обрабатываю: Guardrails key to unlocking AI gains for enterprises: Airtel | https://www.business-standard.com/companies/news/guardrails-key-to-unl
+[2026-10-12 17:01:17] Полный текст получен (3000 символов)
+[2026-10-12 17:01:17] Попытка 1 для: Guardrails key to unlocking AI gains for
+[2026-10-12 17:01:20] Успешно, получено 1913 символов
+[2026-10-12 17:01:22] Пауза 60 секунд...
+[2026-10-12 17:02:23] Пауза 60 секунд...
+[2026-10-12 17:03:23] Пауза 60 секунд...
+[2026-10-12 17:04:24] sent_urls.txt обрезан: 304 -> 300
+[2026-10-12 17:04:24] === Блок ai_evening завершён ===
