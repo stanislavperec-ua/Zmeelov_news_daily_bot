@@ -1,103 +1,3 @@
-[2026-10-08 15:01:43] Попытка 1 для: Germany's former foreign intelligence ch
-[2026-10-08 15:01:45] Успешно, получено 915 символов
-[2026-10-08 15:01:45] Обрабатываю: Half a billion dollars in GOP spending does little to move p | https://www.washingtonpost.com/politics/2026/10/07/half-billion-dollar
-[2026-10-08 15:01:57] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/07/half-bill
-[2026-10-08 15:01:57] Попытка 1 для: Half a billion dollars in GOP spending d
-[2026-10-08 15:02:00] Успешно, получено 902 символов
-[2026-10-08 15:02:03] Пауза 60 секунд...
-[2026-10-08 15:03:04] Пауза 60 секунд...
-[2026-10-08 15:04:05] Пауза 60 секунд...
-[2026-10-08 15:05:05] Обрабатываю: Death toll from Russian strike on two buses in Kramatorsk ri | https://www.ukrinform.net/rubric-ato/4172298-death-toll-from-russian-s
-[2026-10-08 15:05:07] Полный текст получен (1121 символов)
-[2026-10-08 15:05:07] Попытка 1 для: Death toll from Russian strike on two bu
-[2026-10-08 15:05:10] Успешно, получено 1237 символов
-[2026-10-08 15:05:10] Обрабатываю: EU extends Russia sanctions over hybrid attacks and destabil | https://www.ukrinform.net/rubric-polytics/4172324-eu-extends-russia-sa
-[2026-10-08 15:05:12] Полный текст получен (2088 символов)
-[2026-10-08 15:05:12] Попытка 1 для: EU extends Russia sanctions over hybrid 
-[2026-10-08 15:05:15] Успешно, получено 1957 символов
-[2026-10-08 15:05:18] Пауза 60 секунд...
-[2026-10-08 15:06:19] sent_urls.txt обрезан: 306 -> 300
-[2026-10-08 15:06:19] === Блок evening завершён ===
-[2026-10-08 17:01:08] Загружено 300 уже отправленных новостей
-[2026-10-08 17:01:08] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): The Grocery Aisle Just Rewrote the Rules
-[2026-10-08 17:01:08] Неизвестный источник (cinemablend.com): The Social Reckoning Reactions Dropped. 
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: JD Vance to speak with Tony Dokoupil for town hall
-[2026-10-08 17:01:08] Заблокированный источник (dailymail.com): Andrew Garfield reveals a teacher made h
-[2026-10-08 17:01:08] Неизвестный источник (hothardware.com): AI Music Fraudster Forced To Face The Mu
-[2026-10-08 17:01:08] Неизвестный источник (coincheers.com): How AI is Changing Web3 Marketing Foreve
-[2026-10-08 17:01:08] Неизвестный источник (vulture.com): Artificial Is a Better Social Network Se
-[2026-10-08 17:01:08] Неизвестный источник (github.com): Show HN: One – Post-labor biophysical re
-[2026-10-08 17:01:08] Нет фото: ia-router 0.5.0
-[2026-10-08 17:01:08] Неизвестный источник (worksinprogress.co): Why Were Victorian Elites So Effective?
-[2026-10-08 17:01:08] Неизвестный источник (sheboyganpress.com): 9 Road America race weekends to put on y
-[2026-10-08 17:01:08] Нет фото: Rural Health Transformation Funding Can 
-[2026-10-08 17:01:08] Неизвестный источник (economictimes.indiatimes.com): Paytm's Vijay Shekhar Sharma wants India
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): AI Cybersecurity Market worth $95.25 bil
-[2026-10-08 17:01:08] Неизвестный источник (siliconangle.com): Kore.ai launches Autoloop to keep tuning
-[2026-10-08 17:01:08] Неизвестный источник (journals.plos.org): Untimely follow-up after cervical cancer
-[2026-10-08 17:01:08] Неизвестный источник (journals.plos.org): Integrating images, sounds, citizen scie
-[2026-10-08 17:01:08] Неизвестный источник (journals.plos.org): Computational identification of natural 
-[2026-10-08 17:01:08] Неизвестный источник (journals.plos.org): HSCM-Lane: A ResNet-based encoder-decode
-[2026-10-08 17:01:08] Неизвестный источник (journals.plos.org): roadDB: An R package for exploring early
-[2026-10-08 17:01:08] Неизвестный источник (rediff.com): Paytm CEO Vijay Shekhar Sharma Funds Ind
-[2026-10-08 17:01:08] Нет фото: ia-router 0.3.0
-[2026-10-08 17:01:08] Неизвестный источник (fairobserver.com): FO Live: German Economy Now Faces the Ch
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): BofA’s Subramanian says bonds in rare co
-[2026-10-08 17:01:08] Неизвестный источник (livemint.com): Ericsson to export India-made antennas t
-[2026-10-08 17:01:08] Нет фото: Lenovo Announces Tech World @ CES 2027: 
-[2026-10-08 17:01:08] Нет фото: Rivercell Launches With $25 Million to B
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): NLP Logix Named an OpenAI Select Partner
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): Dalio says we’re nearing a point where A
-[2026-10-08 17:01:08] Нет фото: V2 Communications Launches Public Sector
-[2026-10-08 17:01:08] Неизвестный источник (variety.com): ‘The Social Reckoning’ Review: Aaron Sor
-[2026-10-08 17:01:08] Неизвестный источник (consequence.net): The Social Reckoning Review: Aaron Sorki
-[2026-10-08 17:01:08] Неизвестный источник (hollywoodreporter.com): 'The Social Reckoning' Review: Aaron Sor
-[2026-10-08 17:01:08] Неизвестный источник (deadline.com): ‘The Social Reckoning’ Review: Jeremy Al
-[2026-10-08 17:01:08] Неизвестный источник (indiewire.com): ‘The Social Reckoning’ Review: Aaron Sor
-[2026-10-08 17:01:08] Неизвестный источник (globalresearch.ca): 5G and Beyond: A Dystopian Nightmare
-[2026-10-08 17:01:08] Неизвестный источник (variety.com): Fremantle’s Mipcom Lineup: ‘Baywatch,’ M
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): GoKafé Launches in Los Angeles, Bringing
-[2026-10-08 17:01:08] Неизвестный источник (pr.millcreekjournal.com): SARCOA and Community Care Solutions Earn
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): Workforce Leaders Call for Greater Colla
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): Tech Beats Tariffs: Global Trade Growth 
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): Balsillie to co-lead new task force to h
-[2026-10-08 17:01:08] Неизвестный источник (siliconangle.com): OneSpan Sign takes aim at the slow work 
-[2026-10-08 17:01:08] Неизвестный источник (siliconangle.com): Stuut cashes in on agentic order-to-cash
-[2026-10-08 17:01:08] Неизвестный источник (financialpost.com): World faces risk cocktail from AI, oil a
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): JND AutoRedact™ Wins 2026 Relativity Inn
-[2026-10-08 17:01:08] Неизвестный источник (newsonjapan.com): Nikkei Falls as Profit-Taking Hits AI an
-[2026-10-08 17:01:08] Нет фото: MATE-runtime 1.0.0rc1
-[2026-10-08 17:01:08] Заблокированный источник (nypost.com): How some Oct. 7 hostages found their voi
-[2026-10-08 17:01:08] Неизвестный источник (economictimes.indiatimes.com): Ericsson to export India-made antennas t
-[2026-10-08 17:01:08] Неизвестный источник (en.antaranews.com): Inside Indonesia-South Korea comprehensi
-[2026-10-08 17:01:08] Неизвестный источник (eurekaselect.com): AI-Driven Innovations in Hearing Health:
-[2026-10-08 17:01:08] Неизвестный источник (thehindubusinessline.com): Ericsson to export India-made antennas t
-[2026-10-08 17:01:08] Неизвестный источник (economictimes.indiatimes.com): Ericsson to export India-made antennas t
-[2026-10-08 17:01:08] Неизвестный источник (pymnts.com): AI Made B2B Fraud Cheap and Trust Expens
-[2026-10-08 17:01:08] Неизвестный источник (en.protothema.gr): Anna, Karvelas, the jasmine pot and Kous
-[2026-10-08 17:01:08] Заблокированный источник (dailymail.com): Andrew Garfield is praised for his 'unse
-[2026-10-08 17:01:08] Неизвестный источник (economictimes.indiatimes.com): Starlink builds 20 gateway sites in Indi
-[2026-10-08 17:01:08] Неизвестный источник (siliconangle.com): Atlassian lays groundwork for humans and
-[2026-10-08 17:01:08] AI новости: 0 с доверенных источников
-[2026-10-08 17:01:08] Доверенных AI-источников мало, добираю из остальных
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: The Social Reckoning Reactions Dropped. All Anyone
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: JD Vance to speak with Tony Dokoupil for town hall
-[2026-10-08 17:01:08] Заблокированный источник (dailymail.com): Andrew Garfield reveals a teacher made h
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: How AI is Changing Web3 Marketing Forever
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: Artificial Is a Better Social Network Sequel Than 
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: Show HN: One – Post-labor biophysical resource coo
-[2026-10-08 17:01:08] Нет фото: ia-router 0.5.0
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: Why Were Victorian Elites So Effective?
-[2026-10-08 17:01:08] Спорт, пропускаю: 9 Road America race weekends to put on y
-[2026-10-08 17:01:08] Нет фото: Rural Health Transformation Funding Can 
-[2026-10-08 17:01:08] Заблокированный источник (prnewswire.com): AI Cybersecurity Market worth $95.25 bil
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: Untimely follow-up after cervical cancer screening
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: Integrating images, sounds, citizen science and AI
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: HSCM-Lane: A ResNet-based encoder-decoder architec
-[2026-10-08 17:01:08] Не про ИИ, пропускаю: roadDB: An R package for exploring early human pre
-[2026-10-08 17:01:08] Нет фото: ia-router 0.3.0
-[2026-10-08 17:01:08] Лента обновлений, пропускаю: FO Live: German Economy Now Faces the Ch
 [2026-10-08 17:01:08] Не про ИИ, пропускаю: BofA’s Subramanian says bonds in rare competition 
 [2026-10-08 17:01:08] Не про ИИ, пропускаю: Ericsson to export India-made antennas to Europe: 
 [2026-10-08 17:01:08] Нет фото: Lenovo Announces Tech World @ CES 2027: 
@@ -2998,3 +2898,103 @@
 [2026-10-14 17:03:33] Пауза 60 секунд...
 [2026-10-14 17:04:34] sent_urls.txt обрезан: 304 -> 300
 [2026-10-14 17:04:34] === Блок ai_evening завершён ===
+[2026-10-15 05:01:06] Загружено 300 уже отправленных новостей
+[2026-10-15 05:01:06] === Запуск блока: morning (тест: False) ===
+[2026-10-15 05:01:06] Неизвестный источник (people.com): ‘Dancing with the Stars’ Recap: A Fan Fa
+[2026-10-15 05:01:06] Неизвестный источник (hollywoodreporter.com): Pablo Torre Reveals Art of Play Security
+[2026-10-15 05:01:06] Неизвестный источник (usatoday.com): Pope Leo diagnosed with lung cancer afte
+[2026-10-15 05:01:06] Неизвестный источник (espn.com): Ohtani will be in Dodgers' Game 3 NLCS l
+[2026-10-15 05:01:06] Неизвестный источник (deadline.com): Bob Odenkirk Mourns 'Breaking Bad' Co-St
+[2026-10-15 05:01:06] Неизвестный источник (thepointsguy.com): United ditches flight segments, raises b
+[2026-10-15 05:01:06] Неизвестный источник (abcnews.com): Congo's confirmed Ebola cases exceed 9,0
+[2026-10-15 05:01:06] Неизвестный источник (scmp.com): New Trump press secretary says she passe
+[2026-10-15 05:01:06] Неизвестный источник (motorsport.com): Five key takeaways from F1's big African
+[2026-10-15 05:01:06] Неизвестный источник (space.com): SpaceX rocket launch creates incredible 
+[2026-10-15 05:01:06] Неизвестный источник (pcmag.com): Inside the iPhone Duo and 18 Pro Cooling
+[2026-10-15 05:01:06] Неизвестный источник (wral.com): Two North Carolinians dead from West Nil
+[2026-10-15 05:01:06] Мировые новости: найдено 13 после фильтрации
+[2026-10-15 05:01:07] Редакторский отбор: выбраны позиции [3, 10, 8, 13]
+[2026-10-15 05:01:08] RSS Ukrinform: 30 записей
+[2026-10-15 05:01:09] RSS Ukrinform: 30 записей
+[2026-10-15 05:01:09] RSS Euromaidan Press: 29 записей
+[2026-10-15 05:01:09] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-10-15 05:01:09] Заблокированный источник (biztoc.com): Russia downs 32 drones over Voronezh reg
+[2026-10-15 05:01:09] Заблокированный источник (biztoc.com): A former Ukrainian officer goes on trial
+[2026-10-15 05:01:09] Заблокированный источник (biztoc.com): Germany puts Ukrainian ex-officer in the
+[2026-10-15 05:01:09] Нет фото: War in Ukraine: Doubts Cast on Russia’s 
+[2026-10-15 05:01:09] Нет фото: Diesel futures jump, signaling higher pr
+[2026-10-15 05:01:09] Заблокированный источник (prnewswire.com): Beyond Country-Level Connections: VPN Pr
+[2026-10-15 05:01:09] Заблокированный источник (prnewswire.com): Beyond Country-Level Connections: VPN Pr
+[2026-10-15 05:01:09] Нет фото: Zelensky and Burnham to meet in Downing 
+[2026-10-15 05:01:09] Спорт, пропускаю: Every player from Alabama to play for th
+[2026-10-15 05:01:09] Заблокированный источник (biztoc.com): Ukraine attack kills one in Saratov regi
+[2026-10-15 05:01:09] Заблокированный источник (biztoc.com): Oil soars above $105 in wake of Saudi ai
+[2026-10-15 05:01:09] Внутренний дубль: Weapons fire from multiple types of armament: Frod
+[2026-10-15 05:01:09] Внутренний дубль: Death toll from Russian attack rises to three, six
+[2026-10-15 05:01:09] Внутренний дубль: Russia uses missiles containing European and US-ma
+[2026-10-15 05:01:09] Внутренний дубль: Over 70% of liberated Kherson region cleared of mi
+[2026-10-15 05:01:09] Внутренний дубль: SpaceX maintains 161 km/h speed limit for Starshie
+[2026-10-15 05:01:09] Внутренний дубль: Russian forces attack Kryvyi Rih, falling drone de
+[2026-10-15 05:01:09] Внутренний дубль: Kropyvnytskyi under massive Russian attack
+[2026-10-15 05:01:09] Внутренний дубль: Zelensky briefs Burnham on Russian attacks against
+[2026-10-15 05:01:09] Внутренний дубль: Ihnat: Ukrainian air defense shoots down more than
+[2026-10-15 05:01:09] Внутренний дубль: Suspect in killing of five Ukrainian soldiers arre
+[2026-10-15 05:01:09] Внутренний дубль: Major internet outage hits Russia after drone atta
+[2026-10-15 05:01:09] Внутренний дубль: Russian forces attack Dnipropetrovsk region nearly
+[2026-10-15 05:01:09] Внутренний дубль: Russian airstrikes on Kramatorsk leave dead and in
+[2026-10-15 05:01:09] Внутренний дубль: Six killed, 13 injured as rescue operations conclu
+[2026-10-15 05:01:09] Внутренний дубль: Russian forces attacking Kremenchuk
+[2026-10-15 05:01:09] Внутренний дубль: Romania scrambles F-16s after airspace violation
+[2026-10-15 05:01:10] Украинские новости: найдено 80 после фильтрации
+[2026-10-15 05:01:11] Редакторский отбор: выбраны позиции [6, 8]
+[2026-10-15 05:01:11] NewsAPI (Харьков, все издания): пришло 18 статей
+[2026-10-15 05:01:12] RSS Ukrinform: 30 записей
+[2026-10-15 05:01:13] RSS Ukrinform: 30 записей
+[2026-10-15 05:01:13] RSS Euromaidan Press: 29 записей
+[2026-10-15 05:01:13] Заблокированный источник (breitbart.com): Volodymyr Zelensky Says Russia Attacked 
+[2026-10-15 05:01:13] Заблокированный источник (dailymail.com): Zelensky says he received 'no warning' a
+[2026-10-15 05:01:13] Заблокированный источник (nypost.com): Ukraine got no warning about latest Russ
+[2026-10-15 05:01:13] Заблокированный источник (yahoo.com): Zelensky says Ukraine received no early 
+[2026-10-15 05:01:13] Заблокированный источник (yahoo.com): Zelensky says Ukraine received no early 
+[2026-10-15 05:01:13] Заблокированный источник (sputnikglobe.com): Russian Forces Advance in Dobropolye Set
+[2026-10-15 05:01:13] Заблокированный источник (sputnikglobe.com): Russia Wipes Out Ukrainian Supply Robots
+[2026-10-15 05:01:13] Заблокированный источник (naturalnews.com): Zelensky Criticizes Trump Over Russian D
+[2026-10-15 05:01:13] Заблокированный источник (naturalnews.com): Russia claims Ukrainian supply robots de
+[2026-10-15 05:01:13] Заблокированный источник (biztoc.com): Three dead, 10 injured in attack on Khar
+[2026-10-15 05:01:13] Внутренний дубль: Suspect in killing of five Ukrainian soldiers arre
+[2026-10-15 05:01:13] Харьков: найдена новость: Ukrainian press gang abducts naked man (VIDEO)
+[2026-10-15 05:01:13] Обрабатываю: Houthis strike Aramco hours after Saudi-led coalition hits S | https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabi
+[2026-10-15 05:01:13] Полный текст получен (3000 символов)
+[2026-10-15 05:01:13] Попытка 1 для: Houthis strike Aramco hours after Saudi-
+[2026-10-15 05:01:16] Успешно, получено 1503 символов
+[2026-10-15 05:01:16] Обрабатываю: U.K. intelligence chief warns Iran is shifting plots to ‘har | https://www.washingtonpost.com/world/2026/10/13/uk-intelligence-chief-
+[2026-10-15 05:01:28] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/13/uk-intellige
+[2026-10-15 05:01:28] Попытка 1 для: U.K. intelligence chief warns Iran is sh
+[2026-10-15 05:01:30] Успешно, получено 797 символов
+[2026-10-15 05:01:30] Обрабатываю: Zelensky and Burnham to meet in Downing Street | https://www.bbc.com/news/articles/cq98z59xdny5o
+[2026-10-15 05:01:30] Полный текст получен (3000 символов)
+[2026-10-15 05:01:30] Попытка 1 для: Zelensky and Burnham to meet in Downing 
+[2026-10-15 05:01:32] Успешно, получено 1502 символов
+[2026-10-15 05:01:32] Обрабатываю: Perseverance Mars rover sets new driving record on surface o | https://www.cbsnews.com/news/perseverance-mars-rover-driving-record-an
+[2026-10-15 05:01:32] Полный текст получен (2488 символов)
+[2026-10-15 05:01:32] Попытка 1 для: Perseverance Mars rover sets new driving
+[2026-10-15 05:01:34] Успешно, получено 1427 символов
+[2026-10-15 05:01:37] Пауза 60 секунд...
+[2026-10-15 05:02:37] Пауза 60 секунд...
+[2026-10-15 05:03:38] Пауза 60 секунд...
+[2026-10-15 05:04:38] Обрабатываю: Government allocates additional UAH 60 billion for Defense F | https://www.ukrinform.net/rubric-economy/4174299-government-allocates-
+[2026-10-15 05:04:39] Полный текст получен (900 символов)
+[2026-10-15 05:04:39] Попытка 1 для: Government allocates additional UAH 60 b
+[2026-10-15 05:04:42] Успешно, получено 1312 символов
+[2026-10-15 05:04:42] Обрабатываю: Over 70% of liberated Kherson region cleared of mines | https://www.ukrinform.net/rubric-ato/4174160-over-70-of-liberated-kher
+[2026-10-15 05:04:43] Полный текст получен (825 символов)
+[2026-10-15 05:04:43] Попытка 1 для: Over 70% of liberated Kherson region cle
+[2026-10-15 05:04:46] Успешно, получено 1306 символов
+[2026-10-15 05:04:46] Обрабатываю: Ukrainian press gang abducts naked man (VIDEO) | https://rt-english.com/russia/647120-naked-man-mobilized-ukraine/
+[2026-10-15 05:04:47] Полный текст получен (2025 символов)
+[2026-10-15 05:04:47] Попытка 1 для: Ukrainian press gang abducts naked man (
+[2026-10-15 05:04:51] Успешно, получено 1601 символов
+[2026-10-15 05:04:53] Пауза 60 секунд...
+[2026-10-15 05:05:54] Пауза 60 секунд...
+[2026-10-15 05:06:54] sent_urls.txt обрезан: 307 -> 300
+[2026-10-15 05:06:54] === Блок morning завершён ===
