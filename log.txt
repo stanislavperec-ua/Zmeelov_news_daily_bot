@@ -1,40 +1,3 @@
-[2026-10-09 05:01:35] Успешно, получено 1086 символов
-[2026-10-09 05:01:38] Пауза 60 секунд...
-[2026-10-09 05:02:38] Пауза 60 секунд...
-[2026-10-09 05:03:39] Пауза 60 секунд...
-[2026-10-09 05:04:39] Обрабатываю: Ukraine returns 2,665 children taken by Russia | https://www.ukrinform.net/rubric-society/4172374-ukraine-returns-2665-
-[2026-10-09 05:04:41] Полный текст получен (1802 символов)
-[2026-10-09 05:04:41] Попытка 1 для: Ukraine returns 2,665 children taken by 
-[2026-10-09 05:04:43] Успешно, получено 1322 символов
-[2026-10-09 05:04:43] Обрабатываю: UK to provide GBP 54M in winter support to Ukraine | https://www.ukrinform.net/rubric-economy/4172516-uk-to-provide-gbp-54m
-[2026-10-09 05:04:44] Полный текст получен (1567 символов)
-[2026-10-09 05:04:44] Попытка 1 для: UK to provide GBP 54M in winter support 
-[2026-10-09 05:04:47] Успешно, получено 1766 символов
-[2026-10-09 05:04:50] Пауза 60 секунд...
-[2026-10-09 05:05:51] sent_urls.txt обрезан: 306 -> 300
-[2026-10-09 05:05:51] === Блок morning завершён ===
-[2026-10-09 07:01:05] Загружено 300 уже отправленных новостей
-[2026-10-09 07:01:05] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-09 07:01:06] Неизвестный источник (rand.org): AI ecosystems in the Netherlands and the
-[2026-10-09 07:01:06] Неизвестный источник (nzherald.co.nz): Andrew Garfield hid in toilets to avoid 
-[2026-10-09 07:01:06] Не про ИИ, пропускаю: Hilton is betting on people in an industry that ca
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): US venture deal value reaches record $51
-[2026-10-09 07:01:06] Неизвестный источник (americanthinker.com): Amazon took 20 years, but AI will take l
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Google debuts SynthID Detector tool for 
-[2026-10-09 07:01:06] Неизвестный источник (denverpost.com): Barbed comments, and sharper rejoinders,
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): At WebexOne, Cisco’s Jeetu Patel argues 
-[2026-10-09 07:01:06] Неизвестный источник (nzherald.co.nz): Andrew Garfield reveals ‘scary’ reason h
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Samsung forecasts world record-breaking 
-[2026-10-09 07:01:06] Неизвестный источник (punchng.com): GSMA projects 2.4bn 6G connections
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Nvidia, Samsung back $90M round for AI a
-[2026-10-09 07:01:06] Нет фото: Phylogeny-informed genomic prediction wi
-[2026-10-09 07:01:06] Нет фото: She Died at the San Diego Border. A Surv
-[2026-10-09 07:01:06] Неизвестный источник (cjr.org): Remembrance
-[2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): US government, tech giants and Biohub co
-[2026-10-09 07:01:06] Не про ИИ, пропускаю: Cupertino might be made for your mom, but it’s a g
-[2026-10-09 07:01:06] Неизвестный источник (techradar.com): Moving beyond chips and screens: Samsung
-[2026-10-09 07:01:06] Неизвестный источник (decrypt.co): Ethereum Researcher Says AI May Break En
-[2026-10-09 07:01:06] Неизвестный источник (adweek.com): AI Is Pushing Advertising Back Into the 
 [2026-10-09 07:01:06] Нет фото: TekVision and Carahsoft Officially Annou
 [2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): OpenAI publishes 722 AI-generated math d
 [2026-10-09 07:01:06] Неизвестный источник (siliconangle.com): Cisco broadens agentic features in Webex
@@ -2998,3 +2961,40 @@
 [2026-10-15 07:03:27] Пауза 60 секунд...
 [2026-10-15 07:04:28] sent_urls.txt обрезан: 304 -> 300
 [2026-10-15 07:04:28] === Блок ai_morning завершён ===
+[2026-10-15 10:01:12] Загружено 300 уже отправленных новостей
+[2026-10-15 10:01:12] === Запуск блока: midday (тест: False) ===
+[2026-10-15 10:01:12] Неизвестный источник (nbcsports.com): Sean McVay on Alaric Jackson: "He has to
+[2026-10-15 10:01:12] Неизвестный источник (ksl.com): The leap second is on the chopping block
+[2026-10-15 10:01:12] Неизвестный источник (sciencealert.com): Ovaries Develop an Intriguing Second Rol
+[2026-10-15 10:01:12] Неизвестный источник (sciencedaily.com): New knee arthritis treatment delivers la
+[2026-10-15 10:01:12] Неизвестный источник (foxnews.com): Tampa Bay Rays win game two over Guardia
+[2026-10-15 10:01:12] Неизвестный источник (mmafighting.com): Dana White responds to Sean Strickland’s
+[2026-10-15 10:01:12] Неизвестный источник (ew.com): ‘DWTS’ season 35 week 5 recap: Beloved u
+[2026-10-15 10:01:12] Неизвестный источник (hollywoodreporter.com): Pablo Torre Reveals Art of Play Security
+[2026-10-15 10:01:12] Неизвестный источник (thehackernews.com): OpenAI Employee Arrested for Allegedly P
+[2026-10-15 10:01:12] Неизвестный источник (9to5google.com): Chrome 155 for Googlebook brings expande
+[2026-10-15 10:01:12] Неизвестный источник (phys.org): Scientists discover 'D-rex', a giant fun
+[2026-10-15 10:01:12] Неизвестный источник (9to5mac.com): iOS 27.2 beta 4 no longer includes Apple
+[2026-10-15 10:01:12] Неизвестный источник (space.com): SpaceX rocket launch creates incredible 
+[2026-10-15 10:01:12] Пропускаю уже отправленную: Perseverance Mars rover sets new driving record on
+[2026-10-15 10:01:12] Мировые новости: найдено 15 после фильтрации
+[2026-10-15 10:01:14] Редакторский отбор: выбраны позиции [5, 11, 3, 10]
+[2026-10-15 10:01:14] Обрабатываю: Residents in Saudi Arabia’s capital say they have heard new  | https://apnews.com/article/saudi-arabia-yemen-strikes-mideast-conflict
+[2026-10-15 10:01:14] Попытка 1 для: Residents in Saudi Arabia’s capital say 
+[2026-10-15 10:01:16] Успешно, получено 696 символов
+[2026-10-15 10:01:16] Обрабатываю: Aramco HQ Hit as Houthi Missiles Strike Saudi Arabia | https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters
+[2026-10-15 10:01:16] Попытка 1 для: Aramco HQ Hit as Houthi Missiles Strike 
+[2026-10-15 10:01:19] Успешно, получено 876 символов
+[2026-10-15 10:01:19] Обрабатываю: Scott Bessent's growth plans aren't enough to tame surging d | https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html
+[2026-10-15 10:01:19] Полный текст получен (3000 символов)
+[2026-10-15 10:01:19] Попытка 1 для: Scott Bessent's growth plans aren't enou
+[2026-10-15 10:01:21] Успешно, получено 1688 символов
+[2026-10-15 10:01:21] Обрабатываю: Bank of America fined $1.2bn over failing to stop money laun | https://www.bbc.com/news/articles/cm3wvxy6n3z8o
+[2026-10-15 10:01:21] Полный текст получен (2706 символов)
+[2026-10-15 10:01:21] Попытка 1 для: Bank of America fined $1.2bn over failin
+[2026-10-15 10:01:25] Успешно, получено 2020 символов
+[2026-10-15 10:01:28] Пауза 60 секунд...
+[2026-10-15 10:02:29] Пауза 60 секунд...
+[2026-10-15 10:03:29] Пауза 60 секунд...
+[2026-10-15 10:04:30] sent_urls.txt обрезан: 304 -> 300
+[2026-10-15 10:04:30] === Блок midday завершён ===
