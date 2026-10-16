@@ -1,105 +1,3 @@
-[2026-10-09 15:01:37] Пауза 60 секунд...
-[2026-10-09 15:02:38] Пауза 60 секунд...
-[2026-10-09 15:03:38] Пауза 60 секунд...
-[2026-10-09 15:04:39] Обрабатываю: Russian strikes cause extensive damage to Ukraine's power gr | https://www.ukrinform.net/rubric-economy/4172713-russian-strikes-cause
-[2026-10-09 15:04:40] Полный текст получен (906 символов)
-[2026-10-09 15:04:40] Попытка 1 для: Russian strikes cause extensive damage t
-[2026-10-09 15:04:43] Успешно, получено 1282 символов
-[2026-10-09 15:04:43] Обрабатываю: Finland provides Ukraine with new military aid package | https://www.ukrinform.net/rubric-ato/4172730-finland-provides-ukraine-
-[2026-10-09 15:04:44] Полный текст получен (867 символов)
-[2026-10-09 15:04:44] Попытка 1 для: Finland provides Ukraine with new milita
-[2026-10-09 15:04:46] Успешно, получено 1215 символов
-[2026-10-09 15:04:46] Обрабатываю: Russian forces strike farm in Kharkiv region, killing more t | https://www.ukrinform.net/rubric-ato/4172636-russian-forces-strike-far
-[2026-10-09 15:04:48] Полный текст получен (911 символов)
-[2026-10-09 15:04:48] Попытка 1 для: Russian forces strike farm in Kharkiv re
-[2026-10-09 15:04:51] Успешно, получено 1331 символов
-[2026-10-09 15:04:54] Пауза 60 секунд...
-[2026-10-09 15:05:54] Пауза 60 секунд...
-[2026-10-09 15:06:55] sent_urls.txt обрезан: 307 -> 300
-[2026-10-09 15:06:55] === Блок evening завершён ===
-[2026-10-09 17:01:06] Загружено 300 уже отправленных новостей
-[2026-10-09 17:01:06] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-09 17:01:06] Неизвестный источник (spacedaily.com): MIT built a ring of copper wire around E
-[2026-10-09 17:01:06] Нет фото: Digger Was Too Much for Tom Cruise to Se
-[2026-10-09 17:01:06] Неизвестный источник (pymnts.com): Google Cloud Targets Enterprise Market W
-[2026-10-09 17:01:06] Неизвестный источник (economictimes.indiatimes.com): India's semiconductor push, agentic AI s
-[2026-10-09 17:01:06] Нет фото: If You Want a Real Digital Commons, Buil
-[2026-10-09 17:01:06] Неизвестный источник (financialpost.com): AI threats weren’t a top concern for Can
-[2026-10-09 17:01:06] Неизвестный источник (aws.amazon.com): Share GPU clusters across teams with iso
-[2026-10-09 17:01:06] Нет фото: F-Secure and CUJO AI Join Forces to Equi
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Corporate Bankruptcies Stay Above Histor
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Army Awards webAI $14.5M to Put Resilien
-[2026-10-09 17:01:06] Неизвестный источник (financialpost.com): Google launches workplace AI agent that 
-[2026-10-09 17:01:06] Неизвестный источник (nationalpost.com): Block after block of death and despair. 
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Docusign adds a desktop PDF editor to it
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Harness acquires Augment Code to bridge 
-[2026-10-09 17:01:06] Неизвестный источник (pymnts.com): Nvidia-Backed Firmus Grid IPO Reveals In
-[2026-10-09 17:01:06] Неизвестный источник (prnewswire.co.uk): GEMS Education unveils GR8 School, a wor
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GEMS Education unveils GR8 School, a wor
-[2026-10-09 17:01:06] Неизвестный источник (shareable.net): Want to Resist a Data Center? These Orga
-[2026-10-09 17:01:06] Неизвестный источник (journals.plos.org): A multimodal context-aware AI recommende
-[2026-10-09 17:01:06] Неизвестный источник (journals.plos.org): Identification of shared diagnostic biom
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GenScript Launches Life Sciences Startup
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GenScript Launches Life Sciences Startup
-[2026-10-09 17:01:06] Неизвестный источник (prnewswire.co.uk): GenScript Launches Life Sciences Startup
-[2026-10-09 17:01:06] Неизвестный источник (journals.plos.org): RCTE: A multi-class object detection fra
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Artificial is a wicked satire that also sticks to 
-[2026-10-09 17:01:06] Нет фото: mindupload 1.15.7
-[2026-10-09 17:01:06] Неизвестный источник (telecomtv.com): What’s up with… Sovereign AI, VodafoneTh
-[2026-10-09 17:01:06] Неизвестный источник (thehindubusinessline.com): IAF capabilities growing in right direct
-[2026-10-09 17:01:06] Неизвестный источник (livemint.com): National Payments Corporation of India c
-[2026-10-09 17:01:06] Неизвестный источник (mediaite.com): WATCH: Influencer Takes on Robot in Cage
-[2026-10-09 17:01:06] Нет фото: Art Basel/UBS Report’s Surprising Findin
-[2026-10-09 17:01:06] Нет фото: Draganfly to Present at 2026 Raymond Jam
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Financial Advisor Announces Retirement o
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Darwinium launches two intent intelligen
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Rein Security raises $25M to rein in ins
-[2026-10-09 17:01:06] Неизвестный источник (nextcity.org): Cities Built Their Safety Nets on Federa
-[2026-10-09 17:01:06] Нет фото: mindupload 1.15.6
-[2026-10-09 17:01:06] Неизвестный источник (financialpost.com): AI bubble risks worst SP 500 crash since
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Diebold Nixdorf Enables stc pay Bahrain 
-[2026-10-09 17:01:06] Нет фото: frontface-flashy 1.1.0
-[2026-10-09 17:01:06] Нет фото: IBN Announces Latest Episode of The Stoc
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Google Cloud introduces Gemini agent to 
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Aspen Institute and Pivotal Announce Awa
-[2026-10-09 17:01:06] Нет фото: How Technology Empowers—and Imperils—Dic
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): MINISFORUM Launches MS-S1 MAX-P495 with 
-[2026-10-09 17:01:06] Нет фото: mindupload 1.15.5
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): 2026 World Fire Congress Communities of 
-[2026-10-09 17:01:06] Нет фото: Options Joins Day-One Distribution Netwo
-[2026-10-09 17:01:06] Неизвестный источник (livemint.com): Why privacy must survive the age of AI: 
-[2026-10-09 17:01:06] Неизвестный источник (cbc.ca): From breweries to aerospace, Steinbach c
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Growth Demands More Than AI: Transformat
-[2026-10-09 17:01:06] Неизвестный источник (straitstimes.com): UOB to hire 1,000 graduates amid AI job 
-[2026-10-09 17:01:06] Неизвестный источник (business-standard.com): IAF showed speed, destruction power duri
-[2026-10-09 17:01:06] Неизвестный источник (rand.org): AI ecosystems in the Netherlands and the
-[2026-10-09 17:01:06] Неизвестный источник (nzherald.co.nz): Andrew Garfield hid in toilets to avoid 
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Hilton is betting on people in an industry that ca
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): US venture deal value reaches record $51
-[2026-10-09 17:01:06] Неизвестный источник (americanthinker.com): Amazon took 20 years, but AI will take l
-[2026-10-09 17:01:06] Неизвестный источник (siliconangle.com): Google debuts SynthID Detector tool for 
-[2026-10-09 17:01:06] Неизвестный источник (denverpost.com): Barbed comments, and sharper rejoinders,
-[2026-10-09 17:01:06] AI новости: 0 с доверенных источников
-[2026-10-09 17:01:06] Доверенных AI-источников мало, добираю из остальных
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: MIT built a ring of copper wire around Earth in 19
-[2026-10-09 17:01:06] Нет фото: Digger Was Too Much for Tom Cruise to Se
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Google Cloud Targets Enterprise Market With Univer
-[2026-10-09 17:01:06] Нет фото: If You Want a Real Digital Commons, Buil
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Share GPU clusters across teams with isolation and
-[2026-10-09 17:01:06] Нет фото: F-Secure and CUJO AI Join Forces to Equi
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Corporate Bankruptcies Stay Above Histor
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): Army Awards webAI $14.5M to Put Resilien
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Block after block of death and despair. This is Va
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Docusign adds a desktop PDF editor to its Intellig
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Harness acquires Augment Code to bridge software e
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GEMS Education unveils GR8 School, a wor
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Want to Resist a Data Center? These Organizers Sha
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: A multimodal context-aware AI recommender for smar
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GenScript Launches Life Sciences Startup
-[2026-10-09 17:01:06] Заблокированный источник (prnewswire.com): GenScript Launches Life Sciences Startup
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: GenScript Launches Life Sciences Startup PitchFest
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: RCTE: A multi-class object detection framework for
-[2026-10-09 17:01:06] Не про ИИ, пропускаю: Artificial is a wicked satire that also sticks to 
 [2026-10-09 17:01:06] Нет фото: mindupload 1.15.7
 [2026-10-09 17:01:06] Не про ИИ, пропускаю: What’s up with… Sovereign AI, VodafoneThree, Starl
 [2026-10-09 17:01:06] Не про ИИ, пропускаю: IAF capabilities growing in right direction: Air C
@@ -2998,3 +2896,105 @@
 [2026-10-15 17:03:36] Пауза 60 секунд...
 [2026-10-15 17:04:37] sent_urls.txt обрезан: 304 -> 300
 [2026-10-15 17:04:37] === Блок ai_evening завершён ===
+[2026-10-16 05:01:07] Загружено 300 уже отправленных новостей
+[2026-10-16 05:01:07] === Запуск блока: morning (тест: False) ===
+[2026-10-16 05:01:07] Неизвестный источник (usatoday.com): 16 NFL players who could be traded, incl
+[2026-10-16 05:01:07] Неизвестный источник (wlky.com): Measles cases surge past 150 in Kentucky
+[2026-10-16 05:01:07] Неизвестный источник (mmafighting.com): Farid Basharat removed from UFC roster d
+[2026-10-16 05:01:07] Пропускаю уже отправленную: Pope Leo slept well after cancer surgery, but reco
+[2026-10-16 05:01:07] Заблокированный источник (finance.yahoo.com): 'Yikes': CoreWeave stock tanks on bond y
+[2026-10-16 05:01:07] Неизвестный источник (cbssports.com): Seven burning questions for Week 7: Can 
+[2026-10-16 05:01:07] Неизвестный источник (newsnationnow.com): Diddy injured in prison fight with notor
+[2026-10-16 05:01:07] Неизвестный источник (sfgate.com): Stanford discovers way to save ghostly c
+[2026-10-16 05:01:07] Неизвестный источник (variety.com): Aaron Paul Posts Video of ‘Breaking Bad’
+[2026-10-16 05:01:07] Неизвестный источник (macrumors.com): Apple HomeView Has These 15 Apps, Some C
+[2026-10-16 05:01:07] Неизвестный источник (gamefile.news): How the Zelda Ocarina of Time remake cha
+[2026-10-16 05:01:07] Неизвестный источник (wgal.com): 'It wasn't supposed to end like this': W
+[2026-10-16 05:01:07] Пропускаю уже отправленную: These common infections can cause cancer. Here’s w
+[2026-10-16 05:01:07] Мировые новости: найдено 11 после фильтрации
+[2026-10-16 05:01:08] Редакторский отбор: выбраны позиции [10, 1, 5, 8]
+[2026-10-16 05:01:09] RSS Ukrinform: 30 записей
+[2026-10-16 05:01:10] RSS Ukrinform: 30 записей
+[2026-10-16 05:01:10] Пропускаю уже отправленную: Ukraine destroys six Su-34M bombers at airfield in
+[2026-10-16 05:01:10] RSS Euromaidan Press: 29 записей
+[2026-10-16 05:01:10] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-10-16 05:01:10] Заблокированный источник (sputnikglobe.com): Starshield Restrictions Disrupt Ukrainia
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Germany Puts Ukrainian Ex-Officer On Tri
+[2026-10-16 05:01:10] Нет фото: The trial regarding Nord Stream is now b
+[2026-10-16 05:01:10] Нет фото: The trial regarding Nord Stream is now b
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Musk: Time for Zelensky to go
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): "It's A Pity...": Zelensky Feels 'Betray
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Now or never for new Russia sanctions, s
+[2026-10-16 05:01:10] Спорт, пропускаю: Every player from Alabama to play for th
+[2026-10-16 05:01:10] Нет фото: Two container ships sink near strait of 
+[2026-10-16 05:01:10] Нет фото: Starlink Suspicions and a Frantic Warnin
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Canada making progress on defence strate
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Air raid alert issued for Kyiv, surround
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): Elon Musk points finger at Trump over Uk
+[2026-10-16 05:01:10] Заблокированный источник (biztoc.com): US said to propose unfreezing Russian as
+[2026-10-16 05:01:10] Заблокированный источник (dailymail.com): Zelensky accuses Trump of 'betrayal' as 
+[2026-10-16 05:01:10] Внутренний дубль: Defense Forces strike Russian Irbis mobile radar s
+[2026-10-16 05:01:10] Внутренний дубль: Russian drone attack sparks fire at oil depot in K
+[2026-10-16 05:01:10] Внутренний дубль: Man injured in Russian attack on enterprise in Der
+[2026-10-16 05:01:10] Внутренний дубль: Drone enters Moldova again during Russian attack o
+[2026-10-16 05:01:10] Внутренний дубль: Ukraine destroys Russian drone operator training c
+[2026-10-16 05:01:10] Внутренний дубль: Russian forces make incursion near Anyshchyne in K
+[2026-10-16 05:01:10] Внутренний дубль: Air defense neutralizes 125 of 138 Russian drones 
+[2026-10-16 05:01:10] Внутренний дубль: Russian drone strikes enterprise in Poltava commun
+[2026-10-16 05:01:10] Внутренний дубль: Russia builds new attack drone launch base in Rost
+[2026-10-16 05:01:10] Внутренний дубль: Warehouse on fire in Kyiv's Sviatoshynskyi distric
+[2026-10-16 05:01:10] Внутренний дубль: Ukrainian Defense Forces strike drone launch site 
+[2026-10-16 05:01:10] Внутренний дубль: Russian drone strikes cultural center in Kramators
+[2026-10-16 05:01:10] Внутренний дубль: Russian Attack on Kyiv leaves seven injured
+[2026-10-16 05:01:10] Внутренний дубль: Injury toll after Russian strike on store in Odesa
+[2026-10-16 05:01:10] Внутренний дубль: Russian strike destroys supermarket chain's logist
+[2026-10-16 05:01:10] Украинские новости: найдено 81 после фильтрации
+[2026-10-16 05:01:12] Редакторский отбор: выбраны позиции [14, 6]
+[2026-10-16 05:01:13] NewsAPI (Харьков, все издания): пришло 40 статей
+[2026-10-16 05:01:13] RSS Ukrinform: 30 записей
+[2026-10-16 05:01:14] RSS Ukrinform: 30 записей
+[2026-10-16 05:01:14] RSS Euromaidan Press: 29 записей
+[2026-10-16 05:01:14] Заблокированный источник (dailymail.com): Zelensky accuses Trump of 'betrayal' as 
+[2026-10-16 05:01:14] Заблокированный источник (nypost.com): Ukraine slams SpaceX for cutting Starlin
+[2026-10-16 05:01:14] Заблокированный источник (sputnikglobe.com): Encircled Ukrainian Forces Suffer Furthe
+[2026-10-16 05:01:14] Заблокированный источник (nypost.com): Russian strikes kill 3, knock out power 
+[2026-10-16 05:01:14] Заблокированный источник (biztoc.com): Zelensky Says Russia Violated Trump’s En
+[2026-10-16 05:01:14] Пропускаю уже отправленную: Russia strikes military-linked energy facilities a
+[2026-10-16 05:01:14] Заблокированный источник (biztoc.com): Russia pounds Ukraine's energy infrastru
+[2026-10-16 05:01:14] Спорт, пропускаю: How Ukrainians are uniting behind Shakht
+[2026-10-16 05:01:14] Заблокированный источник (sputnikglobe.com): Russia Strikes Energy Infrastructure in 
+[2026-10-16 05:01:14] Заблокированный источник (biztoc.com): Ukraine reports 'substantial' railway da
+[2026-10-16 05:01:14] Заблокированный источник (dailymail.com): Putin ignores Trump's 'energy ceasefire'
+[2026-10-16 05:01:14] Внутренний дубль: Man injured in Russian attack on enterprise in Der
+[2026-10-16 05:01:14] Внутренний дубль: Russian forces make incursion near Anyshchyne in K
+[2026-10-16 05:01:14] Харьков: найдена новость: Man injured in Russian attack on enterprise in Der
+[2026-10-16 05:01:14] Обрабатываю: Earth’s Condition Is ‘Serious and Getting Worse’ as Climate  | https://www.wired.com/story/climate-change-is-getting-worse-el-nino-lo
+[2026-10-16 05:01:14] Полный текст получен (3000 символов)
+[2026-10-16 05:01:14] Попытка 1 для: Earth’s Condition Is ‘Serious and Gettin
+[2026-10-16 05:01:17] Успешно, получено 1413 символов
+[2026-10-16 05:01:17] Обрабатываю: U.S. warnings sow confusion, alarm in Ukraine over intellige | https://www.washingtonpost.com/world/2026/10/14/us-warnings-sow-confus
+[2026-10-16 05:01:29] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/14/us-warnings-
+[2026-10-16 05:01:29] Попытка 1 для: U.S. warnings sow confusion, alarm in Uk
+[2026-10-16 05:01:31] Успешно, получено 1214 символов
+[2026-10-16 05:01:31] Обрабатываю: UK threatens to ban Eritreans over migrant return policy | https://www.bbc.com/news/articles/c30rl1q1j200o
+[2026-10-16 05:01:31] Полный текст получен (3000 символов)
+[2026-10-16 05:01:31] Попытка 1 для: UK threatens to ban Eritreans over migra
+[2026-10-16 05:01:34] Успешно, получено 1630 символов
+[2026-10-16 05:01:34] Обрабатываю: Pennsylvania doctors are seeing what measles can do to previ | https://www.nbcnews.com/health/health-news/pennsylvania-measles-outbre
+[2026-10-16 05:01:34] Текст не совпадает с заголовком, беру описание: https://www.nbcnews.com/health/health-news/pennsylvania-meas
+[2026-10-16 05:01:34] Попытка 1 для: Pennsylvania doctors are seeing what mea
+[2026-10-16 05:01:37] Успешно, получено 743 символов
+[2026-10-16 05:01:40] Пауза 60 секунд...
+[2026-10-16 05:02:40] Пауза 60 секунд...
+[2026-10-16 05:03:41] Пауза 60 секунд...
+[2026-10-16 05:04:41] Обрабатываю: PM Koretskyi: Ukraine meets all deadlines to secure 2026 int | https://www.ukrinform.net/rubric-economy/4174873-pm-koretskyi-ukraine-
+[2026-10-16 05:04:42] Полный текст получен (1766 символов)
+[2026-10-16 05:04:42] Попытка 1 для: PM Koretskyi: Ukraine meets all deadline
+[2026-10-16 05:04:45] Успешно, получено 1462 символов
+[2026-10-16 05:04:45] Обрабатываю: Ukraine to raise €60 mln from EIB for border infrastructure  | https://www.ukrinform.net/rubric-economy/4174636-ukraine-to-raise-60ml
+[2026-10-16 05:04:46] Полный текст получен (817 символов)
+[2026-10-16 05:04:46] Попытка 1 для: Ukraine to raise €60 mln from EIB for bo
+[2026-10-16 05:04:49] Успешно, получено 1199 символов
+[2026-10-16 05:04:52] Пауза 60 секунд...
+[2026-10-16 05:05:52] sent_urls.txt обрезан: 306 -> 300
+[2026-10-16 05:05:52] === Блок morning завершён ===
