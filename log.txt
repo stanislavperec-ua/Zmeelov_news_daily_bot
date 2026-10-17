@@ -1,127 +1,3 @@
-[2026-10-11 10:01:05] Неизвестный источник (ringsidenews.com): WWE SmackDown Spoiler Lineup for October
-[2026-10-11 10:01:05] Пропускаю уже отправленную: NASA issues long-awaited call to industry for priv
-[2026-10-11 10:01:05] Неизвестный источник (courthousenews.com): NYC man shot by ICE still has bullet in 
-[2026-10-11 10:01:05] Неизвестный источник (barrons.com): AT&T, Verizon, and T-Mobile Are Dropping
-[2026-10-11 10:01:05] Неизвестный источник (marketwatch.com): Here’s how Treasury yields could rise to
-[2026-10-11 10:01:05] Неизвестный источник (timesunion.com): Northern Lights could be visible in Capi
-[2026-10-11 10:01:05] Неизвестный источник (usatoday.com): Aaron Sorkin wants Facebook reform, warn
-[2026-10-11 10:01:05] Неизвестный источник (wccftech.com): GIGABYTE Announces Support For Upcoming 
-[2026-10-11 10:01:05] Старая новость (2026-10-09T09:18:34Z): SpaceX brings four astronauts home after
-[2026-10-11 10:01:05] Мировые новости: найдено 9 после фильтрации
-[2026-10-11 10:01:06] Редакторский отбор: выбраны позиции [4, 3, 1, 2]
-[2026-10-11 10:01:06] Обрабатываю: Panama rocked by 2 powerful earthquakes and multiple aftersh | https://apnews.com/article/panama-earthquake-e4e5dc85829714db88a74de3b
-[2026-10-11 10:01:06] Попытка 1 для: Panama rocked by 2 powerful earthquakes 
-[2026-10-11 10:01:09] Успешно, получено 954 символов
-[2026-10-11 10:01:09] Обрабатываю: Large waves pummel Southern California coast, flooding homes | https://www.washingtonpost.com/weather/2026/10/09/waves-pummel-califor
-[2026-10-11 10:01:21] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/weather/2026/10/09/waves-pumm
-[2026-10-11 10:01:21] Попытка 1 для: Large waves pummel Southern California c
-[2026-10-11 10:01:23] Успешно, получено 784 символов
-[2026-10-11 10:01:23] Обрабатываю: Exclusive: Anthropic breaches spark White House AI reporting | https://www.axios.com/2026/10/09/anthropic-ai-security-white-house
-[2026-10-11 10:01:23] Попытка 1 для: Exclusive: Anthropic breaches spark Whit
-[2026-10-11 10:01:25] Успешно, получено 946 символов
-[2026-10-11 10:01:25] Обрабатываю: Thousands of security personnel deployed as Delhi braces for | https://www.bbc.com/news/articles/cm2d6xd2g4w2o
-[2026-10-11 10:01:26] Полный текст получен (3000 символов)
-[2026-10-11 10:01:26] Попытка 1 для: Thousands of security personnel deployed
-[2026-10-11 10:01:29] Успешно, получено 1669 символов
-[2026-10-11 10:01:32] Пауза 60 секунд...
-[2026-10-11 10:02:32] Пауза 60 секунд...
-[2026-10-11 10:03:33] Пауза 60 секунд...
-[2026-10-11 10:04:33] sent_urls.txt обрезан: 304 -> 300
-[2026-10-11 10:04:33] === Блок midday завершён ===
-[2026-10-11 15:01:04] Загружено 300 уже отправленных новостей
-[2026-10-11 15:01:04] === Запуск блока: evening (тест: False) ===
-[2026-10-11 15:01:04] Неизвестный источник (bgr.com): 5 Cool MagSafe Gadgets That Are Not Moun
-[2026-10-11 15:01:04] Неизвестный источник (nbcsportsbayarea.com): Valkyries sweep Aces to clinch first-eve
-[2026-10-11 15:01:04] Пропускаю уже отправленную: Large waves pummel Southern California coast, floo
-[2026-10-11 15:01:04] Пропускаю уже отправленную: Panama rocked by 2 powerful earthquakes and multip
-[2026-10-11 15:01:04] Неизвестный источник (pagesix.com): Lance Bass reveals shockingly low amount
-[2026-10-11 15:01:04] Неизвестный источник (cnycentral.com): EXCLUSIVE: CNY Central's Matt Mulcahy in
-[2026-10-11 15:01:04] Лента обновлений, пропускаю: Live Updates: Iran's Houthi allies kill 
-[2026-10-11 15:01:04] Неизвестный источник (andscape.com): Georgia vs. Alabama defines college foot
-[2026-10-11 15:01:04] Неизвестный источник (marketwatch.com): Here’s how Treasury yields could rise to
-[2026-10-11 15:01:04] Неизвестный источник (timesunion.com): Northern Lights could be visible in Capi
-[2026-10-11 15:01:04] Неизвестный источник (marketwatch.com): Flu season is already here. Here’s what 
-[2026-10-11 15:01:04] Старая новость (2026-10-09T14:25:04Z): Data Center Darling’s $30 Billion IPO Dr
-[2026-10-11 15:01:04] Старая новость (2026-10-09T11:12:53Z): Triple-I Initiative October 2026 Showcas
-[2026-10-11 15:01:04] Старая новость (2026-10-09T08:27:09Z): Aaron Sorkin warns of Facebook's reckles
-[2026-10-11 15:01:04] Старая новость (2026-10-09T01:25:05Z): 4 astronauts return to Earth after 8 mon
-[2026-10-11 15:01:04] Мировые новости: найдено 12 после фильтрации
-[2026-10-11 15:01:06] Редакторский отбор: выбраны позиции [1, 5, 3, 11]
-[2026-10-11 15:01:07] RSS Ukrinform: 30 записей
-[2026-10-11 15:01:08] RSS Ukrinform: 30 записей
-[2026-10-11 15:01:08] Пропускаю уже отправленную: Russian guided bomb attack on Zaporizhzhia kills 2
-[2026-10-11 15:01:08] RSS Euromaidan Press: 29 записей
-[2026-10-11 15:01:08] Старая новость (2026-10-09T13:45:10Z): Eggs cost nearly 20 times US prices in o
-[2026-10-11 15:01:08] Старая новость (2026-10-09T13:23:48Z): Ukraine uses up Europe’s yearly supply o
-[2026-10-11 15:01:08] Старая новость (2026-10-09T12:46:56Z): Russia has a plan for Ukraine this winte
-[2026-10-11 15:01:08] Старая новость (2026-10-09T12:33:11Z): Russia sells cheaper fuel abroad and pay
-[2026-10-11 15:01:08] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-10-11 15:01:08] Заблокированный источник (sputnikglobe.com): Trump Turns to Putin for Diesel as Zelen
-[2026-10-11 15:01:08] Заблокированный источник (biztoc.com): Man narrowly escapes Russian strike on K
-[2026-10-11 15:01:08] Заблокированный источник (sputnikglobe.com): Over 10 Countries Affected by Foreign In
-[2026-10-11 15:01:08] Заблокированный источник (rt.com): Trump lifted Russian fuel ban after Zele
-[2026-10-11 15:01:08] Внутренний дубль: DIU ambushes two Russian special forces groups on 
-[2026-10-11 15:01:08] Внутренний дубль: Russian forces strike Kharkiv with guided bombs, k
-[2026-10-11 15:01:08] Внутренний дубль: Russian attacks on Sloviansk and Kramatorsk commun
-[2026-10-11 15:01:08] Внутренний дубль: Russian attack on Rivne region leaves three injure
-[2026-10-11 15:01:08] Внутренний дубль: Russian drone strikes agricultural company's truck
-[2026-10-11 15:01:08] Внутренний дубль: Debris from Russian drone falls near gas station i
-[2026-10-11 15:01:08] Внутренний дубль: Ukraine ready to halt strikes on Russian oil refin
-[2026-10-11 15:01:08] Внутренний дубль: Russian airstrike hits apartment buildings in Slov
-[2026-10-11 15:01:08] Внутренний дубль: Another drone explodes Moldova
-[2026-10-11 15:01:08] Внутренний дубль: Russian drone hits ambulance in Sumy region, injur
-[2026-10-11 15:01:08] Внутренний дубль: Ukrainian Defense Forces strike Russian repair uni
-[2026-10-11 15:01:08] Внутренний дубль: 13-year-old boy injured in Russian attack dies in 
-[2026-10-11 15:01:08] Внутренний дубль: Russian evening attack on Kirovohrad region leaves
-[2026-10-11 15:01:08] Внутренний дубль: Russian attacks in Kyiv region leave four people i
-[2026-10-11 15:01:08] Внутренний дубль: Partisans destroy locomotive in Russia's Voronezh 
-[2026-10-11 15:01:08] Внутренний дубль: Ukraine’s air defenses down 94 of 116 Russian dron
-[2026-10-11 15:01:08] Внутренний дубль: War update: 221 clashes on front line over past da
-[2026-10-11 15:01:08] Внутренний дубль: Drones attack Yandex data center in Russia for thi
-[2026-10-11 15:01:08] Внутренний дубль: Russia’s war casualty toll in Ukraine up by 1,930 
-[2026-10-11 15:01:08] Внутренний дубль: DIU publishes data on 20 Russian shadow fleet vess
-[2026-10-11 15:01:08] Внутренний дубль: Ukraine’s Alpha unit hits 26 Russian air defense s
-[2026-10-11 15:01:08] Внутренний дубль: Russian forces strike administrative building in O
-[2026-10-11 15:01:08] Украинские новости: найдено 62 после фильтрации
-[2026-10-11 15:01:10] Редакторский отбор: выбраны позиции [1, 12]
-[2026-10-11 15:01:10] NewsAPI (Харьков, все издания): пришло 16 статей
-[2026-10-11 15:01:11] RSS Ukrinform: 30 записей
-[2026-10-11 15:01:12] RSS Ukrinform: 30 записей
-[2026-10-11 15:01:12] RSS Euromaidan Press: 29 записей
-[2026-10-11 15:01:12] Заблокированный источник (sputnikglobe.com): Russia Liberates Lukashovo, Lobanovka in
-[2026-10-11 15:01:13] Старая новость (2026-10-09T13:45:10Z): Eggs cost nearly 20 times US prices in o
-[2026-10-11 15:01:13] Старая новость (2026-10-09T13:23:48Z): Ukraine uses up Europe’s yearly supply o
-[2026-10-11 15:01:13] Старая новость (2026-10-09T12:46:56Z): Russia has a plan for Ukraine this winte
-[2026-10-11 15:01:13] Старая новость (2026-10-09T12:33:11Z): Russia sells cheaper fuel abroad and pay
-[2026-10-11 15:01:13] Внутренний дубль: Russian forces strike Kharkiv with guided bombs, k
-[2026-10-11 15:01:13] Внутренний дубль: Russian drone strikes agricultural company's truck
-[2026-10-11 15:01:13] Харьков: найдена новость: Russian forces strike Kharkiv with guided bombs, k
-[2026-10-11 15:01:13] Обрабатываю: What has Trump’s Board of Peace achieved in a year since Gaz | https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-pea
-[2026-10-11 15:01:13] Полный текст получен (3000 символов)
-[2026-10-11 15:01:13] Попытка 1 для: What has Trump’s Board of Peace achieved
-[2026-10-11 15:01:15] Успешно, получено 1860 символов
-[2026-10-11 15:01:15] Обрабатываю: Police arrest leader of India’s ‘Cockroach’ movement before  | https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25
-[2026-10-11 15:01:15] Попытка 1 для: Police arrest leader of India’s ‘Cockroa
-[2026-10-11 15:01:17] Успешно, получено 765 символов
-[2026-10-11 15:01:17] Обрабатываю: Rogue Anthropic AI agent gave police fake tip in unsolved mu | https://www.bbc.com/news/articles/cqkg50j1yd5lo
-[2026-10-11 15:01:17] Полный текст получен (2947 символов)
-[2026-10-11 15:01:17] Попытка 1 для: Rogue Anthropic AI agent gave police fak
-[2026-10-11 15:01:21] Успешно, получено 1563 символов
-[2026-10-11 15:01:21] Обрабатываю: Fired OpenAI employees question the company's commitment to  | https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings
-[2026-10-11 15:01:22] Полный текст получен (3000 символов)
-[2026-10-11 15:01:22] Попытка 1 для: Fired OpenAI employees question the comp
-[2026-10-11 15:01:32] Успешно, получено 1975 символов
-[2026-10-11 15:01:35] Пауза 60 секунд...
-[2026-10-11 15:02:36] Пауза 60 секунд...
-[2026-10-11 15:03:36] Пауза 60 секунд...
-[2026-10-11 15:04:37] Обрабатываю: Zelensky and Tusk discuss strengthening their positions amid | https://www.ukrinform.net/rubric-polytics/4173288-zelensky-and-tusk-di
-[2026-10-11 15:04:38] Полный текст получен (1032 символов)
-[2026-10-11 15:04:38] Попытка 1 для: Zelensky and Tusk discuss strengthening 
-[2026-10-11 15:04:41] Успешно, получено 1508 символов
-[2026-10-11 15:04:41] Обрабатываю: Ukraine ready to halt strikes on Russian oil refineries if R | https://www.ukrinform.net/rubric-ato/4173241-ukraine-ready-to-halt-str
-[2026-10-11 15:04:42] Полный текст получен (2201 символов)
-[2026-10-11 15:04:42] Попытка 1 для: Ukraine ready to halt strikes on Russian
-[2026-10-11 15:04:46] Успешно, получено 1697 символов
 [2026-10-11 15:04:46] Обрабатываю: Russian forces strike Kharkiv with guided bombs, killing wom | https://www.ukrinform.net/rubric-ato/4173274-russian-forces-strike-kha
 [2026-10-11 15:04:48] Полный текст получен (1792 символов)
 [2026-10-11 15:04:48] Попытка 1 для: Russian forces strike Kharkiv with guide
@@ -2998,3 +2874,127 @@
 [2026-10-17 15:05:49] Пауза 60 секунд...
 [2026-10-17 15:06:49] sent_urls.txt обрезан: 307 -> 300
 [2026-10-17 15:06:49] === Блок evening завершён ===
+[2026-10-17 17:01:05] Загружено 300 уже отправленных новостей
+[2026-10-17 17:01:05] === Запуск блока: ai_evening (тест: False) ===
+[2026-10-17 17:01:05] Нет фото: mindupload 1.15.12
+[2026-10-17 17:01:05] Нет фото: Epistemology of Artificial Intelligence
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Band launches desktop app for developer 
+[2026-10-17 17:01:05] Нет фото: gromo added to PyPI
+[2026-10-17 17:01:05] Нет фото: hanging-context added to PyPI
+[2026-10-17 17:01:05] Неизвестный источник (pymnts.com): Tencent Confirms Third-Party AI Agents T
+[2026-10-17 17:01:05] Неизвестный источник (researchbuzz.me): Data Center Energy Usage, AI Agent “Pick
+[2026-10-17 17:01:05] Неизвестный источник (business-standard.com): RapidCanvas raises $29 million in Series
+[2026-10-17 17:01:05] Неизвестный источник (thehackernews.com): OpenAI Research Model Spent 3rd-Party Te
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): AI safety worries multiply but everyone’
+[2026-10-17 17:01:05] Неизвестный источник (androidguys.com): Reolink Home Hub 2 On-Device AI, 16MP Ca
+[2026-10-17 17:01:05] Неизвестный источник (journals.plos.org): Perceived AIGC saturation and AI content
+[2026-10-17 17:01:05] Неизвестный источник (journals.plos.org): Artificial intelligence-enhanced electro
+[2026-10-17 17:01:05] Неизвестный источник (journals.plos.org): Associations of major congenital anomali
+[2026-10-17 17:01:05] Неизвестный источник (journals.plos.org): Meta reinforcement learning for robust q
+[2026-10-17 17:01:05] Нет фото: mex-artificial 3.1.0
+[2026-10-17 17:01:05] Неизвестный источник (quantamagazine.org): He Wants AI Benchmarking To Be a Science
+[2026-10-17 17:01:05] Нет фото: framelift-video added to PyPI
+[2026-10-17 17:01:05] Нет фото: Younger 0.1.0
+[2026-10-17 17:01:05] Заблокированный источник (prnewswire.com): Seoul National University of Science and
+[2026-10-17 17:01:05] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-10-17 17:01:05] Нет фото: CLPS Incorporation Reports Financial Res
+[2026-10-17 17:01:05] Неизвестный источник (financialpost.com): CoreWeave stock wipeout exposes divide b
+[2026-10-17 17:01:05] Неизвестный источник (economictimes.indiatimes.com): How are Yemen's Houthis attacking Saudi 
+[2026-10-17 17:01:05] Неизвестный источник (economictimes.indiatimes.com): Experience of the Shanti Rasa or Bhaav i
+[2026-10-17 17:01:05] Нет фото: POET Technologies to Report Third Quarte
+[2026-10-17 17:01:05] Неизвестный источник (naftemporiki.gr): Piraeus Container Terminal wins two gold
+[2026-10-17 17:01:05] Неизвестный источник (comicbook.com): 5 Weirdest Nickelodeon Cartoons That ’90
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Ukrainian drones hit Russian data centers, disrupt
+[2026-10-17 17:01:05] Неизвестный источник (economictimes.indiatimes.com): India to take a leap in quantum, NM-ICPS
+[2026-10-17 17:01:05] Неизвестный источник (financialpost.com): Canadian businesses need to adopt AI mor
+[2026-10-17 17:01:05] Нет фото: JinkoSolar's Subsidiary, Jinko Solar Co.
+[2026-10-17 17:01:05] Неизвестный источник (prospect.org): The Week AI Blinked?
+[2026-10-17 17:01:05] Заблокированный источник (dailymail.com): The ultra-processed foods that WON'T giv
+[2026-10-17 17:01:05] Неизвестный источник (lancasteronline.com): Elizabethtown College’s hands-on approac
+[2026-10-17 17:01:05] Неизвестный источник (en.protothema.gr): Nikos A. and the theories about the… fli
+[2026-10-17 17:01:05] Неизвестный источник (adweek.com): Katzenberg-Backed Netomi Revamps Leaders
+[2026-10-17 17:01:05] Неизвестный источник (economictimes.indiatimes.com): Jio IPO GMP at 20%: Grey market signals 
+[2026-10-17 17:01:05] Нет фото: mindupload 1.15.11
+[2026-10-17 17:01:05] Неизвестный источник (thehindubusinessline.com): CERT-In issues 'critical' alert after au
+[2026-10-17 17:01:05] Неизвестный источник (en.protothema.gr): From the Property Ownership Register to 
+[2026-10-17 17:01:05] Неизвестный источник (deadline.com): ‘Cupertino’ Creators Robert & Michelle K
+[2026-10-17 17:01:05] Неизвестный источник (americanthinker.com): The Trouble With Words, The Architecture
+[2026-10-17 17:01:05] Заблокированный источник (prnewswire.com): FF EAI Robotics (FFR) and FF Jointly Lau
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): North.cloud bags $60M in funding to help
+[2026-10-17 17:01:05] Неизвестный источник (ubergizmo.com): Sony Spotlights 7 Startups at CEATEC 202
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Perplexity AI open-sources its secure AI
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): 8 insights from LogicMonitor’s Elevate e
+[2026-10-17 17:01:05] Неизвестный источник (pymnts.com): The ‘C’ in CFO Now Stands for Cybersecur
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Mueon nabs $65M in funding to develop 3D
+[2026-10-17 17:01:05] Неизвестный источник (cryptoslate.com): Ledger wants customers to trust its new 
+[2026-10-17 17:01:05] Неизвестный источник (digitaljournal.com): Architect of digital confidence: Why pri
+[2026-10-17 17:01:05] Неизвестный источник (punchng.com): AI age: Africa must build and earn its p
+[2026-10-17 17:01:05] Нет фото: frontface-flashy 1.2.0
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Proofpoint agrees to buy data security c
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Ramp raises $1.85B as it expands beyond 
+[2026-10-17 17:01:05] Неизвестный источник (techdirt.com): The Metric Is Not The Mission: The Long 
+[2026-10-17 17:01:05] Неизвестный источник (siliconangle.com): Meta releases 816B-parameter Muse Spark 
+[2026-10-17 17:01:05] Неизвестный источник (medicaldaily.com): Congressman Presses Dental and Medical G
+[2026-10-17 17:01:05] AI новости: 0 с доверенных источников
+[2026-10-17 17:01:05] Доверенных AI-источников мало, добираю из остальных
+[2026-10-17 17:01:05] Нет фото: mindupload 1.15.12
+[2026-10-17 17:01:05] Нет фото: Epistemology of Artificial Intelligence
+[2026-10-17 17:01:05] Нет фото: gromo added to PyPI
+[2026-10-17 17:01:05] Нет фото: hanging-context added to PyPI
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: RapidCanvas raises $29 million in Series B round l
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Associations of major congenital anomalies, long-t
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Meta reinforcement learning for robust quadruped l
+[2026-10-17 17:01:05] Нет фото: mex-artificial 3.1.0
+[2026-10-17 17:01:05] Нет фото: framelift-video added to PyPI
+[2026-10-17 17:01:05] Нет фото: Younger 0.1.0
+[2026-10-17 17:01:05] Заблокированный источник (prnewswire.com): Seoul National University of Science and
+[2026-10-17 17:01:05] Нет фото: NetworkNews Audio Announces Audio Press 
+[2026-10-17 17:01:05] Нет фото: CLPS Incorporation Reports Financial Res
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: How are Yemen's Houthis attacking Saudi Arabia so 
+[2026-10-17 17:01:05] Нет фото: POET Technologies to Report Third Quarte
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Piraeus Container Terminal wins two gold awards at
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: 5 Weirdest Nickelodeon Cartoons That ’90s Kids For
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Ukrainian drones hit Russian data centers, disrupt
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: India to take a leap in quantum, NM-ICPS 2.0 in wo
+[2026-10-17 17:01:05] Нет фото: JinkoSolar's Subsidiary, Jinko Solar Co.
+[2026-10-17 17:01:05] Заблокированный источник (dailymail.com): The ultra-processed foods that WON'T giv
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Elizabethtown College’s hands-on approach to engin
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Nikos A. and the theories about the… flipped burge
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Jio IPO GMP at 20%: Grey market signals Rs 220 pre
+[2026-10-17 17:01:05] Нет фото: mindupload 1.15.11
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: The Trouble With Words, The Architecture Of Meanin
+[2026-10-17 17:01:05] Заблокированный источник (prnewswire.com): FF EAI Robotics (FFR) and FF Jointly Lau
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: North.cloud bags $60M in funding to help businesse
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Sony Spotlights 7 Startups at CEATEC 2026, From AI
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Mueon nabs $65M in funding to develop 3D computing
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Ledger wants customers to trust its new $849 devic
+[2026-10-17 17:01:05] Пропускаю уже отправленную: AI age: Africa must build and earn its place
+[2026-10-17 17:01:05] Нет фото: frontface-flashy 1.2.0
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Proofpoint agrees to buy data security company Var
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Ramp raises $1.85B as it expands beyond finance so
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: The Metric Is Not The Mission: The Long Decline Of
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Meta releases 816B-parameter Muse Spark Open for c
+[2026-10-17 17:01:05] Не про ИИ, пропускаю: Congressman Presses Dental and Medical Groups to W
+[2026-10-17 17:01:05] AI новости: 18 кандидатов после фильтрации
+[2026-10-17 17:01:07] Редакторский отбор: выбраны позиции [13, 3, 4, 7]
+[2026-10-17 17:01:07] Обрабатываю: CERT-In issues 'critical' alert after autonomous AI agents a | https://www.thehindubusinessline.com/info-tech/cert-in-issues-critical
+[2026-10-17 17:01:07] Полный текст получен (3000 символов)
+[2026-10-17 17:01:07] Попытка 1 для: CERT-In issues 'critical' alert after au
+[2026-10-17 17:01:11] Успешно, получено 2176 символов
+[2026-10-17 17:01:11] Обрабатываю: OpenAI Research Model Spent 3rd-Party Test ETH Without Permi | https://thehackernews.com/2026/10/openai-research-model-spent-3rd-part
+[2026-10-17 17:01:11] Полный текст получен (3000 символов)
+[2026-10-17 17:01:11] Попытка 1 для: OpenAI Research Model Spent 3rd-Party Te
+[2026-10-17 17:01:13] Успешно, получено 1678 символов
+[2026-10-17 17:01:13] Обрабатываю: AI safety worries multiply but everyone’s still racing full  | https://siliconangle.com/2026/10/16/ai-safety-worries-multiply-but-eve
+[2026-10-17 17:01:13] Полный текст получен (3000 символов)
+[2026-10-17 17:01:13] Попытка 1 для: AI safety worries multiply but everyone’
+[2026-10-17 17:01:16] Успешно, получено 1657 символов
+[2026-10-17 17:01:16] Обрабатываю: Artificial intelligence-enhanced electrocardiography for pre | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360
+[2026-10-17 17:01:16] Полный текст получен (3000 символов)
+[2026-10-17 17:01:16] Попытка 1 для: Artificial intelligence-enhanced electro
+[2026-10-17 17:01:28] Успешно, получено 1718 символов
+[2026-10-17 17:01:32] Пауза 60 секунд...
+[2026-10-17 17:02:32] Пауза 60 секунд...
+[2026-10-17 17:03:33] Пауза 60 секунд...
+[2026-10-17 17:04:34] sent_urls.txt обрезан: 304 -> 300
+[2026-10-17 17:04:34] === Блок ai_evening завершён ===
