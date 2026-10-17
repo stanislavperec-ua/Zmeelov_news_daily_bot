@@ -1,46 +1,3 @@
-[2026-10-11 05:01:14] Харьков: новостей не найдено
-[2026-10-11 05:01:14] Обрабатываю: Trump announces deal for Russian diesel as Zelensky calls it | https://www.bbc.com/news/articles/cm1dwgr666wno
-[2026-10-11 05:01:14] Полный текст получен (3000 символов)
-[2026-10-11 05:01:14] Попытка 1 для: Trump announces deal for Russian diesel 
-[2026-10-11 05:01:18] Успешно, получено 1773 символов
-[2026-10-11 05:01:18] Обрабатываю: Trump hits International Criminal Court with sanctions after | https://www.washingtonpost.com/world/2026/10/09/trump-hits-internation
-[2026-10-11 05:01:30] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/09/trump-hits-i
-[2026-10-11 05:01:30] Попытка 1 для: Trump hits International Criminal Court 
-[2026-10-11 05:01:32] Успешно, получено 851 символов
-[2026-10-11 05:01:32] Обрабатываю: 'Everyone hates the police' – what France's school protests  | https://www.bbc.com/news/articles/crq5nlqnn184o
-[2026-10-11 05:01:33] Полный текст получен (3000 символов)
-[2026-10-11 05:01:33] Попытка 1 для: 'Everyone hates the police' – what Franc
-[2026-10-11 05:01:35] Успешно, получено 1490 символов
-[2026-10-11 05:01:35] Обрабатываю: NASA issues long-awaited call to industry for private space  | https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to
-[2026-10-11 05:01:35] Полный текст получен (1767 символов)
-[2026-10-11 05:01:35] Попытка 1 для: NASA issues long-awaited call to industr
-[2026-10-11 05:01:38] Успешно, получено 1693 символов
-[2026-10-11 05:01:42] Пауза 60 секунд...
-[2026-10-11 05:02:42] Пауза 60 секунд...
-[2026-10-11 05:03:43] Пауза 60 секунд...
-[2026-10-11 05:04:43] Обрабатываю: Russian guided bomb attack on Zaporizhzhia kills 20, injures | https://www.ukrinform.net/rubric-ato/4173122-russian-guided-bomb-attac
-[2026-10-11 05:04:45] Полный текст получен (695 символов)
-[2026-10-11 05:04:45] Попытка 1 для: Russian guided bomb attack on Zaporizhzh
-[2026-10-11 05:04:47] Успешно, получено 1211 символов
-[2026-10-11 05:04:47] Обрабатываю: Zelensky discusses Russian attacks, air defense, tougher san | https://www.ukrinform.net/rubric-polytics/4173112-zelensky-discusses-r
-[2026-10-11 05:04:48] Полный текст получен (1220 символов)
-[2026-10-11 05:04:48] Попытка 1 для: Zelensky discusses Russian attacks, air 
-[2026-10-11 05:04:52] Успешно, получено 1518 символов
-[2026-10-11 05:04:55] Пауза 60 секунд...
-[2026-10-11 05:05:55] sent_urls.txt обрезан: 306 -> 300
-[2026-10-11 05:05:55] === Блок morning завершён ===
-[2026-10-11 07:01:01] Загружено 300 уже отправленных новостей
-[2026-10-11 07:01:01] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-11 07:01:01] Неизвестный источник (travelandtourworld.com): Cape Town Drives October 2026 Tourism Mo
-[2026-10-11 07:01:01] Нет фото: Michael Hudson on the Oil Markets
-[2026-10-11 07:01:01] Неизвестный источник (financialpost.com): Sigenergy Unveils the Latest Energy Solu
-[2026-10-11 07:01:01] Неизвестный источник (lewrockwell.com): The Dead Don’t Die! Zombie Cells Don’t E
-[2026-10-11 07:01:01] Заблокированный источник (dailymail.com): Love Island Australia unveils 2026 cast 
-[2026-10-11 07:01:01] Неизвестный источник (livemint.com): Zetwerk eyes ₹27,000 crore IPO valuation
-[2026-10-11 07:01:01] Неизвестный источник (siliconangle.com): Warehouse robot maker Ultra Robotics bag
-[2026-10-11 07:01:01] Неизвестный источник (digitaljournal.com): Rishabh Singh is betting the road to AGI
-[2026-10-11 07:01:01] Неизвестный источник (cbc.ca): Halton police are turning to AI to help 
-[2026-10-11 07:01:01] Нет фото: Digital Gap Must Not Drive New Inequalit
 [2026-10-11 07:01:01] Неизвестный источник (pymnts.com): 2 Years of SDNY FinCrime Cases Show New 
 [2026-10-11 07:01:01] Неизвестный источник (siliconangle.com): Jev creator TypeSafe closes $870M round 
 [2026-10-11 07:01:01] Неизвестный источник (deadline.com): Indies Flex As ‘Musk’ Doc, Chris Rock’s 
@@ -2998,3 +2955,46 @@
 [2026-10-17 07:03:34] Пауза 60 секунд...
 [2026-10-17 07:04:35] sent_urls.txt обрезан: 304 -> 300
 [2026-10-17 07:04:35] === Блок ai_morning завершён ===
+[2026-10-17 10:01:05] Загружено 300 уже отправленных новостей
+[2026-10-17 10:01:05] === Запуск блока: midday (тест: False) ===
+[2026-10-17 10:01:05] Неизвестный источник (espn.com): Dodgers tip cap to Brewers as title reig
+[2026-10-17 10:01:05] Неизвестный источник (fool.com): Lenders Are Getting Nervous About CoreWe
+[2026-10-17 10:01:05] Неизвестный источник (mlb.com): Brewers end Dodgers' three-peat bid with
+[2026-10-17 10:01:05] Неизвестный источник (tvinsider.com): ‘Special Forces’: Collin Gosselin Chokes
+[2026-10-17 10:01:05] Неизвестный источник (variety.com): Why Did Netflix Boot Bela Bajaria? - Var
+[2026-10-17 10:01:05] Неизвестный источник (foxnews.com): 'Oh, shut up!': Democrat snaps at Collin
+[2026-10-17 10:01:05] Неизвестный источник (variety.com): Olivia Rodrigo and Chappell Roan Team fo
+[2026-10-17 10:01:05] Неизвестный источник (deadline.com): Anna Faris Was “Hurt” By Chuck Lorre’s C
+[2026-10-17 10:01:05] Неизвестный источник (texastribune.org): Elon Musk gave $158 million to Senate GO
+[2026-10-17 10:01:05] Неизвестный источник (cbssports.com): Dak Prescott delivers message to NFL pla
+[2026-10-17 10:01:05] Заблокированный источник (sports.yahoo.com): College Football Playoff reportedly near
+[2026-10-17 10:01:05] Неизвестный источник (startribune.com): Measles cases reach 42 in rural Minnesot
+[2026-10-17 10:01:05] Неизвестный источник (mediaite.com): ‘He’s a Cabinet Secretary!’ Reporter Sna
+[2026-10-17 10:01:05] Неизвестный источник (9to5google.com): Google updates Android earthquake alerts
+[2026-10-17 10:01:05] Неизвестный источник (rollingstone.com): Kelly Clarkson Selling Bird-Themed Decor
+[2026-10-17 10:01:05] Неизвестный источник (usatoday.com): NASA-backed mission aims to land on Mars
+[2026-10-17 10:01:05] Неизвестный источник (pbs.org): What is adenocarcinoma? Here's what to k
+[2026-10-17 10:01:05] Старая новость (2026-10-15T09:36:18Z): Scientists find Doomsday Glacier is melt
+[2026-10-17 10:01:05] Старая новость (2026-10-15T04:07:04Z): Watch SpaceX deliver more than 6,000 pou
+[2026-10-17 10:01:05] Мировые новости: найдено 10 после фильтрации
+[2026-10-17 10:01:07] Редакторский отбор: выбраны позиции [3, 9, 7, 1]
+[2026-10-17 10:01:07] Обрабатываю: Houthi missile attack on Yemeni presidential palace kills fi | https://www.bbc.com/news/articles/cm62y6lp73zdo
+[2026-10-17 10:01:08] Полный текст получен (3000 символов)
+[2026-10-17 10:01:08] Попытка 1 для: Houthi missile attack on Yemeni presiden
+[2026-10-17 10:01:10] Успешно, получено 1529 символов
+[2026-10-17 10:01:10] Обрабатываю: School roof collapse in Pakistan kills at least 35 and injur | https://apnews.com/article/pakistan-school-roof-collapse-peshawar-c0be
+[2026-10-17 10:01:10] Попытка 1 для: School roof collapse in Pakistan kills a
+[2026-10-17 10:01:12] Успешно, получено 1012 символов
+[2026-10-17 10:01:12] Обрабатываю: Microplastics in water aren’t inert and make damaging chemic | https://arstechnica.com/science/2026/10/microplastics-in-water-arent-i
+[2026-10-17 10:01:13] Полный текст получен (3000 символов)
+[2026-10-17 10:01:13] Попытка 1 для: Microplastics in water aren’t inert and 
+[2026-10-17 10:01:15] Успешно, получено 1640 символов
+[2026-10-17 10:01:15] Обрабатываю: Katie Zacharia confirms she didn’t pass the bar exam | https://www.washingtonpost.com/business/2026/10/15/press-secretary-kat
+[2026-10-17 10:01:27] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/business/2026/10/15/press-sec
+[2026-10-17 10:01:27] Попытка 1 для: Katie Zacharia confirms she didn’t pass 
+[2026-10-17 10:01:29] Успешно, получено 939 символов
+[2026-10-17 10:01:32] Пауза 60 секунд...
+[2026-10-17 10:02:32] Пауза 60 секунд...
+[2026-10-17 10:03:33] Пауза 60 секунд...
+[2026-10-17 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-17 10:04:33] === Блок midday завершён ===
