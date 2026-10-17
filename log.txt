@@ -1,99 +1,3 @@
-[2026-10-10 15:01:18] Харьков: новостей не найдено
-[2026-10-10 15:01:18] Обрабатываю: Astronomers pinpoint the origin of a 10 billion-year-old mil | https://theconversation.com/astronomers-pinpoint-the-origin-of-a-10-bi
-[2026-10-10 15:01:18] Полный текст получен (3000 символов)
-[2026-10-10 15:01:18] Попытка 1 для: Astronomers pinpoint the origin of a 10 
-[2026-10-10 15:01:20] Успешно, получено 1776 символов
-[2026-10-10 15:01:20] Обрабатываю: Ex-German Chancellor Schröder attends Putin's birthday bash | https://www.dw.com/en/ex-german-chancellor-schr%C3%B6der-attends-putin
-[2026-10-10 15:01:24] Полный текст получен (2064 символов)
-[2026-10-10 15:01:24] Попытка 1 для: Ex-German Chancellor Schröder attends Pu
-[2026-10-10 15:01:27] Успешно, получено 1499 символов
-[2026-10-10 15:01:27] Обрабатываю: Aircraft carrier USS Abraham Lincoln returns home after grue | https://www.washingtonpost.com/national-security/2026/10/08/aircraft-c
-[2026-10-10 15:01:39] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/national-security/2026/10/08/
-[2026-10-10 15:01:39] Попытка 1 для: Aircraft carrier USS Abraham Lincoln ret
-[2026-10-10 15:01:41] Успешно, получено 1002 символов
-[2026-10-10 15:01:41] Обрабатываю: ICE officer shoots a man while making an arrest in New York, | https://apnews.com/article/new-york-shooting-federal-agents-c0fd349ab7
-[2026-10-10 15:01:42] Попытка 1 для: ICE officer shoots a man while making an
-[2026-10-10 15:01:44] Успешно, получено 1068 символов
-[2026-10-10 15:01:47] Пауза 60 секунд...
-[2026-10-10 15:02:48] Пауза 60 секунд...
-[2026-10-10 15:03:49] Пауза 60 секунд...
-[2026-10-10 15:04:49] Обрабатываю: Death toll from Russian airstrike on Zaporizhzhia rises to 1 | https://www.ukrinform.net/rubric-ato/4173043-death-toll-from-russian-a
-[2026-10-10 15:04:50] Полный текст получен (887 символов)
-[2026-10-10 15:04:50] Попытка 1 для: Death toll from Russian airstrike on Zap
-[2026-10-10 15:04:53] Успешно, получено 1253 символов
-[2026-10-10 15:04:53] Обрабатываю: Ukrainian forces destroy over 4,700 Russian aerial targets i | https://www.ukrinform.net/rubric-ato/4172972-ukrainian-forces-destroy-
-[2026-10-10 15:04:54] Полный текст получен (1100 символов)
-[2026-10-10 15:04:54] Попытка 1 для: Ukrainian forces destroy over 4,700 Russ
-[2026-10-10 15:04:57] Успешно, получено 1490 символов
-[2026-10-10 15:05:00] Пауза 60 секунд...
-[2026-10-10 15:06:01] sent_urls.txt обрезан: 306 -> 300
-[2026-10-10 15:06:01] === Блок evening завершён ===
-[2026-10-10 17:01:06] Загружено 300 уже отправленных новостей
-[2026-10-10 17:01:06] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-10 17:01:06] Неизвестный источник (consequence.net): Stream On This Week: A Fun Legal Drama B
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: With 'The Social Reckoning,' Aaron Sorkin makes Ma
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: Remember Orkut? Its founder wants to bring it back
-[2026-10-10 17:01:06] Неизвестный источник (activistpost.com): AI Data Centers’ Growing Air Pollution T
-[2026-10-10 17:01:06] Неизвестный источник (rawstory.com): 'You hear that alarm?' ICE lockup's deni
-[2026-10-10 17:01:06] Заблокированный источник (prnewswire.com): EWTN Announces Ursula Murua as President
-[2026-10-10 17:01:06] Неизвестный источник (rawstory.com): Rivals smell blood as GOP pick to run el
-[2026-10-10 17:01:06] Неизвестный источник (ewtnnews.com): EWTN names Ursula Murua to succeed Monts
-[2026-10-10 17:01:06] Нет фото: ZenaTech Unveils Stacklens™, AI-Powered 
-[2026-10-10 17:01:06] Неизвестный источник (brobible.com): Instagram Apologizes For Glitch That Mad
-[2026-10-10 17:01:06] Неизвестный источник (forkast.news): Google’s Gemini Agent Launch Signals a C
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): OpenAI revenue falls short, models play 
-[2026-10-10 17:01:06] Неизвестный источник (proofsandprompts.com): Human-AI Relations: Our Most Precious In
-[2026-10-10 17:01:06] Неизвестный источник (journals.plos.org): Geospatial suitability of cacao in Amazo
-[2026-10-10 17:01:06] Неизвестный источник (journals.plos.org): Hybrid RBF neural network–based sliding 
-[2026-10-10 17:01:06] Неизвестный источник (journals.plos.org): An urban patrol case urgency classificat
-[2026-10-10 17:01:06] Неизвестный источник (journals.plos.org): Integrating large language model-generat
-[2026-10-10 17:01:06] Неизвестный источник (journals.plos.org): Predicting unplanned readmissions in neu
-[2026-10-10 17:01:06] Неизвестный источник (singularityhub.com): We’ve Always Copied Nature. Now We Can S
-[2026-10-10 17:01:06] Неизвестный источник (cointelegraph.com): Dragonfly partner rejects ‘bunker mode’ 
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: Wall Street is pitching data centers as a major re
-[2026-10-10 17:01:06] Неизвестный источник (globalresearch.ca): Saving Civilization Before Our Own  Beli
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): Caloroga Media launches Linnet, an AI-as
-[2026-10-10 17:01:06] Неизвестный источник (wwd.com): Zalando Expands Robotics Arsenal to Retu
-[2026-10-10 17:01:06] Заблокированный источник (prnewswire.com): GUDEA Closes Oversubscribed $7 Million S
-[2026-10-10 17:01:06] Неизвестный источник (themusicninja.com): AI Music Streaming Fraudster Sentenced t
-[2026-10-10 17:01:06] Нет фото: CLPS Incorporation to Announce Second Ha
-[2026-10-10 17:01:06] Неизвестный источник (cryptobriefing.com): Cardano Foundation partners with Univers
-[2026-10-10 17:01:06] Неизвестный источник (financialpost.com): Posthaste: Data centre anger is boiling 
-[2026-10-10 17:01:06] Неизвестный источник (zycrypto.com): Vitalik Buterin Sounds Warning on AI as 
-[2026-10-10 17:01:06] Неизвестный источник (foxnews.com): 16-year-old allegedly led ransomware gan
-[2026-10-10 17:01:06] Неизвестный источник (gov.uk): UK-Japan science and technology Joint Co
-[2026-10-10 17:01:06] Заблокированный источник (prnewswire.com): Protiviti Earns Three Seramount Recognit
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: At the movies, tech founders like Mark Zuckerberg 
-[2026-10-10 17:01:06] Неизвестный источник (naftemporiki.gr): Shield AI and GEK TERNA sign strategic a
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: From Zuck to Musk: Big Tech’s Scandals and Scammer
-[2026-10-10 17:01:06] Неизвестный источник (kffhealthnews.org): AI, Tech Leaders Are Lobbying Trump Heal
-[2026-10-10 17:01:06] Неизвестный источник (warontherocks.com): The Last Mile of Pentagon Reform Runs Th
-[2026-10-10 17:01:06] Неизвестный источник (searchenginejournal.com): Claude’s New Rules Target Fake Sources B
-[2026-10-10 17:01:06] Неизвестный источник (cbc.ca): The Social Reckoning is not only not as 
-[2026-10-10 17:01:06] Неизвестный источник (business-standard.com): Global data breaches expose 320 million 
-[2026-10-10 17:01:06] Неизвестный источник (rte.ie): OpenAI revenue gap report rattles AI sto
-[2026-10-10 17:01:06] Неизвестный источник (asiatimes.com): Mind games: AI behaves more like a brain
-[2026-10-10 17:01:06] Неизвестный источник (hurriyetdailynews.com): OpenAI revenue gap sparks fresh scrutiny
-[2026-10-10 17:01:06] Неизвестный источник (english.khabarhub.com): The Changing Face of Chinese Espionage S
-[2026-10-10 17:01:06] Неизвестный источник (insurancejournal.com): A Timeline of Developments in AI Safety 
-[2026-10-10 17:01:06] Неизвестный источник (punchng.com): AI learning platform expands across Sub-
-[2026-10-10 17:01:06] Нет фото: Artificial symbiotic intelligence - a fu
-[2026-10-10 17:01:06] Неизвестный источник (en.protothema.gr): The new Middle East (Anna–Karvelas) is h
-[2026-10-10 17:01:06] Неизвестный источник (profootballnetwork.com): ‘Unlike Any Other Atmosphere,’ ‘We Do Mo
-[2026-10-10 17:01:06] Неизвестный источник (punchng.com): FG to deploy 90,000km fibre across Niger
-[2026-10-10 17:01:06] Неизвестный источник (activistpost.com): Psychological Operation
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): AI stocks crumble on report that OpenAI’
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): Gallatin AI raises $50M in funding for i
-[2026-10-10 17:01:06] Нет фото: QLFL: quantum-enabled lightweight federa
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): Elastic’s AlertZero puts AI agents to wo
-[2026-10-10 17:01:06] Неизвестный источник (siliconangle.com): Anthropic launches critical infrastructu
-[2026-10-10 17:01:06] AI новости: 1 с доверенных источников
-[2026-10-10 17:01:06] Доверенных AI-источников мало, добираю из остальных
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: Stream On This Week: A Fun Legal Drama Battles Sil
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: With 'The Social Reckoning,' Aaron Sorkin makes Ma
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: Remember Orkut? Its founder wants to bring it back
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: AI Data Centers’ Growing Air Pollution Threatens C
-[2026-10-10 17:01:06] Не про ИИ, пропускаю: 'You hear that alarm?' ICE lockup's denial unravel
 [2026-10-10 17:01:06] Заблокированный источник (prnewswire.com): EWTN Announces Ursula Murua as President
 [2026-10-10 17:01:06] Не про ИИ, пропускаю: Rivals smell blood as GOP pick to run elections hi
 [2026-10-10 17:01:06] Не про ИИ, пропускаю: EWTN names Ursula Murua to succeed Montse Alvarado
@@ -2998,3 +2902,99 @@
 [2026-10-16 17:03:37] Пауза 60 секунд...
 [2026-10-16 17:04:38] sent_urls.txt обрезан: 304 -> 300
 [2026-10-16 17:04:38] === Блок ai_evening завершён ===
+[2026-10-17 05:01:06] Загружено 300 уже отправленных новостей
+[2026-10-17 05:01:06] === Запуск блока: morning (тест: False) ===
+[2026-10-17 05:01:06] Неизвестный источник (cbssports.com): Who's to blame for Dodgers' shocking NLC
+[2026-10-17 05:01:06] Спорт, пропускаю: Brewers sweep Dodgers to reach World Ser
+[2026-10-17 05:01:06] Неизвестный источник (pagesix.com): Jon Gosselin speaks out in defense of so
+[2026-10-17 05:01:06] Неизвестный источник (variety.com): Why Did Netflix Boot Bela Bajaria? - Var
+[2026-10-17 05:01:06] Неизвестный источник (opb.org): Live updates: 3 children among dead in B
+[2026-10-17 05:01:06] Неизвестный источник (fieldgulls.com): Seahawks vs. Broncos, ‘Thursday Night Fo
+[2026-10-17 05:01:06] Заблокированный источник (sports.yahoo.com): College Football Playoff reportedly near
+[2026-10-17 05:01:06] Неизвестный источник (startribune.com): Measles cases reach 42 in rural Minnesot
+[2026-10-17 05:01:06] Неизвестный источник (sciencealert.com): One Common Eating Habit Is Linked to Hig
+[2026-10-17 05:01:06] Неизвестный источник (staradvertiser.com): U.S. producer prices post biggest gain i
+[2026-10-17 05:01:06] Неизвестный источник (9to5google.com): Google updates Android earthquake alerts
+[2026-10-17 05:01:06] Неизвестный источник (pitchfork.com): Justice Composed the Score for Grand The
+[2026-10-17 05:01:06] Неизвестный источник (nbcchicago.com): Details emerge as ‘brave individual' hel
+[2026-10-17 05:01:06] Неизвестный источник (hollywoodreporter.com): Why Did Pablo Torre Want to Investigate 
+[2026-10-17 05:01:06] Неизвестный источник (usatoday.com): NASA-backed mission aims to land on Mars
+[2026-10-17 05:01:06] Неизвестный источник (pbs.org): What is adenocarcinoma? Here's what to k
+[2026-10-17 05:01:06] Старая новость (2026-10-15T04:07:04Z): Watch SpaceX deliver more than 6,000 pou
+[2026-10-17 05:01:06] Старая новость (2026-10-14T16:02:05Z): With AI platform, patients could chat wi
+[2026-10-17 05:01:06] Мировые новости: найдено 12 после фильтрации
+[2026-10-17 05:01:07] Редакторский отбор: выбраны позиции [2, 1, 5, 8]
+[2026-10-17 05:01:08] RSS Ukrinform: 30 записей
+[2026-10-17 05:01:09] RSS Ukrinform: 30 записей
+[2026-10-17 05:01:09] Пропускаю уже отправленную: Russian strike on Kharkiv market leaves two killed
+[2026-10-17 05:01:09] RSS Euromaidan Press: 29 записей
+[2026-10-17 05:01:09] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-10-17 05:01:09] Заблокированный источник (dailymail.com): Britain is stuck in a tax 'doom loop' wa
+[2026-10-17 05:01:09] Заблокированный источник (biztoc.com): Russia downs 35 drones heading for Mosco
+[2026-10-17 05:01:09] Заблокированный источник (sputnikglobe.com): Starshield Restriction Order Comes From 
+[2026-10-17 05:01:09] Заблокированный источник (sputnikglobe.com): Trump Tears Into Zelensky Over Peace Tal
+[2026-10-17 05:01:09] Нет фото: Ukraine critically low on Patriot interc
+[2026-10-17 05:01:09] Заблокированный источник (nypost.com): Help Ukraine — and save the lives of inn
+[2026-10-17 05:01:09] Заблокированный источник (biztoc.com): Russia returns to G20 table in Bangkok o
+[2026-10-17 05:01:09] Спорт, пропускаю: Every player from Alabama to play for th
+[2026-10-17 05:01:09] Внутренний дубль: Family with infant injured in morning airstrike in
+[2026-10-17 05:01:09] Внутренний дубль: Zaporizhzhia hit by several missile strikes, homes
+[2026-10-17 05:01:09] Внутренний дубль: Ukraine opens first asbestos testing lab to analyz
+[2026-10-17 05:01:09] Внутренний дубль: Ukraine awaiting Pentagon and SpaceX confirmation 
+[2026-10-17 05:01:09] Внутренний дубль: Russian attack damages homes in Kharkiv, over 100 
+[2026-10-17 05:01:09] Внутренний дубль: Russian forces strike energy facility in Ternopil 
+[2026-10-17 05:01:09] Внутренний дубль: Russia’s Ryazan oil refinery shuts down key proces
+[2026-10-17 05:01:09] Внутренний дубль: Ukraine’s air defenses down 253 Russian drones, ni
+[2026-10-17 05:01:09] Внутренний дубль: Sweden to provide Ukraine with over USD 52M ahead 
+[2026-10-17 05:01:09] Внутренний дубль: Russian strike hits customs terminal in Kovel, set
+[2026-10-17 05:01:09] Внутренний дубль: Bridge used by Russian forces for military logisti
+[2026-10-17 05:01:09] Внутренний дубль: Media reports: Drones strike one of Russia's large
+[2026-10-17 05:01:09] Внутренний дубль: Media reports: Drones strike one of Russia's large
+[2026-10-17 05:01:09] Внутренний дубль: Zelensky explains how Ukraine uses Starlink to int
+[2026-10-17 05:01:09] Внутренний дубль: Romania finally holds Russia responsible for the d
+[2026-10-17 05:01:09] Внутренний дубль: Ukraine strikes on Russia refineries 'a disgrace' 
+[2026-10-17 05:01:09] Украинские новости: найдено 82 после фильтрации
+[2026-10-17 05:01:11] Редакторский отбор: выбраны позиции [15, 9]
+[2026-10-17 05:01:11] NewsAPI (Харьков, все издания): пришло 8 статей
+[2026-10-17 05:01:12] RSS Ukrinform: 30 записей
+[2026-10-17 05:01:13] RSS Ukrinform: 30 записей
+[2026-10-17 05:01:13] RSS Euromaidan Press: 29 записей
+[2026-10-17 05:01:13] Нет фото: Exclusive: Ukraine runs out of Patriot i
+[2026-10-17 05:01:13] Заблокированный источник (dailymail.com): ANDY JEHRING: My night with elite Ukrain
+[2026-10-17 05:01:13] Заблокированный источник (dailymail.com): Don't abandon Ukraine, Wes Streeting tel
+[2026-10-17 05:01:13] Заблокированный источник (sputnikglobe.com): Russia Liberates Nefedovka, Chernoye in 
+[2026-10-17 05:01:13] Пропускаю уже отправленную: Russian strike on Kharkiv market leaves two killed
+[2026-10-17 05:01:13] Внутренний дубль: Russian attack damages homes in Kharkiv, over 100 
+[2026-10-17 05:01:13] Харьков: найдена новость: Russian attack damages homes in Kharkiv, over 100 
+[2026-10-17 05:01:13] Обрабатываю: Ukraine abandons truce and attacks Russian oil refinery as Z | https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-res
+[2026-10-17 05:01:13] Попытка 1 для: Ukraine abandons truce and attacks Russi
+[2026-10-17 05:01:15] Успешно, получено 782 символов
+[2026-10-17 05:01:15] Обрабатываю: Justice Dept. sues California officials over 20K alleged non | https://www.washingtonpost.com/politics/2026/10/15/justice-dept-sues-c
+[2026-10-17 05:01:27] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/15/justice-d
+[2026-10-17 05:01:27] Попытка 1 для: Justice Dept. sues California officials 
+[2026-10-17 05:01:29] Успешно, получено 975 символов
+[2026-10-17 05:01:29] Обрабатываю: Authorities investigate letters with 'suspicious substances' | https://apnews.com/article/fbi-postal-service-letters-suspicious-subst
+[2026-10-17 05:01:29] Попытка 1 для: Authorities investigate letters with 'su
+[2026-10-17 05:01:31] Успешно, получено 952 символов
+[2026-10-17 05:01:31] Обрабатываю: Rubio urges Lebanon to resist Hezbollah pressure over seized | https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-r
+[2026-10-17 05:01:31] Попытка 1 для: Rubio urges Lebanon to resist Hezbollah 
+[2026-10-17 05:01:34] Успешно, получено 941 символов
+[2026-10-17 05:01:37] Пауза 60 секунд...
+[2026-10-17 05:02:37] Пауза 60 секунд...
+[2026-10-17 05:03:38] Пауза 60 секунд...
+[2026-10-17 05:04:38] Обрабатываю: Belgium to deliver 10 F-16 fighter jets to Ukraine this year | https://www.ukrinform.net/rubric-defense/4175282-belgium-to-deliver-10
+[2026-10-17 05:04:39] Полный текст получен (1918 символов)
+[2026-10-17 05:04:39] Попытка 1 для: Belgium to deliver 10 F-16 fighter jets 
+[2026-10-17 05:04:42] Успешно, получено 1332 символов
+[2026-10-17 05:04:42] Обрабатываю: Only 42% of schools in Ukraine can continue classes during a | https://www.ukrinform.net/rubric-society/4175058-only-42-of-schools-in
+[2026-10-17 05:04:43] Полный текст получен (2098 символов)
+[2026-10-17 05:04:43] Попытка 1 для: Only 42% of schools in Ukraine can conti
+[2026-10-17 05:04:46] Успешно, получено 1738 символов
+[2026-10-17 05:04:46] Обрабатываю: Russian attack damages homes in Kharkiv, over 100 windows sh | https://www.ukrinform.net/rubric-ato/4175294-russian-attack-damages-ho
+[2026-10-17 05:04:47] Полный текст получен (760 символов)
+[2026-10-17 05:04:47] Попытка 1 для: Russian attack damages homes in Kharkiv,
+[2026-10-17 05:04:50] Успешно, получено 952 символов
+[2026-10-17 05:04:53] Пауза 60 секунд...
+[2026-10-17 05:05:53] Пауза 60 секунд...
+[2026-10-17 05:06:54] sent_urls.txt обрезан: 307 -> 300
+[2026-10-17 05:06:54] === Блок morning завершён ===
