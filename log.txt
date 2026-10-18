@@ -1,86 +1,3 @@
-[2026-10-12 15:01:17] Внутренний дубль: Ukraine reports 264 frontline clashes in past 24 h
-[2026-10-12 15:01:17] Внутренний дубль: Russian forces attack Dnipropetrovsk region more t
-[2026-10-12 15:01:17] Внутренний дубль: Russian strikes damage homes, warehouses and port 
-[2026-10-12 15:01:17] Внутренний дубль: Russian Banderol strike on Izium overnight injures
-[2026-10-12 15:01:17] Внутренний дубль: Russian forces lose another 1,470 soldiers and two
-[2026-10-12 15:01:17] Внутренний дубль: Downed Shahed drones and recovered Western microel
-[2026-10-12 15:01:17] Внутренний дубль: Ukrainian forces destroy two Russian boats with pe
-[2026-10-12 15:01:17] Внутренний дубль: Search and rescue operations completed at site of 
-[2026-10-12 15:01:17] Внутренний дубль: Warhead of Russian ballistic missile recovered amo
-[2026-10-12 15:01:17] Внутренний дубль: Russia hits Ukraine power plants despite Trump ene
-[2026-10-12 15:01:17] Внутренний дубль: Trump announces immediate energy ceasefire between
-[2026-10-12 15:01:17] Внутренний дубль: Trump claims Russia and Ukraine agreed to 'energy 
-[2026-10-12 15:01:17] Внутренний дубль: Trump says Ukraine and Russia have agreed 'energy 
-[2026-10-12 15:01:17] Внутренний дубль: Russia and Ukraine agree to energy ceasefire – Tru
-[2026-10-12 15:01:17] Внутренний дубль: Trump announces 'energy ceasefire' between Russia 
-[2026-10-12 15:01:17] Украинские новости: найдено 76 после фильтрации
-[2026-10-12 15:01:19] Редакторский отбор: выбраны позиции [8, 13]
-[2026-10-12 15:01:19] NewsAPI (Харьков, все издания): пришло 11 статей
-[2026-10-12 15:01:20] RSS Ukrinform: 30 записей
-[2026-10-12 15:01:21] RSS Ukrinform: 30 записей
-[2026-10-12 15:01:22] RSS Euromaidan Press: 29 записей
-[2026-10-12 15:01:22] Заблокированный источник (nypost.com): Russia, Ukraine reach energy cease-fire 
-[2026-10-12 15:01:22] Заблокированный источник (sputnikglobe.com): Russian Army Liberates 4 Settlements in 
-[2026-10-12 15:01:22] Нет фото: DEAL OF THE YEAR: US–Russia Diesel Deal 
-[2026-10-12 15:01:22] Пропускаю уже отправленную: Russian missile strike on Kharkiv suburbs: Three d
-[2026-10-12 15:01:22] Внутренний дубль: Russia targets residential buildings and energy in
-[2026-10-12 15:01:22] Внутренний дубль: Russian UAV strike hits high-rise building in Khar
-[2026-10-12 15:01:22] Внутренний дубль: Russian Banderol strike on Izium overnight injures
-[2026-10-12 15:01:22] Харьков: найдена новость: Russia targets residential buildings and energy in
-[2026-10-12 15:01:22] Обрабатываю: Taiz hospitals near collapse as Houthis tighten siege: Yemen | https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse
-[2026-10-12 15:01:22] Полный текст получен (3000 символов)
-[2026-10-12 15:01:22] Попытка 1 для: Taiz hospitals near collapse as Houthis 
-[2026-10-12 15:01:26] Успешно, получено 1849 символов
-[2026-10-12 15:01:26] Обрабатываю: Kyiv pushes back on Trump’s call for a new Ukrainian preside | https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f
-[2026-10-12 15:01:26] Попытка 1 для: Kyiv pushes back on Trump’s call for a n
-[2026-10-12 15:01:29] Успешно, получено 951 символов
-[2026-10-12 15:01:29] Обрабатываю: Pope Leo to have surgery after lump found on lung | https://www.bbc.com/news/articles/c6m2dnngvw8xo
-[2026-10-12 15:01:29] Полный текст получен (2448 символов)
-[2026-10-12 15:01:29] Попытка 1 для: Pope Leo to have surgery after lump foun
-[2026-10-12 15:01:32] Успешно, получено 1607 символов
-[2026-10-12 15:01:32] Обрабатываю: Storm Isaias leaves 4 dead, thousands without power as it mo | https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-so
-[2026-10-12 15:01:32] Полный текст получен (2226 символов)
-[2026-10-12 15:01:32] Попытка 1 для: Storm Isaias leaves 4 dead, thousands wi
-[2026-10-12 15:01:53] Успешно, получено 1599 символов
-[2026-10-12 15:01:56] Пауза 60 секунд...
-[2026-10-12 15:02:57] Пауза 60 секунд...
-[2026-10-12 15:03:57] Пауза 60 секунд...
-[2026-10-12 15:04:58] Обрабатываю: Zelensky: Ready to work with Rada on election solutions if f | https://www.ukrinform.net/rubric-polytics/4173570-zelensky-ready-to-wo
-[2026-10-12 15:04:59] Полный текст получен (2333 символов)
-[2026-10-12 15:04:59] Попытка 1 для: Zelensky: Ready to work with Rada on ele
-[2026-10-12 15:05:01] Успешно, получено 1553 символов
-[2026-10-12 15:05:01] Обрабатываю: Government defers UAH 39 bln in payments to year end — March | https://www.ukrinform.net/rubric-economy/4173508-government-defers-uah
-[2026-10-12 15:05:03] Полный текст получен (1451 символов)
-[2026-10-12 15:05:03] Попытка 1 для: Government defers UAH 39 bln in payments
-[2026-10-12 15:05:04] Успешно, получено 1566 символов
-[2026-10-12 15:05:07] Пауза 60 секунд...
-[2026-10-12 15:06:08] sent_urls.txt обрезан: 306 -> 300
-[2026-10-12 15:06:08] === Блок evening завершён ===
-[2026-10-12 17:01:06] Загружено 300 уже отправленных новостей
-[2026-10-12 17:01:06] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-12 17:01:06] Неизвестный источник (asheradeniyi.com): How to Build Wealth as a Career Person
-[2026-10-12 17:01:06] Неизвестный источник (deadline.com): ‘Resident Evil’ Rises To Top Of Global B
-[2026-10-12 17:01:06] Неизвестный источник (makeuseof.com): I stopped paying for privacy after findi
-[2026-10-12 17:01:06] Неизвестный источник (economictimes.indiatimes.com): IIT tag, 20 years of experience yet he c
-[2026-10-12 17:01:06] Неизвестный источник (business-standard.com): AI is powering telecom, not just satelli
-[2026-10-12 17:01:06] Нет фото: simpliml 1.5.0
-[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
-[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
-[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
-[2026-10-12 17:01:06] Неизвестный источник (itnews.com.au): Anthropic discloses fake tip to police a
-[2026-10-12 17:01:06] Неизвестный источник (indiewire.com): ‘The Social Reckoning’ Bombs With $5.5 M
-[2026-10-12 17:01:06] Не про ИИ, пропускаю: Transcript: Shyam Sankar, chief technology officer
-[2026-10-12 17:01:06] Нет фото: abcopt added to PyPI
-[2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): The hidden tax on enterprise AI: Why dat
-[2026-10-12 17:01:06] Неизвестный источник (pagesix.com): ‘Artificial’ star Ike Barinholtz jokes a
-[2026-10-12 17:01:06] Неизвестный источник (cryptobriefing.com): Vitalik Buterin says AI could accelerate
-[2026-10-12 17:01:06] Неизвестный источник (business-standard.com): Guardrails key to unlocking AI gains for
-[2026-10-12 17:01:06] Неизвестный источник (economictimes.indiatimes.com): Airtel Business CEO backs AI regulation,
-[2026-10-12 17:01:06] Нет фото: How many acres do bison need?
-[2026-10-12 17:01:06] Неизвестный источник (abc.net.au): Pregnant woman among eight killed in Pen
-[2026-10-12 17:01:06] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
-[2026-10-12 17:01:06] Неизвестный источник (huffpost.com): ‘Musk’ Documentary Suggests DOGE’s Real 
-[2026-10-12 17:01:06] Нет фото: donger-py added to PyPI
 [2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): What to expect during the AI Data Pipeli
 [2026-10-12 17:01:06] Неизвестный источник (cbc.ca): Children, pregnant woman among 9 dead in
 [2026-10-12 17:01:06] Неизвестный источник (siliconangle.com): AI reshapes professional services around
@@ -2998,3 +2915,86 @@
 [2026-10-18 15:05:59] Пауза 60 секунд...
 [2026-10-18 15:07:00] sent_urls.txt обрезан: 307 -> 300
 [2026-10-18 15:07:00] === Блок evening завершён ===
+[2026-10-18 17:01:06] Загружено 300 уже отправленных новостей
+[2026-10-18 17:01:06] === Запуск блока: ai_evening (тест: False) ===
+[2026-10-18 17:01:06] Неизвестный источник (business-standard.com): India's internal security landscape chan
+[2026-10-18 17:01:06] Неизвестный источник (foxnews.com): BROADCAST BIAS: Feminist freakout over S
+[2026-10-18 17:01:06] Нет фото: JinkoSolar Unveils Tiger Neo 5.0 All-Bla
+[2026-10-18 17:01:06] Неизвестный источник (economictimes.indiatimes.com): One last bittersweet pitch for HDFC Bank
+[2026-10-18 17:01:06] Неизвестный источник (cryptobriefing.com): China positioned to lead AI deployment i
+[2026-10-18 17:01:06] Неизвестный источник (cbc.ca): Can AI be regulated? Why experts say gov
+[2026-10-18 17:01:06] Неизвестный источник (economictimes.indiatimes.com): India's internal security landscape has 
+[2026-10-18 17:01:06] Неизвестный источник (thehindubusinessline.com): India's internal security landscape has 
+[2026-10-18 17:01:06] Неизвестный источник (economictimes.indiatimes.com): Jio IPO’s grey market hints at 20% listi
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.16
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.15
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.14
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: A village revolts against a data centre: ‘Who want
+[2026-10-18 17:01:06] Неизвестный источник (ecb.europa.eu): Christine Lagarde: IMFC Statement
+[2026-10-18 17:01:06] Неизвестный источник (en.antaranews.com): YCYW Global Campuses Celebrate 2026 Foun
+[2026-10-18 17:01:06] Неизвестный источник (economictimes.indiatimes.com): From shareholders to partners: How Googl
+[2026-10-18 17:01:06] Неизвестный источник (en.antaranews.com): Finance Minister Guides Press Through QS
+[2026-10-18 17:01:06] Неизвестный источник (siliconangle.com): Microsoft reveals cutting-edge MAI-Base-
+[2026-10-18 17:01:06] Неизвестный источник (bleedingcool.com): Wonder Woman #38 Preview: Amazons Lock D
+[2026-10-18 17:01:06] Неизвестный источник (pymnts.com): Acorns Acquires Frich to Scale Financial
+[2026-10-18 17:01:06] Неизвестный источник (zscaler.com): Ransomware at Machine Speed: How GenAI S
+[2026-10-18 17:01:06] Неизвестный источник (vulture.com): You Can See Everything Might Get Snubbed
+[2026-10-18 17:01:06] Неизвестный источник (thewrap.com): Hello Sunshine, Goodbye Cash
+[2026-10-18 17:01:06] Неизвестный источник (vetmed.wsu.edu): Public Health Newsletter – Fall 2026
+[2026-10-18 17:01:06] Неизвестный источник (bleedingcool.com): Absolute Flash #20 Preview: Wally Gets S
+[2026-10-18 17:01:06] Неизвестный источник (techradar.com): 32,768 cores and 74 petaflops: AMD’s mon
+[2026-10-18 17:01:06] Неизвестный источник (siliconangle.com): RapidCanvas raises $29M to develop custo
+[2026-10-18 17:01:06] Неизвестный источник (siliconangle.com): The agentic AI era is forcing security a
+[2026-10-18 17:01:06] Неизвестный источник (screenrant.com): A24's Ted Lasso Meets The Crown Replacem
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.13
+[2026-10-18 17:01:06] Неизвестный источник (spectrum.ieee.org): IEEE Offers More Services to Cities That
+[2026-10-18 17:01:06] Неизвестный источник (manilatimes.net): Google: CNN, others join AI news program
+[2026-10-18 17:01:06] AI новости: 0 с доверенных источников
+[2026-10-18 17:01:06] Доверенных AI-источников мало, добираю из остальных
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: India's internal security landscape changed irrevo
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: BROADCAST BIAS: Feminist freakout over Shane Gilli
+[2026-10-18 17:01:06] Нет фото: JinkoSolar Unveils Tiger Neo 5.0 All-Bla
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: One last bittersweet pitch for HDFC Bank as CEO Sa
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: India's internal security landscape has changed ir
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: India's internal security landscape has changed ir
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Jio IPO’s grey market hints at 20% listing pop. Wh
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.16
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.15
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.14
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: A village revolts against a data centre: ‘Who want
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Christine Lagarde: IMFC Statement
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: YCYW Global Campuses Celebrate 2026 Founder's Day:
+[2026-10-18 17:01:06] Пропускаю уже отправленную: From shareholders to partners: How Google and Meta
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Finance Minister Guides Press Through QSNCC Ahead 
+[2026-10-18 17:01:06] Пропускаю уже отправленную: Microsoft reveals cutting-edge MAI-Base-2 model wi
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Wonder Woman #38 Preview: Amazons Lock Down Themys
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Acorns Acquires Frich to Scale Financial Education
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Hello Sunshine, Goodbye Cash
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Public Health Newsletter – Fall 2026
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: Absolute Flash #20 Preview: Wally Gets Small
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: RapidCanvas raises $29M to develop custom AI appli
+[2026-10-18 17:01:06] Нет фото: mindupload 1.15.13
+[2026-10-18 17:01:06] Не про ИИ, пропускаю: IEEE Offers More Services to Cities That Want to B
+[2026-10-18 17:01:06] AI новости: 6 кандидатов после фильтрации
+[2026-10-18 17:01:08] Редакторский отбор: выбраны позиции [1, 2, 3, 5]
+[2026-10-18 17:01:08] Обрабатываю: China positioned to lead AI deployment in factories as Europ | https://cryptobriefing.com/china-leads-ai-factory-deployment-europe/
+[2026-10-18 17:01:08] Полный текст получен (2718 символов)
+[2026-10-18 17:01:08] Попытка 1 для: China positioned to lead AI deployment i
+[2026-10-18 17:01:11] Успешно, получено 1643 символов
+[2026-10-18 17:01:11] Обрабатываю: Can AI be regulated? Why experts say government intervention | https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483
+[2026-10-18 17:01:12] Полный текст получен (3000 символов)
+[2026-10-18 17:01:12] Попытка 1 для: Can AI be regulated? Why experts say gov
+[2026-10-18 17:01:15] Успешно, получено 1729 символов
+[2026-10-18 17:01:15] Обрабатываю: Ransomware at Machine Speed: How GenAI Shrinks the Path afte | https://www.zscaler.com/blogs/security-research/ransomware-machine-spe
+[2026-10-18 17:01:15] Полный текст получен (3000 символов)
+[2026-10-18 17:01:15] Попытка 1 для: Ransomware at Machine Speed: How GenAI S
+[2026-10-18 17:01:18] Успешно, получено 1624 символов
+[2026-10-18 17:01:18] Обрабатываю: The agentic AI era is forcing security and resilience into a | https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-secu
+[2026-10-18 17:01:19] Полный текст получен (3000 символов)
+[2026-10-18 17:01:19] Попытка 1 для: The agentic AI era is forcing security a
+[2026-10-18 17:01:32] Успешно, получено 1917 символов
+[2026-10-18 17:01:35] Пауза 60 секунд...
+[2026-10-18 17:02:36] Пауза 60 секунд...
+[2026-10-18 17:03:36] Пауза 60 секунд...
+[2026-10-18 17:04:37] sent_urls.txt обрезан: 304 -> 300
+[2026-10-18 17:04:37] === Блок ai_evening завершён ===
