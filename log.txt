@@ -1,35 +1,3 @@
-[2026-10-12 07:01:07] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-12 07:01:07] Неизвестный источник (abc.net.au): Pregnant woman among eight killed in Pen
-[2026-10-12 07:01:07] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
-[2026-10-12 07:01:07] Неизвестный источник (huffpost.com): ‘Musk’ Documentary Suggests DOGE’s Real 
-[2026-10-12 07:01:07] Нет фото: donger-py added to PyPI
-[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): What to expect during the AI Data Pipeli
-[2026-10-12 07:01:07] Неизвестный источник (cbc.ca): Children, pregnant woman among 9 dead in
-[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): AI reshapes professional services around
-[2026-10-12 07:01:07] Неизвестный источник (economictimes.indiatimes.com): AI can enhance 5G network performance by
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
-[2026-10-12 07:01:07] Неизвестный источник (abcnews.com): A timeline of developments in AI safety 
-[2026-10-12 07:01:07] Неизвестный источник (siliconangle.com): The AI control gap: Who gets to say ‘It’
-[2026-10-12 07:01:07] Неизвестный источник (opensecrets.org): Outside Groups Have Spent Nearly $2 Bill
-[2026-10-12 07:01:07] Неизвестный источник (economictimes.indiatimes.com): India Mobile Congress 2026 concludes wit
-[2026-10-12 07:01:07] Неизвестный источник (dealeraiguy.com): Toyota Just Admitted It's Marketing to R
-[2026-10-12 07:01:07] Неизвестный источник (proofsandprompts.com): The Difference We Are Optimising Away
-[2026-10-12 07:01:07] Неизвестный источник (ibtimes.com.au): OpenAI vs Anthropic vs Gemini vs Grok: W
-[2026-10-12 07:01:07] Неизвестный источник (ibtimes.com.au): Elon Musk Says SpaceX Could Be Worth Far
-[2026-10-12 07:01:07] Нет фото: CGTN: How China uses digital tech to emp
-[2026-10-12 07:01:07] Неизвестный источник (rte.ie): Anthropic AI model sent fake murder tip 
-[2026-10-12 07:01:07] Неизвестный источник (innovationbridge.info): UNICEF Femtech Ventures – Funding Opport
-[2026-10-12 07:01:07] Неизвестный источник (nymag.com): The Problem With Facebook Was Facebook
-[2026-10-12 07:01:07] AI новости: 1 с доверенных источников
-[2026-10-12 07:01:07] Доверенных AI-источников мало, добираю из остальных
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: Pregnant woman among eight killed in Pennsylvania 
-[2026-10-12 07:01:07] Заблокированный источник (dailymail.com): The simple quiz that will reveal if YOUR
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: ‘Musk’ Documentary Suggests DOGE’s Real Purpose Wa
-[2026-10-12 07:01:07] Нет фото: donger-py added to PyPI
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: Children, pregnant woman among 9 dead in Pennsylva
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: Elon Musk Eyes ‘Complete Phone Coverage in America
-[2026-10-12 07:01:07] Пропускаю уже отправленную: The AI control gap: Who gets to say ‘It’s safe’?
-[2026-10-12 07:01:07] Не про ИИ, пропускаю: Outside Groups Have Spent Nearly $2 Billion on Cam
 [2026-10-12 07:01:07] Не про ИИ, пропускаю: India Mobile Congress 2026 concludes with focus on
 [2026-10-12 07:01:07] Не про ИИ, пропускаю: Toyota Just Admitted It's Marketing to Robots Now,
 [2026-10-12 07:01:07] Не про ИИ, пропускаю: The Difference We Are Optimising Away
@@ -2998,3 +2966,35 @@
 [2026-10-18 07:03:41] Пауза 60 секунд...
 [2026-10-18 07:04:42] sent_urls.txt обрезан: 304 -> 300
 [2026-10-18 07:04:42] === Блок ai_morning завершён ===
+[2026-10-18 10:01:03] Загружено 300 уже отправленных новостей
+[2026-10-18 10:01:03] === Запуск блока: midday (тест: False) ===
+[2026-10-18 10:01:03] Неизвестный источник (macrumors.com): Verizon Will Charge $10 a Month for iPho
+[2026-10-18 10:01:03] Неизвестный источник (phys.org): Astronomer leads global team on NASA mis
+[2026-10-18 10:01:03] Неизвестный источник (variety.com): 'Street Fighter' Cast Guide: Video Game 
+[2026-10-18 10:01:03] Неизвестный источник (espn.com): CFP reaches 'handshake agreement' with E
+[2026-10-18 10:01:03] Пропускаю уже отправленную: Flu activity is starting to rise. Is this year’s v
+[2026-10-18 10:01:03] Неизвестный источник (tvinsider.com): 'Tulsa King': Neal McDonough Reacts to D
+[2026-10-18 10:01:03] Неизвестный источник (gizmodo.com): Astronomers Just Found the First Green S
+[2026-10-18 10:01:03] Неизвестный источник (windowscentral.com): I've lived with Microsoft's Surface Lapt
+[2026-10-18 10:01:03] Старая новость (2026-10-15T14:56:17Z): SpaceX Cargo Dragon delivers more than 6
+[2026-10-18 10:01:03] Мировые новости: найдено 16 после фильтрации
+[2026-10-18 10:01:05] Редакторский отбор: выбраны позиции [1, 4, 5, 9]
+[2026-10-18 10:01:05] Обрабатываю: Trump Waives Russia Energy Tariffs, Sanctions in Graham Law | https://www.bloomberg.com/news/articles/2026-10-17/trump-waives-russia
+[2026-10-18 10:01:05] Попытка 1 для: Trump Waives Russia Energy Tariffs, Sanc
+[2026-10-18 10:01:08] Успешно, получено 1189 символов
+[2026-10-18 10:01:08] Обрабатываю: Senegal-sized Antarctic glacier melting faster than thought: | https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glac
+[2026-10-18 10:01:08] Полный текст получен (3000 символов)
+[2026-10-18 10:01:08] Попытка 1 для: Senegal-sized Antarctic glacier melting 
+[2026-10-18 10:01:12] Успешно, получено 1835 символов
+[2026-10-18 10:01:12] Обрабатываю: Houthi strikes on Saudi Arabia show the Yemeni rebels’ growi | https://apnews.com/article/yemen-war-houthis-iran-weapons-saudi-airpor
+[2026-10-18 10:01:12] Попытка 1 для: Houthi strikes on Saudi Arabia show the 
+[2026-10-18 10:01:15] Успешно, получено 1292 символов
+[2026-10-18 10:01:15] Обрабатываю: Palestinians, US journalist attacked in West Bank pogrom: Wh | https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-a
+[2026-10-18 10:01:15] Полный текст получен (3000 символов)
+[2026-10-18 10:01:15] Попытка 1 для: Palestinians, US journalist attacked in 
+[2026-10-18 10:01:19] Успешно, получено 1605 символов
+[2026-10-18 10:01:22] Пауза 60 секунд...
+[2026-10-18 10:02:22] Пауза 60 секунд...
+[2026-10-18 10:03:22] Пауза 60 секунд...
+[2026-10-18 10:04:23] sent_urls.txt обрезан: 304 -> 300
+[2026-10-18 10:04:23] === Блок midday завершён ===
