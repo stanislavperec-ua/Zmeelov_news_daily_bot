@@ -1,43 +1,3 @@
-[2026-10-13 17:04:52] === Блок ai_evening завершён ===
-[2026-10-14 05:01:05] Загружено 300 уже отправленных новостей
-[2026-10-14 05:01:05] === Запуск блока: morning (тест: False) ===
-[2026-10-14 05:01:05] Неизвестный источник (nbcsports.com): Monday Night Football: Bills beat Rams 3
-[2026-10-14 05:01:05] Неизвестный источник (espn.com): Guardians come from behind to beat Rays 
-[2026-10-14 05:01:05] Неизвестный источник (billboard.com): Maren Morris, Flavor Flav, Maggie Baird 
-[2026-10-14 05:01:05] Неизвестный источник (foxnews.com): Dodgers dynasty on the brink after the M
-[2026-10-14 05:01:05] Неизвестный источник (foxnews.com): NATO warns Russia: 'We will break' force
-[2026-10-14 05:01:05] Неизвестный источник (9to5mac.com): Apple ‘Welcome home’ event: Three new pr
-[2026-10-14 05:01:05] Неизвестный источник (semafor.com): Meta has reached AI ‘frontier,’ Zuckerbe
-[2026-10-14 05:01:05] Неизвестный источник (houstonchronicle.com): Did Texans overpay for Marvin Harrison J
-[2026-10-14 05:01:05] Неизвестный источник (foxnews.com): Dementia risk more than quadruples among
-[2026-10-14 05:01:05] Неизвестный источник (phys.org): Alternative gravity theory offers possib
-[2026-10-14 05:01:05] Неизвестный источник (macrumors.com): You Can Now Set Up Your iPhone Duo Pre-O
-[2026-10-14 05:01:05] Лента обновлений, пропускаю: Iran War Updates: Deadly Houthi attacks 
-[2026-10-14 05:01:05] Неизвестный источник (whatever.scalzi.com): First Impressions: Dell XPS Googlebook a
-[2026-10-14 05:01:05] Старая новость (2026-10-11T01:06:00Z): Scientists Link Higher Liver Disease Ris
-[2026-10-14 05:01:05] Старая новость (2026-10-08T21:02:00Z): Four astronauts return to Earth after ei
-[2026-10-14 05:01:05] Мировые новости: найдено 14 после фильтрации
-[2026-10-14 05:01:07] Редакторский отбор: выбраны позиции [12, 8, 3, 14]
-[2026-10-14 05:01:11] RSS Ukrinform: 30 записей
-[2026-10-14 05:01:16] RSS Ukrinform: 30 записей
-[2026-10-14 05:01:16] Пропускаю уже отправленную: Zelensky: Partners did not warn of ballistic missi
-[2026-10-14 05:01:17] RSS Euromaidan Press: 29 записей
-[2026-10-14 05:01:17] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-14 05:01:17] Заблокированный источник (sputnikglobe.com): Trump Pressures Zelensky to Seek Peace, 
-[2026-10-14 05:01:17] Нет фото: UN and The Hague Confront Impunity for W
-[2026-10-14 05:01:17] Нет фото: NATO warns Russia: 'We will break' force
-[2026-10-14 05:01:17] Спорт, пропускаю: U.S.I. Men’s and Women’s basketball gear
-[2026-10-14 05:01:17] Нет фото: German Chancellor: US–Russia diesel deal
-[2026-10-14 05:01:17] Заблокированный источник (breitbart.com): Lawler: I Don't Want to Be Like Europe a
-[2026-10-14 05:01:17] Спорт, пропускаю: Every player from Alabama to play for th
-[2026-10-14 05:01:17] Нет фото: Why Moscow is staying tight-lipped on Tr
-[2026-10-14 05:01:17] Нет фото: Mike Pence Calls On Trump To ‘Rescind’ R
-[2026-10-14 05:01:17] Нет фото: Blaine Holt to Newsmax: Europe Impedimen
-[2026-10-14 05:01:17] Заблокированный источник (nypost.com): Fast Takes: Dithering over Putin’s sabot
-[2026-10-14 05:01:17] Заблокированный источник (biztoc.com): Trump: Hatred between Putin, Zelensky co
-[2026-10-14 05:01:17] Внутренний дубль: Russian forces strike Epicentr’s logistics hub in 
-[2026-10-14 05:01:17] Внутренний дубль: Russian ballistic missile strike on Kyiv kills two
-[2026-10-14 05:01:17] Внутренний дубль: Russia prepares for possible direct military confr
 [2026-10-14 05:01:17] Внутренний дубль: Pletenchuk: Russian naval drones pose threat to Bl
 [2026-10-14 05:01:17] Внутренний дубль: Spox Trehubov: Russian forces may seek to expand c
 [2026-10-14 05:01:17] Внутренний дубль: Russian strike on university in Rivne injures 30 a
@@ -2998,3 +2958,43 @@
 [2026-10-20 07:03:29] Пауза 60 секунд...
 [2026-10-20 07:04:29] sent_urls.txt обрезан: 304 -> 300
 [2026-10-20 07:04:29] === Блок ai_morning завершён ===
+[2026-10-20 10:01:09] Загружено 300 уже отправленных новостей
+[2026-10-20 10:01:09] === Запуск блока: midday (тест: False) ===
+[2026-10-20 10:01:10] Неизвестный источник (eurogamer.net): Players on Steam so far seem delighted w
+[2026-10-20 10:01:10] Спорт, пропускаю: Thanks to familiar miscues, the Dallas C
+[2026-10-20 10:01:10] Неизвестный источник (espn.com): NFL Week 6: Big takeaways, questions and
+[2026-10-20 10:01:10] Неизвестный источник (usatoday.com): Bear Bachmeier gets his revenge: ‘Notre 
+[2026-10-20 10:01:10] Пропускаю уже отправленную: Ukraine launches over 1,000 drones at Russia, sett
+[2026-10-20 10:01:10] Неизвестный источник (wral.com): SpaceX launch Monday morning could bring
+[2026-10-20 10:01:10] Неизвестный источник (foxnews.com): Caitlin Clark and Taylor Swift spotted t
+[2026-10-20 10:01:10] Неизвестный источник (foxnews.com): Driver released without charges after pi
+[2026-10-20 10:01:10] Заблокированный источник (nypost.com): Scientists reveal first ‘zombie’ star wi
+[2026-10-20 10:01:10] Неизвестный источник (usatoday.com): Val Chmerkovskiy addresses 'DWTS' suspen
+[2026-10-20 10:01:10] Неизвестный источник (variety.com): Taylor Swift Fires Up Academy Gala With 
+[2026-10-20 10:01:10] Неизвестный источник (macrumors.com): Mark Gurman: Apple Made 'Major Mistake' 
+[2026-10-20 10:01:10] Старая новость (2026-10-18T04:27:30Z): NYT Strands hints, answers for October 1
+[2026-10-20 10:01:10] Старая новость (2026-10-17T15:54:00Z): EE announces iPhone Handoff pricing deta
+[2026-10-20 10:01:10] Старая новость (2026-10-16T17:45:16Z): Hot flashes, night sweats, insomnia – OB
+[2026-10-20 10:01:10] Мировые новости: найдено 11 после фильтрации
+[2026-10-20 10:01:11] Редакторский отбор: выбраны позиции [5, 10, 2, 1]
+[2026-10-20 10:01:11] Обрабатываю: Putin reportedly suggests summit with Trump and Xi to decide | https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html
+[2026-10-20 10:01:11] Полный текст получен (3000 символов)
+[2026-10-20 10:01:11] Попытка 1 для: Putin reportedly suggests summit with Tr
+[2026-10-20 10:01:13] Успешно, получено 1319 символов
+[2026-10-20 10:01:13] Обрабатываю: Congo’s fast-moving Ebola outbreak spreads to eighth provinc | https://www.nbcnews.com/world/africa/dr-congos-fast-moving-ebola-outbr
+[2026-10-20 10:01:14] Полный текст получен (3000 символов)
+[2026-10-20 10:01:14] Попытка 1 для: Congo’s fast-moving Ebola outbreak sprea
+[2026-10-20 10:01:18] Успешно, получено 2020 символов
+[2026-10-20 10:01:18] Обрабатываю: Deadly fire at Canada military base moved a kilometre 'in 30 | https://www.bbc.com/news/articles/ckj0ly6qnp1lo
+[2026-10-20 10:01:18] Полный текст получен (3000 символов)
+[2026-10-20 10:01:18] Попытка 1 для: Deadly fire at Canada military base move
+[2026-10-20 10:01:21] Успешно, получено 1665 символов
+[2026-10-20 10:01:21] Обрабатываю: Robot factories and hypersonic missiles: JPMorgan Chase’s fi | https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.
+[2026-10-20 10:01:21] Полный текст получен (3000 символов)
+[2026-10-20 10:01:21] Попытка 1 для: Robot factories and hypersonic missiles:
+[2026-10-20 10:01:34] Успешно, получено 1787 символов
+[2026-10-20 10:01:37] Пауза 60 секунд...
+[2026-10-20 10:02:38] Пауза 60 секунд...
+[2026-10-20 10:03:38] Пауза 60 секунд...
+[2026-10-20 10:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-10-20 10:04:39] === Блок midday завершён ===
