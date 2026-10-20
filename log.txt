@@ -1,108 +1,3 @@
-[2026-10-14 05:01:17] Внутренний дубль: Pletenchuk: Russian naval drones pose threat to Bl
-[2026-10-14 05:01:17] Внутренний дубль: Spox Trehubov: Russian forces may seek to expand c
-[2026-10-14 05:01:17] Внутренний дубль: Russian strike on university in Rivne injures 30 a
-[2026-10-14 05:01:17] Внутренний дубль: Russian drone debris falls on Lutsk shopping mall,
-[2026-10-14 05:01:17] Внутренний дубль: Russian attacks spark fires at industrial faciliti
-[2026-10-14 05:01:17] Внутренний дубль: Evidence of Western components in Russian Shahed d
-[2026-10-14 05:01:17] Внутренний дубль: Russian drone attack on Pavlohrad kills one person
-[2026-10-14 05:01:17] Внутренний дубль: Russian forces strike water collection point in Kr
-[2026-10-14 05:01:17] Внутренний дубль: Drone strikes office building in Kyiv's Solomiansk
-[2026-10-14 05:01:17] Внутренний дубль: Zelensky criticises Kyiv authorities: Frontline re
-[2026-10-14 05:01:17] Внутренний дубль: Russian forces launch second attack on Dnipro
-[2026-10-14 05:01:17] Внутренний дубль: Russian drone attack on Lviv region during day dam
-[2026-10-14 05:01:17] Внутренний дубль: Body recovered from rubble after Russian airstrike
-[2026-10-14 05:01:17] Внутренний дубль: Russian forces shell points of invincibility in Sl
-[2026-10-14 05:01:17] Внутренний дубль: Strike on university in Rivne: Injury toll rises t
-[2026-10-14 05:01:17] Внутренний дубль: Russian drone hits supermarket roof in Kharkiv, in
-[2026-10-14 05:01:17] Внутренний дубль: Russian forces attempt to advance toward Riasne in
-[2026-10-14 05:01:17] Внутренний дубль: Russians attack truck and warehouse in Khmelnytsky
-[2026-10-14 05:01:17] Внутренний дубль: University staff injured in Russian drone attack o
-[2026-10-14 05:01:17] Украинские новости: найдено 73 после фильтрации
-[2026-10-14 05:01:19] Редакторский отбор: выбраны позиции [5, 2]
-[2026-10-14 05:01:19] NewsAPI (Харьков, все издания): пришло 38 статей
-[2026-10-14 05:01:20] RSS Ukrinform: 30 записей
-[2026-10-14 05:01:21] RSS Ukrinform: 30 записей
-[2026-10-14 05:01:21] RSS Euromaidan Press: 29 записей
-[2026-10-14 05:01:21] Заблокированный источник (dailymail.com): So much for Russia's energy ceasefire, M
-[2026-10-14 05:01:21] Заблокированный источник (nypost.com): Trump declares Putin ‘wants to make a de
-[2026-10-14 05:01:21] Нет фото: Trump Finds a New Scapegoat
-[2026-10-14 05:01:21] Нет фото: Trump’s Message to Ukraine Is Now Crysta
-[2026-10-14 05:01:21] Заблокированный источник (biztoc.com): Watch: Children Among 12 Hurt As Russian
-[2026-10-14 05:01:21] Пропускаю уже отправленную: Ukraine: Zelenskyy accuses Russia of ceasefire vio
-[2026-10-14 05:01:21] Заблокированный источник (nypost.com): Zelensky says Russia still striking ener
-[2026-10-14 05:01:21] Заблокированный источник (biztoc.com): Naftogaz says Russia hit its facility ov
-[2026-10-14 05:01:21] Заблокированный источник (sputnikglobe.com): Russia Liberates Nikolskoye in Zaporozhy
-[2026-10-14 05:01:21] Заблокированный источник (dailymail.com): Ukraine says Putin is ignoring Trump's '
-[2026-10-14 05:01:21] Заблокированный источник (dailymail.com): Ukraine says Putin is ignoring Trump's '
-[2026-10-14 05:01:21] Внутренний дубль: Spox Trehubov: Russian forces may seek to expand c
-[2026-10-14 05:01:21] Внутренний дубль: Russian drone hits supermarket roof in Kharkiv, in
-[2026-10-14 05:01:21] Харьков: найдена новость: Ukraine says Russia launched strikes hours after D
-[2026-10-14 05:01:21] Обрабатываю: Burnham: Iran’s IRGC ‘highly likely’ to be behind RAF Fairfo | https://www.politico.eu/article/burnham-irans-irgc-highly-likely-behin
-[2026-10-14 05:01:21] Полный текст получен (2267 символов)
-[2026-10-14 05:01:21] Попытка 1 для: Burnham: Iran’s IRGC ‘highly likely’ to 
-[2026-10-14 05:01:24] Успешно, получено 1436 символов
-[2026-10-14 05:01:24] Обрабатываю: Poland says two Turks arrested over Russia-linked Starlink s | https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrest
-[2026-10-14 05:01:24] Полный текст получен (2218 символов)
-[2026-10-14 05:01:24] Попытка 1 для: Poland says two Turks arrested over Russ
-[2026-10-14 05:01:26] Успешно, получено 1351 символов
-[2026-10-14 05:01:26] Обрабатываю: Trump faces stiff bipartisan pushback to Russian diesel impo | https://www.washingtonpost.com/business/2026/10/12/administration-agre
-[2026-10-14 05:01:39] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/business/2026/10/12/administr
-[2026-10-14 05:01:39] Попытка 1 для: Trump faces stiff bipartisan pushback to
-[2026-10-14 05:01:41] Успешно, получено 797 символов
-[2026-10-14 05:01:41] Обрабатываю: An abandoned rock sample could prove life once existed on Ma | https://www.cnn.com/2026/10/12/science/nasa-mars-sample-return-sapphir
-[2026-10-14 05:01:41] Полный текст получен (3000 символов)
-[2026-10-14 05:01:41] Попытка 1 для: An abandoned rock sample could prove lif
-[2026-10-14 05:01:44] Успешно, получено 1688 символов
-[2026-10-14 05:01:47] Пауза 60 секунд...
-[2026-10-14 05:02:47] Пауза 60 секунд...
-[2026-10-14 05:03:48] Пауза 60 секунд...
-[2026-10-14 05:04:48] Обрабатываю: Russian ballistic missile strike on Kyiv kills two, injures  | https://www.ukrinform.net/rubric-ato/4174152-russian-ballistic-missile
-[2026-10-14 05:04:49] Полный текст получен (1201 символов)
-[2026-10-14 05:04:49] Попытка 1 для: Russian ballistic missile strike on Kyiv
-[2026-10-14 05:04:51] Успешно, получено 1245 символов
-[2026-10-14 05:04:51] Обрабатываю: Russian forces strike Epicentr’s logistics hub in Khmelnytsk | https://www.ukrinform.net/rubric-ato/4174158-russian-forces-strike-epi
-[2026-10-14 05:04:52] Полный текст получен (1288 символов)
-[2026-10-14 05:04:52] Попытка 1 для: Russian forces strike Epicentr’s logisti
-[2026-10-14 05:04:53] Успешно, получено 1233 символов
-[2026-10-14 05:04:53] Обрабатываю: Ukraine says Russia launched strikes hours after Donald Trum | https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after
-[2026-10-14 05:04:54] Полный текст получен (3000 символов)
-[2026-10-14 05:04:54] Попытка 1 для: Ukraine says Russia launched strikes hou
-[2026-10-14 05:04:58] Успешно, получено 1693 символов
-[2026-10-14 05:05:00] Пауза 60 секунд...
-[2026-10-14 05:06:01] Пауза 60 секунд...
-[2026-10-14 05:07:01] sent_urls.txt обрезан: 307 -> 300
-[2026-10-14 05:07:01] === Блок morning завершён ===
-[2026-10-14 07:01:08] Загружено 300 уже отправленных новостей
-[2026-10-14 07:01:08] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-14 07:01:08] Неизвестный источник (economictimes.indiatimes.com): Jio IPO may trigger Reliance’s next big 
-[2026-10-14 07:01:08] Заблокированный источник (prnewswire.com): Dream Vacations Wins Five 2026 Travel We
-[2026-10-14 07:01:08] Заблокированный источник (prnewswire.com): Fibocom Showcases SC153 5G Smart Module 
-[2026-10-14 07:01:08] Неизвестный источник (abc.net.au): How third-party systems leave supermarke
-[2026-10-14 07:01:08] Заблокированный источник (naturalnews.com): Rezaei: Iran Will Obliterate U.S. Tech A
-[2026-10-14 07:01:08] Неизвестный источник (kyivpost.com): Drones Hit Yandex Data Center in Vladimi
-[2026-10-14 07:01:08] Неизвестный источник (miragenews.com): Europe Launches First Expert Group on AI
-[2026-10-14 07:01:08] Неизвестный источник (cryptobriefing.com): Vitalik Buterin says public-key cryptogr
-[2026-10-14 07:01:08] Неизвестный источник (sei.cmu.edu): A Five-Step Framework to Sufficient Real
-[2026-10-14 07:01:08] Нет фото: aix 0.0.52
-[2026-10-14 07:01:08] Нет фото: aix 0.0.51
-[2026-10-14 07:01:08] Неизвестный источник (cryptobriefing.com): KB Kookmin Card and SBI Holdings separat
-[2026-10-14 07:01:08] Нет фото: What are the lateral line senses in fish
-[2026-10-14 07:01:08] Заблокированный источник (biztoc.com): Stock Is Up Today
-[2026-10-14 07:01:08] Нет фото: kymnasium 1.2.7
-[2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): Applied Materials opens new $5B chip res
-[2026-10-14 07:01:08] Неизвестный источник (bleedingcool.com): Venom #1 Preview: Eddie and Symbiote's R
-[2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): Intel, Broadcom CEOs flag AI industry ch
-[2026-10-14 07:01:08] Неизвестный источник (toronto.citynews.ca): 'Speechless': Dan Levy slams Shane Gilli
-[2026-10-14 07:01:08] Не про ИИ, пропускаю: Atomic, structural and molecular insights into GPC
-[2026-10-14 07:01:08] Неизвестный источник (r-bloggers.com): A Bayesian Network to Explore Data Cente
-[2026-10-14 07:01:08] Неизвестный источник (pymnts.com): Ransomware Gang Claims MoneyGram Data Th
-[2026-10-14 07:01:08] Неизвестный источник (psychologytoday.com): Artificial Intelligence: Should We Perso
-[2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): Meta releases Muse Wonder AI models buil
-[2026-10-14 07:01:08] Заблокированный источник (breitbart.com): Exclusive: Global Healthcare Executive S
-[2026-10-14 07:01:08] Нет фото: am-sdk 0.2.0
-[2026-10-14 07:01:08] Нет фото: am-sdk added to PyPI
-[2026-10-14 07:01:08] Неизвестный источник (gcaptain.com): Connecting maritime digitalisation to pr
-[2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): Microsoft debuts multichiplet Maia 300 i
 [2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): AI governance shifts to runtime as alway
 [2026-10-14 07:01:08] Неизвестный источник (siliconangle.com): What to expect from theCUBE’s Smarsh EDG
 [2026-10-14 07:01:08] Неизвестный источник (variety.com): Like Its Hero, Marvel’s ‘VisionQuest’ St
@@ -2998,3 +2893,108 @@
 [2026-10-20 10:03:38] Пауза 60 секунд...
 [2026-10-20 10:04:39] sent_urls.txt обрезан: 304 -> 300
 [2026-10-20 10:04:39] === Блок midday завершён ===
+[2026-10-20 15:01:11] Загружено 300 уже отправленных новостей
+[2026-10-20 15:01:11] === Запуск блока: evening (тест: False) ===
+[2026-10-20 15:01:11] Неизвестный источник (espn.com): Jalen Hurts out for season after blood c
+[2026-10-20 15:01:11] Неизвестный источник (nbcsports.com): Colts fire GM Chris Ballard - NBC Sports
+[2026-10-20 15:01:11] Неизвестный источник (playbill.com): Reviews: What Do the Critics Think of Ot
+[2026-10-20 15:01:11] Неизвестный источник (androidauthority.com): Android's brand-new 3D emoji are rolling
+[2026-10-20 15:01:11] Пропускаю уже отправленную: Robot factories and hypersonic missiles: JPMorgan 
+[2026-10-20 15:01:11] Неизвестный источник (space.com): Japan launching bold sample-return missi
+[2026-10-20 15:01:11] Неизвестный источник (inquirer.com): Eagles’ persistent offensive struggles m
+[2026-10-20 15:01:11] Неизвестный источник (androidauthority.com): The Galaxy S27 may launch earlier than u
+[2026-10-20 15:01:11] Неизвестный источник (theringer.com): The Winners and Losers of the NFL Week 6
+[2026-10-20 15:01:11] Неизвестный источник (usatoday.com): See Victoria's Secret Fashion Show stars
+[2026-10-20 15:01:11] Неизвестный источник (wral.com): SpaceX launch Monday morning could bring
+[2026-10-20 15:01:11] Неизвестный источник (vogue.com): Kylie Jenner Debuts on the Victoria’s Se
+[2026-10-20 15:01:11] Заблокированный источник (nypost.com): Scientists reveal first ‘zombie’ star wi
+[2026-10-20 15:01:11] Неизвестный источник (phys.org): Scientists discover a way to reverse cor
+[2026-10-20 15:01:11] Мировые новости: найдено 16 после фильтрации
+[2026-10-20 15:01:13] Редакторский отбор: выбраны позиции [13, 7, 11, 9]
+[2026-10-20 15:01:14] RSS Ukrinform: 30 записей
+[2026-10-20 15:01:14] RSS Ukrinform: 30 записей
+[2026-10-20 15:01:14] Пропускаю уже отправленную: Death toll from strike on Kyiv region enterprise r
+[2026-10-20 15:01:15] RSS Euromaidan Press: 29 записей
+[2026-10-20 15:01:15] Старая новость (2026-10-18T13:40:51Z): Poland, Bulgaria, now Lithuania: Russia’
+[2026-10-20 15:01:15] Старая новость (2026-10-18T13:39:09Z): Ukraine retook Kolodiazi north of Lyman 
+[2026-10-20 15:01:15] Старая новость (2026-10-18T12:57:40Z): Built as a cheap Shahed lookalike, Russi
+[2026-10-20 15:01:15] NewsAPI (мировые про Украину): пришло 50 статей
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): Zelensky Knows Peace Deal Would End Him,
+[2026-10-20 15:01:15] Нет фото: Most California kids can’t read well or 
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): US Contradicts Zelensky On Intelligence 
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): Putin Proposes Summit With Trump, China'
+[2026-10-20 15:01:15] Нет фото: Putin reportedly proposes three-way summ
+[2026-10-20 15:01:15] Заблокированный источник (breitbart.com): Midterms: 'Russian Bots' Launch Army of 
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): Zelensky: Vital supplies from US are del
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): Putin, Xi and Trump could meet at APEC s
+[2026-10-20 15:01:15] Заблокированный источник (biztoc.com): Ukraine War Tensions Deepen As Putin Rep
+[2026-10-20 15:01:15] Заблокированный источник (nypost.com): Rubio says Ukraine attacked ships carryi
+[2026-10-20 15:01:15] Нет фото: French PM says could declare state of em
+[2026-10-20 15:01:15] Нет фото: A drone war is won by the side that can 
+[2026-10-20 15:01:15] Заблокированный источник (dailymail.com): Lisbon named Europe's best cruise destin
+[2026-10-20 15:01:15] Заблокированный источник (sputnikglobe.com): Biden & Europe Guilty for Energy Market 
+[2026-10-20 15:01:15] Заблокированный источник (sputnikglobe.com): Rubio Declines to Comment on Ukraine's D
+[2026-10-20 15:01:15] Заблокированный источник (dailymail.com): Ukraine carries out first ever aerial dr
+[2026-10-20 15:01:15] Нет фото: BREAKING: Hungarian Prime Minister sends
+[2026-10-20 15:01:15] Внутренний дубль: Ukraine extends emergency measures to heating, wat
+[2026-10-20 15:01:15] Внутренний дубль: DIU fighters clear 600 hectares of forest in Sumy 
+[2026-10-20 15:01:15] Внутренний дубль: Budanov denies Russian claims of capturing Dobropi
+[2026-10-20 15:01:15] Внутренний дубль: Russian drone attacks kill one, injure seven in Ky
+[2026-10-20 15:01:15] Внутренний дубль: Data center attacked overnight in Russian-occupied
+[2026-10-20 15:01:15] Внутренний дубль: Three civilians injured as Russian forces attack s
+[2026-10-20 15:01:15] Внутренний дубль: Russian forces attack warehouses in Zaporizhzhia, 
+[2026-10-20 15:01:15] Внутренний дубль: Russian forces shell Kramatorsk: three civilians k
+[2026-10-20 15:01:15] Внутренний дубль: Ukraine’s Defense Forces strike Russian military d
+[2026-10-20 15:01:15] Внутренний дубль: Russian drones attacking energy infrastructure in 
+[2026-10-20 15:01:15] Внутренний дубль: Biletskyi seconded to Center Grouping, retains com
+[2026-10-20 15:01:15] Внутренний дубль: Russian claims of ‘successes’ in Kharkiv region ar
+[2026-10-20 15:01:15] Внутренний дубль: Cars catch fire on Kyiv-Odesa highway following Ru
+[2026-10-20 15:01:15] Внутренний дубль: Cersanit factory in Zviahel halts operations follo
+[2026-10-20 15:01:15] Внутренний дубль: Drones strike oil pumping station in Russia’s Tamb
+[2026-10-20 15:01:15] Украинские новости: найдено 74 после фильтрации
+[2026-10-20 15:01:16] Редакторский отбор: выбраны позиции [1, 20]
+[2026-10-20 15:01:16] NewsAPI (Харьков, все издания): пришло 5 статей
+[2026-10-20 15:01:17] RSS Ukrinform: 30 записей
+[2026-10-20 15:01:17] RSS Ukrinform: 30 записей
+[2026-10-20 15:01:17] RSS Euromaidan Press: 29 записей
+[2026-10-20 15:01:17] Заблокированный источник (dailymail.com): Ukraine carries out first ever aerial dr
+[2026-10-20 15:01:17] Старая новость (2026-10-18T13:40:51Z): Poland, Bulgaria, now Lithuania: Russia’
+[2026-10-20 15:01:17] Старая новость (2026-10-18T13:39:09Z): Ukraine retook Kolodiazi north of Lyman 
+[2026-10-20 15:01:17] Старая новость (2026-10-18T12:57:40Z): Built as a cheap Shahed lookalike, Russi
+[2026-10-20 15:01:17] Внутренний дубль: Russian claims of ‘successes’ in Kharkiv region ar
+[2026-10-20 15:01:17] Харьков: найдена новость: Russian claims of ‘successes’ in Kharkiv region ar
+[2026-10-20 15:01:17] Обрабатываю: In pictures: More than 500,000 took to the streets as France | https://www.cnbc.com/2026/10/19/france-protests-paris-violence-picture
+[2026-10-20 15:01:17] Полный текст получен (1216 символов)
+[2026-10-20 15:01:17] Попытка 1 для: In pictures: More than 500,000 took to t
+[2026-10-20 15:01:21] Успешно, получено 1740 символов
+[2026-10-20 15:01:21] Обрабатываю: Israeli police arrest 10 over settler attacks on journalist  | https://www.bbc.com/news/articles/cqn7323p0dxyo
+[2026-10-20 15:01:21] Полный текст получен (3000 символов)
+[2026-10-20 15:01:21] Попытка 1 для: Israeli police arrest 10 over settler at
+[2026-10-20 15:01:25] Успешно, получено 1678 символов
+[2026-10-20 15:01:25] Обрабатываю: Alberta voters weigh future in Canada | https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada
+[2026-10-20 15:01:25] Полный текст получен (3000 символов)
+[2026-10-20 15:01:25] Попытка 1 для: Alberta voters weigh future in Canada
+[2026-10-20 15:01:29] Успешно, получено 1897 символов
+[2026-10-20 15:01:29] Обрабатываю: Researchers have uncovered a likely origin of our allergies | https://www.washingtonpost.com/health/2026/10/19/why-seasonal-allergie
+[2026-10-20 15:01:41] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/10/19/why-seasona
+[2026-10-20 15:01:41] Попытка 1 для: Researchers have uncovered a likely orig
+[2026-10-20 15:01:43] Успешно, получено 730 символов
+[2026-10-20 15:01:46] Пауза 60 секунд...
+[2026-10-20 15:02:46] Пауза 60 секунд...
+[2026-10-20 15:03:47] Пауза 60 секунд...
+[2026-10-20 15:04:47] Обрабатываю: Ukraine extends emergency measures to heating, water, transp | https://www.ukrinform.net/rubric-ato/4176408-ukraine-extends-emergency
+[2026-10-20 15:04:48] Полный текст получен (2131 символов)
+[2026-10-20 15:04:48] Попытка 1 для: Ukraine extends emergency measures to he
+[2026-10-20 15:04:51] Успешно, получено 2061 символов
+[2026-10-20 15:04:51] Обрабатываю: Ukraine ready for energy truce if it receives enough interce | https://www.ukrinform.net/rubric-polytics/4176217-ukraine-ready-for-en
+[2026-10-20 15:04:52] Полный текст получен (2102 символов)
+[2026-10-20 15:04:52] Попытка 1 для: Ukraine ready for energy truce if it rec
+[2026-10-20 15:04:55] Успешно, получено 1605 символов
+[2026-10-20 15:04:55] Обрабатываю: Russian claims of ‘successes’ in Kharkiv region are false, T | https://www.ukrinform.net/rubric-ato/4176172-russian-claims-of-success
+[2026-10-20 15:04:56] Полный текст получен (1611 символов)
+[2026-10-20 15:04:56] Попытка 1 для: Russian claims of ‘successes’ in Kharkiv
+[2026-10-20 15:04:59] Успешно, получено 1605 символов
+[2026-10-20 15:05:02] Пауза 60 секунд...
+[2026-10-20 15:06:02] Пауза 60 секунд...
+[2026-10-20 15:07:02] sent_urls.txt обрезан: 307 -> 300
+[2026-10-20 15:07:02] === Блок evening завершён ===
