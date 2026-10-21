@@ -1,43 +1,3 @@
-[2026-10-15 05:02:37] Пауза 60 секунд...
-[2026-10-15 05:03:38] Пауза 60 секунд...
-[2026-10-15 05:04:38] Обрабатываю: Government allocates additional UAH 60 billion for Defense F | https://www.ukrinform.net/rubric-economy/4174299-government-allocates-
-[2026-10-15 05:04:39] Полный текст получен (900 символов)
-[2026-10-15 05:04:39] Попытка 1 для: Government allocates additional UAH 60 b
-[2026-10-15 05:04:42] Успешно, получено 1312 символов
-[2026-10-15 05:04:42] Обрабатываю: Over 70% of liberated Kherson region cleared of mines | https://www.ukrinform.net/rubric-ato/4174160-over-70-of-liberated-kher
-[2026-10-15 05:04:43] Полный текст получен (825 символов)
-[2026-10-15 05:04:43] Попытка 1 для: Over 70% of liberated Kherson region cle
-[2026-10-15 05:04:46] Успешно, получено 1306 символов
-[2026-10-15 05:04:46] Обрабатываю: Ukrainian press gang abducts naked man (VIDEO) | https://rt-english.com/russia/647120-naked-man-mobilized-ukraine/
-[2026-10-15 05:04:47] Полный текст получен (2025 символов)
-[2026-10-15 05:04:47] Попытка 1 для: Ukrainian press gang abducts naked man (
-[2026-10-15 05:04:51] Успешно, получено 1601 символов
-[2026-10-15 05:04:53] Пауза 60 секунд...
-[2026-10-15 05:05:54] Пауза 60 секунд...
-[2026-10-15 05:06:54] sent_urls.txt обрезан: 307 -> 300
-[2026-10-15 05:06:54] === Блок morning завершён ===
-[2026-10-15 07:01:06] Загружено 300 уже отправленных новостей
-[2026-10-15 07:01:06] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-15 07:01:06] Нет фото: Widex Allure AI RIC with Clarity Boost N
-[2026-10-15 07:01:06] Неизвестный источник (financialpost.com): IE Business School Turns ABB Bank’s Tran
-[2026-10-15 07:01:06] Неизвестный источник (economictimes.indiatimes.com): Tata Power announces ₹15,000 crore Mumba
-[2026-10-15 07:01:06] Неизвестный источник (livemint.com): Why Zoho's Sridhar Vembu is trending aft
-[2026-10-15 07:01:06] Неизвестный источник (thedailyherald.sx): AI models may soon self-replicate and co
-[2026-10-15 07:01:06] Неизвестный источник (economictimes.indiatimes.com): ‘We’ll be very happy to get it at least 
-[2026-10-15 07:01:06] Заблокированный источник (naturalnews.com): To Grow Food, Build SoilâNot Gardens: 
-[2026-10-15 07:01:06] Заблокированный источник (naturalnews.com): Anthropic Report Warns AI Worms Could Sp
-[2026-10-15 07:01:06] Неизвестный источник (economictimes.indiatimes.com): Exclusive | Countdown begins for the mot
-[2026-10-15 07:01:06] Неизвестный источник (siliconangle.com): Chainguard puts Claude Mythos on flaw hu
-[2026-10-15 07:01:06] Нет фото: Kroger to Cut More Than One-Third of Its
-[2026-10-15 07:01:06] Неизвестный источник (thehackernews.com): Microsoft Patches Record 1,413 Flaws, In
-[2026-10-15 07:01:06] Неизвестный источник (feld.com): Gell-Mann Amnesia, Without the Amnesia
-[2026-10-15 07:01:06] Неизвестный источник (en.antaranews.com): Autumn Electronics Fair and electronicAs
-[2026-10-15 07:01:06] Неизвестный источник (bleedingcool.com): Star Trek: Red Shirts – Ghost of the 21s
-[2026-10-15 07:01:06] Неизвестный источник (dansdeals.com): 36 Pack Of Screamin Strawberry Fruit Rol
-[2026-10-15 07:01:06] Неизвестный источник (docomo.ne.jp): DOCOMO and Abside Networks Sign Memorand
-[2026-10-15 07:01:06] Неизвестный источник (punchng.com): Firms seek cheaper AI deployment, data c
-[2026-10-15 07:01:06] Неизвестный источник (aninews.in): LSBF India and Trans Neuron Technologies
-[2026-10-15 07:01:06] Неизвестный источник (siliconangle.com): Pluto Security nabs $42M to help enterpr
 [2026-10-15 07:01:06] Не про ИИ, пропускаю: Renters and home buyers are seeing AI-‘enhanced’ p
 [2026-10-15 07:01:06] Неизвестный источник (punchng.com): Culture summit to highlight green creati
 [2026-10-15 07:01:06] Неизвестный источник (siliconangle.com): OpenAI fires Saudi employee accused of p
@@ -2998,3 +2958,43 @@
 [2026-10-21 07:03:37] Пауза 60 секунд...
 [2026-10-21 07:04:38] sent_urls.txt обрезан: 304 -> 300
 [2026-10-21 07:04:38] === Блок ai_morning завершён ===
+[2026-10-21 10:01:10] Загружено 300 уже отправленных новостей
+[2026-10-21 10:01:10] === Запуск блока: midday (тест: False) ===
+[2026-10-21 10:01:11] Лента обновлений, пропускаю: Helen Haines: Father of suspect in Austr
+[2026-10-21 10:01:11] Неизвестный источник (bgr.com): 5 Cheaper OLED TVs To Buy Instead Of The
+[2026-10-21 10:01:11] Заблокированный источник (sports.yahoo.com): Commanders star Terry McLaurin carted of
+[2026-10-21 10:01:11] Спорт, пропускаю: Tampa Bay Rays advance to World Series, 
+[2026-10-21 10:01:11] Неизвестный источник (fox5vegas.com): Man accused of stealing Las Vegas flamin
+[2026-10-21 10:01:11] Неизвестный источник (ew.com): Sahara Ray, model and rumored ex of Just
+[2026-10-21 10:01:11] Неизвестный источник (variety.com): ‘You Can See Everything’ Sets Oscar Camp
+[2026-10-21 10:01:11] Неизвестный источник (pbs.org): Trump escalates clash with Zelenskyy as 
+[2026-10-21 10:01:11] Неизвестный источник (sfgate.com): The latest Mike Evans, Christian Kirk in
+[2026-10-21 10:01:11] Неизвестный источник (weather.com): Orionid meteor shower 2026: cloud cover 
+[2026-10-21 10:01:11] Неизвестный источник (pitchfork.com): Muna Safe After Tour Bus Fire - Pitchfor
+[2026-10-21 10:01:11] Неизвестный источник (pbs.org): Longtime CNN anchor Christiane Amanpour 
+[2026-10-21 10:01:11] Неизвестный источник (macrumors.com): Apple Starts Moving Up iPhone Duo Delive
+[2026-10-21 10:01:11] Неизвестный источник (howtogeek.com): A developer used AI to build 7 free Adob
+[2026-10-21 10:01:11] Неизвестный источник (wsbtv.com): Diners at Georgia Longhorn Steakhouse co
+[2026-10-21 10:01:11] Неизвестный источник (clickorlando.com): SpaceX launch could create ‘space jellyf
+[2026-10-21 10:01:11] Неизвестный источник (gizmodo.com): Scientists Just Revived Pig Kidneys Froz
+[2026-10-21 10:01:11] Старая новость (2026-10-16T17:45:16Z): Hot flashes, night sweats, insomnia – OB
+[2026-10-21 10:01:11] Мировые новости: найдено 12 после фильтрации
+[2026-10-21 10:01:12] Редакторский отбор: выбраны позиции [2, 3, 1, 7]
+[2026-10-21 10:01:12] Обрабатываю: Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of  | https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-m
+[2026-10-21 10:01:12] Попытка 1 для: Scoop: Pete Hegseth meets with Netanyahu
+[2026-10-21 10:01:14] Успешно, получено 1102 символов
+[2026-10-21 10:01:14] Обрабатываю: Japan launches spacecraft to mysterious moons of Mars in a b | https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8a
+[2026-10-21 10:01:14] Попытка 1 для: Japan launches spacecraft to mysterious 
+[2026-10-21 10:01:17] Успешно, получено 1050 символов
+[2026-10-21 10:01:17] Обрабатываю: Alberta voters reject a move toward independence in referend | https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada
+[2026-10-21 10:01:17] Полный текст получен (3000 символов)
+[2026-10-21 10:01:17] Попытка 1 для: Alberta voters reject a move toward inde
+[2026-10-21 10:01:21] Успешно, получено 1575 символов
+[2026-10-21 10:01:21] Обрабатываю: From France to Albania, social unrest is setting Europe’s st | https://apnews.com/article/europe-riots-protest-france-italy-spain-alb
+[2026-10-21 10:01:21] Попытка 1 для: From France to Albania, social unrest is
+[2026-10-21 10:01:23] Успешно, получено 1116 символов
+[2026-10-21 10:01:26] Пауза 60 секунд...
+[2026-10-21 10:02:26] Пауза 60 секунд...
+[2026-10-21 10:03:27] Пауза 60 секунд...
+[2026-10-21 10:04:27] sent_urls.txt обрезан: 304 -> 300
+[2026-10-21 10:04:27] === Блок midday завершён ===
