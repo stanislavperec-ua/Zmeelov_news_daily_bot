@@ -1,43 +1,3 @@
-[2026-10-16 05:01:14] Харьков: найдена новость: Man injured in Russian attack on enterprise in Der
-[2026-10-16 05:01:14] Обрабатываю: Earth’s Condition Is ‘Serious and Getting Worse’ as Climate  | https://www.wired.com/story/climate-change-is-getting-worse-el-nino-lo
-[2026-10-16 05:01:14] Полный текст получен (3000 символов)
-[2026-10-16 05:01:14] Попытка 1 для: Earth’s Condition Is ‘Serious and Gettin
-[2026-10-16 05:01:17] Успешно, получено 1413 символов
-[2026-10-16 05:01:17] Обрабатываю: U.S. warnings sow confusion, alarm in Ukraine over intellige | https://www.washingtonpost.com/world/2026/10/14/us-warnings-sow-confus
-[2026-10-16 05:01:29] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/14/us-warnings-
-[2026-10-16 05:01:29] Попытка 1 для: U.S. warnings sow confusion, alarm in Uk
-[2026-10-16 05:01:31] Успешно, получено 1214 символов
-[2026-10-16 05:01:31] Обрабатываю: UK threatens to ban Eritreans over migrant return policy | https://www.bbc.com/news/articles/c30rl1q1j200o
-[2026-10-16 05:01:31] Полный текст получен (3000 символов)
-[2026-10-16 05:01:31] Попытка 1 для: UK threatens to ban Eritreans over migra
-[2026-10-16 05:01:34] Успешно, получено 1630 символов
-[2026-10-16 05:01:34] Обрабатываю: Pennsylvania doctors are seeing what measles can do to previ | https://www.nbcnews.com/health/health-news/pennsylvania-measles-outbre
-[2026-10-16 05:01:34] Текст не совпадает с заголовком, беру описание: https://www.nbcnews.com/health/health-news/pennsylvania-meas
-[2026-10-16 05:01:34] Попытка 1 для: Pennsylvania doctors are seeing what mea
-[2026-10-16 05:01:37] Успешно, получено 743 символов
-[2026-10-16 05:01:40] Пауза 60 секунд...
-[2026-10-16 05:02:40] Пауза 60 секунд...
-[2026-10-16 05:03:41] Пауза 60 секунд...
-[2026-10-16 05:04:41] Обрабатываю: PM Koretskyi: Ukraine meets all deadlines to secure 2026 int | https://www.ukrinform.net/rubric-economy/4174873-pm-koretskyi-ukraine-
-[2026-10-16 05:04:42] Полный текст получен (1766 символов)
-[2026-10-16 05:04:42] Попытка 1 для: PM Koretskyi: Ukraine meets all deadline
-[2026-10-16 05:04:45] Успешно, получено 1462 символов
-[2026-10-16 05:04:45] Обрабатываю: Ukraine to raise €60 mln from EIB for border infrastructure  | https://www.ukrinform.net/rubric-economy/4174636-ukraine-to-raise-60ml
-[2026-10-16 05:04:46] Полный текст получен (817 символов)
-[2026-10-16 05:04:46] Попытка 1 для: Ukraine to raise €60 mln from EIB for bo
-[2026-10-16 05:04:49] Успешно, получено 1199 символов
-[2026-10-16 05:04:52] Пауза 60 секунд...
-[2026-10-16 05:05:52] sent_urls.txt обрезан: 306 -> 300
-[2026-10-16 05:05:52] === Блок morning завершён ===
-[2026-10-16 07:01:09] Загружено 300 уже отправленных новостей
-[2026-10-16 07:01:09] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-16 07:01:09] Заблокированный источник (naturalnews.com): Laptop farms and stolen names: How Pyong
-[2026-10-16 07:01:09] Не про ИИ, пропускаю: AI fears, hopes, and rising construction costs
-[2026-10-16 07:01:09] Неизвестный источник (thehindubusinessline.com): Hyundai plans four EVs by 2029, earmarks
-[2026-10-16 07:01:09] Неизвестный источник (skepticalscience.com): Skeptical Science New Research for Week 
-[2026-10-16 07:01:09] Неизвестный источник (morningstar.com): DataMEDS Si Licenses U.S. Rights To Rebo
-[2026-10-16 07:01:09] Не про ИИ, пропускаю: AI’s impact on jobs market may take 25 years to pl
-[2026-10-16 07:01:09] Нет фото: With AI platform, patients could chat wi
 [2026-10-16 07:01:09] Неизвестный источник (siliconangle.com): Ahead of IPO, Anthropic reveals its reve
 [2026-10-16 07:01:09] Неизвестный источник (economictimes.indiatimes.com): Rs 10 lakh crore: Mukesh Ambani added 13
 [2026-10-16 07:01:09] Неизвестный источник (economictimes.indiatimes.com): Physical AI in Manufacturing: How comput
@@ -2998,3 +2958,43 @@
 [2026-10-22 07:03:41] Пауза 60 секунд...
 [2026-10-22 07:04:42] sent_urls.txt обрезан: 304 -> 300
 [2026-10-22 07:04:42] === Блок ai_morning завершён ===
+[2026-10-22 10:01:18] Загружено 300 уже отправленных новостей
+[2026-10-22 10:01:18] === Запуск блока: midday (тест: False) ===
+[2026-10-22 10:01:18] Неизвестный источник (thehackernews.com): PHP2Shell: Two Unpatched Critical PHP RC
+[2026-10-22 10:01:18] Неизвестный источник (usatoday.com): Tyler Cameron fiancée Tate Madden reveal
+[2026-10-22 10:01:18] Пропускаю уже отправленную: France is divided over who to blame for and what t
+[2026-10-22 10:01:18] Пропускаю уже отправленную: Musk chose to restrict Ukraine's access to SpaceX 
+[2026-10-22 10:01:18] Неизвестный источник (hollywoodreporter.com): Grab the Tissues, It’s Dedication Night 
+[2026-10-22 10:01:18] Неизвестный источник (pressdemocrat.com): Petaluma woman arrested and charged in T
+[2026-10-22 10:01:18] Неизвестный источник (espn.com): Ryan Day: Ohio State planning to be with
+[2026-10-22 10:01:18] Спорт, пропускаю: Eagles aren’t being punished for handlin
+[2026-10-22 10:01:18] Неизвестный источник (appleinsider.com): Apple CEO John Ternus says design still 
+[2026-10-22 10:01:18] Заблокированный источник (sports.yahoo.com): Rays vs. Brewers World Series preview: W
+[2026-10-22 10:01:18] Неизвестный источник (variety.com): Netflix Q3 Revenue Meets Wall Street Est
+[2026-10-22 10:01:18] Неизвестный источник (cpr.org): The work of four CU Anschutz doctors is 
+[2026-10-22 10:01:18] Неизвестный источник (pbs.org): Christina Applegate says she was misdiag
+[2026-10-22 10:01:18] Неизвестный источник (9to5google.com): Google says Chrome’s Safe Browsing Enhan
+[2026-10-22 10:01:18] Неизвестный источник (space.com): SpaceX launches its 'Starfall' return ca
+[2026-10-22 10:01:18] Старая новость (2026-10-20T09:40:13Z): Japan launches spacecraft to mysterious 
+[2026-10-22 10:01:18] Старая новость (2026-10-19T20:20:01Z): Cosmic 'hamburger' offers rare edge-on v
+[2026-10-22 10:01:18] Старая новость (2026-10-16T17:45:16Z): Hot flashes, night sweats, insomnia – OB
+[2026-10-22 10:01:18] Мировые новости: найдено 12 после фильтрации
+[2026-10-22 10:01:19] Редакторский отбор: выбраны позиции [1, 10, 11, 9]
+[2026-10-22 10:01:19] Обрабатываю: Witkoff to present Putin with peace proposal after talks wit | https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war
+[2026-10-22 10:01:19] Попытка 1 для: Witkoff to present Putin with peace prop
+[2026-10-22 10:01:22] Успешно, получено 747 символов
+[2026-10-22 10:01:22] Обрабатываю: Alberta rejects a move toward independence from Canada in a  | https://apnews.com/article/alberta-canada-referendum-independence-carn
+[2026-10-22 10:01:22] Попытка 1 для: Alberta rejects a move toward independen
+[2026-10-22 10:01:24] Успешно, получено 946 символов
+[2026-10-22 10:01:24] Обрабатываю: Pennsylvania warns of rise in congenital measles and infecti | https://www.nbcnews.com/health/health-news/pennsylvania-warns-rise-con
+[2026-10-22 10:01:25] Полный текст получен (3000 символов)
+[2026-10-22 10:01:25] Попытка 1 для: Pennsylvania warns of rise in congenital
+[2026-10-22 10:01:27] Успешно, получено 1576 символов
+[2026-10-22 10:01:27] Обрабатываю: ‘France should serve as a wakeup call’: Republicans find a c | https://www.politico.com/news/2026/10/20/france-should-serve-as-a-wake
+[2026-10-22 10:01:27] Попытка 1 для: ‘France should serve as a wakeup call’: 
+[2026-10-22 10:01:29] Успешно, получено 869 символов
+[2026-10-22 10:01:32] Пауза 60 секунд...
+[2026-10-22 10:02:32] Пауза 60 секунд...
+[2026-10-22 10:03:33] Пауза 60 секунд...
+[2026-10-22 10:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-22 10:04:33] === Блок midday завершён ===
