@@ -1,45 +1,3 @@
-[2026-10-18 05:01:08] Внутренний дубль: Russian forces execute captured Ukrainian soldiers
-[2026-10-18 05:01:08] Внутренний дубль: Ukraine loses ability to use Starlink to shoot dow
-[2026-10-18 05:01:08] Внутренний дубль: Ukraine’s Defense Forces strike Russian drone faci
-[2026-10-18 05:01:08] Внутренний дубль: Romania finally holds Russia responsible for the d
-[2026-10-18 05:01:08] Украинские новости: найдено 65 после фильтрации
-[2026-10-18 05:01:10] Редакторский отбор: выбраны позиции [10, 15]
-[2026-10-18 05:01:10] NewsAPI (Харьков, все издания): пришло 40 статей
-[2026-10-18 05:01:11] RSS Ukrinform: 30 записей
-[2026-10-18 05:01:12] RSS Ukrinform: 30 записей
-[2026-10-18 05:01:12] RSS Euromaidan Press: 29 записей
-[2026-10-18 05:01:12] Старая новость (2026-10-15T22:24:27Z): Russia is losing the Black Sea grain war
-[2026-10-18 05:01:12] Старая новость (2026-10-15T20:41:40Z): Ukraine’s military now orders supplies b
-[2026-10-18 05:01:12] Старая новость (2026-10-15T20:20:08Z): Posting strike videos online may help Ru
-[2026-10-18 05:01:12] Старая новость (2026-10-15T19:59:11Z): Ukraine’s shell factories outpace state 
-[2026-10-18 05:01:12] Старая новость (2026-10-15T16:41:19Z): Russian drone cuts down unique energy li
-[2026-10-18 05:01:12] Старая новость (2026-10-15T15:50:52Z): Hungary held $82 million in cash and gol
-[2026-10-18 05:01:12] Старая новость (2026-10-15T14:52:48Z): “Operation to strike Russian targets dee
-[2026-10-18 05:01:12] Внутренний дубль: SSU charges five more Russian soldiers over killin
-[2026-10-18 05:01:12] Внутренний дубль: Russian missile strike on Kharkiv injures three pe
-[2026-10-18 05:01:12] Харьков: найдена новость: SSU charges five more Russian soldiers over killin
-[2026-10-18 05:01:12] Обрабатываю: Trump puts new Russia sanctions passed by Congress on hold,  | https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805
-[2026-10-18 05:01:12] Попытка 1 для: Trump puts new Russia sanctions passed b
-[2026-10-18 05:01:16] Успешно, получено 908 символов
-[2026-10-18 05:01:16] Обрабатываю: Israeli settlers attack Palestinians and Washington Post pho | https://www.washingtonpost.com/world/2026/10/16/palestinians-washingto
-[2026-10-18 05:01:28] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/16/palestinians
-[2026-10-18 05:01:28] Попытка 1 для: Israeli settlers attack Palestinians and
-[2026-10-18 05:01:30] Успешно, получено 822 символов
-[2026-10-18 05:01:30] Обрабатываю: Flu activity is starting to rise. Is this year’s vaccine a g | https://www.nbcnews.com/health/cold-and-flu/years-flu-shot-good-match-
-[2026-10-18 05:01:31] Текст не совпадает с заголовком, беру описание: https://www.nbcnews.com/health/cold-and-flu/years-flu-shot-g
-[2026-10-18 05:01:31] Попытка 1 для: Flu activity is starting to rise. Is thi
-[2026-10-18 05:01:34] Успешно, получено 722 символов
-[2026-10-18 05:01:34] Обрабатываю: US records 4,410 measles cases as outbreak grows | https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-case
-[2026-10-18 05:01:34] Полный текст получен (2085 символов)
-[2026-10-18 05:01:34] Попытка 1 для: US records 4,410 measles cases as outbre
-[2026-10-18 05:01:38] Успешно, получено 1601 символов
-[2026-10-18 05:01:41] Пауза 60 секунд...
-[2026-10-18 05:02:42] Пауза 60 секунд...
-[2026-10-18 05:03:42] Пауза 60 секунд...
-[2026-10-18 05:04:43] Обрабатываю: Journalists identify names of over 281,000 Russian soldiers  | https://www.ukrinform.net/rubric-ato/4175319-journalists-identify-name
-[2026-10-18 05:04:44] Полный текст получен (2297 символов)
-[2026-10-18 05:04:44] Попытка 1 для: Journalists identify names of over 281,0
-[2026-10-18 05:04:47] Успешно, получено 1718 символов
 [2026-10-18 05:04:47] Обрабатываю: Russian strike on energy facility in Chernihiv region leaves | https://www.ukrinform.net/rubric-ato/4175508-russian-strike-on-energy-
 [2026-10-18 05:04:48] Полный текст получен (781 символов)
 [2026-10-18 05:04:48] Попытка 1 для: Russian strike on energy facility in Che
@@ -2998,3 +2956,45 @@
 [2026-10-24 07:03:22] Пауза 60 секунд...
 [2026-10-24 07:04:23] sent_urls.txt обрезан: 304 -> 300
 [2026-10-24 07:04:23] === Блок ai_morning завершён ===
+[2026-10-24 10:01:09] Загружено 300 уже отправленных новостей
+[2026-10-24 10:01:09] === Запуск блока: midday (тест: False) ===
+[2026-10-24 10:01:09] Неизвестный источник (espn.com): Bears' Santos gets redemption with game-
+[2026-10-24 10:01:09] Неизвестный источник (cbssports.com): Denver Nuggets vs. Oklahoma City Thunder
+[2026-10-24 10:01:09] Неизвестный источник (deadline.com): ‘Clayface’ Cashing In $3.5M+ Thursday Pr
+[2026-10-24 10:01:09] Неизвестный источник (9to5mac.com): Greg Joswiak talks iPhone Duo in-store a
+[2026-10-24 10:01:09] Неизвестный источник (ksat.com): 2 Air Force pilots eject safely from air
+[2026-10-24 10:01:09] Неизвестный источник (nbcsports.com): Tonight is Mike Vrabel’s first career ga
+[2026-10-24 10:01:09] Неизвестный источник (pbs.org): Rep. Ilhan Omar says she will move out o
+[2026-10-24 10:01:09] Неизвестный источник (phys.org): What is a neutrino anyway? A look at the
+[2026-10-24 10:01:09] Неизвестный источник (pbs.org): DOJ monitoring plans and DHS voter check
+[2026-10-24 10:01:09] Неизвестный источник (statnews.com): Detailed data confirm Moderna and Merck 
+[2026-10-24 10:01:09] Пропускаю уже отправленную: ‘Just the beginning’: New Mexico AG warns AI indus
+[2026-10-24 10:01:09] Неизвестный источник (pitchfork.com): Charli XCX Will Appear in a Martin Scors
+[2026-10-24 10:01:09] Пропускаю уже отправленную: Why measles outbreak in Pennsylvania poses risks b
+[2026-10-24 10:01:09] Неизвестный источник (hollywoodreporter.com): You Only Audition Twice: Watch Henry Cav
+[2026-10-24 10:01:09] Неизвестный источник (pbs.org): Russian missiles pound Kyiv as Moscow sa
+[2026-10-24 10:01:09] Неизвестный источник (hackaday.com): Japan Launches Mission To Study Martian 
+[2026-10-24 10:01:09] Старая новость (2026-10-22T09:05:39Z): NASA to change how it selects science mi
+[2026-10-24 10:01:09] Мировые новости: найдено 13 после фильтрации
+[2026-10-24 10:01:11] Редакторский отбор: выбраны позиции [2, 1, 11, 3]
+[2026-10-24 10:01:11] Обрабатываю: Powerful earthquake in Tibet's Nagqu area leaves 16 dead | https://www.bbc.com/news/articles/ck5ynd1z6e83o
+[2026-10-24 10:01:11] Полный текст получен (3000 символов)
+[2026-10-24 10:01:11] Попытка 1 для: Powerful earthquake in Tibet's Nagqu are
+[2026-10-24 10:01:13] Успешно, получено 1722 символов
+[2026-10-24 10:01:13] Обрабатываю: What is Shamonda, the livestock virus found for the first ti | https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer
+[2026-10-24 10:01:13] Полный текст получен (2995 символов)
+[2026-10-24 10:01:13] Попытка 1 для: What is Shamonda, the livestock virus fo
+[2026-10-24 10:01:16] Успешно, получено 1881 символов
+[2026-10-24 10:01:16] Обрабатываю: Hackers appear to be struggling to exploit PHP flaws after g | https://www.nbcnews.com/tech/security/hackers-php-flaws-cybersecurity-
+[2026-10-24 10:01:17] Полный текст получен (3000 символов)
+[2026-10-24 10:01:17] Попытка 1 для: Hackers appear to be struggling to explo
+[2026-10-24 10:01:19] Успешно, получено 1602 символов
+[2026-10-24 10:01:19] Обрабатываю: Grenade exercise sparked deadly fire at Canada military base | https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-dea
+[2026-10-24 10:01:19] Полный текст получен (2034 символов)
+[2026-10-24 10:01:19] Попытка 1 для: Grenade exercise sparked deadly fire at 
+[2026-10-24 10:01:27] Успешно, получено 1734 символов
+[2026-10-24 10:01:30] Пауза 60 секунд...
+[2026-10-24 10:02:30] Пауза 60 секунд...
+[2026-10-24 10:03:31] Пауза 60 секунд...
+[2026-10-24 10:04:31] sent_urls.txt обрезан: 304 -> 300
+[2026-10-24 10:04:31] === Блок midday завершён ===
