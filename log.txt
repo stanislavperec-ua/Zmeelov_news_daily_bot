@@ -1,44 +1,3 @@
-[2026-10-19 05:01:29] Попытка 1 для: European diplomats attacked in West Bank
-[2026-10-19 05:01:32] Успешно, получено 951 символов
-[2026-10-19 05:01:32] Обрабатываю: US debt interest costs hit $3 billion a day and jumped 8% in | https://fortune.com/2026/10/17/us-debt-interest-payments-fiscal-2026-1
-[2026-10-19 05:01:32] Полный текст получен (3000 символов)
-[2026-10-19 05:01:32] Попытка 1 для: US debt interest costs hit $3 billion a 
-[2026-10-19 05:01:36] Успешно, получено 3323 символов
-[2026-10-19 05:01:36] Обрабатываю: 7 highlights from JD Vance's CBS News town hall: Iran, immig | https://www.cbsnews.com/news/jd-vance-cbs-town-hall-highlights-michiga
-[2026-10-19 05:01:36] Полный текст получен (3000 символов)
-[2026-10-19 05:01:36] Попытка 1 для: 7 highlights from JD Vance's CBS News to
-[2026-10-19 05:01:38] Успешно, получено 1783 символов
-[2026-10-19 05:01:41] Пауза 60 секунд...
-[2026-10-19 05:02:42] Пауза 60 секунд...
-[2026-10-19 05:03:42] Пауза 60 секунд...
-[2026-10-19 05:04:43] Обрабатываю: Russian missile attack on Kyiv kills one person and injures  | https://www.ukrinform.net/rubric-ato/4175736-russian-missile-attack-on
-[2026-10-19 05:04:44] Полный текст получен (867 символов)
-[2026-10-19 05:04:44] Попытка 1 для: Russian missile attack on Kyiv kills one
-[2026-10-19 05:04:46] Успешно, получено 1187 символов
-[2026-10-19 05:04:46] Обрабатываю: Zelensky: Ready to run in election before war ends | https://www.ukrinform.net/rubric-polytics/4175735-zelensky-ready-to-ru
-[2026-10-19 05:04:47] Полный текст получен (1576 символов)
-[2026-10-19 05:04:47] Попытка 1 для: Zelensky: Ready to run in election befor
-[2026-10-19 05:04:49] Успешно, получено 1514 символов
-[2026-10-19 05:04:49] Обрабатываю: Russian UAV strike hits car in Kharkiv region, injuring two  | https://www.ukrinform.net/rubric-ato/4175702-russian-uav-strike-hits-c
-[2026-10-19 05:04:50] Полный текст получен (1051 символов)
-[2026-10-19 05:04:50] Попытка 1 для: Russian UAV strike hits car in Kharkiv r
-[2026-10-19 05:04:53] Успешно, получено 1204 символов
-[2026-10-19 05:04:56] Пауза 60 секунд...
-[2026-10-19 05:05:56] Пауза 60 секунд...
-[2026-10-19 05:06:57] sent_urls.txt обрезан: 307 -> 300
-[2026-10-19 05:06:57] === Блок morning завершён ===
-[2026-10-19 07:01:05] Загружено 300 уже отправленных новостей
-[2026-10-19 07:01:05] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-19 07:01:05] Неизвестный источник (opiniojuris.org): Events and Announcements: 18 October 202
-[2026-10-19 07:01:05] Неизвестный источник (thehindubusinessline.com): AdaniConneX to use air cooling at Vizag 
-[2026-10-19 07:01:05] Неизвестный источник (business-standard.com): AdaniConneX's Vizag data centres to use 
-[2026-10-19 07:01:05] Неизвестный источник (techradar.com): How to fix a malware-infected PC
-[2026-10-19 07:01:05] Заблокированный источник (naturalnews.com): Y Combinator Startup Outlit Pitches AI A
-[2026-10-19 07:01:05] Неизвестный источник (economictimes.indiatimes.com): Mega Jio Platforms IPO to lead Rs 31,663
-[2026-10-19 07:01:05] Нет фото: optima-ml 0.4.0a7
-[2026-10-19 07:01:05] Неизвестный источник (economictimes.indiatimes.com): Hollywood's fresh take on tech titans: f
-[2026-10-19 07:01:05] Неизвестный источник (digitaljournal.com): Hollywood’s fresh take on tech titans: f
-[2026-10-19 07:01:05] Неизвестный источник (articles.mercola.com): Blood Clots May Be the Root Cause of All
 [2026-10-19 07:01:05] Нет фото: Comparative performance analysis of adap
 [2026-10-19 07:01:05] Неизвестный источник (techradar.com): World's smallest PC with a 16GB GDDR7 de
 [2026-10-19 07:01:05] Неизвестный источник (bleedingcool.com): Inglorious X-Force #10 Preview: Cable's 
@@ -2998,3 +2957,44 @@
 [2026-10-25 08:04:09] Пауза 60 секунд...
 [2026-10-25 08:05:09] sent_urls.txt обрезан: 304 -> 300
 [2026-10-25 08:05:09] === Блок ai_morning завершён ===
+[2026-10-25 11:01:08] Загружено 300 уже отправленных новостей
+[2026-10-25 11:01:08] === Запуск блока: midday (тест: False) ===
+[2026-10-25 11:01:08] Неизвестный источник (mmafighting.com): Arman Tsarukyan steps on Dillon Danis af
+[2026-10-25 11:01:08] Заблокированный источник (nypost.com): El-Sayed refuses to answer questions abo
+[2026-10-25 11:01:08] Заблокированный источник (sports.yahoo.com): Rays vs. Brewers live updates, lineups, 
+[2026-10-25 11:01:08] Неизвестный источник (wral.com): Guilty: Faith Hedgepeth's killer sentenc
+[2026-10-25 11:01:08] Неизвестный источник (ktla.com): Second raccoon tests positive for rabies
+[2026-10-25 11:01:08] Пропускаю уже отправленную: Former FBI officials charged with lying to Congres
+[2026-10-25 11:01:08] Неизвестный источник (9to5mac.com): Apple exploring fix for Safari’s cramped
+[2026-10-25 11:01:08] Неизвестный источник (9to5mac.com): Apple’s official DIY repair guides for t
+[2026-10-25 11:01:08] Неизвестный источник (space.com): NASA lays out plan for Artemis 3 moon-la
+[2026-10-25 11:01:08] Неизвестный источник (cbssports.com): College football picks: Predictions agai
+[2026-10-25 11:01:08] Неизвестный источник (macrumors.com): Apple Store Pickup for iPhone Duo Starti
+[2026-10-25 11:01:08] Неизвестный источник (space.com): Halley's Comet dazzles from afar in spec
+[2026-10-25 11:01:08] Неизвестный источник (fool.com): Anthropic Is Racing to Price Its IPO Bef
+[2026-10-25 11:01:08] Неизвестный источник (deadline.com): ‘Clayface’ Cashes In $3.5M Previews; ‘Yo
+[2026-10-25 11:01:08] Неизвестный источник (sciencedaily.com): One of Earth’s most powerful supervolcan
+[2026-10-25 11:01:08] Старая новость (2026-10-22T16:46:36Z): World's first round-trip mission to Mars
+[2026-10-25 11:01:08] Старая новость (2026-10-22T15:36:00Z): Four advantages MacBook Pro redesign wil
+[2026-10-25 11:01:08] Мировые новости: найдено 11 после фильтрации
+[2026-10-25 11:01:09] Редакторский отбор: выбраны позиции [11, 1, 4, 8]
+[2026-10-25 11:01:09] Обрабатываю: Ukrainian negotiator says local humanitarian ceasefire with  | https://apnews.com/article/russia-ukraine-war-ceasefire-oleshky-melani
+[2026-10-25 11:01:09] Попытка 1 для: Ukrainian negotiator says local humanita
+[2026-10-25 11:01:12] Успешно, получено 1088 символов
+[2026-10-25 11:01:12] Обрабатываю: Iran trying harder to target US personnel in Middle East, in | https://www.bbc.com/news/articles/cmn8w1ddg2x9o
+[2026-10-25 11:01:12] Полный текст получен (3000 символов)
+[2026-10-25 11:01:12] Попытка 1 для: Iran trying harder to target US personne
+[2026-10-25 11:01:14] Успешно, получено 1669 символов
+[2026-10-25 11:01:14] Обрабатываю: Hospital in Yemen’s Taiz warns of collapse in days because o | https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warn
+[2026-10-25 11:01:14] Полный текст получен (3000 символов)
+[2026-10-25 11:01:14] Попытка 1 для: Hospital in Yemen’s Taiz warns of collap
+[2026-10-25 11:01:19] Успешно, получено 2089 символов
+[2026-10-25 11:01:19] Обрабатываю: Trump administration’s election lawsuits are on shaky legal  | https://www.nbcnews.com/politics/elections/trump-administrations-elect
+[2026-10-25 11:01:19] Полный текст получен (594 символов)
+[2026-10-25 11:01:19] Попытка 1 для: Trump administration’s election lawsuits
+[2026-10-25 11:01:24] Успешно, получено 1485 символов
+[2026-10-25 11:01:28] Пауза 60 секунд...
+[2026-10-25 11:02:28] Пауза 60 секунд...
+[2026-10-25 11:03:29] Пауза 60 секунд...
+[2026-10-25 11:04:30] sent_urls.txt обрезан: 304 -> 300
+[2026-10-25 11:04:30] === Блок midday завершён ===
