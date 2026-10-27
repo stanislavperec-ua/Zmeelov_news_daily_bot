@@ -1,42 +1,3 @@
-[2026-10-21 07:04:38] sent_urls.txt обрезан: 304 -> 300
-[2026-10-21 07:04:38] === Блок ai_morning завершён ===
-[2026-10-21 10:01:10] Загружено 300 уже отправленных новостей
-[2026-10-21 10:01:10] === Запуск блока: midday (тест: False) ===
-[2026-10-21 10:01:11] Лента обновлений, пропускаю: Helen Haines: Father of suspect in Austr
-[2026-10-21 10:01:11] Неизвестный источник (bgr.com): 5 Cheaper OLED TVs To Buy Instead Of The
-[2026-10-21 10:01:11] Заблокированный источник (sports.yahoo.com): Commanders star Terry McLaurin carted of
-[2026-10-21 10:01:11] Спорт, пропускаю: Tampa Bay Rays advance to World Series, 
-[2026-10-21 10:01:11] Неизвестный источник (fox5vegas.com): Man accused of stealing Las Vegas flamin
-[2026-10-21 10:01:11] Неизвестный источник (ew.com): Sahara Ray, model and rumored ex of Just
-[2026-10-21 10:01:11] Неизвестный источник (variety.com): ‘You Can See Everything’ Sets Oscar Camp
-[2026-10-21 10:01:11] Неизвестный источник (pbs.org): Trump escalates clash with Zelenskyy as 
-[2026-10-21 10:01:11] Неизвестный источник (sfgate.com): The latest Mike Evans, Christian Kirk in
-[2026-10-21 10:01:11] Неизвестный источник (weather.com): Orionid meteor shower 2026: cloud cover 
-[2026-10-21 10:01:11] Неизвестный источник (pitchfork.com): Muna Safe After Tour Bus Fire - Pitchfor
-[2026-10-21 10:01:11] Неизвестный источник (pbs.org): Longtime CNN anchor Christiane Amanpour 
-[2026-10-21 10:01:11] Неизвестный источник (macrumors.com): Apple Starts Moving Up iPhone Duo Delive
-[2026-10-21 10:01:11] Неизвестный источник (howtogeek.com): A developer used AI to build 7 free Adob
-[2026-10-21 10:01:11] Неизвестный источник (wsbtv.com): Diners at Georgia Longhorn Steakhouse co
-[2026-10-21 10:01:11] Неизвестный источник (clickorlando.com): SpaceX launch could create ‘space jellyf
-[2026-10-21 10:01:11] Неизвестный источник (gizmodo.com): Scientists Just Revived Pig Kidneys Froz
-[2026-10-21 10:01:11] Старая новость (2026-10-16T17:45:16Z): Hot flashes, night sweats, insomnia – OB
-[2026-10-21 10:01:11] Мировые новости: найдено 12 после фильтрации
-[2026-10-21 10:01:12] Редакторский отбор: выбраны позиции [2, 3, 1, 7]
-[2026-10-21 10:01:12] Обрабатываю: Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of  | https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-m
-[2026-10-21 10:01:12] Попытка 1 для: Scoop: Pete Hegseth meets with Netanyahu
-[2026-10-21 10:01:14] Успешно, получено 1102 символов
-[2026-10-21 10:01:14] Обрабатываю: Japan launches spacecraft to mysterious moons of Mars in a b | https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8a
-[2026-10-21 10:01:14] Попытка 1 для: Japan launches spacecraft to mysterious 
-[2026-10-21 10:01:17] Успешно, получено 1050 символов
-[2026-10-21 10:01:17] Обрабатываю: Alberta voters reject a move toward independence in referend | https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada
-[2026-10-21 10:01:17] Полный текст получен (3000 символов)
-[2026-10-21 10:01:17] Попытка 1 для: Alberta voters reject a move toward inde
-[2026-10-21 10:01:21] Успешно, получено 1575 символов
-[2026-10-21 10:01:21] Обрабатываю: From France to Albania, social unrest is setting Europe’s st | https://apnews.com/article/europe-riots-protest-france-italy-spain-alb
-[2026-10-21 10:01:21] Попытка 1 для: From France to Albania, social unrest is
-[2026-10-21 10:01:23] Успешно, получено 1116 символов
-[2026-10-21 10:01:26] Пауза 60 секунд...
-[2026-10-21 10:02:26] Пауза 60 секунд...
 [2026-10-21 10:03:27] Пауза 60 секунд...
 [2026-10-21 10:04:27] sent_urls.txt обрезан: 304 -> 300
 [2026-10-21 10:04:27] === Блок midday завершён ===
@@ -2998,3 +2959,42 @@
 [2026-10-27 08:03:34] Пауза 60 секунд...
 [2026-10-27 08:04:35] sent_urls.txt обрезан: 304 -> 300
 [2026-10-27 08:04:35] === Блок ai_morning завершён ===
+[2026-10-27 11:01:13] Загружено 300 уже отправленных новостей
+[2026-10-27 11:01:13] === Запуск блока: midday (тест: False) ===
+[2026-10-27 11:01:14] Неизвестный источник (nba.com): Thunder lose Jalen Williams to serious l
+[2026-10-27 11:01:14] Неизвестный источник (espn.com): Jaxon Smith-Njigba, stifling defense hel
+[2026-10-27 11:01:14] Неизвестный источник (ksl.com): 'You Can See Everything' surges with $19
+[2026-10-27 11:01:14] Неизвестный источник (cbssports.com): NFL Week 7 grades: Falcons earn solid 'A
+[2026-10-27 11:01:14] Неизвестный источник (phys.org): Lumina simulation brings the early unive
+[2026-10-27 11:01:14] Пропускаю уже отправленную: Deeply divided Israel braces for pivotal election 
+[2026-10-27 11:01:14] Неизвестный источник (appleinsider.com): Hinge damage suspected to be behind iPho
+[2026-10-27 11:01:14] Пропускаю уже отправленную: U.S. measles cases more than double what they were
+[2026-10-27 11:01:14] Неизвестный источник (nbcsports.com): 49ers lose their first game of the seaso
+[2026-10-27 11:01:14] Неизвестный источник (instyle.com): Tom Brady, 49, and Supermodel Candice Sw
+[2026-10-27 11:01:14] Неизвестный источник (bgr.com): How To Build A Cheap Home Server To Save
+[2026-10-27 11:01:14] Неизвестный источник (marketwatch.com): More than a third of S&P 500 companies a
+[2026-10-27 11:01:14] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
+[2026-10-27 11:01:14] Старая новость (2026-10-25T02:04:00Z): Should you get a flu shot now? What we k
+[2026-10-27 11:01:14] Старая новость (2026-10-24T16:30:36Z): NASA Contractor on why Space Shuttle sme
+[2026-10-27 11:01:14] Мировые новости: найдено 10 после фильтрации
+[2026-10-27 11:01:15] Редакторский отбор: выбраны позиции [1, 3, 5, 6]
+[2026-10-27 11:01:16] Обрабатываю: Jordan arrests three suspects in deadly church attack | https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspect
+[2026-10-27 11:01:16] Полный текст получен (3000 символов)
+[2026-10-27 11:01:16] Попытка 1 для: Jordan arrests three suspects in deadly 
+[2026-10-27 11:01:19] Успешно, получено 1664 символов
+[2026-10-27 11:01:19] Обрабатываю: SpaceX closes $40 billion debt deal for AI chips, Elon Musk  | https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for
+[2026-10-27 11:01:19] Полный текст получен (1641 символов)
+[2026-10-27 11:01:19] Попытка 1 для: SpaceX closes $40 billion debt deal for 
+[2026-10-27 11:01:23] Успешно, получено 1935 символов
+[2026-10-27 11:01:23] Обрабатываю: Elon Musk says SpaceX was behind restrictions to Ukraine’s S | https://www.washingtonpost.com/world/2026/10/25/elon-musk-says-spacex-
+[2026-10-27 11:01:36] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/25/elon-musk-sa
+[2026-10-27 11:01:36] Попытка 1 для: Elon Musk says SpaceX was behind restric
+[2026-10-27 11:01:38] Успешно, получено 678 символов
+[2026-10-27 11:01:38] Обрабатываю: Justice Department faces skeptical appeals court panel in Ca | https://www.politico.com/news/2026/10/25/doj-appeals-court-california-
+[2026-10-27 11:01:38] Попытка 1 для: Justice Department faces skeptical appea
+[2026-10-27 11:01:41] Успешно, получено 786 символов
+[2026-10-27 11:01:44] Пауза 60 секунд...
+[2026-10-27 11:02:44] Пауза 60 секунд...
+[2026-10-27 11:03:45] Пауза 60 секунд...
+[2026-10-27 11:04:45] sent_urls.txt обрезан: 304 -> 300
+[2026-10-27 11:04:45] === Блок midday завершён ===
