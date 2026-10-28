@@ -44,6 +44,7 @@ jobs:
         run: python news_bot.py
 
       - name: Commit state
+        if: always()
         run: |
           git config user.email "bot@github.com"
           git config user.name "News Bot"

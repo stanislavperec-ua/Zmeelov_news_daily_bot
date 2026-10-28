@@ -376,8 +376,13 @@ def remember_story(title):
     learn_titles([title])
     if TEST_MODE:
         return
-    with open(SENT_STORIES_FILE, "a", encoding="utf-8") as f:
-        f.write(f"{datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+    # A failed write must not stop the run: the news is already published,
+    # and the state commit after the run still has to save sent_urls.txt
+    try:
+        with open(SENT_STORIES_FILE, "a", encoding="utf-8") as f:
+            f.write(f"{datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+    except Exception as e:
+        log(f"Could not save story memory: {e}")
 
 
 def trim_story_memory():
@@ -385,10 +390,13 @@ def trim_story_memory():
     if TEST_MODE:
         return
     cutoff = now_utc - timedelta(hours=STORY_MEMORY_HOURS)
-    with open(SENT_STORIES_FILE, "w", encoding="utf-8") as f:
-        for when, title in story_memory:
-            if when >= cutoff:
-                f.write(f"{when.strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+    try:
+        with open(SENT_STORIES_FILE, "w", encoding="utf-8") as f:
+            for when, title in story_memory:
+                if when >= cutoff:
+                    f.write(f"{when.strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+    except Exception as e:
+        log(f"Could not trim story memory: {e}")
 
 
 def recent_story_titles(hours=48, limit=40):
