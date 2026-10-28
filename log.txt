@@ -1,43 +1,3 @@
-[2026-10-23 05:01:05] Загружено 300 уже отправленных новостей
-[2026-10-23 05:01:05] === Запуск блока: morning (тест: False) ===
-[2026-10-23 05:01:06] Неизвестный источник (wisn.com): Watch WISN 12's Commitment 2026 Wisconsi
-[2026-10-23 05:01:06] Неизвестный источник (rollingstone.com): John Anderson, Country Music Hall of Fam
-[2026-10-23 05:01:06] Неизвестный источник (espn.com): Dream arrange suite for Enes Kanter Free
-[2026-10-23 05:01:06] Неизвестный источник (nbcsports.com): Senator Lisa Blunt Rochester seeks answe
-[2026-10-23 05:01:06] Неизвестный источник (macrumors.com): iPhone Duo Reviewers Really Miss Face ID
-[2026-10-23 05:01:06] Лента обновлений, пропускаю: One GOP candidate in Ohio personally ask
-[2026-10-23 05:01:06] Неизвестный источник (seekingalpha.com): Tesla earnings call: Musk talks EV deman
-[2026-10-23 05:01:06] Заблокированный источник (finance.yahoo.com): Meta earnings live: Meta tops Q3 revenue
-[2026-10-23 05:01:06] Неизвестный источник (pbs.org): Pope Leo's tests show he needs no furthe
-[2026-10-23 05:01:06] Неизвестный источник (koco.com): Orionid meteor shower peaks tonight — He
-[2026-10-23 05:01:06] Неизвестный источник (bleacherreport.com): J.J. McCarthy Named Giants QB1 Over Jame
-[2026-10-23 05:01:06] Неизвестный источник (deadline.com): Lea Michele In Talks To Reprise Rachel B
-[2026-10-23 05:01:06] Неизвестный источник (pbs.org): Chemical tank explosion in Ohio of glyci
-[2026-10-23 05:01:06] Неизвестный источник (cbssports.com): How the Brewers and Rays have fared in t
-[2026-10-23 05:01:06] Неизвестный источник (collider.com): DC Studios Boss Peter Safran Confirms a 
-[2026-10-23 05:01:06] Старая новость (2026-10-21T04:18:02Z): Body clock disruptions contribute to one
-[2026-10-23 05:01:06] Старая новость (2026-10-20T16:16:08Z): SpaceX just launched its secret Starfall
-[2026-10-23 05:01:06] Мировые новости: найдено 11 после фильтрации
-[2026-10-23 05:01:07] Редакторский отбор: выбраны позиции [8, 2, 3, 4]
-[2026-10-23 05:01:08] RSS Ukrinform: 30 записей
-[2026-10-23 05:01:08] Пропускаю уже отправленную: Ukraine's population falls to 28.5 million, accord
-[2026-10-23 05:01:09] RSS Ukrinform: 30 записей
-[2026-10-23 05:01:09] Пропускаю уже отправленную: Russian strikes hit 12 Ukrainian regions overnight
-[2026-10-23 05:01:09] RSS Euromaidan Press: 29 записей
-[2026-10-23 05:01:09] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-23 05:01:09] Заблокированный источник (sputnikglobe.com): Trump Holds Back on Russia Sanctions as 
-[2026-10-23 05:01:09] Заблокированный источник (biztoc.com): Russian strikes on Kyiv injure 15, hit a
-[2026-10-23 05:01:09] Заблокированный источник (biztoc.com): Restaurant on fire, another building dam
-[2026-10-23 05:01:09] Нет фото: India’s dilemma
-[2026-10-23 05:01:09] Спорт, пропускаю: Every player from Arkansas to play for t
-[2026-10-23 05:01:09] Заблокированный источник (yahoo.com): Trump faces fresh questions over ties to
-[2026-10-23 05:01:09] Нет фото: Trump’s special envoy calls Vladimir Put
-[2026-10-23 05:01:09] Нет фото: Witkoff faces backlash for calling Putin
-[2026-10-23 05:01:09] Заблокированный источник (biztoc.com): Air raid alert issued in Kyiv
-[2026-10-23 05:01:09] Внутренний дубль: Ukraine’s Defense Forces neutralize 408,000 Russia
-[2026-10-23 05:01:09] Внутренний дубль: Russian forces launch massive drone attack on Sumy
-[2026-10-23 05:01:09] Внутренний дубль: Ukrainian forces hit two Russian air defense syste
-[2026-10-23 05:01:09] Внутренний дубль: Number of Russian drones used in southern Ukraine 
 [2026-10-23 05:01:09] Внутренний дубль: Death toll from Russian strike on Zaporizhzhia ris
 [2026-10-23 05:01:09] Внутренний дубль: Russian strike on Lozova market: Two killed, injur
 [2026-10-23 05:01:09] Внутренний дубль: Russian drone attack damages homes, cars in Bucha 
@@ -2998,3 +2958,43 @@
 [2026-10-28 08:04:03] Пауза 60 секунд...
 [2026-10-28 08:05:04] sent_urls.txt обрезан: 304 -> 300
 [2026-10-28 08:05:04] === Блок ai_morning завершён ===
+[2026-10-28 11:01:13] Загружено 300 уже отправленных новостей
+[2026-10-28 11:01:13] === Запуск блока: midday (тест: False) ===
+[2026-10-28 11:01:13] Story memory: 98 headlines from the last 96 h
+[2026-10-28 11:01:13] Заблокированный источник (finance.yahoo.com): Here's the cash windfall the Anthropic I
+[2026-10-28 11:01:13] Неизвестный источник (tmz.com): Ex-NBA Star Paul Pierce ‘Drowning Financ
+[2026-10-28 11:01:13] Заблокированный источник (sports.yahoo.com): World Series 2026: Jackson Chourio, stil
+[2026-10-28 11:01:13] Неизвестный источник (9to5google.com): Google Photos rolls out customizable red
+[2026-10-28 11:01:13] Неизвестный источник (hollywoodreporter.com): Aaron Sorkin on Directing Doubts, 'The W
+[2026-10-28 11:01:13] Спорт, пропускаю: Judge halts tree removal, imposes new li
+[2026-10-28 11:01:13] Неизвестный источник (rollingstone.com): Taylor Swift Says 'There Is No Music Com
+[2026-10-28 11:01:13] Неизвестный источник (nbcsports.com): Thunder's Jalen Williams has dislocated 
+[2026-10-28 11:01:13] Неизвестный источник (gamesindustry.biz): Xbox staff among up to 60,000 Microsoft 
+[2026-10-28 11:01:13] Пропускаю уже отправленную: Pope's South American trip to go ahead following l
+[2026-10-28 11:01:13] Неизвестный источник (space.com): NASA ends Swift space telescope mission 
+[2026-10-28 11:01:13] Неизвестный источник (macrumors.com): Apple Releases watchOS 27.2 With Siri AI
+[2026-10-28 11:01:13] Неизвестный источник (phys.org): Clouds on a lava planet challenge what a
+[2026-10-28 11:01:13] Неизвестный источник (nbcdfw.com): More women are dying from heart disease.
+[2026-10-28 11:01:13] Старая новость (2026-10-25T20:35:35Z): U.S. measles cases more than double what
+[2026-10-28 11:01:13] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
+[2026-10-28 11:01:13] Мировые новости: найдено 11 после фильтрации
+[2026-10-28 11:01:16] Редакторский отбор: выбраны позиции [7, 10, 4, 2]
+[2026-10-28 11:01:16] Обрабатываю: Brazil's election ignites MAGA's midterm warnings | https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazi
+[2026-10-28 11:01:16] Попытка 1 для: Brazil's election ignites MAGA's midterm
+[2026-10-28 11:01:18] Успешно, получено 817 символов
+[2026-10-28 11:01:18] Обрабатываю: Trump administration attempting to prosecute former FBI Dire | https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-atte
+[2026-10-28 11:01:19] Полный текст получен (3000 символов)
+[2026-10-28 11:01:19] Попытка 1 для: Trump administration attempting to prose
+[2026-10-28 11:01:21] Успешно, получено 1633 символов
+[2026-10-28 11:01:21] Обрабатываю: Trump allies fall in two elections as Netanyahu faces next t | https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-
+[2026-10-28 11:01:21] Попытка 1 для: Trump allies fall in two elections as Ne
+[2026-10-28 11:01:23] Успешно, получено 1116 символов
+[2026-10-28 11:01:23] Обрабатываю: UK prosecutors charge two after RAF Fairford incident | https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-af
+[2026-10-28 11:01:23] Полный текст получен (3000 символов)
+[2026-10-28 11:01:23] Попытка 1 для: UK prosecutors charge two after RAF Fair
+[2026-10-28 11:01:28] Успешно, получено 1798 символов
+[2026-10-28 11:01:30] Пауза 60 секунд...
+[2026-10-28 11:02:31] Пауза 60 секунд...
+[2026-10-28 11:03:32] Пауза 60 секунд...
+[2026-10-28 11:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-10-28 11:04:33] === Блок midday завершён ===
