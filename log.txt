@@ -2998,3 +2998,110 @@
 [2026-10-28 06:06:07] Пауза 60 секунд...
 [2026-10-28 06:07:07] sent_urls.txt обрезан: 307 -> 300
 [2026-10-28 06:07:07] === Блок morning завершён ===
+[2026-10-28 06:54:17] Загружено 300 уже отправленных новостей
+[2026-10-28 06:54:17] === Запуск блока: morning (тест: True) ===
+[2026-10-28 06:54:17] Story memory: 102 headlines from the last 96 h
+[2026-10-28 06:54:18] Пропускаю уже отправленную: Bolsonaro effectively concedes in Brazil after Tru
+[2026-10-28 06:54:18] Пропускаю уже отправленную: Israel's election is wide open. Here's what could 
+[2026-10-28 06:54:18] Заблокированный источник (sports.yahoo.com): World Series 2026: Brewers on cusp of fi
+[2026-10-28 06:54:18] Неизвестный источник (macrumors.com): New iMac and 14-Inch MacBook Pro With M6
+[2026-10-28 06:54:18] Спорт, пропускаю: Judge halts tree removal, imposes new li
+[2026-10-28 06:54:18] Неизвестный источник (rollingstone.com): Taylor Swift Says 'There Is No Music Com
+[2026-10-28 06:54:18] Неизвестный источник (nbcsports.com): Ballon d’Or 2026: Harry Kane, Alexia Put
+[2026-10-28 06:54:18] Спорт, пропускаю: WNBA championship may be decided on a Th
+[2026-10-28 06:54:18] Неизвестный источник (vulture.com): Netflix Power Couple Chrishell Stause an
+[2026-10-28 06:54:18] Неизвестный источник (9to5mac.com): Siri AI keeps getting better, here’s wha
+[2026-10-28 06:54:18] Пропускаю уже отправленную: Pope's South American trip to go ahead following l
+[2026-10-28 06:54:18] Неизвестный источник (space.com): NASA ends Swift space telescope mission 
+[2026-10-28 06:54:18] Пропускаю уже отправленную: Jordan arrests three suspects over church attack i
+[2026-10-28 06:54:18] Неизвестный источник (nbcdfw.com): More women are dying from heart disease.
+[2026-10-28 06:54:18] Неизвестный источник (videocardz.com): Nintendo Switch games now run natively o
+[2026-10-28 06:54:18] Старая новость (2026-10-25T20:35:35Z): U.S. measles cases more than double what
+[2026-10-28 06:54:18] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
+[2026-10-28 06:54:18] Мировые новости: найдено 12 после фильтрации
+[2026-10-28 06:54:20] Редакторский отбор: выбраны позиции [1, 12, 5, 6]
+[2026-10-28 06:54:21] RSS Ukrinform: 30 записей
+[2026-10-28 06:54:21] Пропускаю уже отправленную: Norway allocates nearly $54M in energy support for
+[2026-10-28 06:54:21] Пропускаю уже отправленную: Zelensky: Russia fires over 100 ballistic missiles
+[2026-10-28 06:54:23] RSS Ukrinform: 30 записей
+[2026-10-28 06:54:23] Пропускаю уже отправленную: Zelensky: Russia fires over 100 ballistic missiles
+[2026-10-28 06:54:23] RSS Euromaidan Press: 29 записей
+[2026-10-28 06:54:23] NewsAPI (мировые про Украину): пришло 45 статей
+[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Ukraine's Starlink slowdown only dropped
+[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Russia reports strikes on Ukrainian mili
+[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Trump boasts about U.S. oil giants cashi
+[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Oil Surges 4% After Deadly Attacks in Sa
+[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Russia, Ukraine Fulfill Obligations Unde
+[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Zelensky Rejects Trump Remarks as “Total
+[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Residents who survived on weeds and rice
+[2026-10-28 06:54:23] Нет фото: Zelensky Accuses Hegseth of Delaying Pat
+[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Kyiv mayor reports strikes on 3 building
+[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): The “influencer who doesn’t exist”: Soci
+[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): Why Mikel Arteta is so impressed by Cead
+[2026-10-28 06:54:23] Спорт, пропускаю: Every player from California to play for
+[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): QUENTIN LETTS: His policies are as skimp
+[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): QUENTIN LETTS: His policies are as skimp
+[2026-10-28 06:54:23] Same story twice in candidates: Air defenses neutralize 71 Russian drones overnigh
+[2026-10-28 06:54:23] Same story twice in candidates: Russia's war casualty toll in Ukraine up by 1,510 
+[2026-10-28 06:54:23] Same story twice in candidates: Russian forces strike Zaporizhzhia region 846 time
+[2026-10-28 06:54:23] Same story twice in candidates: Injury toll from Russian attack on Kharkiv rises t
+[2026-10-28 06:54:23] Same story twice in candidates: Fire reported at steelworks in Russia's Lipetsk af
+[2026-10-28 06:54:23] Same story twice in candidates: Kyiv to allocate UAH 1 bn for water crossings over
+[2026-10-28 06:54:23] Same story twice in candidates: Soldier who held position alone for 491 days nomin
+[2026-10-28 06:54:23] Same story twice in candidates: Russian forces strike apartment building in Kharki
+[2026-10-28 06:54:23] Same story twice in candidates: War update: 178 clashes on front line, Pokrovsk se
+[2026-10-28 06:54:23] Same story twice in candidates: Threat to Sloviansk-Kramatorsk agglomeration persi
+[2026-10-28 06:54:23] Same story twice in candidates: Ukrainian forces have successfully adapted Russian
+[2026-10-28 06:54:23] Same story twice in candidates: Russian Geran-4 jet-powered attack drones have nea
+[2026-10-28 06:54:23] Same story twice in candidates: Ceasefire in Oleshky being fully observed, Lubinet
+[2026-10-28 06:54:23] Same story twice in candidates: Ukraine intercepts nearly 60% of Russia’s Geran-4 
+[2026-10-28 06:54:23] Same story twice in candidates: Postal service Nova Post says it has already shot 
+[2026-10-28 06:54:23] Same story twice in candidates: Local ceasefire brokered by Melania Trump starts i
+[2026-10-28 06:54:23] Same story twice in candidates: Russia, Ukraine begin US-brokered ceasefire in Ole
+[2026-10-28 06:54:23] Украинские новости: найдено 78 после фильтрации
+[2026-10-28 06:54:26] Отбор не дал номеров, беру по порядку. Ответ модели: 
+[2026-10-28 06:54:26] NewsAPI (Харьков, все издания): пришло 9 статей
+[2026-10-28 06:54:27] RSS Ukrinform: 30 записей
+[2026-10-28 06:54:28] RSS Ukrinform: 30 записей
+[2026-10-28 06:54:28] RSS Euromaidan Press: 29 записей
+[2026-10-28 06:54:28] Заблокированный источник (biztoc.com): Two killed, four wounded in missile stri
+[2026-10-28 06:54:28] Not a news item (listing, forum post), skipping: Internship QA Automation— Grid Dynamics 
+[2026-10-28 06:54:28] Not a news item (listing, forum post), skipping: Internship Data Science — Grid Dynamics 
+[2026-10-28 06:54:28] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Drone Kill
+[2026-10-28 06:54:28] Same story twice in candidates: Injury toll from Russian attack on Kharkiv rises t
+[2026-10-28 06:54:28] Same story twice in candidates: Russian forces strike apartment building in Kharki
+[2026-10-28 06:54:28] Харьков: найдена новость: Injury toll from Russian attack on Kharkiv rises t
+[2026-10-28 06:54:28] Обрабатываю: James Comey charged again by the DOJ | https://www.axios.com/2026/10/26/james-comey-national-defense-informat
+[2026-10-28 06:54:28] Попытка 1 для: James Comey charged again by the DOJ
+[2026-10-28 06:54:30] Успешно, получено 917 символов
+[2026-10-28 06:54:30] Обрабатываю: Microsoft offers a quarter of its global workforce voluntary | https://apnews.com/article/microsoft-buyout-ai-layoff-xbox-c5a639f5361
+[2026-10-28 06:54:31] Попытка 1 для: Microsoft offers a quarter of its global
+[2026-10-28 06:54:32] Успешно, получено 893 символов
+[2026-10-28 06:54:32] Обрабатываю: Chris Mason: The Budget is imminent as tricky things pile up | https://www.bbc.com/news/articles/c317k85r5lglo
+[2026-10-28 06:54:32] Полный текст получен (3000 символов)
+[2026-10-28 06:54:32] Попытка 1 для: Chris Mason: The Budget is imminent as t
+[2026-10-28 06:54:36] Успешно, получено 1820 символов
+[2026-10-28 06:54:36] Обрабатываю: Trump heads to Mississippi for a midterm rally, and the Demo | https://apnews.com/article/election-midterms-donald-trump-ecd5713a939a
+[2026-10-28 06:54:36] Попытка 1 для: Trump heads to Mississippi for a midterm
+[2026-10-28 06:54:48] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6372, Requested 1987. Please try again in 2.6925s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
+[2026-10-28 06:54:48] Лимит запросов, ждём 60 секунд...
+[2026-10-28 06:55:48] Попытка 2 для: Trump heads to Mississippi for a midterm
+[2026-10-28 06:55:50] Успешно, получено 889 символов
+[2026-10-28 06:55:53] Пауза 3 секунд...
+[2026-10-28 06:55:56] Пауза 3 секунд...
+[2026-10-28 06:56:00] Пауза 3 секунд...
+[2026-10-28 06:56:03] Обрабатываю: Air defenses neutralize 71 Russian drones overnight | https://www.ukrinform.net/rubric-ato/4178816-air-defenses-neutralize-7
+[2026-10-28 06:56:04] Полный текст получен (1004 символов)
+[2026-10-28 06:56:04] Попытка 1 для: Air defenses neutralize 71 Russian drone
+[2026-10-28 06:56:08] Успешно, получено 1562 символов
+[2026-10-28 06:56:08] Обрабатываю: Russia's war casualty toll in Ukraine up by 1,510 over past  | https://www.ukrinform.net/rubric-ato/4178814-russias-war-casualty-toll
+[2026-10-28 06:56:08] Полный текст получен (888 символов)
+[2026-10-28 06:56:08] Попытка 1 для: Russia's war casualty toll in Ukraine up
+[2026-10-28 06:56:10] Успешно, получено 1061 символов
+[2026-10-28 06:56:10] Обрабатываю: Injury toll from Russian attack on Kharkiv rises to five | https://www.ukrinform.net/rubric-ato/4178806-injury-toll-from-russian-
+[2026-10-28 06:56:11] Полный текст получен (1117 символов)
+[2026-10-28 06:56:11] Попытка 1 для: Injury toll from Russian attack on Khark
+[2026-10-28 06:56:14] Успешно, получено 1397 символов
+[2026-10-28 06:56:17] Пауза 3 секунд...
+[2026-10-28 06:56:20] Пауза 3 секунд...
+[2026-10-28 06:56:24] === Блок morning завершён ===
