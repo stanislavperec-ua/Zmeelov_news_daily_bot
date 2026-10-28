@@ -61,6 +61,12 @@ elif 19 <= kyiv_hour < 23:
 else:
     BLOCK = "morning"
 
+# In test mode a block can be forced, to check e.g. the AI block in the morning.
+# Only in test mode: a production run always takes the block from the clock.
+TEST_BLOCK = os.environ.get("TEST_BLOCK", "").strip()
+if TEST_MODE and TEST_BLOCK in ("morning", "ai_morning", "midday", "evening", "ai_evening"):
+    BLOCK = TEST_BLOCK
+
 print(f"UTC: {now_utc.hour}, Киев: {kyiv_hour}, блок: {BLOCK}, тест: {TEST_MODE}")
 
 LAST_RUN_FILE = "last_run.txt"
@@ -156,6 +162,19 @@ UA_FEEDS = [
     # Военная рубрика: именно в ней чаще всего попадаются харьковские сюжеты
     ("https://www.ukrinform.net/rss/rubric-ato", "Ukrinform"),
     ("https://euromaidanpress.com/feed/", "Euromaidan Press"),
+]
+
+# Quality AI and tech outlets, read directly. Through NewsAPI almost every AI
+# story came from second-tier sites (pymnts, digitaljournal): the trusted
+# outlets rarely show up in its search results for AI topics.
+AI_FEEDS = [
+    ("https://www.theguardian.com/technology/artificialintelligenceai/rss", "The Guardian"),
+    ("https://www.wired.com/feed/tag/ai/latest/rss", "Wired"),
+    ("https://techcrunch.com/category/artificial-intelligence/feed/", "TechCrunch"),
+    ("https://arstechnica.com/ai/feed/", "Ars Technica"),
+    ("https://www.technologyreview.com/topic/artificial-intelligence/feed", "MIT Technology Review"),
+    ("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC News"),
+    ("https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", "IEEE Spectrum"),
 ]
 
 # ── Спорт и развлечения отсекаем по словам, доменам и разделам сайтов ──
@@ -791,6 +810,9 @@ def select_top_articles(articles, count, theme):
 крипто-прогнозы, рекламные и проходные материалы. Отдельно отсеивай светскую
 хронику и курьёзы: истории про домашних животных, личную жизнь, наряды,
 милые случаи с политиками. Это новостной канал, а не развлекательный.
+Не выбирай несколько новостей об одном и том же событии: одно событие, одна
+новость, даже если издания рассказывают о нём с разных сторон. Отдавай
+предпочтение новостям, а не колонкам мнений, рецензиям и обзорам.
 
 Ответь ТОЛЬКО номерами выбранных новостей через запятую, по убыванию важности.
 Например: 3, 1, 7, 5"""
@@ -1133,39 +1155,88 @@ def get_kharkiv_news():
     return None
 
 
-def get_ai_news(count):
+def fetch_og_image(url):
+    """Preview picture from the article page, for feeds without images
+    (TechCrunch publishes none in its feed)"""
     try:
         resp = requests.get(
-            "https://newsapi.org/v2/everything",
-            params={
-                "apiKey": NEWS_KEY,
-                "q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT OR OpenAI OR Anthropic OR Gemini OR neural network",
-                "language": "en",
-                "pageSize": 60,
-                "sortBy": "publishedAt",
-                "from": date_from
-            },
-            timeout=15
+            url,
+            timeout=10,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                              "AppleWebKit/537.36 (KHTML, like Gecko) "
+                              "Chrome/126.0 Safari/537.36"
+            }
         )
-        articles = resp.json().get("articles", [])
-        learn_titles(a.get("title", "") for a in articles)
+        if resp.status_code != 200:
+            return ""
+        head = resp.text[:300000]
+        m = (re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', head)
+             or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', head))
+        return html.unescape(m.group(1)) if m else ""
+    except Exception:
+        return ""
+
+
+def get_ai_feed_articles():
+    """Fresh AI stories from the quality feeds, pictures filled in"""
+    cutoff = now_utc - timedelta(hours=48)
+    picked = []
+    for feed_url, feed_name in AI_FEEDS:
+        for a in fetch_feed(feed_url, feed_name):
+            when = parse_published(a.get("publishedAt") or "")
+            text = (a["title"] + " " + a["description"]).lower()
+            # Cheap checks first: pages are fetched only for real candidates
+            if a["url"] in sent_urls or not when or when < cutoff or ai_mentions(text) < 2:
+                continue
+            if not a["urlToImage"]:
+                a["urlToImage"] = fetch_og_image(a["url"])
+            picked.append(a)
+    return picked
+
+
+def interleave_by_source(articles):
+    """Round-robin by outlet: the editor sees only the first 20 candidates,
+    and without mixing one outlet that came first would take them all"""
+    queues = {}
+    for a in articles:
+        queues.setdefault(get_domain(a.get("url", "")), []).append(a)
+    mixed = []
+    while any(queues.values()):
+        for queue in queues.values():
+            if queue:
+                mixed.append(queue.pop(0))
+    return mixed
+
+
+def get_ai_news(count):
+    """Quality AI outlets first, NewsAPI adds to them, and second-tier sites
+    are used only when both together are not enough"""
+    try:
+        from_feeds = [a for a in get_ai_feed_articles()
+                      if is_relevant(a, require_ai=True, skip_source_check=True)]
+        log(f"AI feeds: {len(from_feeds)} candidates from quality outlets")
+
+        articles = newsapi_everything(
+            {"q": "artificial intelligence OR AI OR robotics OR machine learning OR ChatGPT "
+                  "OR OpenAI OR Anthropic OR Gemini OR neural network",
+             "pageSize": 60},
+            "AI"
+        )
         trusted = [a for a in articles if is_relevant(a, require_ai=True)]
-        trusted = deduplicate_articles(trusted)
-        log(f"AI новости: {len(trusted)} с доверенных источников")
+        candidates = deduplicate_articles(from_feeds + trusted)
+        log(f"AI news: {len(candidates)} candidates from quality and trusted outlets")
 
-        # Доверенных мало: добираем лучшими из остальных, мусор отсеет
-        # чёрный список и редакторский отбор по важности
-        if len(trusted) < count + 2:
-            log("Доверенных AI-источников мало, добираю из остальных")
-            trusted_urls = {a.get("url") for a in trusted}
+        if len(candidates) < count + 2:
+            log("Not enough quality AI candidates, adding second-tier outlets")
+            known = {a.get("url") for a in candidates}
             extra = [a for a in articles
-                     if a.get("url") not in trusted_urls
+                     if a.get("url") not in known
                      and is_relevant(a, require_ai=True, skip_source_check=True)]
-            candidates = deduplicate_articles(trusted + extra)
-        else:
-            candidates = trusted
+            candidates = deduplicate_articles(candidates + extra)
 
-        log(f"AI новости: {len(candidates)} кандидатов после фильтрации")
+        candidates = interleave_by_source(candidates)
+        log(f"AI news: {len(candidates)} candidates after filtering")
         candidates = select_top_articles(
             candidates, count - RESERVE,
             "искусственный интеллект: модели, компании, исследования, влияние ИИ на общество"
