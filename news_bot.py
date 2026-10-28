@@ -1,6 +1,7 @@
 import os
 import re
 import html
+import math
 import time
 import requests
 import trafilatura
@@ -9,6 +10,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import urlparse
+from collections import Counter
 
 # ── Модель Groq. При следующей замене менять только эту строку. ──
 # Актуальные модели: https://console.groq.com/docs/models
@@ -112,6 +114,10 @@ BLOCKED_DOMAINS = {
     # агрегаторы: перепечатывают чужое куском, полного текста у них нет
     "biztoc.com", "msn.com", "news.google.com", "yahoo.com", "flipboard.com",
     "newsbreak.com", "smartnews.com",
+    # RT mirrors outside the .ru zone
+    "rt-english.com", "swentr.site", "actualidad-rt.com", "rt.rs",
+    # scientific papers and preprints: not news
+    "journals.plos.org", "arxiv.org", "biorxiv.org", "medrxiv.org", "ssrn.com",
 }
 
 # Пресс-релизы, публикуемые на доверенных доменах, отсекаем по адресу страницы
@@ -131,6 +137,15 @@ LIVE_TITLE_PARTS = [
 ]
 
 BLOCKED_NAME_PARTS = ["sputnik", "tass", "ria novosti", "russia today"]
+
+# RT publishes through mirror domains (rt-english.com got into the channel
+# on 27.10.2026), so whole Russian and Belarusian zones are blocked too
+BLOCKED_TLDS = (".ru", ".su", ".by")
+BLOCKED_EXACT_NAMES = {"rt", "rt.com", "rt english", "rt news"}
+
+# Not news: job ads, event calendars, scientific papers, forum posts
+LISTING_URL_PARTS = ["/vacancies/", "/vacancy/", "/careers/", "/calendar/"]
+NON_NEWS_TITLE_PREFIXES = ("show hn", "ask hn", "tell hn")
 
 # Украинские издания читаются напрямую через RSS. Через NewsAPI их не достать:
 # параметр domains на нашем плане молча возвращает ноль статей по любому
@@ -238,8 +253,142 @@ def trim_sent_urls():
         log(f"sent_urls.txt обрезан: {len(lines)} -> {SENT_URLS_KEEP}")
 
 
-sent_urls   = load_sent_urls()
-sent_titles = []
+sent_urls = load_sent_urls()
+
+
+# ── Story memory: catches the same event published from another outlet ──
+# URLs alone are not enough: the same event comes from NPR today and AP
+# tomorrow, or as a follow-up article from the same outlet under a new URL.
+SENT_STORIES_FILE  = "sent_stories.txt"
+STORY_MEMORY_HOURS = 96
+STORY_SIMILARITY   = 0.55
+
+TITLE_STOPWORDS = set("""
+the a an of to in on for and or with at by from as is are was were be been being
+after over into its his her their our your new says said say will would could
+should can may might has have had than this that these those about amid against
+between during under up down out off why how what who when where which while not
+no now more most first last also just still back report reports via inside
+one two three four five six seven eight nine ten
+""".split())
+
+NUMBER_WORDS = {
+    "one": "1", "two": "2", "three": "3", "four": "4", "five": "5",
+    "six": "6", "seven": "7", "eight": "8", "nine": "9", "ten": "10",
+}
+
+# Two headlines naming different Ukrainian cities describe different events,
+# even when the wording is identical: "Russian strike on Kharkiv / on Kyiv".
+UA_PLACES = {
+    "kharkiv", "kharkov", "kyiv", "kiev", "odesa", "odessa", "dnipro", "lviv",
+    "zaporizhzhia", "kherson", "sumy", "mykolaiv", "poltava", "chernihiv",
+    "donetsk", "luhansk", "kramatorsk", "sloviansk", "pokrovsk", "kupiansk",
+    "izium", "khmelnytskyi", "vinnytsia", "zhytomyr", "rivne", "lutsk",
+    "ternopil", "uzhhorod", "chernivtsi", "kropyvnytskyi", "cherkasy",
+    "kryvyi", "nikopol", "bucha", "irpin", "bakhmut", "avdiivka",
+}
+
+_title_df = Counter()
+_title_seen = set()
+
+
+def title_tokens(title):
+    """Meaningful words of a headline, with plural endings folded"""
+    t = (title or "").lower().replace("’", "'")
+    t = re.sub(r"'s\b", "", t)
+    words = set()
+    for w in re.sub(r"[^a-z0-9\s]", " ", t).split():
+        if w in TITLE_STOPWORDS or len(w) < 3:
+            continue
+        if len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
+            w = w[:-1]
+        words.add(w)
+    return words
+
+
+def title_numbers(title):
+    """Numbers in a headline, digits and words alike: "kills two" == "kills 2" """
+    t = (title or "").lower()
+    found = set(re.findall(r"\b\d+\b", t))
+    for word, digit in NUMBER_WORDS.items():
+        if re.search(rf"\b{word}\b", t):
+            found.add(digit)
+    return found
+
+
+def learn_titles(titles):
+    """Feed headlines into word statistics: words seen in many headlines
+    (russian, attack, says) weigh less than rare ones (shamonda, alberta)"""
+    for t in titles:
+        key = (t or "").strip().lower()
+        if key and key not in _title_seen:
+            _title_seen.add(key)
+            _title_df.update(title_tokens(t))
+
+
+def word_weight(word):
+    return math.log((len(_title_seen) + 1) / (_title_df.get(word, 0) + 1)) + 1
+
+
+def is_same_story(title_a, title_b):
+    ta, tb = title_tokens(title_a), title_tokens(title_b)
+    if len(ta) < 3 or len(tb) < 3:
+        return False
+    shared = ta & tb
+    if len(shared) < 3:
+        return False
+    na, nb = title_numbers(title_a), title_numbers(title_b)
+    if na and nb and na != nb:
+        return False
+    pa, pb = ta & UA_PLACES, tb & UA_PLACES
+    if pa and pb and pa.isdisjoint(pb):
+        return False
+    weight_a = sum(word_weight(w) for w in ta)
+    weight_b = sum(word_weight(w) for w in tb)
+    weight_shared = sum(word_weight(w) for w in shared)
+    return weight_shared / min(weight_a, weight_b) >= STORY_SIMILARITY
+
+
+def load_story_memory():
+    """Headlines published in the last STORY_MEMORY_HOURS, as (time, title)"""
+    memory = []
+    if not os.path.exists(SENT_STORIES_FILE):
+        return memory
+    cutoff = now_utc - timedelta(hours=STORY_MEMORY_HOURS)
+    with open(SENT_STORIES_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            stamp, _, title = line.rstrip("\n").partition("\t")
+            when = parse_published(stamp)
+            if when and when >= cutoff and title:
+                memory.append((when, title))
+    learn_titles(t for _, t in memory)
+    log(f"Story memory: {len(memory)} headlines from the last {STORY_MEMORY_HOURS} h")
+    return memory
+
+
+def remember_story(title):
+    story_memory.append((now_utc, title))
+    learn_titles([title])
+    if TEST_MODE:
+        return
+    with open(SENT_STORIES_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+
+
+def trim_story_memory():
+    """Rewrite the file keeping only entries inside the memory window"""
+    if TEST_MODE:
+        return
+    cutoff = now_utc - timedelta(hours=STORY_MEMORY_HOURS)
+    with open(SENT_STORIES_FILE, "w", encoding="utf-8") as f:
+        for when, title in story_memory:
+            if when >= cutoff:
+                f.write(f"{when.strftime('%Y-%m-%dT%H:%M:%SZ')}\t{title}\n")
+
+
+def recent_story_titles(hours=48, limit=40):
+    cutoff = now_utc - timedelta(hours=hours)
+    return [t for when, t in story_memory if when >= cutoff][-limit:]
 
 
 def tg_send(chat_id, text):
@@ -350,7 +499,27 @@ def is_blocked_source(article):
         if part in source_name:
             log(f"Заблокированный источник ({source_name}): {article.get('title', '')[:40]}")
             return True
+    if domain.endswith(BLOCKED_TLDS) or source_name.strip() in BLOCKED_EXACT_NAMES:
+        log(f"Blocked source ({domain or source_name}): {article.get('title', '')[:40]}")
+        return True
     return False
+
+
+def is_mostly_latin(text):
+    """NewsAPI's language=en filter leaks other scripts: a Japanese page got
+    into the Ukrainian block on 26.10.2026"""
+    letters = [c for c in text if c.isalpha()]
+    if not letters:
+        return True
+    return sum(1 for c in letters if c.isascii()) / len(letters) >= 0.8
+
+
+def is_not_news(article):
+    url = (article.get("url") or "").lower()
+    title = (article.get("title") or "").lower().strip()
+    if any(part in url for part in LISTING_URL_PARTS):
+        return True
+    return title.startswith(NON_NEWS_TITLE_PREFIXES)
 
 
 def is_trusted_source(article):
@@ -411,45 +580,25 @@ def is_sport(article):
     return False
 
 
-def normalize_title(title):
-    title = title.lower()
-    title = re.sub(r'[^a-zа-я0-9\s]', '', title)
-    return set(title.split())
-
-
-def is_similar_title(title1, title2):
-    """Проверяем похожесть двух заголовков"""
-    words1 = normalize_title(title1)
-    words2 = normalize_title(title2)
-    if len(words1) < 3 or len(words2) < 3:
-        return False
-    intersection = words1 & words2
-    similarity = len(intersection) / max(len(words1), len(words2))
-    return similarity > 0.6
-
-
 def is_duplicate_by_title(title):
-    """Проверяем против уже отправленных"""
-    for sent_title in sent_titles:
-        if is_similar_title(title, sent_title):
-            log(f"Дубль по смыслу: {title[:50]}")
+    """Same event already published within the memory window"""
+    for _, old_title in story_memory:
+        if is_same_story(title, old_title):
+            log(f"Same story already published: {title[:50]} ~ {old_title[:50]}")
             return True
     return False
 
 
 def deduplicate_articles(articles):
-    """Убираем дубли внутри одного списка статей"""
+    """Keep one article per event inside a single candidate list"""
+    learn_titles(a.get("title", "") for a in articles)
     unique = []
     for article in articles:
         title = article.get("title", "")
-        is_dup = False
-        for u in unique:
-            if is_similar_title(title, u.get("title", "")):
-                log(f"Внутренний дубль: {title[:50]}")
-                is_dup = True
-                break
-        if not is_dup:
-            unique.append(article)
+        if any(is_same_story(title, u.get("title", "")) for u in unique):
+            log(f"Same story twice in candidates: {title[:50]}")
+            continue
+        unique.append(article)
     return unique
 
 
@@ -464,6 +613,14 @@ def is_relevant(article, require_ukraine=False, require_kharkiv=False,
     if article.get("description") == "[Removed]":
         return False
     if not article.get("description"):
+        return False
+
+    if not is_mostly_latin(article.get("title") or ""):
+        log(f"Not an English headline, skipping: {article.get('title', '')[:40]}")
+        return False
+
+    if is_not_news(article):
+        log(f"Not a news item (listing, forum post), skipping: {article.get('title', '')[:40]}")
         return False
 
     if not article.get("urlToImage"):
@@ -596,11 +753,24 @@ def select_top_articles(articles, count, theme):
         desc = (a.get("description") or "")[:120]
         listing.append(f"{i + 1}. {title} ({source}). {desc}")
 
+    # Semantic repeat guard: the model sees what was already published and
+    # catches the same event told in different words by another outlet
+    recent = recent_story_titles()
+    recent_part = ""
+    if recent:
+        recent_part = (
+            "\nЭти события уже опубликованы в канале за последние двое суток:\n"
+            + "\n".join(f"- {t}" for t in recent)
+            + "\n\nНе выбирай кандидатов об этих же событиях, даже если заголовок "
+            "сформулирован иначе или это другое издание. Исключение: существенно "
+            "новый поворот (новые жертвы, решение суда, отставка, итог голосования).\n"
+        )
+
     prompt = f"""Ты выпускающий редактор новостного канала. Тема выпуска: {theme}.
 Вот список свежих новостей-кандидатов:
 
 {chr(10).join(listing)}
-
+{recent_part}
 Сначала отбрось всё, что не относится к теме выпуска, даже если новость важная
 сама по себе. Из оставшихся выбери {count} самых важных и общественно значимых.
 Критерии: масштаб события, влияние на людей и страны, новизна. Отсеивай
@@ -780,6 +950,7 @@ def get_world_news(count):
             timeout=15
         )
         articles = resp.json().get("articles", [])
+        learn_titles(a.get("title", "") for a in articles)
         articles = [a for a in articles if is_relevant(a)]
         articles = deduplicate_articles(articles)
         log(f"Мировые новости: найдено {len(articles)} после фильтрации")
@@ -854,6 +1025,7 @@ def fetch_feed(url, source_name):
             log(f"RSS {source_name}: код {resp.status_code}")
             return []
         articles = parse_rss(resp.text, source_name)
+        learn_titles(a.get("title", "") for a in articles)
         log(f"RSS {source_name}: {len(articles)} записей")
         return articles
     except Exception as e:
@@ -881,6 +1053,7 @@ def newsapi_everything(params, label):
             log(f"NewsAPI ({label}) отказал: {data.get('code')} {str(data.get('message'))[:120]}")
             return []
         articles = data.get("articles", [])
+        learn_titles(a.get("title", "") for a in articles)
         log(f"NewsAPI ({label}): пришло {len(articles)} статей")
         return articles
     except Exception as e:
@@ -960,6 +1133,7 @@ def get_ai_news(count):
             timeout=15
         )
         articles = resp.json().get("articles", [])
+        learn_titles(a.get("title", "") for a in articles)
         trusted = [a for a in articles if is_relevant(a, require_ai=True)]
         trusted = deduplicate_articles(trusted)
         log(f"AI новости: {len(trusted)} с доверенных источников")
@@ -995,14 +1169,16 @@ def build_ukraine_block(count):
     kharkiv = get_kharkiv_news()
 
     if kharkiv:
-        ukraine_urls = [a.get("url") for a in ukraine]
+        # The Kharkiv story is mandatory, so on overlap drop the general
+        # Ukrainian article, not the Kharkiv one
         kharkiv_title = kharkiv.get("title", "")
-        is_dup = (kharkiv.get("url") in ukraine_urls) or any(
-            is_similar_title(kharkiv_title, a.get("title", "")) for a in ukraine
-        )
-        if not is_dup:
-            candidates = ukraine[:count] + [kharkiv] + ukraine[count:]
-            return candidates, count + 1
+        ukraine = [
+            a for a in ukraine
+            if a.get("url") != kharkiv.get("url")
+            and not is_same_story(kharkiv_title, a.get("title", ""))
+        ]
+        candidates = ukraine[:count] + [kharkiv] + ukraine[count:]
+        return candidates, count + 1
 
     return ukraine, count
 
@@ -1068,7 +1244,7 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
 
         if sent:
             save_sent_url(article_url, sent_urls)
-            sent_titles.append(title)
+            remember_story(title)
         else:
             log(f"Новость не отправилась ни одним способом: {title[:60]}")
 
@@ -1078,6 +1254,7 @@ def send_news_block(articles, needed, header=None, add_goodbye=False, block_name
 
 
 log(f"=== Запуск блока: {BLOCK} (тест: {TEST_MODE}) ===")
+story_memory = load_story_memory()
 
 # ── УТРЕННИЙ БЛОК 08:00 ──
 if BLOCK == "morning":
@@ -1113,5 +1290,6 @@ elif BLOCK == "ai_evening":
     send_news_block(ai_news, AI_COUNT, header=f"🤖 <b>AI NEWS</b>\n{today_str}", add_goodbye=True, block_name="AI вечер")
 
 trim_sent_urls()
+trim_story_memory()
 log(f"=== Блок {BLOCK} завершён ===")
 trim_log()

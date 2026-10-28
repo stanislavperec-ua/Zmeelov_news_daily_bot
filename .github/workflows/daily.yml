@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.email "bot@github.com"
           git config user.name "News Bot"
-          git add sent_urls.txt last_run.txt log.txt
+          git add sent_urls.txt sent_stories.txt last_run.txt log.txt
           git commit -m "state $(date +%Y-%m-%d-%H%M)" || echo "nothing to commit"
           git pull --rebase origin main || true
           git push || (git pull --rebase origin main && git push)
