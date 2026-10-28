@@ -261,7 +261,8 @@ sent_urls = load_sent_urls()
 # tomorrow, or as a follow-up article from the same outlet under a new URL.
 SENT_STORIES_FILE  = "sent_stories.txt"
 STORY_MEMORY_HOURS = 96
-STORY_SIMILARITY   = 0.55
+STORY_SIMILARITY   = 0.55   # shared part vs the shorter headline
+STORY_SIMILARITY_LONG = 0.4 # shared part vs the longer headline
 
 TITLE_STOPWORDS = set("""
 the a an of to in on for and or with at by from as is are was were be been being
@@ -346,7 +347,11 @@ def is_same_story(title_a, title_b):
     weight_a = sum(word_weight(w) for w in ta)
     weight_b = sum(word_weight(w) for w in tb)
     weight_shared = sum(word_weight(w) for w in shared)
-    return weight_shared / min(weight_a, weight_b) >= STORY_SIMILARITY
+    # Both conditions: a short headline of generic words ("Air defenses
+    # neutralize 71 Russian drones") is fully covered by many long ones,
+    # so the shared part must also be a real share of the longer headline
+    return (weight_shared / min(weight_a, weight_b) >= STORY_SIMILARITY
+            and weight_shared / max(weight_a, weight_b) >= STORY_SIMILARITY_LONG)
 
 
 def load_story_memory():
@@ -357,7 +362,7 @@ def load_story_memory():
     cutoff = now_utc - timedelta(hours=STORY_MEMORY_HOURS)
     with open(SENT_STORIES_FILE, "r", encoding="utf-8") as f:
         for line in f:
-            stamp, _, title = line.rstrip("\n").partition("\t")
+            stamp, _, title = line.rstrip("\r\n").partition("\t")
             when = parse_published(stamp)
             if when and when >= cutoff and title:
                 memory.append((when, title))
@@ -786,7 +791,9 @@ def select_top_articles(articles, count, theme):
         response = client.chat.completions.create(
             model=GROQ_MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=1000,
+            # The model reasons before answering and the reasoning shares this
+            # limit: at 1000 tokens a long candidate list left an empty answer
+            max_completion_tokens=3000,
             temperature=0.2
         )
         raw = (response.choices[0].message.content or "").strip()
