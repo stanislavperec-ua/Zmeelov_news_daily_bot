@@ -1,99 +1,3 @@
-[2026-10-23 15:01:23] Обрабатываю: U.S. and Israel are planning for a possible post-midterms at | https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war
-[2026-10-23 15:01:24] Полный текст получен (3000 символов)
-[2026-10-23 15:01:24] Попытка 1 для: U.S. and Israel are planning for a possi
-[2026-10-23 15:01:30] Успешно, получено 2334 символов
-[2026-10-23 15:01:30] Обрабатываю: A mutated virus is driving the US into an early flu season,  | https://www.cnn.com/2026/10/22/health/flu-2026-mutation
-[2026-10-23 15:01:30] Полный текст получен (3000 символов)
-[2026-10-23 15:01:30] Попытка 1 для: A mutated virus is driving the US into a
-[2026-10-23 15:01:34] Успешно, получено 1745 символов
-[2026-10-23 15:01:34] Обрабатываю: Medical tests show Pope Leo requires no further treatment fo | https://www.washingtonpost.com/world/2026/10/21/medical-tests-show-pop
-[2026-10-23 15:01:46] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/21/medical-test
-[2026-10-23 15:01:46] Попытка 1 для: Medical tests show Pope Leo requires no 
-[2026-10-23 15:01:48] Успешно, получено 832 символов
-[2026-10-23 15:01:51] Пауза 60 секунд...
-[2026-10-23 15:02:52] Пауза 60 секунд...
-[2026-10-23 15:03:53] Пауза 60 секунд...
-[2026-10-23 15:04:53] Обрабатываю: Russian strikes hit Kharkiv, Zlatopil and Nova Vodolaha, spa | https://www.ukrinform.net/rubric-ato/4177430-russian-strikes-hit-khark
-[2026-10-23 15:04:54] Полный текст получен (2149 символов)
-[2026-10-23 15:04:54] Попытка 1 для: Russian strikes hit Kharkiv, Zlatopil an
-[2026-10-23 15:04:57] Успешно, получено 1468 символов
-[2026-10-23 15:04:57] Обрабатываю: Russian attacks leave nearly 105,000 customers without power | https://www.ukrinform.net/rubric-ato/4177388-russian-attacks-leave-nea
-[2026-10-23 15:04:58] Полный текст получен (878 символов)
-[2026-10-23 15:04:58] Попытка 1 для: Russian attacks leave nearly 105,000 cus
-[2026-10-23 15:05:02] Успешно, получено 1340 символов
-[2026-10-23 15:05:05] Пауза 60 секунд...
-[2026-10-23 15:06:05] sent_urls.txt обрезан: 306 -> 300
-[2026-10-23 15:06:05] === Блок evening завершён ===
-[2026-10-23 17:01:07] Загружено 300 уже отправленных новостей
-[2026-10-23 17:01:07] === Запуск блока: ai_evening (тест: False) ===
-[2026-10-23 17:01:08] Неизвестный источник (semafor.com): GIVES ELLISON CASH BOOST...
-[2026-10-23 17:01:08] Неизвестный источник (cointelegraph.com): Bitcoin hashrate hits seven-month high a
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): IBM puts governed context at the center 
-[2026-10-23 17:01:08] Нет фото: Global Times: How this forum in Beijing 
-[2026-10-23 17:01:08] Неизвестный источник (commondreams.org): Finnish Petition Demands Data Center Reg
-[2026-10-23 17:01:08] Неизвестный источник (frontiersin.org): Mini brain organoids 'reading' Braille k
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): 9 executive interviews reveal what’s ahe
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): 2026 MERKIN PRIZE IN BIOMEDICAL TECHNOLO
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Lyric Health Introduces Grace, a Multimo
-[2026-10-23 17:01:08] Неизвестный источник (decrypt.co): What Is a Neocloud? The GPU Clouds Power
-[2026-10-23 17:01:08] Неизвестный источник (pymnts.com): AI Security Demand Propels 1Password ARR
-[2026-10-23 17:01:08] Неизвестный источник (psychologytoday.com): Procrastination Isn't Laziness; It's an 
-[2026-10-23 17:01:08] Заблокированный источник (biztoc.com): Nokia Tumbles 10% Despite Data Center-Dr
-[2026-10-23 17:01:08] Неизвестный источник (cryptobriefing.com): SpaceX launches Super Intelligence Partn
-[2026-10-23 17:01:08] Неизвестный источник (business-standard.com): CureBay raises ₹100 crore in Pre-Series 
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Sandler Partners Welcomes Bryan Rias as 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Space Force scrambles as Elon Musk's SpaceX retire
-[2026-10-23 17:01:08] Неизвестный источник (channelnewsasia.com): Cable capacity emerges as bottleneck for
-[2026-10-23 17:01:08] Нет фото: AI Fluency Plus Human Judgment: Project 
-[2026-10-23 17:01:08] Неизвестный источник (globalresearch.ca): Netanyahu’s National Security Doctrine R
-[2026-10-23 17:01:08] Нет фото: Natural Products Canada Invests $1M in F
-[2026-10-23 17:01:08] Неизвестный источник (thediplomat.com): The US Is Losing to China in the Battle 
-[2026-10-23 17:01:08] Неизвестный источник (journals.plos.org): TCLNet: A Thermal Contrast-Aware Lightwe
-[2026-10-23 17:01:08] Неизвестный источник (dianeravitch.net): Russian Bots Are at It Again, Trying to 
-[2026-10-23 17:01:08] Неизвестный источник (journals.plos.org): Deep learning–driven fine-resolution fin
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: ‘This effectively sets Russia far behind in the AI
-[2026-10-23 17:01:08] Неизвестный источник (financialpost.com): MapQuest Returns as the Official Navigat
-[2026-10-23 17:01:08] Нет фото: feagi 2.6.8
-[2026-10-23 17:01:08] Неизвестный источник (prnewswire.co.uk): Building Out Advanced Packaging Portfoli
-[2026-10-23 17:01:08] Неизвестный источник (economictimes.indiatimes.com): Record galore! Jio IPO claims crown for 
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): Anthropic introduces Claude Duet, a proa
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): CobbleStone® & Chu Chua Technology Servi
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): Thomson Reuters folds AI into its profes
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): Ai2 releases OlmoEarth v1.3 state-of-the
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): 1Password for Agents lets personal AI ag
-[2026-10-23 17:01:08] Неизвестный источник (siliconangle.com): Startup Action State launches tools for 
-[2026-10-23 17:01:08] Нет фото: Indurex Raises €7 Million to Bring Engin
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: What’s the PHP coding flaw that could pull down 70
-[2026-10-23 17:01:08] Неизвестный источник (financialpost.com): Meta moves to keep Zuckerberg in Califor
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Why governments pulled websites offline over a dec
-[2026-10-23 17:01:08] Неизвестный источник (pewresearch.org): Men Are Experiencing More Job Growth Tha
-[2026-10-23 17:01:08] Нет фото: ZenaTech Unveils its Proprietary AI Soft
-[2026-10-23 17:01:08] Нет фото: Solana Company Selected as a Strategic E
-[2026-10-23 17:01:08] Неизвестный источник (business-standard.com): TravClan raises $5 million from Flipkart
-[2026-10-23 17:01:08] Неизвестный источник (motherjones.com): A Solution to America’s Aluminum Crunch 
-[2026-10-23 17:01:08] Неизвестный источник (scientificamerican.com): New superconducting chip aims to help ta
-[2026-10-23 17:01:08] Неизвестный источник (snopes.com): What update to Meta's terms for business
-[2026-10-23 17:01:08] Неизвестный источник (naftemporiki.gr): EFA Group targets Euronext listing withi
-[2026-10-23 17:01:08] Неизвестный источник (prnewswire.co.uk): Cocoa and Chocolate Market worth $216.42
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Cocoa and Chocolate Market worth $216.42
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Lockheed Martin Reports Third Quarter 20
-[2026-10-23 17:01:08] Нет фото: Canadian SMBs Embrace Digital Banking, b
-[2026-10-23 17:01:08] Спорт, пропускаю: Futuristic eco cricket ground in Spain e
-[2026-10-23 17:01:08] Неизвестный источник (business-standard.com): Nokia Q3 profit beats estimates on AI da
-[2026-10-23 17:01:08] Неизвестный источник (rte.ie): Can technology prove if goods being sold
-[2026-10-23 17:01:08] Неизвестный источник (pymnts.com): FIS Says Digital Money Puts Bank Infrast
-[2026-10-23 17:01:08] AI новости: 2 с доверенных источников
-[2026-10-23 17:01:08] Доверенных AI-источников мало, добираю из остальных
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: GIVES ELLISON CASH BOOST...
-[2026-10-23 17:01:08] Нет фото: Global Times: How this forum in Beijing 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Finnish Petition Demands Data Center Regulation Af
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Mini brain organoids 'reading' Braille key step to
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): 2026 MERKIN PRIZE IN BIOMEDICAL TECHNOLO
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Lyric Health Introduces Grace, a Multimo
-[2026-10-23 17:01:08] Заблокированный источник (biztoc.com): Nokia Tumbles 10% Despite Data Center-Dr
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: CureBay raises ₹100 crore in Pre-Series C round to
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Sandler Partners Welcomes Bryan Rias as 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Space Force scrambles as Elon Musk's SpaceX retire
 [2026-10-23 17:01:08] Нет фото: AI Fluency Plus Human Judgment: Project 
 [2026-10-23 17:01:08] Не про ИИ, пропускаю: Netanyahu’s National Security Doctrine Revealed as
 [2026-10-23 17:01:08] Нет фото: Natural Products Canada Invests $1M in F
@@ -2998,3 +2902,99 @@
 [2026-10-29 06:06:06] Пауза 60 секунд...
 [2026-10-29 06:07:06] sent_urls.txt обрезан: 307 -> 300
 [2026-10-29 06:07:06] === Блок morning завершён ===
+[2026-10-29 08:01:07] Загружено 300 уже отправленных новостей
+[2026-10-29 08:01:07] === Запуск блока: ai_morning (тест: False) ===
+[2026-10-29 08:01:07] Story memory: 102 headlines from the last 96 h
+[2026-10-29 08:01:07] RSS The Guardian: 20 записей
+[2026-10-29 08:01:07] RSS Wired: 10 записей
+[2026-10-29 08:01:08] RSS TechCrunch: 20 записей
+[2026-10-29 08:01:08] RSS Ars Technica: 20 записей
+[2026-10-29 08:01:09] RSS MIT Technology Review: 10 записей
+[2026-10-29 08:01:09] RSS BBC News: 20 записей
+[2026-10-29 08:01:09] RSS IEEE Spectrum: 30 записей
+[2026-10-29 08:01:09] AI feeds: 26 candidates from quality outlets
+[2026-10-29 08:01:09] NewsAPI (AI): пришло 60 статей
+[2026-10-29 08:01:09] Неизвестный источник (cbc.ca): 10 students suspended at Lévis, Que., hi
+[2026-10-29 08:01:09] Неизвестный источник (business-standard.com): Jio listing a new beginning, next decade
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Agentic AI can cut banks' transaction mo
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): AI chips worth $12.1 million seized at M
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): The next problem to solve: When money ar
+[2026-10-29 08:01:09] Заблокированный источник (naturalnews.com): The brain on junk: New study reveals ult
+[2026-10-29 08:01:09] Заблокированный источник (naturalnews.com): Anthropic and AISI Reports Find Claude M
+[2026-10-29 08:01:09] Неизвестный источник (cryptobriefing.com): CrowdStrike identifies AI agents conduct
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Isha Ambani says Jio IPO marks a promise
+[2026-10-29 08:01:09] Неизвестный источник (prnewswire.co.uk): Docquity Extends Asian Healthcare Intell
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Jio after listing: 5 factors that could 
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Jio Platforms shares list at 21% premium
+[2026-10-29 08:01:09] Нет фото: From China to the Global Stage: Hengrui 
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Disinformation videos, likely from Russi
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Jio Platforms shares to be available und
+[2026-10-29 08:01:09] Заблокированный источник (biztoc.com): Visa Credentials Reach 5.2 Billion as Ne
+[2026-10-29 08:01:09] Неизвестный источник (comicbookmovie.com): VisionQuest Episode 6 Recap: "New Allian
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Cognizant eyes Sarvam stake; Ather aims 
+[2026-10-29 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Jio Platforms Listing Today: Rs 30,213 c
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Google introduces cutting-edge Genie 4 w
+[2026-10-29 08:01:09] Неизвестный источник (pymnts.com): Visa Credentials Reach 5.2 Billion as Ne
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Red Hat brings OpenShell security to ent
+[2026-10-29 08:01:09] Не про ИИ, пропускаю: Presynaptic homeostasis mediated by exocytosis of 
+[2026-10-29 08:01:09] Неизвестный источник (articles.mercola.com): High Ultraprocessed Food Intake Linked t
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Oracle brings Google’s TPUs to its cloud
+[2026-10-29 08:01:09] Неизвестный источник (variety.com): Ancestral Memory Meets AI in Himalayan D
+[2026-10-29 08:01:09] Неизвестный источник (punchng.com): Adapting UAE’s AI model for Nigeria’s di
+[2026-10-29 08:01:09] Неизвестный источник (punchng.com): AI specialist develops app to monitor fe
+[2026-10-29 08:01:09] Неизвестный источник (wnd.com): ‘You are allowed to lie’: State awards $
+[2026-10-29 08:01:09] Заблокированный источник (nypost.com): California utility grid reliabilty faces
+[2026-10-29 08:01:09] Неизвестный источник (cointelegraph.com): Quantum fears already limiting Bitcoin’s
+[2026-10-29 08:01:09] Неизвестный источник (en.protothema.gr): FM delivers joint statement by more than
+[2026-10-29 08:01:09] Нет фото: ia-router 0.9.0
+[2026-10-29 08:01:09] Неизвестный источник (prnewswire.co.uk): Bracco Announces $230 Million Investment
+[2026-10-29 08:01:09] Неизвестный источник (business-standard.com): UP to begin work on key industrial proje
+[2026-10-29 08:01:09] Неизвестный источник (thewrap.com): NBC News Taps Quartz Co-Founder Kevin De
+[2026-10-29 08:01:09] Неизвестный источник (abajournal.com): Weil, Gotshal & Manges creates AI-centri
+[2026-10-29 08:01:09] Неизвестный источник (financialpost.com): Breast Cancer Canada and AstraZeneca Can
+[2026-10-29 08:01:09] Неизвестный источник (thehackernews.com): CyberStrikeAI Uses 44 AI Agents to Autom
+[2026-10-29 08:01:09] Нет фото: werrio added to PyPI
+[2026-10-29 08:01:09] Неизвестный источник (techradar.com): 'This is a wow moment': T-Mobile has mad
+[2026-10-29 08:01:09] Неизвестный источник (brobible.com): Food Delivery Robots In Illinois Accused
+[2026-10-29 08:01:09] Неизвестный источник (prnewswire.co.uk): vivo x Kolder Creative: New Smartphone F
+[2026-10-29 08:01:09] Неизвестный источник (zycrypto.com): PrimeXBT Expands Into Tokenized Stocks, 
+[2026-10-29 08:01:09] Неизвестный источник (financialpost.com): GM to leave NYSE for stock listing on te
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Regal debuts Goal Oriented Agents, putti
+[2026-10-29 08:01:09] Заблокированный источник (journals.plos.org): On the variability of generative artific
+[2026-10-29 08:01:09] Заблокированный источник (journals.plos.org): Evaluating treatment efficacy for Ilioti
+[2026-10-29 08:01:09] Заблокированный источник (journals.plos.org): Co-exposure to planned power outages and
+[2026-10-29 08:01:09] Заблокированный источник (journals.plos.org): Geometry and cooling effects on an induc
+[2026-10-29 08:01:09] Нет фото: Andersen Consulting Adds Collaborating F
+[2026-10-29 08:01:09] Неизвестный источник (financialpost.com): Anthropic’s IPO may see Australia’s bigg
+[2026-10-29 08:01:09] Нет фото: Canadian Marketing Association Launches 
+[2026-10-29 08:01:09] Нет фото: Earnix Enhances Pricing and Rating, Cust
+[2026-10-29 08:01:09] Нет фото: Airship Announces Next-Generation AI Cap
+[2026-10-29 08:01:09] Нет фото: aait 6.0.11
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Hyphenate bags $45M in funding to accele
+[2026-10-29 08:01:09] Неизвестный источник (siliconangle.com): Edge Sound raises $2M to help physical A
+[2026-10-29 08:01:09] Нет фото: Tuesday, October 27, 2026
+[2026-10-29 08:01:09] Неизвестный источник (dailyhodl.com): PrimeXBT Brings Tesla, SpaceX, NVIDIA an
+[2026-10-29 08:01:09] AI news: 26 candidates from quality and trusted outlets
+[2026-10-29 08:01:09] AI news: 26 candidates after filtering
+[2026-10-29 08:01:12] Редакторский отбор: выбраны позиции [10, 18, 4, 6]
+[2026-10-29 08:01:12] Обрабатываю: Google AI gets cagey when asked who won the 2020 elections | https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who
+[2026-10-29 08:01:12] Полный текст получен (1711 символов)
+[2026-10-29 08:01:12] Попытка 1 для: Google AI gets cagey when asked who won 
+[2026-10-29 08:01:14] Успешно, получено 1400 символов
+[2026-10-29 08:01:14] Обрабатываю: Vibe genes? Natural(ish) language comes to protein, genome d | https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language
+[2026-10-29 08:01:15] Полный текст получен (3000 символов)
+[2026-10-29 08:01:15] Попытка 1 для: Vibe genes? Natural(ish) language comes 
+[2026-10-29 08:01:17] Успешно, получено 1475 символов
+[2026-10-29 08:01:17] Обрабатываю: Google announces Gemini 4 Carbon, its latest frontier AI mod | https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-it
+[2026-10-29 08:01:17] Полный текст получен (1808 символов)
+[2026-10-29 08:01:17] Попытка 1 для: Google announces Gemini 4 Carbon, its la
+[2026-10-29 08:01:21] Успешно, получено 1676 символов
+[2026-10-29 08:01:21] Обрабатываю: Systems Thinking Is Vital in the Age of AI | https://spectrum.ieee.org/systems-thinking-vital-in-ai
+[2026-10-29 08:01:21] Текст не совпадает с заголовком, беру описание: https://spectrum.ieee.org/systems-thinking-vital-in-ai
+[2026-10-29 08:01:21] Попытка 1 для: Systems Thinking Is Vital in the Age of 
+[2026-10-29 08:01:32] Успешно, получено 1015 символов
+[2026-10-29 08:01:35] Пауза 60 секунд...
+[2026-10-29 08:02:36] Пауза 60 секунд...
+[2026-10-29 08:03:37] Пауза 60 секунд...
+[2026-10-29 08:04:37] sent_urls.txt обрезан: 304 -> 300
+[2026-10-29 08:04:37] === Блок ai_morning завершён ===
