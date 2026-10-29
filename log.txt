@@ -1,120 +1,3 @@
-[2026-10-23 17:01:11] Полный текст получен (3000 символов)
-[2026-10-23 17:01:11] Попытка 1 для: Anthropic introduces Claude Duet, a proa
-[2026-10-23 17:01:14] Успешно, получено 3613 символов
-[2026-10-23 17:01:14] Обрабатываю: What Is a Neocloud? The GPU Clouds Powering the AI Boom | https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powerin
-[2026-10-23 17:01:14] Полный текст получен (3000 символов)
-[2026-10-23 17:01:14] Попытка 1 для: What Is a Neocloud? The GPU Clouds Power
-[2026-10-23 17:01:18] Успешно, получено 1871 символов
-[2026-10-23 17:01:18] Обрабатываю: Men Are Experiencing More Job Growth Than Women in AI-Expose | https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencin
-[2026-10-23 17:01:19] Полный текст получен (3000 символов)
-[2026-10-23 17:01:19] Попытка 1 для: Men Are Experiencing More Job Growth Tha
-[2026-10-23 17:01:30] Успешно, получено 1317 символов
-[2026-10-23 17:01:33] Пауза 60 секунд...
-[2026-10-23 17:02:33] Пауза 60 секунд...
-[2026-10-23 17:03:34] Пауза 60 секунд...
-[2026-10-23 17:04:34] sent_urls.txt обрезан: 304 -> 300
-[2026-10-23 17:04:34] === Блок ai_evening завершён ===
-[2026-10-24 05:01:13] Загружено 300 уже отправленных новостей
-[2026-10-24 05:01:13] === Запуск блока: morning (тест: False) ===
-[2026-10-24 05:01:14] Неизвестный источник (ksat.com): 2 Air Force pilots eject safely from air
-[2026-10-24 05:01:14] Лента обновлений, пропускаю: Hundreds of flights cancelled across Eas
-[2026-10-24 05:01:14] Неизвестный источник (nbcsports.com): Tonight is Mike Vrabel’s first career ga
-[2026-10-24 05:01:14] Неизвестный источник (hollywoodreporter.com): ‘Clayface’ Aims to Give DC Studios a Box
-[2026-10-24 05:01:14] Неизвестный источник (formula1.com): All the stories that got the Austin padd
-[2026-10-24 05:01:14] Неизвестный источник (pbs.org): Rep. Ilhan Omar says she will move out o
-[2026-10-24 05:01:14] Неизвестный источник (phys.org): What is a neutrino anyway? A look at the
-[2026-10-24 05:01:14] Неизвестный источник (pbs.org): DOJ monitoring plans and DHS voter check
-[2026-10-24 05:01:14] Неизвестный источник (pitchfork.com): Charli XCX Will Appear in a Martin Scors
-[2026-10-24 05:01:14] Неизвестный источник (marketwatch.com): Treasury yields see extreme plunge. Why 
-[2026-10-24 05:01:14] Неизвестный источник (hollywoodreporter.com): You Only Audition Twice: Watch Henry Cav
-[2026-10-24 05:01:14] Неизвестный источник (macrumors.com): Giant iPhone Duo Displays Coming to Four
-[2026-10-24 05:01:14] Неизвестный источник (sciencedaily.com): Millions take fish oil for brain health.
-[2026-10-24 05:01:14] Неизвестный источник (spacenews.com): NASA to change how it selects science mi
-[2026-10-24 05:01:14] Мировые новости: найдено 13 после фильтрации
-[2026-10-24 05:01:15] Редакторский отбор: выбраны позиции [7, 9, 10, 12]
-[2026-10-24 05:01:17] RSS Ukrinform: 30 записей
-[2026-10-24 05:01:18] RSS Ukrinform: 30 записей
-[2026-10-24 05:01:18] Пропускаю уже отправленную: Russian strikes hit Kharkiv, Zlatopil and Nova Vod
-[2026-10-24 05:01:18] Пропускаю уже отправленную: Russian attacks leave nearly 105,000 customers wit
-[2026-10-24 05:01:18] RSS Euromaidan Press: 29 записей
-[2026-10-24 05:01:18] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Russian strikes knock Ukrainian power pl
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Ukraine seeks to move customs checks ins
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Ukraine said to discuss customs shift wi
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Russia's new type of 3D printed missile 
-[2026-10-24 05:01:18] Заблокированный источник (sputnikglobe.com): Trump Invokes Cold War-Era Law to Boost 
-[2026-10-24 05:01:18] Заблокированный источник (sputnikglobe.com): Ukraine Starlink Access Restored After R
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): ‘They are trying to intimidate us’: Indo
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Trump Denies Involvement In Starlink Slo
-[2026-10-24 05:01:18] Заблокированный источник (dailymail.com): Elon Musk threatens to hit back at Democ
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Trump Says Elon Musk Restored Ukraine’s 
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): INTERVIEW: EU to cover two thirds of new
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Support for sending military aid to Ukra
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): A midterms update, ebbing support for Uk
-[2026-10-24 05:01:18] Заблокированный источник (dailymail.com): Moment appalled bystanders confront man 
-[2026-10-24 05:01:18] Заблокированный источник (biztoc.com): Trump: Musk ‘Put Back’ Ukraine Starlink 
-[2026-10-24 05:01:18] Внутренний дубль: Large-scale blackout hits Crimea after drone attac
-[2026-10-24 05:01:18] Внутренний дубль: One killed, six injured in Russian airstrike on Kr
-[2026-10-24 05:01:18] Внутренний дубль: Russia launched 2,597 drones at Ukraine over past 
-[2026-10-24 05:01:18] Внутренний дубль: Drug parcels: Teen girl suspected of poisoning Ukr
-[2026-10-24 05:01:18] Внутренний дубль: General Staff: Ukraine to implement ceasefire in O
-[2026-10-24 05:01:18] Внутренний дубль: Zelensky: Russia waging hybrid war against Europe 
-[2026-10-24 05:01:18] Внутренний дубль: President: Speed limits for Starlink and Starshiel
-[2026-10-24 05:01:18] Внутренний дубль: Ukrainian forces to implement decisions on humanit
-[2026-10-24 05:01:18] Внутренний дубль: Three injured as Russian forces attack civilian, r
-[2026-10-24 05:01:18] Внутренний дубль: Ukrainian Embassy in Washington temporarily evacua
-[2026-10-24 05:01:18] Внутренний дубль: SBU releases exclusive footage of prisoner exchang
-[2026-10-24 05:01:18] Внутренний дубль: Ukraine confirms local ceasefire to enable evacuat
-[2026-10-24 05:01:18] Внутренний дубль: Drone attacks shut down all four Moscow airports
-[2026-10-24 05:01:18] Внутренний дубль: Russian forces attack enterprise in Chernihiv, lea
-[2026-10-24 05:01:18] Внутренний дубль: Von der Leyen condemns Russian attack on vessel of
-[2026-10-24 05:01:18] Внутренний дубль: Russian forces attack energy facility, civilian in
-[2026-10-24 05:01:18] Внутренний дубль: Ceasefire planned for occupied Oleshky as resident
-[2026-10-24 05:01:18] Внутренний дубль: Trump says Musk restored Ukraine’s Starlink access
-[2026-10-24 05:01:18] Украинские новости: найдено 75 после фильтрации
-[2026-10-24 05:01:20] Редакторский отбор: выбраны позиции [5, 11]
-[2026-10-24 05:01:20] NewsAPI (Харьков, все издания): пришло 11 статей
-[2026-10-24 05:01:22] RSS Ukrinform: 30 записей
-[2026-10-24 05:01:23] RSS Ukrinform: 30 записей
-[2026-10-24 05:01:23] RSS Euromaidan Press: 29 записей
-[2026-10-24 05:01:23] Нет фото: 30 NIGHTS OF NIGHTMARE, SOUTHERN BRIDGE 
-[2026-10-24 05:01:23] Нет фото: The Underground Battles Shaping the War 
-[2026-10-24 05:01:23] Заблокированный источник (sputnikglobe.com): Russian Forces Liberate Mirovka Settleme
-[2026-10-24 05:01:23] Заблокированный источник (dailymail.com): Putin pounds Ukraine with drone strikes 
-[2026-10-24 05:01:23] Пропускаю уже отправленную: Russian strikes hit Kharkiv, Zlatopil and Nova Vod
-[2026-10-24 05:01:23] Харьков: найдена новость: Kharkiv resident sentenced to 15 years in prison f
-[2026-10-24 05:01:23] Обрабатываю: ‘Just the beginning’: New Mexico AG warns AI industry after  | https://www.politico.com/news/2026/10/22/just-the-beginning-new-mexico
-[2026-10-24 05:01:23] Попытка 1 для: ‘Just the beginning’: New Mexico AG warn
-[2026-10-24 05:01:25] Успешно, получено 941 символов
-[2026-10-24 05:01:25] Обрабатываю: SpaceX in Talks to Access 80,000 Cell Sites for Wireless Net | https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-
-[2026-10-24 05:01:25] Попытка 1 для: SpaceX in Talks to Access 80,000 Cell Si
-[2026-10-24 05:01:27] Успешно, получено 811 символов
-[2026-10-24 05:01:27] Обрабатываю: Why measles outbreak in Pennsylvania poses risks beyond US b | https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-penn
-[2026-10-24 05:01:27] Полный текст получен (3000 символов)
-[2026-10-24 05:01:27] Попытка 1 для: Why measles outbreak in Pennsylvania pos
-[2026-10-24 05:01:31] Успешно, получено 1845 символов
-[2026-10-24 05:01:31] Обрабатываю: France reports first human case of livestock virus Shamonda  | https://www.nbcnews.com/health/health-news/france-reports-first-human-
-[2026-10-24 05:01:31] Полный текст получен (2799 символов)
-[2026-10-24 05:01:31] Попытка 1 для: France reports first human case of lives
-[2026-10-24 05:01:35] Успешно, получено 1810 символов
-[2026-10-24 05:01:38] Пауза 60 секунд...
-[2026-10-24 05:02:39] Пауза 60 секунд...
-[2026-10-24 05:03:40] Пауза 60 секунд...
-[2026-10-24 05:04:40] Обрабатываю: Russia launched 2,597 drones at Ukraine over past week, air  | https://www.ukrinform.net/rubric-ato/4177690-russia-launched-2597-dron
-[2026-10-24 05:04:42] Полный текст получен (1870 символов)
-[2026-10-24 05:04:42] Попытка 1 для: Russia launched 2,597 drones at Ukraine 
-[2026-10-24 05:04:45] Успешно, получено 1757 символов
-[2026-10-24 05:04:45] Обрабатываю: General Staff: Ukraine to implement ceasefire in Oleshky are | https://www.ukrinform.net/rubric-ato/4177661-general-staff-ukraine-to-
-[2026-10-24 05:04:46] Полный текст получен (1048 символов)
-[2026-10-24 05:04:46] Попытка 1 для: General Staff: Ukraine to implement ceas
-[2026-10-24 05:04:49] Успешно, получено 1676 символов
-[2026-10-24 05:04:49] Обрабатываю: Kharkiv resident sentenced to 15 years in prison for setting | https://www.ukrinform.net/rubric-crime/4177318-kharkiv-resident-senten
-[2026-10-24 05:04:51] Полный текст получен (1879 символов)
-[2026-10-24 05:04:51] Попытка 1 для: Kharkiv resident sentenced to 15 years i
-[2026-10-24 05:04:54] Успешно, получено 1928 символов
-[2026-10-24 05:04:57] Пауза 60 секунд...
-[2026-10-24 05:05:58] Пауза 60 секунд...
-[2026-10-24 05:06:59] sent_urls.txt обрезан: 307 -> 300
 [2026-10-24 05:06:59] === Блок morning завершён ===
 [2026-10-24 07:01:05] Загружено 300 уже отправленных новостей
 [2026-10-24 07:01:05] === Запуск блока: ai_morning (тест: False) ===
@@ -2998,3 +2881,120 @@
 [2026-10-29 11:03:33] Пауза 60 секунд...
 [2026-10-29 11:04:34] sent_urls.txt обрезан: 304 -> 300
 [2026-10-29 11:04:34] === Блок midday завершён ===
+[2026-10-29 16:01:21] Загружено 300 уже отправленных новостей
+[2026-10-29 16:01:21] === Запуск блока: evening (тест: False) ===
+[2026-10-29 16:01:21] Story memory: 102 headlines from the last 96 h
+[2026-10-29 16:01:21] Неизвестный источник (hellomagazine.com): Travis Kelce reveals fears about Taylor 
+[2026-10-29 16:01:21] Неизвестный источник (macrumors.com): Apple CEO John Ternus Teases Touchscreen
+[2026-10-29 16:01:21] Заблокированный источник (finance.yahoo.com): Stock market today: Nasdaq wavers, S&P 5
+[2026-10-29 16:01:21] Неизвестный источник (space.com): Astronomers found a mysterious object be
+[2026-10-29 16:01:21] Неизвестный источник (investors.com): SK Hynix Stock Jumps On Q3 Earnings Beat
+[2026-10-29 16:01:21] Неизвестный источник (espn.com): Fantasy football matchup rankings: Upgra
+[2026-10-29 16:01:21] Лента обновлений, пропускаю: Fed meeting live updates: No hike expect
+[2026-10-29 16:01:21] Неизвестный источник (gizmodo.com): Samsung’s First Clip-Style Wireless Earb
+[2026-10-29 16:01:21] Неизвестный источник (hollywoodreporter.com): Russell Brand Trial: Star Takes the Stan
+[2026-10-29 16:01:21] Неизвестный источник (sfgate.com): The mystery at the heart of California's
+[2026-10-29 16:01:21] Заблокированный источник (yahoo.com): Who left 'Dancing With the Stars' last n
+[2026-10-29 16:01:21] Неизвестный источник (espn.co.uk): 2026 NFL trade deadline: Ranking the top
+[2026-10-29 16:01:21] Неизвестный источник (texastribune.org): Trump, Talarico rally in Lubbock as 2026
+[2026-10-29 16:01:21] Неизвестный источник (variety.com): ‘The One About Matthew Perry’ Director o
+[2026-10-29 16:01:21] Пропускаю уже отправленную: CDC warns of rising threat of drug-resistant germs
+[2026-10-29 16:01:21] Неизвестный источник (ndtv.com): US-Based Startup Faces Backlash For Test
+[2026-10-29 16:01:21] Неизвестный источник (sci.news): New Species of Iguanodontian Dinosaur Di
+[2026-10-29 16:01:21] Старая новость (2026-10-25T15:30:16Z): Tom Brady, Candice Swanepoel Have Been D
+[2026-10-29 16:01:21] Старая новость (2026-10-23T09:01:42Z): Birdwatching rewires the brain and slows
+[2026-10-29 16:01:21] Мировые новости: найдено 11 после фильтрации
+[2026-10-29 16:01:23] Редакторский отбор: выбраны позиции [5, 9, 1, 6]
+[2026-10-29 16:01:24] RSS Ukrinform: 30 записей
+[2026-10-29 16:01:24] Same story already published: Russian forces strike educational institution in K ~ Russian forces strike Kharkiv, killing one and inj
+[2026-10-29 16:01:24] Пропускаю уже отправленную: Germany and Japan reaffirm commitment to continued
+[2026-10-29 16:01:25] RSS Ukrinform: 30 записей
+[2026-10-29 16:01:25] Same story already published: Russian forces strike educational institution in K ~ Russian forces strike Kharkiv, killing one and inj
+[2026-10-29 16:01:26] RSS Euromaidan Press: 29 записей
+[2026-10-29 16:01:26] NewsAPI (мировые про Украину): пришло 46 статей
+[2026-10-29 16:01:26] Заблокированный источник (breitbart.com): UK Announces Tax Hikes on Savings and Pr
+[2026-10-29 16:01:26] Заблокированный источник (nypost.com): Ukrainians fear Russia will keep them fr
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Zelensky: Ready to discuss territorial i
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Russian strikes hit Ukrainian energy gri
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Jetten announces €500M in military aid t
+[2026-10-29 16:01:26] Заблокированный источник (rt-english.com): Iran war leaves ‘forever cruise’ residen
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): UK Announces £13 Billion In Ukraine Supp
+[2026-10-29 16:01:26] Спорт, пропускаю: Women's college basketball is back -- an
+[2026-10-29 16:01:26] Спорт, пропускаю: Oslo Mayor calls for ban on Russians fro
+[2026-10-29 16:01:26] Заблокированный источник (dailymail.com): Chancellor John Healey condemned for ref
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Zelensky: UK pledged £10B to support Ukr
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Kremlin: Trilateral talks date to be unv
+[2026-10-29 16:01:26] Нет фото: ‘Making a point’: Florida woman follows 
+[2026-10-29 16:01:26] Нет фото: The struggling burger chain Wendy’s gets
+[2026-10-29 16:01:26] Заблокированный источник (nypost.com): Kamala Harris warns Dems against impeach
+[2026-10-29 16:01:26] Заблокированный источник (dailymail.com): Helmet with anti-drone weapon fired by s
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): UK brings forward defense spending targe
+[2026-10-29 16:01:26] Заблокированный источник (biztoc.com): Trump Hints Trilateral Ukraine Peace Tal
+[2026-10-29 16:01:26] Same story twice in candidates: Flash: Russia produces more ballistic missiles tha
+[2026-10-29 16:01:26] Same story twice in candidates: Russian forces again target public transport in Za
+[2026-10-29 16:01:26] Same story twice in candidates: Russian missile strike on Lozova injures six peopl
+[2026-10-29 16:01:26] Same story twice in candidates: Death toll from Russian attack on Kremenchuk rises
+[2026-10-29 16:01:26] Same story twice in candidates: Russian drone attack on central Chernihiv kills tw
+[2026-10-29 16:01:26] Same story twice in candidates: Ukrainian forces strike Russian drone depots, fuel
+[2026-10-29 16:01:26] Same story twice in candidates: Two dead as Russian drone hits apartment building 
+[2026-10-29 16:01:26] Same story twice in candidates: Poland to transfer two more MiG-29 fighter jets to
+[2026-10-29 16:01:26] Same story twice in candidates: Russian attack on Dnipro railway station kills at 
+[2026-10-29 16:01:26] Same story twice in candidates: No ceasefire violations in Oleshky, humanitarian a
+[2026-10-29 16:01:26] Same story twice in candidates: Ukrainian delegation heads toward Russian-occupied
+[2026-10-29 16:01:26] Same story twice in candidates: Russian FPV drone strikes bus in central Zaporizhz
+[2026-10-29 16:01:26] Same story twice in candidates: Drones target one of Russia’s largest chemical com
+[2026-10-29 16:01:26] Same story twice in candidates: Defense forces repel 42 attacks in Pokrovsk sector
+[2026-10-29 16:01:26] Same story twice in candidates: Russian forces launch nearly 20 attacks on Dniprop
+[2026-10-29 16:01:26] Same story twice in candidates: Russia loses another 1,560 troops in war against U
+[2026-10-29 16:01:26] Same story twice in candidates: Azov has struck more than 100 Russian trains in Do
+[2026-10-29 16:01:26] Same story twice in candidates: Drone attack targets Moscow, prompting airport res
+[2026-10-29 16:01:26] Same story twice in candidates: Military personnel can order NRK amphibious vehicl
+[2026-10-29 16:01:26] Same story twice in candidates: Il presidente ucraino Zelensky in visita ufficiale
+[2026-10-29 16:01:26] Украинские новости: найдено 72 после фильтрации
+[2026-10-29 16:01:29] Редакторский отбор: выбраны позиции [15, 8]
+[2026-10-29 16:01:29] NewsAPI (Харьков, все издания): пришло 26 статей
+[2026-10-29 16:01:30] RSS Ukrinform: 30 записей
+[2026-10-29 16:01:31] RSS Ukrinform: 30 записей
+[2026-10-29 16:01:31] RSS Euromaidan Press: 29 записей
+[2026-10-29 16:01:31] Заблокированный источник (rt-english.com): Blind Ukrainian man faced conscription –
+[2026-10-29 16:01:31] Заблокированный источник (dailymail.com): Trump says a meeting between Putin and Z
+[2026-10-29 16:01:31] Заблокированный источник (rt-english.com): From Pushkin’s ancestor to Mandela’s env
+[2026-10-29 16:01:31] Пропускаю уже отправленную: B.C. man killed in Ukraine while rescuing animals 
+[2026-10-29 16:01:31] Same story already published: Russian forces strike educational institution in K ~ Russian forces strike Kharkiv, killing one and inj
+[2026-10-29 16:01:31] Same story already published: Russian forces strike educational institution in K ~ Russian forces strike Kharkiv, killing one and inj
+[2026-10-29 16:01:31] Харьков: найдена новость: Elderly women and children survive Russian attack 
+[2026-10-29 16:01:31] Обрабатываю: The seven races that will decide control of the Senate | https://www.washingtonpost.com/politics/2026/10/28/these-seven-races-w
+[2026-10-29 16:01:43] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/28/these-sev
+[2026-10-29 16:01:43] Попытка 1 для: The seven races that will decide control
+[2026-10-29 16:01:45] Успешно, получено 906 символов
+[2026-10-29 16:01:45] Обрабатываю: Trump says he's ending restrictions on climate-warming metha | https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions
+[2026-10-29 16:01:46] Полный текст получен (3000 символов)
+[2026-10-29 16:01:46] Попытка 1 для: Trump says he's ending restrictions on c
+[2026-10-29 16:01:49] Успешно, получено 1695 символов
+[2026-10-29 16:01:49] Обрабатываю: Dolores Huerta, pioneering labor leader and civil rights ico | https://www.cnn.com/2026/10/28/us/dolores-huerta-dead
+[2026-10-29 16:01:49] Полный текст получен (3000 символов)
+[2026-10-29 16:01:49] Попытка 1 для: Dolores Huerta, pioneering labor leader 
+[2026-10-29 16:01:52] Успешно, получено 1423 символов
+[2026-10-29 16:01:52] Обрабатываю: Photos show record-breaking high tides flooding homes, roads | https://www.cbsnews.com/news/photos-high-tides-flooding-homes-roads-so
+[2026-10-29 16:01:52] Полный текст получен (1061 символов)
+[2026-10-29 16:01:52] Попытка 1 для: Photos show record-breaking high tides f
+[2026-10-29 16:02:05] Успешно, получено 1644 символов
+[2026-10-29 16:02:08] Пауза 60 секунд...
+[2026-10-29 16:03:09] Пауза 60 секунд...
+[2026-10-29 16:04:09] Пауза 60 секунд...
+[2026-10-29 16:05:10] Обрабатываю: Russian attack on Dnipro railway station kills at least 13,  | https://www.ukrinform.net/rubric-ato/4179323-russian-attack-on-dnipro-
+[2026-10-29 16:05:11] Полный текст получен (2704 символов)
+[2026-10-29 16:05:11] Попытка 1 для: Russian attack on Dnipro railway station
+[2026-10-29 16:05:14] Успешно, получено 1425 символов
+[2026-10-29 16:05:14] Обрабатываю: National Bank raises key policy rate to 16.5% | https://www.ukrinform.net/rubric-economy/4179372-national-bank-raises-
+[2026-10-29 16:05:15] Полный текст получен (1071 символов)
+[2026-10-29 16:05:15] Попытка 1 для: National Bank raises key policy rate to 
+[2026-10-29 16:05:18] Успешно, получено 1350 символов
+[2026-10-29 16:05:18] Обрабатываю: Elderly women and children survive Russian attack on Kharkiv | https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-
+[2026-10-29 16:05:18] Полный текст получен (388 символов)
+[2026-10-29 16:05:18] Попытка 1 для: Elderly women and children survive Russi
+[2026-10-29 16:05:21] Успешно, получено 1126 символов
+[2026-10-29 16:05:23] Пауза 60 секунд...
+[2026-10-29 16:06:24] Пауза 60 секунд...
+[2026-10-29 16:07:24] sent_urls.txt обрезан: 307 -> 300
+[2026-10-29 16:07:24] === Блок evening завершён ===
