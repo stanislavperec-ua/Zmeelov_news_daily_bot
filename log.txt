@@ -1,42 +1,3 @@
-[2026-10-23 17:01:08] Нет фото: AI Fluency Plus Human Judgment: Project 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Netanyahu’s National Security Doctrine Revealed as
-[2026-10-23 17:01:08] Нет фото: Natural Products Canada Invests $1M in F
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: TCLNet: A Thermal Contrast-Aware Lightweight Netwo
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Russian Bots Are at It Again, Trying to Sway Our E
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Deep learning–driven fine-resolution finger moveme
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: ‘This effectively sets Russia far behind in the AI
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: MapQuest Returns as the Official Navigation Partne
-[2026-10-23 17:01:08] Нет фото: feagi 2.6.8
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Building Out Advanced Packaging Portfolio, JCET De
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Record galore! Jio IPO claims crown for highest QI
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): CobbleStone® & Chu Chua Technology Servi
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Thomson Reuters folds AI into its professional tax
-[2026-10-23 17:01:08] Нет фото: Indurex Raises €7 Million to Bring Engin
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: What’s the PHP coding flaw that could pull down 70
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Meta moves to keep Zuckerberg in California amid w
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Why governments pulled websites offline over a dec
-[2026-10-23 17:01:08] Нет фото: ZenaTech Unveils its Proprietary AI Soft
-[2026-10-23 17:01:08] Нет фото: Solana Company Selected as a Strategic E
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: TravClan raises $5 million from Flipkart, August O
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: A Solution to America’s Aluminum Crunch Is Hiding 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: New superconducting chip aims to help tame fusion 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: What update to Meta's terms for business accounts 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: EFA Group targets Euronext listing within two year
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Cocoa and Chocolate Market worth $216.42 billion b
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Cocoa and Chocolate Market worth $216.42
-[2026-10-23 17:01:08] Заблокированный источник (prnewswire.com): Lockheed Martin Reports Third Quarter 20
-[2026-10-23 17:01:08] Нет фото: Canadian SMBs Embrace Digital Banking, b
-[2026-10-23 17:01:08] Спорт, пропускаю: Futuristic eco cricket ground in Spain e
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Nokia Q3 profit beats estimates on AI data centre 
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: Can technology prove if goods being sold on Vinted
-[2026-10-23 17:01:08] Не про ИИ, пропускаю: FIS Says Digital Money Puts Bank Infrastructure to
-[2026-10-23 17:01:08] AI новости: 14 кандидатов после фильтрации
-[2026-10-23 17:01:09] Редакторский отбор: выбраны позиции [4, 10, 6, 14]
-[2026-10-23 17:01:09] Обрабатываю: IBM puts governed context at the center of production AI | https://siliconangle.com/2026/10/22/ibm-puts-governed-context-center-p
-[2026-10-23 17:01:09] Полный текст получен (3000 символов)
-[2026-10-23 17:01:09] Попытка 1 для: IBM puts governed context at the center 
-[2026-10-23 17:01:10] Успешно, получено 1515 символов
-[2026-10-23 17:01:10] Обрабатываю: Anthropic introduces Claude Duet, a proactive AI agent for p | https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a
 [2026-10-23 17:01:11] Полный текст получен (3000 символов)
 [2026-10-23 17:01:11] Попытка 1 для: Anthropic introduces Claude Duet, a proa
 [2026-10-23 17:01:14] Успешно, получено 3613 символов
@@ -2998,3 +2959,42 @@
 [2026-10-29 08:03:37] Пауза 60 секунд...
 [2026-10-29 08:04:37] sent_urls.txt обрезан: 304 -> 300
 [2026-10-29 08:04:37] === Блок ai_morning завершён ===
+[2026-10-29 11:01:12] Загружено 300 уже отправленных новостей
+[2026-10-29 11:01:12] === Запуск блока: midday (тест: False) ===
+[2026-10-29 11:01:12] Story memory: 102 headlines from the last 96 h
+[2026-10-29 11:01:13] Пропускаю уже отправленную: Bolsonaro is granted a visa to enter the U.S. afte
+[2026-10-29 11:01:13] Пропускаю уже отправленную: Iran hasn’t tried to repair nuclear facilities dam
+[2026-10-29 11:01:13] Неизвестный источник (usatoday.com): Val Chmerkovskiy returns to 'DWTS,' shar
+[2026-10-29 11:01:13] Неизвестный источник (bleacherreport.com): Dream Address WNBA Finals Game 6 Schedul
+[2026-10-29 11:01:13] Неизвестный источник (deadline.com): 'Dancing With The Stars' Season 35 Recap
+[2026-10-29 11:01:13] Неизвестный источник (fantasylife.com): Week 8 NFL Snap Count Report For Fantasy
+[2026-10-29 11:01:13] Неизвестный источник (sfchronicle.com): Video: Trapped Marin drivers push throug
+[2026-10-29 11:01:13] Неизвестный источник (phys.org): Rubin Observatory reveals its first dwar
+[2026-10-29 11:01:13] Неизвестный источник (phillyvoice.com): Game ball, three stars, and snap count a
+[2026-10-29 11:01:13] Неизвестный источник (gsmarena.com): Motorola Signature 27 and Razr Flex show
+[2026-10-29 11:01:13] Неизвестный источник (rollingstone.com): Jay-Z Deserves the Super Bowl Halftime G
+[2026-10-29 11:01:13] Пропускаю уже отправленную: CDC warns of rising threat of drug-resistant germs
+[2026-10-29 11:01:13] Неизвестный источник (tri-cityherald.com): Bird flu found in Central WA dairy herd;
+[2026-10-29 11:01:13] Неизвестный источник (variety.com): 'Friends' Cast Cried at Matthew Perry's 
+[2026-10-29 11:01:13] Старая новость (2026-10-27T00:10:02Z): Fossils from brickworks reveal new dinos
+[2026-10-29 11:01:13] Старая новость (2026-10-26T14:45:06Z): Cardiovascular Health in Girls and Women
+[2026-10-29 11:01:13] Мировые новости: найдено 16 после фильтрации
+[2026-10-29 11:01:15] Редакторский отбор: выбраны позиции [3, 9, 2, 7]
+[2026-10-29 11:01:15] Обрабатываю: Israel’s election: What happens next? | https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15
+[2026-10-29 11:01:15] Попытка 1 для: Israel’s election: What happens next?
+[2026-10-29 11:01:18] Успешно, получено 1169 символов
+[2026-10-29 11:01:18] Обрабатываю: Trump debuts oil rule rollback as Texas wobbles toward blue | https://www.politico.com/news/2026/10/27/trump-methane-gas-paxton-texa
+[2026-10-29 11:01:18] Попытка 1 для: Trump debuts oil rule rollback as Texas 
+[2026-10-29 11:01:20] Успешно, получено 917 символов
+[2026-10-29 11:01:20] Обрабатываю: DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness | https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-t
+[2026-10-29 11:01:20] Попытка 1 для: DOJ fails to indict Cassidy Hutchinson, 
+[2026-10-29 11:01:23] Успешно, получено 935 символов
+[2026-10-29 11:01:23] Обрабатываю: Global stock markets rise as investors continue to bet on AI | https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise
+[2026-10-29 11:01:23] Полный текст получен (3000 символов)
+[2026-10-29 11:01:23] Попытка 1 для: Global stock markets rise as investors c
+[2026-10-29 11:01:29] Успешно, получено 1741 символов
+[2026-10-29 11:01:32] Пауза 60 секунд...
+[2026-10-29 11:02:32] Пауза 60 секунд...
+[2026-10-29 11:03:33] Пауза 60 секунд...
+[2026-10-29 11:04:34] sent_urls.txt обрезан: 304 -> 300
+[2026-10-29 11:04:34] === Блок midday завершён ===
