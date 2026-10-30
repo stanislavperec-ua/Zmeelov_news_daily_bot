@@ -1,45 +1,3 @@
-[2026-10-24 17:01:12] Неизвестный источник (journals.plos.org): Efficient phenotyping of banana (Musa sp
-[2026-10-24 17:01:12] Неизвестный источник (journals.plos.org): Multi-horizon forecasting for decision s
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): City of Hope Cancer Center Chicago Unite
-[2026-10-24 17:01:12] Неизвестный источник (journals.plos.org): Decoding motor imagery EEG signals by a 
-[2026-10-24 17:01:12] Неизвестный источник (journals.plos.org): Is segregation encoded in urban form? An
-[2026-10-24 17:01:12] Неизвестный источник (ibtimes.com.au): RingCentral Stock Soars 18% as AI Produc
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Explained: Why is Meta creating a new cl
-[2026-10-24 17:01:12] Неизвестный источник (researchbuzz.me): Children’s Safety Online, Scotland Castl
-[2026-10-24 17:01:12] Не про ИИ, пропускаю: Trump ordered to testify in $10bn BBC lawsuit disc
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): CobbleStone® Partners with Hatch Advisor
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): Lynshaw Group Established with Focus on 
-[2026-10-24 17:01:12] Неизвестный источник (open-electronics.org): Farnell Widens Access to Emerson’s NI Ni
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): Sinan Aral, MIT Sloan Professor and Lead
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): In late 2020, New Jersey crews placed ne
-[2026-10-24 17:01:12] Неизвестный источник (prnewswire.co.uk): Infosys:Differentiated AI strategy and a
-[2026-10-24 17:01:12] Неизвестный источник (channelnewsasia.com): Explainer-Why is Meta creating a new cla
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): Infosys:Differentiated AI strategy and a
-[2026-10-24 17:01:12] Нет фото: ytconv added to PyPI
-[2026-10-24 17:01:12] Неизвестный источник (screenrant.com): CBS’s Matlock Replacement Series Is An A
-[2026-10-24 17:01:12] Нет фото: Rogers Communications Reports Third Quar
-[2026-10-24 17:01:12] Нет фото: Jinko Holdings to Report Third Quarter 2
-[2026-10-24 17:01:12] Нет фото: JinkoSolar Completes Name Change to Jink
-[2026-10-24 17:01:12] Неизвестный источник (foxnews.com): 'Saturday Night Live' star would sit Sha
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): HoneyNaps Selected for 2026 Eurostars In
-[2026-10-24 17:01:12] Заблокированный источник (prnewswire.com): Hyperscale Data Reaffirms 2027 Guidance 
-[2026-10-24 17:01:12] Нет фото: neureco added to PyPI
-[2026-10-24 17:01:12] Нет фото: neureco 0.0.1
-[2026-10-24 17:01:12] Не про ИИ, пропускаю: AI being examined for use in State’s breast cancer
-[2026-10-24 17:01:12] Неизвестный источник (naftemporiki.gr): Nova gains ground in mobile; fixed-line 
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Who is funding the 2026 US midterms? Top
-[2026-10-24 17:01:12] Неизвестный источник (thehindubusinessline.com): Jio Platforms’ IPO becomes first public 
-[2026-10-24 17:01:12] Неизвестный источник (ibtimes.com.au): Bitcoin Edges Back Above $81,000 After A
-[2026-10-24 17:01:12] Неизвестный источник (smallwarsjournal.com): The Miniaturization of Military Robots
-[2026-10-24 17:01:12] Заблокированный источник (naturalnews.com): U.S. warns of active Chinese cyber probe
-[2026-10-24 17:01:12] Заблокированный источник (naturalnews.com): Major U.S. Banks Detect Unauthorized AI 
-[2026-10-24 17:01:12] Заблокированный источник (dailymail.com): Elon Musk leaves woke media elites shaki
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Zetwerk eyes manufacturing demand from A
-[2026-10-24 17:01:12] Неизвестный источник (en.antaranews.com): Govt pushes equitable distribution of da
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Jio IPO Day 3: GMP at 22%, issue subscri
-[2026-10-24 17:01:12] Неизвестный источник (business-standard.com): Zetwerk shares debut at 5% premium over 
-[2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Elon Musk wants to merge SpaceX and Tesl
-[2026-10-24 17:01:12] Неизвестный источник (business-standard.com): AI data centre backlash threatens Austra
 [2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Jio IPO closes today: Will it deliver a 
 [2026-10-24 17:01:12] Неизвестный источник (business-standard.com): What is PHP? Why are governments and bus
 [2026-10-24 17:01:12] Неизвестный источник (economictimes.indiatimes.com): Swiggy narrows loss in Q2; eMudhra cofou
@@ -2998,3 +2956,45 @@
 [2026-10-30 08:03:41] Пауза 60 секунд...
 [2026-10-30 08:04:42] sent_urls.txt обрезан: 304 -> 300
 [2026-10-30 08:04:42] === Блок ai_morning завершён ===
+[2026-10-30 11:01:09] Загружено 300 уже отправленных новостей
+[2026-10-30 11:01:09] === Запуск блока: midday (тест: False) ===
+[2026-10-30 11:01:09] Story memory: 101 headlines from the last 96 h
+[2026-10-30 11:01:10] Лента обновлений, пропускаю: Audio reveals exchanges between control 
+[2026-10-30 11:01:10] Неизвестный источник (tmz.com): Tyler Perry Fighting Male Sexual Assault
+[2026-10-30 11:01:10] Лента обновлений, пропускаю: Live Updates: Iran rejects "unacceptable
+[2026-10-30 11:01:10] Неизвестный источник (sfgate.com): Horoscope for Thursday, 10/29/26 by Chri
+[2026-10-30 11:01:10] Неизвестный источник (espn.com): Brewers' William Contreras eighth catche
+[2026-10-30 11:01:10] Неизвестный источник (nbcsports.com): Expect plenty of flags to fly on Thursda
+[2026-10-30 11:01:10] Лента обновлений, пропускаю: Nasdaq-100 futures dip as Alphabet share
+[2026-10-30 11:01:10] Неизвестный источник (variety.com): 'Hunger Games: Sunrise on the Reaping' F
+[2026-10-30 11:01:10] Неизвестный источник (pcmag.com): Apple Releases Mac Studio With 512GB of 
+[2026-10-30 11:01:10] Неизвестный источник (hollywoodreporter.com): Nathan Fielder and Lance Oppenheim Go De
+[2026-10-30 11:01:10] Неизвестный источник (bleacherreport.com): Dream Announce WNBA Finals Game 6 Sell O
+[2026-10-30 11:01:10] Неизвестный источник (wpbf.com): King tide pushes water to the seawall at
+[2026-10-30 11:01:10] Нет фото: A Routine Blood Test Could Predict Demen
+[2026-10-30 11:01:10] Старая новость (2026-10-27T21:25:26Z): Tiny tyrannosaur called Jodi sells for a
+[2026-10-30 11:01:10] Старая новость (2026-10-27T19:53:12Z): The Ebola outbreak is breaking records —
+[2026-10-30 11:01:10] Старая новость (2026-10-27T17:42:11Z): CDC warns of rising threat of drug-resis
+[2026-10-30 11:01:10] Старая новость (2026-10-27T11:00:01Z): A 'canary in the coal mine': Measles res
+[2026-10-30 11:01:10] Мировые новости: найдено 12 после фильтрации
+[2026-10-30 11:01:12] Редакторский отбор: выбраны позиции [2, 7, 12, 1]
+[2026-10-30 11:01:12] Обрабатываю: North Korea fires missile barrage toward the sea as tensions | https://apnews.com/article/north-korea-projectile-launch-b1a2feff5944a
+[2026-10-30 11:01:12] Попытка 1 для: North Korea fires missile barrage toward
+[2026-10-30 11:01:14] Успешно, получено 927 символов
+[2026-10-30 11:01:14] Обрабатываю: No clear winner in Israel election with nearly 90 percent of | https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-e
+[2026-10-30 11:01:14] Полный текст получен (3000 символов)
+[2026-10-30 11:01:14] Попытка 1 для: No clear winner in Israel election with 
+[2026-10-30 11:01:16] Успешно, получено 1590 символов
+[2026-10-30 11:01:16] Обрабатываю: DHS hack exposes 40,000 employee names and undercover ICE ag | https://www.nbcnews.com/tech/tech-news/dhs-ice-hack-agent-information-
+[2026-10-30 11:01:17] Полный текст получен (770 символов)
+[2026-10-30 11:01:17] Попытка 1 для: DHS hack exposes 40,000 employee names a
+[2026-10-30 11:01:20] Успешно, получено 1581 символов
+[2026-10-30 11:01:20] Обрабатываю: European Union backtracks on Canada becoming ‘associate memb | https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on
+[2026-10-30 11:01:20] Полный текст получен (2719 символов)
+[2026-10-30 11:01:20] Попытка 1 для: European Union backtracks on Canada beco
+[2026-10-30 11:01:22] Успешно, получено 1837 символов
+[2026-10-30 11:01:25] Пауза 60 секунд...
+[2026-10-30 11:02:25] Пауза 60 секунд...
+[2026-10-30 11:03:26] Пауза 60 секунд...
+[2026-10-30 11:04:26] sent_urls.txt обрезан: 304 -> 300
+[2026-10-30 11:04:26] === Блок midday завершён ===
