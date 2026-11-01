@@ -1,50 +1,3 @@
-[2026-10-26 11:01:29] Попытка 1 для: Democrats, voting-rights groups challeng
-[2026-10-26 11:01:32] Успешно, получено 2432 символов
-[2026-10-26 11:01:32] Обрабатываю: California election officials frustrated, rattled by DOJ dem | https://apnews.com/article/california-elections-voter-fraud-noncitizen
-[2026-10-26 11:01:32] Попытка 1 для: California election officials frustrated
-[2026-10-26 11:01:35] Успешно, получено 889 символов
-[2026-10-26 11:01:38] Пауза 60 секунд...
-[2026-10-26 11:02:38] Пауза 60 секунд...
-[2026-10-26 11:03:39] Пауза 60 секунд...
-[2026-10-26 11:04:40] sent_urls.txt обрезан: 304 -> 300
-[2026-10-26 11:04:40] === Блок midday завершён ===
-[2026-10-26 16:01:14] Загружено 300 уже отправленных новостей
-[2026-10-26 16:01:14] === Запуск блока: evening (тест: False) ===
-[2026-10-26 16:01:14] Неизвестный источник (variety.com): You Can See Everything Box Office Huge S
-[2026-10-26 16:01:14] Спорт, пропускаю: Team A v Team B: How the players rated -
-[2026-10-26 16:01:14] Заблокированный источник (sports.yahoo.com): Steelers vs. Saints live updates, inacti
-[2026-10-26 16:01:14] Неизвестный источник (nbcsports.com): 2026 College Football Rankings Top 25 We
-[2026-10-26 16:01:14] Неизвестный источник (sciencedaily.com): Three giant black holes discovered in a 
-[2026-10-26 16:01:14] Неизвестный источник (hellomagazine.com): Kris Jenner upstages Kim Kardashian in E
-[2026-10-26 16:01:14] Неизвестный источник (phoronix.com): AV2 Video Codec Adoption Talked Up, SVT-
-[2026-10-26 16:01:14] Неизвестный источник (usatoday.com): Ramaswamy follows Trump's playbook in ti
-[2026-10-26 16:01:14] Старая новость (2026-10-24T01:25:33Z): Dengue cases in Florida continued to cli
-[2026-10-26 16:01:14] Старая новость (2026-10-24T01:18:06Z): 'The most complicated launch campaign ev
-[2026-10-26 16:01:14] Мировые новости: найдено 16 после фильтрации
-[2026-10-26 16:01:18] Редакторский отбор: выбраны позиции [8, 2, 16, 3]
-[2026-10-26 16:01:19] RSS Ukrinform: 30 записей
-[2026-10-26 16:01:19] Пропускаю уже отправленную: Russian forces attack energy facility in Khmelnyts
-[2026-10-26 16:01:20] RSS Ukrinform: 30 записей
-[2026-10-26 16:01:20] Пропускаю уже отправленную: Russian forces attack energy facility in Khmelnyts
-[2026-10-26 16:01:20] RSS Euromaidan Press: 29 записей
-[2026-10-26 16:01:20] Старая новость (2026-10-23T23:23:00Z): This is the fancy new F-16 Ukraine could
-[2026-10-26 16:01:20] Старая новость (2026-10-23T23:02:16Z): Ukraine now fights two enemies. One is A
-[2026-10-26 16:01:20] Старая новость (2026-10-23T21:33:03Z): Russo-Ukrainian war, day 1703: White Hou
-[2026-10-26 16:01:20] Старая новость (2026-10-23T21:27:57Z): Putin claims Russia is ready for new tal
-[2026-10-26 16:01:20] Старая новость (2026-10-23T21:18:46Z): Russian plant supplying components for I
-[2026-10-26 16:01:20] Старая новость (2026-10-23T20:54:08Z): 40,000 tons of Russian diesel are bound 
-[2026-10-26 16:01:20] Старая новость (2026-10-23T20:38:37Z): A modem from a Russian drone led reporte
-[2026-10-26 16:01:20] Старая новость (2026-10-23T19:46:25Z): Drone strike sinks cargo ship near Roman
-[2026-10-26 16:01:20] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-26 16:01:20] Заблокированный источник (sputnikglobe.com): Russian Forces Strike Dry Cargo Ship Wit
-[2026-10-26 16:01:20] Заблокированный источник (biztoc.com): Ukraine disputes Elon Musk's claim that 
-[2026-10-26 16:01:20] Спорт, пропускаю: Russia given first championships since U
-[2026-10-26 16:01:20] Нет фото: Ukraine must 'unblock' Patriot missile d
-[2026-10-26 16:01:20] Спорт, пропускаю: Olympic champ Shaidorov only 10th as Sia
-[2026-10-26 16:01:20] Заблокированный источник (nypost.com): Musk confirms SpaceX was behind thwartin
-[2026-10-26 16:01:20] Заблокированный источник (sputnikglobe.com): Democrats Put Anti-Russia Agenda Ahead o
-[2026-10-26 16:01:20] Заблокированный источник (sports.yahoo.com): Olympic champ Shaidorov only 10th as Sia
-[2026-10-26 16:01:20] Заблокированный источник (finance.yahoo.com): Trump says he's weighing deal with Iran 
 [2026-10-26 16:01:20] Нет фото: Ukraine Received Only 24 US Patriots in 
 [2026-10-26 16:01:20] Заблокированный источник (thegatewaypundit.com): Russia Trains China’s Army for Taiwan Wh
 [2026-10-26 16:01:20] Заблокированный источник (biztoc.com): Consumer Tech (Oct 19-23): OpenAI Report
@@ -2998,3 +2951,50 @@
 [2026-11-01 08:03:44] Пауза 60 секунд...
 [2026-11-01 08:04:44] sent_urls.txt обрезан: 304 -> 300
 [2026-11-01 08:04:44] === Блок ai_morning завершён ===
+[2026-11-01 11:01:08] Загружено 300 уже отправленных новостей
+[2026-11-01 11:01:08] === Запуск блока: midday (тест: False) ===
+[2026-11-01 11:01:08] Story memory: 101 headlines from the last 96 h
+[2026-11-01 11:01:08] Неизвестный источник (espn.com): Curry's ankle-breaker on Luka highlights
+[2026-11-01 11:01:08] Неизвестный источник (sfgate.com): Horoscope for Saturday, 10/31/26 by Chri
+[2026-11-01 11:01:08] Неизвестный источник (foxbusiness.com): Expert warns of 'AI hacking bloodbath' f
+[2026-11-01 11:01:08] Пропускаю уже отправленную: Ebola death toll in DR Congo passes 5,000 - Al Jaz
+[2026-11-01 11:01:08] Неизвестный источник (variety.com): Daytime Emmys 2026 Winners List (UPDATED
+[2026-11-01 11:01:08] Неизвестный источник (ktla.com): Child dies of flu-related illness in San
+[2026-11-01 11:01:08] Неизвестный источник (foxbusiness.com): Real estate CEO and family shot, attacke
+[2026-11-01 11:01:08] Неизвестный источник (abc7.com): ICE agent appears to point gun at neighb
+[2026-11-01 11:01:08] Неизвестный источник (nfl.com): 2026 NFL trade deadline: Potential landi
+[2026-11-01 11:01:08] Неизвестный источник (macrumors.com): Apple Alerts Stores to iPhone Duo's Disp
+[2026-11-01 11:01:08] Неизвестный источник (cbssports.com): College football picks: Predictions agai
+[2026-11-01 11:01:08] Неизвестный источник (houstonchronicle.com): Grand jury indicts ICE agent for hitting
+[2026-11-01 11:01:08] Неизвестный источник (instyle.com): Patrick Stewart’s Estranged Son Daniel, 
+[2026-11-01 11:01:08] Пропускаю уже отправленную: Mark Carney: Canada has 'learned we are overdepend
+[2026-11-01 11:01:08] Пропускаю уже отправленную: Iran says 4 tankers strike mines and catch fire in
+[2026-11-01 11:01:08] Неизвестный источник (ksl.com): Boston researchers discover differences 
+[2026-11-01 11:01:08] Неизвестный источник (hollywoodreporter.com): ‘Criminal Minds’ Ending with 20th Season
+[2026-11-01 11:01:08] Неизвестный источник (kitco.com): Gold prices plunge to one-year low below
+[2026-11-01 11:01:08] Неизвестный источник (space.com): Ghostly Cat's Head Nebula haunts the cos
+[2026-11-01 11:01:08] Старая новость (2026-10-30T10:59:05Z): As a historic measles outbreak hits Penn
+[2026-11-01 11:01:08] Старая новость (2026-10-30T08:01:58Z): Scientists have found an enormous new dw
+[2026-11-01 11:01:08] Старая новость (2026-10-29T20:01:52Z): 100 US spacewalks from the ISS! Astronau
+[2026-11-01 11:01:08] Мировые новости: найдено 5 после фильтрации
+[2026-11-01 11:01:10] Редакторский отбор: выбраны позиции [1, 2, 4, 5]
+[2026-11-01 11:01:10] Обрабатываю: El-Sayed asks Stevens to stay away as Democrats’ attempt at  | https://www.washingtonpost.com/politics/2026/10/30/early-voting-surpas
+[2026-11-01 11:01:22] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/30/early-vot
+[2026-11-01 11:01:22] Попытка 1 для: El-Sayed asks Stevens to stay away as De
+[2026-11-01 11:01:24] Успешно, получено 733 символов
+[2026-11-01 11:01:24] Обрабатываю: ‘It all happened so fast,’ Oregon educator who confronted sc | https://www.nbcnews.com/news/us-news/-happened-fast-oregon-teacher-con
+[2026-11-01 11:01:24] Полный текст получен (2206 символов)
+[2026-11-01 11:01:24] Попытка 1 для: ‘It all happened so fast,’ Oregon educat
+[2026-11-01 11:01:27] Успешно, получено 1587 символов
+[2026-11-01 11:01:27] Обрабатываю: Google’s satellite AI server transmits its first response to | https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-sat
+[2026-11-01 11:01:27] Полный текст получен (1071 символов)
+[2026-11-01 11:01:27] Попытка 1 для: Google’s satellite AI server transmits i
+[2026-11-01 11:01:30] Успешно, получено 1468 символов
+[2026-11-01 11:01:30] Обрабатываю: 'A wave can hide a lot of weaknesses': Dems question if they | https://www.politico.com/news/2026/10/30/democrats-message-voters-2026
+[2026-11-01 11:01:30] Попытка 1 для: 'A wave can hide a lot of weaknesses': D
+[2026-11-01 11:01:32] Успешно, получено 707 символов
+[2026-11-01 11:01:35] Пауза 60 секунд...
+[2026-11-01 11:02:35] Пауза 60 секунд...
+[2026-11-01 11:03:36] Пауза 60 секунд...
+[2026-11-01 11:04:36] sent_urls.txt обрезан: 304 -> 300
+[2026-11-01 11:04:36] === Блок midday завершён ===
