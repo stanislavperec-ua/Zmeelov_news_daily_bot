@@ -1,73 +1,3 @@
-[2026-10-26 18:01:12] Доверенных AI-источников мало, добираю из остальных
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Johnny Depp’s Forgotten $100M AI Sci-Fi Movie Coul
-[2026-10-26 18:01:12] Нет фото: aaias-library added to PyPI
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Buy YouTube Views: Which Services Rank Highest?
-[2026-10-26 18:01:12] Нет фото: sail-kd 0.9.0
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: From digital islands to unified national backbone:
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: The forces shaping next stage for Indian startups
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Editorial. Jio 2.0
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: 2027 BMW i7
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Beginning in 1974, North American conservationists
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: After Fighting in Gaza and Battling PTSD, Shahar V
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Indonesia's digital shift: From connectivity to gr
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Heatbit Says Your Water Heater Should Be Mining Bi
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: How to watch Chiefs-Seahawks Week 7: TV channel, s
-[2026-10-26 18:01:12] Спорт, пропускаю: Tennessee Football Player Throws Sucker 
-[2026-10-26 18:01:12] Пропускаю уже отправленную: OpenAI AI Agents Demonstrate VM Escapes and Secret
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Operation Sindoor proved no target beyond IAF' s r
-[2026-10-26 18:01:12] Нет фото: Using Civilian Products for Military Pur
-[2026-10-26 18:01:12] Нет фото: SpaceX Starlink Has Never Been a Weapon 
-[2026-10-26 18:01:12] Пропускаю уже отправленную: AI Firm Behind India’s ‘Mahabharat’ Series Turns t
-[2026-10-26 18:01:12] Пропускаю уже отправленную: Show HN: AI Senate – AI senators debate live polic
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: The CCP ‘Saturates’ Religion with Socialist Values
-[2026-10-26 18:01:12] Нет фото: Multi-objective artificial pedosphere in
-[2026-10-26 18:01:12] Нет фото: A multi-source earth observation and art
-[2026-10-26 18:01:12] Пропускаю уже отправленную: How much?? Chinese startup unveils copper-colored 
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: Pierluigi Paganini answers questions about the PHP
-[2026-10-26 18:01:12] Не про ИИ, пропускаю: NYPD in negotiations to use new AI-driven technolo
-[2026-10-26 18:01:12] AI новости: 2 кандидатов после фильтрации
-[2026-10-26 18:01:12] Обрабатываю: PHP2Shell Exploitation Hits Government Entity Amid Global Sc | https://thehackernews.com/2026/10/php2shell-exploitation-hits-governme
-[2026-10-26 18:01:12] Полный текст получен (3000 символов)
-[2026-10-26 18:01:12] Попытка 1 для: PHP2Shell Exploitation Hits Government E
-[2026-10-26 18:01:16] Успешно, получено 2247 символов
-[2026-10-26 18:01:16] Обрабатываю: OpenAI Paused Frontier AI Training After a Security Incident | https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-traini
-[2026-10-26 18:01:17] Полный текст получен (3000 символов)
-[2026-10-26 18:01:17] Попытка 1 для: OpenAI Paused Frontier AI Training After
-[2026-10-26 18:01:20] Успешно, получено 1771 символов
-[2026-10-26 18:01:23] Пауза 60 секунд...
-[2026-10-26 18:02:24] sent_urls.txt обрезан: 302 -> 300
-[2026-10-26 18:02:24] === Блок ai_evening завершён ===
-[2026-10-27 06:01:05] Загружено 300 уже отправленных новостей
-[2026-10-27 06:01:05] === Запуск блока: morning (тест: False) ===
-[2026-10-27 06:01:05] Неизвестный источник (espn.com): Jaxon Smith-Njigba, stifling defense hel
-[2026-10-27 06:01:05] Неизвестный источник (abcnews.com): 'You Can See Everything' surges with $19
-[2026-10-27 06:01:05] Неизвестный источник (phys.org): Lumina simulation brings the early unive
-[2026-10-27 06:01:05] Неизвестный источник (cbssports.com): Cincinnati Bengals vs. Baltimore Ravens 
-[2026-10-27 06:01:05] Неизвестный источник (theinformation.com): Anthropic’s Big Reveal - The Information
-[2026-10-27 06:01:05] Неизвестный источник (appleinsider.com): Hinge damage suspected to be behind iPho
-[2026-10-27 06:01:05] Неизвестный источник (thetimes.com): What did Meghan know about her father Th
-[2026-10-27 06:01:05] Неизвестный источник (instyle.com): Tom Brady, 49, and Supermodel Candice Sw
-[2026-10-27 06:01:05] Неизвестный источник (bgr.com): How To Build A Cheap Home Server To Save
-[2026-10-27 06:01:05] Неизвестный источник (space.com): October's 'Hunter's Moon' stalks into th
-[2026-10-27 06:01:05] Неизвестный источник (timesofindia.indiatimes.com): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
-[2026-10-27 06:01:05] Неизвестный источник (forbes.com): The iPhone Duo Likes & Dislikes After 4 
-[2026-10-27 06:01:05] Старая новость (2026-10-23T15:52:00Z): New Florida counties report dengue cases
-[2026-10-27 06:01:05] Мировые новости: найдено 11 после фильтрации
-[2026-10-27 06:01:07] Редакторский отбор: выбраны позиции [11, 6, 4, 7]
-[2026-10-27 06:01:08] RSS Ukrinform: 30 записей
-[2026-10-27 06:01:09] RSS Ukrinform: 30 записей
-[2026-10-27 06:01:09] Пропускаю уже отправленную: Russian shelling causes new power outages in six r
-[2026-10-27 06:01:09] Пропускаю уже отправленную: Russian forces attack energy facility in Khmelnyts
-[2026-10-27 06:01:09] RSS Euromaidan Press: 29 записей
-[2026-10-27 06:01:09] Старая новость (2026-10-23T23:23:00Z): This is the fancy new F-16 Ukraine could
-[2026-10-27 06:01:09] Старая новость (2026-10-23T23:02:16Z): Ukraine now fights two enemies. One is A
-[2026-10-27 06:01:09] Старая новость (2026-10-23T21:33:03Z): Russo-Ukrainian war, day 1703: White Hou
-[2026-10-27 06:01:09] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-10-27 06:01:09] Заблокированный источник (naturalnews.com): Russia and Ukraine Exchange Prisoners of
-[2026-10-27 06:01:09] Заблокированный источник (naturalnews.com): U.S. Troops Say Pentagon Abandoned Them 
-[2026-10-27 06:01:09] Спорт, пропускаю: 'No one cried before the match!' – Jose 
-[2026-10-27 06:01:09] Лента обновлений, пропускаю: Gold, Silver rate today: Gold hovers nea
-[2026-10-27 06:01:09] Нет фото: Alternative Ukraine Anti-Drone Intercept
 [2026-10-27 06:01:09] Заблокированный источник (nypost.com): Dreadful Elon Musk hit-piece documentary
 [2026-10-27 06:01:09] Нет фото: Ukraine GPS Hack Boards And Other Specul
 [2026-10-27 06:01:09] Нет фото: Crow: Elon Musk having control to cut of
@@ -2998,3 +2928,73 @@
 [2026-11-01 16:06:13] Пауза 60 секунд...
 [2026-11-01 16:07:14] sent_urls.txt обрезан: 307 -> 300
 [2026-11-01 16:07:14] === Блок evening завершён ===
+[2026-11-01 18:01:12] Загружено 300 уже отправленных новостей
+[2026-11-01 18:01:12] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-01 18:01:12] Story memory: 101 headlines from the last 96 h
+[2026-11-01 18:01:12] RSS The Guardian: 20 записей
+[2026-11-01 18:01:12] RSS Wired: 10 записей
+[2026-11-01 18:01:12] RSS TechCrunch: 20 записей
+[2026-11-01 18:01:13] RSS Ars Technica: 20 записей
+[2026-11-01 18:01:13] RSS MIT Technology Review: 10 записей
+[2026-11-01 18:01:13] RSS BBC News: 21 записей
+[2026-11-01 18:01:13] RSS IEEE Spectrum: 30 записей
+[2026-11-01 18:01:13] AI feeds: 12 candidates from quality outlets
+[2026-11-01 18:01:14] NewsAPI (AI): пришло 35 статей
+[2026-11-01 18:01:14] Неизвестный источник (siliconangle.com): Can enterprise AI pay for the boom?
+[2026-11-01 18:01:14] Неизвестный источник (bgr.com): The Big Problem With Gaming Routers That
+[2026-11-01 18:01:14] Неизвестный источник (bleedingcool.com): Absolute Superman #25 Preview: Superman'
+[2026-11-01 18:01:14] Неизвестный источник (uk.pcmag.com): Google Scores Big Win in Quest to Put Da
+[2026-11-01 18:01:14] Неизвестный источник (uk.pcmag.com): Google Scores Big Win in Quest to Put Da
+[2026-11-01 18:01:14] Не про ИИ, пропускаю: Binance’s $6.3 billion hack raises questions about
+[2026-11-01 18:01:14] Неизвестный источник (freepressjournal.in): Human Oversight, Incident Reporting Mand
+[2026-11-01 18:01:14] Заблокированный источник (rt-english.com): Beyond Western narratives: What the Russ
+[2026-11-01 18:01:14] Неизвестный источник (thehindubusinessline.com): SEBI plans capacity-building network to 
+[2026-11-01 18:01:14] Неизвестный источник (english.gossiplankanews.com): False slandering of the Minister of Budd
+[2026-11-01 18:01:14] Неизвестный источник (hurriyetdailynews.com): Türkiye takes Turkic bloc chair as Erdoğ
+[2026-11-01 18:01:14] Неизвестный источник (researchbuzz.me): Lord Farquuad, Public Lands, Greg Abbott
+[2026-11-01 18:01:14] Неизвестный источник (siliconangle.com): Google, Anthropic and others to support 
+[2026-11-01 18:01:14] Неизвестный источник (nzherald.co.nz): New Zealand investment: Shortage of inve
+[2026-11-01 18:01:14] Неизвестный источник (wattsupwiththat.com): Data Centers Soar Despite Opposition
+[2026-11-01 18:01:14] Неизвестный источник (bleedingcool.com): Challenges of Doom: Doctor Strange #1 Pr
+[2026-11-01 18:01:14] Неизвестный источник (punchng.com): Airtel Nigeria deploys 1,000 additional 
+[2026-11-01 18:01:14] Нет фото: Do hedgehogs dig dens?
+[2026-11-01 18:01:14] Нет фото: CSqL-m-H2LA-GRBiTM: categorical square l
+[2026-11-01 18:01:14] Нет фото: Bi-directional ANN framework for forward
+[2026-11-01 18:01:14] Неизвестный источник (siliconangle.com): Google X co-founder Sebastian Thrun rais
+[2026-11-01 18:01:14] Неизвестный источник (bleedingcool.com): Absolute Catwoman #4 Preview: Selina's N
+[2026-11-01 18:01:14] Неизвестный источник (newatlas.com): Sunseeker robo mower still suffers painf
+[2026-11-01 18:01:14] Неизвестный источник (onefootball.com): Together from day one: Andressa's World 
+[2026-11-01 18:01:14] Заблокированный источник (nypost.com): Pro-Dem phony news sites are manipulatin
+[2026-11-01 18:01:14] Неизвестный источник (wwd.com): Shuffle Board: Carter’s Reshapes Leaders
+[2026-11-01 18:01:14] Заблокированный источник (finance.yahoo.com): Mobile-health Network Solutions Reports 
+[2026-11-01 18:01:14] Неизвестный источник (offgridsurvival.com): Hackers Steal $6.3 Billion in Crypto Cur
+[2026-11-01 18:01:14] Неизвестный источник (siliconangle.com): Extreme Networks wants the network to ru
+[2026-11-01 18:01:14] Заблокированный источник (nypost.com): How North Korean hackers pulled off $6.3
+[2026-11-01 18:01:14] Неизвестный источник (dailycaller.com): Kim Jong Un Unleashes Suicide Drones On 
+[2026-11-01 18:01:14] Заблокированный источник (finance.yahoo.com): Stocks plunge as Amazon, Intel and Alpha
+[2026-11-01 18:01:14] Неизвестный источник (incrediblethings.com): To Help Robots Understand People Better,
+[2026-11-01 18:01:14] Неизвестный источник (economictimes.indiatimes.com): TRAI proposes board-approved AI policies
+[2026-11-01 18:01:14] AI news: 13 candidates from quality and trusted outlets
+[2026-11-01 18:01:14] AI news: 13 candidates after filtering
+[2026-11-01 18:01:16] Редакторский отбор: выбраны позиции [7, 9, 2, 1]
+[2026-11-01 18:01:16] Обрабатываю: AI is stealing Indigenous Australian art and churning out ‘T | https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indig
+[2026-11-01 18:01:16] Полный текст получен (3000 символов)
+[2026-11-01 18:01:16] Попытка 1 для: AI is stealing Indigenous Australian art
+[2026-11-01 18:01:18] Успешно, получено 2061 символов
+[2026-11-01 18:01:18] Обрабатываю: Disquiet grows in Albanese’s back yard as Grayndler artists  | https://www.theguardian.com/australia-news/2026/nov/01/artists-against
+[2026-11-01 18:01:19] Полный текст получен (3000 символов)
+[2026-11-01 18:01:19] Попытка 1 для: Disquiet grows in Albanese’s back yard a
+[2026-11-01 18:01:20] Успешно, получено 1598 символов
+[2026-11-01 18:01:20] Обрабатываю: Chatbots Are Leading Hikers Astray, With Dangerous Consequen | https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-da
+[2026-11-01 18:01:21] Текст не совпадает с заголовком, беру описание: https://www.wired.com/story/chatbots-are-leading-hikers-astr
+[2026-11-01 18:01:21] Попытка 1 для: Chatbots Are Leading Hikers Astray, With
+[2026-11-01 18:01:22] Успешно, получено 998 символов
+[2026-11-01 18:01:22] Обрабатываю: National Grid to site biggest substation on Teesside, near p | https://www.theguardian.com/business/2026/nov/01/national-grid-to-site
+[2026-11-01 18:01:23] Полный текст получен (2809 символов)
+[2026-11-01 18:01:23] Попытка 1 для: National Grid to site biggest substation
+[2026-11-01 18:01:31] Успешно, получено 1735 символов
+[2026-11-01 18:01:34] Пауза 60 секунд...
+[2026-11-01 18:02:34] Пауза 60 секунд...
+[2026-11-01 18:03:35] Пауза 60 секунд...
+[2026-11-01 18:04:35] sent_urls.txt обрезан: 304 -> 300
+[2026-11-01 18:04:35] === Блок ai_evening завершён ===
