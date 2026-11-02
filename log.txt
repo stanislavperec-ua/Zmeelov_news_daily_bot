@@ -1,49 +1,3 @@
-[2026-10-27 11:01:23] Успешно, получено 1935 символов
-[2026-10-27 11:01:23] Обрабатываю: Elon Musk says SpaceX was behind restrictions to Ukraine’s S | https://www.washingtonpost.com/world/2026/10/25/elon-musk-says-spacex-
-[2026-10-27 11:01:36] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/25/elon-musk-sa
-[2026-10-27 11:01:36] Попытка 1 для: Elon Musk says SpaceX was behind restric
-[2026-10-27 11:01:38] Успешно, получено 678 символов
-[2026-10-27 11:01:38] Обрабатываю: Justice Department faces skeptical appeals court panel in Ca | https://www.politico.com/news/2026/10/25/doj-appeals-court-california-
-[2026-10-27 11:01:38] Попытка 1 для: Justice Department faces skeptical appea
-[2026-10-27 11:01:41] Успешно, получено 786 символов
-[2026-10-27 11:01:44] Пауза 60 секунд...
-[2026-10-27 11:02:44] Пауза 60 секунд...
-[2026-10-27 11:03:45] Пауза 60 секунд...
-[2026-10-27 11:04:45] sent_urls.txt обрезан: 304 -> 300
-[2026-10-27 11:04:45] === Блок midday завершён ===
-[2026-10-27 16:01:10] Загружено 300 уже отправленных новостей
-[2026-10-27 16:01:10] === Запуск блока: evening (тест: False) ===
-[2026-10-27 16:01:11] Неизвестный источник (usatoday.com): 'Big Brother' winner Rick Devens reveals
-[2026-10-27 16:01:11] Неизвестный источник (kotaku.com): Hackers Begin Dumping Nintendo Switch 2 
-[2026-10-27 16:01:11] Неизвестный источник (espn.com): Alexander Volkanovski could face a new c
-[2026-10-27 16:01:11] Неизвестный источник (nbcsports.com): NFL kickers are 167-for-170 from inside 
-[2026-10-27 16:01:11] Заблокированный источник (finance.yahoo.com): SpaceX's Elon Musk reveals $40 billion i
-[2026-10-27 16:01:11] Неизвестный источник (usatoday.com): NFL Week 7 winners, losers led by Jets' 
-[2026-10-27 16:01:11] Неизвестный источник (sciencedaily.com): Chinese scientists discover “D-rex,” a g
-[2026-10-27 16:01:11] Неизвестный источник (sciencedaily.com): AI detects “invisible” signs of pancreat
-[2026-10-27 16:01:11] Неизвестный источник (phys.org): Lumina simulation brings the early unive
-[2026-10-27 16:01:11] Заблокированный источник (sports.yahoo.com): NFL Week 7 Winners and Losers: 49ers und
-[2026-10-27 16:01:11] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
-[2026-10-27 16:01:11] Старая новость (2026-10-22T16:00:00Z): A remarkable new picture is emerging of 
-[2026-10-27 16:01:11] Мировые новости: найдено 16 после фильтрации
-[2026-10-27 16:01:14] Редакторский отбор: выбраны позиции [15, 16, 9, 12]
-[2026-10-27 16:01:15] RSS Ukrinform: 30 записей
-[2026-10-27 16:01:15] Пропускаю уже отправленную: Zelensky after Russian strike on Kyiv: Delays in a
-[2026-10-27 16:01:15] Пропускаю уже отправленную: Russian ballistic missile attack on Kyiv kills one
-[2026-10-27 16:01:16] RSS Ukrinform: 30 записей
-[2026-10-27 16:01:16] Пропускаю уже отправленную: Zelensky after Russian strike on Kyiv: Delays in a
-[2026-10-27 16:01:16] Пропускаю уже отправленную: Russian ballistic missile attack on Kyiv kills one
-[2026-10-27 16:01:16] RSS Euromaidan Press: 29 записей
-[2026-10-27 16:01:17] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-10-27 16:01:17] Заблокированный источник (biztoc.com): Ukraine's been waiting almost a month fo
-[2026-10-27 16:01:17] Нет фото: Fighter jet uses "headbutt maneuver" to 
-[2026-10-27 16:01:17] Заблокированный источник (breitbart.com): Elon Musk Confirms Spacex Throttled Star
-[2026-10-27 16:01:17] Нет фото: Elon Musk's Dust-up With Ukraine on Star
-[2026-10-27 16:01:17] Спорт, пропускаю: Olid, Cuthbert and Weir on Scottish awar
-[2026-10-27 16:01:17] Заблокированный источник (biztoc.com): Salvini’s anti-Ukraine pledge puts Melon
-[2026-10-27 16:01:17] Заблокированный источник (biztoc.com): Spice, spice, baby: the enduring legacy 
-[2026-10-27 16:01:17] Нет фото: Trump's View of Ukraine Comes from this 
-[2026-10-27 16:01:17] Заблокированный источник (biztoc.com): Zelensky Adviser Slams Musk Over Claims 
 [2026-10-27 16:01:17] Заблокированный источник (biztoc.com): Drone attack in Russia's Voronezh kills 
 [2026-10-27 16:01:17] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Drone Kill
 [2026-10-27 16:01:17] Внутренний дубль: Russia commits 989 crimes against journalists and 
@@ -2998,3 +2952,49 @@
 [2026-11-02 08:03:49] Пауза 60 секунд...
 [2026-11-02 08:04:50] sent_urls.txt обрезан: 304 -> 300
 [2026-11-02 08:04:50] === Блок ai_morning завершён ===
+[2026-11-02 11:01:27] Загружено 300 уже отправленных новостей
+[2026-11-02 11:01:27] === Запуск блока: midday (тест: False) ===
+[2026-11-02 11:01:27] Story memory: 97 headlines from the last 96 h
+[2026-11-02 11:01:27] Спорт, пропускаю: Golden State Valkyries win WNBA title wi
+[2026-11-02 11:01:27] Неизвестный источник (kcra.com): New video captures terrifying moments in
+[2026-11-02 11:01:27] Неизвестный источник (deadline.com): ‘SNL’ Pays Tribute To Patrick Stewart Wi
+[2026-11-02 11:01:27] Неизвестный источник (bleacherreport.com): B/R's 2026 College Football Experts Top 
+[2026-11-02 11:01:27] Неизвестный источник (variety.com): 'SNL': Inde Navarrette Takes Swipe at Sh
+[2026-11-02 11:01:27] Неизвестный источник (mmafighting.com): Tom Nolan brutalizes Renato Moicano with
+[2026-11-02 11:01:27] Неизвестный источник (usatoday.com): Judge won't dismiss McRib class-action l
+[2026-11-02 11:01:27] Неизвестный источник (usatoday.com): Hegseth fired Nancy Lacore from the Navy
+[2026-11-02 11:01:27] Неизвестный источник (pbs.org): Attorneys for Alaska say 'meritless' Tru
+[2026-11-02 11:01:27] Пропускаю уже отправленную: King to address slavery during Commonwealth speech
+[2026-11-02 11:01:27] Неизвестный источник (hollywoodreporter.com): Best Celebrity Halloween Costumes 2026: 
+[2026-11-02 11:01:27] Неизвестный источник (texastribune.org): More than 7.5 million Texans voted early
+[2026-11-02 11:01:27] Неизвестный источник (bleepingcomputer.com): New Android SMS of Death exploit can rem
+[2026-11-02 11:01:27] Неизвестный источник (eurogamer.net): Final Fantasy 14's next job is a crossbo
+[2026-11-02 11:01:27] Неизвестный источник (sciencedaily.com): Scientists finally discover how a common
+[2026-11-02 11:01:27] Неизвестный источник (seekingalpha.com): ServiceNow CFO says AI disruption to ent
+[2026-11-02 11:01:27] Старая новость (2026-10-31T11:00:01Z): Anthropic's path to the Nasdaq just got 
+[2026-11-02 11:01:27] Старая новость (2026-10-31T07:00:00Z): November’s Night Sky Brings A Supermoon 
+[2026-11-02 11:01:27] Старая новость (2026-10-31T00:20:08Z): Meteorite Found in Sahara is Piece of Ma
+[2026-11-02 11:01:27] Старая новость (2026-10-30T13:30:06Z): Deal of the Day: Apple’s Newest AirTags 
+[2026-11-02 11:01:27] Старая новость (2026-10-30T10:45:50Z): As a historic measles outbreak hits Penn
+[2026-11-02 11:01:27] Мировые новости: найдено 9 после фильтрации
+[2026-11-02 11:01:29] Редакторский отбор: выбраны позиции [1, 7, 4, 6]
+[2026-11-02 11:01:29] Обрабатываю: Crypto firm Binance covers 90% of losses after $6.3bn hack | https://www.bbc.com/news/articles/ckpdg3ql4169o
+[2026-11-02 11:01:29] Полный текст получен (3000 символов)
+[2026-11-02 11:01:29] Попытка 1 для: Crypto firm Binance covers 90% of losses
+[2026-11-02 11:01:32] Успешно, получено 1551 символов
+[2026-11-02 11:01:32] Обрабатываю: Iran's Khamenei warns US and Israel against new attacks | https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns
+[2026-11-02 11:01:32] Попытка 1 для: Iran's Khamenei warns US and Israel agai
+[2026-11-02 11:01:34] Успешно, получено 999 символов
+[2026-11-02 11:01:34] Обрабатываю: Thousands rally in Israel urging Eisenkot-Arab deal to remov | https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urg
+[2026-11-02 11:01:34] Полный текст получен (2453 символов)
+[2026-11-02 11:01:34] Попытка 1 для: Thousands rally in Israel urging Eisenko
+[2026-11-02 11:01:37] Успешно, получено 1844 символов
+[2026-11-02 11:01:37] Обрабатываю: Heavy rains expected to bring flooding risk to already satur | https://www.nbcnews.com/weather/floods/southwest-flash-flooding-heavy-
+[2026-11-02 11:01:38] Полный текст получен (1883 символов)
+[2026-11-02 11:01:38] Попытка 1 для: Heavy rains expected to bring flooding r
+[2026-11-02 11:01:49] Успешно, получено 1750 символов
+[2026-11-02 11:01:52] Пауза 60 секунд...
+[2026-11-02 11:02:53] Пауза 60 секунд...
+[2026-11-02 11:03:53] Пауза 60 секунд...
+[2026-11-02 11:04:53] sent_urls.txt обрезан: 304 -> 300
+[2026-11-02 11:04:53] === Блок midday завершён ===
