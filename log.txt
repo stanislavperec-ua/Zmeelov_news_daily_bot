@@ -1,67 +1,3 @@
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Johnny Depp’s Forgotten $100M AI Sci-Fi Movie Coul
-[2026-10-27 08:01:09] Пропускаю уже отправленную: PHP2Shell Exploitation Hits Government Entity Amid
-[2026-10-27 08:01:09] Нет фото: aaias-library added to PyPI
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Buy YouTube Views: Which Services Rank Highest?
-[2026-10-27 08:01:09] Нет фото: sail-kd 0.9.0
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: From digital islands to unified national backbone:
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: The forces shaping next stage for Indian startups
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Editorial. Jio 2.0
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: 2027 BMW i7
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Beginning in 1974, North American conservationists
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: After Fighting in Gaza and Battling PTSD, Shahar V
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Indonesia's digital shift: From connectivity to gr
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: Heatbit Says Your Water Heater Should Be Mining Bi
-[2026-10-27 08:01:09] Не про ИИ, пропускаю: How to watch Chiefs-Seahawks Week 7: TV channel, s
-[2026-10-27 08:01:09] Спорт, пропускаю: Tennessee Football Player Throws Sucker 
-[2026-10-27 08:01:09] Пропускаю уже отправленную: OpenAI Paused Frontier AI Training After a Securit
-[2026-10-27 08:01:09] AI новости: 4 кандидатов после фильтрации
-[2026-10-27 08:01:09] Обрабатываю: L Catterton makes strategic investment in InMobi-backed Glan | https://www.livemint.com/companies/l-catterton-invests-in-glance-ai-sh
-[2026-10-27 08:01:09] Полный текст получен (3000 символов)
-[2026-10-27 08:01:09] Попытка 1 для: L Catterton makes strategic investment i
-[2026-10-27 08:01:13] Успешно, получено 1943 символов
-[2026-10-27 08:01:13] Обрабатываю: Apollo analysis shows no one besides the biggest tech giants | https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-
-[2026-10-27 08:01:13] Полный текст получен (3000 символов)
-[2026-10-27 08:01:13] Попытка 1 для: Apollo analysis shows no one besides the
-[2026-10-27 08:01:16] Успешно, получено 1975 символов
-[2026-10-27 08:01:16] Обрабатываю: Elon Musk predicts neocloud shakeout as credit for AI infras | https://siliconangle.com/2026/10/25/elon-musk-predicts-neocloud-shakeo
-[2026-10-27 08:01:17] Полный текст получен (3000 символов)
-[2026-10-27 08:01:17] Попытка 1 для: Elon Musk predicts neocloud shakeout as 
-[2026-10-27 08:01:20] Успешно, получено 1824 символов
-[2026-10-27 08:01:20] Обрабатываю: Digital citizenship in the age of AI: Why checking before sh | https://www.digitaljournal.com/article/digital-citizenship-in-the-age-
-[2026-10-27 08:01:20] Полный текст получен (3000 символов)
-[2026-10-27 08:01:20] Попытка 1 для: Digital citizenship in the age of AI: Wh
-[2026-10-27 08:01:30] Успешно, получено 1565 символов
-[2026-10-27 08:01:33] Пауза 60 секунд...
-[2026-10-27 08:02:34] Пауза 60 секунд...
-[2026-10-27 08:03:34] Пауза 60 секунд...
-[2026-10-27 08:04:35] sent_urls.txt обрезан: 304 -> 300
-[2026-10-27 08:04:35] === Блок ai_morning завершён ===
-[2026-10-27 11:01:13] Загружено 300 уже отправленных новостей
-[2026-10-27 11:01:13] === Запуск блока: midday (тест: False) ===
-[2026-10-27 11:01:14] Неизвестный источник (nba.com): Thunder lose Jalen Williams to serious l
-[2026-10-27 11:01:14] Неизвестный источник (espn.com): Jaxon Smith-Njigba, stifling defense hel
-[2026-10-27 11:01:14] Неизвестный источник (ksl.com): 'You Can See Everything' surges with $19
-[2026-10-27 11:01:14] Неизвестный источник (cbssports.com): NFL Week 7 grades: Falcons earn solid 'A
-[2026-10-27 11:01:14] Неизвестный источник (phys.org): Lumina simulation brings the early unive
-[2026-10-27 11:01:14] Пропускаю уже отправленную: Deeply divided Israel braces for pivotal election 
-[2026-10-27 11:01:14] Неизвестный источник (appleinsider.com): Hinge damage suspected to be behind iPho
-[2026-10-27 11:01:14] Пропускаю уже отправленную: U.S. measles cases more than double what they were
-[2026-10-27 11:01:14] Неизвестный источник (nbcsports.com): 49ers lose their first game of the seaso
-[2026-10-27 11:01:14] Неизвестный источник (instyle.com): Tom Brady, 49, and Supermodel Candice Sw
-[2026-10-27 11:01:14] Неизвестный источник (bgr.com): How To Build A Cheap Home Server To Save
-[2026-10-27 11:01:14] Неизвестный источник (marketwatch.com): More than a third of S&P 500 companies a
-[2026-10-27 11:01:14] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
-[2026-10-27 11:01:14] Старая новость (2026-10-25T02:04:00Z): Should you get a flu shot now? What we k
-[2026-10-27 11:01:14] Старая новость (2026-10-24T16:30:36Z): NASA Contractor on why Space Shuttle sme
-[2026-10-27 11:01:14] Мировые новости: найдено 10 после фильтрации
-[2026-10-27 11:01:15] Редакторский отбор: выбраны позиции [1, 3, 5, 6]
-[2026-10-27 11:01:16] Обрабатываю: Jordan arrests three suspects in deadly church attack | https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspect
-[2026-10-27 11:01:16] Полный текст получен (3000 символов)
-[2026-10-27 11:01:16] Попытка 1 для: Jordan arrests three suspects in deadly 
-[2026-10-27 11:01:19] Успешно, получено 1664 символов
-[2026-10-27 11:01:19] Обрабатываю: SpaceX closes $40 billion debt deal for AI chips, Elon Musk  | https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for
-[2026-10-27 11:01:19] Полный текст получен (1641 символов)
-[2026-10-27 11:01:19] Попытка 1 для: SpaceX closes $40 billion debt deal for 
 [2026-10-27 11:01:23] Успешно, получено 1935 символов
 [2026-10-27 11:01:23] Обрабатываю: Elon Musk says SpaceX was behind restrictions to Ukraine’s S | https://www.washingtonpost.com/world/2026/10/25/elon-musk-says-spacex-
 [2026-10-27 11:01:36] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/10/25/elon-musk-sa
@@ -2998,3 +2934,67 @@
 [2026-11-02 06:06:54] Пауза 60 секунд...
 [2026-11-02 06:07:55] sent_urls.txt обрезан: 307 -> 300
 [2026-11-02 06:07:55] === Блок morning завершён ===
+[2026-11-02 08:01:18] Загружено 300 уже отправленных новостей
+[2026-11-02 08:01:18] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-02 08:01:18] Story memory: 97 headlines from the last 96 h
+[2026-11-02 08:01:18] RSS The Guardian: 20 записей
+[2026-11-02 08:01:18] RSS Wired: 10 записей
+[2026-11-02 08:01:18] RSS TechCrunch: 20 записей
+[2026-11-02 08:01:18] RSS Ars Technica: 20 записей
+[2026-11-02 08:01:19] RSS MIT Technology Review: 10 записей
+[2026-11-02 08:01:19] RSS BBC News: 21 записей
+[2026-11-02 08:01:19] RSS IEEE Spectrum: 30 записей
+[2026-11-02 08:01:19] AI feeds: 4 candidates from quality outlets
+[2026-11-02 08:01:19] NewsAPI (AI): пришло 15 статей
+[2026-11-02 08:01:19] Неизвестный источник (livemint.com): Who is Xavier Niel? French billionaire t
+[2026-11-02 08:01:19] Заблокированный источник (biztoc.com): Bandwidth: 3 Key Takeaways for Long-Term
+[2026-11-02 08:01:19] Неизвестный источник (celticsblog.com): Boston Celtics Daily Links 10/31/26
+[2026-11-02 08:01:19] Неизвестный источник (cryptobriefing.com): Digital Realty raises full-year guidance
+[2026-11-02 08:01:19] Неизвестный источник (siliconangle.com): Can enterprise AI pay for the boom?
+[2026-11-02 08:01:19] Неизвестный источник (bgr.com): The Big Problem With Gaming Routers That
+[2026-11-02 08:01:19] Неизвестный источник (bleedingcool.com): Absolute Superman #25 Preview: Superman'
+[2026-11-02 08:01:19] Неизвестный источник (uk.pcmag.com): Google Scores Big Win in Quest to Put Da
+[2026-11-02 08:01:19] Неизвестный источник (uk.pcmag.com): Google Scores Big Win in Quest to Put Da
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Binance’s $6.3 billion hack raises questions about
+[2026-11-02 08:01:19] Неизвестный источник (freepressjournal.in): Human Oversight, Incident Reporting Mand
+[2026-11-02 08:01:19] Заблокированный источник (rt-english.com): Beyond Western narratives: What the Russ
+[2026-11-02 08:01:19] Неизвестный источник (thehindubusinessline.com): SEBI plans capacity-building network to 
+[2026-11-02 08:01:19] Неизвестный источник (english.gossiplankanews.com): False slandering of the Minister of Budd
+[2026-11-02 08:01:19] Неизвестный источник (hurriyetdailynews.com): Türkiye takes Turkic bloc chair as Erdoğ
+[2026-11-02 08:01:19] AI news: 4 candidates from quality and trusted outlets
+[2026-11-02 08:01:19] Not enough quality AI candidates, adding second-tier outlets
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Who is Xavier Niel? French billionaire to acquire 
+[2026-11-02 08:01:19] Заблокированный источник (biztoc.com): Bandwidth: 3 Key Takeaways for Long-Term
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Boston Celtics Daily Links 10/31/26
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Digital Realty raises full-year guidance after rec
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: The Big Problem With Gaming Routers That Promise L
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Absolute Superman #25 Preview: Superman's Brain Hu
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Binance’s $6.3 billion hack raises questions about
+[2026-11-02 08:01:19] Заблокированный источник (rt-english.com): Beyond Western narratives: What the Russ
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: SEBI plans capacity-building network to strengthen
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: False slandering of the Minister of Buddhist Affai
+[2026-11-02 08:01:19] Не про ИИ, пропускаю: Türkiye takes Turkic bloc chair as Erdoğan urges u
+[2026-11-02 08:01:19] Same story twice in candidates: Google Scores Big Win in Quest to Put Data Centers
+[2026-11-02 08:01:19] AI news: 7 candidates after filtering
+[2026-11-02 08:01:21] Редакторский отбор: выбраны позиции [6, 5, 4, 7]
+[2026-11-02 08:01:21] Обрабатываю: Human Oversight, Incident Reporting Mandatory: TRAI Proposes | https://www.freepressjournal.in/business/human-oversight-incident-repo
+[2026-11-02 08:01:21] Полный текст получен (2374 символов)
+[2026-11-02 08:01:21] Попытка 1 для: Human Oversight, Incident Reporting Mand
+[2026-11-02 08:01:24] Успешно, получено 2122 символов
+[2026-11-02 08:01:24] Обрабатываю: Google Scores Big Win in Quest to Put Data Centers in Space | https://uk.pcmag.com/ai/168183/google-scores-big-win-in-quest-to-put-d
+[2026-11-02 08:01:24] Полный текст получен (2390 символов)
+[2026-11-02 08:01:24] Попытка 1 для: Google Scores Big Win in Quest to Put Da
+[2026-11-02 08:01:27] Успешно, получено 1689 символов
+[2026-11-02 08:01:27] Обрабатываю: Can enterprise AI pay for the boom? | https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom
+[2026-11-02 08:01:27] Полный текст получен (3000 символов)
+[2026-11-02 08:01:27] Попытка 1 для: Can enterprise AI pay for the boom?
+[2026-11-02 08:01:30] Успешно, получено 1718 символов
+[2026-11-02 08:01:30] Обрабатываю: OpenAI reportedly lowers funding target for new round | https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-tar
+[2026-11-02 08:01:31] Полный текст получен (1174 символов)
+[2026-11-02 08:01:31] Попытка 1 для: OpenAI reportedly lowers funding target 
+[2026-11-02 08:01:44] Успешно, получено 1268 символов
+[2026-11-02 08:01:48] Пауза 60 секунд...
+[2026-11-02 08:02:48] Пауза 60 секунд...
+[2026-11-02 08:03:49] Пауза 60 секунд...
+[2026-11-02 08:04:50] sent_urls.txt обрезан: 304 -> 300
+[2026-11-02 08:04:50] === Блок ai_morning завершён ===
