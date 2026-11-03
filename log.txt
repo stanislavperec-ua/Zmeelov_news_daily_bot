@@ -1,64 +1,3 @@
-[2026-10-28 06:02:51] Пауза 60 секунд...
-[2026-10-28 06:03:52] Пауза 60 секунд...
-[2026-10-28 06:04:52] Обрабатываю: Zelensky: Russia fires over 100 ballistic missiles at Kyiv,  | https://www.ukrinform.net/rubric-ato/4178769-zelensky-russia-fires-ove
-[2026-10-28 06:04:53] Полный текст получен (2393 символов)
-[2026-10-28 06:04:53] Попытка 1 для: Zelensky: Russia fires over 100 ballisti
-[2026-10-28 06:04:56] Успешно, получено 1778 символов
-[2026-10-28 06:04:56] Обрабатываю: Norway allocates nearly $54M in energy support for Ukraine | https://www.ukrinform.net/rubric-economy/4178703-norway-allocates-near
-[2026-10-28 06:04:58] Полный текст получен (1503 символов)
-[2026-10-28 06:04:58] Попытка 1 для: Norway allocates nearly $54M in energy s
-[2026-10-28 06:05:00] Успешно, получено 1364 символов
-[2026-10-28 06:05:00] Обрабатываю: Internship Data Science — Grid Dynamics (Kharkiv), 16 Novemb | https://dou.ua/calendar/58589/
-[2026-10-28 06:05:01] Полный текст получен (2009 символов)
-[2026-10-28 06:05:01] Попытка 1 для: Internship Data Science — Grid Dynamics 
-[2026-10-28 06:05:03] Успешно, получено 1474 символов
-[2026-10-28 06:05:06] Пауза 60 секунд...
-[2026-10-28 06:06:07] Пауза 60 секунд...
-[2026-10-28 06:07:07] sent_urls.txt обрезан: 307 -> 300
-[2026-10-28 06:07:07] === Блок morning завершён ===
-[2026-10-28 06:54:17] Загружено 300 уже отправленных новостей
-[2026-10-28 06:54:17] === Запуск блока: morning (тест: True) ===
-[2026-10-28 06:54:17] Story memory: 102 headlines from the last 96 h
-[2026-10-28 06:54:18] Пропускаю уже отправленную: Bolsonaro effectively concedes in Brazil after Tru
-[2026-10-28 06:54:18] Пропускаю уже отправленную: Israel's election is wide open. Here's what could 
-[2026-10-28 06:54:18] Заблокированный источник (sports.yahoo.com): World Series 2026: Brewers on cusp of fi
-[2026-10-28 06:54:18] Неизвестный источник (macrumors.com): New iMac and 14-Inch MacBook Pro With M6
-[2026-10-28 06:54:18] Спорт, пропускаю: Judge halts tree removal, imposes new li
-[2026-10-28 06:54:18] Неизвестный источник (rollingstone.com): Taylor Swift Says 'There Is No Music Com
-[2026-10-28 06:54:18] Неизвестный источник (nbcsports.com): Ballon d’Or 2026: Harry Kane, Alexia Put
-[2026-10-28 06:54:18] Спорт, пропускаю: WNBA championship may be decided on a Th
-[2026-10-28 06:54:18] Неизвестный источник (vulture.com): Netflix Power Couple Chrishell Stause an
-[2026-10-28 06:54:18] Неизвестный источник (9to5mac.com): Siri AI keeps getting better, here’s wha
-[2026-10-28 06:54:18] Пропускаю уже отправленную: Pope's South American trip to go ahead following l
-[2026-10-28 06:54:18] Неизвестный источник (space.com): NASA ends Swift space telescope mission 
-[2026-10-28 06:54:18] Пропускаю уже отправленную: Jordan arrests three suspects over church attack i
-[2026-10-28 06:54:18] Неизвестный источник (nbcdfw.com): More women are dying from heart disease.
-[2026-10-28 06:54:18] Неизвестный источник (videocardz.com): Nintendo Switch games now run natively o
-[2026-10-28 06:54:18] Старая новость (2026-10-25T20:35:35Z): U.S. measles cases more than double what
-[2026-10-28 06:54:18] Старая новость (2026-10-25T08:43:00Z): As Elon Musk’s SpaceX and Jeff Bezos’ Bl
-[2026-10-28 06:54:18] Мировые новости: найдено 12 после фильтрации
-[2026-10-28 06:54:20] Редакторский отбор: выбраны позиции [1, 12, 5, 6]
-[2026-10-28 06:54:21] RSS Ukrinform: 30 записей
-[2026-10-28 06:54:21] Пропускаю уже отправленную: Norway allocates nearly $54M in energy support for
-[2026-10-28 06:54:21] Пропускаю уже отправленную: Zelensky: Russia fires over 100 ballistic missiles
-[2026-10-28 06:54:23] RSS Ukrinform: 30 записей
-[2026-10-28 06:54:23] Пропускаю уже отправленную: Zelensky: Russia fires over 100 ballistic missiles
-[2026-10-28 06:54:23] RSS Euromaidan Press: 29 записей
-[2026-10-28 06:54:23] NewsAPI (мировые про Украину): пришло 45 статей
-[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Ukraine's Starlink slowdown only dropped
-[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Russia reports strikes on Ukrainian mili
-[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Trump boasts about U.S. oil giants cashi
-[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Oil Surges 4% After Deadly Attacks in Sa
-[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Russia, Ukraine Fulfill Obligations Unde
-[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Zelensky Rejects Trump Remarks as “Total
-[2026-10-28 06:54:23] Заблокированный источник (naturalnews.com): Residents who survived on weeds and rice
-[2026-10-28 06:54:23] Нет фото: Zelensky Accuses Hegseth of Delaying Pat
-[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): Kyiv mayor reports strikes on 3 building
-[2026-10-28 06:54:23] Заблокированный источник (biztoc.com): The “influencer who doesn’t exist”: Soci
-[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): Why Mikel Arteta is so impressed by Cead
-[2026-10-28 06:54:23] Спорт, пропускаю: Every player from California to play for
-[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): QUENTIN LETTS: His policies are as skimp
-[2026-10-28 06:54:23] Заблокированный источник (dailymail.com): QUENTIN LETTS: His policies are as skimp
 [2026-10-28 06:54:23] Same story twice in candidates: Air defenses neutralize 71 Russian drones overnigh
 [2026-10-28 06:54:23] Same story twice in candidates: Russia's war casualty toll in Ukraine up by 1,510 
 [2026-10-28 06:54:23] Same story twice in candidates: Russian forces strike Zaporizhzhia region 846 time
@@ -2998,3 +2937,64 @@
 [2026-11-03 06:05:55] Пауза 60 секунд...
 [2026-11-03 06:06:56] sent_urls.txt обрезан: 307 -> 300
 [2026-11-03 06:06:56] === Блок morning завершён ===
+[2026-11-03 08:01:04] Загружено 300 уже отправленных новостей
+[2026-11-03 08:01:04] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-03 08:01:04] Story memory: 102 headlines from the last 96 h
+[2026-11-03 08:01:05] RSS The Guardian: 20 записей
+[2026-11-03 08:01:05] RSS Wired: 10 записей
+[2026-11-03 08:01:05] RSS TechCrunch: 20 записей
+[2026-11-03 08:01:06] RSS Ars Technica: 20 записей
+[2026-11-03 08:01:06] RSS MIT Technology Review: 10 записей
+[2026-11-03 08:01:06] RSS BBC News: 21 записей
+[2026-11-03 08:01:06] RSS IEEE Spectrum: 30 записей
+[2026-11-03 08:01:06] AI feeds: 13 candidates from quality outlets
+[2026-11-03 08:01:07] NewsAPI (AI): пришло 25 статей
+[2026-11-03 08:01:07] Неизвестный источник (securelist.com): CyberStrikeAI in the wild: the use of AI
+[2026-11-03 08:01:07] Неизвестный источник (prnewswire.co.uk): Bracco Convenes Global CEUS Steering Com
+[2026-11-03 08:01:07] Заблокированный источник (naturalnews.com): We Can’t Put AI Back in the Box… So We M
+[2026-11-03 08:01:07] Не про ИИ, пропускаю: ‘The angler is sentinel’: river fishermen on new e
+[2026-11-03 08:01:07] Неизвестный источник (thehackernews.com): New VOLTA Infostealer Uses Claude, Gemin
+[2026-11-03 08:01:07] Неизвестный источник (en.antaranews.com): Autumn Lighting Fair, Outdoor and Tech L
+[2026-11-03 08:01:07] Неизвестный источник (economictimes.indiatimes.com): Jio Platforms shares climb over 3% after
+[2026-11-03 08:01:07] Неизвестный источник (newatlas.com): Review: 2026 Lexus RZ gets some major mu
+[2026-11-03 08:01:07] Неизвестный источник (cryptobriefing.com): HSBC plans Hong Kong AI research institu
+[2026-11-03 08:01:07] Неизвестный источник (english.khabarhub.com): Economic Digest: A Snapshot of Nepal’s B
+[2026-11-03 08:01:07] Заблокированный источник (biztoc.com): Dataline Secures $10 Million to Expand A
+[2026-11-03 08:01:07] Неизвестный источник (pymnts.com): Dataline Secures $10 Million to Expand A
+[2026-11-03 08:01:07] Неизвестный источник (economictimes.indiatimes.com): AI investment frenzy: What small investo
+[2026-11-03 08:01:07] Нет фото: amv-forge added to PyPI
+[2026-11-03 08:01:07] Неизвестный источник (hoover.org): Does Coercive Bombing Work?
+[2026-11-03 08:01:07] Неизвестный источник (bleedingcool.com): Spider-Woman #1 Preview: Jessica Drew's 
+[2026-11-03 08:01:07] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
+[2026-11-03 08:01:07] Нет фото: Black Ice Burning by Rati Mehrotra
+[2026-11-03 08:01:07] Не про ИИ, пропускаю: Al Jazeera marks 30 years of transforming news in 
+[2026-11-03 08:01:07] Неизвестный источник (bleedingcool.com): Jonah Hex and the Shadow of Death #2 Pre
+[2026-11-03 08:01:07] Неизвестный источник (livemint.com): PSUs are back—but they should exercise c
+[2026-11-03 08:01:07] Неизвестный источник (motherjones.com): What Coal Country Can Teach America Abou
+[2026-11-03 08:01:07] Неизвестный источник (insurancejournal.com): Binance Restarts Withdrawals as Question
+[2026-11-03 08:01:07] Заблокированный источник (dailymail.com): The AI generation and what they really d
+[2026-11-03 08:01:07] Нет фото: DOJ busts ‘ghost students’, seizes $750K
+[2026-11-03 08:01:07] AI news: 13 candidates from quality and trusted outlets
+[2026-11-03 08:01:07] AI news: 13 candidates after filtering
+[2026-11-03 08:01:09] Редакторский отбор: выбраны позиции [6, 12, 1, 3]
+[2026-11-03 08:01:09] Обрабатываю: AI-powered malware ‘highly likely’ to be used to hack UK inf | https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-
+[2026-11-03 08:01:09] Полный текст получен (3000 символов)
+[2026-11-03 08:01:09] Попытка 1 для: AI-powered malware ‘highly likely’ to be
+[2026-11-03 08:01:12] Успешно, получено 1817 символов
+[2026-11-03 08:01:12] Обрабатываю: Anthropic warns that it’s very close to RSI capability, aka  | https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-
+[2026-11-03 08:01:12] Полный текст получен (3000 символов)
+[2026-11-03 08:01:12] Попытка 1 для: Anthropic warns that it’s very close to 
+[2026-11-03 08:01:14] Успешно, получено 1591 символов
+[2026-11-03 08:01:14] Обрабатываю: ‘A serious failure’: CPS prosecutor cites imaginary case to  | https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-c
+[2026-11-03 08:01:14] Полный текст получен (3000 символов)
+[2026-11-03 08:01:14] Попытка 1 для: ‘A serious failure’: CPS prosecutor cite
+[2026-11-03 08:01:16] Успешно, получено 1430 символов
+[2026-11-03 08:01:16] Обрабатываю: Google takes Dreambeans to India in bid to bring AI-generate | https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-
+[2026-11-03 08:01:16] Полный текст получен (3000 символов)
+[2026-11-03 08:01:16] Попытка 1 для: Google takes Dreambeans to India in bid 
+[2026-11-03 08:01:31] Успешно, получено 1904 символов
+[2026-11-03 08:01:34] Пауза 60 секунд...
+[2026-11-03 08:02:34] Пауза 60 секунд...
+[2026-11-03 08:03:35] Пауза 60 секунд...
+[2026-11-03 08:04:36] sent_urls.txt обрезан: 304 -> 300
+[2026-11-03 08:04:36] === Блок ai_morning завершён ===
