@@ -1,44 +1,3 @@
-[2026-10-28 16:01:19] Same story twice in candidates: War update: Over 190 clashes on front lines in pas
-[2026-10-28 16:01:19] Same story twice in candidates: Air defenses neutralize 71 Russian drones overnigh
-[2026-10-28 16:01:19] Same story twice in candidates: Russia's war casualty toll in Ukraine up by 1,510 
-[2026-10-28 16:01:19] Same story twice in candidates: Russian forces strike Zaporizhzhia region 846 time
-[2026-10-28 16:01:19] Same story twice in candidates: Injury toll from Russian attack on Kharkiv rises t
-[2026-10-28 16:01:19] Same story twice in candidates: Both sides observing ceasefire in Oleshky, Lubinet
-[2026-10-28 16:01:19] Украинские новости: найдено 70 после фильтрации
-[2026-10-28 16:01:22] Редакторский отбор: выбраны позиции [5, 1]
-[2026-10-28 16:01:23] NewsAPI (Харьков, все издания): пришло 12 статей
-[2026-10-28 16:01:24] RSS Ukrinform: 30 записей
-[2026-10-28 16:01:25] RSS Ukrinform: 30 записей
-[2026-10-28 16:01:26] RSS Euromaidan Press: 29 записей
-[2026-10-28 16:01:26] Заблокированный источник (nypost.com): Russia, Ukraine begin Oleshky ceasefire 
-[2026-10-28 16:01:26] Заблокированный источник (biztoc.com): Two killed, four wounded in missile stri
-[2026-10-28 16:01:26] Same story twice in candidates: Russian forces strike Kharkiv, killing one and inj
-[2026-10-28 16:01:26] Same story twice in candidates: Injury toll from Russian attack on Kharkiv rises t
-[2026-10-28 16:01:26] Харьков: найдена новость: Russian forces strike Kharkiv, killing one and inj
-[2026-10-28 16:01:26] Обрабатываю: Ebola cases in DR Congo surpass 10,000 in fastest-growing ou | https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surp
-[2026-10-28 16:01:26] Полный текст получен (3000 символов)
-[2026-10-28 16:01:26] Попытка 1 для: Ebola cases in DR Congo surpass 10,000 i
-[2026-10-28 16:01:30] Успешно, получено 1924 символов
-[2026-10-28 16:01:30] Обрабатываю: Photos show Ukraine's Starlink was throttled during Russian  | https://www.cbsnews.com/news/photos-show-ukraine-starlink-throttled-ru
-[2026-10-28 16:01:30] Полный текст получен (3000 символов)
-[2026-10-28 16:01:30] Попытка 1 для: Photos show Ukraine's Starlink was throt
-[2026-10-28 16:01:34] Успешно, получено 1890 символов
-[2026-10-28 16:01:34] Обрабатываю: Trump administration asks Washington state to hold more than | https://www.washingtonpost.com/politics/2026/10/27/doj-asks-washington
-[2026-10-28 16:01:46] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/10/27/doj-asks-
-[2026-10-28 16:01:46] Попытка 1 для: Trump administration asks Washington sta
-[2026-10-28 16:01:54] Успешно, получено 806 символов
-[2026-10-28 16:01:54] Обрабатываю: Flood-weary U.S. Southwest eyes forecast for more rain | https://www.nbcnews.com/weather/floods/flood-weary-us-southwest-eyes-f
-[2026-10-28 16:01:54] Полный текст получен (3000 символов)
-[2026-10-28 16:01:54] Попытка 1 для: Flood-weary U.S. Southwest eyes forecast
-[2026-10-28 16:02:09] Успешно, получено 1865 символов
-[2026-10-28 16:02:12] Пауза 60 секунд...
-[2026-10-28 16:03:13] Пауза 60 секунд...
-[2026-10-28 16:04:14] Пауза 60 секунд...
-[2026-10-28 16:05:14] Обрабатываю: Britain to provide Ukraine with GBP 10B over three years – Z | https://www.ukrinform.net/rubric-economy/4179037-britain-to-provide-uk
-[2026-10-28 16:05:16] Полный текст получен (1768 символов)
-[2026-10-28 16:05:16] Попытка 1 для: Britain to provide Ukraine with GBP 10B 
-[2026-10-28 16:05:19] Успешно, получено 1460 символов
-[2026-10-28 16:05:19] Обрабатываю: Zelensky: Ukraine hopes to hold trilateral meeting in Abu Dh | https://www.ukrinform.net/rubric-polytics/4179077-zelensky-ukraine-hop
 [2026-10-28 16:05:20] Полный текст получен (2213 символов)
 [2026-10-28 16:05:20] Попытка 1 для: Zelensky: Ukraine hopes to hold trilater
 [2026-10-28 16:05:23] Успешно, получено 1506 символов
@@ -2998,3 +2957,44 @@
 [2026-11-04 08:03:44] Пауза 60 секунд...
 [2026-11-04 08:04:45] sent_urls.txt обрезан: 304 -> 300
 [2026-11-04 08:04:45] === Блок ai_morning завершён ===
+[2026-11-04 11:01:13] Загружено 300 уже отправленных новостей
+[2026-11-04 11:01:13] === Запуск блока: midday (тест: False) ===
+[2026-11-04 11:01:13] Story memory: 98 headlines from the last 96 h
+[2026-11-04 11:01:13] Неизвестный источник (space.com): Night sky November 2026 — What to look f
+[2026-11-04 11:01:13] Неизвестный источник (espn.com): Jeffery Simmons, Bears' defense handle S
+[2026-11-04 11:01:13] Заблокированный источник (sports.yahoo.com): East Texas A&M stuns Oklahoma with histo
+[2026-11-04 11:01:13] Неизвестный источник (hollywoodreporter.com): ‘Dancing With the Stars’ Disney Night Ma
+[2026-11-04 11:01:13] Неизвестный источник (androidauthority.com): Galaxy S27 Ultra goes head-to-head with 
+[2026-11-04 11:01:13] Неизвестный источник (mlb.com): The top bat in this free-agent class? Th
+[2026-11-04 11:01:13] Пропускаю уже отправленную: Ebola outbreak kills more than 5,300 people in DR 
+[2026-11-04 11:01:13] Неизвестный источник (foxbusiness.com): Marvell, Lumentum tout historic $115B de
+[2026-11-04 11:01:13] Неизвестный источник (usatoday.com): Lions coach Dan Campbell visited Jack Ca
+[2026-11-04 11:01:13] Неизвестный источник (variety.com): Justin Timberlake to Release Four-Part ‘
+[2026-11-04 11:01:13] Неизвестный источник (pbs.org): Karl Bushby embraces his mother as he co
+[2026-11-04 11:01:13] Неизвестный источник (gizmodo.com): Voyager 1 Goes Silent Before Historic Li
+[2026-11-04 11:01:13] Неизвестный источник (newser.com): 'Hell of a Year': NASA Crew Emerges Afte
+[2026-11-04 11:01:13] Старая новость (2026-11-02T10:00:00Z): Hundreds of Mundane AI Apps Are Hiding S
+[2026-11-04 11:01:13] Старая новость (2026-11-01T10:04:38Z): Clues emerge on why colon cancer may be 
+[2026-11-04 11:01:13] Мировые новости: найдено 15 после фильтрации
+[2026-11-04 11:01:15] Редакторский отбор: выбраны позиции [1, 4, 3, 14]
+[2026-11-04 11:01:15] Обрабатываю: Russian attack on Ukraine aid hub kills 29 as US announces n | https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-
+[2026-11-04 11:01:15] Полный текст получен (3000 символов)
+[2026-11-04 11:01:15] Попытка 1 для: Russian attack on Ukraine aid hub kills 
+[2026-11-04 11:01:18] Успешно, получено 1310 символов
+[2026-11-04 11:01:18] Обрабатываю: U.S. military carries out limited strikes on Iran’s Qeshm Is | https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iran
+[2026-11-04 11:01:19] Полный текст получен (3000 символов)
+[2026-11-04 11:01:19] Попытка 1 для: U.S. military carries out limited strike
+[2026-11-04 11:01:22] Успешно, получено 1684 символов
+[2026-11-04 11:01:22] Обрабатываю: Labour MPs pull their punches on immigration changes | https://www.bbc.com/news/articles/ck0e0jpww9wro
+[2026-11-04 11:01:22] Полный текст получен (3000 символов)
+[2026-11-04 11:01:22] Попытка 1 для: Labour MPs pull their punches on immigra
+[2026-11-04 11:01:33] Успешно, получено 1517 символов
+[2026-11-04 11:01:33] Обрабатываю: An aging 1.5-ton space telescope is plunging back to Earth.  | https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging
+[2026-11-04 11:01:33] Полный текст получен (3000 символов)
+[2026-11-04 11:01:33] Попытка 1 для: An aging 1.5-ton space telescope is plun
+[2026-11-04 11:01:47] Успешно, получено 1416 символов
+[2026-11-04 11:01:50] Пауза 60 секунд...
+[2026-11-04 11:02:51] Пауза 60 секунд...
+[2026-11-04 11:03:51] Пауза 60 секунд...
+[2026-11-04 11:04:52] sent_urls.txt обрезан: 304 -> 300
+[2026-11-04 11:04:52] === Блок midday завершён ===
