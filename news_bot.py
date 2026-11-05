@@ -1241,6 +1241,9 @@ def get_kharkiv_news():
 
     articles = [a for a in candidates if is_relevant(a, require_kharkiv=True, skip_source_check=True)]
     articles = deduplicate_articles(articles)
+    # A story about Kharkiv first; a war digest that names Kharkiv only in
+    # its description took the slot on 05.11.2026
+    articles.sort(key=lambda a: not re.search(r"kharki?v|kharkov", (a.get("title") or "").lower()))
     if articles:
         log(f"Харьков: найдена новость: {articles[0].get('title', '')[:50]}")
         return articles[0]
