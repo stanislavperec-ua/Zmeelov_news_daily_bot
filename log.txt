@@ -1,48 +1,3 @@
-[2026-10-30 06:01:33] Обрабатываю: Judge denies the Justice Department's bid to stop processing | https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-de
-[2026-10-30 06:01:34] Полный текст получен (3000 символов)
-[2026-10-30 06:01:34] Попытка 1 для: Judge denies the Justice Department's bi
-[2026-10-30 06:01:49] Успешно, получено 2157 символов
-[2026-10-30 06:01:52] Пауза 60 секунд...
-[2026-10-30 06:02:52] Пауза 60 секунд...
-[2026-10-30 06:03:53] Пауза 60 секунд...
-[2026-10-30 06:04:53] Обрабатываю: Russian attacks leave over 350,000 without power in Dnipro a | https://www.ukrinform.net/rubric-ato/4179579-russian-attacks-leave-ove
-[2026-10-30 06:04:54] Полный текст получен (867 символов)
-[2026-10-30 06:04:54] Попытка 1 для: Russian attacks leave over 350,000 witho
-[2026-10-30 06:04:57] Успешно, получено 1235 символов
-[2026-10-30 06:04:57] Обрабатываю: National Bank revises 2026 real GDP forecast downward | https://www.ukrinform.net/rubric-economy/4179383-national-bank-revises
-[2026-10-30 06:04:58] Полный текст получен (1479 символов)
-[2026-10-30 06:04:58] Попытка 1 для: National Bank revises 2026 real GDP fore
-[2026-10-30 06:05:02] Успешно, получено 1549 символов
-[2026-10-30 06:05:05] Пауза 60 секунд...
-[2026-10-30 06:06:06] sent_urls.txt обрезан: 306 -> 300
-[2026-10-30 06:06:06] === Блок morning завершён ===
-[2026-10-30 08:01:09] Загружено 300 уже отправленных новостей
-[2026-10-30 08:01:09] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-30 08:01:09] Story memory: 101 headlines from the last 96 h
-[2026-10-30 08:01:09] RSS The Guardian: 20 записей
-[2026-10-30 08:01:09] RSS Wired: 10 записей
-[2026-10-30 08:01:09] RSS TechCrunch: 20 записей
-[2026-10-30 08:01:10] RSS Ars Technica: 20 записей
-[2026-10-30 08:01:10] RSS MIT Technology Review: 10 записей
-[2026-10-30 08:01:10] RSS BBC News: 20 записей
-[2026-10-30 08:01:10] RSS IEEE Spectrum: 30 записей
-[2026-10-30 08:01:10] AI feeds: 17 candidates from quality outlets
-[2026-10-30 08:01:10] NewsAPI (AI): пришло 60 статей
-[2026-10-30 08:01:10] Неизвестный источник (livemint.com): Adani Enterprises returns to profit as r
-[2026-10-30 08:01:10] Неизвестный источник (business-standard.com): Amazon unveils five new Alexa-powered Ec
-[2026-10-30 08:01:10] Неизвестный источник (archdaily.com): From Atoms to Universes: The Architectur
-[2026-10-30 08:01:10] Неизвестный источник (punchng.com): Group to deploy over 4,000 observers, te
-[2026-10-30 08:01:10] Неизвестный источник (the-digital-reader.com): Online MCA in India: Which University an
-[2026-10-30 08:01:10] Неизвестный источник (skepticalscience.com): Skeptical Science New Research for Week 
-[2026-10-30 08:01:10] Неизвестный источник (sammobile.com): Samsung earns record-breaking profit of 
-[2026-10-30 08:01:10] Не про ИИ, пропускаю: Europe Was Never Meant to Be a ‘Regulatory Superpo
-[2026-10-30 08:01:10] Неизвестный источник (siliconangle.com): Energy-efficient inference chip develope
-[2026-10-30 08:01:10] Неизвестный источник (medicaldaily.com): Increased Appetite Tops Symptoms Reporte
-[2026-10-30 08:01:10] Неизвестный источник (pymnts.com): FedEx Converts Digital Insights Into New
-[2026-10-30 08:01:10] Неизвестный источник (siliconangle.com): Samsung confirms record-breaking operati
-[2026-10-30 08:01:10] Неизвестный источник (siliconangle.com): Microsoft’s stock rises on solid earning
-[2026-10-30 08:01:10] Неизвестный источник (siliconangle.com): ServiceNow shares drop 18% after mixed t
-[2026-10-30 08:01:10] Неизвестный источник (siliconangle.com): Alphabet’s stock sinks after shocking in
 [2026-10-30 08:01:10] Нет фото: dioptra-platform 1.2.3
 [2026-10-30 08:01:10] Не про ИИ, пропускаю: What would happen if the internet went down?
 [2026-10-30 08:01:10] Не про ИИ, пропускаю: As Waymo expands overseas, it remains a niche cash
@@ -2998,3 +2953,48 @@
 [2026-11-05 08:03:57] Пауза 60 секунд...
 [2026-11-05 08:04:57] sent_urls.txt обрезан: 304 -> 300
 [2026-11-05 08:04:57] === Блок ai_morning завершён ===
+[2026-11-05 11:01:05] Загружено 300 уже отправленных новостей
+[2026-11-05 11:01:05] === Запуск блока: midday (тест: False) ===
+[2026-11-05 11:01:05] Story memory: 104 headlines from the last 96 h
+[2026-11-05 11:01:05] Лента обновлений, пропускаю: See 2026 Texas midterm election results 
+[2026-11-05 11:01:05] Неизвестный источник (ajc.com): A ‘bloodbath.’ Georgia Democrats sweep s
+[2026-11-05 11:01:05] Неизвестный источник (looper.com): Marvel's VisionQuest Finally Reveals The
+[2026-11-05 11:01:05] Лента обновлений, пропускаю: S&P 500 futures gain slightly on AMD's s
+[2026-11-05 11:01:05] Неизвестный источник (espn.com): College Football Playoff Bubble Watch af
+[2026-11-05 11:01:05] Неизвестный источник (macrumors.com): Everything New in the iOS 27.3 Beta - Ma
+[2026-11-05 11:01:05] Неизвестный источник (ew.com): Melissa Rycroft breaks silence on second
+[2026-11-05 11:01:05] Неизвестный источник (justjared.com): Miranda Kerr Says Victoria's Secret Fash
+[2026-11-05 11:01:05] Заблокированный источник (sports.yahoo.com): Raul Rosas Jr. submits stunned Colby Cov
+[2026-11-05 11:01:05] Неизвестный источник (ninersnation.com): Week 9 NFL Power Rankings: Did the Niner
+[2026-11-05 11:01:05] Неизвестный источник (investors.com): Oil Edges Lower As U.S. Bombs Iran Befor
+[2026-11-05 11:01:05] Заблокированный источник (finance.yahoo.com): McDonald’s Q3 sales seen slowing as spen
+[2026-11-05 11:01:05] Неизвестный источник (9to5mac.com): iOS 27.3 expands Siri AI to these new la
+[2026-11-05 11:01:05] Неизвестный источник (wwnytv.com): Lewis County measles death: Baby boy was
+[2026-11-05 11:01:05] Неизвестный источник (timeextension.com): Nintendo Got the Original Zelda: Ocarina
+[2026-11-05 11:01:05] Неизвестный источник (wsbtv.com): Recall alert: Popular blood pressure med
+[2026-11-05 11:01:05] Неизвестный источник (hollywoodreporter.com): Pierce Brosnan Supports Callum Turner Be
+[2026-11-05 11:01:05] Пропускаю уже отправленную: 5 people rescued in South Pacific after months adr
+[2026-11-05 11:01:05] Старая новость (2026-11-02T20:55:53Z): Cannabis Use Linked to Cardiovascular Di
+[2026-11-05 11:01:05] Старая новость (2026-11-02T08:53:41Z): Night sky November 2026 — What to look f
+[2026-11-05 11:01:05] Мировые новости: найдено 9 после фильтрации
+[2026-11-05 11:01:07] Редакторский отбор: выбраны позиции [3, 1, 5, 9]
+[2026-11-05 11:01:07] Обрабатываю: North Korea launches missiles toward the sea as Pyongyang pr | https://apnews.com/article/north-korea-kim-weapons-tests-036aa8b36ae84
+[2026-11-05 11:01:07] Попытка 1 для: North Korea launches missiles toward the
+[2026-11-05 11:01:10] Успешно, получено 1158 символов
+[2026-11-05 11:01:10] Обрабатываю: Democrat Abdul El-Sayed wins Michigan’s high-stakes Senate r | https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed
+[2026-11-05 11:01:10] Полный текст получен (3000 символов)
+[2026-11-05 11:01:10] Попытка 1 для: Democrat Abdul El-Sayed wins Michigan’s 
+[2026-11-05 11:01:15] Успешно, получено 1663 символов
+[2026-11-05 11:01:15] Обрабатываю: Ohio elects Amy Acton first woman governor | https://www.npr.org/2026/11/03/g-s1-151038/ohio-elects-amy-acton-first
+[2026-11-05 11:01:15] Полный текст получен (2214 символов)
+[2026-11-05 11:01:15] Попытка 1 для: Ohio elects Amy Acton first woman govern
+[2026-11-05 11:01:18] Успешно, получено 1932 символов
+[2026-11-05 11:01:18] Обрабатываю: Scientists say they’ve found rare evidence of blood cells in | https://www.cnn.com/2026/11/03/science/red-blood-cells-dinosaur-bone
+[2026-11-05 11:01:18] Полный текст получен (3000 символов)
+[2026-11-05 11:01:18] Попытка 1 для: Scientists say they’ve found rare eviden
+[2026-11-05 11:01:40] Успешно, получено 1573 символов
+[2026-11-05 11:01:43] Пауза 60 секунд...
+[2026-11-05 11:02:44] Пауза 60 секунд...
+[2026-11-05 11:03:45] Пауза 60 секунд...
+[2026-11-05 11:04:45] sent_urls.txt обрезан: 304 -> 300
+[2026-11-05 11:04:45] === Блок midday завершён ===
