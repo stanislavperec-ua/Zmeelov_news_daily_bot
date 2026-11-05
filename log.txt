@@ -3113,3 +3113,117 @@
 [2026-11-05 06:49:41] Успешно, получено 1301 символов
 [2026-11-05 06:49:44] Пауза 3 секунд...
 [2026-11-05 06:49:48] === Блок morning завершён ===
+[2026-11-05 06:56:46] Загружено 300 уже отправленных новостей
+[2026-11-05 06:56:46] === Запуск блока: morning (тест: True) ===
+[2026-11-05 06:56:46] Story memory: 104 headlines from the last 96 h
+[2026-11-05 06:56:47] Лента обновлений, пропускаю: S&P 500 futures gain slightly on AMD's s
+[2026-11-05 06:56:47] Пропускаю уже отправленную: Georgia elects the nation’s first Black female gov
+[2026-11-05 06:56:47] Неизвестный источник (foxnews.com): Ravens turn to undrafted rookie Joe Fagn
+[2026-11-05 06:56:47] Пропускаю уже отправленную: How malware and a bogus job interview let attacker
+[2026-11-05 06:56:47] Пропускаю уже отправленную: Flights across Europe searched and diverted after 
+[2026-11-05 06:56:47] Неизвестный источник (espn.com): College Football Playoff Bubble Watch af
+[2026-11-05 06:56:47] Неизвестный источник (wbur.org): Mass. town-by-town results map: governor
+[2026-11-05 06:56:47] Неизвестный источник (ew.com): Melissa Rycroft breaks silence on second
+[2026-11-05 06:56:47] Лента обновлений, пропускаю: Midterm elections 2026 live updates: Eco
+[2026-11-05 06:56:47] Неизвестный источник (barrons.com): AMD Stock Jumps on Big Earnings Beat - B
+[2026-11-05 06:56:47] Неизвестный источник (abcnews.com): Tony Butala, co-founder of Lettermen voc
+[2026-11-05 06:56:47] Неизвестный источник (sun-sentinel.com): ‘A big puzzle’: Key evidence in Learjet 
+[2026-11-05 06:56:47] Неизвестный источник (ninersnation.com): Week 9 NFL Power Rankings: Did the Niner
+[2026-11-05 06:56:47] Неизвестный источник (theregister.com): Microsoft improves Windows 11 performanc
+[2026-11-05 06:56:47] Неизвестный источник (variety.com): ‘Cher Adores Michael Douglas,’ Icon’s Re
+[2026-11-05 06:56:47] Неизвестный источник (wwnytv.com): Lewis County measles death: Baby boy was
+[2026-11-05 06:56:47] Неизвестный источник (hollywoodreporter.com): Nicolas Cage Says He’s “a Little Bit Hom
+[2026-11-05 06:56:47] Неизвестный источник (macrumors.com): Siri AI Gets More Capable in iOS 27.3 - 
+[2026-11-05 06:56:47] Неизвестный источник (wsbtv.com): Recall alert: Popular blood pressure med
+[2026-11-05 06:56:47] Неизвестный источник (phys.org): Physicists step closer to the 'Zeptovers
+[2026-11-05 06:56:47] Пропускаю уже отправленную: 5 people rescued in South Pacific after months adr
+[2026-11-05 06:56:47] Пропускаю уже отправленную: Premier Tusk Says Poland Foiled Possible Provocati
+[2026-11-05 06:56:47] Неизвестный источник (space.com): Why does Betelgeuse keep fading? The mys
+[2026-11-05 06:56:47] Старая новость (2026-11-02T20:55:53Z): Cannabis Use Linked to Cardiovascular Di
+[2026-11-05 06:56:47] Старая новость (2026-10-31T07:00:00Z): November’s Night Sky Brings A Supermoon 
+[2026-11-05 06:56:47] Мировые новости: найдено 7 после фильтрации
+[2026-11-05 06:56:49] Редакторский отбор: выбраны позиции [1, 2, 6, 3]
+[2026-11-05 06:56:50] RSS Ukrinform: 30 записей
+[2026-11-05 06:56:50] Пропускаю уже отправленную: Defence Forces destroy more than 8,000 Russian dro
+[2026-11-05 06:56:50] Пропускаю уже отправленную: Government reinstates extra payments for workers r
+[2026-11-05 06:56:50] Пропускаю уже отправленную: Military analyst: Netherlands and Ukraine could be
+[2026-11-05 06:56:51] RSS Ukrinform: 30 записей
+[2026-11-05 06:56:51] Пропускаю уже отправленную: Defence Forces destroy more than 8,000 Russian dro
+[2026-11-05 06:56:51] Пропускаю уже отправленную: Russian forces strike food production facility in 
+[2026-11-05 06:56:51] Same story already published: Russian forces attack energy infrastructure in Kir ~ Russian attack hits energy infrastructure in 10 re
+[2026-11-05 06:56:51] RSS Euromaidan Press: 29 записей
+[2026-11-05 06:56:51] Пропускаю уже отправленную: Russo-Ukrainian war, day 1714: Russia launches one
+[2026-11-05 06:56:52] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-11-05 06:56:52] Not an English headline, skipping: 「マスク着用者」の顔認識に対応したAI搭載映像監視システムGV-VMS V20 
+[2026-11-05 06:56:52] Заблокированный источник (rt-english.com): America wants G20 on a leash
+[2026-11-05 06:56:52] Заблокированный источник (naturalnews.com): Ukraine Strikes Russian Oil Refinery, En
+[2026-11-05 06:56:52] Заблокированный источник (naturalnews.com): Ukraine’s Drone Strike on Russian Region
+[2026-11-05 06:56:52] Заблокированный источник (naturalnews.com): Moscow says Ukraineâs torture sites ar
+[2026-11-05 06:56:52] Нет фото: DSA bolsters Congress contingent after s
+[2026-11-05 06:56:52] Нет фото: How the Democrats Beat Trump
+[2026-11-05 06:56:52] Спорт, пропускаю: Police launch involuntary manslaughter p
+[2026-11-05 06:56:52] Нет фото: BREAKING: Dems take the House in blue wa
+[2026-11-05 06:56:52] Нет фото: When did bears go extinct in Europe?
+[2026-11-05 06:56:52] Заблокированный источник (dailymail.com): Melania Trump skips Donald's results par
+[2026-11-05 06:56:52] Нет фото: Trump’s Lame-Duck Era Begins
+[2026-11-05 06:56:52] Заблокированный источник (nypost.com): Democrat Annie Andrews stuns Darline Gra
+[2026-11-05 06:56:52] Заблокированный источник (rt-english.com): Four Nordic nations refuse to play ice h
+[2026-11-05 06:56:52] Нет фото: BREAKING: Byron Donalds elected Florida 
+[2026-11-05 06:56:52] Лента обновлений, пропускаю: Stock Market LIVE: GIFT Nifty signals ne
+[2026-11-05 06:56:52] Заблокированный источник (dailymail.com): Tucker Carlson says Trump is on the brin
+[2026-11-05 06:56:52] Same story twice in candidates: Russian army attacks logistics infrastructure in B
+[2026-11-05 06:56:52] Same story twice in candidates: Russia loses another 2,380 troops in war against U
+[2026-11-05 06:56:52] Same story twice in candidates: Russian drones attack Dnipropetrovsk region, injur
+[2026-11-05 06:56:52] Same story twice in candidates: Unexploded Kh-101 cruise missile discovered in Myk
+[2026-11-05 06:56:52] Same story twice in candidates: USF destroys Russian Tunguska air defence system
+[2026-11-05 06:56:52] Same story twice in candidates: Russian attack causes fire at warehouse in Bucha d
+[2026-11-05 06:56:52] Same story twice in candidates: Defence Forces strike Russian Pantsir-S1 air defen
+[2026-11-05 06:56:52] Same story twice in candidates: Russian drone carrying propaganda leaflets with ph
+[2026-11-05 06:56:52] Same story twice in candidates: Russia stockpiles up to 700 ballistic missiles, se
+[2026-11-05 06:56:52] Same story twice in candidates: War update: 179 clashes on front line, fiercest fi
+[2026-11-05 06:56:52] Same story twice in candidates: Ukraine holds initiative on battlefield – NATO Mil
+[2026-11-05 06:56:52] Same story twice in candidates: Russian airstrike on Kramatorsk community kills tw
+[2026-11-05 06:56:52] Same story twice in candidates: Ukraine's government approves six key changes to s
+[2026-11-05 06:56:52] Same story twice in candidates: Analyst: Putin manipulates Trump, who mistakenly b
+[2026-11-05 06:56:52] Same story twice in candidates: Ukrainian forces strike two Russian Pantsir air de
+[2026-11-05 06:56:52] Украинские новости: найдено 67 после фильтрации
+[2026-11-05 06:56:54] Редакторский отбор: выбраны позиции [15, 17]
+[2026-11-05 06:56:54] NewsAPI (Харьков, все издания): пришло 21 статей
+[2026-11-05 06:56:55] RSS Ukrinform: 30 записей
+[2026-11-05 06:56:56] RSS Ukrinform: 30 записей
+[2026-11-05 06:56:56] RSS Euromaidan Press: 29 записей
+[2026-11-05 06:56:56] Нет фото: BIGGEST ENERGY STRIKE IN HISTORY: 5 Powe
+[2026-11-05 06:56:56] Нет фото: BIGGEST ENERGY STRIKE IN HISTORY: 5 Powe
+[2026-11-05 06:56:56] Заблокированный источник (nypost.com): 31 dead, dozens missing after Russian st
+[2026-11-05 06:56:56] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Drone Kill
+[2026-11-05 06:56:56] Нет фото: Observation of the Rare Decay $η→{μ}^{+}
+[2026-11-05 06:56:56] Пропускаю уже отправленную: Russian forces strike food production facility in 
+[2026-11-05 06:56:56] Пропускаю уже отправленную: Russo-Ukrainian war, day 1714: Russia launches one
+[2026-11-05 06:56:56] Харьков: новостей не найдено
+[2026-11-05 06:56:56] Обрабатываю: Democrat Annie Andrews defeats GOP Sen. Darline Graham in So | https://www.nbcnews.com/politics/2026-election/annie-andrews-south-car
+[2026-11-05 06:56:57] Полный текст получен (2881 символов)
+[2026-11-05 06:56:57] Попытка 1 для: Democrat Annie Andrews defeats GOP Sen. 
+[2026-11-05 06:57:02] Успешно, получено 1972 символов
+[2026-11-05 06:57:02] Обрабатываю: Trump turns his ire toward Fox News on election night | https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night
+[2026-11-05 06:57:02] Попытка 1 для: Trump turns his ire toward Fox News on e
+[2026-11-05 06:57:05] Успешно, получено 1009 символов
+[2026-11-05 06:57:05] Обрабатываю: King calls slave trade a 'shameful chapter' during Commonwea | https://www.bbc.com/news/articles/cr89znnnn7dno
+[2026-11-05 06:57:05] Полный текст получен (3000 символов)
+[2026-11-05 06:57:05] Попытка 1 для: King calls slave trade a 'shameful chapt
+[2026-11-05 06:57:24] Успешно, получено 1737 символов
+[2026-11-05 06:57:24] Обрабатываю: Democrat Ager flips Edwards’s North Carolina House seat | https://thehill.com/homenews/campaign/6161268-jamie-ager-north-carolin
+[2026-11-05 06:57:24] Попытка 1 для: Democrat Ager flips Edwards’s North Caro
+[2026-11-05 06:57:30] Успешно, получено 924 символов
+[2026-11-05 06:57:33] Пауза 3 секунд...
+[2026-11-05 06:57:36] Пауза 3 секунд...
+[2026-11-05 06:57:40] Пауза 3 секунд...
+[2026-11-05 06:57:44] Обрабатываю: Zelensky speaks with Witkoff, Kushner ahead of trilateral me | https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with
+[2026-11-05 06:57:45] Полный текст получен (1908 символов)
+[2026-11-05 06:57:45] Попытка 1 для: Zelensky speaks with Witkoff, Kushner ah
+[2026-11-05 06:57:48] Успешно, получено 1792 символов
+[2026-11-05 06:57:48] Обрабатываю: Mathernova: Ukraine could complete 95% of reforms required f | https://www.ukrinform.net/rubric-polytics/4181546-mathernova-ukraine-c
+[2026-11-05 06:57:49] Полный текст получен (1839 символов)
+[2026-11-05 06:57:49] Попытка 1 для: Mathernova: Ukraine could complete 95% o
+[2026-11-05 06:58:05] Успешно, получено 1600 символов
+[2026-11-05 06:58:08] Пауза 3 секунд...
+[2026-11-05 06:58:12] === Блок morning завершён ===
