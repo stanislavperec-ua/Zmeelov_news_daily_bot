@@ -289,6 +289,7 @@ after over into its his her their our your new says said say will would could
 should can may might has have had than this that these those about amid against
 between during under up down out off why how what who when where which while not
 no now more most first last also just still back report reports via inside
+you here should shouldn don isn use using get
 one two three four five six seven eight nine ten
 """.split())
 
@@ -336,6 +337,37 @@ def title_numbers(title):
     return found
 
 
+# War reports share one template ("Russian forces strike X in Kharkiv region,
+# killing one"), so these words say nothing about which event it is. Without
+# this, different strikes days apart were merged and the Kharkiv slot went
+# empty on 31.10 and 01.11.2026.
+GENERIC_STORY_WORDS = title_tokens("""
+russian russia ukraine ukrainian forces force strike strikes attack attacks
+drone drones missile missiles shelling killing kills killed injuring injures
+injured wounded region regions oblast overnight launch launches hits hit
+target targets civilian civilians damage damaged people person city
+settlement war
+""")
+
+# Different countries in two headlines mean different events, like different
+# cities: "EU and Canada reaffirm support" is not "Germany and Japan reaffirm
+# support". Russia and Ukraine are left out: they are in most war headlines.
+COUNTRY_WORDS = title_tokens("""
+afghanistan albania algeria argentina armenia australia austria azerbaijan
+bangladesh belarus belgium bolivia bosnia brazil britain bulgaria cambodia
+canada chile china colombia congo croatia cuba cyprus czech denmark ecuador
+egypt england estonia ethiopia finland france germany ghana greece hungary
+iceland india indonesia iran iraq ireland israel italy japan jordan
+kazakhstan kenya korea kosovo kuwait latvia lebanon libya lithuania malaysia
+mali mexico moldova mongolia montenegro morocco myanmar nepal netherlands
+nigeria norway pakistan palestine panama peru philippines poland portugal
+qatar romania rwanda saudi scotland senegal serbia singapore slovakia
+slovenia somalia spain sudan sweden switzerland syria taiwan thailand tunisia
+turkey turkiye uganda uruguay uzbekistan venezuela vietnam wales yemen
+zimbabwe
+""")
+
+
 def learn_titles(titles):
     """Feed headlines into word statistics: words seen in many headlines
     (russian, attack, says) weigh less than rare ones (shamonda, alberta)"""
@@ -352,23 +384,27 @@ def word_weight(word):
 
 def is_same_story(title_a, title_b):
     ta, tb = title_tokens(title_a), title_tokens(title_b)
-    if len(ta) < 3 or len(tb) < 3:
-        return False
-    shared = ta & tb
-    if len(shared) < 3:
-        return False
     na, nb = title_numbers(title_a), title_numbers(title_b)
     if na and nb and na != nb:
         return False
     pa, pb = ta & UA_PLACES, tb & UA_PLACES
     if pa and pb and pa.isdisjoint(pb):
         return False
-    weight_a = sum(word_weight(w) for w in ta)
-    weight_b = sum(word_weight(w) for w in tb)
+    ca, cb = ta & COUNTRY_WORDS, tb & COUNTRY_WORDS
+    if ca and cb and ca.isdisjoint(cb):
+        return False
+    # Compare only the words that tell events apart
+    ka, kb = ta - GENERIC_STORY_WORDS, tb - GENERIC_STORY_WORDS
+    if len(ka) < 2 or len(kb) < 2:
+        return False
+    shared = ka & kb
+    if len(shared) < 2:
+        return False
+    weight_a = sum(word_weight(w) for w in ka)
+    weight_b = sum(word_weight(w) for w in kb)
     weight_shared = sum(word_weight(w) for w in shared)
-    # Both conditions: a short headline of generic words ("Air defenses
-    # neutralize 71 Russian drones") is fully covered by many long ones,
-    # so the shared part must also be a real share of the longer headline
+    # Both conditions: a short headline is easily covered by a long one about
+    # something else, so the shared part must be a real share of both
     return (weight_shared / min(weight_a, weight_b) >= STORY_SIMILARITY
             and weight_shared / max(weight_a, weight_b) >= STORY_SIMILARITY_LONG)
 
