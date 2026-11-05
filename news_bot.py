@@ -845,6 +845,46 @@ def select_top_articles(articles, count, theme):
         return articles
 
 
+# Georgia the US state and Georgia the country are one English word, and the
+# model translated "Georgia elects the nation's first Black female governor"
+# (NPR, 05.11.2026) as the country. Context words decide which one it is.
+US_GEORGIA_MARKERS = [
+    "governor", "gov.", "atlanta", "savannah", "augusta", "u.s.", "united states",
+    "state of georgia", "statewide", "trump", "senate", "legislature",
+    "republican", "democrat", "gop", "county", "midterm", "the nation's first",
+    "peach state", "kemp", "warnock", "ossoff", "fulton",
+]
+COUNTRY_GEORGIA_MARKERS = [
+    "tbilisi", "caucasus", "georgian dream", "abkhazia", "ossetia", "batumi",
+    "kobakhidze", "kavelashvili", "zourabichvili", "saakashvili", "kutaisi",
+    "black sea", "kremlin", "eu candidate",
+]
+
+PLACE_RULE = (
+    "Названия мест переводи по смыслу новости, а не по словарю. В новостях "
+    "о США Georgia это штат Джорджия, а не страна Грузия; Washington бывает "
+    "штатом Вашингтон; Moscow (Айдахо), Odessa (Техас), Paris (Техас) это "
+    "города в США, не путай их с одноимёнными городами Европы. Слова "
+    "\"the nation's first\" в американской новости означают впервые в "
+    "истории США или штата."
+)
+
+
+def georgia_context(text):
+    """'state', 'country' or '' when the text does not mention Georgia
+    or does not say clearly which one"""
+    t = text.lower()
+    if not re.search(r"\bgeorgia\b", t):
+        return ""
+    us = sum(t.count(m) for m in US_GEORGIA_MARKERS)
+    country = sum(t.count(m) for m in COUNTRY_GEORGIA_MARKERS)
+    if us > country:
+        return "state"
+    if country > us:
+        return "country"
+    return ""
+
+
 def analyze(title, description, source_name, published_at=None, article_url=None):
     """Возвращает (заголовок_ру, текст) или None, если анализ не удался.
     При None статья не публикуется и не считается использованной."""
@@ -873,6 +913,15 @@ def analyze(title, description, source_name, published_at=None, article_url=None
                      "строго по фактам из описания, без воды и домыслов.").format(d=date_str)
         limit_rule = "Весь ответ не длиннее 1200 символов."
 
+    georgia = georgia_context(f"{title} {description} {full_text or ''}")
+    place_hint = PLACE_RULE
+    if georgia == "state":
+        place_hint += (" В ЭТОЙ новости Georgia это американский штат: пиши "
+                       "«Джорджия» или «штат Джорджия», слово «Грузия» не используй.")
+        log("Georgia here is the US state, the hint goes into the prompt")
+    elif georgia == "country":
+        place_hint += " В ЭТОЙ новости Georgia это страна на Кавказе, по-русски «Грузия»."
+
     prompt = f"""Вот новость на английском языке.
 Заголовок: {title}
 {material}
@@ -884,6 +933,8 @@ def analyze(title, description, source_name, published_at=None, article_url=None
 Первая строка: литературный перевод заголовка на русский язык. Передавай смысл точно и красиво, избегай дословного перевода если он звучит неестественно. Заголовок должен читаться как заголовок качественного русскоязычного издания. Без кавычек, без слова "Заголовок".
 
 {size_rule} Указывай конкретные имена людей, названия стран, организаций, цифры и факты. Пиши живым литературным языком как журналист качественного издания. Не домысливай: только то, что есть в материале.
+
+{place_hint}
 
 Прогноз: напиши 2-3 конкретных и обоснованных предложения о возможных последствиях этого события для стран, людей, рынков или политики. Прогноз должен быть логически связан с фактами и звучать профессионально.
 
@@ -917,6 +968,12 @@ def analyze(title, description, source_name, published_at=None, article_url=None
             if len(raw) < 200 or "Прогноз" not in raw or len(lines) < 3:
                 preview = " ".join(raw.split())[:200]
                 log(f"Ответ модели без нужной структуры ({len(raw)} символов): {preview}")
+                time.sleep(5)
+                continue
+
+            # The US state must not turn into the country in the translation
+            if georgia == "state" and re.search(r"\b(грузи[яиюей]|грузин)", raw, re.IGNORECASE):
+                log("Georgia the state was translated as the country, rewriting")
                 time.sleep(5)
                 continue
 
