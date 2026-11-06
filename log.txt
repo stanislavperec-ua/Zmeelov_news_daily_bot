@@ -1,44 +1,3 @@
-[2026-10-31 06:01:23] Успешно, получено 2200 символов
-[2026-10-31 06:01:23] Обрабатываю: Pentagon plans for death of Trump’s record military budget | https://www.politico.com/news/2026/10/29/trump-pentagon-defense-budget
-[2026-10-31 06:01:23] Попытка 1 для: Pentagon plans for death of Trump’s reco
-[2026-10-31 06:01:25] Успешно, получено 741 символов
-[2026-10-31 06:01:25] Обрабатываю: Crypto worth billions frozen after suspected Binance hack | https://www.bbc.com/news/articles/cwg7xp8kx4v5o
-[2026-10-31 06:01:25] Полный текст получен (3000 символов)
-[2026-10-31 06:01:25] Попытка 1 для: Crypto worth billions frozen after suspe
-[2026-10-31 06:01:35] Успешно, получено 1515 символов
-[2026-10-31 06:01:35] Обрабатываю: Spacewalkers begin final phase of multi-year space station p | https://www.cbsnews.com/news/spacewalkers-begin-final-phase-of-multi-y
-[2026-10-31 06:01:36] Полный текст получен (3000 символов)
-[2026-10-31 06:01:36] Попытка 1 для: Spacewalkers begin final phase of multi-
-[2026-10-31 06:01:55] Успешно, получено 1924 символов
-[2026-10-31 06:01:59] Пауза 60 секунд...
-[2026-10-31 06:02:59] Пауза 60 секунд...
-[2026-10-31 06:04:00] Пауза 60 секунд...
-[2026-10-31 06:05:00] Обрабатываю: US approves potential $2.1B sale of 500 Patriot missiles to  | https://www.ukrinform.net/rubric-ato/4179909-us-approves-potential-21b
-[2026-10-31 06:05:02] Полный текст получен (1151 символов)
-[2026-10-31 06:05:02] Попытка 1 для: US approves potential $2.1B sale of 500 
-[2026-10-31 06:05:05] Успешно, получено 1628 символов
-[2026-10-31 06:05:05] Обрабатываю: Canada to provide €500 million to support Ukraine | https://www.ukrinform.net/rubric-polytics/4179945-canada-to-provide-50
-[2026-10-31 06:05:06] Полный текст получен (1031 символов)
-[2026-10-31 06:05:06] Попытка 1 для: Canada to provide €500 million to suppor
-[2026-10-31 06:05:08] Успешно, получено 1161 символов
-[2026-10-31 06:05:08] Обрабатываю: Three injured, homes damaged in Russian drone strike on Khar | https://www.ukrinform.net/rubric-ato/4179940-three-injured-homes-damag
-[2026-10-31 06:05:09] Полный текст получен (648 символов)
-[2026-10-31 06:05:09] Попытка 1 для: Three injured, homes damaged in Russian 
-[2026-10-31 06:05:11] Успешно, получено 1085 символов
-[2026-10-31 06:05:14] Пауза 60 секунд...
-[2026-10-31 06:06:15] Пауза 60 секунд...
-[2026-10-31 06:07:15] sent_urls.txt обрезан: 307 -> 300
-[2026-10-31 06:07:15] === Блок morning завершён ===
-[2026-10-31 08:01:07] Загружено 300 уже отправленных новостей
-[2026-10-31 08:01:07] === Запуск блока: ai_morning (тест: False) ===
-[2026-10-31 08:01:07] Story memory: 103 headlines from the last 96 h
-[2026-10-31 08:01:07] RSS The Guardian: 20 записей
-[2026-10-31 08:01:07] RSS Wired: 10 записей
-[2026-10-31 08:01:07] RSS TechCrunch: 20 записей
-[2026-10-31 08:01:08] RSS Ars Technica: 20 записей
-[2026-10-31 08:01:08] RSS MIT Technology Review: 10 записей
-[2026-10-31 08:01:08] RSS BBC News: 21 записей
-[2026-10-31 08:01:08] RSS IEEE Spectrum: 30 записей
 [2026-10-31 08:01:08] AI feeds: 19 candidates from quality outlets
 [2026-10-31 08:01:09] NewsAPI (AI): пришло 59 статей
 [2026-10-31 08:01:09] Неизвестный источник (hurriyetdailynews.com): Erdoğan calls Turkic solidarity a ‘strat
@@ -2998,3 +2957,44 @@ CrowdStrike launches AI kill switch
 [2026-11-06 08:03:40] Пауза 60 секунд...
 [2026-11-06 08:04:41] sent_urls.txt обрезан: 304 -> 300
 [2026-11-06 08:04:41] === Блок ai_morning завершён ===
+[2026-11-06 11:01:00] Загружено 300 уже отправленных новостей
+[2026-11-06 11:01:00] === Запуск блока: midday (тест: False) ===
+[2026-11-06 11:01:00] Story memory: 102 headlines from the last 96 h
+[2026-11-06 11:01:00] Неизвестный источник (espn.com): Wembanyama has career night with 52 poin
+[2026-11-06 11:01:00] Неизвестный источник (hollywoodreporter.com): Six Hollywood Consequences of Tuesday’s 
+[2026-11-06 11:01:00] Неизвестный источник (twz.com): NASA Announces X-70 "Fractal" Experiment
+[2026-11-06 11:01:00] Неизвестный источник (pagesix.com): ‘Breaking Bad’ star Dean Norris’ secret 
+[2026-11-06 11:01:00] Неизвестный источник (cbssports.com): Malachi Toney expected to undergo surger
+[2026-11-06 11:01:00] Неизвестный источник (ew.com): ‘Secret Lives of Mormon Wives’ star Jen 
+[2026-11-06 11:01:00] Неизвестный источник (usatoday.com): Meet the record 5 Black governors electe
+[2026-11-06 11:01:00] Неизвестный источник (mlbtraderumors.com): Free Agent Rankings: The Next 10 - MLB T
+[2026-11-06 11:01:00] Пропускаю уже отправленную: Ukraine says bodycam video shows deadly Russian do
+[2026-11-06 11:01:00] Пропускаю уже отправленную: France: Cyberattack targets blood bank refrigerato
+[2026-11-06 11:01:00] Неизвестный источник (channel3000.com): Measles spreads to Columbia County - Cha
+[2026-11-06 11:01:00] Неизвестный источник (gsmarena.com): Google Maps update makes the app fully i
+[2026-11-06 11:01:00] Неизвестный источник (androidcentral.com): Motorola could be bringing back a famili
+[2026-11-06 11:01:00] Неизвестный источник (404media.co): American Voters Overwhelmingly Reject AI
+[2026-11-06 11:01:00] Неизвестный источник (nintendoeverything.com): The Legend of Zelda Ocarina of Time 1.1.
+[2026-11-06 11:01:00] Мировые новости: найдено 13 после фильтрации
+[2026-11-06 11:01:02] Редакторский отбор: выбраны позиции [2, 5, 4, 3]
+[2026-11-06 11:01:02] Обрабатываю: Stock futures mixed after big rally following Democrats' dec | https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html
+[2026-11-06 11:01:02] Полный текст получен (3000 символов)
+[2026-11-06 11:01:02] Попытка 1 для: Stock futures mixed after big rally foll
+[2026-11-06 11:01:05] Успешно, получено 1824 символов
+[2026-11-06 11:01:05] Обрабатываю: UK commits to 'time-bound' talks on slavery apology | https://www.bbc.com/news/articles/cqdr872jkk7vo
+[2026-11-06 11:01:05] Полный текст получен (2473 символов)
+[2026-11-06 11:01:05] Попытка 1 для: UK commits to 'time-bound' talks on slav
+[2026-11-06 11:01:08] Успешно, получено 1780 символов
+[2026-11-06 11:01:08] Обрабатываю: 2 Native American women make history in 2026 midterm electio | https://www.cbsnews.com/news/deb-haaland-peggy-flanagan-native-america
+[2026-11-06 11:01:09] Полный текст получен (3000 символов)
+[2026-11-06 11:01:09] Попытка 1 для: 2 Native American women make history in 
+[2026-11-06 11:01:14] Успешно, получено 1818 символов
+[2026-11-06 11:01:14] Обрабатываю: Pennsylvania reports 6th measles-associated death | https://www.washingtonpost.com/health/2026/11/04/sixth-person-dies-pen
+[2026-11-06 11:01:26] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/11/04/sixth-perso
+[2026-11-06 11:01:26] Попытка 1 для: Pennsylvania reports 6th measles-associa
+[2026-11-06 11:01:28] Успешно, получено 739 символов
+[2026-11-06 11:01:31] Пауза 60 секунд...
+[2026-11-06 11:02:31] Пауза 60 секунд...
+[2026-11-06 11:03:32] Пауза 60 секунд...
+[2026-11-06 11:04:32] sent_urls.txt обрезан: 304 -> 300
+[2026-11-06 11:04:32] === Блок midday завершён ===
