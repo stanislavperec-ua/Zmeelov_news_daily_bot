@@ -1,47 +1,3 @@
-[2026-11-01 06:01:14] RSS Euromaidan Press: 29 записей
-[2026-11-01 06:01:14] Нет фото: Observation of Electroweak Production of
-[2026-11-01 06:01:14] Заблокированный источник (dailymail.com): Pentagon warns European leaders to stop 
-[2026-11-01 06:01:14] Same story already published: Russian forces launch double strike on Kharkiv wit ~ Russian forces strike Kharkiv, killing one and inj
-[2026-11-01 06:01:14] Пропускаю уже отправленную: Three injured, homes damaged in Russian drone stri
-[2026-11-01 06:01:14] Лента обновлений, пропускаю: It was the only transport serving a vill
-[2026-11-01 06:01:14] Старая новость (2026-10-29T22:25:10Z): An armored capsule instead of an open pl
-[2026-11-01 06:01:14] Старая новость (2026-10-29T22:15:42Z): Russo-Ukrainian war, day 1709: Russian j
-[2026-11-01 06:01:14] Харьков: новостей не найдено
-[2026-11-01 06:01:14] Обрабатываю: Ebola death toll in DR Congo passes 5,000 | https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo
-[2026-11-01 06:01:14] Полный текст получен (1971 символов)
-[2026-11-01 06:01:14] Попытка 1 для: Ebola death toll in DR Congo passes 5,00
-[2026-11-01 06:01:17] Успешно, получено 1345 символов
-[2026-11-01 06:01:17] Обрабатываю: Judge orders Trump administration to stop threatening electi | https://www.nbcnews.com/politics/2026-election/judge-orders-trump-admi
-[2026-11-01 06:01:17] Полный текст получен (3000 символов)
-[2026-11-01 06:01:17] Попытка 1 для: Judge orders Trump administration to sto
-[2026-11-01 06:01:21] Успешно, получено 1722 символов
-[2026-11-01 06:01:21] Обрабатываю: Burnham 'open' to calls for slavery apology but not reparati | https://www.bbc.com/news/articles/c5398239je88o
-[2026-11-01 06:01:21] Полный текст получен (3000 символов)
-[2026-11-01 06:01:21] Попытка 1 для: Burnham 'open' to calls for slavery apol
-[2026-11-01 06:01:34] Успешно, получено 1691 символов
-[2026-11-01 06:01:34] Обрабатываю: Mark Carney: Canada has 'learned we are overdependent on the | https://www.dw.com/en/mark-carney-canada-has-learned-we-are-overdepend
-[2026-11-01 06:01:35] Полный текст получен (3000 символов)
-[2026-11-01 06:01:35] Попытка 1 для: Mark Carney: Canada has 'learned we are 
-[2026-11-01 06:01:51] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5744, Requested 2563. Please try again in 2.3025s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
-[2026-11-01 06:01:51] Лимит запросов, ждём 60 секунд...
-[2026-11-01 06:02:51] Попытка 2 для: Mark Carney: Canada has 'learned we are 
-[2026-11-01 06:02:53] Успешно, получено 1655 символов
-[2026-11-01 06:02:55] Пауза 60 секунд...
-[2026-11-01 06:03:56] Пауза 60 секунд...
-[2026-11-01 06:04:56] Пауза 60 секунд...
-[2026-11-01 06:05:56] Обрабатываю: Russian strike destroys Kramatorsk city executive committee  | https://www.ukrinform.net/rubric-ato/4180155-russian-strike-destroys-k
-[2026-11-01 06:05:57] Полный текст получен (1040 символов)
-[2026-11-01 06:05:57] Попытка 1 для: Russian strike destroys Kramatorsk city 
-[2026-11-01 06:05:59] Успешно, получено 1288 символов
-[2026-11-01 06:05:59] Обрабатываю: Zelensky outlines possible dates for trilateral meeting betw | https://www.ukrinform.net/rubric-polytics/4180138-zelensky-outlines-po
-[2026-11-01 06:06:00] Полный текст получен (1280 символов)
-[2026-11-01 06:06:00] Попытка 1 для: Zelensky outlines possible dates for tri
-[2026-11-01 06:06:03] Успешно, получено 1378 символов
-[2026-11-01 06:06:05] Пауза 60 секунд...
-[2026-11-01 06:07:06] sent_urls.txt обрезан: 306 -> 300
-[2026-11-01 06:07:06] === Блок morning завершён ===
-[2026-11-01 08:01:04] Загружено 300 уже отправленных новостей
-[2026-11-01 08:01:04] === Запуск блока: ai_morning (тест: False) ===
 [2026-11-01 08:01:04] Story memory: 101 headlines from the last 96 h
 [2026-11-01 08:01:04] RSS The Guardian: 20 записей
 [2026-11-01 08:01:04] RSS Wired: 10 записей
@@ -2998,3 +2954,47 @@ CrowdStrike launches AI kill switch
 [2026-11-07 08:03:33] Пауза 60 секунд...
 [2026-11-07 08:04:34] sent_urls.txt обрезан: 304 -> 300
 [2026-11-07 08:04:34] === Блок ai_morning завершён ===
+[2026-11-07 11:00:59] Загружено 300 уже отправленных новостей
+[2026-11-07 11:00:59] === Запуск блока: midday (тест: False) ===
+[2026-11-07 11:00:59] Story memory: 100 headlines from the last 96 h
+[2026-11-07 11:00:59] Пропускаю уже отправленную: Infant bleeding surged last year as parents refuse
+[2026-11-07 11:00:59] Заблокированный источник (sports.yahoo.com): LSU breaks Division I record with 131-22
+[2026-11-07 11:00:59] Неизвестный источник (sciencealert.com): After 42 Years of Searching, Physicists 
+[2026-11-07 11:00:59] Same story already published: Global tech stocks plunge as US midterms add to AI ~ Global tech stocks plunge as US midterms add to AI
+[2026-11-07 11:00:59] Пропускаю уже отправленную: California governor commutes sentences of more tha
+[2026-11-07 11:01:00] Неизвестный источник (macrumors.com): Apple's First Touchscreen Mac is Now Arr
+[2026-11-07 11:01:00] Неизвестный источник (pbs.org): Elon Musk gambled $445 million to boost 
+[2026-11-07 11:01:00] Заблокированный источник (yahoo.com): Russell Brand found guilty of rape and s
+[2026-11-07 11:01:00] Неизвестный источник (space.com): 'We got it done!' Spacewalking astronaut
+[2026-11-07 11:01:00] Неизвестный источник (instyle.com): North West Looks So Different With Icy B
+[2026-11-07 11:01:00] Неизвестный источник (texastribune.org): Gov.-elect Gina Hinojosa pledges biparti
+[2026-11-07 11:01:00] Пропускаю уже отправленную: Paraguay's president is impeached minutes after re
+[2026-11-07 11:01:00] Лента обновлений, пропускаю: Flight bomb threats live: Multiple plane
+[2026-11-07 11:01:00] Неизвестный источник (thecut.com): Mormon Wives Star Jen Affleck Has Filed 
+[2026-11-07 11:01:00] Неизвестный источник (gamespot.com): The Legend of Zelda: Ocarina Of Time's 2
+[2026-11-07 11:01:00] Неизвестный источник (sciencealert.com): Longer Estrogen Exposure Linked to Less 
+[2026-11-07 11:01:00] Старая новость (2026-11-05T09:15:43Z): Next Week’s New Moon to Highlight the Bl
+[2026-11-07 11:01:00] Старая новость (2026-11-05T05:37:10Z): NASA's Swift space telescope plunges bac
+[2026-11-07 11:01:00] Старая новость (2026-11-05T04:27:19Z): K-pop band cancels sold out Detroit show
+[2026-11-07 11:01:00] Мировые новости: найдено 9 после фильтрации
+[2026-11-07 11:01:02] Редакторский отбор: выбраны позиции [2, 6, 1, 5]
+[2026-11-07 11:01:02] Обрабатываю: Japanese stocks post biggest one-day fall since ‘liberation  | https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25
+[2026-11-07 11:01:02] Попытка 1 для: Japanese stocks post biggest one-day fal
+[2026-11-07 11:01:05] Успешно, получено 811 символов
+[2026-11-07 11:01:05] Обрабатываю: Tens of thousands of workers in France flood streets for ant | https://www.cbsnews.com/news/france-union-workers-anti-government-prot
+[2026-11-07 11:01:05] Полный текст получен (2728 символов)
+[2026-11-07 11:01:05] Попытка 1 для: Tens of thousands of workers in France f
+[2026-11-07 11:01:08] Успешно, получено 1776 символов
+[2026-11-07 11:01:08] Обрабатываю: Melania Trump calls for lasting Ukraine truce as she hosts R | https://www.bbc.com/news/articles/c9p8g085mz07o
+[2026-11-07 11:01:08] Полный текст получен (3000 символов)
+[2026-11-07 11:01:08] Попытка 1 для: Melania Trump calls for lasting Ukraine 
+[2026-11-07 11:01:12] Успешно, получено 1980 символов
+[2026-11-07 11:01:12] Обрабатываю: Trump signs order to prevent future presidents from changing | https://www.bbc.com/news/articles/cmy0eeg101djo
+[2026-11-07 11:01:12] Полный текст получен (3000 символов)
+[2026-11-07 11:01:12] Попытка 1 для: Trump signs order to prevent future pres
+[2026-11-07 11:01:25] Успешно, получено 1774 символов
+[2026-11-07 11:01:28] Пауза 60 секунд...
+[2026-11-07 11:02:29] Пауза 60 секунд...
+[2026-11-07 11:03:29] Пауза 60 секунд...
+[2026-11-07 11:04:30] sent_urls.txt обрезан: 304 -> 300
+[2026-11-07 11:04:30] === Блок midday завершён ===
