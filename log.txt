@@ -1,94 +1,3 @@
-[2026-11-01 18:04:35] sent_urls.txt обрезан: 304 -> 300
-[2026-11-01 18:04:35] === Блок ai_evening завершён ===
-[2026-11-02 06:01:08] Загружено 300 уже отправленных новостей
-[2026-11-02 06:01:08] === Запуск блока: morning (тест: False) ===
-[2026-11-02 06:01:08] Story memory: 101 headlines from the last 96 h
-[2026-11-02 06:01:08] Неизвестный источник (hollywoodreporter.com): Heidi Klum Reveals This Year’s (Very Blo
-[2026-11-02 06:01:08] Неизвестный источник (espn.com): How the Golden State Valkyries won the 2
-[2026-11-02 06:01:08] Неизвестный источник (wsbtv.com): Georgia passed permanent daylight saving
-[2026-11-02 06:01:08] Заблокированный источник (sports.yahoo.com): College football results, scores: USC kn
-[2026-11-02 06:01:08] Неизвестный источник (usatoday.com): Judge won't dismiss McRib class-action l
-[2026-11-02 06:01:08] Неизвестный источник (wsbt.com): 31 new measles cases in Indiana reported
-[2026-11-02 06:01:08] Неизвестный источник (mmajunkie.usatoday.com): UFC Fight Night 292 live updates: Renato
-[2026-11-02 06:01:08] Неизвестный источник (motorsport.com): Esteban Ocon issues statement after Haas
-[2026-11-02 06:01:08] Неизвестный источник (pbs.org): Attorneys for Alaska say 'meritless' Tru
-[2026-11-02 06:01:08] Неизвестный источник (deadline.com): 'Green Room' Writer/Director Says Patric
-[2026-11-02 06:01:08] Неизвестный источник (kcra.com): 31-year-old pregnant woman identified as
-[2026-11-02 06:01:08] Заблокированный источник (nypost.com): Doctor who oversaw Christa Pike’s botche
-[2026-11-02 06:01:08] Неизвестный источник (usatoday.com): 'SNL' reveals host, musical guest ahead 
-[2026-11-02 06:01:08] Неизвестный источник (variety.com): Jack Nicholson Has ‘Disappeared’ but Is 
-[2026-11-02 06:01:08] Неизвестный источник (abcnews.com): NASA telescope is on the verge of plungi
-[2026-11-02 06:01:08] Неизвестный источник (bleepingcomputer.com): New Android SMS of Death exploit can rem
-[2026-11-02 06:01:08] Неизвестный источник (kotaku.com): Shigeru Miyamoto Declares November 1st P
-[2026-11-02 06:01:08] Пропускаю уже отправленную: Oil company earnings skyrocket — again - NPR
-[2026-11-02 06:01:08] Неизвестный источник (forbes.com): November’s Night Sky Brings A Supermoon 
-[2026-11-02 06:01:08] Старая новость (2026-10-31T00:20:08Z): Meteorite Found in Sahara is Piece of Ma
-[2026-11-02 06:01:08] Старая новость (2026-10-30T22:46:02Z): SpaceX closes out October with Halloween
-[2026-11-02 06:01:08] Старая новость (2026-10-30T22:42:46Z): Have we been thinking about women’s hear
-[2026-11-02 06:01:08] Старая новость (2026-10-30T10:45:50Z): As a historic measles outbreak hits Penn
-[2026-11-02 06:01:08] Мировые новости: найдено 10 после фильтрации
-[2026-11-02 06:01:10] Редакторский отбор: выбраны позиции [1, 2, 3, 5]
-[2026-11-02 06:01:11] RSS Ukrinform: 30 записей
-[2026-11-02 06:01:12] RSS Ukrinform: 30 записей
-[2026-11-02 06:01:12] Пропускаю уже отправленную: Russia launches nearly 2,000 attack drones, over 1
-[2026-11-02 06:01:12] Пропускаю уже отправленную: Russian forces stepping up efforts to expand contr
-[2026-11-02 06:01:12] Пропускаю уже отправленную: Russian forces strike energy infrastructure in Zhy
-[2026-11-02 06:01:12] RSS Euromaidan Press: 29 записей
-[2026-11-02 06:01:12] Старая новость (2026-10-30T17:48:38Z): Russia used everything but nuclear weapo
-[2026-11-02 06:01:12] Старая новость (2026-10-30T16:58:59Z): Drones have not killed tank: Ukrainian a
-[2026-11-02 06:01:12] Старая новость (2026-10-30T16:20:51Z): US delays the Patriot missiles Ukraine n
-[2026-11-02 06:01:12] Старая новость (2026-10-30T16:12:59Z): “We have been killed”: Novaya Gazeta, th
-[2026-11-02 06:01:12] Старая новость (2026-10-30T16:09:56Z): “We need asymmetric effect,” Defense Min
-[2026-11-02 06:01:12] Старая новость (2026-10-30T15:54:04Z): Azov says it struck more than 100 Russia
-[2026-11-02 06:01:12] Старая новость (2026-10-30T15:49:35Z): “We were told brigade couldn’t be saved”
-[2026-11-02 06:01:12] Старая новость (2026-10-30T15:15:55Z): The US is reviewing a request to lift sa
-[2026-11-02 06:01:12] Старая новость (2026-10-30T15:05:12Z): Poland holds a suspect for stabbing two 
-[2026-11-02 06:01:12] Старая новость (2026-10-30T13:57:16Z): Dozens of Russian drones fell to gun tur
-[2026-11-02 06:01:12] Старая новость (2026-10-30T13:40:41Z): Another Russian “state-of-the-art” Su-57
-[2026-11-02 06:01:12] Старая новость (2026-10-30T13:38:05Z): Russia’s Geran-5 has hit 1,000 km/h in m
-[2026-11-02 06:01:12] Старая новость (2026-10-30T13:11:20Z): The Pentagon wants NATO’s eastern flank 
-[2026-11-02 06:01:12] Старая новость (2026-10-30T12:57:04Z): Destinus says it now makes more cruise m
-[2026-11-02 06:01:12] Старая новость (2026-10-30T12:31:31Z): Shadows, roofs, job ads give Ukrainian a
-[2026-11-02 06:01:13] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-11-02 06:01:13] Заблокированный источник (naturalnews.com): Financial Times Refuses to Retract Putin
-[2026-11-02 06:01:13] Заблокированный источник (rt-english.com): RT’s Rick Sanchez reports from Alyoshki 
-[2026-11-02 06:01:13] Спорт, пропускаю: Every player from California to play for
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): Russian drones target multiple Ukrainian
-[2026-11-02 06:01:13] Нет фото: CNN Amplifies El-sayed’s Diversion—and H
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): Russia’s Shadow Fleet Turns to Nets and 
-[2026-11-02 06:01:13] Заблокированный источник (yahoo.com): FBI says North Korea was behind $6 billi
-[2026-11-02 06:01:13] Заблокированный источник (dailymail.com): Starmer warns change in Europe-US defenc
-[2026-11-02 06:01:13] Заблокированный источник (dailymail.com): British troops to be equipped with 'SAS-
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): Turkey calls on Russia, Ukraine to reach
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): Flight disruptions hit multiple airports
-[2026-11-02 06:01:13] Заблокированный источник (dailymail.com): Donald Trump agrees to send hundreds of 
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): Flights disruptions hit multiple airport
-[2026-11-02 06:01:13] Заблокированный источник (dailymail.com): Spies in the sky: RAF sends up drones fo
-[2026-11-02 06:01:13] Заблокированный источник (biztoc.com): US and Canada Issue Mass Casualty Warnin
-[2026-11-02 06:01:13] Заблокированный источник (dailymail.com): Leaked audio exposes CEO of creepy surve
-[2026-11-02 06:01:13] Заблокированный источник (nypost.com): Hundreds evacuated from Russian-occupied
-[2026-11-02 06:01:13] Same story twice in candidates: Air defenses down 154 out of 193 drones used by Ru
-[2026-11-02 06:01:13] Same story twice in candidates: Ukrainian Navy destroys six Russian aircraft, ten 
-[2026-11-02 06:01:13] Same story twice in candidates: Hackers breach Russia's statistics agency, obtain 
-[2026-11-02 06:01:13] Same story twice in candidates: Ukrainian Film Festival kicks off in Poland on Nov
-[2026-11-02 06:01:13] Same story twice in candidates: Russian SRG activity along Ukraine’s northern bord
-[2026-11-02 06:01:13] Same story twice in candidates: Zaporizhzhia region provides UAH 105M worth of mil
-[2026-11-02 06:01:13] Same story twice in candidates: Russian drones attack settlement in Kharkiv region
-[2026-11-02 06:01:13] Same story twice in candidates: Injury toll in Russian strike on Vinnytsia region 
-[2026-11-02 06:01:13] Same story twice in candidates: Two people injured in Russian attack on Zaporizhzh
-[2026-11-02 06:01:13] Same story twice in candidates: Russian forces hit energy facility in Ternopil reg
-[2026-11-02 06:01:13] Same story twice in candidates: Ukraine’s air defenses down 274 Russian drones, si
-[2026-11-02 06:01:13] Same story twice in candidates: General Staff: Ukrainian troops evacuated 167 civi
-[2026-11-02 06:01:13] Same story twice in candidates: Marine Corps spox: Ceasefire in Oleshky holding, w
-[2026-11-02 06:01:13] Same story twice in candidates: Two killed, three injured in Russian attack on Vin
-[2026-11-02 06:01:13] Same story twice in candidates: Bodies of civilians kept in hospital for six month
-[2026-11-02 06:01:13] Same story twice in candidates: Unmanned Systems Forces destroy over 16,700 Russia
-[2026-11-02 06:01:13] Same story twice in candidates: Russian drone attacks damage energy facilities in 
-[2026-11-02 06:01:13] Украинские новости: найдено 51 после фильтрации
-[2026-11-02 06:01:15] Редакторский отбор: выбраны позиции [19, 2]
-[2026-11-02 06:01:15] NewsAPI (Харьков, все издания): пришло 8 статей
-[2026-11-02 06:01:16] RSS Ukrinform: 30 записей
-[2026-11-02 06:01:17] RSS Ukrinform: 30 записей
 [2026-11-02 06:01:18] RSS Euromaidan Press: 29 записей
 [2026-11-02 06:01:18] Заблокированный источник (dailymail.com): Tears as Ukrainians evacuated from Russi
 [2026-11-02 06:01:18] Заблокированный источник (nypost.com): Major rescue operation sees evacuees reu
@@ -2998,3 +2907,94 @@ CrowdStrike launches AI kill switch
 [2026-11-08 06:06:21] Пауза 60 секунд...
 [2026-11-08 06:07:21] sent_urls.txt обрезан: 307 -> 300
 [2026-11-08 06:07:21] === Блок morning завершён ===
+[2026-11-08 08:01:00] Загружено 300 уже отправленных новостей
+[2026-11-08 08:01:00] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-08 08:01:00] Story memory: 100 headlines from the last 96 h
+[2026-11-08 08:01:00] RSS The Guardian: 20 записей
+[2026-11-08 08:01:00] RSS Wired: 10 записей
+[2026-11-08 08:01:01] RSS TechCrunch: 20 записей
+[2026-11-08 08:01:01] RSS Ars Technica: 20 записей
+[2026-11-08 08:01:01] RSS MIT Technology Review: 10 записей
+[2026-11-08 08:01:01] RSS BBC News: 21 записей
+[2026-11-08 08:01:01] RSS IEEE Spectrum: 30 записей
+[2026-11-08 08:01:01] Лента обновлений, пропускаю: US tech stocks post modest recovery on W
+[2026-11-08 08:01:02] AI feeds: 10 candidates from quality outlets
+[2026-11-08 08:01:02] NewsAPI (AI): пришло 53 статей
+[2026-11-08 08:01:02] Неизвестный источник (channelnewsasia.com): Environmental groups embrace AI, even as
+[2026-11-08 08:01:02] Заблокированный источник (naturalnews.com): FCC to Ban Chinese Telecom Firms From Di
+[2026-11-08 08:01:02] Неизвестный источник (techpolicy.press): Creating a New Internet Bargain to Prese
+[2026-11-08 08:01:02] Неизвестный источник (github.com): aroum/fm1-custom-fw: M-VAVE FM-1 resourc
+[2026-11-08 08:01:02] Не про ИИ, пропускаю: More than 100 Irish start-ups head to Web Summit a
+[2026-11-08 08:01:02] Неизвестный источник (americanthinker.com): The Internet’s Hidden Weakness Detected 
+[2026-11-08 08:01:02] Нет фото: China's Top Spy Agency Recruited Woman W
+[2026-11-08 08:01:02] Неизвестный источник (techradar.com): Data center providers are turning to old
+[2026-11-08 08:01:02] Неизвестный источник (digitaljournal.com): From clinical practice to health technol
+[2026-11-08 08:01:02] Нет фото: Quantum-resistant blockchain-assisted fe
+[2026-11-08 08:01:02] Нет фото: Silynxcom Announces Development of New A
+[2026-11-08 08:01:02] Неизвестный источник (uxdesign.cc): After the AI bubble: a manifesto
+[2026-11-08 08:01:02] Неизвестный источник (pymnts.com): Sysco Counts on AI Routing and Bidding f
+[2026-11-08 08:01:02] Неизвестный источник (siliconangle.com): Thinking Machines debuts Inkling 2 Small
+[2026-11-08 08:01:02] Неизвестный источник (wwd.com): AI, Cooperation, Space Among Next Fronti
+[2026-11-08 08:01:02] Неизвестный источник (ewtnnews.com): ‘We are all impacted by AI but nobody’s 
+[2026-11-08 08:01:02] Не про ИИ, пропускаю: Middle East could have big role in Democrats' Trum
+[2026-11-08 08:01:02] Неизвестный источник (out.com): Ranking Andrew Garfield's top 9 sexiest 
+[2026-11-08 08:01:02] Нет фото: tf-inference added to PyPI
+[2026-11-08 08:01:02] Неизвестный источник (news.mit.edu): How to predict the behavior of molecules
+[2026-11-08 08:01:02] Неизвестный источник (siliconangle.com): AWS’ Colleen Aubrey: Stop inventing new 
+[2026-11-08 08:01:02] Пропускаю уже отправленную: Free Chinese AI Models Are Getting Scary Good at H
+[2026-11-08 08:01:02] Нет фото: Soros Groups Orchestrated China-Funded S
+[2026-11-08 08:01:02] Нет фото: Why Static Security Awareness Training P
+[2026-11-08 08:01:02] Not a news item (listing, forum post), skipping: show HN: Computer-Generated Asset Pipeli
+[2026-11-08 08:01:02] Неизвестный источник (aws.amazon.com): Serverless MCP server for AI agent data 
+[2026-11-08 08:01:02] Неизвестный источник (apnamatvchannel.com): Tesla to scale back Cybertruck productio
+[2026-11-08 08:01:02] Неизвестный источник (siliconangle.com): The AI boom’s missing balance-sheet ques
+[2026-11-08 08:01:02] Неизвестный источник (thehackernews.com): OpenAI Launches GPT-6 Cyber After AI Hel
+[2026-11-08 08:01:02] Неизвестный источник (abcnews.com): Japan announces emergency cybersecurity 
+[2026-11-08 08:01:02] Неизвестный источник (siliconangle.com): Atomicwork launches certified AI coworke
+[2026-11-08 08:01:02] Заблокированный источник (journals.plos.org): kinGEMs: A robust and scalable framework
+[2026-11-08 08:01:02] Неизвестный источник (dianeravitch.net): The Trump Administration Is Destroying A
+[2026-11-08 08:01:02] Заблокированный источник (journals.plos.org): Aligning entity of knowledge graph based
+[2026-11-08 08:01:02] Заблокированный источник (journals.plos.org): Deep learning optimisation for cardiolog
+[2026-11-08 08:01:02] Заблокированный источник (journals.plos.org): PINN-based functional inference in size-
+[2026-11-08 08:01:02] Заблокированный источник (journals.plos.org): Adaptive–based cascaded PI–PID controlle
+[2026-11-08 08:01:02] Неизвестный источник (tradingkey.com): Insilico Open-Sources 24/7 Personal Long
+[2026-11-08 08:01:02] Неизвестный источник (cryptobriefing.com): Goldman Sachs keeps IREN at Neutral, cut
+[2026-11-08 08:01:02] Неизвестный источник (logisticsviewpoints.com): AI Is Reshaping the TMS Market. Deployme
+[2026-11-08 08:01:02] Неизвестный источник (naftemporiki.gr): Ericsson: 63% of Greek smartphone users 
+[2026-11-08 08:01:02] Неизвестный источник (skudonet.com): ZEVENET: Finding Vulnerabilities Is Gett
+[2026-11-08 08:01:02] Неизвестный источник (techradar.com): Why responsive stores need orchestration
+[2026-11-08 08:01:02] Нет фото: aix 0.0.54
+[2026-11-08 08:01:02] Неизвестный источник (designboom.com): SCI-Arc task force champions long-term a
+[2026-11-08 08:01:02] Неизвестный источник (livemint.com): AI-driven attacks put telecom security o
+[2026-11-08 08:01:02] Неизвестный источник (en.protothema.gr): How hackers stole $6.3bn from Binance wi
+[2026-11-08 08:01:02] Неизвестный источник (thehindubusinessline.com): Why AI cannot think like humans do
+[2026-11-08 08:01:02] Неизвестный источник (business-standard.com): Coforge joins SpaceX partner network to 
+[2026-11-08 08:01:02] Неизвестный источник (prnewswire.co.uk): Ajman Government Media Office unveils vi
+[2026-11-08 08:01:02] Нет фото: Chomsky and the Two Cultures of Statisti
+[2026-11-08 08:01:02] Same story twice in candidates: Could the AI bubble burst after Democrats’ midterm
+[2026-11-08 08:01:02] AI news: 11 candidates from quality and trusted outlets
+[2026-11-08 08:01:02] AI news: 11 candidates after filtering
+[2026-11-08 08:01:05] Редакторский отбор: выбраны позиции [1, 5, 3, 4]
+[2026-11-08 08:01:05] Обрабатываю: ‘AI clog’: UK public bodies battle onslaught of chatbot-gene | https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodi
+[2026-11-08 08:01:06] Полный текст получен (3000 символов)
+[2026-11-08 08:01:06] Попытка 1 для: ‘AI clog’: UK public bodies battle onsla
+[2026-11-08 08:01:08] Успешно, получено 1665 символов
+[2026-11-08 08:01:08] Обрабатываю: Lanarkshire AI datacentre to fully rely on National Grid des | https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacen
+[2026-11-08 08:01:08] Полный текст получен (3000 символов)
+[2026-11-08 08:01:08] Попытка 1 для: Lanarkshire AI datacentre to fully rely 
+[2026-11-08 08:01:11] Успешно, получено 1713 символов
+[2026-11-08 08:01:11] Обрабатываю: AI broke the cybersecurity world. What’s next? | https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data
+[2026-11-08 08:01:11] Полный текст получен (3000 символов)
+[2026-11-08 08:01:11] Попытка 1 для: AI broke the cybersecurity world. What’s
+[2026-11-08 08:01:19] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5317, Requested 2755. Please try again in 539.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exce
+[2026-11-08 08:01:19] Лимит запросов, ждём 60 секунд...
+[2026-11-08 08:02:19] Попытка 2 для: AI broke the cybersecurity world. What’s
+[2026-11-08 08:02:23] Успешно, получено 1672 символов
+[2026-11-08 08:02:23] Обрабатываю: Thinking Machines launches Inkling 2 Small with near-frontie | https://venturebeat.com/technology/thinking-machines-launches-inkling-
+[2026-11-08 08:02:23] Попытка 1 для: Thinking Machines launches Inkling 2 Sma
+[2026-11-08 08:02:25] Успешно, получено 1124 символов
+[2026-11-08 08:02:28] Пауза 60 секунд...
+[2026-11-08 08:03:28] Пауза 60 секунд...
+[2026-11-08 08:04:29] Пауза 60 секунд...
+[2026-11-08 08:05:29] sent_urls.txt обрезан: 304 -> 300
+[2026-11-08 08:05:29] === Блок ai_morning завершён ===
