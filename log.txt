@@ -1,48 +1,3 @@
-[2026-11-04 06:05:08] Обрабатываю: Russia sending migrants, asylum seekers, convicts to fight i | https://www.ukrinform.net/rubric-ato/4181136-russia-sending-migrants-a
-[2026-11-04 06:05:09] Полный текст получен (2680 символов)
-[2026-11-04 06:05:09] Попытка 1 для: Russia sending migrants, asylum seekers,
-[2026-11-04 06:05:13] Успешно, получено 2037 символов
-[2026-11-04 06:05:13] Обрабатываю: Russia targets substation critical to stable operation of Kh | https://www.ukrinform.net/rubric-economy/4181119-russia-targets-substa
-[2026-11-04 06:05:14] Полный текст получен (1134 символов)
-[2026-11-04 06:05:14] Попытка 1 для: Russia targets substation critical to st
-[2026-11-04 06:05:18] Успешно, получено 1617 символов
-[2026-11-04 06:05:18] Обрабатываю: Overnight Russian shelling damages three medical facilities  | https://www.ukrinform.net/rubric-ato/4181054-overnight-russian-shellin
-[2026-11-04 06:05:19] Полный текст получен (1350 символов)
-[2026-11-04 06:05:19] Попытка 1 для: Overnight Russian shelling damages three
-[2026-11-04 06:05:23] Успешно, получено 1828 символов
-[2026-11-04 06:05:25] Пауза 60 секунд...
-[2026-11-04 06:06:26] Пауза 60 секунд...
-[2026-11-04 06:07:26] sent_urls.txt обрезан: 307 -> 300
-[2026-11-04 06:07:26] === Блок morning завершён ===
-[2026-11-04 08:01:08] Загружено 300 уже отправленных новостей
-[2026-11-04 08:01:08] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-04 08:01:08] Story memory: 98 headlines from the last 96 h
-[2026-11-04 08:01:08] RSS The Guardian: 20 записей
-[2026-11-04 08:01:08] RSS Wired: 10 записей
-[2026-11-04 08:01:08] RSS TechCrunch: 20 записей
-[2026-11-04 08:01:09] RSS Ars Technica: 20 записей
-[2026-11-04 08:01:09] RSS MIT Technology Review: 10 записей
-[2026-11-04 08:01:09] RSS BBC News: 21 записей
-[2026-11-04 08:01:10] RSS IEEE Spectrum: 30 записей
-[2026-11-04 08:01:10] Same story already published: When You Should—and Shouldn’t—Use AI to Search the ~ Here’s Why You Shouldn’t Use AI to Vote
-[2026-11-04 08:01:10] AI feeds: 19 candidates from quality outlets
-[2026-11-04 08:01:10] NewsAPI (AI): пришло 59 статей
-[2026-11-04 08:01:10] Неизвестный источник (prnewswire.co.uk): Millenium Associates AG selects Ittikar'
-[2026-11-04 08:01:10] Неизвестный источник (en.antaranews.com): Indonesia-India Corridor turns cultural 
-[2026-11-04 08:01:10] Неизвестный источник (ibtimes.com.au): 10 Rising Australian Startups to Watch i
-[2026-11-04 08:01:10] Не про ИИ, пропускаю: Aramco's profit rises as refining margins strength
-[2026-11-04 08:01:10] Неизвестный источник (adweek.com): #AskNewser: ABC, Fox News and NewsNation
-[2026-11-04 08:01:10] Нет фото: What birds have waterproof feathers?
-[2026-11-04 08:01:10] Нет фото: What animal has more than one brain?
-[2026-11-04 08:01:10] Неизвестный источник (lewrockwell.com): We Can’t Put AI Back in the Box… So We M
-[2026-11-04 08:01:10] Неизвестный источник (thehindubusinessline.com): Q2 Results Today Live: SBI, NSE, Bajaj F
-[2026-11-04 08:01:10] Неизвестный источник (economictimes.indiatimes.com): India will become the world’s largest ec
-[2026-11-04 08:01:10] Нет фото: feagi 2.6.13
-[2026-11-04 08:01:10] Неизвестный источник (siliconangle.com): VCs bet $30M on Larridin’s ability to he
-[2026-11-04 08:01:10] Неизвестный источник (siliconangle.com): How Xatoms is using AI to solve the glob
-[2026-11-04 08:01:10] Неизвестный источник (siliconangle.com): Robotics startup Tutor Intelligence nabs
-[2026-11-04 08:01:10] Неизвестный источник (kitploit.com): qai2026-fgsm-transfer
-[2026-11-04 08:01:10] Заблокированный источник (dailymail.com): UK could face AI-powered cyberattacks on
 [2026-11-04 08:01:10] Неизвестный источник (redhat.com): Future-proofing enterprise AI: The impac
 [2026-11-04 08:01:10] Не про ИИ, пропускаю: US social sciences face existential crisis after N
 [2026-11-04 08:01:10] Неизвестный источник (siliconangle.com): Apple’s stock drops as new CEO John Tern
@@ -2998,3 +2953,48 @@ CrowdStrike launches AI kill switch
 [2026-11-10 08:03:49] Пауза 60 секунд...
 [2026-11-10 08:04:49] sent_urls.txt обрезан: 304 -> 300
 [2026-11-10 08:04:49] === Блок ai_morning завершён ===
+[2026-11-10 11:01:09] Загружено 300 уже отправленных новостей
+[2026-11-10 11:01:09] === Запуск блока: midday (тест: False) ===
+[2026-11-10 11:01:09] Story memory: 96 headlines from the last 96 h
+[2026-11-10 11:01:10] Неизвестный источник (hollywoodreporter.com): ‘You Can See Everything’ Sweeps Critics 
+[2026-11-10 11:01:10] Неизвестный источник (foxnews.com): Two Washington deputies killed trying to
+[2026-11-10 11:01:10] Неизвестный источник (nbcsports.com): Sunday Night Football: Despite three Cal
+[2026-11-10 11:01:10] Пропускаю уже отправленную: Passenger trains crash in Egypt, killing 7 and inj
+[2026-11-10 11:01:10] Неизвестный источник (usatoday.com): 'Love Is Blind' Season 11 reunion bombsh
+[2026-11-10 11:01:10] Неизвестный источник (ktla.com): 1 person stabbed in neck during Hallowee
+[2026-11-10 11:01:10] Заблокированный источник (sports.yahoo.com): Giants' win over Eagles wasn't pretty, b
+[2026-11-10 11:01:10] Пропускаю уже отправленную: Tensions rise in Philadelphia over boycott of Jewi
+[2026-11-10 11:01:10] Неизвестный источник (sciencealert.com): Amyloid Fibers Have an Unexpected Role i
+[2026-11-10 11:01:10] Неизвестный источник (seekingalpha.com): SA Asks: Is SpaceX a buy, sell or hold r
+[2026-11-10 11:01:10] Пропускаю уже отправленную: Europe to join U.S.-brokered Ukraine talks in Abu 
+[2026-11-10 11:01:10] Неизвестный источник (espn.com): Man Utd 4-4 Aston Villa (Nov 8, 2026) Ga
+[2026-11-10 11:01:10] Неизвестный источник (polygon.com): Speedrunners are already breaking The Le
+[2026-11-10 11:01:10] Неизвестный источник (wccftech.com): AMD Acknowledges Radeon Driver Bug Causi
+[2026-11-10 11:01:10] Старая новость (2026-11-08T11:00:00Z): Destroyed NASA observatory took one of t
+[2026-11-10 11:01:10] Старая новость (2026-11-08T10:00:00Z): An 11-Day-Old Baby Couldn’t Stop Bleedin
+[2026-11-10 11:01:10] Старая новость (2026-11-07T14:21:00Z): El Niño-fueled storm triggers dangerous 
+[2026-11-10 11:01:10] Старая новость (2026-11-06T21:00:00Z): What's that bright 'star' in the early m
+[2026-11-10 11:01:10] Старая новость (2026-11-06T18:31:26Z): Exeter University-led £20m project to pr
+[2026-11-10 11:01:10] Старая новость (2026-11-06T13:49:11Z): Wisconsin Reports Its First Infant Death
+[2026-11-10 11:01:10] Старая новость (2026-11-06T13:00:15Z): 4.1 billion-year-old Martian meteorite h
+[2026-11-10 11:01:10] Мировые новости: найдено 11 после фильтрации
+[2026-11-10 11:01:11] Редакторский отбор: выбраны позиции [5, 1, 3, 4]
+[2026-11-10 11:01:11] Обрабатываю: Trump’s war against Iran not 'necessarily popular' but neede | https://apnews.com/article/iran-war-rubio-vance-trump-midterm-election
+[2026-11-10 11:01:11] Попытка 1 для: Trump’s war against Iran not 'necessaril
+[2026-11-10 11:01:14] Успешно, получено 980 символов
+[2026-11-10 11:01:14] Обрабатываю: Asian Markets at Risk of Pressure on Nvidia Probe: Markets W | https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-
+[2026-11-10 11:01:14] Попытка 1 для: Asian Markets at Risk of Pressure on Nvi
+[2026-11-10 11:01:15] Успешно, получено 968 символов
+[2026-11-10 11:01:15] Обрабатываю: Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld | https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yal
+[2026-11-10 11:01:16] Полный текст получен (3000 символов)
+[2026-11-10 11:01:16] Попытка 1 для: Is Jensen Huang’s job on the line? Yale’
+[2026-11-10 11:01:18] Успешно, получено 1743 символов
+[2026-11-10 11:01:18] Обрабатываю: In rare GOP rebuke, congressman says Trump must ‘fire people | https://www.washingtonpost.com/politics/2026/11/08/rare-gop-rebuke-con
+[2026-11-10 11:01:30] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/11/08/rare-gop-
+[2026-11-10 11:01:30] Попытка 1 для: In rare GOP rebuke, congressman says Tru
+[2026-11-10 11:01:33] Успешно, получено 928 символов
+[2026-11-10 11:01:37] Пауза 60 секунд...
+[2026-11-10 11:02:38] Пауза 60 секунд...
+[2026-11-10 11:03:38] Пауза 60 секунд...
+[2026-11-10 11:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-11-10 11:04:39] === Блок midday завершён ===
