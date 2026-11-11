@@ -1,47 +1,3 @@
-[2026-11-05 06:01:15] RSS Ukrinform: 30 записей
-[2026-11-05 06:01:16] RSS Ukrinform: 30 записей
-[2026-11-05 06:01:16] RSS Euromaidan Press: 29 записей
-[2026-11-05 06:01:16] Нет фото: BIGGEST ENERGY STRIKE IN HISTORY: 5 Powe
-[2026-11-05 06:01:16] Нет фото: BIGGEST ENERGY STRIKE IN HISTORY: 5 Powe
-[2026-11-05 06:01:16] Заблокированный источник (nypost.com): 31 dead, dozens missing after Russian st
-[2026-11-05 06:01:16] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Drone Kill
-[2026-11-05 06:01:16] Нет фото: Observation of the Rare Decay $η→{μ}^{+}
-[2026-11-05 06:01:16] Пропускаю уже отправленную: Russian forces strike food production facility in 
-[2026-11-05 06:01:16] Харьков: найдена новость: Russo-Ukrainian war, day 1714: Russia launches one
-[2026-11-05 06:01:16] Обрабатываю: Georgia elects the nation’s first Black female governor | https://www.npr.org/2026/11/03/g-s1-151040/georgia-elects-the-nations-
-[2026-11-05 06:01:17] Полный текст получен (3000 символов)
-[2026-11-05 06:01:17] Попытка 1 для: Georgia elects the nation’s first Black 
-[2026-11-05 06:01:21] Успешно, получено 1933 символов
-[2026-11-05 06:01:21] Обрабатываю: How malware and a bogus job interview let attackers nab $6.3 | https://www.washingtonpost.com/technology/2026/11/03/how-malware-bogus
-[2026-11-05 06:01:33] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/technology/2026/11/03/how-mal
-[2026-11-05 06:01:33] Попытка 1 для: How malware and a bogus job interview le
-[2026-11-05 06:01:35] Успешно, получено 1068 символов
-[2026-11-05 06:01:35] Обрабатываю: Premier Tusk Says Poland Foiled Possible Provocation at Russ | https://www.bloomberg.com/news/articles/2026-11-03/premier-tusk-says-p
-[2026-11-05 06:01:35] Попытка 1 для: Premier Tusk Says Poland Foiled Possible
-[2026-11-05 06:01:39] Успешно, получено 950 символов
-[2026-11-05 06:01:39] Обрабатываю: Flights across Europe searched and diverted after hoax bomb  | https://apnews.com/article/europe-flights-bomb-threats-hoaxes-54591e18
-[2026-11-05 06:01:39] Попытка 1 для: Flights across Europe searched and diver
-[2026-11-05 06:01:49] Успешно, получено 964 символов
-[2026-11-05 06:01:53] Пауза 60 секунд...
-[2026-11-05 06:02:53] Пауза 60 секунд...
-[2026-11-05 06:03:54] Пауза 60 секунд...
-[2026-11-05 06:04:54] Обрабатываю: Defence Forces destroy more than 8,000 Russian drones and mi | https://www.ukrinform.net/rubric-ato/4181583-defence-forces-destroy-mo
-[2026-11-05 06:04:55] Полный текст получен (2112 символов)
-[2026-11-05 06:04:55] Попытка 1 для: Defence Forces destroy more than 8,000 R
-[2026-11-05 06:04:59] Успешно, получено 1788 символов
-[2026-11-05 06:04:59] Обрабатываю: Government reinstates extra payments for workers repairing e | https://www.ukrinform.net/rubric-vidbudova/4181555-government-reinstat
-[2026-11-05 06:04:59] Полный текст получен (1999 символов)
-[2026-11-05 06:04:59] Попытка 1 для: Government reinstates extra payments for
-[2026-11-05 06:05:02] Успешно, получено 1781 символов
-[2026-11-05 06:05:02] Обрабатываю: Russo-Ukrainian war, day 1714: Russia launches one of larges | https://euromaidanpress.com/2026/11/04/russo-ukrainian-war-day-1714-ru
-[2026-11-05 06:05:02] Полный текст получен (3000 символов)
-[2026-11-05 06:05:02] Попытка 1 для: Russo-Ukrainian war, day 1714: Russia la
-[2026-11-05 06:05:06] Успешно, получено 1517 символов
-[2026-11-05 06:05:09] Пауза 60 секунд...
-[2026-11-05 06:06:10] Пауза 60 секунд...
-[2026-11-05 06:07:11] sent_urls.txt обрезан: 307 -> 300
-[2026-11-05 06:07:11] === Блок morning завершён ===
-[2026-11-05 06:48:10] Загружено 300 уже отправленных новостей
 [2026-11-05 06:48:10] === Запуск блока: morning (тест: True) ===
 [2026-11-05 06:48:10] Story memory: 104 headlines from the last 96 h
 [2026-11-05 06:48:11] Лента обновлений, пропускаю: S&P 500 futures gain slightly on AMD's s
@@ -2998,3 +2954,47 @@ CrowdStrike launches AI kill switch
 [2026-11-11 08:03:48] Пауза 60 секунд...
 [2026-11-11 08:04:49] sent_urls.txt обрезан: 304 -> 300
 [2026-11-11 08:04:49] === Блок ai_morning завершён ===
+[2026-11-11 11:01:09] Загружено 300 уже отправленных новостей
+[2026-11-11 11:01:09] === Запуск блока: midday (тест: False) ===
+[2026-11-11 11:01:09] Story memory: 98 headlines from the last 96 h
+[2026-11-11 11:01:09] Неизвестный источник (thehackernews.com): Google Issues Chrome Security Update for
+[2026-11-11 11:01:09] Неизвестный источник (nbcsports.com): Kevin O’Connell on potential quarterback
+[2026-11-11 11:01:09] Неизвестный источник (profootballrumors.com): Jaguars Acquire Jordan Davis From Eagles
+[2026-11-11 11:01:09] Неизвестный источник (kcci.com): Fall Out Boy bringing 'Twilight of the P
+[2026-11-11 11:01:09] Неизвестный источник (mashable.com): 'The Ocarina of Time' remake is setting 
+[2026-11-11 11:01:09] Заблокированный источник (sports.yahoo.com): UFC chief declines Trump's White House j
+[2026-11-11 11:01:09] Лента обновлений, пропускаю: S&P 500 futures are little changed as tr
+[2026-11-11 11:01:09] Неизвестный источник (wral.com): Earth is surrounded by millions of piece
+[2026-11-11 11:01:09] Пропускаю уже отправленную: Hegseth impeachment effort begins in House, focuse
+[2026-11-11 11:01:09] Неизвестный источник (houstonchronicle.com): FBI investigating 'suspected homicide' o
+[2026-11-11 11:01:09] Неизвестный источник (macrumors.com): Here's What Apple Fixed in iOS 27.2.1 an
+[2026-11-11 11:01:09] Неизвестный источник (mynbc5.com): Measles cases confirmed in Orleans Count
+[2026-11-11 11:01:09] Неизвестный источник (cbssports.com): Why NFL trade deadline evolved from afte
+[2026-11-11 11:01:09] Неизвестный источник (variety.com): ‘GTA 6’ Presales ‘Far in Excess’ of Expe
+[2026-11-11 11:01:09] Неизвестный источник (nydailynews.com): Megyn Kelly, Elon Musk decry Russell Bra
+[2026-11-11 11:01:09] Неизвестный источник (variety.com): Paul McCartney Becomes a Billionaire, Ma
+[2026-11-11 11:01:09] Неизвестный источник (space.com): NASA chief Jared Isaacman skydives into 
+[2026-11-11 11:01:09] Старая новость (2026-11-08T16:30:01Z): Experimental weight-loss drug eases pain
+[2026-11-11 11:01:09] Старая новость (2026-11-06T13:49:11Z): Wisconsin Reports Its First Infant Death
+[2026-11-11 11:01:09] Мировые новости: найдено 11 после фильтрации
+[2026-11-11 11:01:12] Редакторский отбор: выбраны позиции [9, 6, 4, 5]
+[2026-11-11 11:01:12] Обрабатываю: NASA is hiring astronaut candidates. Some could "live and wo | https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requir
+[2026-11-11 11:01:12] Полный текст получен (3000 символов)
+[2026-11-11 11:01:12] Попытка 1 для: NASA is hiring astronaut candidates. Som
+[2026-11-11 11:01:15] Успешно, получено 1858 символов
+[2026-11-11 11:01:15] Обрабатываю: Hungarian police reportedly detain brother of ex-PM Viktor O | https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-d
+[2026-11-11 11:01:16] Полный текст получен (1519 символов)
+[2026-11-11 11:01:16] Попытка 1 для: Hungarian police reportedly detain broth
+[2026-11-11 11:01:19] Успешно, получено 1650 символов
+[2026-11-11 11:01:19] Обрабатываю: Investigators recover the voice recorder from a jet crash in | https://apnews.com/article/florida-jet-crash-voice-recorder-1f62a51700
+[2026-11-11 11:01:19] Попытка 1 для: Investigators recover the voice recorder
+[2026-11-11 11:01:21] Успешно, получено 879 символов
+[2026-11-11 11:01:21] Обрабатываю: A Haitian 8-year-old was taken by ICE at routine check-in, r | https://www.nbcnews.com/news/us-news/haitian-8-year-old-was-taken-ice-
+[2026-11-11 11:01:21] Полный текст получен (3000 символов)
+[2026-11-11 11:01:21] Попытка 1 для: A Haitian 8-year-old was taken by ICE at
+[2026-11-11 11:01:31] Успешно, получено 1878 символов
+[2026-11-11 11:01:34] Пауза 60 секунд...
+[2026-11-11 11:02:34] Пауза 60 секунд...
+[2026-11-11 11:03:34] Пауза 60 секунд...
+[2026-11-11 11:04:35] sent_urls.txt обрезан: 304 -> 300
+[2026-11-11 11:04:35] === Блок midday завершён ===
