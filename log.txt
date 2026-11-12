@@ -1,48 +1,3 @@
-[2026-11-05 08:01:04] Заблокированный источник (yahoo.com): Supermarket fridges are being hacked acr
-[2026-11-05 08:01:04] Неизвестный источник (scientificamerican.com): The most impractical calculator in the w
-[2026-11-05 08:01:04] Неизвестный источник (observer.com): With UESHIMA MUSEUM, Kankuro Ueshima Mak
-[2026-11-05 08:01:04] Неизвестный источник (decrypt.co): Five Ways North Korea Breaks Into Crypto
-[2026-11-05 08:01:04] Неизвестный источник (bleedingcool.com): The Omega Book #4 Preview: Dad Glitches 
-[2026-11-05 08:01:04] Неизвестный источник (themusicninja.com): Music Industry Launches New Anti-Fraud I
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): IBM puts agentic workloads at the heart 
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): LiveX brings engaging, AI-powered intell
-[2026-11-05 08:01:04] Неизвестный источник (forrester.com): PHP2Shell Had Teeth But The Real Story I
-[2026-11-05 08:01:04] Неизвестный источник (esa.int): ESA opens its new AI Hub
-[2026-11-05 08:01:04] Заблокированный источник (rt-english.com): AI giant hires ex-Pentagon army secretar
-[2026-11-05 08:01:04] Неизвестный источник (telecomtv.com): What’s up with… Verizon, Deutsche Teleko
-[2026-11-05 08:01:04] Неизвестный источник (business-standard.com): India overtakes UK to rank third in Huru
-[2026-11-05 08:01:04] Нет фото: arp-ai 1.0.1
-[2026-11-05 08:01:04] Неизвестный источник (gizmodo.com): This Super El Niño Might Be a Global Dis
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): Snowflake expands agentic AI platform wi
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): Novee’s External Surface Testing checks 
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): Exclusive: Cogent Security’s VR-1.1 mode
-[2026-11-05 08:01:04] Заблокированный источник (journals.plos.org): Risk of cardiovascular events and mortal
-[2026-11-05 08:01:04] Заблокированный источник (journals.plos.org): State-aware adaptive multimodal fusion f
-[2026-11-05 08:01:04] Неизвестный источник (techradar.com): I've spent a week with Apple's new iPad 
-[2026-11-05 08:01:04] Неизвестный источник (pymnts.com): Grab Gets AI Assistance as Revenues Rise
-[2026-11-05 08:01:04] Нет фото: arp-ai added to PyPI
-[2026-11-05 08:01:04] Нет фото: arp-ai 1.0.0
-[2026-11-05 08:01:04] Same story twice in candidates: CrowdStrike launches AI kill switch that it says c
-[2026-11-05 08:01:04] AI news: 20 candidates from quality and trusted outlets
-[2026-11-05 08:01:04] AI news: 20 candidates after filtering
-[2026-11-05 08:01:06] Редакторский отбор: выбраны позиции [1, 16, 5, 8]
-[2026-11-05 08:01:06] Обрабатываю: UK found to be ‘dangerously’ reliant on China for critical m | https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-o
-[2026-11-05 08:01:06] Полный текст получен (3000 символов)
-[2026-11-05 08:01:06] Попытка 1 для: UK found to be ‘dangerously’ reliant on 
-[2026-11-05 08:01:09] Успешно, получено 2035 символов
-[2026-11-05 08:01:09] Обрабатываю: OpenAI is already trying to shape the 2028 election | https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-th
-[2026-11-05 08:01:09] Полный текст получен (3000 символов)
-[2026-11-05 08:01:09] Попытка 1 для: OpenAI is already trying to shape the 20
-[2026-11-05 08:01:14] Успешно, получено 2172 символов
-[2026-11-05 08:01:14] Обрабатываю: Texas was the new epicenter of the AI data center buildout.  | https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-
-[2026-11-05 08:01:14] Полный текст получен (3000 символов)
-[2026-11-05 08:01:14] Попытка 1 для: Texas was the new epicenter of the AI da
-[2026-11-05 08:01:39] Успешно, получено 2010 символов
-[2026-11-05 08:01:39] Обрабатываю: Scare campaigns: Victoria’s major parties trade blows over A | https://www.theguardian.com/australia-news/2026/nov/05/victoria-electi
-[2026-11-05 08:01:39] Текст не совпадает с заголовком, беру описание: https://www.theguardian.com/australia-news/2026/nov/05/victo
-[2026-11-05 08:01:39] Попытка 1 для: Scare campaigns: Victoria’s major partie
-[2026-11-05 08:01:52] Успешно, получено 960 символов
-[2026-11-05 08:01:55] Пауза 60 секунд...
 [2026-11-05 08:02:56] Пауза 60 секунд...
 [2026-11-05 08:03:57] Пауза 60 секунд...
 [2026-11-05 08:04:57] sent_urls.txt обрезан: 304 -> 300
@@ -2998,3 +2953,48 @@ CrowdStrike launches AI kill switch
 [2026-11-12 08:01:04] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-11-12 08:01:04] ⚠️ Блок <b>AI утро</b> (12.11.2026): новостей не найдено!
 [2026-11-12 08:01:05] === Блок ai_morning завершён ===
+[2026-11-12 11:01:03] Загружено 300 уже отправленных новостей
+[2026-11-12 11:01:03] === Запуск блока: midday (тест: False) ===
+[2026-11-12 11:01:03] Story memory: 92 headlines from the last 96 h
+[2026-11-12 11:01:03] Неизвестный источник (hollywoodreporter.com): Dua Lipa, Tame Impala, SZA and Daddy Yan
+[2026-11-12 11:01:03] Неизвестный источник (abc7.com): 3 dead after car crashes into street ven
+[2026-11-12 11:01:03] Пропускаю уже отправленную: Israel’s newly elected parliament is already movin
+[2026-11-12 11:01:03] Неизвестный источник (macrumors.com): 'Apple Support Community' Permanently Cl
+[2026-11-12 11:01:03] Неизвестный источник (usatoday.com): Big Ten, SEC broke college football. Now
+[2026-11-12 11:01:03] Неизвестный источник (usatoday.com): Stacy Keach, 'Mike Hammer' TV actor, die
+[2026-11-12 11:01:03] Неизвестный источник (deadline.com): ‘Dancing With The Stars’ Recap: Dance Of
+[2026-11-12 11:01:03] Неизвестный источник (nhl.com): Hellebuyck says concerns for family, unc
+[2026-11-12 11:01:03] Заблокированный источник (nypost.com): United flight sends out hijack alert aft
+[2026-11-12 11:01:03] Неизвестный источник (cbssports.com): NFL trade deadline: Ranking all 18 in-se
+[2026-11-12 11:01:03] Пропускаю уже отправленную: U.S. charges 3 men with plotting multiple terroris
+[2026-11-12 11:01:03] Неизвестный источник (raiders.com): Fernando Mendoza named Raiders' starting
+[2026-11-12 11:01:03] Неизвестный источник (rollcall.com): Jim Jordan picked as new minority leader
+[2026-11-12 11:01:03] Неизвестный источник (variety.com): DC Studios Exit: James Gunn and Peter Sa
+[2026-11-12 11:01:03] Неизвестный источник (cbs58.com): Ole Miss student under fire for doorbell
+[2026-11-12 11:01:03] Неизвестный источник (9to5google.com): Gemini 4 Carbon rolling out to Gemini ap
+[2026-11-12 11:01:03] Неизвестный источник (sciencedaily.com): Eating less protein could slow aging, re
+[2026-11-12 11:01:03] Неизвестный источник (dallasnews.com): Here's why North Texas is experiencing a
+[2026-11-12 11:01:03] Неизвестный источник (geekspin.co): NASA is paying $164,000 for people to li
+[2026-11-12 11:01:03] Старая новость (2026-11-10T11:00:00Z): NASA's twin ESCAPADE Mars probes slingsh
+[2026-11-12 11:01:03] Старая новость (2026-11-07T14:00:02Z): Theory predicting an older universe with
+[2026-11-12 11:01:03] Мировые новости: найдено 11 после фильтрации
+[2026-11-12 11:01:05] Редакторский отбор: выбраны позиции [2, 8, 9, 3]
+[2026-11-12 11:01:05] Обрабатываю: Spain’s first general strike in 14 years brings clashing soc | https://apnews.com/article/spain-strike-housing-elections-pedro-sanche
+[2026-11-12 11:01:05] Попытка 1 для: Spain’s first general strike in 14 years
+[2026-11-12 11:01:08] Успешно, получено 1002 символов
+[2026-11-12 11:01:08] Обрабатываю: America defeated measles in 2000. Vaccine opposition brought | https://www.nbcnews.com/health/health-news/us-measles-cases-resurgence
+[2026-11-12 11:01:08] Полный текст получен (615 символов)
+[2026-11-12 11:01:08] Попытка 1 для: America defeated measles in 2000. Vaccin
+[2026-11-12 11:01:11] Успешно, получено 1457 символов
+[2026-11-12 11:01:11] Обрабатываю: US Army soldier arrested in UK, suspected of espionage relat | https://www.politico.com/news/2026/11/10/us-army-soldier-russia-espion
+[2026-11-12 11:01:11] Попытка 1 для: US Army soldier arrested in UK, suspecte
+[2026-11-12 11:01:14] Успешно, получено 977 символов
+[2026-11-12 11:01:14] Обрабатываю: U.S. judge says Trump’s $10 billion BBC defamation case can  | https://www.nbcnews.com/politics/trump-administration/us-judge-says-tr
+[2026-11-12 11:01:14] Полный текст получен (2300 символов)
+[2026-11-12 11:01:14] Попытка 1 для: U.S. judge says Trump’s $10 billion BBC 
+[2026-11-12 11:01:21] Успешно, получено 1775 символов
+[2026-11-12 11:01:25] Пауза 60 секунд...
+[2026-11-12 11:02:25] Пауза 60 секунд...
+[2026-11-12 11:03:26] Пауза 60 секунд...
+[2026-11-12 11:04:27] sent_urls.txt обрезан: 304 -> 300
+[2026-11-12 11:04:27] === Блок midday завершён ===
