@@ -1,19 +1,3 @@
-[2026-11-05 08:01:04] Не про ИИ, пропускаю: RobPicker: a meta-learning framework for robust id
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): CrowdStrike to acquire cybersecurity sta
-[2026-11-05 08:01:04] Неизвестный источник (bleedingcool.com): Supernatural: Dean Winchester #2 Preview
-[2026-11-05 08:01:04] Нет фото: conference-agent added to PyPI
-[2026-11-05 08:01:04] Неизвестный источник (activistpost.com): Remember Yesterday: AI For Today and Tom
-[2026-11-05 08:01:04] Неизвестный источник (siliconangle.com): Salesforce to buy customer service autom
-[2026-11-05 08:01:04] Нет фото: aisvs-scanner 1.0.0
-[2026-11-05 08:01:04] Нет фото: aisvs-scanner added to PyPI
-[2026-11-05 08:01:04] Неизвестный источник (dailycaller.com): AI Agents Enter The Battlefield As NATO 
-[2026-11-05 08:01:04] Заблокированный источник (biztoc.com): CrowdStrike launches AI kill switch that
-[2026-11-05 08:01:04] Нет фото: mait-pipeline 0.1.0a3
-[2026-11-05 08:01:04] Неизвестный источник (news.mit.edu): Building connections across the research
-[2026-11-05 08:01:04] Неизвестный источник (blogs.cisco.com): Cisco Live Melbourne: What’s Happening a
-[2026-11-05 08:01:04] Неизвестный источник (pymnts.com): Coupa Card Reaches $50 Million Spend Sin
-[2026-11-05 08:01:04] Неизвестный источник (abcnews.com): European supermarket fridges got hacked.
-[2026-11-05 08:01:04] Заблокированный источник (breitbart.com): Asleep at the Switch: Apple and Google O
 [2026-11-05 08:01:04] Заблокированный источник (yahoo.com): Supermarket fridges are being hacked acr
 [2026-11-05 08:01:04] Неизвестный источник (scientificamerican.com): The most impractical calculator in the w
 [2026-11-05 08:01:04] Неизвестный источник (observer.com): With UESHIMA MUSEUM, Kankuro Ueshima Mak
@@ -2998,3 +2982,19 @@ CrowdStrike launches AI kill switch
 [2026-11-12 06:05:17] Пауза 60 секунд...
 [2026-11-12 06:06:18] sent_urls.txt обрезан: 306 -> 300
 [2026-11-12 06:06:18] === Блок morning завершён ===
+[2026-11-12 08:01:02] Загружено 300 уже отправленных новостей
+[2026-11-12 08:01:02] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-12 08:01:02] Story memory: 96 headlines from the last 96 h
+[2026-11-12 08:01:02] RSS The Guardian: 20 записей
+[2026-11-12 08:01:03] RSS Wired: 10 записей
+[2026-11-12 08:01:03] RSS TechCrunch: 20 записей
+[2026-11-12 08:01:03] RSS Ars Technica: 20 записей
+[2026-11-12 08:01:04] RSS MIT Technology Review: 10 записей
+[2026-11-12 08:01:04] RSS BBC News: 21 записей
+[2026-11-12 08:01:04] RSS IEEE Spectrum: 30 записей
+[2026-11-12 08:01:04] AI feeds: 16 candidates from quality outlets
+[2026-11-12 08:01:04] NewsAPI (AI): пришло 60 статей
+[2026-11-12 08:01:04] Не про ИИ, пропускаю: Inside Dan Schulman’s war on the old Verizon
+[2026-11-12 08:01:04] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-11-12 08:01:04] ⚠️ Блок <b>AI утро</b> (12.11.2026): новостей не найдено!
+[2026-11-12 08:01:05] === Блок ai_morning завершён ===
