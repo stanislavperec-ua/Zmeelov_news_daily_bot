@@ -1,43 +1,3 @@
-[2026-11-06 06:01:09] Заблокированный источник (naturalnews.com): Gridlock for Show: Why a divided federal
-[2026-11-06 06:01:09] Заблокированный источник (naturalnews.com): Ukraine jails woman who exposed Azov “to
-[2026-11-06 06:01:09] Нет фото: World leaders who sparred with Trump exp
-[2026-11-06 06:01:09] Заблокированный источник (biztoc.com): Three injured in Russian attacks on Dnip
-[2026-11-06 06:01:09] Заблокированный источник (biztoc.com): Ukraine aid cannot hinge on EU budget, s
-[2026-11-06 06:01:09] Нет фото: US military risks falling behind in race
-[2026-11-06 06:01:09] Заблокированный источник (biztoc.com): Aaron Maté: CIA Still Runs 12 Secret Bor
-[2026-11-06 06:01:09] Заблокированный источник (biztoc.com): Butane’s Perfect Storm Sends Prices to D
-[2026-11-06 06:01:09] Спорт, пропускаю: Every player from California to play for
-[2026-11-06 06:01:09] Заблокированный источник (rt-english.com): ‘Operation Midas’ concludes: How Ukraine
-[2026-11-06 06:01:09] Заблокированный источник (dailymail.com): DAILY MAIL COMMENT: As Republicans suffe
-[2026-11-06 06:01:09] Нет фото: Death toll hits 40 after Russian strike 
-[2026-11-06 06:01:09] Same story twice in candidates: Defense Forces neutralize more than 90% of Russian
-[2026-11-06 06:01:09] Same story twice in candidates: Ukrainian troops capture Russian soldier wearing U
-[2026-11-06 06:01:09] Same story twice in candidates: Additional EUR 70B for Ukraine: Zelensky reports p
-[2026-11-06 06:01:09] Same story twice in candidates: Over 600 hectares cleared of Russian forces: Ukrai
-[2026-11-06 06:01:09] Same story twice in candidates: Russia has begun conscripting abducted Ukrainian c
-[2026-11-06 06:01:09] Same story twice in candidates: Five suspects in Carthage case notified of charges
-[2026-11-06 06:01:09] Same story twice in candidates: Russian drones attack Dnipropetrovsk region, injur
-[2026-11-06 06:01:09] Same story twice in candidates: Zelensky speaks to US envoys ahead of Russia talks
-[2026-11-06 06:01:09] Украинские новости: найдено 82 после фильтрации
-[2026-11-06 06:01:13] Редакторский отбор: выбраны позиции [14, 19]
-[2026-11-06 06:01:13] NewsAPI (Харьков, все издания): пришло 8 статей
-[2026-11-06 06:01:14] RSS Ukrinform: 30 записей
-[2026-11-06 06:01:15] RSS Ukrinform: 30 записей
-[2026-11-06 06:01:15] RSS Euromaidan Press: 29 записей
-[2026-11-06 06:01:15] Заблокированный источник (naturalnews.com): Russian warships enter Black Sea as nava
-[2026-11-06 06:01:15] Заблокированный источник (dailymail.com): Melania Trump is awarded state honour by
-[2026-11-06 06:01:15] Not a news item (listing, forum post), skipping: Internship QA Automation — Grid Dynamics
-[2026-11-06 06:01:15] Старая новость (2026-11-04T02:19:24Z): A fake torture chamber, a real riot: Rus
-[2026-11-06 06:01:15] Старая новость (2026-11-03T22:33:51Z): Russo-Ukrainian war, day 1714: Russia la
-[2026-11-06 06:01:15] Старая новость (2026-11-03T22:25:00Z): One of largest Russian attacks yet on Uk
-[2026-11-06 06:01:15] Старая новость (2026-11-03T22:10:50Z): Ukraine buils 6-kilometer tunnel under R
-[2026-11-06 06:01:15] Харьков: новостей не найдено
-[2026-11-06 06:01:15] Обрабатываю: Ukraine says bodycam video shows deadly Russian double-tap b | https://www.bbc.com/news/articles/c98rz6penv86o
-[2026-11-06 06:01:16] Полный текст получен (3000 символов)
-[2026-11-06 06:01:16] Попытка 1 для: Ukraine says bodycam video shows deadly 
-[2026-11-06 06:01:19] Успешно, получено 1520 символов
-[2026-11-06 06:01:19] Обрабатываю: Vance says voters want to ‘end the war,’ change Israel relat | https://www.washingtonpost.com/politics/2026/11/04/vance-blames-republ
-[2026-11-06 06:01:31] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/11/04/vance-bla
 [2026-11-06 06:01:31] Попытка 1 для: Vance says voters want to ‘end the war,’
 [2026-11-06 06:01:33] Успешно, получено 988 символов
 [2026-11-06 06:01:33] Обрабатываю: Asian Stocks to Rise as Oil Slides After US Vote: Markets Wr | https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-
@@ -2998,3 +2958,43 @@ CrowdStrike launches AI kill switch
 [2026-11-13 08:01:04] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
 [2026-11-13 08:01:04] ⚠️ Блок <b>AI утро</b> (13.11.2026): новостей не найдено!
 [2026-11-13 08:01:05] === Блок ai_morning завершён ===
+[2026-11-13 11:01:06] Загружено 300 уже отправленных новостей
+[2026-11-13 11:01:06] === Запуск блока: midday (тест: False) ===
+[2026-11-13 11:01:06] Story memory: 86 headlines from the last 96 h
+[2026-11-13 11:01:06] Неизвестный источник (eonline.com): Mormon Wives ' Aspyn Ovard Shares Daught
+[2026-11-13 11:01:06] Лента обновлений, пропускаю: Dangerous search for survivors continues
+[2026-11-13 11:01:06] Неизвестный источник (variety.com): Russell Brand’s Instagram Account Remove
+[2026-11-13 11:01:06] Неизвестный источник (pbs.org): White House threatens Democrats over pla
+[2026-11-13 11:01:06] Неизвестный источник (espn.com): MMA stars Merab Dvalishvili, Usman Nurma
+[2026-11-13 11:01:06] Пропускаю уже отправленную: Ebola tops 11,000 cases in Congo’s deadliest outbr
+[2026-11-13 11:01:06] Неизвестный источник (kcci.com): New measles case confirmed in central Io
+[2026-11-13 11:01:06] Неизвестный источник (nbcsports.com): Nolan Teasley: This roster has "earned t
+[2026-11-13 11:01:06] Заблокированный источник (sports.yahoo.com): Manchester United makes formal contact w
+[2026-11-13 11:01:06] Неизвестный источник (hollywoodreporter.com): Amanda Seyfried Talks You Can See Everyt
+[2026-11-13 11:01:06] Неизвестный источник (cbssports.com): Agent's Take: Three NFL trade deadline d
+[2026-11-13 11:01:06] Неизвестный источник (9to5google.com): Google Wallet rolling out digital Google
+[2026-11-13 11:01:06] Неизвестный источник (gizmodo.com): Intel’s Gonna Have a Hard Time Beating A
+[2026-11-13 11:01:06] Неизвестный источник (forbes.com): ‘GTA 6’ Pre-Loads Are Slowing Down The I
+[2026-11-13 11:01:06] Неизвестный источник (theregister.com): NASA asks Earthlings to wave as Voyager 
+[2026-11-13 11:01:06] Мировые новости: найдено 15 после фильтрации
+[2026-11-13 11:01:09] Редакторский отбор: выбраны позиции [3, 10, 13, 9]
+[2026-11-13 11:01:09] Обрабатываю: Israeli strike on hospital kills at least five Palestinians, | https://www.bbc.com/news/articles/ckzd9p7e4eqeo
+[2026-11-13 11:01:09] Полный текст получен (3000 символов)
+[2026-11-13 11:01:09] Попытка 1 для: Israeli strike on hospital kills at leas
+[2026-11-13 11:01:12] Успешно, получено 1647 символов
+[2026-11-13 11:01:12] Обрабатываю: ‘The only way to get this done’: Why the US wants Europe at  | https://www.politico.eu/article/why-the-us-wants-europe-at-ukraine-tal
+[2026-11-13 11:01:13] Полный текст получен (3000 символов)
+[2026-11-13 11:01:13] Попытка 1 для: ‘The only way to get this done’: Why the
+[2026-11-13 11:01:16] Успешно, получено 1670 символов
+[2026-11-13 11:01:16] Обрабатываю: CDC chief: No measles response change if elimination status  | https://thehill.com/policy/healthcare/6213788-cdc-responds-measles-eli
+[2026-11-13 11:01:16] Попытка 1 для: CDC chief: No measles response change if
+[2026-11-13 11:01:22] Успешно, получено 1075 символов
+[2026-11-13 11:01:22] Обрабатываю: Why is gasoline suddenly under $4 a gallon? | https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-do
+[2026-11-13 11:01:23] Полный текст получен (3000 символов)
+[2026-11-13 11:01:23] Попытка 1 для: Why is gasoline suddenly under $4 a gall
+[2026-11-13 11:01:34] Успешно, получено 2119 символов
+[2026-11-13 11:01:38] Пауза 60 секунд...
+[2026-11-13 11:02:38] Пауза 60 секунд...
+[2026-11-13 11:03:39] Пауза 60 секунд...
+[2026-11-13 11:04:40] sent_urls.txt обрезан: 304 -> 300
+[2026-11-13 11:04:40] === Блок midday завершён ===
