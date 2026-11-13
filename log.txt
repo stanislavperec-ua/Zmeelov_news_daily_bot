@@ -1,74 +1,3 @@
-[2026-11-06 08:01:07] Успешно, получено 1845 символов
-[2026-11-06 08:01:07] Обрабатываю: Palo Alto Networks in talks to buy AI agent security startup | https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-a
-[2026-11-06 08:01:07] Полный текст получен (2284 символов)
-[2026-11-06 08:01:07] Попытка 1 для: Palo Alto Networks in talks to buy AI ag
-[2026-11-06 08:01:09] Успешно, получено 1605 символов
-[2026-11-06 08:01:09] Обрабатываю: Lawsuit: Man introduced his wife to ChatGPT. She used it to  | https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his
-[2026-11-06 08:01:10] Полный текст получен (3000 символов)
-[2026-11-06 08:01:10] Попытка 1 для: Lawsuit: Man introduced his wife to Chat
-[2026-11-06 08:01:15] Успешно, получено 1852 символов
-[2026-11-06 08:01:15] Обрабатываю: Meta warns that election backlash against data centers could | https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-a
-[2026-11-06 08:01:15] Полный текст получен (3000 символов)
-[2026-11-06 08:01:15] Попытка 1 для: Meta warns that election backlash agains
-[2026-11-06 08:01:36] Успешно, получено 1924 символов
-[2026-11-06 08:01:39] Пауза 60 секунд...
-[2026-11-06 08:02:40] Пауза 60 секунд...
-[2026-11-06 08:03:40] Пауза 60 секунд...
-[2026-11-06 08:04:41] sent_urls.txt обрезан: 304 -> 300
-[2026-11-06 08:04:41] === Блок ai_morning завершён ===
-[2026-11-06 11:01:00] Загружено 300 уже отправленных новостей
-[2026-11-06 11:01:00] === Запуск блока: midday (тест: False) ===
-[2026-11-06 11:01:00] Story memory: 102 headlines from the last 96 h
-[2026-11-06 11:01:00] Неизвестный источник (espn.com): Wembanyama has career night with 52 poin
-[2026-11-06 11:01:00] Неизвестный источник (hollywoodreporter.com): Six Hollywood Consequences of Tuesday’s 
-[2026-11-06 11:01:00] Неизвестный источник (twz.com): NASA Announces X-70 "Fractal" Experiment
-[2026-11-06 11:01:00] Неизвестный источник (pagesix.com): ‘Breaking Bad’ star Dean Norris’ secret 
-[2026-11-06 11:01:00] Неизвестный источник (cbssports.com): Malachi Toney expected to undergo surger
-[2026-11-06 11:01:00] Неизвестный источник (ew.com): ‘Secret Lives of Mormon Wives’ star Jen 
-[2026-11-06 11:01:00] Неизвестный источник (usatoday.com): Meet the record 5 Black governors electe
-[2026-11-06 11:01:00] Неизвестный источник (mlbtraderumors.com): Free Agent Rankings: The Next 10 - MLB T
-[2026-11-06 11:01:00] Пропускаю уже отправленную: Ukraine says bodycam video shows deadly Russian do
-[2026-11-06 11:01:00] Пропускаю уже отправленную: France: Cyberattack targets blood bank refrigerato
-[2026-11-06 11:01:00] Неизвестный источник (channel3000.com): Measles spreads to Columbia County - Cha
-[2026-11-06 11:01:00] Неизвестный источник (gsmarena.com): Google Maps update makes the app fully i
-[2026-11-06 11:01:00] Неизвестный источник (androidcentral.com): Motorola could be bringing back a famili
-[2026-11-06 11:01:00] Неизвестный источник (404media.co): American Voters Overwhelmingly Reject AI
-[2026-11-06 11:01:00] Неизвестный источник (nintendoeverything.com): The Legend of Zelda Ocarina of Time 1.1.
-[2026-11-06 11:01:00] Мировые новости: найдено 13 после фильтрации
-[2026-11-06 11:01:02] Редакторский отбор: выбраны позиции [2, 5, 4, 3]
-[2026-11-06 11:01:02] Обрабатываю: Stock futures mixed after big rally following Democrats' dec | https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html
-[2026-11-06 11:01:02] Полный текст получен (3000 символов)
-[2026-11-06 11:01:02] Попытка 1 для: Stock futures mixed after big rally foll
-[2026-11-06 11:01:05] Успешно, получено 1824 символов
-[2026-11-06 11:01:05] Обрабатываю: UK commits to 'time-bound' talks on slavery apology | https://www.bbc.com/news/articles/cqdr872jkk7vo
-[2026-11-06 11:01:05] Полный текст получен (2473 символов)
-[2026-11-06 11:01:05] Попытка 1 для: UK commits to 'time-bound' talks on slav
-[2026-11-06 11:01:08] Успешно, получено 1780 символов
-[2026-11-06 11:01:08] Обрабатываю: 2 Native American women make history in 2026 midterm electio | https://www.cbsnews.com/news/deb-haaland-peggy-flanagan-native-america
-[2026-11-06 11:01:09] Полный текст получен (3000 символов)
-[2026-11-06 11:01:09] Попытка 1 для: 2 Native American women make history in 
-[2026-11-06 11:01:14] Успешно, получено 1818 символов
-[2026-11-06 11:01:14] Обрабатываю: Pennsylvania reports 6th measles-associated death | https://www.washingtonpost.com/health/2026/11/04/sixth-person-dies-pen
-[2026-11-06 11:01:26] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/11/04/sixth-perso
-[2026-11-06 11:01:26] Попытка 1 для: Pennsylvania reports 6th measles-associa
-[2026-11-06 11:01:28] Успешно, получено 739 символов
-[2026-11-06 11:01:31] Пауза 60 секунд...
-[2026-11-06 11:02:31] Пауза 60 секунд...
-[2026-11-06 11:03:32] Пауза 60 секунд...
-[2026-11-06 11:04:32] sent_urls.txt обрезан: 304 -> 300
-[2026-11-06 11:04:32] === Блок midday завершён ===
-[2026-11-06 16:01:01] Загружено 300 уже отправленных новостей
-[2026-11-06 16:01:01] === Запуск блока: evening (тест: False) ===
-[2026-11-06 16:01:01] Story memory: 102 headlines from the last 96 h
-[2026-11-06 16:01:02] Заблокированный источник (sports.yahoo.com): Victor Wembanyama makes NBA history with
-[2026-11-06 16:01:02] Неизвестный источник (usatoday.com): She thought her Hinge match’s photo look
-[2026-11-06 16:01:02] Неизвестный источник (usatoday.com): Rare diagnosis could explain Lions LB Ja
-[2026-11-06 16:01:02] Неизвестный источник (espn.com): What 18 contenders should do at the NFL 
-[2026-11-06 16:01:02] Спорт, пропускаю: Owono left out of Eq Guinea squad after 
-[2026-11-06 16:01:02] Заблокированный источник (finance.yahoo.com): S&P 500 futures steady after midterm ral
-[2026-11-06 16:01:02] Неизвестный источник (foxnews.com): Republicans turn on Trump after devastat
-[2026-11-06 16:01:02] Неизвестный источник (space.com): NASA's Swift space telescope crashes bac
-[2026-11-06 16:01:02] Неизвестный источник (hollywoodreporter.com): 'Black Doves' Season 2 Review: Keira Kni
 [2026-11-06 16:01:02] Неизвестный источник (hollywoodreporter.com): Six Hollywood Consequences of Tuesday’s 
 [2026-11-06 16:01:02] Неизвестный источник (phys.org): European orbiter detects fresh hints of 
 [2026-11-06 16:01:02] Неизвестный источник (variety.com): ‘The Secret Lives of Mormon Wives’ Star 
@@ -2998,3 +2927,74 @@
 [2026-11-13 16:05:30] Пауза 60 секунд...
 [2026-11-13 16:06:30] sent_urls.txt обрезан: 306 -> 300
 [2026-11-13 16:06:30] === Блок evening завершён ===
+[2026-11-13 18:01:03] Загружено 300 уже отправленных новостей
+[2026-11-13 18:01:03] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-13 18:01:03] Story memory: 89 headlines from the last 96 h
+[2026-11-13 18:01:03] RSS The Guardian: 20 записей
+[2026-11-13 18:01:03] RSS Wired: 10 записей
+[2026-11-13 18:01:04] RSS TechCrunch: 20 записей
+[2026-11-13 18:01:04] RSS Ars Technica: 20 записей
+[2026-11-13 18:01:04] RSS MIT Technology Review: 10 записей
+[2026-11-13 18:01:04] RSS BBC News: 21 записей
+[2026-11-13 18:01:05] RSS IEEE Spectrum: 30 записей
+[2026-11-13 18:01:05] AI feeds: 22 candidates from quality outlets
+[2026-11-13 18:01:05] NewsAPI (AI): пришло 59 статей
+[2026-11-13 18:01:05] Неизвестный источник (pymnts.com): Fiserv Readies One of Its Two Debit Netw
+[2026-11-13 18:01:05] Неизвестный источник (cryptoslate.com): Zcash loses $1,000 as dormant wallets se
+[2026-11-13 18:01:05] Неизвестный источник (snopes.com): Does video show Hegseth's group being re
+[2026-11-13 18:01:05] Неизвестный источник (pymnts.com): Paysafe Flags Payments Slowdown as Digit
+[2026-11-13 18:01:05] Неизвестный источник (nextgov.com): CMS CIO to leave agency at end of month
+[2026-11-13 18:01:05] Нет фото: feagi 2.16.18
+[2026-11-13 18:01:05] Неизвестный источник (techradar.com): Whoop launches Strava-like 'Humans' netw
+[2026-11-13 18:01:05] Неизвестный источник (en.antaranews.com): Germany, Indonesia explore news cooperat
+[2026-11-13 18:01:05] Неизвестный источник (english.khabarhub.com): The Growing Strategic Reach of China’s C
+[2026-11-13 18:01:05] Заблокированный источник (yahoo.com): Chinese university bought advanced Nvidi
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Agile Robots raises $500M funding led by
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Vanta launches AI Governance, Risk Quant
+[2026-11-13 18:01:05] Не про ИИ, пропускаю: Jensen Huang is out: Read the internal memos
+[2026-11-13 18:01:05] Нет фото: Nvidia live updates: Jensen Huang resign
+[2026-11-13 18:01:05] Неизвестный источник (thehindubusinessline.com): Star Health bets on Young Star Neo to ex
+[2026-11-13 18:01:05] Неизвестный источник (cryptoslate.com): Bitcoin plunges to $71k as Jensen Huang 
+[2026-11-13 18:01:05] Заблокированный источник (thegatewaypundit.com): Can Algorithms Pave the Way to Stealing 
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): With $23M in funding, Luminal is the lat
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Computer vision startup Tristar AI pulls
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Nvidia CEO Jensen Huang resigns followin
+[2026-11-13 18:01:05] Не про ИИ, пропускаю: Nvidia CEO Jensen Huang Resigns
+[2026-11-13 18:01:05] Неизвестный источник (wccftech.com): Jensen Huang Steps Down As NVIDIA CEO, A
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Exclusive: Menlo IRIS extension gives se
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Clipto enables ChatGPT and Claude to sea
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): ServiceNow launches AI-powered engine to
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Square takes Squaremates AI agent out of
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Qvyon launches with $8M to improve safet
+[2026-11-13 18:01:05] Заблокированный источник (journals.plos.org): Mobility-state- and handover-direction-a
+[2026-11-13 18:01:05] Заблокированный источник (journals.plos.org): RPDL-YOLO: An efficient YOLOv8 framework
+[2026-11-13 18:01:05] Заблокированный источник (journals.plos.org): Neural integration of acoustic statistic
+[2026-11-13 18:01:05] Не про ИИ, пропускаю: Jensen Huang Resigns as Nvidia CEO
+[2026-11-13 18:01:05] Неизвестный источник (onefootball.com): Not in our living room: Watzke on the Nm
+[2026-11-13 18:01:05] Неизвестный источник (thehindubusinessline.com): Star Health bets on Young Star Neo to ex
+[2026-11-13 18:01:05] Нет фото: It Was A Coup
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Hatz AI raises $24M to help small busine
+[2026-11-13 18:01:05] Неизвестный источник (en.protothema.gr): Waiter remanded in custody over €206m Th
+[2026-11-13 18:01:05] Неизвестный источник (sciencedaily.com): AI-powered bionic eye breakthrough could
+[2026-11-13 18:01:05] Не про ИИ, пропускаю: Catching rogue agents and preventing cyberattacks—
+[2026-11-13 18:01:05] Неизвестный источник (economictimes.indiatimes.com): Rajnath Singh calls for stronger defensi
+[2026-11-13 18:01:05] Неизвестный источник (cointelegraph.com): Ethlabs drops Hegotá slot proposal in pu
+[2026-11-13 18:01:05] Неизвестный источник (siliconangle.com): Nebuly wants to help enterprises underst
+[2026-11-13 18:01:05] Неизвестный источник (warontherocks.com): The Promise of Biomanufacturing at the E
+[2026-11-13 18:01:05] Неизвестный источник (cbc.ca): How China gets around the U.S. ban on Nv
+[2026-11-13 18:01:05] Not a news item (listing, forum post), skipping: Show HN: MetaArena – Compare & Rank 5,35
+[2026-11-13 18:01:05] Неизвестный источник (punchng.com): Chinese university buys Nvidia AI chips 
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): From Chicago to Miami: How billionaire K
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): Ibrahim Ali Khan turns heads in Bharat R
+[2026-11-13 18:01:05] Неизвестный источник (en.antaranews.com): Universiti Teknologi Malaysia ranks 25th
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): Amrit Bharat Express 3.0: Indian Railway
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): ‘No bulldozers can silence me’: Abhishek
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): The Weekly Vine, Edition 115: The South 
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): RRB Group D result 2026 expected to be r
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): Bhojpuri songs ahead of Chhath Puja at M
+[2026-11-13 18:01:05] Неизвестный источник (timesofindia.indiatimes.com): Haryana man shot dead inside car: 2 arre
+[2026-11-13 18:01:05] Неизвестный источник (ing.dk): From 14 days to 20 seconds: How TDC Erhv
+[2026-11-13 18:01:05] Неизвестный источник (channelnewsasia.com): Chinese university bought advanced Nvidi
+[2026-11-13 18:01:05] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-11-13 18:01:05] ⚠️ Блок <b>AI вечер</b> (13.11.2026): новостей не найдено!
+[2026-11-13 18:01:06] === Блок ai_evening завершён ===
