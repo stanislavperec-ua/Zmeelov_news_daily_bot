@@ -1,48 +1,3 @@
-[2026-11-07 06:01:04] Загружено 300 уже отправленных новостей
-[2026-11-07 06:01:04] === Запуск блока: morning (тест: False) ===
-[2026-11-07 06:01:04] Story memory: 94 headlines from the last 96 h
-[2026-11-07 06:01:04] Лента обновлений, пропускаю: 2026 midterm election live updates as De
-[2026-11-07 06:01:04] Лента обновлений, пропускаю: Stock futures mixed after Nasdaq correct
-[2026-11-07 06:01:04] Неизвестный источник (sciencealert.com): After 42 Years of Searching, Physicists 
-[2026-11-07 06:01:04] Неизвестный источник (9to5mac.com): Apple explains how to turn off the new M
-[2026-11-07 06:01:04] Неизвестный источник (pitchfork.com): Listen To Olivia Rodrigo’s New Song “Tak
-[2026-11-07 06:01:04] Неизвестный источник (macrumors.com): Apple Surveys iPhone Duo Buyers About Cr
-[2026-11-07 06:01:04] Заблокированный источник (yahoo.com): Russell Brand found guilty of rape and s
-[2026-11-07 06:01:04] Неизвестный источник (stylecaster.com): Travis Kelce Shares New Marriage Update 
-[2026-11-07 06:01:04] Лента обновлений, пропускаю: France strikes: largest day of protests 
-[2026-11-07 06:01:04] Неизвестный источник (instyle.com): North West Looks So Different With Icy B
-[2026-11-07 06:01:04] Неизвестный источник (silverscreenandroll.com): The Lakers are ‘surfing the wave’ of Luk
-[2026-11-07 06:01:04] Неизвестный источник (sbnation.com): NFL trade rumor updates on Colts, Cowboy
-[2026-11-07 06:01:04] Неизвестный источник (thecut.com): Mormon Wives Star Jen Affleck Has Filed 
-[2026-11-07 06:01:04] Старая новость (2026-11-05T05:37:10Z): NASA's Swift space telescope plunges bac
-[2026-11-07 06:01:04] Старая новость (2026-11-05T00:40:07Z): European orbiter detects fresh hints of 
-[2026-11-07 06:01:04] Старая новость (2026-11-04T18:00:00Z): ‘Enough Phone’ is an Android phone rough
-[2026-11-07 06:01:04] Мировые новости: найдено 14 после фильтрации
-[2026-11-07 06:01:07] Редакторский отбор: выбраны позиции [6, 12, 3, 9]
-[2026-11-07 06:01:08] RSS Ukrinform: 30 записей
-[2026-11-07 06:01:10] RSS Ukrinform: 30 записей
-[2026-11-07 06:01:10] Пропускаю уже отправленную: Zelensky: Kyiv facing most severe electricity and 
-[2026-11-07 06:01:10] Пропускаю уже отправленную: Bodies of 53 people recovered from rubble of under
-[2026-11-07 06:01:10] RSS Euromaidan Press: 29 записей
-[2026-11-07 06:01:10] NewsAPI (мировые про Украину): пришло 50 статей
-[2026-11-07 06:01:10] Заблокированный источник (naturalnews.com): Is the blank-check era ending? Kushnerâ
-[2026-11-07 06:01:10] Заблокированный источник (naturalnews.com): U.S. absence at Brussels Ukraine talks r
-[2026-11-07 06:01:10] Заблокированный источник (naturalnews.com): Sherrill Defies Trump, Warns NJ Ports Ag
-[2026-11-07 06:01:10] Заблокированный источник (naturalnews.com): Report: Marco Rubio Expected to Leave Tr
-[2026-11-07 06:01:10] Заблокированный источник (naturalnews.com): Gasoline and Diesel Prices Set Election 
-[2026-11-07 06:01:10] Заблокированный источник (biztoc.com): Moscow Seizes Japan Tobacco’s Russia Fac
-[2026-11-07 06:01:10] Заблокированный источник (biztoc.com): Russia strikes Ukraine's Sumy power subs
-[2026-11-07 06:01:10] Нет фото: Security guarantees for Ukraine top agen
-[2026-11-07 06:01:10] Заблокированный источник (sports.yahoo.com): LSU breaks Division I record with 131-22
-[2026-11-07 06:01:10] Нет фото: The Battle for the Future of MAGA Begins
-[2026-11-07 06:01:10] Заблокированный источник (dailymail.com): Nigel Farage blasts President Donald Tru
-[2026-11-07 06:01:10] Нет фото: Melania Trump calls for ‘enduring’ Russi
-[2026-11-07 06:01:10] Заблокированный источник (rt-english.com): Trump teases sweeping deal after meeting
-[2026-11-07 06:01:10] Нет фото: Are There Any Honest Mathematicians in A
-[2026-11-07 06:01:10] Нет фото: Melania Trump calls for lasting Ukraine 
-[2026-11-07 06:01:10] Заблокированный источник (biztoc.com): News Wrap: Head of Justice Department's 
-[2026-11-07 06:01:10] Заблокированный источник (rt-english.com): Russia hawk appointed as Germany’s top c
-[2026-11-07 06:01:10] Нет фото: Mission Accomplished – As Expected, Gas 
 [2026-11-07 06:01:10] Заблокированный источник (dailymail.com): Labour MP savages Burnham's 'hypocritica
 [2026-11-07 06:01:10] Same story twice in candidates: Budanov to lead Ukrainian delegation at talks in A
 [2026-11-07 06:01:10] Same story twice in candidates: Injury toll in Russian ballistic attack on Kyiv ri
@@ -2998,3 +2953,48 @@
 [2026-11-14 08:03:47] Пауза 60 секунд...
 [2026-11-14 08:04:47] sent_urls.txt обрезан: 304 -> 300
 [2026-11-14 08:04:47] === Блок ai_morning завершён ===
+[2026-11-14 11:00:59] Загружено 300 уже отправленных новостей
+[2026-11-14 11:00:59] === Запуск блока: midday (тест: False) ===
+[2026-11-14 11:00:59] Story memory: 84 headlines from the last 96 h
+[2026-11-14 11:01:00] Лента обновлений, пропускаю: Global Microsoft outage leaves millions 
+[2026-11-14 11:01:00] Неизвестный источник (nbcsports.com): Thursday Night Football: Stefon Diggs’ l
+[2026-11-14 11:01:00] Лента обновлений, пропускаю: Stock futures rise after market dips ami
+[2026-11-14 11:01:00] Пропускаю уже отправленную: D.C. gunman attributed attack to frustrations with
+[2026-11-14 11:01:00] Неизвестный источник (espn.com): Cubs' Pete Crow-Armstrong, Astros' Yorda
+[2026-11-14 11:01:00] Неизвестный источник (hollywoodreporter.com): New Clarity About Amanda Seyfried’s ‘You
+[2026-11-14 11:01:00] Пропускаю уже отправленную: Lutnick should have prevented the diversion of sen
+[2026-11-14 11:01:00] Неизвестный источник (pbs.org): Cindy Holscher wins election for Kansas 
+[2026-11-14 11:01:00] Неизвестный источник (theintercept.com): Oklahoma Drops Murder Charge Against Ric
+[2026-11-14 11:01:00] Неизвестный источник (mmafighting.com): Amanda Nunes reveals her toughest oppone
+[2026-11-14 11:01:00] Неизвестный источник (pushsquare.com): Xbox Wants You to Revisit Halo: Campaign
+[2026-11-14 11:01:00] Неизвестный источник (hollywoodreporter.com): “Evil All Along”: How Russell Brand Got 
+[2026-11-14 11:01:00] Неизвестный источник (space.com): Dark matter breakthrough coming? Euclid 
+[2026-11-14 11:01:00] Неизвестный источник (people.com): Dolly Parton’s Final Vocals Featured on 
+[2026-11-14 11:01:00] Неизвестный источник (pcmag.com): Apple TV 4K (2026) Review: Hands-Free Si
+[2026-11-14 11:01:00] Пропускаю уже отправленную: Ebola in DR Congo: Millions of dollars going missi
+[2026-11-14 11:01:00] Старая новость (2026-11-12T10:06:18Z): A dead star is flashing radio waves ever
+[2026-11-14 11:01:00] Старая новость (2026-11-12T10:04:16Z): ‘Stop obsessing over eight hours’: New s
+[2026-11-14 11:01:00] Старая новость (2026-11-11T14:13:20Z): NASA asks Earthlings to wave as Voyager 
+[2026-11-14 11:01:00] Старая новость (2026-11-10T02:16:58Z): Earth is surrounded by millions of piece
+[2026-11-14 11:01:00] Мировые новости: найдено 10 после фильтрации
+[2026-11-14 11:01:02] Редакторский отбор: выбраны позиции [5, 2, 4, 3]
+[2026-11-14 11:01:02] Обрабатываю: US envoys meet with Putin in Moscow on Ukraine talks, then s | https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-68
+[2026-11-14 11:01:02] Попытка 1 для: US envoys meet with Putin in Moscow on U
+[2026-11-14 11:01:05] Успешно, получено 887 символов
+[2026-11-14 11:01:05] Обрабатываю: Chris Van Hollen says he will challenge Chuck Schumer for Se | https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-sc
+[2026-11-14 11:01:05] Полный текст получен (3000 символов)
+[2026-11-14 11:01:05] Попытка 1 для: Chris Van Hollen says he will challenge 
+[2026-11-14 11:01:07] Успешно, получено 1832 символов
+[2026-11-14 11:01:07] Обрабатываю: Hegseth awards medal to soldier who admonished him, his team | https://www.washingtonpost.com/national-security/2026/11/12/hegseth-aw
+[2026-11-14 11:01:19] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/national-security/2026/11/12/
+[2026-11-14 11:01:19] Попытка 1 для: Hegseth awards medal to soldier who admo
+[2026-11-14 11:01:22] Успешно, получено 972 символов
+[2026-11-14 11:01:22] Обрабатываю: What we know about Brooklyn building collapse that killed ei | https://www.bbc.com/news/articles/cm20v66jq611o
+[2026-11-14 11:01:22] Полный текст получен (3000 символов)
+[2026-11-14 11:01:22] Попытка 1 для: What we know about Brooklyn building col
+[2026-11-14 11:01:26] Успешно, получено 1783 символов
+[2026-11-14 11:01:28] Пауза 60 секунд...
+[2026-11-14 11:02:29] Пауза 60 секунд...
+[2026-11-14 11:03:29] Пауза 60 секунд...
+[2026-11-14 11:04:30] sent_urls.txt обрезан: 304 -> 300
+[2026-11-14 11:04:30] === Блок midday завершён ===
