@@ -1,98 +1,3 @@
-[2026-11-06 16:06:23] === Блок evening завершён ===
-[2026-11-06 18:01:02] Загружено 300 уже отправленных новостей
-[2026-11-06 18:01:02] === Запуск блока: ai_evening (тест: False) ===
-[2026-11-06 18:01:02] Story memory: 101 headlines from the last 96 h
-[2026-11-06 18:01:02] RSS The Guardian: 20 записей
-[2026-11-06 18:01:02] RSS Wired: 10 записей
-[2026-11-06 18:01:02] RSS TechCrunch: 20 записей
-[2026-11-06 18:01:03] RSS Ars Technica: 20 записей
-[2026-11-06 18:01:04] RSS MIT Technology Review: 10 записей
-[2026-11-06 18:01:04] RSS BBC News: 21 записей
-[2026-11-06 18:01:04] RSS IEEE Spectrum: 30 записей
-[2026-11-06 18:01:04] Лента обновлений, пропускаю: US tech stocks recovering on Wall Street
-[2026-11-06 18:01:04] AI feeds: 28 candidates from quality outlets
-[2026-11-06 18:01:05] NewsAPI (AI): пришло 59 статей
-[2026-11-06 18:01:05] Неизвестный источник (socialnomics.net): How Social Media Has Changed Over the La
-[2026-11-06 18:01:05] Неизвестный источник (cbssports.com): Jason Eck nearly quit coaching to sell t
-[2026-11-06 18:01:05] Неизвестный источник (en.protothema.gr): Why European flights are being targeted 
-[2026-11-06 18:01:05] Нет фото: mindupload 1.15.34
-[2026-11-06 18:01:05] Неизвестный источник (ibtimes.com.au): Elon Musk's SpaceX Stock Tumbles 9% as D
-[2026-11-06 18:01:05] Неизвестный источник (researchbuzz.me): Communist-Era Hungary, Australia Nationa
-[2026-11-06 18:01:05] Неизвестный источник (thehackernews.com): Researchers Bypass ChatGPT Lockdown Mode
-[2026-11-06 18:01:05] Неизвестный источник (kpbs.org): Community colleges rush to expand semico
-[2026-11-06 18:01:05] Неизвестный источник (cinemablend.com): Andrew Garfield Just Had A Really Morbid
-[2026-11-06 18:01:05] Нет фото: dandy 3.0.0a1
-[2026-11-06 18:01:05] Неизвестный источник (nzherald.co.nz): Media Insider: Metro magazine rescue sta
-[2026-11-06 18:01:05] Нет фото: Vatican promotes climate agenda with Len
-[2026-11-06 18:01:05] Неизвестный источник (business-standard.com): Defence secy proposes Indo-Pacific ocean
-[2026-11-06 18:01:05] Нет фото: mindupload 1.15.33
-[2026-11-06 18:01:05] Нет фото: aisvs-scanner 1.1.0
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Aina’s smart AI ring promises a new way 
-[2026-11-06 18:01:05] Нет фото: OpenMatter Network Positions Decentraliz
-[2026-11-06 18:01:05] Неизвестный источник (hackread.com): OpenMatter Network Positions Decentraliz
-[2026-11-06 18:01:05] Неизвестный источник (addicted2success.com): Building Medical Assistant Skills Throug
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Box taps Nvidia’s AI models to build a r
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Exclusive: StrongestLayer launches tools
-[2026-11-06 18:01:05] Заблокированный источник (journals.plos.org): Global return-on-investment of COVID-19 
-[2026-11-06 18:01:05] Заблокированный источник (journals.plos.org): PIP5K isoforms and phosphoinositide mole
-[2026-11-06 18:01:05] Заблокированный источник (journals.plos.org): Study on hydration cementation and enhan
-[2026-11-06 18:01:05] Заблокированный источник (journals.plos.org): An explainable machine learning framewor
-[2026-11-06 18:01:05] Заблокированный источник (journals.plos.org): Microclimatic regulation effects of land
-[2026-11-06 18:01:05] Неизвестный источник (prnewswire.co.uk): WISeQey, SEALSQ, SEALCOIN and Eco Wave P
-[2026-11-06 18:01:05] Неизвестный источник (cointelegraph.com): Can decentralized phone networks power t
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): IBM, AMD and Oak Ridge join forces to la
-[2026-11-06 18:01:05] Заблокированный источник (arxiv.org): Invariance before structure: two modes o
-[2026-11-06 18:01:05] Неизвестный источник (abcnews.com): Community colleges rush to expand semico
-[2026-11-06 18:01:05] Неизвестный источник (legalinsurrection.com): Voters Pull the Plug on Big Tech’s AI Da
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Ocient raises $100 million as agentic AI
-[2026-11-06 18:01:05] Нет фото: mindupload 1.15.31
-[2026-11-06 18:01:05] Неизвестный источник (pymnts.com): Tungsten CEO Says It’s Time B2B Networks
-[2026-11-06 18:01:05] Неизвестный источник (cbc.ca): From job cuts to AI, public service unio
-[2026-11-06 18:01:05] Неизвестный источник (thehackernews.com): CERT-In Flags AI-Driven Attacks as Backd
-[2026-11-06 18:01:05] Неизвестный источник (en.antaranews.com): Technology Integrated into Travel Life: 
-[2026-11-06 18:01:05] Неизвестный источник (prnewswire.co.uk): Zetrix AI and China Academy of Informati
-[2026-11-06 18:01:05] Нет фото: Younger 0.1.1
-[2026-11-06 18:01:05] Заблокированный источник (naturalnews.com): South Korea Sets Record AI Budget to Pur
-[2026-11-06 18:01:05] Неизвестный источник (business-standard.com): Cert-In warns banks, fintech firms of AI
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Phaze raises $8.75M to give AI agents re
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Kyndryl shares surge 30% on hyperscaler-
-[2026-11-06 18:01:05] Неизвестный источник (punchng.com): Adapting UAE’s AI model for Nigeria’s di
-[2026-11-06 18:01:05] Не про ИИ, пропускаю: abcFISH enables multiplexed, single-molecule visua
-[2026-11-06 18:01:05] Не про ИИ, пропускаю: Mechanical adaptation drives out-of-equilibrium ne
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Qualcomm’s stock falls on revenue miss a
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Amazon, Microsoft and other tech giants 
-[2026-11-06 18:01:05] Неизвестный источник (punchng.com): Africa must end IMF dependence, deploy $
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Datadog falls 14% on outlook tied to one
-[2026-11-06 18:01:05] Неизвестный источник (activistpost.com): Today’s Massive PHP Security Disaster Ju
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Meta acquires AI coding startup Conducto
-[2026-11-06 18:01:05] Неизвестный источник (siliconangle.com): Arista’s record quarter shows the networ
-[2026-11-06 18:01:05] Не про ИИ, пропускаю: Democrats' election rout is poised to reorder fede
-[2026-11-06 18:01:05] Same story twice in candidates: Could the AI bubble burst after Democrats’ midterm
-[2026-11-06 18:01:05] Same story twice in candidates: Could the US midterms burst the AI bubble?
-[2026-11-06 18:01:05] AI news: 30 candidates from quality and trusted outlets
-[2026-11-06 18:01:05] AI news: 30 candidates after filtering
-[2026-11-06 18:01:07] Редакторский отбор: выбраны позиции [2, 8, 18, 1]
-[2026-11-06 18:01:07] Обрабатываю: AI Companies Really, Really Want to Buy Your Work Files and  | https://www.wired.com/story/ai-companies-really-really-want-to-buy-you
-[2026-11-06 18:01:08] Полный текст получен (3000 символов)
-[2026-11-06 18:01:08] Попытка 1 для: AI Companies Really, Really Want to Buy 
-[2026-11-06 18:01:10] Успешно, получено 1789 символов
-[2026-11-06 18:01:10] Обрабатываю: Voters rejected AI data centers over resource concerns. Here | https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millio
-[2026-11-06 18:01:10] Полный текст получен (3000 символов)
-[2026-11-06 18:01:10] Попытка 1 для: Voters rejected AI data centers over res
-[2026-11-06 18:01:14] Успешно, получено 1923 символов
-[2026-11-06 18:01:14] Обрабатываю: OpenAI released a new cybersecurity model. Is that enough? | https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-
-[2026-11-06 18:01:14] Полный текст получен (3000 символов)
-[2026-11-06 18:01:14] Попытка 1 для: OpenAI released a new cybersecurity mode
-[2026-11-06 18:01:16] Успешно, получено 1581 символов
-[2026-11-06 18:01:16] Обрабатываю: Teachers and parents: what are your experiences of AI-genera | https://www.theguardian.com/technology/2026/nov/06/teachers-and-parent
-[2026-11-06 18:01:16] Полный текст получен (3000 символов)
-[2026-11-06 18:01:16] Попытка 1 для: Teachers and parents: what are your expe
-[2026-11-06 18:01:35] Успешно, получено 1433 символов
-[2026-11-06 18:01:38] Пауза 60 секунд...
-[2026-11-06 18:02:39] Пауза 60 секунд...
-[2026-11-06 18:03:39] Пауза 60 секунд...
-[2026-11-06 18:04:39] sent_urls.txt обрезан: 304 -> 300
-[2026-11-06 18:04:39] === Блок ai_evening завершён ===
 [2026-11-07 06:01:04] Загружено 300 уже отправленных новостей
 [2026-11-07 06:01:04] === Запуск блока: morning (тест: False) ===
 [2026-11-07 06:01:04] Story memory: 94 headlines from the last 96 h
@@ -2998,3 +2903,98 @@
 [2026-11-14 06:05:12] Пауза 60 секунд...
 [2026-11-14 06:06:13] sent_urls.txt обрезан: 306 -> 300
 [2026-11-14 06:06:13] === Блок morning завершён ===
+[2026-11-14 08:00:59] Загружено 300 уже отправленных новостей
+[2026-11-14 08:00:59] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-14 08:00:59] Story memory: 84 headlines from the last 96 h
+[2026-11-14 08:00:59] RSS The Guardian: 20 записей
+[2026-11-14 08:01:00] RSS Wired: 10 записей
+[2026-11-14 08:01:00] RSS TechCrunch: 20 записей
+[2026-11-14 08:01:01] RSS Ars Technica: 20 записей
+[2026-11-14 08:01:01] RSS MIT Technology Review: 10 записей
+[2026-11-14 08:01:01] RSS BBC News: 21 записей
+[2026-11-14 08:01:01] RSS IEEE Spectrum: 30 записей
+[2026-11-14 08:01:01] AI feeds: 23 candidates from quality outlets
+[2026-11-14 08:01:01] NewsAPI (AI): пришло 59 статей
+[2026-11-14 08:01:01] Неизвестный источник (livemint.com): How Jensen Huang transformed Nvidia into
+[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Nvidia scandal reaches Trump administrat
+[2026-11-14 08:01:01] Неизвестный источник (rte.ie): Nvidia ex-CEO to testify before US Senat
+[2026-11-14 08:01:01] Неизвестный источник (rte.ie): Nvidia ex-CEO to testify before US Senat
+[2026-11-14 08:01:01] Нет фото: vcfart added to PyPI
+[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Global Microsoft outage causes chaos acr
+[2026-11-14 08:01:01] Нет фото: What is a black-footed ferrets shelter?
+[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Nvidia scandal: Who was Alice Huang real
+[2026-11-14 08:01:01] Неизвестный источник (m.economictimes.com): Tesla-SpaceX Merger: Musk eyes December 
+[2026-11-14 08:01:01] Неизвестный источник (english.khabarhub.com): Nepal calls for global cooperation to br
+[2026-11-14 08:01:01] Неизвестный источник (business-standard.com): Microsoft 365 outage continues as compan
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Five thoughts from Cisco’s first quarter
+[2026-11-14 08:01:01] Неизвестный источник (english.gossiplankanews.com): Microsoft 365 services suddenly go down
+[2026-11-14 08:01:01] Заблокированный источник (yahoo.com): Singapore's Megaspeed lawyers up with U.
+[2026-11-14 08:01:01] Не про ИИ, пропускаю: In the end, the biggest risk Jensen Huang faced fo
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Applied Materials posts an impressive 53
+[2026-11-14 08:01:01] Неизвестный источник (abc.net.au): The US has been holding secretive talks 
+[2026-11-14 08:01:01] Неизвестный источник (livemint.com): Alice Huang linked to Huawei? What we kn
+[2026-11-14 08:01:01] Неизвестный источник (tech.slashdot.org): Whoop Launches a Social Network Where Ev
+[2026-11-14 08:01:01] Неизвестный источник (abc.net.au): Nvidia's Jensen Huang scandal brings Chi
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Cisco beats expectations, lifts guidance
+[2026-11-14 08:01:01] Неизвестный источник (techradar.com): Ukrainian drone strikes hit Russian data
+[2026-11-14 08:01:01] Неизвестный источник (pymnts.com): AI Agents Start Paying Invoices Inside S
+[2026-11-14 08:01:01] Заблокированный источник (nypost.com): DC gunman was doing ‘very well’ before s
+[2026-11-14 08:01:01] Нет фото: A dual artificial neural network core PR
+[2026-11-14 08:01:01] Неизвестный источник (indiewire.com): Jensen Huang’s Biopic Feels Inevitable —
+[2026-11-14 08:01:01] Не про ИИ, пропускаю: Whoop launched a social network where every user h
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
+[2026-11-14 08:01:01] Нет фото: feagi 2.6.19
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): AI agent tooling provider LangChain secu
+[2026-11-14 08:01:01] Неизвестный источник (edge0.ai): Edge0-145B: Frontier AI Capabilities on 
+[2026-11-14 08:01:01] Неизвестный источник (nzherald.co.nz): Next Wave 2026: Sustainable businesses s
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): CNCF data shows cloud native is the on-r
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Google releases Gemini 4 Hydrogen, a low
+[2026-11-14 08:01:01] Неизвестный источник (clutchpoints.com): Patriots vs. Lions bold predictions for 
+[2026-11-14 08:01:01] Неизвестный источник (blogs.loc.gov): Spotlight On: Pablo Rodríguez and Braill
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): What to expect during SC26: Join theCUBE
+[2026-11-14 08:01:01] Неизвестный источник (newrepublic.com): DOJ Says Maybe She Wasn’t a Spy as It Tr
+[2026-11-14 08:01:01] Неизвестный источник (offgridsurvival.com): Microsoft Goes Down, Millions Lose Acces
+[2026-11-14 08:01:01] Заблокированный источник (biztoc.com): Mastercard Touts Successful Agentic Trav
+[2026-11-14 08:01:01] Неизвестный источник (bostonglobe.com): Jensen Huang affair is trouble for more 
+[2026-11-14 08:01:01] Неизвестный источник (commondreams.org): Rights Groups Call for UN Member States 
+[2026-11-14 08:01:01] Неизвестный источник (landgrantholyland.com): MC&J: Ohio State is favored over Northwe
+[2026-11-14 08:01:01] Неизвестный источник (news.mit.edu): Energy, prosperity, emissions, and innov
+[2026-11-14 08:01:01] Нет фото: feagi 2.6.18
+[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Shares of AI cloud operator Nebius drop 
+[2026-11-14 08:01:01] Неизвестный источник (pymnts.com): Mastercard Touts Successful Agentic Trav
+[2026-11-14 08:01:01] Неизвестный источник (newsonjapan.com): White Hackers Lead Japan's Fight Against
+[2026-11-14 08:01:01] Не про ИИ, пропускаю: Alice Huang tied to Nvidia’s biggest Chinese compe
+[2026-11-14 08:01:01] Неизвестный источник (adweek.com): 5 Questions For…CNBC’s Carl Quintanilla 
+[2026-11-14 08:01:01] Нет фото: How to Play the AI Spectrum – LIVESTREAM
+[2026-11-14 08:01:01] Неизвестный источник (livemint.com): Alice Huang’s China links: Firms related
+[2026-11-14 08:01:01] Неизвестный источник (pymnts.com): Fiserv Readies One of Its Two Debit Netw
+[2026-11-14 08:01:01] Неизвестный источник (cryptoslate.com): Zcash loses $1,000 as dormant wallets se
+[2026-11-14 08:01:01] Неизвестный источник (snopes.com): Does video show Hegseth's group being re
+[2026-11-14 08:01:01] Неизвестный источник (pymnts.com): Paysafe Flags Payments Slowdown as Digit
+[2026-11-14 08:01:01] Same story twice in candidates: Why the Nvidia scandal is far from over – The Late
+[2026-11-14 08:01:01] Same story twice in candidates: Hugging Face CEO vows to keep fighting for open-so
+[2026-11-14 08:01:01] AI news: 23 candidates from quality and trusted outlets
+[2026-11-14 08:01:01] AI news: 23 candidates after filtering
+[2026-11-14 08:01:04] Редакторский отбор: выбраны позиции [3, 14, 4, 11]
+[2026-11-14 08:01:04] Обрабатываю: Jensen Huang’s departure blasts big hole in AI startup fundi | https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-h
+[2026-11-14 08:01:04] Полный текст получен (3000 символов)
+[2026-11-14 08:01:04] Попытка 1 для: Jensen Huang’s departure blasts big hole
+[2026-11-14 08:01:08] Успешно, получено 1863 символов
+[2026-11-14 08:01:08] Обрабатываю: Export-banned Nvidia chips are behind China’s most powerful  | https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behin
+[2026-11-14 08:01:08] Полный текст получен (3000 символов)
+[2026-11-14 08:01:08] Попытка 1 для: Export-banned Nvidia chips are behind Ch
+[2026-11-14 08:01:11] Успешно, получено 1886 символов
+[2026-11-14 08:01:11] Обрабатываю: FAA expands AI advice to manage air traffic congestion acros | https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-mana
+[2026-11-14 08:01:12] Полный текст получен (1645 символов)
+[2026-11-14 08:01:12] Попытка 1 для: FAA expands AI advice to manage air traf
+[2026-11-14 08:01:19] Успешно, получено 1769 символов
+[2026-11-14 08:01:19] Обрабатываю: OpenAI board member worries an AI "takeover" of society coul | https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-
+[2026-11-14 08:01:19] Полный текст получен (2107 символов)
+[2026-11-14 08:01:19] Попытка 1 для: OpenAI board member worries an AI "takeo
+[2026-11-14 08:01:42] Успешно, получено 1694 символов
+[2026-11-14 08:01:45] Пауза 60 секунд...
+[2026-11-14 08:02:46] Пауза 60 секунд...
+[2026-11-14 08:03:47] Пауза 60 секунд...
+[2026-11-14 08:04:47] sent_urls.txt обрезан: 304 -> 300
+[2026-11-14 08:04:47] === Блок ai_morning завершён ===
