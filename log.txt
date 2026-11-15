@@ -1,39 +1,3 @@
-[2026-11-07 16:04:51] Полный текст получен (1445 символов)
-[2026-11-07 16:04:51] Попытка 1 для: Massive Russian attack: Energy facilitie
-[2026-11-07 16:04:54] Успешно, получено 1325 символов
-[2026-11-07 16:04:54] Обрабатываю: Russia may have used North Korean KN-23 missiles to strike U | https://www.ukrinform.net/rubric-ato/4182444-russia-may-have-used-nort
-[2026-11-07 16:04:55] Полный текст получен (3000 символов)
-[2026-11-07 16:04:55] Попытка 1 для: Russia may have used North Korean KN-23 
-[2026-11-07 16:04:58] Успешно, получено 1921 символов
-[2026-11-07 16:04:58] Обрабатываю: Russian attack on Kharkiv leaves two injured | https://www.ukrinform.net/rubric-ato/4182427-russian-attack-on-kharkiv
-[2026-11-07 16:04:59] Полный текст получен (858 символов)
-[2026-11-07 16:04:59] Попытка 1 для: Russian attack on Kharkiv leaves two inj
-[2026-11-07 16:05:02] Успешно, получено 1232 символов
-[2026-11-07 16:05:05] Пауза 60 секунд...
-[2026-11-07 16:06:06] Пауза 60 секунд...
-[2026-11-07 16:07:07] sent_urls.txt обрезан: 307 -> 300
-[2026-11-07 16:07:07] === Блок evening завершён ===
-[2026-11-07 18:01:01] Загружено 300 уже отправленных новостей
-[2026-11-07 18:01:01] === Запуск блока: ai_evening (тест: False) ===
-[2026-11-07 18:01:01] Story memory: 100 headlines from the last 96 h
-[2026-11-07 18:01:01] RSS The Guardian: 20 записей
-[2026-11-07 18:01:01] RSS Wired: 10 записей
-[2026-11-07 18:01:01] RSS TechCrunch: 20 записей
-[2026-11-07 18:01:02] RSS Ars Technica: 20 записей
-[2026-11-07 18:01:02] RSS MIT Technology Review: 10 записей
-[2026-11-07 18:01:02] RSS BBC News: 21 записей
-[2026-11-07 18:01:02] RSS IEEE Spectrum: 30 записей
-[2026-11-07 18:01:02] Лента обновлений, пропускаю: US tech stocks post modest recovery on W
-[2026-11-07 18:01:02] AI feeds: 16 candidates from quality outlets
-[2026-11-07 18:01:03] NewsAPI (AI): пришло 55 статей
-[2026-11-07 18:01:03] Нет фото: Why Static Security Awareness Training P
-[2026-11-07 18:01:03] Not a news item (listing, forum post), skipping: show HN: Computer-Generated Asset Pipeli
-[2026-11-07 18:01:03] Неизвестный источник (aws.amazon.com): Serverless MCP server for AI agent data 
-[2026-11-07 18:01:03] Неизвестный источник (apnamatvchannel.com): Tesla to scale back Cybertruck productio
-[2026-11-07 18:01:03] Неизвестный источник (siliconangle.com): The AI boom’s missing balance-sheet ques
-[2026-11-07 18:01:03] Неизвестный источник (thehackernews.com): OpenAI Launches GPT-6 Cyber After AI Hel
-[2026-11-07 18:01:03] Неизвестный источник (abcnews.com): Japan announces emergency cybersecurity 
-[2026-11-07 18:01:03] Неизвестный источник (siliconangle.com): Atomicwork launches certified AI coworke
 [2026-11-07 18:01:03] Заблокированный источник (journals.plos.org): kinGEMs: A robust and scalable framework
 [2026-11-07 18:01:03] Неизвестный источник (dianeravitch.net): The Trump Administration Is Destroying A
 [2026-11-07 18:01:03] Заблокированный источник (journals.plos.org): Aligning entity of knowledge graph based
@@ -2998,3 +2962,39 @@
 [2026-11-15 06:06:11] Пауза 60 секунд...
 [2026-11-15 06:07:12] sent_urls.txt обрезан: 307 -> 300
 [2026-11-15 06:07:12] === Блок morning завершён ===
+[2026-11-15 08:01:05] Загружено 300 уже отправленных новостей
+[2026-11-15 08:01:05] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-15 08:01:05] Story memory: 84 headlines from the last 96 h
+[2026-11-15 08:01:05] RSS The Guardian: 20 записей
+[2026-11-15 08:01:05] RSS Wired: 10 записей
+[2026-11-15 08:01:05] RSS TechCrunch: 20 записей
+[2026-11-15 08:01:05] RSS Ars Technica: 20 записей
+[2026-11-15 08:01:05] RSS MIT Technology Review: 10 записей
+[2026-11-15 08:01:06] RSS BBC News: 21 записей
+[2026-11-15 08:01:06] RSS IEEE Spectrum: 30 записей
+[2026-11-15 08:01:06] AI feeds: 11 candidates from quality outlets
+[2026-11-15 08:01:06] NewsAPI (AI): пришло 59 статей
+[2026-11-15 08:01:06] Неизвестный источник (thehindubusinessline.com): OpenAI expands into payments with ChatGP
+[2026-11-15 08:01:06] Нет фото: perforatedai 4.0.2
+[2026-11-15 08:01:06] Неизвестный источник (bitcoinfoundation.org): FAA’s AI Reached 22 Control Centers 3 Da
+[2026-11-15 08:01:06] Неизвестный источник (economictimes.indiatimes.com): Nvidia scandal just the tip of the icebe
+[2026-11-15 08:01:06] Неизвестный источник (en.protothema.gr): US airspace reopens after nationwide shu
+[2026-11-15 08:01:06] Неизвестный источник (me.pcmag.com): Why the AI Revolution Is Dragging Smartp
+[2026-11-15 08:01:06] Неизвестный источник (economictimes.indiatimes.com): Microsoft outage shows the risks of rely
+[2026-11-15 08:01:06] Заблокированный источник (yahoo.com): FAA says nationwide ground stop is over 
+[2026-11-15 08:01:06] Неизвестный источник (africasacountry.com): How Lula’s army beat the algorithm
+[2026-11-15 08:01:06] Нет фото: Of Course Americans Blamed the Ground St
+[2026-11-15 08:01:06] Неизвестный источник (en.protothema.gr): From 9/11 to the 2026 blackout: a histor
+[2026-11-15 08:01:06] Не про ИИ, пропускаю: US lifts nationwide ground stop for airports hours
+[2026-11-15 08:01:06] Неизвестный источник (siliconangle.com): FAA grounds domestic flights after repor
+[2026-11-15 08:01:06] Нет фото: DHS says no national security threat is 
+[2026-11-15 08:01:06] Заблокированный источник (dailymail.com): How China mastered the art of the honeyt
+[2026-11-15 08:01:06] Неизвестный источник (siliconangle.com): NiCE’s next-generation Cognigy bets the 
+[2026-11-15 08:01:06] Неизвестный источник (thehindubusinessline.com): Microsoft apologises after global outage
+[2026-11-15 08:01:06] Неизвестный источник (foreignaffairs.com): A New Kind of Foreign Agent
+[2026-11-15 08:01:06] Нет фото: Deep learning identification of SST tele
+[2026-11-15 08:01:06] Нет фото: perforatedai 4.0.1
+[2026-11-15 08:01:06] Неизвестный источник (sciencedaily.com): AI supercharges laser physics with a stu
+[2026-11-15 08:01:06] Ошибка получения AI новостей: 'NoneType' object is not subscriptable
+[2026-11-15 08:01:06] ⚠️ Блок <b>AI утро</b> (15.11.2026): новостей не найдено!
+[2026-11-15 08:01:07] === Блок ai_morning завершён ===
