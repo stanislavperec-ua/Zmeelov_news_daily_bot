@@ -1,62 +1,3 @@
-[2026-11-09 06:04:55] Успешно, получено 1944 символов
-[2026-11-09 06:04:55] Обрабатываю: Russian forces launch massive attack on Odesa region’s energ | https://www.ukrinform.net/rubric-ato/4182739-russian-forces-launch-mas
-[2026-11-09 06:04:56] Полный текст получен (853 символов)
-[2026-11-09 06:04:56] Попытка 1 для: Russian forces launch massive attack on 
-[2026-11-09 06:04:59] Успешно, получено 1529 символов
-[2026-11-09 06:04:59] Обрабатываю: Russian forces attack Kharkiv’s Kyivskyi district again, inj | https://www.ukrinform.net/rubric-ato/4182724-russian-forces-attack-kha
-[2026-11-09 06:05:01] Полный текст получен (1272 символов)
-[2026-11-09 06:05:01] Попытка 1 для: Russian forces attack Kharkiv’s Kyivskyi
-[2026-11-09 06:05:04] Успешно, получено 1616 символов
-[2026-11-09 06:05:07] Пауза 60 секунд...
-[2026-11-09 06:06:08] Пауза 60 секунд...
-[2026-11-09 06:07:08] sent_urls.txt обрезан: 307 -> 300
-[2026-11-09 06:07:08] === Блок morning завершён ===
-[2026-11-09 08:01:02] Загружено 300 уже отправленных новостей
-[2026-11-09 08:01:02] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-09 08:01:02] Story memory: 95 headlines from the last 96 h
-[2026-11-09 08:01:03] RSS The Guardian: 20 записей
-[2026-11-09 08:01:03] RSS Wired: 10 записей
-[2026-11-09 08:01:03] RSS TechCrunch: 20 записей
-[2026-11-09 08:01:03] RSS Ars Technica: 20 записей
-[2026-11-09 08:01:03] RSS MIT Technology Review: 10 записей
-[2026-11-09 08:01:03] RSS BBC News: 21 записей
-[2026-11-09 08:01:04] RSS IEEE Spectrum: 30 записей
-[2026-11-09 08:01:04] AI feeds: 1 candidates from quality outlets
-[2026-11-09 08:01:04] NewsAPI (AI): пришло 14 статей
-[2026-11-09 08:01:04] Неизвестный источник (noemamag.com): Americans Are Losing The Long Game
-[2026-11-09 08:01:04] Нет фото: artificialbrains-sdk 0.4.2
-[2026-11-09 08:01:04] Неизвестный источник (medicaldaily.com): One-Third of 163 FDA-Cleared AI Medical 
-[2026-11-09 08:01:04] Заблокированный источник (sports.yahoo.com): Another Beatdown Ends Ohio State’s Seaso
-[2026-11-09 08:01:04] Неизвестный источник (smh.com.au): 6G phones arrive in 2030. The fight over
-[2026-11-09 08:01:04] Неизвестный источник (serplabseo.com): Ignored Backlinks, Robots.txt, AI Bot Lo
-[2026-11-09 08:01:04] Нет фото: laiser 1.0.1
-[2026-11-09 08:01:04] Неизвестный источник (slashdot.org): China's Top Spy Agency Recruited Woman W
-[2026-11-09 08:01:04] Неизвестный источник (bleedingcool.com): Captain America #17 Preview: Cap Goes on
-[2026-11-09 08:01:04] Нет фото: dlufd 0.0.1
-[2026-11-09 08:01:04] Нет фото: dlamb 0.0.1
-[2026-11-09 08:01:04] Нет фото: dlamb added to PyPI
-[2026-11-09 08:01:04] Неизвестный источник (phillyvoice.com): Democrats' election rout is poised to dr
-[2026-11-09 08:01:04] Неизвестный источник (en.antaranews.com): Closing Indonesia's health personnel gap
-[2026-11-09 08:01:04] AI news: 1 candidates from quality and trusted outlets
-[2026-11-09 08:01:04] Not enough quality AI candidates, adding second-tier outlets
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: Americans Are Losing The Long Game
-[2026-11-09 08:01:04] Нет фото: artificialbrains-sdk 0.4.2
-[2026-11-09 08:01:04] Заблокированный источник (sports.yahoo.com): Another Beatdown Ends Ohio State’s Seaso
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: 6G phones arrive in 2030. The fight over the airwa
-[2026-11-09 08:01:04] Нет фото: laiser 1.0.1
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: China's Top Spy Agency Recruited Woman Who Targete
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: Captain America #17 Preview: Cap Goes on the Run w
-[2026-11-09 08:01:04] Нет фото: dlufd 0.0.1
-[2026-11-09 08:01:04] Нет фото: dlamb 0.0.1
-[2026-11-09 08:01:04] Нет фото: dlamb added to PyPI
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: Democrats' election rout is poised to dramatically
-[2026-11-09 08:01:04] Не про ИИ, пропускаю: Closing Indonesia's health personnel gaps with loc
-[2026-11-09 08:01:04] AI news: 3 candidates after filtering
-[2026-11-09 08:01:04] Обрабатываю: 1-0 to humankind? US midterms vote puts AI, datacentres and  | https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datace
-[2026-11-09 08:01:04] Полный текст получен (3000 символов)
-[2026-11-09 08:01:04] Попытка 1 для: 1-0 to humankind? US midterms vote puts 
-[2026-11-09 08:01:06] Успешно, получено 1534 символов
-[2026-11-09 08:01:06] Обрабатываю: One-Third of 163 FDA-Cleared AI Medical Devices Got Algorith | https://www.medicaldaily.com/fda-cleared-ai-device-updates-clinical-be
 [2026-11-09 08:01:06] Полный текст получен (3000 символов)
 [2026-11-09 08:01:06] Попытка 1 для: One-Third of 163 FDA-Cleared AI Medical 
 [2026-11-09 08:01:10] Успешно, получено 1755 символов
@@ -2998,3 +2939,62 @@
 [2026-11-16 16:06:27] Пауза 60 секунд...
 [2026-11-16 16:07:28] sent_urls.txt обрезан: 307 -> 300
 [2026-11-16 16:07:28] === Блок evening завершён ===
+[2026-11-16 18:01:04] Загружено 300 уже отправленных новостей
+[2026-11-16 18:01:04] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-16 18:01:04] Story memory: 82 headlines from the last 96 h
+[2026-11-16 18:01:04] RSS The Guardian: 20 записей
+[2026-11-16 18:01:04] RSS Wired: 10 записей
+[2026-11-16 18:01:05] RSS TechCrunch: 20 записей
+[2026-11-16 18:01:05] RSS Ars Technica: 20 записей
+[2026-11-16 18:01:05] RSS MIT Technology Review: 10 записей
+[2026-11-16 18:01:06] RSS BBC News: 21 записей
+[2026-11-16 18:01:06] RSS IEEE Spectrum: 30 записей
+[2026-11-16 18:01:06] AI feeds: 14 candidates from quality outlets
+[2026-11-16 18:01:08] NewsAPI (AI): пришло 23 статей
+[2026-11-16 18:01:08] Неизвестный источник (usatoday.com): The Fernando Mendoza era begins—Shop Men
+[2026-11-16 18:01:08] Неизвестный источник (fairobserver.com): AI Governance Must Leave the Screen and 
+[2026-11-16 18:01:08] Неизвестный источник (en.sedaily.com): Samsung to Make SpaceX Satellite Chips i
+[2026-11-16 18:01:08] Неизвестный источник (trendkia.com): Nvidia Leadership Clash Brings Executive
+[2026-11-16 18:01:08] Неизвестный источник (rferl.org): Central Asia's AI Race: Big Ambitions, E
+[2026-11-16 18:01:08] Неизвестный источник (dcforecasts.com): IOND Stock: Celsius’s Old Miner Earns $8
+[2026-11-16 18:01:08] Неизвестный источник (thehindubusinessline.com): Bharti’s ‘Mahabharatas’: Sunil Mittal ta
+[2026-11-16 18:01:08] Неизвестный источник (en.protothema.gr): PM’S Sunday address: Heating allowance r
+[2026-11-16 18:01:08] Неизвестный источник (business-standard.com): From bicycle parts to satellites: Inside
+[2026-11-16 18:01:08] Неизвестный источник (dcforecasts.com): NIST Sets a 2035 Cutoff for ECDSA as the
+[2026-11-16 18:01:08] Заблокированный источник (naturalnews.com): China Expands AI Data Center Constructio
+[2026-11-16 18:01:08] Неизвестный источник (dcforecasts.com): The Digital Euro Pilot Starts in ECB Can
+[2026-11-16 18:01:08] Неизвестный источник (bleedingcool.com): Gambit: Wanted #4 Preview: Remy's Chilli
+[2026-11-16 18:01:08] Не про ИИ, пропускаю: How did ‘wire replacements’ ground planes across t
+[2026-11-16 18:01:08] Нет фото: How Jensen Huang Built the Backdoor Rout
+[2026-11-16 18:01:08] Неизвестный источник (contentmediasolution.com): UK-India AI Collaboration: How Joint Res
+[2026-11-16 18:01:08] Неизвестный источник (punchng.com): Local AI solutions can improve antenatal
+[2026-11-16 18:01:08] Заблокированный источник (dailymail.com): SARAH VINE: I don't fear the digital doo
+[2026-11-16 18:01:08] Неизвестный источник (commondreams.org): 'Duffy Lied': Air Traffic Controllers Re
+[2026-11-16 18:01:08] Нет фото: ownapi added to PyPI
+[2026-11-16 18:01:08] Неизвестный источник (siliconangle.com): AT&T uses agentic AI to reinvent busines
+[2026-11-16 18:01:08] Неизвестный источник (zycrypto.com): Hoskinson Credits Cardano’s Staking Mode
+[2026-11-16 18:01:08] Нет фото: steuermaschine 0.0.2
+[2026-11-16 18:01:08] AI news: 14 candidates from quality and trusted outlets
+[2026-11-16 18:01:08] AI news: 14 candidates after filtering
+[2026-11-16 18:01:11] Редакторский отбор: выбраны позиции [13, 7, 1, 3]
+[2026-11-16 18:01:11] Обрабатываю: US tightens AI chip export controls to deter Chinese compani | https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-
+[2026-11-16 18:01:11] Полный текст получен (3000 символов)
+[2026-11-16 18:01:11] Попытка 1 для: US tightens AI chip export controls to d
+[2026-11-16 18:01:15] Успешно, получено 1735 символов
+[2026-11-16 18:01:15] Обрабатываю: OpenAI will embed Apollo researchers to investigate AI subve | https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers
+[2026-11-16 18:01:15] Полный текст получен (3000 символов)
+[2026-11-16 18:01:15] Попытка 1 для: OpenAI will embed Apollo researchers to 
+[2026-11-16 18:01:19] Успешно, получено 2011 символов
+[2026-11-16 18:01:19] Обрабатываю: AI models ‘weak and fallible’ on climate science, UN-backed  | https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible
+[2026-11-16 18:01:19] Полный текст получен (3000 символов)
+[2026-11-16 18:01:19] Попытка 1 для: AI models ‘weak and fallible’ on climate
+[2026-11-16 18:01:29] Успешно, получено 2261 символов
+[2026-11-16 18:01:29] Обрабатываю: Building trustworthy AI by fencing it in, not predicting it | https://www.technologyreview.com/2026/11/16/1148565/building-trustwort
+[2026-11-16 18:01:30] Полный текст получен (3000 символов)
+[2026-11-16 18:01:30] Попытка 1 для: Building trustworthy AI by fencing it in
+[2026-11-16 18:01:54] Успешно, получено 1683 символов
+[2026-11-16 18:01:57] Пауза 60 секунд...
+[2026-11-16 18:02:58] Пауза 60 секунд...
+[2026-11-16 18:03:58] Пауза 60 секунд...
+[2026-11-16 18:04:59] sent_urls.txt обрезан: 304 -> 300
+[2026-11-16 18:04:59] === Блок ai_evening завершён ===
