@@ -1,98 +1,3 @@
-[2026-11-08 16:01:07] Same story twice in candidates: Russian drones attack Volyn region overnight, fire
-[2026-11-08 16:01:07] Same story twice in candidates: Russia reports damage to bridge on highway connect
-[2026-11-08 16:01:07] Same story twice in candidates: War update: 199 combat engagements on front line o
-[2026-11-08 16:01:07] Same story twice in candidates: Russian forces kill five residents of Donetsk regi
-[2026-11-08 16:01:07] Same story twice in candidates: Drone damages residential buildings in Khmelnytsky
-[2026-11-08 16:01:07] Same story twice in candidates: Russian forces attack industrial facility in Rivne
-[2026-11-08 16:01:07] Same story twice in candidates: Russia loses another 2,290 troops, four air defenc
-[2026-11-08 16:01:07] Same story twice in candidates: ADF neutralises 137 of 164 Russian drones overnigh
-[2026-11-08 16:01:07] Same story twice in candidates: Defence Ministry specialists destroy more than 480
-[2026-11-08 16:01:07] Украинские новости: найдено 59 после фильтрации
-[2026-11-08 16:01:09] Редакторский отбор: выбраны позиции [4, 15]
-[2026-11-08 16:01:09] NewsAPI (Харьков, все издания): пришло 5 статей
-[2026-11-08 16:01:10] RSS Ukrinform: 30 записей
-[2026-11-08 16:01:10] RSS Ukrinform: 30 записей
-[2026-11-08 16:01:10] RSS Euromaidan Press: 29 записей
-[2026-11-08 16:01:10] Нет фото: War-battered Ukraine risks a demographic
-[2026-11-08 16:01:10] Заблокированный источник (rt-english.com): Zelensky’s Nazi-style ‘torture chambers’
-[2026-11-08 16:01:10] Старая новость (2026-11-06T14:44:52Z): The drones that wrecked the road to Kram
-[2026-11-08 16:01:10] Старая новость (2026-11-06T14:32:00Z): Trump meets a Kremlin envoy, then says a
-[2026-11-08 16:01:10] Старая новость (2026-11-06T13:48:42Z): Russia fired nearly 8,000 Molniya and La
-[2026-11-08 16:01:10] Старая новость (2026-11-06T12:34:24Z): “Just get into range”: Ukrainian F-16 pi
-[2026-11-08 16:01:10] Старая новость (2026-11-06T12:30:31Z): A report put words in his mouth, a Korea
-[2026-11-08 16:01:10] Старая новость (2026-11-06T11:46:25Z): Russian arms giant Rostec touts radar ta
-[2026-11-08 16:01:10] Старая новость (2026-11-06T11:31:50Z): Ukraine’s anti-corruption agencies team 
-[2026-11-08 16:01:10] Харьков: новостей не найдено
-[2026-11-08 16:01:10] Обрабатываю: Ukraine's power network suffers further damage after fresh R | https://www.bbc.com/news/articles/cm4g1nq8158po
-[2026-11-08 16:01:10] Полный текст получен (3000 символов)
-[2026-11-08 16:01:10] Попытка 1 для: Ukraine's power network suffers further 
-[2026-11-08 16:01:12] Успешно, получено 1480 символов
-[2026-11-08 16:01:12] Обрабатываю: New Zealand election too close to call with 95% votes in | https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over
-[2026-11-08 16:01:13] Полный текст получен (3000 символов)
-[2026-11-08 16:01:13] Попытка 1 для: New Zealand election too close to call w
-[2026-11-08 16:01:20] Успешно, получено 1567 символов
-[2026-11-08 16:01:20] Обрабатываю: Anthropic IPO meets AI backlash after midterms show stinging | https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.
-[2026-11-08 16:01:21] Полный текст получен (3000 символов)
-[2026-11-08 16:01:21] Georgia here is the US state, the hint goes into the prompt
-[2026-11-08 16:01:21] Попытка 1 для: Anthropic IPO meets AI backlash after mi
-[2026-11-08 16:01:34] Успешно, получено 1775 символов
-[2026-11-08 16:01:34] Обрабатываю: Victims in rape cases must not feel like they are on trial,  | https://www.bbc.com/news/articles/crgj99j8y998o
-[2026-11-08 16:01:34] Полный текст получен (3000 символов)
-[2026-11-08 16:01:34] Попытка 1 для: Victims in rape cases must not feel like
-[2026-11-08 16:01:56] Успешно, получено 1738 символов
-[2026-11-08 16:01:59] Пауза 60 секунд...
-[2026-11-08 16:03:00] Пауза 60 секунд...
-[2026-11-08 16:04:00] Пауза 60 секунд...
-[2026-11-08 16:05:02] Обрабатываю: Airstrike on underground school in Komyshuvakha: 29 of 55 vi | https://www.ukrinform.net/rubric-ato/4182688-airstrike-on-underground-
-[2026-11-08 16:05:03] Полный текст получен (1641 символов)
-[2026-11-08 16:05:03] Попытка 1 для: Airstrike on underground school in Komys
-[2026-11-08 16:05:05] Успешно, получено 1220 символов
-[2026-11-08 16:05:05] Обрабатываю: Zelensky: Russia launches 115 missiles, nearly 1,900 guided  | https://www.ukrinform.net/rubric-ato/4182632-zelensky-russia-launches-
-[2026-11-08 16:05:06] Полный текст получен (2103 символов)
-[2026-11-08 16:05:06] Попытка 1 для: Zelensky: Russia launches 115 missiles, 
-[2026-11-08 16:05:08] Успешно, получено 1489 символов
-[2026-11-08 16:05:12] Пауза 60 секунд...
-[2026-11-08 16:06:13] sent_urls.txt обрезан: 306 -> 300
-[2026-11-08 16:06:13] === Блок evening завершён ===
-[2026-11-08 18:01:06] Загружено 300 уже отправленных новостей
-[2026-11-08 18:01:06] === Запуск блока: ai_evening (тест: False) ===
-[2026-11-08 18:01:06] Story memory: 95 headlines from the last 96 h
-[2026-11-08 18:01:06] RSS The Guardian: 20 записей
-[2026-11-08 18:01:06] RSS Wired: 10 записей
-[2026-11-08 18:01:06] RSS TechCrunch: 20 записей
-[2026-11-08 18:01:06] RSS Ars Technica: 20 записей
-[2026-11-08 18:01:06] RSS MIT Technology Review: 10 записей
-[2026-11-08 18:01:06] RSS BBC News: 21 записей
-[2026-11-08 18:01:07] RSS IEEE Spectrum: 30 записей
-[2026-11-08 18:01:07] AI feeds: 7 candidates from quality outlets
-[2026-11-08 18:01:07] NewsAPI (AI): пришло 32 статей
-[2026-11-08 18:01:07] Неизвестный источник (slashdot.org): China's Top Spy Agency Recruited Woman W
-[2026-11-08 18:01:07] Неизвестный источник (bleedingcool.com): Captain America #17 Preview: Cap Goes on
-[2026-11-08 18:01:07] Нет фото: dlufd 0.0.1
-[2026-11-08 18:01:07] Нет фото: dlamb 0.0.1
-[2026-11-08 18:01:07] Нет фото: dlamb added to PyPI
-[2026-11-08 18:01:07] Неизвестный источник (phillyvoice.com): Democrats' election rout is poised to dr
-[2026-11-08 18:01:07] Неизвестный источник (en.antaranews.com): Closing Indonesia's health personnel gap
-[2026-11-08 18:01:07] Неизвестный источник (channelnewsasia.com): Environmental groups embrace AI, even as
-[2026-11-08 18:01:07] Заблокированный источник (naturalnews.com): FCC to Ban Chinese Telecom Firms From Di
-[2026-11-08 18:01:07] Неизвестный источник (techpolicy.press): Creating a New Internet Bargain to Prese
-[2026-11-08 18:01:07] Неизвестный источник (github.com): aroum/fm1-custom-fw: M-VAVE FM-1 resourc
-[2026-11-08 18:01:07] Пропускаю уже отправленную: AI broke the cybersecurity world. What’s next?
-[2026-11-08 18:01:07] Не про ИИ, пропускаю: More than 100 Irish start-ups head to Web Summit a
-[2026-11-08 18:01:07] Неизвестный источник (americanthinker.com): The Internet’s Hidden Weakness Detected 
-[2026-11-08 18:01:07] Нет фото: China's Top Spy Agency Recruited Woman W
-[2026-11-08 18:01:07] Неизвестный источник (techradar.com): Data center providers are turning to old
-[2026-11-08 18:01:07] Неизвестный источник (digitaljournal.com): From clinical practice to health technol
-[2026-11-08 18:01:07] Нет фото: Quantum-resistant blockchain-assisted fe
-[2026-11-08 18:01:07] Пропускаю уже отправленную: Thinking Machines launches Inkling 2 Small with ne
-[2026-11-08 18:01:07] Нет фото: Silynxcom Announces Development of New A
-[2026-11-08 18:01:07] Неизвестный источник (uxdesign.cc): After the AI bubble: a manifesto
-[2026-11-08 18:01:07] Неизвестный источник (pymnts.com): Sysco Counts on AI Routing and Bidding f
-[2026-11-08 18:01:07] Неизвестный источник (siliconangle.com): Thinking Machines debuts Inkling 2 Small
-[2026-11-08 18:01:07] Неизвестный источник (wwd.com): AI, Cooperation, Space Among Next Fronti
-[2026-11-08 18:01:07] Неизвестный источник (ewtnnews.com): ‘We are all impacted by AI but nobody’s 
-[2026-11-08 18:01:07] Не про ИИ, пропускаю: Middle East could have big role in Democrats' Trum
-[2026-11-08 18:01:07] Неизвестный источник (out.com): Ranking Andrew Garfield's top 9 sexiest 
 [2026-11-08 18:01:07] Нет фото: tf-inference added to PyPI
 [2026-11-08 18:01:07] Неизвестный источник (news.mit.edu): How to predict the behavior of molecules
 [2026-11-08 18:01:07] Неизвестный источник (siliconangle.com): AWS’ Colleen Aubrey: Stop inventing new 
@@ -2998,3 +2903,98 @@
 [2026-11-16 06:06:19] Пауза 60 секунд...
 [2026-11-16 06:07:20] sent_urls.txt обрезан: 307 -> 300
 [2026-11-16 06:07:20] === Блок morning завершён ===
+[2026-11-16 08:01:01] Загружено 300 уже отправленных новостей
+[2026-11-16 08:01:01] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-16 08:01:01] Story memory: 78 headlines from the last 96 h
+[2026-11-16 08:01:01] RSS The Guardian: 20 записей
+[2026-11-16 08:01:01] RSS Wired: 10 записей
+[2026-11-16 08:01:01] RSS TechCrunch: 20 записей
+[2026-11-16 08:01:01] RSS Ars Technica: 20 записей
+[2026-11-16 08:01:01] RSS MIT Technology Review: 10 записей
+[2026-11-16 08:01:01] RSS BBC News: 21 записей
+[2026-11-16 08:01:01] RSS IEEE Spectrum: 30 записей
+[2026-11-16 08:01:01] AI feeds: 8 candidates from quality outlets
+[2026-11-16 08:01:02] NewsAPI (AI): пришло 31 статей
+[2026-11-16 08:01:02] Неизвестный источник (business-standard.com): From bicycle parts to satellites: Inside
+[2026-11-16 08:01:02] Неизвестный источник (dcforecasts.com): NIST Sets a 2035 Cutoff for ECDSA as the
+[2026-11-16 08:01:02] Заблокированный источник (naturalnews.com): China Expands AI Data Center Constructio
+[2026-11-16 08:01:02] Неизвестный источник (dcforecasts.com): The Digital Euro Pilot Starts in ECB Can
+[2026-11-16 08:01:02] Неизвестный источник (bleedingcool.com): Gambit: Wanted #4 Preview: Remy's Chilli
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: How did ‘wire replacements’ ground planes across t
+[2026-11-16 08:01:02] Нет фото: How Jensen Huang Built the Backdoor Rout
+[2026-11-16 08:01:02] Неизвестный источник (contentmediasolution.com): UK-India AI Collaboration: How Joint Res
+[2026-11-16 08:01:02] Неизвестный источник (punchng.com): Local AI solutions can improve antenatal
+[2026-11-16 08:01:02] Заблокированный источник (dailymail.com): SARAH VINE: I don't fear the digital doo
+[2026-11-16 08:01:02] Неизвестный источник (commondreams.org): 'Duffy Lied': Air Traffic Controllers Re
+[2026-11-16 08:01:02] Нет фото: ownapi added to PyPI
+[2026-11-16 08:01:02] Неизвестный источник (siliconangle.com): AT&T uses agentic AI to reinvent busines
+[2026-11-16 08:01:02] Неизвестный источник (zycrypto.com): Hoskinson Credits Cardano’s Staking Mode
+[2026-11-16 08:01:02] Нет фото: steuermaschine 0.0.2
+[2026-11-16 08:01:02] Нет фото: China’s Intelligence Coup in the AI War
+[2026-11-16 08:01:02] Неизвестный источник (designboom.com): rune bosse puts living trees on life sup
+[2026-11-16 08:01:02] Неизвестный источник (uk.pcmag.com): Are You as Invisible Online as You Think
+[2026-11-16 08:01:02] Неизвестный источник (livemint.com): Jensen Huang spy scandal puts Howard Lut
+[2026-11-16 08:01:02] Неизвестный источник (ibtimes.com.au): Apple Launches New Apple TV 4K With A19 
+[2026-11-16 08:01:02] Неизвестный источник (punchng.com): Foundation trains 30 Osun women in advoc
+[2026-11-16 08:01:02] Неизвестный источник (thehackernews.com): Attackers Exploit UnrealIRCd Flaw That E
+[2026-11-16 08:01:02] Неизвестный источник (abcnews.com): Microsoft says services fully restored a
+[2026-11-16 08:01:02] Неизвестный источник (newser.com): Microsoft: All Services Are Back After W
+[2026-11-16 08:01:02] Неизвестный источник (en.protothema.gr): US flight chaos continues with more than
+[2026-11-16 08:01:02] Неизвестный источник (cryptobriefing.com): Microsoft restores Microsoft 365 service
+[2026-11-16 08:01:02] Неизвестный источник (thehindubusinessline.com): Microsoft says services fully restored a
+[2026-11-16 08:01:02] Неизвестный источник (abcnews.com): Microsoft says services fully restored a
+[2026-11-16 08:01:02] Неизвестный источник (thenation.com): My Journey Through San Francisco’s Inter
+[2026-11-16 08:01:02] Неизвестный источник (cointelegraph.com): MegaETH parent cuts 20% of staff amid re
+[2026-11-16 08:01:02] Неизвестный источник (autocar.co.uk): Total rethink: Why China is shaping Volk
+[2026-11-16 08:01:02] AI news: 8 candidates from quality and trusted outlets
+[2026-11-16 08:01:02] Not enough quality AI candidates, adding second-tier outlets
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: From bicycle parts to satellites: Inside Sunil Mit
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: NIST Sets a 2035 Cutoff for ECDSA as the OCC Tells
+[2026-11-16 08:01:02] Заблокированный источник (naturalnews.com): China Expands AI Data Center Constructio
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: The Digital Euro Pilot Starts in ECB Canteens in 2
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Gambit: Wanted #4 Preview: Remy's Chilling Mistake
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: How did ‘wire replacements’ ground planes across t
+[2026-11-16 08:01:02] Нет фото: How Jensen Huang Built the Backdoor Rout
+[2026-11-16 08:01:02] Заблокированный источник (dailymail.com): SARAH VINE: I don't fear the digital doo
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: 'Duffy Lied': Air Traffic Controllers Refute Trump
+[2026-11-16 08:01:02] Нет фото: ownapi added to PyPI
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Hoskinson Credits Cardano’s Staking Model After Bi
+[2026-11-16 08:01:02] Нет фото: steuermaschine 0.0.2
+[2026-11-16 08:01:02] Нет фото: China’s Intelligence Coup in the AI War
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: rune bosse puts living trees on life support in a 
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Are You as Invisible Online as You Think? Not Unle
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Jensen Huang spy scandal puts Howard Lutnick in fo
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Apple Launches New Apple TV 4K With A19 Chip and H
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Foundation trains 30 Osun women in advocacy
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Attackers Exploit UnrealIRCd Flaw That Enables Ser
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Microsoft says services fully restored after hours
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Microsoft: All Services Are Back After Worldwide O
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: US flight chaos continues with more than 11,500 ca
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Microsoft restores Microsoft 365 services after gl
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Microsoft says services fully restored after hours
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Microsoft says services fully restored after hours
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: My Journey Through San Francisco’s Internet Archiv
+[2026-11-16 08:01:02] Не про ИИ, пропускаю: Total rethink: Why China is shaping Volkswagen's g
+[2026-11-16 08:01:02] AI news: 12 candidates after filtering
+[2026-11-16 08:01:04] Редакторский отбор: выбраны позиции [1, 3, 10, 5]
+[2026-11-16 08:01:04] Обрабатываю: Reports of AI-related child sexual abuse material rise 8,400 | https://www.theguardian.com/technology/2026/nov/16/ai-related-child-se
+[2026-11-16 08:01:04] Полный текст получен (3000 символов)
+[2026-11-16 08:01:04] Попытка 1 для: Reports of AI-related child sexual abuse
+[2026-11-16 08:01:07] Успешно, получено 1709 символов
+[2026-11-16 08:01:07] Обрабатываю: Suspected China spy linked to Nvidia's ex-boss left in 2025, | https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at
+[2026-11-16 08:01:07] Полный текст получен (3000 символов)
+[2026-11-16 08:01:07] Попытка 1 для: Suspected China spy linked to Nvidia's e
+[2026-11-16 08:01:11] Успешно, получено 1653 символов
+[2026-11-16 08:01:11] Обрабатываю: 160 questions, only one wrong: top scorer in South Korea tax | https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-k
+[2026-11-16 08:01:11] Полный текст получен (2707 символов)
+[2026-11-16 08:01:11] Попытка 1 для: 160 questions, only one wrong: top score
+[2026-11-16 08:01:14] Успешно, получено 1745 символов
+[2026-11-16 08:01:14] Обрабатываю: Local AI solutions can improve antenatal attendance, pregnan | https://punchng.com/local-ai-solutions-can-improve-antenatal-attendanc
+[2026-11-16 08:01:14] Полный текст получен (3000 символов)
+[2026-11-16 08:01:14] Попытка 1 для: Local AI solutions can improve antenatal
+[2026-11-16 08:01:28] Успешно, получено 2200 символов
+[2026-11-16 08:01:31] Пауза 60 секунд...
+[2026-11-16 08:02:32] Пауза 60 секунд...
+[2026-11-16 08:03:32] Пауза 60 секунд...
+[2026-11-16 08:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-11-16 08:04:33] === Блок ai_morning завершён ===
