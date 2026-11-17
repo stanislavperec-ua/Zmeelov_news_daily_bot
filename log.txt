@@ -1,45 +1,3 @@
-[2026-11-09 18:01:18] Полный текст получен (3000 символов)
-[2026-11-09 18:01:18] Попытка 1 для: Parents and teachers decry Google pledge
-[2026-11-09 18:01:20] Успешно, получено 1786 символов
-[2026-11-09 18:01:20] Обрабатываю: AI Agents Are Testing the Limits of Zero-Trust Security | https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
-[2026-11-09 18:01:20] Полный текст получен (3000 символов)
-[2026-11-09 18:01:20] Попытка 1 для: AI Agents Are Testing the Limits of Zero
-[2026-11-09 18:01:33] Успешно, получено 1764 символов
-[2026-11-09 18:01:36] Пауза 60 секунд...
-[2026-11-09 18:02:36] Пауза 60 секунд...
-[2026-11-09 18:03:37] Пауза 60 секунд...
-[2026-11-09 18:04:37] sent_urls.txt обрезан: 304 -> 300
-[2026-11-09 18:04:37] === Блок ai_evening завершён ===
-[2026-11-10 06:01:03] Загружено 300 уже отправленных новостей
-[2026-11-10 06:01:03] === Запуск блока: morning (тест: False) ===
-[2026-11-10 06:01:03] Story memory: 93 headlines from the last 96 h
-[2026-11-10 06:01:04] Неизвестный источник (nbcsports.com): Sunday Night Football: Bears overcome fi
-[2026-11-10 06:01:04] Неизвестный источник (usatoday.com): 'Love Is Blind' Season 11 reunion bombsh
-[2026-11-10 06:01:04] Неизвестный источник (cbssports.com): Dallas Cowboys vs. Indianapolis Colts Li
-[2026-11-10 06:01:04] Неизвестный источник (bgr.com): Improve Your Mac Mini's Performance With
-[2026-11-10 06:01:04] Неизвестный источник (ktla.com): 1 person stabbed in neck during Hallowee
-[2026-11-10 06:01:04] Неизвестный источник (techpowerup.com): Zelda: Ocarina of Time Remake Gets a Nat
-[2026-11-10 06:01:04] Заблокированный источник (sports.yahoo.com): Giants' win over Eagles wasn't pretty, b
-[2026-11-10 06:01:04] Неизвестный источник (variety.com): Denis Villeneuve Teases James Bond Progr
-[2026-11-10 06:01:04] Лента обновлений, пропускаю: Stock futures rise slightly as investors
-[2026-11-10 06:01:04] Неизвестный источник (gothamist.com): Brooklyn jogger killed in stabbing saves
-[2026-11-10 06:01:04] Неизвестный источник (sciencealert.com): Amyloid Fibers Have an Unexpected Role i
-[2026-11-10 06:01:04] Неизвестный источник (nbcsports.com): Manchester United 4-4 Aston Villa: Unbel
-[2026-11-10 06:01:04] Неизвестный источник (mississippitoday.org): DeSoto County, a Republican stronghold, 
-[2026-11-10 06:01:04] Неизвестный источник (livescience.com): Destroyed NASA observatory took one of t
-[2026-11-10 06:01:04] Неизвестный источник (propublica.org): An 11-Day-Old Baby Couldn’t Stop Bleedin
-[2026-11-10 06:01:04] Старая новость (2026-11-06T21:00:00Z): What's that bright 'star' in the early m
-[2026-11-10 06:01:04] Старая новость (2026-11-06T13:49:11Z): Wisconsin Reports Its First Infant Death
-[2026-11-10 06:01:04] Старая новость (2026-11-06T13:00:15Z): 4.1 billion-year-old Martian meteorite h
-[2026-11-10 06:01:04] Старая новость (2026-11-06T06:09:38Z): Sunderland project using AI to help eye 
-[2026-11-10 06:01:04] Мировые новости: найдено 13 после фильтрации
-[2026-11-10 06:01:07] Редакторский отбор: выбраны позиции [11, 2, 3, 6]
-[2026-11-10 06:01:08] RSS Ukrinform: 30 записей
-[2026-11-10 06:01:08] Пропускаю уже отправленную: Zelensky, Modi discuss India's mediation role in e
-[2026-11-10 06:01:09] RSS Ukrinform: 30 записей
-[2026-11-10 06:01:09] Пропускаю уже отправленную: Russian forces strike shop, Nova Poshta branch in 
-[2026-11-10 06:01:09] RSS Euromaidan Press: 29 записей
-[2026-11-10 06:01:09] Старая новость (2026-11-07T21:47:00Z): Russo-Ukrainian war, day 1719: Russia di
 [2026-11-10 06:01:09] Старая новость (2026-11-07T21:16:47Z): Tunnels and hybrid attacks: Russia digs 
 [2026-11-10 06:01:09] Старая новость (2026-11-07T20:45:38Z): One bridge stood between Russia’s armore
 [2026-11-10 06:01:09] NewsAPI (мировые про Украину): пришло 50 статей
@@ -2998,3 +2956,45 @@
 [2026-11-17 08:03:56] Пауза 60 секунд...
 [2026-11-17 08:04:57] sent_urls.txt обрезан: 304 -> 300
 [2026-11-17 08:04:57] === Блок ai_morning завершён ===
+[2026-11-17 11:01:05] Загружено 300 уже отправленных новостей
+[2026-11-17 11:01:05] === Запуск блока: midday (тест: False) ===
+[2026-11-17 11:01:05] Story memory: 90 headlines from the last 96 h
+[2026-11-17 11:01:05] Заблокированный источник (finance.yahoo.com): Nvidia stock slips as Jensen Huang repor
+[2026-11-17 11:01:05] Неизвестный источник (hollywoodreporter.com): Governors Awards: Glenn Close, Ridley Sc
+[2026-11-17 11:01:05] Неизвестный источник (sfgate.com): Horoscope for Monday, 11/16/26 by Christ
+[2026-11-17 11:01:05] Заблокированный источник (sports.yahoo.com): As Kirk Cousins sparks Vikings, Fernando
+[2026-11-17 11:01:05] Неизвестный источник (nbcsports.com): Sunday Night Football: Joe Burrow, Ja’Ma
+[2026-11-17 11:01:05] Неизвестный источник (nbcsportsbayarea.com): Fred Warner, 49ers' defense vow to learn
+[2026-11-17 11:01:05] Неизвестный источник (usatoday.com): Andrew Shue, Marilee Fiebig share romant
+[2026-11-17 11:01:05] Неизвестный источник (espn.com): 2027 WNBA mock draft: Tempo win lottery,
+[2026-11-17 11:01:05] Пропускаю уже отправленную: Mexican drug lord Miguel Angel Felix Gallardo dies
+[2026-11-17 11:01:05] Неизвестный источник (sciencedaily.com): Physicists defy expectations by controll
+[2026-11-17 11:01:05] Неизвестный источник (cfr.org): Trump Heads to the ASEAN and APEC Summit
+[2026-11-17 11:01:05] Неизвестный источник (thebulwark.com): Schumer vs. Van Hollen—The Race Everyone
+[2026-11-17 11:01:05] Неизвестный источник (wdsu.com): Preliminary investigation points to stee
+[2026-11-17 11:01:05] Спорт, пропускаю: Trump vows appeal of East Potomac ruling
+[2026-11-17 11:01:05] Неизвестный источник (ksl.com): After 26 years, the US has lost its meas
+[2026-11-17 11:01:05] Неизвестный источник (pushsquare.com): PlayStation Black Friday Sale Knocks Up 
+[2026-11-17 11:01:05] Старая новость (2026-11-15T10:32:00Z): Exclusive: Expert RAW getting major rede
+[2026-11-17 11:01:05] Нет фото: Researchers Turn Moon Dust Into LEGO-Lik
+[2026-11-17 11:01:05] Старая новость (2026-11-13T17:58:31Z): What men need to know after a major upda
+[2026-11-17 11:01:05] Мировые новости: найдено 9 после фильтрации
+[2026-11-17 11:01:10] Редакторский отбор: выбраны позиции [4, 2, 1, 6]
+[2026-11-17 11:01:10] Обрабатываю: Far from home. Voyager 1 is now farther than anything man ha | https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-hom
+[2026-11-17 11:01:10] Полный текст получен (2552 символов)
+[2026-11-17 11:01:10] Попытка 1 для: Far from home. Voyager 1 is now farther 
+[2026-11-17 11:01:14] Успешно, получено 2116 символов
+[2026-11-17 11:01:14] Обрабатываю: Questions swirl around FAA's new SMART AI system, though off | https://apnews.com/article/faa-smart-ai-outage-08af345749c81fd8364299c
+[2026-11-17 11:01:14] Попытка 1 для: Questions swirl around FAA's new SMART A
+[2026-11-17 11:01:16] Успешно, получено 788 символов
+[2026-11-17 11:01:16] Обрабатываю: Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets  | https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-
+[2026-11-17 11:01:16] Попытка 1 для: Tech Stocks Slide as Nvidia, Anthropic T
+[2026-11-17 11:01:19] Успешно, получено 891 символов
+[2026-11-17 11:01:19] Обрабатываю: Koh blames Trump for blocking Biden-era infrastructure, FAA  | https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-fundin
+[2026-11-17 11:01:19] Попытка 1 для: Koh blames Trump for blocking Biden-era 
+[2026-11-17 11:01:39] Успешно, получено 1306 символов
+[2026-11-17 11:01:42] Пауза 60 секунд...
+[2026-11-17 11:02:42] Пауза 60 секунд...
+[2026-11-17 11:03:43] Пауза 60 секунд...
+[2026-11-17 11:04:43] sent_urls.txt обрезан: 304 -> 300
+[2026-11-17 11:04:43] === Блок midday завершён ===
