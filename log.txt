@@ -1,72 +1,3 @@
-[2026-11-09 16:01:39] Попытка 1 для: Why the simple flu shot could be a surpr
-[2026-11-09 16:01:44] Успешно, получено 793 символов
-[2026-11-09 16:01:44] Обрабатываю: The anti-Netanyahu: Can Gadi Eisenkot give the world a diffe | https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-e
-[2026-11-09 16:01:44] Полный текст получен (3000 символов)
-[2026-11-09 16:01:44] Попытка 1 для: The anti-Netanyahu: Can Gadi Eisenkot gi
-[2026-11-09 16:02:01] Успешно, получено 1749 символов
-[2026-11-09 16:02:04] Пауза 60 секунд...
-[2026-11-09 16:03:05] Пауза 60 секунд...
-[2026-11-09 16:04:06] Пауза 60 секунд...
-[2026-11-09 16:05:06] Обрабатываю: EU to activate special emergency mechanism for Ukraine – Zel | https://www.ukrinform.net/rubric-polytics/4182833-eu-to-activate-speci
-[2026-11-09 16:05:08] Полный текст получен (1804 символов)
-[2026-11-09 16:05:08] Попытка 1 для: EU to activate special emergency mechani
-[2026-11-09 16:05:11] Успешно, получено 1684 символов
-[2026-11-09 16:05:11] Обрабатываю: Zelensky, Modi discuss India's mediation role in efforts to  | https://www.ukrinform.net/rubric-polytics/4183008-zelensky-modi-discus
-[2026-11-09 16:05:12] Полный текст получен (1361 символов)
-[2026-11-09 16:05:12] Попытка 1 для: Zelensky, Modi discuss India's mediation
-[2026-11-09 16:05:15] Успешно, получено 1786 символов
-[2026-11-09 16:05:15] Обрабатываю: Russian forces strike shop, Nova Poshta branch in Kharkiv re | https://www.ukrinform.net/rubric-ato/4182989-russian-forces-strike-sho
-[2026-11-09 16:05:17] Полный текст получен (955 символов)
-[2026-11-09 16:05:17] Попытка 1 для: Russian forces strike shop, Nova Poshta 
-[2026-11-09 16:05:20] Успешно, получено 1367 символов
-[2026-11-09 16:05:23] Пауза 60 секунд...
-[2026-11-09 16:06:24] Пауза 60 секунд...
-[2026-11-09 16:07:25] sent_urls.txt обрезан: 307 -> 300
-[2026-11-09 16:07:25] === Блок evening завершён ===
-[2026-11-09 18:01:10] Загружено 300 уже отправленных новостей
-[2026-11-09 18:01:10] === Запуск блока: ai_evening (тест: False) ===
-[2026-11-09 18:01:10] Story memory: 95 headlines from the last 96 h
-[2026-11-09 18:01:10] RSS The Guardian: 20 записей
-[2026-11-09 18:01:10] RSS Wired: 10 записей
-[2026-11-09 18:01:10] RSS TechCrunch: 20 записей
-[2026-11-09 18:01:11] RSS Ars Technica: 20 записей
-[2026-11-09 18:01:11] RSS MIT Technology Review: 10 записей
-[2026-11-09 18:01:12] RSS BBC News: 21 записей
-[2026-11-09 18:01:12] RSS IEEE Spectrum: 30 записей
-[2026-11-09 18:01:12] AI feeds: 9 candidates from quality outlets
-[2026-11-09 18:01:12] NewsAPI (AI): пришло 20 статей
-[2026-11-09 18:01:12] Заблокированный источник (dailymail.com): An A-Z of how to survive Britain in a cy
-[2026-11-09 18:01:12] Нет фото: dlufd 0.1.0
-[2026-11-09 18:01:12] Неизвестный источник (brobible.com): NFL Required The Falcons And Bengals To 
-[2026-11-09 18:01:12] Неизвестный источник (siliconangle.com): AI cyber resilience and the trust gap
-[2026-11-09 18:01:12] Неизвестный источник (securityaffairs.com): SECURITY AFFAIRS AI-CYBERSECURITY NEWSLE
-[2026-11-09 18:01:12] Нет фото: The only town in the U.S. that said yes 
-[2026-11-09 18:01:12] Неизвестный источник (open-electronics.org): TI unveils the ADC34DSO75: nanosecond te
-[2026-11-09 18:01:12] Неизвестный источник (wattsupwiththat.com): Voters Pull the Plug on Big Tech’s AI Da
-[2026-11-09 18:01:12] Не про ИИ, пропускаю: Amazon's Astro home robot has fans but looks desti
-[2026-11-09 18:01:12] Not a news item (listing, forum post), skipping: Show HN: Neural Network Formal Verificat
-[2026-11-09 18:01:12] Неизвестный источник (scienmag.com): UKRI Backs Five Research Hubs Developing
-[2026-11-09 18:01:12] Неизвестный источник (nymag.com): Truth Social has Become the President’s 
-[2026-11-09 18:01:12] Неизвестный источник (open-electronics.org): Nuvi: an Arduino UNO Q Desktop Companion
-[2026-11-09 18:01:12] Неизвестный источник (noemamag.com): Americans Are Losing The Long Game
-[2026-11-09 18:01:12] Нет фото: artificialbrains-sdk 0.4.2
-[2026-11-09 18:01:12] Неизвестный источник (medicaldaily.com): One-Third of 163 FDA-Cleared AI Medical 
-[2026-11-09 18:01:12] Заблокированный источник (sports.yahoo.com): Another Beatdown Ends Ohio State’s Seaso
-[2026-11-09 18:01:12] Неизвестный источник (smh.com.au): 6G phones arrive in 2030. The fight over
-[2026-11-09 18:01:12] Неизвестный источник (serplabseo.com): Ignored Backlinks, Robots.txt, AI Bot Lo
-[2026-11-09 18:01:12] Нет фото: laiser 1.0.1
-[2026-11-09 18:01:12] AI news: 9 candidates from quality and trusted outlets
-[2026-11-09 18:01:12] AI news: 9 candidates after filtering
-[2026-11-09 18:01:14] Редакторский отбор: выбраны позиции [1, 3, 5, 4]
-[2026-11-09 18:01:14] Обрабатываю: Revealed: Palantir lobbied minister to stretch AI tools’ rea | https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-l
-[2026-11-09 18:01:14] Полный текст получен (3000 символов)
-[2026-11-09 18:01:14] Попытка 1 для: Revealed: Palantir lobbied minister to s
-[2026-11-09 18:01:16] Успешно, получено 2084 символов
-[2026-11-09 18:01:16] Обрабатываю: Nancy Pelosi’s replacement is ready to regulate AI | https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-repl
-[2026-11-09 18:01:16] Полный текст получен (3000 символов)
-[2026-11-09 18:01:16] Попытка 1 для: Nancy Pelosi’s replacement is ready to r
-[2026-11-09 18:01:18] Успешно, получено 1527 символов
-[2026-11-09 18:01:18] Обрабатываю: Parents and teachers decry Google pledge to yank Search if s | https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-googl
 [2026-11-09 18:01:18] Полный текст получен (3000 символов)
 [2026-11-09 18:01:18] Попытка 1 для: Parents and teachers decry Google pledge
 [2026-11-09 18:01:20] Успешно, получено 1786 символов
@@ -2998,3 +2929,72 @@
 [2026-11-17 06:06:05] Пауза 60 секунд...
 [2026-11-17 06:07:05] sent_urls.txt обрезан: 307 -> 300
 [2026-11-17 06:07:05] === Блок morning завершён ===
+[2026-11-17 08:01:04] Загружено 300 уже отправленных новостей
+[2026-11-17 08:01:04] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-17 08:01:04] Story memory: 86 headlines from the last 96 h
+[2026-11-17 08:01:04] RSS The Guardian: 20 записей
+[2026-11-17 08:01:05] RSS Wired: 10 записей
+[2026-11-17 08:01:05] RSS TechCrunch: 20 записей
+[2026-11-17 08:01:06] RSS Ars Technica: 20 записей
+[2026-11-17 08:01:06] RSS MIT Technology Review: 10 записей
+[2026-11-17 08:01:06] RSS BBC News: 21 записей
+[2026-11-17 08:01:06] RSS IEEE Spectrum: 30 записей
+[2026-11-17 08:01:07] AI feeds: 20 candidates from quality outlets
+[2026-11-17 08:01:07] NewsAPI (AI): пришло 32 статей
+[2026-11-17 08:01:07] Неизвестный источник (siliconangle.com): Detectify’s Agentic Tooling lets AI agen
+[2026-11-17 08:01:07] Неизвестный источник (foxnews.com): Perpetual paralysis: Why everything is g
+[2026-11-17 08:01:07] Неизвестный источник (thejournal.ie): New AI warning system for flooding to be
+[2026-11-17 08:01:07] Неизвестный источник (channelnewsasia.com): Hong Kong rolls out AI facial recognitio
+[2026-11-17 08:01:07] Неизвестный источник (en.antaranews.com): KPJ Healthcare Leads ASEAN in Healthcare
+[2026-11-17 08:01:07] Неизвестный источник (en.antaranews.com): Education in Motion Opens Dulwich Colleg
+[2026-11-17 08:01:07] Неизвестный источник (brieflyaipodcast.com): Alibaba's Qwen4-Max Lands; Apple Studies
+[2026-11-17 08:01:07] Заблокированный источник (naturalnews.com): Microsoft Apologizes for Global Outlook 
+[2026-11-17 08:01:07] Неизвестный источник (news.sap.com): India’s Rise: From Promise to Platform f
+[2026-11-17 08:01:07] Неизвестный источник (thehindubusinessline.com): FRND’s profit jumps nearly tenfold to ₹1
+[2026-11-17 08:01:07] Неизвестный источник (medicaldaily.com): AI Helps Brain Implant Control Visual Co
+[2026-11-17 08:01:07] Неизвестный источник (bworldonline.com): UnionBank’s UB Negosyante BOOSTcamp trai
+[2026-11-17 08:01:07] Неизвестный источник (insurancejournal.com): Microsoft Says Services Fully Restored A
+[2026-11-17 08:01:07] Нет фото: Where is the lateral line found?
+[2026-11-17 08:01:07] Неизвестный источник (theglobeandmail.com): Telus pulls out of two planned Vancouver
+[2026-11-17 08:01:07] Нет фото: Reproducible laboratory evaluation of sp
+[2026-11-17 08:01:07] Не про ИИ, пропускаю: High-quality pig pan-genome resources illuminate c
+[2026-11-17 08:01:07] Не про ИИ, пропускаю: Principles and assumptions underlying domain detec
+[2026-11-17 08:01:07] Неизвестный источник (chinaarticles.substack.com): Jensen’s Part Time Lover
+[2026-11-17 08:01:07] Неизвестный источник (newsbtc.com): MegaETH Cuts Staff as AI Ambitions Compl
+[2026-11-17 08:01:07] Неизвестный источник (cointelegraph.com): US sellers drive Bitcoin crash, Jensen p
+[2026-11-17 08:01:07] Неизвестный источник (ozbargain.com.au): Black Friday Travel eSIMs Deals - 1GB/7d
+[2026-11-17 08:01:07] Не про ИИ, пропускаю: Full transcript of "Face the Nation with Margaret 
+[2026-11-17 08:01:07] Неизвестный источник (bleepingcomputer.com): FBI warns ARTEX AI hacking tool is power
+[2026-11-17 08:01:07] Неизвестный источник (usatoday.com): The Fernando Mendoza era begins—Shop Men
+[2026-11-17 08:01:07] Неизвестный источник (fairobserver.com): AI Governance Must Leave the Screen and 
+[2026-11-17 08:01:07] Неизвестный источник (en.sedaily.com): Samsung to Make SpaceX Satellite Chips i
+[2026-11-17 08:01:07] Неизвестный источник (trendkia.com): Nvidia Leadership Clash Brings Executive
+[2026-11-17 08:01:07] Неизвестный источник (rferl.org): Central Asia's AI Race: Big Ambitions, E
+[2026-11-17 08:01:07] Неизвестный источник (dcforecasts.com): IOND Stock: Celsius’s Old Miner Earns $8
+[2026-11-17 08:01:07] Неизвестный источник (thehindubusinessline.com): Bharti’s ‘Mahabharatas’: Sunil Mittal ta
+[2026-11-17 08:01:07] Неизвестный источник (en.protothema.gr): PM’S Sunday address: Heating allowance r
+[2026-11-17 08:01:07] Same story twice in candidates: California state AG sues OpenAI over rogue agent i
+[2026-11-17 08:01:07] AI news: 19 candidates from quality and trusted outlets
+[2026-11-17 08:01:07] AI news: 19 candidates after filtering
+[2026-11-17 08:01:10] Редакторский отбор: выбраны позиции [3, 11, 14, 9]
+[2026-11-17 08:01:10] Обрабатываю: US moves to cut China’s remote access to AI chips | https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-rem
+[2026-11-17 08:01:10] Полный текст получен (3000 символов)
+[2026-11-17 08:01:10] Попытка 1 для: US moves to cut China’s remote access to
+[2026-11-17 08:01:14] Успешно, получено 2028 символов
+[2026-11-17 08:01:14] Обрабатываю: California sues OpenAI over safety concerns after rogue agen | https://www.theguardian.com/technology/2026/nov/16/california-openai-r
+[2026-11-17 08:01:14] Полный текст получен (3000 символов)
+[2026-11-17 08:01:14] Попытка 1 для: California sues OpenAI over safety conce
+[2026-11-17 08:01:16] Успешно, получено 1439 символов
+[2026-11-17 08:01:16] Обрабатываю: Albanese signs on to Trump’s AI supply chain pact before lea | https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads
+[2026-11-17 08:01:16] Полный текст получен (3000 символов)
+[2026-11-17 08:01:16] Попытка 1 для: Albanese signs on to Trump’s AI supply c
+[2026-11-17 08:01:27] Успешно, получено 1771 символов
+[2026-11-17 08:01:27] Обрабатываю: The AI start-ups fixing India's broken roads and messy land  | https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at
+[2026-11-17 08:01:27] Полный текст получен (3000 символов)
+[2026-11-17 08:01:27] Попытка 1 для: The AI start-ups fixing India's broken r
+[2026-11-17 08:01:52] Успешно, получено 1766 символов
+[2026-11-17 08:01:55] Пауза 60 секунд...
+[2026-11-17 08:02:55] Пауза 60 секунд...
+[2026-11-17 08:03:56] Пауза 60 секунд...
+[2026-11-17 08:04:57] sent_urls.txt обрезан: 304 -> 300
+[2026-11-17 08:04:57] === Блок ai_morning завершён ===
