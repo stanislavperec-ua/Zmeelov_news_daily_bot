@@ -1,98 +1,3 @@
-[2026-11-11 11:01:09] Неизвестный источник (macrumors.com): Here's What Apple Fixed in iOS 27.2.1 an
-[2026-11-11 11:01:09] Неизвестный источник (mynbc5.com): Measles cases confirmed in Orleans Count
-[2026-11-11 11:01:09] Неизвестный источник (cbssports.com): Why NFL trade deadline evolved from afte
-[2026-11-11 11:01:09] Неизвестный источник (variety.com): ‘GTA 6’ Presales ‘Far in Excess’ of Expe
-[2026-11-11 11:01:09] Неизвестный источник (nydailynews.com): Megyn Kelly, Elon Musk decry Russell Bra
-[2026-11-11 11:01:09] Неизвестный источник (variety.com): Paul McCartney Becomes a Billionaire, Ma
-[2026-11-11 11:01:09] Неизвестный источник (space.com): NASA chief Jared Isaacman skydives into 
-[2026-11-11 11:01:09] Старая новость (2026-11-08T16:30:01Z): Experimental weight-loss drug eases pain
-[2026-11-11 11:01:09] Старая новость (2026-11-06T13:49:11Z): Wisconsin Reports Its First Infant Death
-[2026-11-11 11:01:09] Мировые новости: найдено 11 после фильтрации
-[2026-11-11 11:01:12] Редакторский отбор: выбраны позиции [9, 6, 4, 5]
-[2026-11-11 11:01:12] Обрабатываю: NASA is hiring astronaut candidates. Some could "live and wo | https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requir
-[2026-11-11 11:01:12] Полный текст получен (3000 символов)
-[2026-11-11 11:01:12] Попытка 1 для: NASA is hiring astronaut candidates. Som
-[2026-11-11 11:01:15] Успешно, получено 1858 символов
-[2026-11-11 11:01:15] Обрабатываю: Hungarian police reportedly detain brother of ex-PM Viktor O | https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-d
-[2026-11-11 11:01:16] Полный текст получен (1519 символов)
-[2026-11-11 11:01:16] Попытка 1 для: Hungarian police reportedly detain broth
-[2026-11-11 11:01:19] Успешно, получено 1650 символов
-[2026-11-11 11:01:19] Обрабатываю: Investigators recover the voice recorder from a jet crash in | https://apnews.com/article/florida-jet-crash-voice-recorder-1f62a51700
-[2026-11-11 11:01:19] Попытка 1 для: Investigators recover the voice recorder
-[2026-11-11 11:01:21] Успешно, получено 879 символов
-[2026-11-11 11:01:21] Обрабатываю: A Haitian 8-year-old was taken by ICE at routine check-in, r | https://www.nbcnews.com/news/us-news/haitian-8-year-old-was-taken-ice-
-[2026-11-11 11:01:21] Полный текст получен (3000 символов)
-[2026-11-11 11:01:21] Попытка 1 для: A Haitian 8-year-old was taken by ICE at
-[2026-11-11 11:01:31] Успешно, получено 1878 символов
-[2026-11-11 11:01:34] Пауза 60 секунд...
-[2026-11-11 11:02:34] Пауза 60 секунд...
-[2026-11-11 11:03:34] Пауза 60 секунд...
-[2026-11-11 11:04:35] sent_urls.txt обрезан: 304 -> 300
-[2026-11-11 11:04:35] === Блок midday завершён ===
-[2026-11-11 16:01:06] Загружено 300 уже отправленных новостей
-[2026-11-11 16:01:06] === Запуск блока: evening (тест: False) ===
-[2026-11-11 16:01:06] Story memory: 95 headlines from the last 96 h
-[2026-11-11 16:01:06] Неизвестный источник (6abc.com): Health officials confirm case of measles
-[2026-11-11 16:01:06] Заблокированный источник (finance.yahoo.com): 'Not great': October CPI inflation data 
-[2026-11-11 16:01:06] Неизвестный источник (usatoday.com): 'Insane': UFC's Dana White turns down Tr
-[2026-11-11 16:01:06] Неизвестный источник (cbssports.com): 2026 NFL trade deadline live updates: La
-[2026-11-11 16:01:06] Неизвестный источник (deadline.com): David Walliams Dropped By Independent Ta
-[2026-11-11 16:01:06] Неизвестный источник (mmafighting.com): Morning Report | Sean O’Malley is rootin
-[2026-11-11 16:01:06] Лента обновлений, пропускаю: Live Updates: Trump says U.S. keeping Ir
-[2026-11-11 16:01:06] Неизвестный источник (yourlocalepidemiologist.substack.com): Measles elimination decision brewing, wh
-[2026-11-11 16:01:06] Неизвестный источник (space.com): NASA's twin ESCAPADE Mars probes slingsh
-[2026-11-11 16:01:06] Неизвестный источник (espn.com): Victor Wembanyama scores 40 points in 25
-[2026-11-11 16:01:06] Неизвестный источник (hollywoodreporter.com): Inside James Gunn, Peter Safran’s DC Ous
-[2026-11-11 16:01:06] Неизвестный источник (deadline.com): 'Ebenezer' Red Carpet London Premiere Ph
-[2026-11-11 16:01:06] Неизвестный источник (wral.com): Earth is surrounded by millions of piece
-[2026-11-11 16:01:06] Неизвестный источник (mynbc5.com): Measles cases confirmed in Orleans Count
-[2026-11-11 16:01:06] Пропускаю уже отправленную: NASA is hiring astronaut candidates. Some could "l
-[2026-11-11 16:01:06] Мировые новости: найдено 13 после фильтрации
-[2026-11-11 16:01:11] Редакторский отбор: выбраны позиции [13, 8, 4, 3]
-[2026-11-11 16:01:12] RSS Ukrinform: код 503
-[2026-11-11 16:01:13] RSS Ukrinform: код 503
-[2026-11-11 16:01:13] RSS Euromaidan Press: 29 записей
-[2026-11-11 16:01:14] NewsAPI (мировые про Украину): пришло 47 статей
-[2026-11-11 16:01:14] Нет фото: roguard-child-safety 10.0.0
-[2026-11-11 16:01:14] Заблокированный источник (biztoc.com): Zelensky calls Abu Dhabi trilateral talk
-[2026-11-11 16:01:14] Заблокированный источник (rt-english.com): Africa in a changing global order: What 
-[2026-11-11 16:01:14] Заблокированный источник (biztoc.com): Merz and Magyar clash over Ukraine and E
-[2026-11-11 16:01:14] Нет фото: BT won't launch Starlink deal until peop
-[2026-11-11 16:01:14] Заблокированный источник (biztoc.com): Ukraine & Russia Quietly Signal A 'Littl
-[2026-11-11 16:01:14] Same story already published: Trilateral talks in Abu Dhabi addressed humanitari ~ Budanov: Humanitarian issues to be major focus of 
-[2026-11-11 16:01:14] Нет фото: U.S., Russia and Ukraine begin talks in 
-[2026-11-11 16:01:14] Заблокированный источник (biztoc.com): Russia and Ukraine hold nearly 4 hours o
-[2026-11-11 16:01:14] Спорт, пропускаю: Every player from California to play for
-[2026-11-11 16:01:14] Заблокированный источник (rt-english.com): German World Cup winner placed on Ukrain
-[2026-11-11 16:01:14] Украинские новости: найдено 34 после фильтрации
-[2026-11-11 16:01:17] Редакторский отбор: выбраны позиции [1, 10]
-[2026-11-11 16:01:17] NewsAPI (Харьков, все издания): пришло 6 статей
-[2026-11-11 16:01:18] RSS Ukrinform: код 503
-[2026-11-11 16:01:19] RSS Ukrinform: код 503
-[2026-11-11 16:01:19] RSS Euromaidan Press: 29 записей
-[2026-11-11 16:01:19] Пропускаю уже отправленную: Ukraine: Russian Drone Attacks Endanger Rail Trave
-[2026-11-11 16:01:19] Заблокированный источник (dailymail.com): Moment another wounded Ukrainian soldier
-[2026-11-11 16:01:19] Харьков: новостей не найдено
-[2026-11-11 16:01:19] Обрабатываю: ‘Like gods reigning over humans’: Many defectors see daughte | https://apnews.com/article/north-korea-kim-daughter-heir-defectors-1e9
-[2026-11-11 16:01:19] Попытка 1 для: ‘Like gods reigning over humans’: Many d
-[2026-11-11 16:01:21] Успешно, получено 851 символов
-[2026-11-11 16:01:21] Обрабатываю: U.S. moves military aircraft from British base amid Iran thr | https://www.nbcnews.com/world/europe/us-moves-military-aircraft-britis
-[2026-11-11 16:01:22] Полный текст получен (3000 символов)
-[2026-11-11 16:01:22] Попытка 1 для: U.S. moves military aircraft from Britis
-[2026-11-11 16:01:24] Успешно, получено 1622 символов
-[2026-11-11 16:01:24] Обрабатываю: Indonesia's VP offers resignation as questions mount over hi | https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resign
-[2026-11-11 16:01:24] Полный текст получен (2187 символов)
-[2026-11-11 16:01:24] Попытка 1 для: Indonesia's VP offers resignation as que
-[2026-11-11 16:01:42] Успешно, получено 1593 символов
-[2026-11-11 16:01:42] Обрабатываю: Nvidia CEO’s affair with an alleged Chinese spy could be a p | https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen
-[2026-11-11 16:01:54] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/technology/2026/11/10/nvidia-
-[2026-11-11 16:01:54] Попытка 1 для: Nvidia CEO’s affair with an alleged Chin
-[2026-11-11 16:01:56] Успешно, получено 909 символов
-[2026-11-11 16:01:59] Пауза 60 секунд...
-[2026-11-11 16:03:00] Пауза 60 секунд...
-[2026-11-11 16:04:00] Пауза 60 секунд...
-[2026-11-11 16:05:01] Обрабатываю: Only one-third of Ukraine’s key transformers are protected f | https://euromaidanpress.com/2026/11/11/only-one-third-of-ukraines-key-
-[2026-11-11 16:05:01] Полный текст получен (2584 символов)
 [2026-11-11 16:05:01] Попытка 1 для: Only one-third of Ukraine’s key transfor
 [2026-11-11 16:05:05] Успешно, получено 1687 символов
 [2026-11-11 16:05:05] Обрабатываю: Russia says it is protecting Ukrainian children, but its occ | https://euromaidanpress.com/2026/11/11/russia-says-it-is-protecting-uk
@@ -2998,3 +2903,98 @@ Chery Omoda 5 recalled after broken
 [2026-11-18 16:06:26] Пауза 60 секунд...
 [2026-11-18 16:07:27] sent_urls.txt обрезан: 307 -> 300
 [2026-11-18 16:07:27] === Блок evening завершён ===
+[2026-11-18 18:01:07] Загружено 300 уже отправленных новостей
+[2026-11-18 18:01:07] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-18 18:01:07] Story memory: 91 headlines from the last 96 h
+[2026-11-18 18:01:07] RSS The Guardian: 20 записей
+[2026-11-18 18:01:07] RSS Wired: 10 записей
+[2026-11-18 18:01:07] RSS TechCrunch: код 403
+[2026-11-18 18:01:07] RSS Ars Technica: 20 записей
+[2026-11-18 18:01:07] RSS MIT Technology Review: 10 записей
+[2026-11-18 18:01:07] RSS BBC News: 21 записей
+[2026-11-18 18:01:08] RSS IEEE Spectrum: 30 записей
+[2026-11-18 18:01:08] AI feeds: 20 candidates from quality outlets
+[2026-11-18 18:01:08] NewsAPI (AI): пришло 58 статей
+[2026-11-18 18:01:08] Неизвестный источник (zycrypto.com): Cardano Faces a Crucial Turning Point Am
+[2026-11-18 18:01:08] Неизвестный источник (offgridsurvival.com): Internet Meltdown Gets Worse: Gmail, App
+[2026-11-18 18:01:08] Неизвестный источник (offgridsurvival.com): FBI Warns AI Hackers Can Break Into Netw
+[2026-11-18 18:01:08] Неизвестный источник (offgridsurvival.com): Internet Meltdown: NSA’s Classified Netw
+[2026-11-18 18:01:08] Неизвестный источник (pymnts.com): Bilt Seeks $500 Million at $18 Billion V
+[2026-11-18 18:01:08] Неизвестный источник (aws.amazon.com): Using the AWS RMiT workbook and ISO Comp
+[2026-11-18 18:01:08] Неизвестный источник (thezvi.substack.com): SOLD CHINA LOTS OF CHIPS?
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): Chainguard goes self-serve with free Sta
+[2026-11-18 18:01:08] Не про ИИ, пропускаю: The Trump White House is starting to admit that yo
+[2026-11-18 18:01:08] Неизвестный источник (crooksandliars.com): Scandal-Plagued Texas Republican Makes A
+[2026-11-18 18:01:08] Неизвестный источник (thehindubusinessline.com): India world's best long-term investment 
+[2026-11-18 18:01:08] Неизвестный источник (pymnts.com): Home Depot’s $43 Billion Quarter Hides a
+[2026-11-18 18:01:08] Неизвестный источник (newrepublic.com): In Yet Another Outage, the NSA Is Down
+[2026-11-18 18:01:08] Неизвестный источник (dailycaller.com): NSA’s Classified Network Goes Dark As US
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): LanceDB raises $57.5M to accelerate AI m
+[2026-11-18 18:01:08] Не про ИИ, пропускаю: Chase Home Lending CEO says he plans to 'go on off
+[2026-11-18 18:01:08] Неизвестный источник (timesofindia.indiatimes.com): Govt focuses on welfare and development,
+[2026-11-18 18:01:08] Неизвестный источник (foxnews.com): Far-left US groups battle Trump plan to 
+[2026-11-18 18:01:08] Неизвестный источник (webdesignerdepot.com): 10 Lessons Learned from Auditing 100 Onl
+[2026-11-18 18:01:08] Неизвестный источник (claimsjournal.com): Viewpoint: When AI Leaves the Screen, th
+[2026-11-18 18:01:08] Заблокированный источник (dailymail.com): JD Vance tells Americans 'prepare for al
+[2026-11-18 18:01:08] Неизвестный источник (federalreserve.gov): Waller, Considerations at the Intersecti
+[2026-11-18 18:01:08] Неизвестный источник (en.protothema.gr): Google Maps rolls out interactive AI-pow
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): Spara’s Scout AI assistant acts on sales
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): Semperis updates Lightning identity secu
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): Exclusive: Cogent Security’s DefenseOS a
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): SiMa.ai’s Palette 3.0 runs many AI model
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): Ontology pre-training improves machine l
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): Effects of latent feature construction a
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): CASTLE: Cell-type aware SpaTial domain d
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): Machine learning for host-pathogen prote
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): Cytolethal distending toxin promotes epi
+[2026-11-18 18:01:08] Заблокированный источник (journals.plos.org): Hierarchical data-driven dynamical surro
+[2026-11-18 18:01:08] Неизвестный источник (fairobserver.com): The Age of Strategic Exhaustion
+[2026-11-18 18:01:08] Неизвестный источник (skilldential.com): 25 Best AI Marketing Tools for Freelance
+[2026-11-18 18:01:08] Неизвестный источник (telecomtv.com): Telus mocks C$31.3bn takeover offer from
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): SuperDial revamps its healthcare voice a
+[2026-11-18 18:01:08] Неизвестный источник (vanityfair.com): Timothée Chalamet Came Over for Lunch—an
+[2026-11-18 18:01:08] Неизвестный источник (kqed.org): Muni Targets Bus Stop, Transit Lane Doub
+[2026-11-18 18:01:08] Неизвестный источник (gov.uk): Bridge scanners and wearable safety aler
+[2026-11-18 18:01:08] Неизвестный источник (ibtimes.com.au): Microsoft Outlook Down Again? Users Repo
+[2026-11-18 18:01:08] Нет фото: MATE-runtime 1.3.0
+[2026-11-18 18:01:08] Не про ИИ, пропускаю: Congratulations to WIRED’s Class of 2026
+[2026-11-18 18:01:08] Неизвестный источник (scientificamerican.com): Why Nvidia is betting on silicon photoni
+[2026-11-18 18:01:08] Не про ИИ, пропускаю: AI Told These Ex-Google Guys How to Build a Billio
+[2026-11-18 18:01:08] Неизвестный источник (business-standard.com): Google flags first autonomous AI cyberat
+[2026-11-18 18:01:08] Неизвестный источник (channelnewsasia.com): Singapore to push for single ASEAN marke
+[2026-11-18 18:01:08] Неизвестный источник (timesofindia.indiatimes.com): Airtel Cloud aims to support low-latency
+[2026-11-18 18:01:08] Неизвестный источник (m.economictimes.com): UPI and the trust pact in its second act
+[2026-11-18 18:01:08] Неизвестный источник (wattsupwiththat.com): Twenty Years of Watts Up With That? – Wh
+[2026-11-18 18:01:08] Неизвестный источник (m.economictimes.com): UPI’s free era is ending. Who pays, who 
+[2026-11-18 18:01:08] Неизвестный источник (newsonjapan.com): Tokyo to Introduce AI Traffic Signals
+[2026-11-18 18:01:08] Неизвестный источник (bitcoinfoundation.org): IMF Warns AI Investment Confidence Shock
+[2026-11-18 18:01:08] Неизвестный источник (siliconangle.com): With $5M in funding, Pretxt launches run
+[2026-11-18 18:01:08] Неизвестный источник (insidehighered.com): As AI Changes How Students Approach Coll
+[2026-11-18 18:01:08] Неизвестный источник (rte.ie): Nvidia rules out Huang comeback amid ret
+[2026-11-18 18:01:08] Неизвестный источник (en.protothema.gr): K.M. and the mayors who want (…just a li
+[2026-11-18 18:01:08] AI news: 21 candidates from quality and trusted outlets
+[2026-11-18 18:01:08] AI news: 21 candidates after filtering
+[2026-11-18 18:01:11] Редакторский отбор: выбраны позиции [1, 2, 19, 6]
+[2026-11-18 18:01:11] Обрабатываю: US senators urge White House AI chief to fix vulnerabilities | https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-ou
+[2026-11-18 18:01:11] Полный текст получен (3000 символов)
+[2026-11-18 18:01:11] Попытка 1 для: US senators urge White House AI chief to
+[2026-11-18 18:01:15] Успешно, получено 2324 символов
+[2026-11-18 18:01:15] Обрабатываю: Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hackin | https://www.wired.com/story/artex-ai-hacking-tools/
+[2026-11-18 18:01:15] Полный текст получен (3000 символов)
+[2026-11-18 18:01:15] Попытка 1 для: Artex Is Criminals’ New Favorite ‘Point-
+[2026-11-18 18:01:21] Ответ модели без нужной структуры (1198 символов): Artex: новый любимый киберпреступников инструмент «точка и стрелять» Суть: 18.11.2026. В конце августа этого года киберпреступники начали массово использовать новые AI поддерживаемые инструменты для а
+[2026-11-18 18:01:26] Попытка 2 для: Artex Is Criminals’ New Favorite ‘Point-
+[2026-11-18 18:01:37] Успешно, получено 2168 символов
+[2026-11-18 18:01:37] Обрабатываю: Anthropic IPO: how can I buy shares, and is it worth it? | https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flota
+[2026-11-18 18:01:37] Полный текст получен (3000 символов)
+[2026-11-18 18:01:37] Попытка 1 для: Anthropic IPO: how can I buy shares, and
+[2026-11-18 18:02:08] Успешно, получено 2069 символов
+[2026-11-18 18:02:08] Обрабатываю: Startup Makes Headway Towards Formalizing All of Math With A | https://spectrum.ieee.org/enormous-theorem-ai
+[2026-11-18 18:02:08] Текст не совпадает с заголовком, беру описание: https://spectrum.ieee.org/enormous-theorem-ai
+[2026-11-18 18:02:08] Попытка 1 для: Startup Makes Headway Towards Formalizin
+[2026-11-18 18:02:22] Успешно, получено 950 символов
+[2026-11-18 18:02:25] Пауза 60 секунд...
+[2026-11-18 18:03:26] Пауза 60 секунд...
+[2026-11-18 18:04:26] Пауза 60 секунд...
+[2026-11-18 18:05:26] sent_urls.txt обрезан: 304 -> 300
+[2026-11-18 18:05:26] === Блок ai_evening завершён ===
