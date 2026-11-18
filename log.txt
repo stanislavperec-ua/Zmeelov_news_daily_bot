@@ -1,110 +1,3 @@
-[2026-11-11 08:01:06] Загружено 300 уже отправленных новостей
-[2026-11-11 08:01:06] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-11 08:01:06] Story memory: 98 headlines from the last 96 h
-[2026-11-11 08:01:06] RSS The Guardian: 20 записей
-[2026-11-11 08:01:06] RSS Wired: 10 записей
-[2026-11-11 08:01:06] RSS TechCrunch: 20 записей
-[2026-11-11 08:01:07] RSS Ars Technica: 20 записей
-[2026-11-11 08:01:07] RSS MIT Technology Review: 10 записей
-[2026-11-11 08:01:08] RSS BBC News: 21 записей
-[2026-11-11 08:01:08] RSS IEEE Spectrum: 30 записей
-[2026-11-11 08:01:08] AI feeds: 21 candidates from quality outlets
-[2026-11-11 08:01:09] NewsAPI (AI): пришло 58 статей
-[2026-11-11 08:01:09] Неизвестный источник (bleepingcomputer.com): Fireworks AI discloses new breach after 
-[2026-11-11 08:01:09] Неизвестный источник (en.protothema.gr): Mitsotakis’ raised voice, Athens next in
-[2026-11-11 08:01:09] Неизвестный источник (thedp.com): After string of cyberattacks, experts sa
-[2026-11-11 08:01:09] Нет фото: How do birds deliver messages?
-[2026-11-11 08:01:09] Неизвестный источник (channelnewsasia.com): Mediacorp appoints Charles Ng and Eugene
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Meta introduces Muse Ember to power cost
-[2026-11-11 08:01:09] Неизвестный источник (psychologytoday.com): AI-Powered Precision Brain Stimulation R
-[2026-11-11 08:01:09] Неизвестный источник (thechronicle.com.gh): Ghanaian Students Urged To Turn Ideas In
-[2026-11-11 08:01:09] Неизвестный источник (punchng.com): AI services offer telcos fresh revenue o
-[2026-11-11 08:01:09] Неизвестный источник (punchng.com): WIMAFRICA seeks greater economic power f
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Anthropic launches Fable 5.2 and Mythos 
-[2026-11-11 08:01:09] Не про ИИ, пропускаю: Network approaches to community detection in nanos
-[2026-11-11 08:01:09] Не про ИИ, пропускаю: Information formatting in neuronal populations pre
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Trump stands by Nvidia boss Jensen Huang
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Despite spying scandal, Trump stands by 
-[2026-11-11 08:01:09] Нет фото: AI Bubble Tracker
-[2026-11-11 08:01:09] Нет фото: pyscdblfinder 0.3.2
-[2026-11-11 08:01:09] Нет фото: pyscdblfinder 0.3.1
-[2026-11-11 08:01:09] Неизвестный источник (zycrypto.com): Forget ‘Ultrasound Money’? Vitalik Buter
-[2026-11-11 08:01:09] Неизвестный источник (observer.com): With a Bigger, More International Art We
-[2026-11-11 08:01:09] Неизвестный источник (digitaljournal.com): AI could make writing code the easy part
-[2026-11-11 08:01:09] Неизвестный источник (decrypt.co): Google Takes Aim at Nvidia With New AI C
-[2026-11-11 08:01:09] Неизвестный источник (decrypt.co): Google Takes Aim at Nvidia With New AI C
-[2026-11-11 08:01:09] Неизвестный источник (blogs.cisco.com): Dynamic model routing: The new SD-WAN fo
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Cisco research: Trust, not technology, i
-[2026-11-11 08:01:09] Неизвестный источник (foxnews.com): New AI malware ranks victims by how much
-[2026-11-11 08:01:09] Не про ИИ, пропускаю: A short-seller flagged Jensen Huang's relationship
-[2026-11-11 08:01:09] Неизвестный источник (blog.okfn.org): Open Knowledge Austria starts anew
-[2026-11-11 08:01:09] Заблокированный источник (arxiv.org): Qualiaphobic artificial neural networks 
-[2026-11-11 08:01:09] Неизвестный источник (blogs.cisco.com): Welcome to the DevNet Month of Cisco Val
-[2026-11-11 08:01:09] Неизвестный источник (nextgov.com): Congress returns to slew of cyber deadli
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): On theCUBE Pod: Blue wave sends AI stock
-[2026-11-11 08:01:09] Неизвестный источник (supplychaindive.com): Amazon deploys thousands of smart glasse
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Hardware-testing and engineering startup
-[2026-11-11 08:01:09] Неизвестный источник (military.com): Military Scams: 5 Frauds Targeting Veter
-[2026-11-11 08:01:09] Не про ИИ, пропускаю: Africa's fight against fake news: Who decides what
-[2026-11-11 08:01:09] Не про ИИ, пропускаю: Fake news in Africa: In an age of disinformation, 
-[2026-11-11 08:01:09] Неизвестный источник (livemint.com): Nvidia chips, Alibaba ties and Jensen Hu
-[2026-11-11 08:01:09] Неизвестный источник (dcforecasts.com): China Moves Blockchain Filings Into Its 
-[2026-11-11 08:01:09] Нет фото: sail-kd 0.10.0
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Red Hat adds agentic AI operations, stro
-[2026-11-11 08:01:09] Неизвестный источник (telecomtv.com): The week in AI-native telco (31 Oct-6 No
-[2026-11-11 08:01:09] Нет фото: feagi 2.6.15
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Diagrid’s Dapr 1.19 lightens AI agent wo
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Broadcom open-sources its Kubernetes VM 
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): AWS commits $100M in AI and cloud credit
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Exclusive: FormAssembly overhauls its pl
-[2026-11-11 08:01:09] Неизвестный источник (pyimagesearch.com): What Is MLOps? Architecture, MLOps vs De
-[2026-11-11 08:01:09] Неизвестный источник (moneycontrol.com): What is Megaspeed? How Nvidia's cloud pa
-[2026-11-11 08:01:09] Неизвестный источник (thehackernews.com): ⚡ Weekly Recap: SSHole Exploited, APT Ro
-[2026-11-11 08:01:09] Неизвестный источник (siliconangle.com): Google advances agentic AI custom silico
-[2026-11-11 08:01:09] Неизвестный источник (livemint.com): ‘Nvidia has a significant China problem’
-[2026-11-11 08:01:09] Неизвестный источник (en.protothema.gr): Greece-Cyprus power cable: No permission
-[2026-11-11 08:01:09] Пропускаю уже отправленную: Wearable sleep trackers are using your brainwaves 
-[2026-11-11 08:01:09] Неизвестный источник (insidethemagic.net): With Disney Planning Thousands of Layoff
-[2026-11-11 08:01:09] Нет фото: dansur-hm 1.0.0
-[2026-11-11 08:01:09] Нет фото: dansur-hm added to PyPI
-[2026-11-11 08:01:09] Неизвестный источник (economictimes.indiatimes.com): Nvidia controversy stokes export scrutin
-[2026-11-11 08:01:09] AI news: 21 candidates from quality and trusted outlets
-[2026-11-11 08:01:09] AI news: 21 candidates after filtering
-[2026-11-11 08:01:13] Редакторский отбор: выбраны позиции [6, 9, 1, 8]
-[2026-11-11 08:01:13] Обрабатываю: Claude chatbot maker set for $1.3tn stock market debut despi | https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at
-[2026-11-11 08:01:13] Полный текст получен (3000 символов)
-[2026-11-11 08:01:13] Попытка 1 для: Claude chatbot maker set for $1.3tn stoc
-[2026-11-11 08:01:15] Успешно, получено 1484 символов
-[2026-11-11 08:01:15] Обрабатываю: OpenAI, Anthropic face new oversight as New York’s AI safety | https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-
-[2026-11-11 08:01:15] Полный текст получен (2819 символов)
-[2026-11-11 08:01:15] Попытка 1 для: OpenAI, Anthropic face new oversight as 
-[2026-11-11 08:01:19] Успешно, получено 2097 символов
-[2026-11-11 08:01:19] Обрабатываю: AI has made it ‘close to impossible’ to assess university co | https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossib
-[2026-11-11 08:01:19] Полный текст получен (3000 символов)
-[2026-11-11 08:01:19] Попытка 1 для: AI has made it ‘close to impossible’ to 
-[2026-11-11 08:01:37] Успешно, получено 2116 символов
-[2026-11-11 08:01:37] Обрабатываю: Tear Down Those Guardrails! Meet the Renegades Freeing Chatb | https://www.wired.com/story/tear-down-those-guardrails-meet-the-renega
-[2026-11-11 08:01:37] Текст не совпадает с заголовком, беру описание: https://www.wired.com/story/tear-down-those-guardrails-meet-
-[2026-11-11 08:01:37] Попытка 1 для: Tear Down Those Guardrails! Meet the Ren
-[2026-11-11 08:01:44] Успешно, получено 1064 символов
-[2026-11-11 08:01:47] Пауза 60 секунд...
-[2026-11-11 08:02:47] Пауза 60 секунд...
-[2026-11-11 08:03:48] Пауза 60 секунд...
-[2026-11-11 08:04:49] sent_urls.txt обрезан: 304 -> 300
-[2026-11-11 08:04:49] === Блок ai_morning завершён ===
-[2026-11-11 11:01:09] Загружено 300 уже отправленных новостей
-[2026-11-11 11:01:09] === Запуск блока: midday (тест: False) ===
-[2026-11-11 11:01:09] Story memory: 98 headlines from the last 96 h
-[2026-11-11 11:01:09] Неизвестный источник (thehackernews.com): Google Issues Chrome Security Update for
-[2026-11-11 11:01:09] Неизвестный источник (nbcsports.com): Kevin O’Connell on potential quarterback
-[2026-11-11 11:01:09] Неизвестный источник (profootballrumors.com): Jaguars Acquire Jordan Davis From Eagles
-[2026-11-11 11:01:09] Неизвестный источник (kcci.com): Fall Out Boy bringing 'Twilight of the P
-[2026-11-11 11:01:09] Неизвестный источник (mashable.com): 'The Ocarina of Time' remake is setting 
-[2026-11-11 11:01:09] Заблокированный источник (sports.yahoo.com): UFC chief declines Trump's White House j
-[2026-11-11 11:01:09] Лента обновлений, пропускаю: S&P 500 futures are little changed as tr
-[2026-11-11 11:01:09] Неизвестный источник (wral.com): Earth is surrounded by millions of piece
-[2026-11-11 11:01:09] Пропускаю уже отправленную: Hegseth impeachment effort begins in House, focuse
-[2026-11-11 11:01:09] Неизвестный источник (houstonchronicle.com): FBI investigating 'suspected homicide' o
 [2026-11-11 11:01:09] Неизвестный источник (macrumors.com): Here's What Apple Fixed in iOS 27.2.1 an
 [2026-11-11 11:01:09] Неизвестный источник (mynbc5.com): Measles cases confirmed in Orleans Count
 [2026-11-11 11:01:09] Неизвестный источник (cbssports.com): Why NFL trade deadline evolved from afte
@@ -2998,3 +2891,110 @@ Chery Omoda 5 recalled after broken
 [2026-11-18 11:03:37] Пауза 60 секунд...
 [2026-11-18 11:04:37] sent_urls.txt обрезан: 304 -> 300
 [2026-11-18 11:04:37] === Блок midday завершён ===
+[2026-11-18 16:01:06] Загружено 300 уже отправленных новостей
+[2026-11-18 16:01:06] === Запуск блока: evening (тест: False) ===
+[2026-11-18 16:01:06] Story memory: 95 headlines from the last 96 h
+[2026-11-18 16:01:06] Неизвестный источник (espn.com): Tiger Woods to return for next month's H
+[2026-11-18 16:01:06] Пропускаю уже отправленную: Grok Bot took unapproved actions, ignored orders t
+[2026-11-18 16:01:06] Неизвестный источник (bloodyelbow.com): Ciryl Gane provides health update in fir
+[2026-11-18 16:01:06] Неизвестный источник (ky3.com): Doctors sound the alarm about US babies 
+[2026-11-18 16:01:06] Спорт, пропускаю: Melbourne Cup horse So You Are found dea
+[2026-11-18 16:01:06] Неизвестный источник (space.com): The Leonid meteor shower peaks tonight! 
+[2026-11-18 16:01:06] Неизвестный источник (usatoday.com): 'Below Deck' star Gael Cameron speaks on
+[2026-11-18 16:01:06] Неизвестный источник (espn.com): Kyle Hamilton says Ravens 'disgracing' s
+[2026-11-18 16:01:06] Пропускаю уже отправленную: U.S. loses measles-elimination status, erasing dec
+[2026-11-18 16:01:06] Неизвестный источник (variety.com): Jennifer Lawrence Stuns as 'Hunger Games
+[2026-11-18 16:01:06] Пропускаю уже отправленную: Exclusive: US intel indicates Iran developing plan
+[2026-11-18 16:01:06] Неизвестный источник (avi-loeb.medium.com): JAXA Cancels Trip to the “Dark Comet” 19
+[2026-11-18 16:01:06] Неизвестный источник (9to5mac.com): iPhone Duo now has twice as many optimiz
+[2026-11-18 16:01:06] Старая новость (2026-11-16T13:40:33Z): 'iPhone 20 Pro' Rumored to Be Based on i
+[2026-11-18 16:01:06] Старая новость (2026-11-16T11:58:17Z): Israel under pressure as winter rains la
+[2026-11-18 16:01:06] Старая новость (2026-11-15T14:00:41Z): Prostate cancer testing now urged for me
+[2026-11-18 16:01:06] Нет фото: SpaceX’s Starship soars into orbit after
+[2026-11-18 16:01:06] Мировые новости: найдено 11 после фильтрации
+[2026-11-18 16:01:08] Редакторский отбор: выбраны позиции [5, 10, 8, 11]
+[2026-11-18 16:01:09] RSS Ukrinform: 30 записей
+[2026-11-18 16:01:10] RSS Ukrinform: 30 записей
+[2026-11-18 16:01:11] RSS Euromaidan Press: 29 записей
+[2026-11-18 16:01:11] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-11-18 16:01:11] Нет фото: Getting Out of Trump’s Wars
+[2026-11-18 16:01:11] Заблокированный источник (dailymail.com): Military plane crashes in Russia, killin
+[2026-11-18 16:01:11] Заблокированный источник (rt-english.com): How the EU’s ‘authoritarian network’ san
+[2026-11-18 16:01:11] Заблокированный источник (rt-english.com): Lavrov mocks Johnson’s vodka ‘punishment
+[2026-11-18 16:01:11] Нет фото: The Pickled Vegetable Bottles That Took 
+[2026-11-18 16:01:11] Заблокированный источник (nypost.com): Kim Jong Un inspects North Korean touris
+[2026-11-18 16:01:11] Заблокированный источник (biztoc.com): Ukraine Nuclear Accident Risk Soars Ahea
+[2026-11-18 16:01:11] Спорт, пропускаю: Hackers Hijack IIHF Website To Post Pro-
+[2026-11-18 16:01:11] Спорт, пропускаю: Wiegman excited by potential of England’
+[2026-11-18 16:01:11] Нет фото: David Beckham sues after his fragrance i
+[2026-11-18 16:01:11] Заблокированный источник (breitbart.com): Ukraine Destroys Highly Symbolic Kerch B
+[2026-11-18 16:01:11] Заблокированный источник (rt-english.com): Ukrainian anti-graft investigators sign 
+[2026-11-18 16:01:11] Заблокированный источник (biztoc.com): Russian strikes knock out heating in 3 K
+[2026-11-18 16:01:11] Заблокированный источник (journals.plos.org): Foreign-player origins in the Chinese Su
+[2026-11-18 16:01:11] Нет фото: OUTRAGEOUS: Democrat-Led Charlotte Moves
+[2026-11-18 16:01:11] Нет фото: Musk Throttles Ukraine Starlink Connecti
+[2026-11-18 16:01:11] Заблокированный источник (thegatewaypundit.com): OUTRAGEOUS: Democrat-Led Charlotte Moves
+[2026-11-18 16:01:11] Нет фото: NIGHT OF BRIDGES: Crimean Bridge ARCH CO
+[2026-11-18 16:01:11] Same story twice in candidates: Drones attack Afipsky and Ilsky oil refineries in 
+[2026-11-18 16:01:11] Same story twice in candidates: Air defence neutralises 126 Russian drones used to
+[2026-11-18 16:01:11] Same story twice in candidates: Reports of drone debris hitting residential buildi
+[2026-11-18 16:01:11] Same story twice in candidates: Debris from Russian drone hits high-rise residenti
+[2026-11-18 16:01:11] Same story twice in candidates: General Staff confirms strikes on Ilsky and Afipsk
+[2026-11-18 16:01:11] Same story twice in candidates: Situation for civilians in Oleshky will worsen as 
+[2026-11-18 16:01:11] Same story twice in candidates: Russian attack on Kyiv region leaves four injured,
+[2026-11-18 16:01:11] Same story twice in candidates: Ukrainian forces strike bridge over Siverskyi Done
+[2026-11-18 16:01:11] Same story twice in candidates: Russian forces strike central Odesa for third time
+[2026-11-18 16:01:11] Same story twice in candidates: Agricultural enterprise, gas station damaged in Ru
+[2026-11-18 16:01:11] Same story twice in candidates: Portugal to allocate additional EUR 50M for weapon
+[2026-11-18 16:01:11] Same story twice in candidates: Russian forces strike Odesa for second time, death
+[2026-11-18 16:01:11] Same story twice in candidates: Residential building damaged in Russian attack on 
+[2026-11-18 16:01:11] Same story twice in candidates: Russian forces strike market in Zlatopil, Kharkiv 
+[2026-11-18 16:01:11] Same story twice in candidates: Russian forces attack industrial infrastructure in
+[2026-11-18 16:01:11] Same story twice in candidates: More than 80 settlements without electricity in Ri
+[2026-11-18 16:01:11] Same story twice in candidates: Drones attack Afipsky and Ilsky oil refineries in 
+[2026-11-18 16:01:11] Same story twice in candidates: Air defence neutralises 126 Russian drones used to
+[2026-11-18 16:01:11] Same story twice in candidates: Air defence neutralises 126 Russian drones used to
+[2026-11-18 16:01:11] Same story twice in candidates: How the attack on Putin's prized Crimean Bridge un
+[2026-11-18 16:01:11] Украинские новости: найдено 76 после фильтрации
+[2026-11-18 16:01:15] Редакторский отбор: выбраны позиции [11, 3]
+[2026-11-18 16:01:15] NewsAPI (Харьков, все издания): пришло 7 статей
+[2026-11-18 16:01:16] RSS Ukrinform: 30 записей
+[2026-11-18 16:01:17] RSS Ukrinform: 30 записей
+[2026-11-18 16:01:18] RSS Euromaidan Press: 29 записей
+[2026-11-18 16:01:18] Заблокированный источник (rt-english.com): Russian military launches large-scale st
+[2026-11-18 16:01:18] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Drone Kill
+[2026-11-18 16:01:18] Same story twice in candidates: Russian forces strike market in Zlatopil, Kharkiv 
+[2026-11-18 16:01:18] Харьков: найдена новость: Russian forces strike market in Zlatopil, Kharkiv 
+[2026-11-18 16:01:18] Обрабатываю: Putin's Crimea bridge partly collapses as Zelensky hails 'un | https://www.bbc.com/news/articles/cw772jk4rvmxo
+[2026-11-18 16:01:18] Полный текст получен (3000 символов)
+[2026-11-18 16:01:18] Попытка 1 для: Putin's Crimea bridge partly collapses a
+[2026-11-18 16:01:22] Успешно, получено 1566 символов
+[2026-11-18 16:01:22] Обрабатываю: China and Canada expand tariff relief while Ottawa-Washingto | https://apnews.com/article/apec-china-canada-xi-carney-1427deb4175e27c
+[2026-11-18 16:01:22] Попытка 1 для: China and Canada expand tariff relief wh
+[2026-11-18 16:01:30] Успешно, получено 1235 символов
+[2026-11-18 16:01:30] Обрабатываю: Democrats see an immigration opening despite Stephen Miller’ | https://www.politico.com/news/2026/11/17/democrats-trump-immigration-r
+[2026-11-18 16:01:30] Попытка 1 для: Democrats see an immigration opening des
+[2026-11-18 16:01:42] Успешно, получено 783 символов
+[2026-11-18 16:01:42] Обрабатываю: The first human-made object to travel one light-day from Ear | https://www.dw.com/en/nasas-voyager-1-reaches-a-light-day-away-from-ea
+[2026-11-18 16:01:42] Полный текст получен (3000 символов)
+[2026-11-18 16:01:42] Попытка 1 для: The first human-made object to travel on
+[2026-11-18 16:02:03] Успешно, получено 2016 символов
+[2026-11-18 16:02:06] Пауза 60 секунд...
+[2026-11-18 16:03:07] Пауза 60 секунд...
+[2026-11-18 16:04:07] Пауза 60 секунд...
+[2026-11-18 16:05:08] Обрабатываю: European Commission unveils plan for additional support to U | https://www.ukrinform.net/rubric-polytics/4185974-european-commission-
+[2026-11-18 16:05:09] Полный текст получен (2727 символов)
+[2026-11-18 16:05:09] Попытка 1 для: European Commission unveils plan for add
+[2026-11-18 16:05:14] Успешно, получено 1528 символов
+[2026-11-18 16:05:14] Обрабатываю: Debris from Russian drone hits high-rise residential buildin | https://www.ukrinform.net/rubric-ato/4186061-debris-from-russian-drone
+[2026-11-18 16:05:15] Полный текст получен (541 символов)
+[2026-11-18 16:05:15] Попытка 1 для: Debris from Russian drone hits high-rise
+[2026-11-18 16:05:18] Успешно, получено 1250 символов
+[2026-11-18 16:05:18] Обрабатываю: Russian forces strike market in Zlatopil, Kharkiv region, in | https://www.ukrinform.net/rubric-ato/4185883-russian-forces-strike-mar
+[2026-11-18 16:05:19] Полный текст получен (944 символов)
+[2026-11-18 16:05:19] Попытка 1 для: Russian forces strike market in Zlatopil
+[2026-11-18 16:05:22] Успешно, получено 1132 символов
+[2026-11-18 16:05:25] Пауза 60 секунд...
+[2026-11-18 16:06:26] Пауза 60 секунд...
+[2026-11-18 16:07:27] sent_urls.txt обрезан: 307 -> 300
+[2026-11-18 16:07:27] === Блок evening завершён ===
