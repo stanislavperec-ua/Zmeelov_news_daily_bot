@@ -1,48 +1,3 @@
-[2026-11-13 16:01:18] Same story twice in candidates: Drone attack sparks fire at one of Russia's larges
-[2026-11-13 16:01:18] Same story twice in candidates: Death toll from Russian attack on Odesa rises to t
-[2026-11-13 16:01:18] Same story twice in candidates: War update: 175 clashes on front lines over past d
-[2026-11-13 16:01:18] Same story twice in candidates: Fire in Rivne apartment building after Russian str
-[2026-11-13 16:01:18] Same story twice in candidates: Russian drone hits apartment building in Rivne, ch
-[2026-11-13 16:01:18] Same story twice in candidates: Ukraine Loses Starlink Access Again as Jared Kushn
-[2026-11-13 16:01:18] Same story twice in candidates: U.S. envoys Kushner, Witkoff meet with Putin at Kr
-[2026-11-13 16:01:18] Same story twice in candidates: Trump Envoys Witkoff and Kushner Meet With Putin i
-[2026-11-13 16:01:18] Same story twice in candidates: US envoys meet Putin at Kremlin after Ukraine talk
-[2026-11-13 16:01:18] Украинские новости: найдено 74 после фильтрации
-[2026-11-13 16:01:22] Редакторский отбор: выбраны позиции [13, 5]
-[2026-11-13 16:01:22] NewsAPI (Харьков, все издания): пришло 3 статей
-[2026-11-13 16:01:22] RSS Ukrinform: 30 записей
-[2026-11-13 16:01:23] RSS Ukrinform: 30 записей
-[2026-11-13 16:01:23] RSS Euromaidan Press: 29 записей
-[2026-11-13 16:01:23] Нет фото: Hybrid Markov Regime-Switching and Hurdl
-[2026-11-13 16:01:23] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Strike Kil
-[2026-11-13 16:01:23] Харьков: новостей не найдено
-[2026-11-13 16:01:23] Обрабатываю: Indonesia vice president resigns amid dispute over eligibili | https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-res
-[2026-11-13 16:01:23] Полный текст получен (3000 символов)
-[2026-11-13 16:01:23] Попытка 1 для: Indonesia vice president resigns amid di
-[2026-11-13 16:01:27] Успешно, получено 1824 символов
-[2026-11-13 16:01:27] Обрабатываю: Ukraine says it’s facing new restrictions to the Starshield  | https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia
-[2026-11-13 16:01:27] Полный текст получен (3000 символов)
-[2026-11-13 16:01:27] Попытка 1 для: Ukraine says it’s facing new restriction
-[2026-11-13 16:01:41] Успешно, получено 1858 символов
-[2026-11-13 16:01:41] Обрабатываю: Ebola in DR Congo: Millions of dollars going missing as viru | https://www.bbc.com/news/articles/cx98757ymm6zo
-[2026-11-13 16:01:41] Полный текст получен (3000 символов)
-[2026-11-13 16:01:41] Попытка 1 для: Ebola in DR Congo: Millions of dollars g
-[2026-11-13 16:01:59] Успешно, получено 1631 символов
-[2026-11-13 16:01:59] Обрабатываю: With Jim Jordan as leader, House Republicans signal they're  | https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democr
-[2026-11-13 16:01:59] Полный текст получен (3000 символов)
-[2026-11-13 16:01:59] Попытка 1 для: With Jim Jordan as leader, House Republi
-[2026-11-13 16:02:14] Успешно, получено 1723 символов
-[2026-11-13 16:02:18] Пауза 60 секунд...
-[2026-11-13 16:03:18] Пауза 60 секунд...
-[2026-11-13 16:04:19] Пауза 60 секунд...
-[2026-11-13 16:05:20] Обрабатываю: European Political Community: Ukraine must set its own terms | https://www.ukrinform.net/rubric-polytics/4184319-european-political-c
-[2026-11-13 16:05:21] Полный текст получен (2590 символов)
-[2026-11-13 16:05:21] Попытка 1 для: European Political Community: Ukraine mu
-[2026-11-13 16:05:23] Успешно, получено 1907 символов
-[2026-11-13 16:05:23] Обрабатываю: Zelensky says pace of recovery work following Russian strike | https://www.ukrinform.net/rubric-vidbudova/4184405-zelensky-says-pace-
-[2026-11-13 16:05:23] Полный текст получен (1338 символов)
-[2026-11-13 16:05:23] Попытка 1 для: Zelensky says pace of recovery work foll
-[2026-11-13 16:05:26] Успешно, получено 1757 символов
 [2026-11-13 16:05:30] Пауза 60 секунд...
 [2026-11-13 16:06:30] sent_urls.txt обрезан: 306 -> 300
 [2026-11-13 16:06:30] === Блок evening завершён ===
@@ -2998,3 +2953,48 @@ Chery Omoda 5 recalled after broken
 [2026-11-20 08:03:46] Пауза 60 секунд...
 [2026-11-20 08:04:46] sent_urls.txt обрезан: 304 -> 300
 [2026-11-20 08:04:46] === Блок ai_morning завершён ===
+[2026-11-20 11:01:08] Загружено 300 уже отправленных новостей
+[2026-11-20 11:01:08] === Запуск блока: midday (тест: False) ===
+[2026-11-20 11:01:08] Story memory: 99 headlines from the last 96 h
+[2026-11-20 11:01:08] Неизвестный источник (stocktwits.com): PANW Stock Surges 8% Overnight: Palo Alt
+[2026-11-20 11:01:08] Неизвестный источник (profootballrumors.com): Mike Pettine To Take Over As Cowboys’ De
+[2026-11-20 11:01:08] Неизвестный источник (wesh.com): 12+ inches of rain possible by Friday ni
+[2026-11-20 11:01:08] Неизвестный источник (formula1.com): 'We can get rid of the noise' – Valtteri
+[2026-11-20 11:01:08] Неизвестный источник (abc7.com): 2026 CMA Awards live updates: A look at 
+[2026-11-20 11:01:08] Неизвестный источник (yourtango.com): Your Love Horoscope For Thursday, Novemb
+[2026-11-20 11:01:09] Неизвестный источник (kqed.org): Bay Area Storm Brings 5 Inches of Rain, 
+[2026-11-20 11:01:09] Пропускаю уже отправленную: Israeli military launches rare ground operation in
+[2026-11-20 11:01:09] Неизвестный источник (foxnews.com): Flu activity rises across US as 6 states
+[2026-11-20 11:01:09] Неизвестный источник (pbs.org): Democrats flipped 9 U.S. Senate seats — 
+[2026-11-20 11:01:09] Неизвестный источник (space.com): Astronomers witness a star eating its co
+[2026-11-20 11:01:09] Неизвестный источник (huffpost.com): Abdul El-Sayed Calls Out 'Grifter' RFK J
+[2026-11-20 11:01:09] Неизвестный источник (pbs.org): Duffy keeps blaming L3Harris after FAA g
+[2026-11-20 11:01:09] Неизвестный источник (9to5mac.com): Instagram finally lets users edit Storie
+[2026-11-20 11:01:09] Неизвестный источник (eonline.com): KJ Biermann Faced 16 Alleged Sex Offense
+[2026-11-20 11:01:09] Неизвестный источник (pbs.org): Voyager 1 is now a light-day from Earth.
+[2026-11-20 11:01:09] Неизвестный источник (wccftech.com): Microsoft’s New Windows 11 Security Chec
+[2026-11-20 11:01:09] Старая новость (2026-11-18T09:49:11Z): Signs of Eagle Predation on a 22-kg Adul
+[2026-11-20 11:01:09] Старая новость (2026-11-15T14:07:51Z): SpaceX carries out first-ever spaceship 
+[2026-11-20 11:01:09] Мировые новости: найдено 10 после фильтрации
+[2026-11-20 11:01:11] Редакторский отбор: выбраны позиции [3, 8, 10, 2]
+[2026-11-20 11:01:11] Обрабатываю: ICJ to rule on Rohingya genocide case against Myanmar: What’ | https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-geno
+[2026-11-20 11:01:11] Полный текст получен (3000 символов)
+[2026-11-20 11:01:11] Попытка 1 для: ICJ to rule on Rohingya genocide case ag
+[2026-11-20 11:01:15] Успешно, получено 1921 символов
+[2026-11-20 11:01:15] Обрабатываю: Unvaccinated Pennsylvania resident dies amid historic US mea | https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-re
+[2026-11-20 11:01:15] Полный текст получен (3000 символов)
+[2026-11-20 11:01:15] Попытка 1 для: Unvaccinated Pennsylvania resident dies 
+[2026-11-20 11:01:17] Успешно, получено 1337 символов
+[2026-11-20 11:01:17] Обрабатываю: House Democrat warns a dozen Trump allies to save their reco | https://www.nbcnews.com/politics/congress/democrat-investigations-warn
+[2026-11-20 11:01:18] Полный текст получен (3000 символов)
+[2026-11-20 11:01:18] Попытка 1 для: House Democrat warns a dozen Trump allie
+[2026-11-20 11:01:29] Успешно, получено 1953 символов
+[2026-11-20 11:01:29] Обрабатываю: Grand Theft Auto VI launches to rave reviews after 13-year w | https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches
+[2026-11-20 11:01:29] Полный текст получен (2454 символов)
+[2026-11-20 11:01:29] Попытка 1 для: Grand Theft Auto VI launches to rave rev
+[2026-11-20 11:01:42] Успешно, получено 1541 символов
+[2026-11-20 11:01:45] Пауза 60 секунд...
+[2026-11-20 11:02:46] Пауза 60 секунд...
+[2026-11-20 11:03:47] Пауза 60 секунд...
+[2026-11-20 11:04:47] sent_urls.txt обрезан: 304 -> 300
+[2026-11-20 11:04:47] === Блок midday завершён ===
