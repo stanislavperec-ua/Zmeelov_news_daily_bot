@@ -1,100 +1,3 @@
-[2026-11-14 06:01:06] Заблокированный источник (biztoc.com): Zelensky meets US envoys, says diplomacy
-[2026-11-14 06:01:06] Same story twice in candidates: Europe must learn modern warfare from Ukraine – AR
-[2026-11-14 06:01:06] Same story twice in candidates: Zelensky holds meeting with mayors on winter prepa
-[2026-11-14 06:01:06] Same story twice in candidates: National Guard drones hit over 316,000 enemy targe
-[2026-11-14 06:01:06] Same story twice in candidates: Remains of Russian drone recovered from Dnipro Riv
-[2026-11-14 06:01:06] Same story twice in candidates: War update: 243 clashes on front line, fiercest fi
-[2026-11-14 06:01:06] Same story twice in candidates: Ukraine’s Defense Forces eliminate nearly 24,000 R
-[2026-11-14 06:01:06] Same story twice in candidates: Ukraine’s air defenders down Russian Geran-5 jet d
-[2026-11-14 06:01:06] Same story twice in candidates: Russian strike on Zaporizhzhia: Injury toll rises 
-[2026-11-14 06:01:06] Same story twice in candidates: Russian troops fail to advance toward Orikhiv – So
-[2026-11-14 06:01:06] Same story twice in candidates: Lubinets says potential humanitarian mission in Ko
-[2026-11-14 06:01:06] Same story twice in candidates: European Alliance of News Agencies expels TASS
-[2026-11-14 06:01:06] Same story twice in candidates: Zelensky welcomes US bringing Europe into Russia-U
-[2026-11-14 06:01:06] Украинские новости: найдено 80 после фильтрации
-[2026-11-14 06:01:08] Редакторский отбор: выбраны позиции [6, 17]
-[2026-11-14 06:01:09] NewsAPI (Харьков, все издания): пришло 1 статей
-[2026-11-14 06:01:09] RSS Ukrinform: 30 записей
-[2026-11-14 06:01:10] RSS Ukrinform: 30 записей
-[2026-11-14 06:01:10] RSS Euromaidan Press: 29 записей
-[2026-11-14 06:01:10] Харьков: новостей не найдено
-[2026-11-14 06:01:10] Обрабатываю: Massive Microsoft outage disrupts businesses, schools and go | https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-w
-[2026-11-14 06:01:10] Полный текст получен (3000 символов)
-[2026-11-14 06:01:10] Попытка 1 для: Massive Microsoft outage disrupts busine
-[2026-11-14 06:01:14] Успешно, получено 1552 символов
-[2026-11-14 06:01:14] Обрабатываю: Lutnick should have prevented the diversion of sensitive Nvi | https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/
-[2026-11-14 06:01:14] Полный текст получен (3000 символов)
-[2026-11-14 06:01:14] Попытка 1 для: Lutnick should have prevented the divers
-[2026-11-14 06:01:23] Успешно, получено 1877 символов
-[2026-11-14 06:01:23] Обрабатываю: Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Fl | https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydro
-[2026-11-14 06:01:23] Полный текст получен (1280 символов)
-[2026-11-14 06:01:23] Попытка 1 для: Google rolls out Gemini 4 Hydrogen, fina
-[2026-11-14 06:01:42] Успешно, получено 1438 символов
-[2026-11-14 06:01:42] Обрабатываю: D.C. gunman attributed attack to frustrations with building  | https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shoote
-[2026-11-14 06:01:54] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-cir
-[2026-11-14 06:01:54] Попытка 1 для: D.C. gunman attributed attack to frustra
-[2026-11-14 06:01:57] Успешно, получено 1113 символов
-[2026-11-14 06:02:00] Пауза 60 секунд...
-[2026-11-14 06:03:00] Пауза 60 секунд...
-[2026-11-14 06:04:01] Пауза 60 секунд...
-[2026-11-14 06:05:01] Обрабатываю: Ukraine has lost 630 locomotives to Russian attacks, nearly  | https://www.ukrinform.net/rubric-economy/4184350-ukraine-has-lost-630-
-[2026-11-14 06:05:02] Полный текст получен (1466 символов)
-[2026-11-14 06:05:02] Попытка 1 для: Ukraine has lost 630 locomotives to Russ
-[2026-11-14 06:05:06] Успешно, получено 1491 символов
-[2026-11-14 06:05:06] Обрабатываю: Russian attacks damage 10 DTEK energy facilities in Kyiv reg | https://www.ukrinform.net/rubric-economy/4184525-russian-attacks-damag
-[2026-11-14 06:05:07] Полный текст получен (971 символов)
-[2026-11-14 06:05:07] Попытка 1 для: Russian attacks damage 10 DTEK energy fa
-[2026-11-14 06:05:09] Успешно, получено 1353 символов
-[2026-11-14 06:05:12] Пауза 60 секунд...
-[2026-11-14 06:06:13] sent_urls.txt обрезан: 306 -> 300
-[2026-11-14 06:06:13] === Блок morning завершён ===
-[2026-11-14 08:00:59] Загружено 300 уже отправленных новостей
-[2026-11-14 08:00:59] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-14 08:00:59] Story memory: 84 headlines from the last 96 h
-[2026-11-14 08:00:59] RSS The Guardian: 20 записей
-[2026-11-14 08:01:00] RSS Wired: 10 записей
-[2026-11-14 08:01:00] RSS TechCrunch: 20 записей
-[2026-11-14 08:01:01] RSS Ars Technica: 20 записей
-[2026-11-14 08:01:01] RSS MIT Technology Review: 10 записей
-[2026-11-14 08:01:01] RSS BBC News: 21 записей
-[2026-11-14 08:01:01] RSS IEEE Spectrum: 30 записей
-[2026-11-14 08:01:01] AI feeds: 23 candidates from quality outlets
-[2026-11-14 08:01:01] NewsAPI (AI): пришло 59 статей
-[2026-11-14 08:01:01] Неизвестный источник (livemint.com): How Jensen Huang transformed Nvidia into
-[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Nvidia scandal reaches Trump administrat
-[2026-11-14 08:01:01] Неизвестный источник (rte.ie): Nvidia ex-CEO to testify before US Senat
-[2026-11-14 08:01:01] Неизвестный источник (rte.ie): Nvidia ex-CEO to testify before US Senat
-[2026-11-14 08:01:01] Нет фото: vcfart added to PyPI
-[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Global Microsoft outage causes chaos acr
-[2026-11-14 08:01:01] Нет фото: What is a black-footed ferrets shelter?
-[2026-11-14 08:01:01] Неизвестный источник (en.protothema.gr): Nvidia scandal: Who was Alice Huang real
-[2026-11-14 08:01:01] Неизвестный источник (m.economictimes.com): Tesla-SpaceX Merger: Musk eyes December 
-[2026-11-14 08:01:01] Неизвестный источник (english.khabarhub.com): Nepal calls for global cooperation to br
-[2026-11-14 08:01:01] Неизвестный источник (business-standard.com): Microsoft 365 outage continues as compan
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Five thoughts from Cisco’s first quarter
-[2026-11-14 08:01:01] Неизвестный источник (english.gossiplankanews.com): Microsoft 365 services suddenly go down
-[2026-11-14 08:01:01] Заблокированный источник (yahoo.com): Singapore's Megaspeed lawyers up with U.
-[2026-11-14 08:01:01] Не про ИИ, пропускаю: In the end, the biggest risk Jensen Huang faced fo
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Applied Materials posts an impressive 53
-[2026-11-14 08:01:01] Неизвестный источник (abc.net.au): The US has been holding secretive talks 
-[2026-11-14 08:01:01] Неизвестный источник (livemint.com): Alice Huang linked to Huawei? What we kn
-[2026-11-14 08:01:01] Неизвестный источник (tech.slashdot.org): Whoop Launches a Social Network Where Ev
-[2026-11-14 08:01:01] Неизвестный источник (abc.net.au): Nvidia's Jensen Huang scandal brings Chi
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Cisco beats expectations, lifts guidance
-[2026-11-14 08:01:01] Неизвестный источник (techradar.com): Ukrainian drone strikes hit Russian data
-[2026-11-14 08:01:01] Неизвестный источник (pymnts.com): AI Agents Start Paying Invoices Inside S
-[2026-11-14 08:01:01] Заблокированный источник (nypost.com): DC gunman was doing ‘very well’ before s
-[2026-11-14 08:01:01] Нет фото: A dual artificial neural network core PR
-[2026-11-14 08:01:01] Неизвестный источник (indiewire.com): Jensen Huang’s Biopic Feels Inevitable —
-[2026-11-14 08:01:01] Не про ИИ, пропускаю: Whoop launched a social network where every user h
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
-[2026-11-14 08:01:01] Нет фото: feagi 2.6.19
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): AI agent tooling provider LangChain secu
-[2026-11-14 08:01:01] Неизвестный источник (edge0.ai): Edge0-145B: Frontier AI Capabilities on 
-[2026-11-14 08:01:01] Неизвестный источник (nzherald.co.nz): Next Wave 2026: Sustainable businesses s
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): CNCF data shows cloud native is the on-r
-[2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): Google releases Gemini 4 Hydrogen, a low
 [2026-11-14 08:01:01] Неизвестный источник (clutchpoints.com): Patriots vs. Lions bold predictions for 
 [2026-11-14 08:01:01] Неизвестный источник (blogs.loc.gov): Spotlight On: Pablo Rodríguez and Braill
 [2026-11-14 08:01:01] Неизвестный источник (siliconangle.com): What to expect during SC26: Join theCUBE
@@ -2998,3 +2901,100 @@ Chery Omoda 5 recalled after broken
 [2026-11-20 16:06:07] Пауза 60 секунд...
 [2026-11-20 16:07:08] sent_urls.txt обрезан: 307 -> 300
 [2026-11-20 16:07:08] === Блок evening завершён ===
+[2026-11-20 18:01:02] Загружено 300 уже отправленных новостей
+[2026-11-20 18:01:02] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-20 18:01:02] Story memory: 103 headlines from the last 96 h
+[2026-11-20 18:01:02] RSS The Guardian: 20 записей
+[2026-11-20 18:01:02] RSS Wired: 10 записей
+[2026-11-20 18:01:02] RSS TechCrunch: код 403
+[2026-11-20 18:01:03] RSS Ars Technica: 20 записей
+[2026-11-20 18:01:03] RSS MIT Technology Review: 10 записей
+[2026-11-20 18:01:03] RSS BBC News: 21 записей
+[2026-11-20 18:01:03] RSS IEEE Spectrum: 30 записей
+[2026-11-20 18:01:03] Лента обновлений, пропускаю: Anthropic shares end first day of tradin
+[2026-11-20 18:01:03] AI feeds: 19 candidates from quality outlets
+[2026-11-20 18:01:03] NewsAPI (AI): пришло 59 статей
+[2026-11-20 18:01:03] Неизвестный источник (offgridsurvival.com): Hackers Hit JPMorgan Chase, Visa and Mas
+[2026-11-20 18:01:03] Неизвестный источник (pymnts.com): Walmart Pairs Membership Growth With an 
+[2026-11-20 18:01:03] Неизвестный источник (cryptobriefing.com): Databento raises $100 million at $1.1 bi
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): China-based AI robotics biotech firm Meg
+[2026-11-20 18:01:03] Неизвестный источник (en.protothema.gr): Politico: Major cyberattack on European 
+[2026-11-20 18:01:03] Неизвестный источник (denverpost.com): Tech outages are piling up, AI raising s
+[2026-11-20 18:01:03] Неизвестный источник (cryptobriefing.com): AI financing concerns could trigger furt
+[2026-11-20 18:01:03] Неизвестный источник (pymnts.com): House Bill Would Put Major Cyber and AI 
+[2026-11-20 18:01:03] Неизвестный источник (timesofindia.indiatimes.com): US government says it could convince Cha
+[2026-11-20 18:01:03] Неизвестный источник (vanityfair.com): Luca Guadagnino and Andrew Garfield Get 
+[2026-11-20 18:01:03] Не про ИИ, пропускаю: The Gulf Is America’s Next AI Security Test
+[2026-11-20 18:01:03] Неизвестный источник (thewrap.com): ‘The Altruists’ Review: Netflix Turns FT
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Groundcover launches Agent Investigation
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Superhuman unveils personal AI assistant
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Nodal Networks raises $11.3M to solve gl
+[2026-11-20 18:01:03] Заблокированный источник (journals.plos.org): Clinical features, first aid practices, 
+[2026-11-20 18:01:03] Заблокированный источник (journals.plos.org): Applications of computer vision in mosqu
+[2026-11-20 18:01:03] Заблокированный источник (journals.plos.org): Snakebite records in routine hospital da
+[2026-11-20 18:01:03] Заблокированный источник (journals.plos.org): Identifying key figures in Chinese histo
+[2026-11-20 18:01:03] Заблокированный источник (journals.plos.org): User acceptance of AI-generated cinemati
+[2026-11-20 18:01:03] Неизвестный источник (thehindubusinessline.com): SEBI working on capacity-building networ
+[2026-11-20 18:01:03] Неизвестный источник (triblive.com): Pittsburgh experts weigh in on nationwid
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Metano launches with $12M to help enterp
+[2026-11-20 18:01:03] Неизвестный источник (commondreams.org): Economic Populism Won, But Working Peopl
+[2026-11-20 18:01:03] Неизвестный источник (business-standard.com): Sebi mulls Capacity Building Network to 
+[2026-11-20 18:01:03] Неизвестный источник (timesofindia.indiatimes.com): Utah restored or improved 128,232 acres 
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Enterprises fear AI success more than fa
+[2026-11-20 18:01:03] Нет фото: hivegate-swarm added to PyPI
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Balance Theory acquires CISO decision in
+[2026-11-20 18:01:03] Неизвестный источник (autoexpress.co.uk): New Lepas L6 EV price makes it a value a
+[2026-11-20 18:01:03] Неизвестный источник (makeuseof.com): Perplexity Computer wants $200 a month —
+[2026-11-20 18:01:03] Неизвестный источник (dcforecasts.com): Securities Regulators Tell Finance to Pl
+[2026-11-20 18:01:03] Нет фото: MATE-runtime 1.5.0
+[2026-11-20 18:01:03] Неизвестный источник (m.economictimes.com): Ladakh Lieutenant Governor approves Rs 2
+[2026-11-20 18:01:03] Нет фото: setuav-neuralfoil added to PyPI
+[2026-11-20 18:01:03] Неизвестный источник (timesofindia.indiatimes.com): When intimacy becomes intelligence: The 
+[2026-11-20 18:01:03] Неизвестный источник (en.protothema.gr): Samaras begins touring the country, the 
+[2026-11-20 18:01:03] Неизвестный источник (everything-everywhere.com): The Pullman Strike of 1894
+[2026-11-20 18:01:03] Неизвестный источник (pymnts.com): FIS CEO Says AI Raises the Stakes for Tr
+[2026-11-20 18:01:03] Неизвестный источник (coinjournal.net): Pi Network risks falling below $0.05 des
+[2026-11-20 18:01:03] Неизвестный источник (variety.com): ‘The Altruists’ Review: Netflix FTX Seri
+[2026-11-20 18:01:03] Неизвестный источник (thehindubusinessline.com): Seven major tech incidents in a week – w
+[2026-11-20 18:01:03] Неизвестный источник (straitstimes.com): South Korea’s exports top US$1 trillion 
+[2026-11-20 18:01:03] Пропускаю уже отправленную: Why depth beats breadth in Europe’s hunt for an AI
+[2026-11-20 18:01:03] Неизвестный источник (business-standard.com): Inside South Korea's biggest exam Suneun
+[2026-11-20 18:01:03] Неизвестный источник (business-standard.com): Satya Nadella admits Microsoft could hav
+[2026-11-20 18:01:03] Неизвестный источник (m.economictimes.com): Tech outages are piling up, and AI is ra
+[2026-11-20 18:01:03] Заблокированный источник (breitbart.com): Intel Chief Clayton Says NSA Network Out
+[2026-11-20 18:01:03] Неизвестный источник (techpowerup.com): International Game Workers Unions Rally 
+[2026-11-20 18:01:03] Неизвестный источник (business-standard.com): US tech outages linked to rush to fix AI
+[2026-11-20 18:01:03] Не про ИИ, пропускаю: Seven major tech incidents in a week – what’s goin
+[2026-11-20 18:01:03] Неизвестный источник (siliconangle.com): Google’s latest midtier model Gemini 4 N
+[2026-11-20 18:01:03] Неизвестный источник (sfstandard.com): Live blog: Anthropic’s nearly $1.5 trill
+[2026-11-20 18:01:03] Неизвестный источник (business-standard.com): How Nvidia chips came within reach of Ch
+[2026-11-20 18:01:03] Заблокированный источник (thegatewaypundit.com): (VIDEO) Trump Dismisses Concerns About W
+[2026-11-20 18:01:03] Нет фото: aiZero 0.0.7a3
+[2026-11-20 18:01:03] Заблокированный источник (thegatewaypundit.com): NSA Communications Outage Disrupts Opera
+[2026-11-20 18:01:03] AI news: 20 candidates from quality and trusted outlets
+[2026-11-20 18:01:03] AI news: 20 candidates after filtering
+[2026-11-20 18:01:06] Редакторский отбор: выбраны позиции [1, 10, 16, 6]
+[2026-11-20 18:01:06] Обрабатываю: Anthropic hits over $1 trillion: is it worth the hype? | https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillio
+[2026-11-20 18:01:06] Полный текст получен (629 символов)
+[2026-11-20 18:01:06] Попытка 1 для: Anthropic hits over $1 trillion: is it w
+[2026-11-20 18:01:08] Успешно, получено 1334 символов
+[2026-11-20 18:01:08] Обрабатываю: AI is imposing a hidden ‘cognitive tax’ on the lowest-paid w | https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers
+[2026-11-20 18:01:08] Полный текст получен (3000 символов)
+[2026-11-20 18:01:08] Попытка 1 для: AI is imposing a hidden ‘cognitive tax’ 
+[2026-11-20 18:01:11] Успешно, получено 1828 символов
+[2026-11-20 18:01:11] Обрабатываю: Protesters rally against Anthropic in New York and San Franc | https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-prote
+[2026-11-20 18:01:11] Полный текст получен (3000 символов)
+[2026-11-20 18:01:11] Попытка 1 для: Protesters rally against Anthropic in Ne
+[2026-11-20 18:01:13] Успешно, получено 1628 символов
+[2026-11-20 18:01:13] Обрабатываю: Is the AI bubble bursting just as Anthropic goes public? Or  | https://www.dw.com/en/ai-bubble-claude-creator-anthropic-ipo/a-7989653
+[2026-11-20 18:01:14] Полный текст получен (3000 символов)
+[2026-11-20 18:01:14] Попытка 1 для: Is the AI bubble bursting just as Anthro
+[2026-11-20 18:01:28] Ошибка (попытка 1): Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kjyc495rffebezqxrk8rymn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5815, Requested 2336. Please try again in 1.1325s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'
+[2026-11-20 18:01:28] Лимит запросов, ждём 60 секунд...
+[2026-11-20 18:02:28] Попытка 2 для: Is the AI bubble bursting just as Anthro
+[2026-11-20 18:02:32] Успешно, получено 1567 символов
+[2026-11-20 18:02:35] Пауза 60 секунд...
+[2026-11-20 18:03:35] Пауза 60 секунд...
+[2026-11-20 18:04:36] Пауза 60 секунд...
+[2026-11-20 18:05:36] sent_urls.txt обрезан: 304 -> 300
+[2026-11-20 18:05:36] === Блок ai_evening завершён ===
