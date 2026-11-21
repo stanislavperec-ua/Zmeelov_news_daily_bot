@@ -1,141 +1,3 @@
-[2026-11-14 18:01:05] Неизвестный источник (abc.net.au): Nvidia's Jensen Huang scandal brings Chi
-[2026-11-14 18:01:05] Неизвестный источник (siliconangle.com): Cisco beats expectations, lifts guidance
-[2026-11-14 18:01:05] Неизвестный источник (techradar.com): Ukrainian drone strikes hit Russian data
-[2026-11-14 18:01:05] Неизвестный источник (pymnts.com): AI Agents Start Paying Invoices Inside S
-[2026-11-14 18:01:05] Заблокированный источник (nypost.com): DC gunman was doing ‘very well’ before s
-[2026-11-14 18:01:05] Нет фото: A dual artificial neural network core PR
-[2026-11-14 18:01:05] Неизвестный источник (indiewire.com): Jensen Huang’s Biopic Feels Inevitable —
-[2026-11-14 18:01:05] Не про ИИ, пропускаю: Whoop launched a social network where every user h
-[2026-11-14 18:01:05] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
-[2026-11-14 18:01:05] Неизвестный источник (siliconangle.com): Surging AI chip revenue and Microsoft de
-[2026-11-14 18:01:05] Нет фото: feagi 2.6.19
-[2026-11-14 18:01:05] Неизвестный источник (siliconangle.com): AI agent tooling provider LangChain secu
-[2026-11-14 18:01:05] Неизвестный источник (edge0.ai): Edge0-145B: Frontier AI Capabilities on 
-[2026-11-14 18:01:05] Неизвестный источник (nzherald.co.nz): Next Wave 2026: Sustainable businesses s
-[2026-11-14 18:01:05] Same story twice in candidates: Why the Nvidia scandal is far from over – The Late
-[2026-11-14 18:01:05] AI news: 17 candidates from quality and trusted outlets
-[2026-11-14 18:01:05] AI news: 17 candidates after filtering
-[2026-11-14 18:01:07] Редакторский отбор: выбраны позиции [2, 8, 6, 9]
-[2026-11-14 18:01:07] Обрабатываю: Beware the New AI-Fueled Ransomware Boom | https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/
-[2026-11-14 18:01:07] Полный текст получен (3000 символов)
-[2026-11-14 18:01:07] Попытка 1 для: Beware the New AI-Fueled Ransomware Boom
-[2026-11-14 18:01:10] Успешно, получено 1775 символов
-[2026-11-14 18:01:10] Обрабатываю: Is the AI bubble bursting just as Anthropic goes public? | https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes
-[2026-11-14 18:01:12] Полный текст получен (3000 символов)
-[2026-11-14 18:01:12] Попытка 1 для: Is the AI bubble bursting just as Anthro
-[2026-11-14 18:01:15] Успешно, получено 1421 символов
-[2026-11-14 18:01:15] Обрабатываю: Exclusive: OpenAI disbands its robotics team as its general  | https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-ge
-[2026-11-14 18:01:15] Полный текст получен (3000 символов)
-[2026-11-14 18:01:15] Попытка 1 для: Exclusive: OpenAI disbands its robotics 
-[2026-11-14 18:01:17] Успешно, получено 1853 символов
-[2026-11-14 18:01:17] Обрабатываю: This AI ‘mechanic’ can peer inside the black box of other ne | https://www.nature.com/articles/d41586-026-03679-8
-[2026-11-14 18:01:19] Полный текст получен (3000 символов)
-[2026-11-14 18:01:19] Попытка 1 для: This AI ‘mechanic’ can peer inside the b
-[2026-11-14 18:01:32] Успешно, получено 1531 символов
-[2026-11-14 18:01:35] Пауза 60 секунд...
-[2026-11-14 18:02:35] Пауза 60 секунд...
-[2026-11-14 18:03:36] Пауза 60 секунд...
-[2026-11-14 18:04:36] sent_urls.txt обрезан: 304 -> 300
-[2026-11-14 18:04:36] === Блок ai_evening завершён ===
-[2026-11-15 06:01:01] Загружено 300 уже отправленных новостей
-[2026-11-15 06:01:01] === Запуск блока: morning (тест: False) ===
-[2026-11-15 06:01:01] Story memory: 84 headlines from the last 96 h
-[2026-11-15 06:01:01] Неизвестный источник (tmz.com): 'Mormon Wives' Star Taylor Frankie Paul'
-[2026-11-15 06:01:01] Неизвестный источник (wdsu.com): What we know about the American Heritage
-[2026-11-15 06:01:01] Same story already published: After 26 years, the US has lost its measles elimin ~ CDC chief: No measles response change if eliminati
-[2026-11-15 06:01:01] Неизвестный источник (pbs.org): Bessent accuses Lutnick of failing to pr
-[2026-11-15 06:01:01] Неизвестный источник (deadline.com): Johnny Depp Pic ‘Ebenezer’ Opening To Sp
-[2026-11-15 06:01:01] Заблокированный источник (sports.yahoo.com): UFC 334 final faceoffs: Josh Hokit sends
-[2026-11-15 06:01:01] Неизвестный источник (nbcsports.com): John Harbaugh: Cam Skattebo was not supp
-[2026-11-15 06:01:01] Неизвестный источник (espn.com): Goalkeeper banned 12 games for collision
-[2026-11-15 06:01:01] Неизвестный источник (space.com): 60 years ago the Leonid meteor shower pr
-[2026-11-15 06:01:01] Неизвестный источник (247sports.com): NC State football head coach Philip Rive
-[2026-11-15 06:01:01] Неизвестный источник (channel3000.com): Second child dies from measles in Grant 
-[2026-11-15 06:01:01] Неизвестный источник (thecut.com): Avril Lavigne Has Welcomed a Pop-Punk Ba
-[2026-11-15 06:01:01] Неизвестный источник (macrumors.com): Apple Releases tvOS 27.2.1 With Siri AI 
-[2026-11-15 06:01:01] Неизвестный источник (goodmorningamerica.com): NFL quarterback to search for love on ‘T
-[2026-11-15 06:01:01] Неизвестный источник (pbs.org): What men need to know after a major upda
-[2026-11-15 06:01:01] Неизвестный источник (interestingengineering.com): Limit of light: US scientists reveal why
-[2026-11-15 06:01:01] Неизвестный источник (9to5google.com): I’d rather use Android XR glasses over M
-[2026-11-15 06:01:01] Старая новость (2026-11-09T18:56:00Z): NASA is hiring astronaut candidates. Som
-[2026-11-15 06:01:01] Старая новость (2026-11-09T08:08:14Z): Scientists Find 10 Healthy Diets That Ca
-[2026-11-15 06:01:01] Мировые новости: найдено 12 после фильтрации
-[2026-11-15 06:01:03] Редакторский отбор: выбраны позиции [3, 11, 1, 4]
-[2026-11-15 06:01:04] RSS Ukrinform: 30 записей
-[2026-11-15 06:01:04] Пропускаю уже отправленную: Bulgaria halts arms and ammunition supplies to Ukr
-[2026-11-15 06:01:05] RSS Ukrinform: 30 записей
-[2026-11-15 06:01:05] Пропускаю уже отправленную: Russian forces attack energy facility in Odesa reg
-[2026-11-15 06:01:05] Пропускаю уже отправленную: One killed, two injured in Russian attacks on Khar
-[2026-11-15 06:01:05] RSS Euromaidan Press: 29 записей
-[2026-11-15 06:01:05] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-11-15 06:01:05] Заблокированный источник (dailymail.com): Trump to attend first-ever meeting betwe
-[2026-11-15 06:01:05] Нет фото: News Summary-Intelligence Report 11/13/2
-[2026-11-15 06:01:05] Заблокированный источник (biztoc.com): Drone debris damages hotel in Russia's R
-[2026-11-15 06:01:05] Заблокированный источник (sports.yahoo.com): 3-time world champion Ilia Malinin leads
-[2026-11-15 06:01:05] Нет фото: Russia Revives Demand That NATO Retrench
-[2026-11-15 06:01:05] Спорт, пропускаю: Svitolina stuns Sabalenka, ends her WTA 
-[2026-11-15 06:01:05] Нет фото: Europe and Ukraine get a boost in peace 
-[2026-11-15 06:01:05] Спорт, пропускаю: Svitolina says daughter remains priority
-[2026-11-15 06:01:05] Нет фото: The View From Space the U.S. Government 
-[2026-11-15 06:01:05] Спорт, пропускаю: Svitolina books last-four spot at WTA Fi
-[2026-11-15 06:01:05] Спорт, пропускаю: Every player from California to play for
-[2026-11-15 06:01:05] Заблокированный источник (biztoc.com): Car Bomb Severely Injures Exiled Pro-Kre
-[2026-11-15 06:01:05] Нет фото: National Weather Service Reports Radar O
-[2026-11-15 06:01:05] Нет фото: FAA launched new AI ‘SMART’ tool to all 
-[2026-11-15 06:01:05] Заблокированный источник (biztoc.com): Drone alert activated in Kyiv
-[2026-11-15 06:01:05] Заблокированный источник (dailymail.com): Awesome bravery amid the bullets on Bond
-[2026-11-15 06:01:05] Same story twice in candidates: Israel strikes Hamas military wing, killing senior
-[2026-11-15 06:01:05] Same story twice in candidates: Russians strike Zaporizhzhia eight times, injuring
-[2026-11-15 06:01:05] Same story twice in candidates: Lubinets, Russian ombudswoman discuss mechanism fo
-[2026-11-15 06:01:05] Same story twice in candidates: Russian attack on Zaporizhzhia leaves five injured
-[2026-11-15 06:01:05] Same story twice in candidates: War update: 54 clashes on front line over past day
-[2026-11-15 06:01:05] Same story twice in candidates: US to cut fewer troops in Europe than previously p
-[2026-11-15 06:01:05] Same story twice in candidates: Voskresenka in Zaporizhzhia Region remains under U
-[2026-11-15 06:01:05] Same story twice in candidates: Scheduled power outages to be in all day in some U
-[2026-11-15 06:01:05] Same story twice in candidates: Russian attacks on Dnipropetrovsk region leave one
-[2026-11-15 06:01:05] Same story twice in candidates: Russian forces attack critical infrastructure faci
-[2026-11-15 06:01:05] Same story twice in candidates: Strike on Pavlohrad: One killed, injury toll rises
-[2026-11-15 06:01:05] Same story twice in candidates: Injury toll after Russian attack on Zaporizhzhia r
-[2026-11-15 06:01:05] Same story twice in candidates: Russians launch missile strike on Pavlohrad, leavi
-[2026-11-15 06:01:05] Same story twice in candidates: Russian drones attack Naftogaz facility in Poltava
-[2026-11-15 06:01:05] Same story twice in candidates: Drone attack: Debris falls at two locations in Kyi
-[2026-11-15 06:01:06] Украинские новости: найдено 74 после фильтрации
-[2026-11-15 06:01:08] Редакторский отбор: выбраны позиции [12, 16]
-[2026-11-15 06:01:08] NewsAPI (Харьков, все издания): пришло 5 статей
-[2026-11-15 06:01:09] RSS Ukrinform: 30 записей
-[2026-11-15 06:01:10] RSS Ukrinform: 30 записей
-[2026-11-15 06:01:10] RSS Euromaidan Press: 29 записей
-[2026-11-15 06:01:10] Заблокированный источник (biztoc.com): Russian Strikes Kill Three Across Ukrain
-[2026-11-15 06:01:10] Нет фото: Measurement of $\mathrm{Z}γ$ production 
-[2026-11-15 06:01:10] Пропускаю уже отправленную: One killed, two injured in Russian attacks on Khar
-[2026-11-15 06:01:10] Харьков: найдена новость: Truck carrying gas condensate overturns, catches f
-[2026-11-15 06:01:10] Обрабатываю: Trump to have first trilateral meeting with Putin, Xi | https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-put
-[2026-11-15 06:01:22] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/politics/2026/11/13/trump-mee
-[2026-11-15 06:01:22] Попытка 1 для: Trump to have first trilateral meeting w
-[2026-11-15 06:01:24] Успешно, получено 800 символов
-[2026-11-15 06:01:24] Обрабатываю: Europe and Ukraine get a boost in peace talks, but Putin is  | https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-t
-[2026-11-15 06:01:24] Полный текст получен (3000 символов)
-[2026-11-15 06:01:24] Попытка 1 для: Europe and Ukraine get a boost in peace 
-[2026-11-15 06:01:27] Успешно, получено 1534 символов
-[2026-11-15 06:01:27] Обрабатываю: Democrat Jonathan Kreiss-Tomkins wins race for Alaska govern | https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kr
-[2026-11-15 06:01:28] Полный текст получен (2604 символов)
-[2026-11-15 06:01:28] Попытка 1 для: Democrat Jonathan Kreiss-Tomkins wins ra
-[2026-11-15 06:01:31] Успешно, получено 1913 символов
-[2026-11-15 06:01:31] Обрабатываю: Setback for SpaceX reusable rocket system despite successful | https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover
-[2026-11-15 06:01:32] Полный текст получен (2809 символов)
-[2026-11-15 06:01:32] Попытка 1 для: Setback for SpaceX reusable rocket syste
-[2026-11-15 06:01:50] Успешно, получено 1684 символов
-[2026-11-15 06:01:53] Пауза 60 секунд...
-[2026-11-15 06:02:53] Пауза 60 секунд...
-[2026-11-15 06:03:54] Пауза 60 секунд...
-[2026-11-15 06:04:54] Обрабатываю: SBU exposes 109 criminal groups undermining stability in Ukr | https://www.ukrinform.net/rubric-society/4184568-sbu-exposes-109-crimi
-[2026-11-15 06:04:55] Полный текст получен (2013 символов)
-[2026-11-15 06:04:55] Попытка 1 для: SBU exposes 109 criminal groups undermin
-[2026-11-15 06:04:58] Успешно, получено 1755 символов
-[2026-11-15 06:04:58] Обрабатываю: War update: 54 clashes on front line over past day | https://www.ukrinform.net/rubric-ato/4184744-war-update-54-clashes-on-
-[2026-11-15 06:04:59] Полный текст получен (2980 символов)
-[2026-11-15 06:04:59] Попытка 1 для: War update: 54 clashes on front line ove
-[2026-11-15 06:05:04] Успешно, получено 2169 символов
 [2026-11-15 06:05:04] Обрабатываю: Truck carrying gas condensate overturns, catches fire on Kyi | https://www.ukrinform.net/rubric-emergencies/4184748-truck-carrying-ga
 [2026-11-15 06:05:04] Полный текст получен (1005 символов)
 [2026-11-15 06:05:04] Попытка 1 для: Truck carrying gas condensate overturns,
@@ -2998,3 +2860,141 @@ Chery Omoda 5 recalled after broken
 [2026-11-21 11:03:27] Пауза 60 секунд...
 [2026-11-21 11:04:28] sent_urls.txt обрезан: 304 -> 300
 [2026-11-21 11:04:28] === Блок midday завершён ===
+[2026-11-21 16:01:01] Загружено 300 уже отправленных новостей
+[2026-11-21 16:01:01] === Запуск блока: evening (тест: False) ===
+[2026-11-21 16:01:01] Story memory: 103 headlines from the last 96 h
+[2026-11-21 16:01:02] Неизвестный источник (wesh.com): Flooding, road closures continue across 
+[2026-11-21 16:01:02] Same story already published: Texas execution took over an hour as staff struggl ~ Texas execution took over an hour as staff struggl
+[2026-11-21 16:01:02] Заблокированный источник (tech.yahoo.com): 'GTA 6' release live updates: Reviews, m
+[2026-11-21 16:01:02] Спорт, пропускаю: Rams star Nacua suspended for personal c
+[2026-11-21 16:01:02] Неизвестный источник (deadline.com): 'Hunger Games: Sunrise On The Reaping' $
+[2026-11-21 16:01:02] Неизвестный источник (variety.com): Jennifer Lawrence Ranks Her Onscreen Kis
+[2026-11-21 16:01:02] Неизвестный источник (iowacapitaldispatch.com): Amid public concern and a lawsuit, U.S. 
+[2026-11-21 16:01:02] Пропускаю уже отправленную: US approved sale of Nvidia and AMD chips to Chines
+[2026-11-21 16:01:02] Неизвестный источник (cbssports.com): If RJ Luis Jr.'s career at LSU is over, 
+[2026-11-21 16:01:02] Неизвестный источник (bostonglobe.com): Experts have for decades wanted to diagn
+[2026-11-21 16:01:02] Неизвестный источник (actionnetwork.com): Colts vs Texans Predictions, Odds, Picks
+[2026-11-21 16:01:02] Неизвестный источник (space.com): Voyager 1 team, unbowed by communication
+[2026-11-21 16:01:02] Неизвестный источник (foxnews.com): Iran-backed Houthi 'terrorist attack' hi
+[2026-11-21 16:01:02] Неизвестный источник (macrumors.com): Apple Announces 2026 Black Friday Event,
+[2026-11-21 16:01:02] Неизвестный источник (9to5google.com): Motorola’s iPhone Duo competitor, Razr F
+[2026-11-21 16:01:02] Старая новость (2026-11-19T15:22:37Z): CMA Awards 2026: 12 Best, Worst, and Mos
+[2026-11-21 16:01:02] Старая новость (2026-11-19T11:03:00Z): Measles comeback puts daycares, schools 
+[2026-11-21 16:01:02] Старая новость (2026-11-19T07:24:00Z): Eighth measles death reported as Pennsyl
+[2026-11-21 16:01:02] Старая новость (2026-11-18T23:20:05Z): Webb confirms first-of-its-kind merger o
+[2026-11-21 16:01:02] Старая новость (2026-11-17T18:09:22Z): CERN physicists measure universe at smal
+[2026-11-21 16:01:02] Мировые новости: найдено 9 после фильтрации
+[2026-11-21 16:01:04] Редакторский отбор: выбраны позиции [2, 6, 1, 4]
+[2026-11-21 16:01:05] RSS Ukrinform: 30 записей
+[2026-11-21 16:01:06] RSS Ukrinform: 30 записей
+[2026-11-21 16:01:07] Пропускаю уже отправленную: Russia launches up to 200 attack drones nightly an
+[2026-11-21 16:01:07] Пропускаю уже отправленную: Nine people injured in Russian strikes in Kharkiv 
+[2026-11-21 16:01:07] RSS Euromaidan Press: 29 записей
+[2026-11-21 16:01:07] Старая новость (2026-11-19T16:00:48Z): The Kerch Bridge span fell without Starl
+[2026-11-21 16:01:07] Старая новость (2026-11-19T14:38:20Z): A Russian handler courted a Colombian ex
+[2026-11-21 16:01:07] Старая новость (2026-11-19T10:42:13Z): The world’s new big three has a seat for
+[2026-11-21 16:01:07] Старая новость (2026-11-19T10:10:24Z): Russian armor joins some bad-weather ass
+[2026-11-21 16:01:07] Старая новость (2026-11-19T09:33:32Z): France to give Ukraine two Mirage 2000-5
+[2026-11-21 16:01:07] Старая новость (2026-11-18T23:01:04Z): Russo-Ukrainian war, day 1729: Russia pl
+[2026-11-21 16:01:07] Старая новость (2026-11-18T20:15:46Z): Training alone doesn’t make leader of se
+[2026-11-21 16:01:07] Старая новость (2026-11-18T19:41:41Z): Ukraine hits another bridge, this time o
+[2026-11-21 16:01:07] Старая новость (2026-11-18T19:20:44Z): What weighs heaviest on Ukraine’s sergea
+[2026-11-21 16:01:07] Старая новость (2026-11-18T18:41:34Z): Russia plans to throw 20 million drones 
+[2026-11-21 16:01:07] Старая новость (2026-11-18T17:28:58Z): Hours after Ukraine dropped Kerch bridge
+[2026-11-21 16:01:07] Старая новость (2026-11-18T16:35:10Z): US needs more of French-made rayon that 
+[2026-11-21 16:01:07] Старая новость (2026-11-18T14:42:25Z): Russia’s first Shaheds flew at about 185
+[2026-11-21 16:01:07] NewsAPI (мировые про Украину): пришло 49 статей
+[2026-11-21 16:01:07] Заблокированный источник (biztoc.com): EU approves additional €1B in military a
+[2026-11-21 16:01:07] Заблокированный источник (sports.yahoo.com): Japan's Mao Shimada leads Finlandia Trop
+[2026-11-21 16:01:07] Заблокированный источник (rt-english.com): Scott Ritter: Shenzhen was the first ste
+[2026-11-21 16:01:07] Нет фото: Spurs boss De Zerbi urges 'good guy' Mud
+[2026-11-21 16:01:07] Заблокированный источник (biztoc.com): Zelensky's former aide doubts Ukraine wi
+[2026-11-21 16:01:07] Заблокированный источник (biztoc.com): Russia strikes cargo ships headed for Uk
+[2026-11-21 16:01:07] Нет фото: Rocket Report: A weekend of ups and down
+[2026-11-21 16:01:07] Заблокированный источник (biztoc.com): Poland seeks more NATO support after Rus
+[2026-11-21 16:01:07] Нет фото: Deadly Russian strikes hit 3 Kyiv bridge
+[2026-11-21 16:01:07] Заблокированный источник (dailymail.com): Missiles hit Poland hours after Trump de
+[2026-11-21 16:01:07] Заблокированный источник (rt-english.com): The trillion-dollar question: Why can’t 
+[2026-11-21 16:01:07] Заблокированный источник (nypost.com): Russian missile’s crash in Poland was li
+[2026-11-21 16:01:07] Same story twice in candidates: Russian drone strikes private enterprise in Poltav
+[2026-11-21 16:01:07] Same story twice in candidates: Russian forces attack Odesa region, civilian infra
+[2026-11-21 16:01:07] Same story twice in candidates: Russian cargo ship catches fire in Gulf of Finland
+[2026-11-21 16:01:07] Same story twice in candidates: Russia drone crashes on grounds of industrial ente
+[2026-11-21 16:01:07] Same story twice in candidates: Russian drone strikes private enterprise in Poltav
+[2026-11-21 16:01:07] Same story twice in candidates: Russian drone strikes residential area in Poltava 
+[2026-11-21 16:01:07] Same story twice in candidates: Zelensky: Russia attacked Ukrainian bridges 109 ti
+[2026-11-21 16:01:07] Same story twice in candidates: DM Khmara says Russia will need several months to 
+[2026-11-21 16:01:07] Same story twice in candidates: Ukrainian forces strike bridge, ammunition depot a
+[2026-11-21 16:01:07] Same story twice in candidates: Russian forces hit industrial facility in Rivne re
+[2026-11-21 16:01:07] Same story twice in candidates: Injury toll in Russian attacks on Kryvyi Rih rises
+[2026-11-21 16:01:07] Same story twice in candidates: Russian forces strike civilian and energy infrastr
+[2026-11-21 16:01:07] Same story twice in candidates: Kyiv reports damage in three districts after morni
+[2026-11-21 16:01:07] Same story twice in candidates: Crimean bridge, which Putin uses to transport weap
+[2026-11-21 16:01:07] Same story twice in candidates: Russian attack in Vinnytsia region leaves one inju
+[2026-11-21 16:01:07] Same story twice in candidates: War update: 203 combat engagements on front line o
+[2026-11-21 16:01:07] Same story twice in candidates: Russian attacks in Sumy region leaves three injure
+[2026-11-21 16:01:07] Same story twice in candidates: Air defense neutralizes 117 of 148 Russian drones 
+[2026-11-21 16:01:07] Same story twice in candidates: Russian forces attack Dnipropetrovsk region nearly
+[2026-11-21 16:01:07] Same story twice in candidates: Injury toll after Russian attacks in Kharkiv regio
+[2026-11-21 16:01:07] Same story twice in candidates: Russian army loses another 1,730 personnel, two ai
+[2026-11-21 16:01:07] Same story twice in candidates: Third strike on Kerch Bridge in a week: Ukrainian 
+[2026-11-21 16:01:07] Украинские новости: найдено 62 после фильтрации
+[2026-11-21 16:01:14] Отбор не дал номеров, беру по порядку. Ответ модели: 
+[2026-11-21 16:01:14] NewsAPI (Харьков, все издания): пришло 10 статей
+[2026-11-21 16:01:15] RSS Ukrinform: 30 записей
+[2026-11-21 16:01:17] RSS Ukrinform: 30 записей
+[2026-11-21 16:01:17] RSS Euromaidan Press: 29 записей
+[2026-11-21 16:01:17] Заблокированный источник (rt-english.com): Dutch courage: Crimean Bridge strike exp
+[2026-11-21 16:01:17] Заблокированный источник (dailymail.com): Putin launches deadly missile attack on 
+[2026-11-21 16:01:17] Заблокированный источник (biztoc.com): Russian strike hits medical facility, in
+[2026-11-21 16:01:17] Пропускаю уже отправленную: Nine people injured in Russian strikes in Kharkiv 
+[2026-11-21 16:01:17] Старая новость (2026-11-19T16:00:48Z): The Kerch Bridge span fell without Starl
+[2026-11-21 16:01:17] Старая новость (2026-11-19T14:38:20Z): A Russian handler courted a Colombian ex
+[2026-11-21 16:01:17] Старая новость (2026-11-19T10:42:13Z): The world’s new big three has a seat for
+[2026-11-21 16:01:17] Старая новость (2026-11-19T10:10:24Z): Russian armor joins some bad-weather ass
+[2026-11-21 16:01:17] Старая новость (2026-11-19T09:33:32Z): France to give Ukraine two Mirage 2000-5
+[2026-11-21 16:01:17] Старая новость (2026-11-18T23:01:04Z): Russo-Ukrainian war, day 1729: Russia pl
+[2026-11-21 16:01:17] Старая новость (2026-11-18T20:15:46Z): Training alone doesn’t make leader of se
+[2026-11-21 16:01:17] Старая новость (2026-11-18T19:41:41Z): Ukraine hits another bridge, this time o
+[2026-11-21 16:01:17] Старая новость (2026-11-18T19:20:44Z): What weighs heaviest on Ukraine’s sergea
+[2026-11-21 16:01:17] Старая новость (2026-11-18T18:41:34Z): Russia plans to throw 20 million drones 
+[2026-11-21 16:01:17] Старая новость (2026-11-18T17:28:58Z): Hours after Ukraine dropped Kerch bridge
+[2026-11-21 16:01:17] Старая новость (2026-11-18T16:35:10Z): US needs more of French-made rayon that 
+[2026-11-21 16:01:17] Старая новость (2026-11-18T14:42:25Z): Russia’s first Shaheds flew at about 185
+[2026-11-21 16:01:17] Same story twice in candidates: Injury toll after Russian attacks in Kharkiv regio
+[2026-11-21 16:01:17] Харьков: найдена новость: Injury toll after Russian attacks in Kharkiv regio
+[2026-11-21 16:01:17] Обрабатываю: U.S. and Israel considering new assault on Iran, sources say | https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assaul
+[2026-11-21 16:01:17] Полный текст получен (3000 символов)
+[2026-11-21 16:01:17] Попытка 1 для: U.S. and Israel considering new assault 
+[2026-11-21 16:01:29] Успешно, получено 1982 символов
+[2026-11-21 16:01:29] Обрабатываю: Hours after Trump reportedly says ‘tired’ Putin is ready for | https://www.cnn.com/2026/11/20/europe/russia-ukraine-putin-trump-intl-
+[2026-11-21 16:01:29] Полный текст получен (3000 символов)
+[2026-11-21 16:01:29] Попытка 1 для: Hours after Trump reportedly says ‘tired
+[2026-11-21 16:01:49] Успешно, получено 1827 символов
+[2026-11-21 16:01:49] Обрабатываю: EU and UK seal reset deal | https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal
+[2026-11-21 16:01:49] Полный текст получен (2640 символов)
+[2026-11-21 16:01:49] Попытка 1 для: EU and UK seal reset deal
+[2026-11-21 16:02:08] Успешно, получено 1495 символов
+[2026-11-21 16:02:08] Обрабатываю: Senate passes bipartisan energy bill amid environmental conc | https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bi
+[2026-11-21 16:02:08] Полный текст получен (3000 символов)
+[2026-11-21 16:02:08] Попытка 1 для: Senate passes bipartisan energy bill ami
+[2026-11-21 16:02:19] Успешно, получено 1768 символов
+[2026-11-21 16:02:22] Пауза 60 секунд...
+[2026-11-21 16:03:23] Пауза 60 секунд...
+[2026-11-21 16:04:23] Пауза 60 секунд...
+[2026-11-21 16:05:24] Обрабатываю: Khmara prepares for international meetings in Europe in comi | https://www.ukrinform.net/rubric-polytics/4187208-khmara-prepares-for-
+[2026-11-21 16:05:25] Полный текст получен (1090 символов)
+[2026-11-21 16:05:25] Попытка 1 для: Khmara prepares for international meetin
+[2026-11-21 16:05:28] Успешно, получено 1412 символов
+[2026-11-21 16:05:28] Обрабатываю: Russian forces attack Odesa region, civilian infrastructure  | https://www.ukrinform.net/rubric-ato/4187206-russian-forces-attack-ode
+[2026-11-21 16:05:29] Полный текст получен (694 символов)
+[2026-11-21 16:05:29] Попытка 1 для: Russian forces attack Odesa region, civi
+[2026-11-21 16:05:31] Успешно, получено 1222 символов
+[2026-11-21 16:05:31] Обрабатываю: Injury toll after Russian attacks in Kharkiv region rises to | https://www.ukrinform.net/rubric-ato/4187050-injury-toll-after-russian
+[2026-11-21 16:05:32] Полный текст получен (960 символов)
+[2026-11-21 16:05:32] Попытка 1 для: Injury toll after Russian attacks in Kha
+[2026-11-21 16:05:35] Успешно, получено 1270 символов
+[2026-11-21 16:05:38] Пауза 60 секунд...
+[2026-11-21 16:06:39] Пауза 60 секунд...
+[2026-11-21 16:07:39] sent_urls.txt обрезан: 307 -> 300
+[2026-11-21 16:07:39] === Блок evening завершён ===
