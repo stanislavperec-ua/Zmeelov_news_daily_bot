@@ -1,127 +1,3 @@
-[2026-11-16 11:01:05] Старая новость (2026-11-13T21:36:57Z): Space Shuttle Endeavour new LA home open
-[2026-11-16 11:01:05] Старая новость (2026-11-13T12:25:06Z): ULA delays to Sunday Vulcan rocket launc
-[2026-11-16 11:01:05] Мировые новости: найдено 11 после фильтрации
-[2026-11-16 11:01:08] Редакторский отбор: выбраны позиции [2, 9, 10, 1]
-[2026-11-16 11:01:08] Обрабатываю: Saudi-led coalition intercepts two missiles, two drones in R | https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercep
-[2026-11-16 11:01:08] Полный текст получен (3000 символов)
-[2026-11-16 11:01:08] Попытка 1 для: Saudi-led coalition intercepts two missi
-[2026-11-16 11:01:12] Успешно, получено 1163 символов
-[2026-11-16 11:01:12] Обрабатываю: U.S. facilitating direct engagement between Europe and Russi | https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/
-[2026-11-16 11:01:12] Полный текст получен (3000 символов)
-[2026-11-16 11:01:12] Попытка 1 для: U.S. facilitating direct engagement betw
-[2026-11-16 11:01:15] Успешно, получено 2036 символов
-[2026-11-16 11:01:15] Обрабатываю: Why Mary Peltola is on track to win in Alaska, even if ranke | https://www.nbcnews.com/politics/2026-election/mary-peltola-track-win-
-[2026-11-16 11:01:15] Полный текст получен (3000 символов)
-[2026-11-16 11:01:15] Попытка 1 для: Why Mary Peltola is on track to win in A
-[2026-11-16 11:01:20] Успешно, получено 1687 символов
-[2026-11-16 11:01:20] Обрабатываю: Russell Brand: Alleged rape victim wants age of consent law  | https://www.bbc.com/news/articles/cm3rgx9p583zo
-[2026-11-16 11:01:20] Полный текст получен (3000 символов)
-[2026-11-16 11:01:20] Попытка 1 для: Russell Brand: Alleged rape victim wants
-[2026-11-16 11:01:43] Успешно, получено 1730 символов
-[2026-11-16 11:01:46] Пауза 60 секунд...
-[2026-11-16 11:02:46] Пауза 60 секунд...
-[2026-11-16 11:03:47] Пауза 60 секунд...
-[2026-11-16 11:04:47] sent_urls.txt обрезан: 304 -> 300
-[2026-11-16 11:04:47] === Блок midday завершён ===
-[2026-11-16 16:01:04] Загружено 300 уже отправленных новостей
-[2026-11-16 16:01:04] === Запуск блока: evening (тест: False) ===
-[2026-11-16 16:01:04] Story memory: 75 headlines from the last 96 h
-[2026-11-16 16:01:04] Неизвестный источник (espn.com): Patriots' Drake Maye, Lions' Aidan Hutch
-[2026-11-16 16:01:04] Неизвестный источник (cbssports.com): Arch Manning on Texas eliminating LSU fr
-[2026-11-16 16:01:04] Неизвестный источник (pagesix.com): ‘RHOC’ alum Jeana Keough announces she’s
-[2026-11-16 16:01:04] Неизвестный источник (sciencedaily.com): A simple supplement could help your immu
-[2026-11-16 16:01:04] Неизвестный источник (bostonglobe.com): The Leonid meteor shower is peaking soon
-[2026-11-16 16:01:04] Неизвестный источник (billboard.com): Can You Feel It in the Air Tonight? 11 B
-[2026-11-16 16:01:04] Неизвестный источник (usatoday.com): El Niño still growing stronger. Here's w
-[2026-11-16 16:01:04] Неизвестный источник (space.com): What's next for SpaceX's Starship after 
-[2026-11-16 16:01:04] Same story already published: Fifth Canadian soldier dies from injuries caused b ~ Fifth Canadian soldier dies of injuries from milit
-[2026-11-16 16:01:04] Заблокированный источник (sports.yahoo.com): Dana White admits he was wrong about Jos
-[2026-11-16 16:01:04] Неизвестный источник (hollywoodreporter.com): Johnny Depp’s ‘Ebenezer’ Conjuring Up Bo
-[2026-11-16 16:01:04] Неизвестный источник (phys.org): NASA's Voyager 1 closes in on a light-da
-[2026-11-16 16:01:04] Неизвестный источник (foxnews.com): New prostate cancer guidelines urge men 
-[2026-11-16 16:01:04] Неизвестный источник (phys.org): Some of the oldest rocks ever discovered
-[2026-11-16 16:01:04] Старая новость (2026-11-14T12:32:13Z): Air Travelers Can Rest Assured That Dona
-[2026-11-16 16:01:04] Старая новость (2026-11-13T12:24:10Z): Zelda: Ocarina of Time Remake Sells 5 Mi
-[2026-11-16 16:01:04] Мировые новости: найдено 11 после фильтрации
-[2026-11-16 16:01:06] Редакторский отбор: выбраны позиции [9, 10, 6, 4]
-[2026-11-16 16:01:08] RSS Ukrinform: 30 записей
-[2026-11-16 16:01:08] Same story already published: Russian forces strike energy facilities in Odesa r ~ Russian forces attack energy facility in Odesa reg
-[2026-11-16 16:01:09] RSS Ukrinform: 30 записей
-[2026-11-16 16:01:09] Пропускаю уже отправленную: Ukraine disables over 55% of Russia’s oil refining
-[2026-11-16 16:01:09] Пропускаю уже отправленную: Russian drone hits children's educational facility
-[2026-11-16 16:01:09] RSS Euromaidan Press: 29 записей
-[2026-11-16 16:01:09] Старая новость (2026-11-14T15:25:42Z): Putin has new plan for Ukraine’s fortres
-[2026-11-16 16:01:09] Старая новость (2026-11-14T14:45:50Z): Russia now sends mobilized men to front 
-[2026-11-16 16:01:09] Старая новость (2026-11-14T14:33:45Z): Russia will not shape security architect
-[2026-11-16 16:01:09] Старая новость (2026-11-14T14:12:38Z): Russia is betting another year of Europe
-[2026-11-16 16:01:09] Старая новость (2026-11-14T12:49:03Z): Vacancy: journalist
-[2026-11-16 16:01:09] Старая новость (2026-11-13T23:49:05Z): Volunteer wanted: army fundraiser coordi
-[2026-11-16 16:01:09] Старая новость (2026-11-13T22:09:41Z): Russo-Ukrainian war, day 1724: A Ukraini
-[2026-11-16 16:01:09] Старая новость (2026-11-13T21:09:33Z): Instead of a single representative, a wh
-[2026-11-16 16:01:09] Старая новость (2026-11-13T18:22:48Z): Russia’s Starlink rival falls short: Non
-[2026-11-16 16:01:09] Старая новость (2026-11-13T17:32:51Z): Neutral Moldova approves military cooper
-[2026-11-16 16:01:09] Старая новость (2026-11-13T17:24:28Z): Finland and Norway will stop Russian ath
-[2026-11-16 16:01:09] Старая новость (2026-11-13T16:49:16Z): 40 countries tell Russia: Ukraine’s secu
-[2026-11-16 16:01:09] NewsAPI (мировые про Украину): пришло 48 статей
-[2026-11-16 16:01:09] Заблокированный источник (biztoc.com): Johnson: Only Ukraine in NATO can end wa
-[2026-11-16 16:01:09] Заблокированный источник (dailymail.com): Estonia to CLOSE Russian border in two w
-[2026-11-16 16:01:09] Заблокированный источник (biztoc.com): Putin's Generals Push To Scrap Promise N
-[2026-11-16 16:01:09] Заблокированный источник (biztoc.com): Drone strikes hit industrial facility in
-[2026-11-16 16:01:09] Нет фото: Policy and Disclosure: 2026 Edition (Goo
-[2026-11-16 16:01:09] Нет фото: (2026.11.16) (various)
-[2026-11-16 16:01:09] Нет фото: FAA router in middle-of-nowhere Arkansas
-[2026-11-16 16:01:09] Нет фото: The Pentagon Ignored a Warning About the
-[2026-11-16 16:01:09] Заблокированный источник (rt-english.com): Six injured in Ukrainian drone attack on
-[2026-11-16 16:01:09] Нет фото: NASA’s Voyager 1 Is About To Cross A Fro
-[2026-11-16 16:01:09] Нет фото: svo-client-dev added to PyPI
-[2026-11-16 16:01:09] Заблокированный источник (rt-english.com): Biden lashes out at Zelensky in new memo
-[2026-11-16 16:01:09] Нет фото: Sunday Morning Talk Show Thread 15 Novem
-[2026-11-16 16:01:09] Нет фото: U.S. floated exchanging Ukrainian territ
-[2026-11-16 16:01:09] Заблокированный источник (rt-english.com): The EU’s poorest state is done taking or
-[2026-11-16 16:01:09] Нет фото: Give Donbas, take NATO seat: Could new U
-[2026-11-16 16:01:09] Заблокированный источник (biztoc.com): Ukraine strikes Russian oil, helicopter 
-[2026-11-16 16:01:09] Заблокированный источник (dailymail.com): Ashley Cole accidentally shooting a stud
-[2026-11-16 16:01:09] Заблокированный источник (biztoc.com): Zelensky blames Starshield limits for Ru
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces strike confectionery factory wareho
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack food processing facility in 
-[2026-11-16 16:01:09] Same story twice in candidates: Ukrainian forces strike Ilsky Oil Refinery, two oi
-[2026-11-16 16:01:09] Same story twice in candidates: Russian strikes on Dnipro: woman killed, 13 injure
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack two industrial facilities in
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces strike Balakliia in Kharkiv region,
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack Kryvyi Rih with Banderol mis
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack industrial facilities in Dni
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack businesses in Odesa region, 
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack food industry facility in Dn
-[2026-11-16 16:01:09] Same story twice in candidates: Russia preparing new attack on Ukraine's energy in
-[2026-11-16 16:01:09] Same story twice in candidates: Injury toll from Russian strike on apartment build
-[2026-11-16 16:01:09] Same story twice in candidates: Russian forces attack energy infrastructure in Che
-[2026-11-16 16:01:09] Same story twice in candidates: Crimean Bridge closed after attack – media
-[2026-11-16 16:01:09] Same story twice in candidates: Fire breaks out near two oil depots in Russia's Az
-[2026-11-16 16:01:09] Same story twice in candidates: War update: 141 clashes on front lines over past d
-[2026-11-16 16:01:09] Same story twice in candidates: Ukraine’s ADF down 131 of 158 Russian drones launc
-[2026-11-16 16:01:09] Same story twice in candidates: Russian attacks hit energy facilities in Cherkasy 
-[2026-11-16 16:01:10] Same story twice in candidates: Pentagon stalls Ukraine’s license to produce Patri
-[2026-11-16 16:01:10] Same story twice in candidates: Starshield restrictions help Russia’s energy attac
-[2026-11-16 16:01:10] Украинские новости: найдено 61 после фильтрации
-[2026-11-16 16:01:13] Редакторский отбор: выбраны позиции [9, 7]
-[2026-11-16 16:01:13] NewsAPI (Харьков, все издания): пришло 3 статей
-[2026-11-16 16:01:14] RSS Ukrinform: 30 записей
-[2026-11-16 16:01:15] RSS Ukrinform: 30 записей
-[2026-11-16 16:01:15] RSS Euromaidan Press: 29 записей
-[2026-11-16 16:01:15] Нет фото: The Pentagon Ignored a Warning About the
-[2026-11-16 16:01:15] Заблокированный источник (dailymail.com): Zelensky condemns 'brutal' Russian strik
-[2026-11-16 16:01:15] Заблокированный источник (biztoc.com): Russia: Ukraine lost over 1,100 troops i
-[2026-11-16 16:01:16] Пропускаю уже отправленную: Russian drone hits children's educational facility
-[2026-11-16 16:01:16] Старая новость (2026-11-14T15:25:42Z): Putin has new plan for Ukraine’s fortres
-[2026-11-16 16:01:16] Старая новость (2026-11-14T14:45:50Z): Russia now sends mobilized men to front 
-[2026-11-16 16:01:16] Старая новость (2026-11-14T14:33:45Z): Russia will not shape security architect
-[2026-11-16 16:01:16] Старая новость (2026-11-14T14:12:38Z): Russia is betting another year of Europe
-[2026-11-16 16:01:16] Старая новость (2026-11-14T12:49:03Z): Vacancy: journalist
-[2026-11-16 16:01:16] Старая новость (2026-11-13T23:49:05Z): Volunteer wanted: army fundraiser coordi
-[2026-11-16 16:01:16] Старая новость (2026-11-13T22:09:41Z): Russo-Ukrainian war, day 1724: A Ukraini
-[2026-11-16 16:01:16] Старая новость (2026-11-13T21:09:33Z): Instead of a single representative, a wh
-[2026-11-16 16:01:16] Старая новость (2026-11-13T18:22:48Z): Russia’s Starlink rival falls short: Non
-[2026-11-16 16:01:16] Старая новость (2026-11-13T17:32:51Z): Neutral Moldova approves military cooper
 [2026-11-16 16:01:16] Старая новость (2026-11-13T17:24:28Z): Finland and Norway will stop Russian ath
 [2026-11-16 16:01:16] Старая новость (2026-11-13T16:49:16Z): 40 countries tell Russia: Ukraine’s secu
 [2026-11-16 16:01:16] Same story twice in candidates: Russian forces strike Balakliia in Kharkiv region,
@@ -2998,3 +2874,127 @@ Chery Omoda 5 recalled after broken
 [2026-11-22 16:06:19] Пауза 60 секунд...
 [2026-11-22 16:07:19] sent_urls.txt обрезан: 307 -> 300
 [2026-11-22 16:07:19] === Блок evening завершён ===
+[2026-11-22 18:01:02] Загружено 300 уже отправленных новостей
+[2026-11-22 18:01:02] === Запуск блока: ai_evening (тест: False) ===
+[2026-11-22 18:01:02] Story memory: 103 headlines from the last 96 h
+[2026-11-22 18:01:02] RSS The Guardian: 20 записей
+[2026-11-22 18:01:02] RSS Wired: 10 записей
+[2026-11-22 18:01:02] RSS TechCrunch: код 403
+[2026-11-22 18:01:02] RSS Ars Technica: 20 записей
+[2026-11-22 18:01:02] RSS MIT Technology Review: 10 записей
+[2026-11-22 18:01:03] RSS BBC News: 21 записей
+[2026-11-22 18:01:04] RSS IEEE Spectrum: 30 записей
+[2026-11-22 18:01:04] Спорт, пропускаю: Forget rogue robots, it’s tech billionai
+[2026-11-22 18:01:04] AI feeds: 8 candidates from quality outlets
+[2026-11-22 18:01:04] NewsAPI (AI): пришло 48 статей
+[2026-11-22 18:01:04] Неизвестный источник (cryptobriefing.com): Airbnb authorizes $12 billion buyback af
+[2026-11-22 18:01:04] Нет фото: artificial-intelligence-local 0.0.23b471
+[2026-11-22 18:01:04] Неизвестный источник (siliconangle.com): Sovereign AI: Where control becomes an a
+[2026-11-22 18:01:04] Неизвестный источник (business-standard.com): Hero FinCorp aims to double loan disburs
+[2026-11-22 18:01:04] Неизвестный источник (digitaljournal.com): BlackBerry’s next reinvention: From conn
+[2026-11-22 18:01:04] Неизвестный источник (digitaljournal.com): Canada looks to strengthen its computer 
+[2026-11-22 18:01:04] Заблокированный источник (dailymail.com): Former IRGC commander behind Iran's brut
+[2026-11-22 18:01:04] Неизвестный источник (usatoday.com): When is the best time to buy StubHub tic
+[2026-11-22 18:01:04] Неизвестный источник (timesofindia.indiatimes.com): Florida deploys solar-powered robot rabb
+[2026-11-22 18:01:04] Неизвестный источник (thestar.com): A data centre moved in. Now Cambridge fa
+[2026-11-22 18:01:04] Неизвестный источник (motherjones.com): The Cozy Radicalism of DIY Repair Cafés
+[2026-11-22 18:01:04] Неизвестный источник (timesofindia.indiatimes.com): The tank was once king of the battlefiel
+[2026-11-22 18:01:04] Неизвестный источник (autoexpress.co.uk): Ford Ranger vs BYD Shark: USA and China 
+[2026-11-22 18:01:04] Неизвестный источник (m.economictimes.com): In 2018, Florida reused 6,000 tons of co
+[2026-11-22 18:01:04] Нет фото: What is the position of the lateral line
+[2026-11-22 18:01:04] Неизвестный источник (thehindubusinessline.com): Australian DigiTech Mission explores tec
+[2026-11-22 18:01:04] Заблокированный источник (naturalnews.com): Spy network down, flights stalled, banks
+[2026-11-22 18:01:04] Неизвестный источник (jsdevspace.substack.com): Friday Links #48: JavaScript, AI and Dev
+[2026-11-22 18:01:04] Неизвестный источник (newatlas.com): One-of-a-kind biological computer runs o
+[2026-11-22 18:01:04] Неизвестный источник (offgridsurvival.com): FBI Hacked Again: Criminal Database Brea
+[2026-11-22 18:01:04] Неизвестный источник (jacksonville.com): Mandarin marches on in FHSAA football pl
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: The game of the year is finally here
+[2026-11-22 18:01:04] Неизвестный источник (krdo.com): Where to find the best Christmas markets
+[2026-11-22 18:01:04] Заблокированный источник (biztoc.com): AI agents are getting wallets. Is Hong K
+[2026-11-22 18:01:04] Неизвестный источник (siliconangle.com): CrowdStrike reportedly in talks to acqui
+[2026-11-22 18:01:04] Неизвестный источник (soyacincau.com): YTL Power denies helping China obtain Nv
+[2026-11-22 18:01:04] Неизвестный источник (m.economictimes.com): Trump threatens 'tremendous tax' on US c
+[2026-11-22 18:01:04] Неизвестный источник (siliconangle.com): Trump announces plan to tax US companies
+[2026-11-22 18:01:04] Неизвестный источник (pbs.org): Mounting tech disruptions raise concerns
+[2026-11-22 18:01:04] Неизвестный источник (activistpost.com): We Can’t Put AI Back in the Box… So We M
+[2026-11-22 18:01:04] Нет фото: “You Don’t Belong Here”: How Rane Got In
+[2026-11-22 18:01:04] Заблокированный источник (nypost.com): When AI goes wild, the options for gover
+[2026-11-22 18:01:04] Неизвестный источник (cbc.ca): Trump threatens to penalize U.S. tech co
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: The vibe-coding revolution is coming to all the ga
+[2026-11-22 18:01:04] Неизвестный источник (timesofindia.indiatimes.com): 'Look at India', 'country of second chan
+[2026-11-22 18:01:04] Неизвестный источник (openai.com): Combatting Adversarial Distillation
+[2026-11-22 18:01:04] Неизвестный источник (oreilly.com): What Happened to Silicon Valley?
+[2026-11-22 18:01:04] Неизвестный источник (news.mit.edu): New approach enables physically consiste
+[2026-11-22 18:01:04] Нет фото: feagi 2.6.25
+[2026-11-22 18:01:04] Неизвестный источник (danielmiessler.com): Every Site We Launched Since June
+[2026-11-22 18:01:04] Неизвестный источник (siliconangle.com): AI deals shrink to as little as 30 days 
+[2026-11-22 18:01:04] Неизвестный источник (timesofindia.indiatimes.com): An Australian data centre with Anthropic
+[2026-11-22 18:01:04] Неизвестный источник (timesofindia.indiatimes.com): State adds 1,200 groundwater observation
+[2026-11-22 18:01:04] Неизвестный источник (news.harvard.edu): Harvard-led team receives $12 million in
+[2026-11-22 18:01:04] Неизвестный источник (cryptobriefing.com): Wirex launches Coinbase-issued tokenized
+[2026-11-22 18:01:04] Неизвестный источник (cryptobriefing.com): JPMorgan says Bitcoin price drop widens 
+[2026-11-22 18:01:04] Неизвестный источник (ipwatchdog.com): Other Barks & Bites for Friday, November
+[2026-11-22 18:01:04] AI news: 8 candidates from quality and trusted outlets
+[2026-11-22 18:01:04] Not enough quality AI candidates, adding second-tier outlets
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Airbnb authorizes $12 billion buyback after its fa
+[2026-11-22 18:01:04] Нет фото: artificial-intelligence-local 0.0.23b471
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Sovereign AI: Where control becomes an architectur
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Hero FinCorp aims to double loan disbursements ove
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Canada looks to strengthen its computer chip suppl
+[2026-11-22 18:01:04] Заблокированный источник (dailymail.com): Former IRGC commander behind Iran's brut
+[2026-11-22 18:01:04] Спорт, пропускаю: When is the best time to buy StubHub tic
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Florida deploys solar-powered robot rabbits to lur
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: A data centre moved in. Now Cambridge faces a powe
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: The Cozy Radicalism of DIY Repair Cafés
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Ford Ranger vs BYD Shark: USA and China hold a fei
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: In 2018, Florida reused 6,000 tons of concrete fro
+[2026-11-22 18:01:04] Нет фото: What is the position of the lateral line
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Australian DigiTech Mission explores tech partners
+[2026-11-22 18:01:04] Заблокированный источник (naturalnews.com): Spy network down, flights stalled, banks
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: One-of-a-kind biological computer runs on living b
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: FBI Hacked Again: Criminal Database Breached as Am
+[2026-11-22 18:01:04] Спорт, пропускаю: Mandarin marches on in FHSAA football pl
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: The game of the year is finally here
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Where to find the best Christmas markets around th
+[2026-11-22 18:01:04] Заблокированный источник (biztoc.com): AI agents are getting wallets. Is Hong K
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: CrowdStrike reportedly in talks to acquire cyberse
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: YTL Power denies helping China obtain Nvidia GPUs,
+[2026-11-22 18:01:04] Пропускаю уже отправленную: Trump threatens 'tremendous tax' on US companies t
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Trump announces plan to tax US companies that buil
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Mounting tech disruptions raise concerns about U.S
+[2026-11-22 18:01:04] Нет фото: “You Don’t Belong Here”: How Rane Got In
+[2026-11-22 18:01:04] Заблокированный источник (nypost.com): When AI goes wild, the options for gover
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: The vibe-coding revolution is coming to all the ga
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: 'Look at India', 'country of second chances': 10 k
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Combatting Adversarial Distillation
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: What Happened to Silicon Valley?
+[2026-11-22 18:01:04] Пропускаю уже отправленную: New approach enables physically consistent AI mode
+[2026-11-22 18:01:04] Нет фото: feagi 2.6.25
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Every Site We Launched Since June
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: An Australian data centre with Anthropic as its an
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: State adds 1,200 groundwater observation wells for
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: Harvard-led team receives $12 million in federal f
+[2026-11-22 18:01:04] Не про ИИ, пропускаю: JPMorgan says Bitcoin price drop widens gap to $86
+[2026-11-22 18:01:04] AI news: 13 candidates after filtering
+[2026-11-22 18:01:07] Редакторский отбор: выбраны позиции [2, 12, 8, 4]
+[2026-11-22 18:01:07] Обрабатываю: Banks Have Had It Up to Here With Your AI Agent | https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/
+[2026-11-22 18:01:07] Полный текст получен (3000 символов)
+[2026-11-22 18:01:07] Попытка 1 для: Banks Have Had It Up to Here With Your A
+[2026-11-22 18:01:09] Успешно, получено 1731 символов
+[2026-11-22 18:01:09] Обрабатываю: Nasdaq erases all 2026 gains as AI sell-off dampens Anthropi | https://www.theguardian.com/business/2026/nov/20/global-stock-markets-
+[2026-11-22 18:01:09] Полный текст получен (3000 символов)
+[2026-11-22 18:01:09] Попытка 1 для: Nasdaq erases all 2026 gains as AI sell-
+[2026-11-22 18:01:12] Успешно, получено 1459 символов
+[2026-11-22 18:01:12] Обрабатываю: AI deals shrink to as little as 30 days as the data layer se | https://siliconangle.com/2026/11/20/ai-data-infrastructure-deals-shrin
+[2026-11-22 18:01:13] Полный текст получен (3000 символов)
+[2026-11-22 18:01:13] Попытка 1 для: AI deals shrink to as little as 30 days 
+[2026-11-22 18:01:15] Успешно, получено 1683 символов
+[2026-11-22 18:01:15] Обрабатываю: BlackBerry’s next reinvention: From connected cars to physic | https://www.digitaljournal.com/article/blackberrys-next-reinvention-fr
+[2026-11-22 18:01:15] Полный текст получен (3000 символов)
+[2026-11-22 18:01:15] Попытка 1 для: BlackBerry’s next reinvention: From conn
+[2026-11-22 18:01:34] Успешно, получено 2101 символов
+[2026-11-22 18:01:38] Пауза 60 секунд...
+[2026-11-22 18:02:38] Пауза 60 секунд...
+[2026-11-22 18:03:38] Пауза 60 секунд...
+[2026-11-22 18:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-11-22 18:04:39] === Блок ai_evening завершён ===
