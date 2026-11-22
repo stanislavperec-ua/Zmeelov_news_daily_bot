@@ -1,44 +1,3 @@
-[2026-11-16 06:01:10] RSS Ukrinform: 30 записей
-[2026-11-16 06:01:11] RSS Euromaidan Press: 29 записей
-[2026-11-16 06:01:11] Заблокированный источник (dailymail.com): US said Ukraine could give Donbas to Rus
-[2026-11-16 06:01:11] Пропускаю уже отправленную: Russian forces attack car with drone in Kharkiv, i
-[2026-11-16 06:01:11] Старая новость (2026-11-13T23:49:05Z): Volunteer wanted: army fundraiser coordi
-[2026-11-16 06:01:11] Старая новость (2026-11-13T22:09:41Z): Russo-Ukrainian war, day 1724: A Ukraini
-[2026-11-16 06:01:11] Старая новость (2026-11-13T21:09:33Z): Instead of a single representative, a wh
-[2026-11-16 06:01:11] Старая новость (2026-11-13T18:22:48Z): Russia’s Starlink rival falls short: Non
-[2026-11-16 06:01:11] Старая новость (2026-11-13T17:32:51Z): Neutral Moldova approves military cooper
-[2026-11-16 06:01:11] Старая новость (2026-11-13T17:24:28Z): Finland and Norway will stop Russian ath
-[2026-11-16 06:01:11] Старая новость (2026-11-13T16:49:16Z): 40 countries tell Russia: Ukraine’s secu
-[2026-11-16 06:01:11] Старая новость (2026-11-13T15:46:50Z): 100% of Starshield missions were failing
-[2026-11-16 06:01:11] Старая новость (2026-11-13T15:14:37Z): Russia’s leaked death register turns up 
-[2026-11-16 06:01:11] Same story twice in candidates: Russian drone hits children's educational facility
-[2026-11-16 06:01:11] Same story twice in candidates: Russian drone hits apartment building in Kharkiv
-[2026-11-16 06:01:11] Same story twice in candidates: FPV drone strikes in Kharkiv leave three injured
-[2026-11-16 06:01:11] Харьков: найдена новость: Russian drone hits children's educational facility
-[2026-11-16 06:01:11] Обрабатываю: SpaceX’s Starship captured by launchpad arms in dramatic fir | https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by
-[2026-11-16 06:01:11] Полный текст получен (2208 символов)
-[2026-11-16 06:01:11] Попытка 1 для: SpaceX’s Starship captured by launchpad 
-[2026-11-16 06:01:14] Успешно, получено 1601 символов
-[2026-11-16 06:01:14] Обрабатываю: US has lost measles elimination status, global health author | https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-st
-[2026-11-16 06:01:15] Полный текст получен (3000 символов)
-[2026-11-16 06:01:15] Попытка 1 для: US has lost measles elimination status, 
-[2026-11-16 06:01:20] Успешно, получено 1807 символов
-[2026-11-16 06:01:20] Обрабатываю: Federal judge blocks Trump from closing historic D.C. golf c | https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing
-[2026-11-16 06:01:20] Полный текст получен (3000 символов)
-[2026-11-16 06:01:20] Попытка 1 для: Federal judge blocks Trump from closing 
-[2026-11-16 06:01:43] Успешно, получено 1636 символов
-[2026-11-16 06:01:43] Обрабатываю: Fifth Canadian soldier dies of injuries from military traini | https://www.nbcnews.com/world/canada/fifth-canadian-soldier-dies-injur
-[2026-11-16 06:01:44] Полный текст получен (1748 символов)
-[2026-11-16 06:01:44] Попытка 1 для: Fifth Canadian soldier dies of injuries 
-[2026-11-16 06:01:59] Успешно, получено 1627 символов
-[2026-11-16 06:02:02] Пауза 60 секунд...
-[2026-11-16 06:03:02] Пауза 60 секунд...
-[2026-11-16 06:04:03] Пауза 60 секунд...
-[2026-11-16 06:05:03] Обрабатываю: Ukraine disables over 55% of Russia’s oil refining capacity  | https://www.ukrinform.net/rubric-ato/4184999-ukraine-disables-over-55-
-[2026-11-16 06:05:04] Полный текст получен (877 символов)
-[2026-11-16 06:05:04] Попытка 1 для: Ukraine disables over 55% of Russia’s oi
-[2026-11-16 06:05:07] Успешно, получено 1547 символов
-[2026-11-16 06:05:07] Обрабатываю: Ukraine and EU preparing winter emergency support package –  | https://www.ukrinform.net/rubric-economy/4184996-ukraine-and-eu-prepar
 [2026-11-16 06:05:08] Полный текст получен (1457 символов)
 [2026-11-16 06:05:08] Попытка 1 для: Ukraine and EU preparing winter emergenc
 [2026-11-16 06:05:12] Успешно, получено 1674 символов
@@ -2998,3 +2957,44 @@ Chery Omoda 5 recalled after broken
 [2026-11-22 08:03:46] Пауза 60 секунд...
 [2026-11-22 08:04:47] sent_urls.txt обрезан: 304 -> 300
 [2026-11-22 08:04:47] === Блок ai_morning завершён ===
+[2026-11-22 11:01:06] Загружено 300 уже отправленных новостей
+[2026-11-22 11:01:06] === Запуск блока: midday (тест: False) ===
+[2026-11-22 11:01:06] Story memory: 99 headlines from the last 96 h
+[2026-11-22 11:01:06] Неизвестный источник (formula1.com): Verstappen reacts to inheriting Las Vega
+[2026-11-22 11:01:06] Спорт, пропускаю: England captain Harry Kane is expected t
+[2026-11-22 11:01:06] Неизвестный источник (jpost.com): States agree to UN talks aiming to regul
+[2026-11-22 11:01:06] Неизвестный источник (pagesix.com): ‘GTA 6’ cast celebrity cameos: Bobby Moy
+[2026-11-22 11:01:06] Неизвестный источник (stocktwits.com): Nasdaq 100 Ends Worst Week Since 2020, S
+[2026-11-22 11:01:06] Неизвестный источник (tmz.com): Nick Carter to Sexual Assault Accuser: Y
+[2026-11-22 11:01:06] Неизвестный источник (sherdog.com): UFC Qatar ‘Prochazka vs. Stirling’ play-
+[2026-11-22 11:01:06] Неизвестный источник (pbs.org): Fiona's caretakers and fans mourn the be
+[2026-11-22 11:01:06] Неизвестный источник (deadline.com): ‘Hunger Games: Sunrise On The Reaping’ B
+[2026-11-22 11:01:06] Неизвестный источник (wjla.com): Young child dies of measles, marking fir
+[2026-11-22 11:01:06] Неизвестный источник (espn.com): KC Current 'peaking' at right time for N
+[2026-11-22 11:01:06] Лента обновлений, пропускаю: Trump touts Asia deals and meeting with 
+[2026-11-22 11:01:06] Неизвестный источник (mymodernmet.com): NASA’s Voyager 1 Reaches a Historic Dist
+[2026-11-22 11:01:06] Неизвестный источник (phys.org): Bumblebees challenge long-held beliefs a
+[2026-11-22 11:01:06] Неизвестный источник (iflscience.com): After 8 Years, Many Flybys, And A Daring
+[2026-11-22 11:01:06] Неизвестный источник (macrumors.com): Apple Black Friday Deals Available Now: 
+[2026-11-22 11:01:06] Старая новость (2026-11-20T08:30:33Z): Thomas Markle ruled mentally competent t
+[2026-11-22 11:01:06] Мировые новости: найдено 10 после фильтрации
+[2026-11-22 11:01:07] Редакторский отбор: выбраны позиции [9, 1, 10, 7]
+[2026-11-22 11:01:07] Обрабатываю: 10 years after divisive Brexit referendum, UK weighs a ‘Bret | https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brex
+[2026-11-22 11:01:08] Полный текст получен (3000 символов)
+[2026-11-22 11:01:08] Попытка 1 для: 10 years after divisive Brexit referendu
+[2026-11-22 11:01:09] Успешно, получено 1545 символов
+[2026-11-22 11:01:09] Обрабатываю: Storms deluging Florida with historic flooding shift further | https://apnews.com/article/extreme-weather-flooding-florida-california
+[2026-11-22 11:01:09] Попытка 1 для: Storms deluging Florida with historic fl
+[2026-11-22 11:01:12] Успешно, получено 795 символов
+[2026-11-22 11:01:12] Обрабатываю: New pancreatic cancer drug halts tumour growth in 90% of pat | https://www.ft.com/content/6f8575e7-48df-4537-8c8d-73433f086e87?syn-25
+[2026-11-22 11:01:12] Попытка 1 для: New pancreatic cancer drug halts tumour 
+[2026-11-22 11:01:14] Успешно, получено 1125 символов
+[2026-11-22 11:01:14] Обрабатываю: U.S. measles cases are at a 35-year high. Here’s how to prot | https://www.washingtonpost.com/wellness/2026/11/20/us-measles-cases-ar
+[2026-11-22 11:01:26] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/wellness/2026/11/20/us-measle
+[2026-11-22 11:01:26] Попытка 1 для: U.S. measles cases are at a 35-year high
+[2026-11-22 11:01:28] Успешно, получено 983 символов
+[2026-11-22 11:01:31] Пауза 60 секунд...
+[2026-11-22 11:02:32] Пауза 60 секунд...
+[2026-11-22 11:03:32] Пауза 60 секунд...
+[2026-11-22 11:04:33] sent_urls.txt обрезан: 304 -> 300
+[2026-11-22 11:04:33] === Блок midday завершён ===
