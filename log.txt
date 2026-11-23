@@ -1,50 +1,3 @@
-[2026-11-17 06:01:37] Обрабатываю: Trump administration asks for billions to overhaul FAA. Demo | https://apnews.com/article/trump-ground-stop-air-travel-faa-duffy-1a30
-[2026-11-17 06:01:37] Попытка 1 для: Trump administration asks for billions t
-[2026-11-17 06:01:46] Успешно, получено 903 символов
-[2026-11-17 06:01:49] Пауза 60 секунд...
-[2026-11-17 06:02:50] Пауза 60 секунд...
-[2026-11-17 06:03:50] Пауза 60 секунд...
-[2026-11-17 06:04:51] Обрабатываю: Russian attack cuts power to 76 settlements in Mykolaiv regi | https://www.ukrinform.net/rubric-ato/4185337-russian-attack-cuts-power
-[2026-11-17 06:04:52] Полный текст получен (693 символов)
-[2026-11-17 06:04:52] Попытка 1 для: Russian attack cuts power to 76 settleme
-[2026-11-17 06:04:56] Успешно, получено 1514 символов
-[2026-11-17 06:04:56] Обрабатываю: Car driver killed in drone attack on Zaporizhzhia | https://www.ukrinform.net/rubric-ato/4185381-car-driver-killed-in-dron
-[2026-11-17 06:04:57] Полный текст получен (768 символов)
-[2026-11-17 06:04:57] Попытка 1 для: Car driver killed in drone attack on Zap
-[2026-11-17 06:04:59] Успешно, получено 1183 символов
-[2026-11-17 06:04:59] Обрабатываю: Evacuation continues in 96 settlements in Kharkiv region | https://www.ukrinform.net/rubric-ato/4185379-evacuation-continues-in-9
-[2026-11-17 06:05:00] Полный текст получен (956 символов)
-[2026-11-17 06:05:00] Попытка 1 для: Evacuation continues in 96 settlements i
-[2026-11-17 06:05:01] Успешно, получено 1212 символов
-[2026-11-17 06:05:04] Пауза 60 секунд...
-[2026-11-17 06:06:05] Пауза 60 секунд...
-[2026-11-17 06:07:05] sent_urls.txt обрезан: 307 -> 300
-[2026-11-17 06:07:05] === Блок morning завершён ===
-[2026-11-17 08:01:04] Загружено 300 уже отправленных новостей
-[2026-11-17 08:01:04] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-17 08:01:04] Story memory: 86 headlines from the last 96 h
-[2026-11-17 08:01:04] RSS The Guardian: 20 записей
-[2026-11-17 08:01:05] RSS Wired: 10 записей
-[2026-11-17 08:01:05] RSS TechCrunch: 20 записей
-[2026-11-17 08:01:06] RSS Ars Technica: 20 записей
-[2026-11-17 08:01:06] RSS MIT Technology Review: 10 записей
-[2026-11-17 08:01:06] RSS BBC News: 21 записей
-[2026-11-17 08:01:06] RSS IEEE Spectrum: 30 записей
-[2026-11-17 08:01:07] AI feeds: 20 candidates from quality outlets
-[2026-11-17 08:01:07] NewsAPI (AI): пришло 32 статей
-[2026-11-17 08:01:07] Неизвестный источник (siliconangle.com): Detectify’s Agentic Tooling lets AI agen
-[2026-11-17 08:01:07] Неизвестный источник (foxnews.com): Perpetual paralysis: Why everything is g
-[2026-11-17 08:01:07] Неизвестный источник (thejournal.ie): New AI warning system for flooding to be
-[2026-11-17 08:01:07] Неизвестный источник (channelnewsasia.com): Hong Kong rolls out AI facial recognitio
-[2026-11-17 08:01:07] Неизвестный источник (en.antaranews.com): KPJ Healthcare Leads ASEAN in Healthcare
-[2026-11-17 08:01:07] Неизвестный источник (en.antaranews.com): Education in Motion Opens Dulwich Colleg
-[2026-11-17 08:01:07] Неизвестный источник (brieflyaipodcast.com): Alibaba's Qwen4-Max Lands; Apple Studies
-[2026-11-17 08:01:07] Заблокированный источник (naturalnews.com): Microsoft Apologizes for Global Outlook 
-[2026-11-17 08:01:07] Неизвестный источник (news.sap.com): India’s Rise: From Promise to Platform f
-[2026-11-17 08:01:07] Неизвестный источник (thehindubusinessline.com): FRND’s profit jumps nearly tenfold to ₹1
-[2026-11-17 08:01:07] Неизвестный источник (medicaldaily.com): AI Helps Brain Implant Control Visual Co
-[2026-11-17 08:01:07] Неизвестный источник (bworldonline.com): UnionBank’s UB Negosyante BOOSTcamp trai
-[2026-11-17 08:01:07] Неизвестный источник (insurancejournal.com): Microsoft Says Services Fully Restored A
 [2026-11-17 08:01:07] Нет фото: Where is the lateral line found?
 [2026-11-17 08:01:07] Неизвестный источник (theglobeandmail.com): Telus pulls out of two planned Vancouver
 [2026-11-17 08:01:07] Нет фото: Reproducible laboratory evaluation of sp
@@ -2998,3 +2951,50 @@ Chery Omoda 5 recalled after broken
 [2026-11-23 08:03:42] Пауза 60 секунд...
 [2026-11-23 08:04:43] sent_urls.txt обрезан: 304 -> 300
 [2026-11-23 08:04:43] === Блок ai_morning завершён ===
+[2026-11-23 11:01:15] Загружено 300 уже отправленных новостей
+[2026-11-23 11:01:15] === Запуск блока: midday (тест: False) ===
+[2026-11-23 11:01:15] Story memory: 99 headlines from the last 96 h
+[2026-11-23 11:01:15] Неизвестный источник (tmz.com): Anne Heche Creditors Object to Her Son's
+[2026-11-23 11:01:15] Неизвестный источник (billboard.com): Miley Cyrus Marries Maxx Morando in Pool
+[2026-11-23 11:01:15] Неизвестный источник (cbssports.com): Tomorrow's Top 25 Today: Ohio State, Ind
+[2026-11-23 11:01:15] Неизвестный источник (bgr.com): These iPhone Customizations Can Make You
+[2026-11-23 11:01:15] Неизвестный источник (247sports.com): Lane Kiffin credits Neyland Stadium crow
+[2026-11-23 11:01:15] Неизвестный источник (sfchronicle.com): SFO will flood next week from huge tides
+[2026-11-23 11:01:15] Пропускаю уже отправленную: 'El Chapo Isidro': Mexican drug lord on FBI's 10 m
+[2026-11-23 11:01:15] Неизвестный источник (ktvz.com): USDA Quietly Releases Bigfoot Files, Inc
+[2026-11-23 11:01:15] Неизвестный источник (gsmarena.com): Motorola Moto Tag 3 listed on Amazon - G
+[2026-11-23 11:01:15] Пропускаю уже отправленную: Virginia reports young child is the state’s first 
+[2026-11-23 11:01:15] Заблокированный источник (sports.yahoo.com): UFC Qatar results: Navajo Stirling deton
+[2026-11-23 11:01:15] Неизвестный источник (newsnationnow.com): New pancreatic cancer drug stops tumor g
+[2026-11-23 11:01:15] Неизвестный источник (foxbusiness.com): Anthropic IPO signals ‘beginning of a go
+[2026-11-23 11:01:15] Неизвестный источник (wdsu.com): St. Tammany deputies: Crossbow killing s
+[2026-11-23 11:01:15] Неизвестный источник (variety.com): "The Hunger Games: Sunrise on the Reapin
+[2026-11-23 11:01:15] Старая новость (2026-11-21T10:18:51Z): Voyager 1 hit one light day but isn't se
+[2026-11-23 11:01:15] Старая новость (2026-11-21T09:34:53Z): Nvidia shuts down Jensen Huang’s comebac
+[2026-11-23 11:01:15] Старая новость (2026-11-21T07:59:58Z): Grand Theft Auto VI shatters entertainme
+[2026-11-23 11:01:15] Старая новость (2026-11-20T18:12:03Z): Supermoon could worsen king tide floodin
+[2026-11-23 11:01:15] Старая новость (2026-11-20T17:47:00Z): SpaceX Dragon cargo capsule heads home t
+[2026-11-23 11:01:15] Старая новость (2026-11-19T19:24:00Z): Big Tech companies are the butt of the j
+[2026-11-23 11:01:15] Старая новость (2026-11-19T18:50:00Z): Studies: Blood test has potential to det
+[2026-11-23 11:01:15] Мировые новости: найдено 9 после фильтрации
+[2026-11-23 11:01:17] Редакторский отбор: выбраны позиции [1, 8, 3, 5]
+[2026-11-23 11:01:17] Обрабатываю: Turkey's final draft at UN climate talks doesn't mention the | https://apnews.com/article/climate-un-turkey-fossil-fuels-global-warmi
+[2026-11-23 11:01:17] Попытка 1 для: Turkey's final draft at UN climate talks
+[2026-11-23 11:01:20] Успешно, получено 871 символов
+[2026-11-23 11:01:20] Обрабатываю: BepiColombo finally reaches Mercury after eight-year odyssey | https://www.nature.com/articles/d41586-026-03803-8
+[2026-11-23 11:01:21] Полный текст получен (2939 символов)
+[2026-11-23 11:01:21] Попытка 1 для: BepiColombo finally reaches Mercury afte
+[2026-11-23 11:01:25] Успешно, получено 1946 символов
+[2026-11-23 11:01:25] Обрабатываю: Abdul El-Sayed catches Trump’s attention with pitch for ‘Tru | https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-t
+[2026-11-23 11:01:25] Полный текст получен (2588 символов)
+[2026-11-23 11:01:25] Попытка 1 для: Abdul El-Sayed catches Trump’s attention
+[2026-11-23 11:01:30] Успешно, получено 1603 символов
+[2026-11-23 11:01:30] Обрабатываю: Princeton University student detained by ICE at Reagan Airpo | https://www.cbsnews.com/philadelphia/news/princeton-student-ice/
+[2026-11-23 11:01:30] Полный текст получен (2446 символов)
+[2026-11-23 11:01:30] Попытка 1 для: Princeton University student detained by
+[2026-11-23 11:01:49] Успешно, получено 1784 символов
+[2026-11-23 11:01:53] Пауза 60 секунд...
+[2026-11-23 11:02:53] Пауза 60 секунд...
+[2026-11-23 11:03:54] Пауза 60 секунд...
+[2026-11-23 11:04:54] sent_urls.txt обрезан: 304 -> 300
+[2026-11-23 11:04:54] === Блок midday завершён ===
