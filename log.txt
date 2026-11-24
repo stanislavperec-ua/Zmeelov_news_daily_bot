@@ -1,109 +1,3 @@
-[2026-11-18 08:01:04] Неизвестный источник (abc.net.au): Why the wheels are falling off the AI in
-[2026-11-18 08:01:04] Неизвестный источник (abc.net.au): Australia backs Trump's AI alliance as U
-[2026-11-18 08:01:04] Неизвестный источник (pymnts.com): ECB Warns Rapid AI Expansion Threatens E
-[2026-11-18 08:01:04] Неизвестный источник (pymnts.com): FBI Warns AI Hackers Need Three Hours. C
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): At KubeCon 2026, the illusion of AI cont
-[2026-11-18 08:01:04] Неизвестный источник (reason.com): Border Agents Seized and Copied an Immig
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): Alecto raises $20M seed funding to make 
-[2026-11-18 08:01:04] Неизвестный источник (aws.amazon.com): Get answers from tables with tabular sea
-[2026-11-18 08:01:04] Неизвестный источник (nzherald.co.nz): Count raises $11.5m seed capital for its
-[2026-11-18 08:01:04] Неизвестный источник (kpbs.org): San Diego flights stabilize following hi
-[2026-11-18 08:01:04] AI news: 17 candidates from quality and trusted outlets
-[2026-11-18 08:01:04] AI news: 17 candidates after filtering
-[2026-11-18 08:01:07] Редакторский отбор: выбраны позиции [3, 2, 12, 11]
-[2026-11-18 08:01:07] Обрабатываю: Copilot is "the new OS for work," and now Office runs inside | https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-ne
-[2026-11-18 08:01:07] Полный текст получен (2367 символов)
-[2026-11-18 08:01:07] Попытка 1 для: Copilot is "the new OS for work," and no
-[2026-11-18 08:01:09] Успешно, получено 1897 символов
-[2026-11-18 08:01:09] Обрабатываю: Over a Third of Gen Z-ers Rely on AI for Friendship | https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-frien
-[2026-11-18 08:01:10] Полный текст получен (3000 символов)
-[2026-11-18 08:01:10] Попытка 1 для: Over a Third of Gen Z-ers Rely on AI for
-[2026-11-18 08:01:12] Успешно, получено 1418 символов
-[2026-11-18 08:01:12] Обрабатываю: Grok Bot took unapproved actions, ignored orders to stop, an | https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-acti
-[2026-11-18 08:01:12] Полный текст получен (2242 символов)
-[2026-11-18 08:01:12] Попытка 1 для: Grok Bot took unapproved actions, ignore
-[2026-11-18 08:01:15] Успешно, получено 1607 символов
-[2026-11-18 08:01:15] Обрабатываю: Ofqual urges ‘life-altering’ penalties for students who use  | https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-al
-[2026-11-18 08:01:15] Полный текст получен (3000 символов)
-[2026-11-18 08:01:15] Попытка 1 для: Ofqual urges ‘life-altering’ penalties f
-[2026-11-18 08:01:32] Успешно, получено 1766 символов
-[2026-11-18 08:01:35] Пауза 60 секунд...
-[2026-11-18 08:02:35] Пауза 60 секунд...
-[2026-11-18 08:03:36] Пауза 60 секунд...
-[2026-11-18 08:04:36] sent_urls.txt обрезан: 304 -> 300
-[2026-11-18 08:04:36] === Блок ai_morning завершён ===
-[2026-11-18 11:01:04] Загружено 300 уже отправленных новостей
-[2026-11-18 11:01:04] === Запуск блока: midday (тест: False) ===
-[2026-11-18 11:01:04] Story memory: 91 headlines from the last 96 h
-[2026-11-18 11:01:04] Неизвестный источник (japantimes.co.jp): Japan scrambles fighters after suspected
-[2026-11-18 11:01:04] Неизвестный источник (variety.com): ‘Cliff Booth’ First Reactions: Brad Pitt
-[2026-11-18 11:01:04] Неизвестный источник (adn.com): Peltola approaches victory in Alaska’s U
-[2026-11-18 11:01:04] Неизвестный источник (actionnetwork.com): Ravens vs Chargers Odds, Picks, Parlay f
-[2026-11-18 11:01:04] Пропускаю уже отправленную: U.S. loses measles-elimination status, erasing dec
-[2026-11-18 11:01:04] Неизвестный источник (hollywoodreporter.com): James Bond Fans Already Complaining Abou
-[2026-11-18 11:01:04] Заблокированный источник (sports.yahoo.com): Lions' Aidan Hutchinson reportedly confi
-[2026-11-18 11:01:04] Same story already published: United Airlines system outage disrupts departures  ~ United Airlines has a widespread system outage jus
-[2026-11-18 11:01:04] Неизвестный источник (macrumors.com): Apple Plans to Release These 18 New Prod
-[2026-11-18 11:01:04] Неизвестный источник (profootballrumors.com): Packers’ Micah Parsons Not Certain For W
-[2026-11-18 11:01:04] Неизвестный источник (abc7ny.com): NYPD SRG disbanded: Mamdani, Tisch on NY
-[2026-11-18 11:01:04] Неизвестный источник (bleacherreport.com): B/R Experts Week 11 NFL Power Rankings -
-[2026-11-18 11:01:04] Старая новость (2026-11-15T20:55:35Z): Africa CDC says Ebola outbreak in DR Con
-[2026-11-18 11:01:04] Старая новость (2026-11-15T14:00:41Z): Prostate cancer testing now urged for me
-[2026-11-18 11:01:04] Старая новость (2026-11-13T19:45:02Z): SpaceX’s Big Day: A Historic Starship La
-[2026-11-18 11:01:04] Мировые новости: найдено 15 после фильтрации
-[2026-11-18 11:01:08] Редакторский отбор: выбраны позиции [8, 6, 15, 7]
-[2026-11-18 11:01:08] Обрабатываю: Exclusive: US intel indicates Iran developing plans to poten | https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bom
-[2026-11-18 11:01:08] Полный текст получен (3000 символов)
-[2026-11-18 11:01:08] Попытка 1 для: Exclusive: US intel indicates Iran devel
-[2026-11-18 11:01:12] Успешно, получено 1930 символов
-[2026-11-18 11:01:12] Обрабатываю: CDC declined to alert risk of measles in pregnancy. A journa | https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-ri
-[2026-11-18 11:01:24] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/health/2026/11/16/cdc-decline
-[2026-11-18 11:01:24] Попытка 1 для: CDC declined to alert risk of measles in
-[2026-11-18 11:01:25] Успешно, получено 692 символов
-[2026-11-18 11:01:25] Обрабатываю: Photos: Highlights from Pope Leo’s historic, 12-day tour of  | https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-
-[2026-11-18 11:01:26] Полный текст получен (3000 символов)
-[2026-11-18 11:01:26] Попытка 1 для: Photos: Highlights from Pope Leo’s histo
-[2026-11-18 11:01:30] Успешно, получено 1663 символов
-[2026-11-18 11:01:30] Обрабатываю: Whip List: Schumer faces challenge from Van Hollen for Senat | https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-le
-[2026-11-18 11:01:30] Попытка 1 для: Whip List: Schumer faces challenge from 
-[2026-11-18 11:01:33] Успешно, получено 875 символов
-[2026-11-18 11:01:36] Пауза 60 секунд...
-[2026-11-18 11:02:36] Пауза 60 секунд...
-[2026-11-18 11:03:37] Пауза 60 секунд...
-[2026-11-18 11:04:37] sent_urls.txt обрезан: 304 -> 300
-[2026-11-18 11:04:37] === Блок midday завершён ===
-[2026-11-18 16:01:06] Загружено 300 уже отправленных новостей
-[2026-11-18 16:01:06] === Запуск блока: evening (тест: False) ===
-[2026-11-18 16:01:06] Story memory: 95 headlines from the last 96 h
-[2026-11-18 16:01:06] Неизвестный источник (espn.com): Tiger Woods to return for next month's H
-[2026-11-18 16:01:06] Пропускаю уже отправленную: Grok Bot took unapproved actions, ignored orders t
-[2026-11-18 16:01:06] Неизвестный источник (bloodyelbow.com): Ciryl Gane provides health update in fir
-[2026-11-18 16:01:06] Неизвестный источник (ky3.com): Doctors sound the alarm about US babies 
-[2026-11-18 16:01:06] Спорт, пропускаю: Melbourne Cup horse So You Are found dea
-[2026-11-18 16:01:06] Неизвестный источник (space.com): The Leonid meteor shower peaks tonight! 
-[2026-11-18 16:01:06] Неизвестный источник (usatoday.com): 'Below Deck' star Gael Cameron speaks on
-[2026-11-18 16:01:06] Неизвестный источник (espn.com): Kyle Hamilton says Ravens 'disgracing' s
-[2026-11-18 16:01:06] Пропускаю уже отправленную: U.S. loses measles-elimination status, erasing dec
-[2026-11-18 16:01:06] Неизвестный источник (variety.com): Jennifer Lawrence Stuns as 'Hunger Games
-[2026-11-18 16:01:06] Пропускаю уже отправленную: Exclusive: US intel indicates Iran developing plan
-[2026-11-18 16:01:06] Неизвестный источник (avi-loeb.medium.com): JAXA Cancels Trip to the “Dark Comet” 19
-[2026-11-18 16:01:06] Неизвестный источник (9to5mac.com): iPhone Duo now has twice as many optimiz
-[2026-11-18 16:01:06] Старая новость (2026-11-16T13:40:33Z): 'iPhone 20 Pro' Rumored to Be Based on i
-[2026-11-18 16:01:06] Старая новость (2026-11-16T11:58:17Z): Israel under pressure as winter rains la
-[2026-11-18 16:01:06] Старая новость (2026-11-15T14:00:41Z): Prostate cancer testing now urged for me
-[2026-11-18 16:01:06] Нет фото: SpaceX’s Starship soars into orbit after
-[2026-11-18 16:01:06] Мировые новости: найдено 11 после фильтрации
-[2026-11-18 16:01:08] Редакторский отбор: выбраны позиции [5, 10, 8, 11]
-[2026-11-18 16:01:09] RSS Ukrinform: 30 записей
-[2026-11-18 16:01:10] RSS Ukrinform: 30 записей
-[2026-11-18 16:01:11] RSS Euromaidan Press: 29 записей
-[2026-11-18 16:01:11] NewsAPI (мировые про Украину): пришло 49 статей
-[2026-11-18 16:01:11] Нет фото: Getting Out of Trump’s Wars
-[2026-11-18 16:01:11] Заблокированный источник (dailymail.com): Military plane crashes in Russia, killin
-[2026-11-18 16:01:11] Заблокированный источник (rt-english.com): How the EU’s ‘authoritarian network’ san
-[2026-11-18 16:01:11] Заблокированный источник (rt-english.com): Lavrov mocks Johnson’s vodka ‘punishment
-[2026-11-18 16:01:11] Нет фото: The Pickled Vegetable Bottles That Took 
-[2026-11-18 16:01:11] Заблокированный источник (nypost.com): Kim Jong Un inspects North Korean touris
 [2026-11-18 16:01:11] Заблокированный источник (biztoc.com): Ukraine Nuclear Accident Risk Soars Ahea
 [2026-11-18 16:01:11] Спорт, пропускаю: Hackers Hijack IIHF Website To Post Pro-
 [2026-11-18 16:01:11] Спорт, пропускаю: Wiegman excited by potential of England’
@@ -2998,3 +2892,109 @@
 [2026-11-24 11:03:41] Пауза 60 секунд...
 [2026-11-24 11:04:42] sent_urls.txt обрезан: 304 -> 300
 [2026-11-24 11:04:42] === Блок midday завершён ===
+[2026-11-24 16:01:12] Загружено 300 уже отправленных новостей
+[2026-11-24 16:01:12] === Запуск блока: evening (тест: False) ===
+[2026-11-24 16:01:12] Story memory: 96 headlines from the last 96 h
+[2026-11-24 16:01:12] Неизвестный источник (pagesix.com): Exclusive | Will Smith’s $42 million Cal
+[2026-11-24 16:01:12] Пропускаю уже отправленную: Democrats win largest House majority since 1992 af
+[2026-11-24 16:01:12] Неизвестный источник (foxnews.com): Popular bedroom supplements often fail t
+[2026-11-24 16:01:12] Заблокированный источник (finance.yahoo.com): Stock market today: Dow, S&P 500, Nasdaq
+[2026-11-24 16:01:12] Неизвестный источник (nbcsports.com): Cam Skattebo on unretiring the backflip:
+[2026-11-24 16:01:12] Неизвестный источник (weather.com): Thanksgiving travel forecast 2026: storm
+[2026-11-24 16:01:12] Неизвестный источник (espn.com): 49ers' Brock Purdy beats Vikings blitz, 
+[2026-11-24 16:01:12] Неизвестный источник (androidauthority.com): GrapheneOS just built its own RCS messag
+[2026-11-24 16:01:12] Спорт, пропускаю: Giants intercept Trevor Lawrence twice a
+[2026-11-24 16:01:12] Неизвестный источник (mlb.com): Skubal joining Mets for 9 years, $450M (
+[2026-11-24 16:01:12] Неизвестный источник (phys.org): JWST finds a possible black hole that gr
+[2026-11-24 16:01:12] Старая новость (2026-11-20T10:00:07Z): Galactic shock: Discovery challenges our
+[2026-11-24 16:01:12] Мировые новости: найдено 10 после фильтрации
+[2026-11-24 16:01:14] Редакторский отбор: выбраны позиции [1, 3, 9, 6]
+[2026-11-24 16:01:15] RSS Ukrinform: 30 записей
+[2026-11-24 16:01:16] RSS Ukrinform: 30 записей
+[2026-11-24 16:01:17] Пропускаю уже отправленную: Ukrainian drone units hit over 4,000 Russian groun
+[2026-11-24 16:01:17] Пропускаю уже отправленную: Ukraine's Defense Forces destroy 1,004 Russian tan
+[2026-11-24 16:01:17] RSS Euromaidan Press: 29 записей
+[2026-11-24 16:01:17] NewsAPI (мировые про Украину): пришло 48 статей
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Merz urges new round of Ukraine negotiat
+[2026-11-24 16:01:17] Нет фото: “They’re Hiding Pedophiles”: Only 23 of 
+[2026-11-24 16:01:17] Заблокированный источник (breitbart.com): Moscow Accuses Neighbouring Estonia of '
+[2026-11-24 16:01:17] Спорт, пропускаю: UK confirmed as 2035 Women's World Cup h
+[2026-11-24 16:01:17] Нет фото: 12,000 evacuated from Don Toliver concer
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Ukraine confirms striking Russia's Perm 
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Russia claims strike on cargo ship near 
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Rutte: For every incident in Europe, mor
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Russia makes a new ballistic missile eve
+[2026-11-24 16:01:17] Заблокированный источник (rt-english.com): Moscow summons Baltic state envoy over b
+[2026-11-24 16:01:17] Нет фото: mova-tts 0.2.0
+[2026-11-24 16:01:17] Нет фото: What will Susan Collins’ loss mean to Ma
+[2026-11-24 16:01:17] Нет фото: The 30 Thanksgiving Movies Actually Wort
+[2026-11-24 16:01:17] Заблокированный источник (nypost.com): Poland says Russia allegedly twice tried
+[2026-11-24 16:01:17] Нет фото: Ukrainian Attack Off Coast of Libya Show
+[2026-11-24 16:01:17] Нет фото: Reactor Permits Pile Up Under Trump as D
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Ukraine Sinks Russian Warship off Libyan
+[2026-11-24 16:01:17] Заблокированный источник (breitbart.com): Ukraine Claims Responsibility For Sinkin
+[2026-11-24 16:01:17] Нет фото: AI development is too vital to US securi
+[2026-11-24 16:01:17] Нет фото: Lamentation Of A California Conservative
+[2026-11-24 16:01:17] Нет фото: Ukraine sinks Russian warship off Libya 
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Zelenskyy hails Ukraine's attack on a Ru
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): Draganfly Signs Two Agreements at Canadi
+[2026-11-24 16:01:17] Заблокированный источник (biztoc.com): The British Army brought in a battle-tes
+[2026-11-24 16:01:17] Нет фото: NYT Columnist Thought He Had a Tough Que
+[2026-11-24 16:01:17] Same story twice in candidates: Blocked Kerch Strait further traps Russia's Black 
+[2026-11-24 16:01:17] Same story twice in candidates: Zelensky confirms strike on Russian ship in Gulf o
+[2026-11-24 16:01:17] Same story twice in candidates: Russian drone attack on Korosten railway station k
+[2026-11-24 16:01:17] Same story twice in candidates: Hospital damaged in Russian attack on Odesa
+[2026-11-24 16:01:17] Same story twice in candidates: Ukrainian forces hit Russian military truck concen
+[2026-11-24 16:01:17] Same story twice in candidates: Ukraine has right to strike military targets in Ru
+[2026-11-24 16:01:17] Same story twice in candidates: Zelensky: Russia focused its attacks on Zhytomyr r
+[2026-11-24 16:01:17] Same story twice in candidates: Russian drone hits railway station in Korosten, ki
+[2026-11-24 16:01:17] Same story twice in candidates: Russian attack damages business, energy facility i
+[2026-11-24 16:01:17] Same story twice in candidates: Russian strikes damage civilian and energy infrast
+[2026-11-24 16:01:17] Same story twice in candidates: General Staff reports 161 combat clashes on front 
+[2026-11-24 16:01:17] Same story twice in candidates: Air defenses neutralize 73 of 96 drones Russia lau
+[2026-11-24 16:01:17] Same story twice in candidates: Ukraine strikes Russian warship and cargo vessel w
+[2026-11-24 16:01:17] Same story twice in candidates: 'They were all asleep': Ukrainians describe deadly
+[2026-11-24 16:01:17] Украинские новости: найдено 81 после фильтрации
+[2026-11-24 16:01:20] Редакторский отбор: выбраны позиции [20, 4]
+[2026-11-24 16:01:20] NewsAPI (Харьков, все издания): пришло 3 статей
+[2026-11-24 16:01:21] RSS Ukrinform: 30 записей
+[2026-11-24 16:01:22] RSS Ukrinform: 30 записей
+[2026-11-24 16:01:22] RSS Euromaidan Press: 29 записей
+[2026-11-24 16:01:22] Заблокированный источник (biztoc.com): Kharkiv industrial area hit by Russian d
+[2026-11-24 16:01:22] Заблокированный источник (thegatewaypundit.com): Ukraine Field Report: Russian Strikes Ki
+[2026-11-24 16:01:22] Харьков: найдена новость: UK defence secretary visits Kharkiv, announces add
+[2026-11-24 16:01:22] Обрабатываю: Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27% | https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+[2026-11-24 16:01:22] Полный текст получен (3000 символов)
+[2026-11-24 16:01:22] Попытка 1 для: Nvidia reinstates Jensen Huang as CEO. S
+[2026-11-24 16:01:27] Успешно, получено 2108 символов
+[2026-11-24 16:01:27] Обрабатываю: SpaceX sued by Oregon and Virginia over AI deepfake porn, Gr | https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-l
+[2026-11-24 16:01:27] Полный текст получен (3000 символов)
+[2026-11-24 16:01:27] Попытка 1 для: SpaceX sued by Oregon and Virginia over 
+[2026-11-24 16:01:32] Успешно, получено 2282 символов
+[2026-11-24 16:01:32] Обрабатываю: US intelligence chief defends Trump’s comments calling Putin | https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defend
+[2026-11-24 16:01:32] Полный текст получен (3000 символов)
+[2026-11-24 16:01:32] Попытка 1 для: US intelligence chief defends Trump’s co
+[2026-11-24 16:01:58] Успешно, получено 1433 символов
+[2026-11-24 16:01:58] Обрабатываю: When disaster strikes, Medicaid work rules add barriers for  | https://www.cbsnews.com/news/medicaid-work-rules-disasters/
+[2026-11-24 16:01:58] Полный текст получен (3000 символов)
+[2026-11-24 16:01:58] Попытка 1 для: When disaster strikes, Medicaid work rul
+[2026-11-24 16:02:07] Успешно, получено 2380 символов
+[2026-11-24 16:02:13] Пауза 60 секунд...
+[2026-11-24 16:03:14] Пауза 60 секунд...
+[2026-11-24 16:04:16] Пауза 60 секунд...
+[2026-11-24 16:05:19] Обрабатываю: European Council to discuss Ukraine’s 2027 funding needs on  | https://www.ukrinform.net/rubric-polytics/4188001-european-council-to-
+[2026-11-24 16:05:20] Полный текст получен (2318 символов)
+[2026-11-24 16:05:20] Попытка 1 для: European Council to discuss Ukraine’s 20
+[2026-11-24 16:05:24] Успешно, получено 1746 символов
+[2026-11-24 16:05:24] Обрабатываю: Italy’s Foreign Minister voices concern over Ukraine’s strik | https://www.ukrinform.net/rubric-polytics/4188172-italys-foreign-minis
+[2026-11-24 16:05:26] Полный текст получен (1134 символов)
+[2026-11-24 16:05:26] Попытка 1 для: Italy’s Foreign Minister voices concern 
+[2026-11-24 16:05:29] Успешно, получено 1673 символов
+[2026-11-24 16:05:29] Обрабатываю: UK defence secretary visits Kharkiv, announces additional Ra | https://www.ukrinform.net/rubric-polytics/4188135-uk-defence-secretary
+[2026-11-24 16:05:30] Полный текст получен (1358 символов)
+[2026-11-24 16:05:30] Попытка 1 для: UK defence secretary visits Kharkiv, ann
+[2026-11-24 16:05:32] Успешно, получено 1535 символов
+[2026-11-24 16:05:35] Пауза 60 секунд...
+[2026-11-24 16:06:36] Пауза 60 секунд...
+[2026-11-24 16:07:37] sent_urls.txt обрезан: 307 -> 300
+[2026-11-24 16:07:37] === Блок evening завершён ===
