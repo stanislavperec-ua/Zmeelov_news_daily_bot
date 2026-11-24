@@ -1,44 +1,3 @@
-[2026-11-18 08:01:04] Неизвестный источник (business-standard.com): What we know about the online banking di
-[2026-11-18 08:01:04] Заблокированный источник (dailymail.com): DHS Secretary Mullin shares alarming the
-[2026-11-18 08:01:04] Неизвестный источник (repubblica.it): How an Italian start-up is using smart t
-[2026-11-18 08:01:04] Неизвестный источник (abc.net.au): What to know about the online banking de
-[2026-11-18 08:01:04] Неизвестный источник (thehindubusinessline.com): What to know about the online banking de
-[2026-11-18 08:01:04] Неизвестный источник (m.economictimes.com): Anthropic's IPO: How do you price the fu
-[2026-11-18 08:01:04] Неизвестный источник (business-standard.com): Nvidia board not considering Jensen Huan
-[2026-11-18 08:01:04] Неизвестный источник (m.economictimes.com): Not a cyberattack, but a software bug: H
-[2026-11-18 08:01:04] Неизвестный источник (digitaljournal.com): Anthropic’s IPO: How do you price the fu
-[2026-11-18 08:01:04] Неизвестный источник (timesofindia.indiatimes.com): FBI warns companies in the US and across
-[2026-11-18 08:01:04] Неизвестный источник (punchng.com): FG pushes regional deal to prevent inter
-[2026-11-18 08:01:04] Неизвестный источник (bossip.com): Inaugural T7 Summit Brings Star Power & 
-[2026-11-18 08:01:04] Неизвестный источник (aws.amazon.com): How Banco BMG moved from reactive to aut
-[2026-11-18 08:01:04] Заблокированный источник (dailymail.com): Shocking moment speeding SUV slams into 
-[2026-11-18 08:01:04] Не про ИИ, пропускаю: The world’s most precious brain samples — and what
-[2026-11-18 08:01:04] Не про ИИ, пропускаю: Evolutionary lineage-specific and heterochromatin-
-[2026-11-18 08:01:04] Неизвестный источник (punchng.com): BVAS remote log-out claim false, INEC de
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): Corma raises $125M to train cybersecurit
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): Noeri raises $110M to help companies bui
-[2026-11-18 08:01:04] Неизвестный источник (thehindubusinessline.com): Trump blames ageing FAA equipment for fl
-[2026-11-18 08:01:04] Неизвестный источник (thehindubusinessline.com): Nvidia board rules out Jensen Huang’s re
-[2026-11-18 08:01:04] Неизвестный источник (punchng.com): Tinubu tightens security, 128 police chi
-[2026-11-18 08:01:04] Неизвестный источник (snopes.com): Did AI company tied to Sean Duffy's son-
-[2026-11-18 08:01:04] Неизвестный источник (collegefootballnetwork.com): “The Patriots Don’t Deserve Him”: Fans R
-[2026-11-18 08:01:04] Нет фото: AI Cloud – Managed Services Versus Bare 
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): Alibaba launches Qwen4-Max with training
-[2026-11-18 08:01:04] Неизвестный источник (singularityhub.com): Tiny Magnetic Robots Help Dissolve Blood
-[2026-11-18 08:01:04] Неизвестный источник (siliconangle.com): Talkdesk’s life sciences play shows why 
-[2026-11-18 08:01:04] Неизвестный источник (digitalcommerce360.com): OpenAI launches ChatGPT Wallet for AI pu
-[2026-11-18 08:01:04] Неизвестный источник (aws.amazon.com): Migrate Apache Solr to Amazon OpenSearch
-[2026-11-18 08:01:04] Неизвестный источник (itnews.com.au): Nvidia faces extraordinary push to resto
-[2026-11-18 08:01:04] Неизвестный источник (itnews.com.au): Nvidia faces extraordinary push to resto
-[2026-11-18 08:01:04] Неизвестный источник (itnews.com.au): Nvidia faces extraordinary push to resto
-[2026-11-18 08:01:04] Неизвестный источник (livemint.com): Nvidia faces extraordinary push to resto
-[2026-11-18 08:01:04] Заблокированный источник (finance.yahoo.com): Nvidia board not considering Huang's ret
-[2026-11-18 08:01:04] Неизвестный источник (commondreams.org): Groups Petition EPA To Lower Drinking Wa
-[2026-11-18 08:01:04] Неизвестный источник (offgridsurvival.com): America’s Digital House of Cards Is Crum
-[2026-11-18 08:01:04] Неизвестный источник (punchng.com): Nigeria seeks regional pact to prevent i
-[2026-11-18 08:01:04] Неизвестный источник (newsonjapan.com): Japan's Supercomputer Hit by Unauthorize
-[2026-11-18 08:01:04] Нет фото: Software is breaking down at a systemic 
-[2026-11-18 08:01:04] Неизвестный источник (iphoneincanada.ca): Google Catches Hackers Using AI to Turn 
 [2026-11-18 08:01:04] Неизвестный источник (abc.net.au): Why the wheels are falling off the AI in
 [2026-11-18 08:01:04] Неизвестный источник (abc.net.au): Australia backs Trump's AI alliance as U
 [2026-11-18 08:01:04] Неизвестный источник (pymnts.com): ECB Warns Rapid AI Expansion Threatens E
@@ -2998,3 +2957,44 @@
 [2026-11-24 08:03:47] Пауза 60 секунд...
 [2026-11-24 08:04:47] sent_urls.txt обрезан: 304 -> 300
 [2026-11-24 08:04:47] === Блок ai_morning завершён ===
+[2026-11-24 11:01:07] Загружено 300 уже отправленных новостей
+[2026-11-24 11:01:07] === Запуск блока: midday (тест: False) ===
+[2026-11-24 11:01:07] Story memory: 103 headlines from the last 96 h
+[2026-11-24 11:01:08] Неизвестный источник (nhl.com): Larkin traded to Canadiens by Red Wings 
+[2026-11-24 11:01:08] Пропускаю уже отправленную: Wall Street set to rebound after AI stock sell-off
+[2026-11-24 11:01:08] Спорт, пропускаю: It was the NFL’s toughest test. Then the
+[2026-11-24 11:01:08] Неизвестный источник (the-independent.com): Bruce Willis’s daughter Tallulah apologi
+[2026-11-24 11:01:08] Same story already published: COP31 climate talks fail to reach deal amid fossil ~ COP31 climate talks break down after angry dispute
+[2026-11-24 11:01:08] Неизвестный источник (hollywoodreporter.com): ‘You Can See Everything’ Crosses $100M G
+[2026-11-24 11:01:08] Неизвестный источник (ksl.com): 'Grand Theft Auto VI' sets record with $
+[2026-11-24 11:01:08] Пропускаю уже отправленную: Automation system problem at Delta causes flight d
+[2026-11-24 11:01:08] Неизвестный источник (deadline.com): Box Office: How Lionsgate Marketing Reig
+[2026-11-24 11:01:08] Неизвестный источник (mlb.com): Skubal joining Mets for 9 years, $450M (
+[2026-11-24 11:01:08] Same story already published: Libya: Suspected drone attack hits Russian ship in ~ Russian vessel hit by suspected Ukrainian drone at
+[2026-11-24 11:01:08] Неизвестный источник (pbs.org): U.S. Army plans to invoke emergency prov
+[2026-11-24 11:01:08] Неизвестный источник (phys.org): JWST finds a possible black hole that gr
+[2026-11-24 11:01:08] Неизвестный источник (space.com): European-Japanese BepiColombo mission be
+[2026-11-24 11:01:08] Старая новость (2026-11-22T05:02:06Z): How measles spread across the world - Fi
+[2026-11-24 11:01:08] Старая новость (2026-11-21T11:00:22Z): Ukraine deals major blow to Putin’s Crim
+[2026-11-24 11:01:08] Старая новость (2026-11-20T17:47:00Z): SpaceX Dragon cargo capsule heads home t
+[2026-11-24 11:01:08] Мировые новости: найдено 10 после фильтрации
+[2026-11-24 11:01:10] Редакторский отбор: выбраны позиции [8, 6, 2, 5]
+[2026-11-24 11:01:10] Обрабатываю: Trump blames $6 trillion stock market slide on Democrats’ mi | https://thehill.com/homenews/administration/6236127-trump-blames-marke
+[2026-11-24 11:01:10] Попытка 1 для: Trump blames $6 trillion stock market sl
+[2026-11-24 11:01:12] Успешно, получено 863 символов
+[2026-11-24 11:01:12] Обрабатываю: Burnham to tell MPs 'landmark' EU deal could make next decad | https://www.bbc.com/news/articles/cmde1dy82lepo
+[2026-11-24 11:01:13] Полный текст получен (3000 символов)
+[2026-11-24 11:01:13] Попытка 1 для: Burnham to tell MPs 'landmark' EU deal c
+[2026-11-24 11:01:16] Успешно, получено 2158 символов
+[2026-11-24 11:01:16] Обрабатываю: San Francisco Faces Historic Flood Threat as Major Storm Nea | https://www.bloomberg.com/news/articles/2026-11-22/san-francisco-faces
+[2026-11-24 11:01:17] Попытка 1 для: San Francisco Faces Historic Flood Threa
+[2026-11-24 11:01:19] Успешно, получено 697 символов
+[2026-11-24 11:01:19] Обрабатываю: Molly Meldrum: Australian music legend dies aged 83 | https://www.bbc.com/news/articles/c3qj57rkd2k1o
+[2026-11-24 11:01:19] Полный текст получен (2821 символов)
+[2026-11-24 11:01:19] Попытка 1 для: Molly Meldrum: Australian music legend d
+[2026-11-24 11:01:37] Успешно, получено 1926 символов
+[2026-11-24 11:01:40] Пауза 60 секунд...
+[2026-11-24 11:02:40] Пауза 60 секунд...
+[2026-11-24 11:03:41] Пауза 60 секунд...
+[2026-11-24 11:04:42] sent_urls.txt обрезан: 304 -> 300
+[2026-11-24 11:04:42] === Блок midday завершён ===
