@@ -1,48 +1,3 @@
-[2026-11-19 08:01:06] Успешно, получено 1612 символов
-[2026-11-19 08:01:06] Обрабатываю: America’s AI Chip War Is Heating Up in the Dumbest Possible  | https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-aff
-[2026-11-19 08:01:06] Полный текст получен (3000 символов)
-[2026-11-19 08:01:06] Попытка 1 для: America’s AI Chip War Is Heating Up in t
-[2026-11-19 08:01:08] Успешно, получено 1863 символов
-[2026-11-19 08:01:08] Обрабатываю: Four Maryland high school students sue after AI mistakes Dor | https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-cou
-[2026-11-19 08:01:08] Полный текст получен (3000 символов)
-[2026-11-19 08:01:08] Попытка 1 для: Four Maryland high school students sue a
-[2026-11-19 08:01:16] Успешно, получено 1700 символов
-[2026-11-19 08:01:16] Обрабатываю: IEEE Celebrates 10 Years of Incorporating Ethics Into AI Sys | https://spectrum.ieee.org/ieee-ethics-ai-systems
-[2026-11-19 08:01:16] Полный текст получен (3000 символов)
-[2026-11-19 08:01:16] Попытка 1 для: IEEE Celebrates 10 Years of Incorporatin
-[2026-11-19 08:01:36] Успешно, получено 1661 символов
-[2026-11-19 08:01:39] Пауза 60 секунд...
-[2026-11-19 08:02:39] Пауза 60 секунд...
-[2026-11-19 08:03:39] Пауза 60 секунд...
-[2026-11-19 08:04:40] sent_urls.txt обрезан: 304 -> 300
-[2026-11-19 08:04:40] === Блок ai_morning завершён ===
-[2026-11-19 11:01:03] Загружено 300 уже отправленных новостей
-[2026-11-19 11:01:03] === Запуск блока: midday (тест: False) ===
-[2026-11-19 11:01:03] Story memory: 95 headlines from the last 96 h
-[2026-11-19 11:01:03] Неизвестный источник (hollywoodreporter.com): Florence Pugh Celebrates Robert Pattinso
-[2026-11-19 11:01:03] Неизвестный источник (nhl.com): Bedard leaves Blackhawks win with upper-
-[2026-11-19 11:01:03] Пропускаю уже отправленную: White House pulls FDA nominee amid political pushb
-[2026-11-19 11:01:03] Лента обновлений, пропускаю: Stock futures rise as Nvidia gains on ea
-[2026-11-19 11:01:03] Неизвестный источник (collegefootballplayoff.com): CFP Selection Committee Completes Its Th
-[2026-11-19 11:01:03] Пропускаю уже отправленную: Interim Nvidia CEO Says It’s No Longer Sending AI 
-[2026-11-19 11:01:03] Неизвестный источник (tmz.com): Rod Wave Indicted on Drug Possession, Gu
-[2026-11-19 11:01:03] Неизвестный источник (pbs.org): Doctors are raising concerns about U.S. 
-[2026-11-19 11:01:03] Неизвестный источник (espn.com): Haaland sends Norway to Nations League q
-[2026-11-19 11:01:04] Неизвестный источник (pbs.org): Mullin defends use of government plane t
-[2026-11-19 11:01:04] Неизвестный источник (9to5google.com): The Google Wallet app is now available o
-[2026-11-19 11:01:04] Старая новость (2026-11-17T10:00:00Z): Five surprising ways to boost your iron 
-[2026-11-19 11:01:04] Старая новость (2026-11-17T00:32:00Z): Jennifer Lawrence Stuns as 'Hunger Games
-[2026-11-19 11:01:04] Старая новость (2026-11-15T14:07:51Z): SpaceX carries out first-ever spaceship 
-[2026-11-19 11:01:04] Старая новость (2026-11-11T20:53:42Z): The Grand Canyon is missing over a billi
-[2026-11-19 11:01:04] Мировые новости: найдено 10 после фильтрации
-[2026-11-19 11:01:06] Редакторский отбор: выбраны позиции [4, 1, 5, 6]
-[2026-11-19 11:01:06] Обрабатываю: Three things to watch as Trump, Xi and Putin meet in China | https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html
-[2026-11-19 11:01:06] Полный текст получен (3000 символов)
-[2026-11-19 11:01:06] Попытка 1 для: Three things to watch as Trump, Xi and P
-[2026-11-19 11:01:11] Успешно, получено 2132 символов
-[2026-11-19 11:01:11] Обрабатываю: FAA oversaw and signed off on repair work before nationwide  | https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-s
-[2026-11-19 11:01:23] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/transportation/2026/11/17/faa
-[2026-11-19 11:01:23] Попытка 1 для: FAA oversaw and signed off on repair wor
 [2026-11-19 11:01:26] Успешно, получено 992 символов
 [2026-11-19 11:01:26] Обрабатываю: Home secretary plans to tackle 'perception of two-tier polic | https://www.bbc.com/news/articles/c3vg24wpg040o
 [2026-11-19 11:01:26] Полный текст получен (3000 символов)
@@ -2998,3 +2953,48 @@
 [2026-11-25 08:04:04] Пауза 60 секунд...
 [2026-11-25 08:05:04] sent_urls.txt обрезан: 304 -> 300
 [2026-11-25 08:05:04] === Блок ai_morning завершён ===
+[2026-11-25 11:01:06] Загружено 300 уже отправленных новостей
+[2026-11-25 11:01:06] === Запуск блока: midday (тест: False) ===
+[2026-11-25 11:01:06] Story memory: 99 headlines from the last 96 h
+[2026-11-25 11:01:06] Неизвестный источник (cbssports.com): Winthrop Eagles vs. Illinois Fighting Il
+[2026-11-25 11:01:06] Неизвестный источник (abc7news.com): Live storm updates: King tide flooding b
+[2026-11-25 11:01:06] Неизвестный источник (nbcsports.com): Monday Night Football: Commanders rally 
+[2026-11-25 11:01:06] Пропускаю уже отправленную: Husband of woman detained in viral ICE arrest at S
+[2026-11-25 11:01:06] Неизвестный источник (nbcsportsbayarea.com): What PFF grades say about 49ers' plan in
+[2026-11-25 11:01:06] Лента обновлений, пропускаю: Stock futures inch higher as traders see
+[2026-11-25 11:01:06] Пропускаю уже отправленную: Nato chief vows defence against space threat after
+[2026-11-25 11:01:06] Неизвестный источник (deadline.com): ‘Only Murders In The Building’ Returning
+[2026-11-25 11:01:06] Неизвестный источник (foxbusiness.com): Trump admin adds Megaspeed to Commerce D
+[2026-11-25 11:01:06] Лента обновлений, пропускаю: Live Updates: Iran says it will use all 
+[2026-11-25 11:01:06] Неизвестный источник (pbs.org): Trump told the Army to pause the detonat
+[2026-11-25 11:01:06] Спорт, пропускаю: Mets owner Steve Cohen paid $450 million
+[2026-11-25 11:01:06] Неизвестный источник (usatoday.com): Can you get measles if you are vaccinate
+[2026-11-25 11:01:06] Неизвестный источник (404media.co): Google Wants To Make a 24/7 AI TV Channe
+[2026-11-25 11:01:06] Неизвестный источник (gothamist.com): Reported flu cases surge across New York
+[2026-11-25 11:01:06] Неизвестный источник (variety.com): Steven Spielberg to Direct Western Movie
+[2026-11-25 11:01:06] Неизвестный источник (boredpanda.com): The Best 17 Photos Taken By Voyager 1, T
+[2026-11-25 11:01:06] Неизвестный источник (spacenews.com): Thruster glitch clouds BepiColombo arriv
+[2026-11-25 11:01:06] Старая новость (2026-11-22T20:30:36Z): Common sleep habit linked to 50% higher 
+[2026-11-25 11:01:06] Мировые новости: найдено 11 после фильтрации
+[2026-11-25 11:01:07] Редакторский отбор: выбраны позиции [2, 10, 1, 3]
+[2026-11-25 11:01:07] Обрабатываю: Chinese official sentenced to death for spying and leaking " | https://www.cbsnews.com/news/china-spy-sentence-death-ma/
+[2026-11-25 11:01:08] Полный текст получен (2483 символов)
+[2026-11-25 11:01:08] Попытка 1 для: Chinese official sentenced to death for 
+[2026-11-25 11:01:11] Успешно, получено 2103 символов
+[2026-11-25 11:01:11] Обрабатываю: Russia will launch a routine ISS supply mission tomorrow—app | https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss
+[2026-11-25 11:01:11] Полный текст получен (2432 символов)
+[2026-11-25 11:01:11] Попытка 1 для: Russia will launch a routine ISS supply 
+[2026-11-25 11:01:13] Успешно, получено 1631 символов
+[2026-11-25 11:01:13] Обрабатываю: The temptation of Pope Francis: Private diary reveals tormen | https://www.washingtonpost.com/world/2026/11/24/pope-francis-private-d
+[2026-11-25 11:01:25] Полный текст не скачался (ReadTimeout): https://www.washingtonpost.com/world/2026/11/24/pope-francis
+[2026-11-25 11:01:25] Попытка 1 для: The temptation of Pope Francis: Private 
+[2026-11-25 11:01:28] Успешно, получено 748 символов
+[2026-11-25 11:01:28] Обрабатываю: Pennsylvania reports ninth measles death in ongoing state ou | https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-m
+[2026-11-25 11:01:28] Полный текст получен (2286 символов)
+[2026-11-25 11:01:28] Попытка 1 для: Pennsylvania reports ninth measles death
+[2026-11-25 11:01:32] Успешно, получено 1947 символов
+[2026-11-25 11:01:35] Пауза 60 секунд...
+[2026-11-25 11:02:36] Пауза 60 секунд...
+[2026-11-25 11:03:36] Пауза 60 секунд...
+[2026-11-25 11:04:37] sent_urls.txt обрезан: 304 -> 300
+[2026-11-25 11:04:37] === Блок midday завершён ===
