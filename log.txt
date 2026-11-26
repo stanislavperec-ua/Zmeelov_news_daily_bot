@@ -1,105 +1,3 @@
-[2026-11-19 18:01:00] Загружено 300 уже отправленных новостей
-[2026-11-19 18:01:00] === Запуск блока: ai_evening (тест: False) ===
-[2026-11-19 18:01:00] Story memory: 99 headlines from the last 96 h
-[2026-11-19 18:01:00] RSS The Guardian: 20 записей
-[2026-11-19 18:01:00] RSS Wired: 10 записей
-[2026-11-19 18:01:00] RSS TechCrunch: код 403
-[2026-11-19 18:01:00] RSS Ars Technica: 20 записей
-[2026-11-19 18:01:01] RSS MIT Technology Review: 10 записей
-[2026-11-19 18:01:01] RSS BBC News: 21 записей
-[2026-11-19 18:01:01] RSS IEEE Spectrum: 30 записей
-[2026-11-19 18:01:01] Лента обновлений, пропускаю: Anthropic valued at $2tn as shares begin
-[2026-11-19 18:01:01] AI feeds: 22 candidates from quality outlets
-[2026-11-19 18:01:01] NewsAPI (AI): пришло 56 статей
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Russia Says Europe Is in ‘Humiliating Decline’ as 
-[2026-11-19 18:01:01] Заблокированный источник (yahoo.com): WHAT IS WHITE HOUSE HIDING?
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Investigators make progress in hunt for cause of F
-[2026-11-19 18:01:01] Неизвестный источник (firstshowing.net): Andrew Garfield is Sam Altman in Guadagn
-[2026-11-19 18:01:01] Неизвестный источник (nextgov.com): Google extends Gemini OneGov deal for th
-[2026-11-19 18:01:01] Нет фото: What on Earth Is Going On?
-[2026-11-19 18:01:01] Неизвестный источник (indiewire.com): ‘Artificial’ Trailer: Andrew Garfield St
-[2026-11-19 18:01:01] Неизвестный источник (scientificamerican.com): Why so many critical tech outages are ha
-[2026-11-19 18:01:01] Неизвестный источник (punchng.com): Surveyor-General seeks more mapping stat
-[2026-11-19 18:01:01] Неизвестный источник (timesofindia.indiatimes.com): In 2026,WNBA generated $608 million in s
-[2026-11-19 18:01:01] Нет фото: What’s Behind the String of Tech Outages
-[2026-11-19 18:01:01] Неизвестный источник (abcnews.com): The Latest: Trump arrives in China, seek
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Unsiloed nabs $7.5M to turn scanned docu
-[2026-11-19 18:01:01] Неизвестный источник (ibtimes.com.au): FBI Sounds Alarm as Artex AI Hacking Too
-[2026-11-19 18:01:01] Заблокированный источник (finance.yahoo.com): Cosmos Health Reports Record Nine-Month 
-[2026-11-19 18:01:01] Неизвестный источник (telecomtv.com): What’s up with… Orange, Vodafone, Nvidia
-[2026-11-19 18:01:01] Неизвестный источник (business-standard.com): CDS calls on private industry to develop
-[2026-11-19 18:01:01] Неизвестный источник (nextgov.com): Bipartisan bill would create cyber and A
-[2026-11-19 18:01:01] Неизвестный источник (thenation.com): Make America Function Again!
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Reson8 releases Rumble-2-Flash speech mo
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Tesorai raises $5.3M to feed starving AI
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): OneTrust’s Fall ’26 Release expands AI v
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Starburst adds context support to give A
-[2026-11-19 18:01:01] Неизвестный источник (insurancejournal.com): Java Flaw Leaves Systems Open to Hackers
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Humyn Labs raises $47M to bridge the gap
-[2026-11-19 18:01:01] Неизвестный источник (fly4free.com): ✨Aurora hunting and skiing in Finland: a
-[2026-11-19 18:01:01] Неизвестный источник (poynter.org): The breaking news is that everything is 
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Xi embraces Trump ahead of historic summit and exp
-[2026-11-19 18:01:01] Неизвестный источник (thehindubusinessline.com): Trump seeks to show strength in China, b
-[2026-11-19 18:01:01] Неизвестный источник (thehindubusinessline.com): Indian Bank’s roadmap: Business growth, 
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Exclusive: Wherobots AI agents automate 
-[2026-11-19 18:01:01] Неизвестный источник (newrepublic.com): The Crusading Legal Drama With AI In Its
-[2026-11-19 18:01:01] Неизвестный источник (thehindubusinessline.com): Akshaya completes 25 years, expands gras
-[2026-11-19 18:01:01] Неизвестный источник (thejournal.ie): Trump arrives in China ahead of historic
-[2026-11-19 18:01:01] Неизвестный источник (business-standard.com): ARTEX explained: How AI penetration-test
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): Scripts can’t run AI factories: Dell mov
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Trump lands in China with key meetings with Xi and
-[2026-11-19 18:01:01] Неизвестный источник (en.protothema.gr): Pierrakakis: Greece’s investment momentu
-[2026-11-19 18:01:01] Неизвестный источник (ibtimes.com.au): Aiper Scuba V3 Review: AI Camera Pool Ro
-[2026-11-19 18:01:01] Неизвестный источник (timesofindia.indiatimes.com): NCBS researcher from Bengaluru wins Goog
-[2026-11-19 18:01:01] Not a news item (listing, forum post), skipping: Show HN: Math 2.0
-[2026-11-19 18:01:01] Неизвестный источник (en.protothema.gr): The Polytechnic’s styling, PASOK’s “flir
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): CloudBackend grabs €6.6M to turn AI-gene
-[2026-11-19 18:01:01] Заблокированный источник (naturalnews.com): Vance Says Americans Should “Prepare for
-[2026-11-19 18:01:01] Неизвестный источник (siliconangle.com): At Ignite 2026, Microsoft reinvents Copi
-[2026-11-19 18:01:01] Неизвестный источник (news.utexas.edu): Horizon Opens to Early Users: America's 
-[2026-11-19 18:01:01] Неизвестный источник (punchng.com): No evidence of coordinated cyberattack b
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Security flaw found in Java, world's third-largest
-[2026-11-19 18:01:01] Неизвестный источник (business-standard.com): Tech outages no coincidence, AI making c
-[2026-11-19 18:01:01] Неизвестный источник (m.economictimes.com): Trump wants to show strength in China, b
-[2026-11-19 18:01:01] Неизвестный источник (abcnews.com): National intelligence director says no s
-[2026-11-19 18:01:01] Не про ИИ, пропускаю: Rubio says there's "zero evidence" recent tech out
-[2026-11-19 18:01:01] Неизвестный источник (timesofindia.indiatimes.com): Rubio says there is ‘zero’ evidence link
-[2026-11-19 18:01:01] Неизвестный источник (huffpost.com): AOC Makes Rare Fox News Appearance To Fi
-[2026-11-19 18:01:01] Неизвестный источник (m.economictimes.com): Marco Rubio says 'zero' information that
-[2026-11-19 18:01:01] Заблокированный источник (breitbart.com): Bipartisan Bill Would Allow Victims of O
-[2026-11-19 18:01:01] AI news: 22 candidates from quality and trusted outlets
-[2026-11-19 18:01:01] AI news: 22 candidates after filtering
-[2026-11-19 18:01:04] Редакторский отбор: выбраны позиции [11, 2, 5, 15]
-[2026-11-19 18:01:04] Обрабатываю: AI demand will push up interest rates around the world, IMF  | https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand
-[2026-11-19 18:01:04] Полный текст получен (3000 символов)
-[2026-11-19 18:01:04] Попытка 1 для: AI demand will push up interest rates ar
-[2026-11-19 18:01:06] Успешно, получено 1788 символов
-[2026-11-19 18:01:06] Обрабатываю: Google Built a Giant ‘Mirror Dimension’ Internet to Test Its | https://www.wired.com/story/google-built-a-giant-mirror-dimension-inte
-[2026-11-19 18:01:06] Полный текст получен (3000 символов)
-[2026-11-19 18:01:06] Попытка 1 для: Google Built a Giant ‘Mirror Dimension’ 
-[2026-11-19 18:01:09] Успешно, получено 1829 символов
-[2026-11-19 18:01:09] Обрабатываю: Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check | https://spectrum.ieee.org/ai-agent-manager
-[2026-11-19 18:01:09] Полный текст получен (3000 символов)
-[2026-11-19 18:01:09] Попытка 1 для: Meet Shepherd, the Meta-Agent Keeping Ro
-[2026-11-19 18:01:14] Успешно, получено 2007 символов
-[2026-11-19 18:01:14] Обрабатываю: Australian music industry rejects ‘divide and conquer’ propo | https://www.theguardian.com/australia-news/2026/nov/20/australian-musi
-[2026-11-19 18:01:14] Полный текст получен (3000 символов)
-[2026-11-19 18:01:14] Попытка 1 для: Australian music industry rejects ‘divid
-[2026-11-19 18:01:33] Успешно, получено 1934 символов
-[2026-11-19 18:01:35] Пауза 60 секунд...
-[2026-11-19 18:02:36] Пауза 60 секунд...
-[2026-11-19 18:03:36] Пауза 60 секунд...
-[2026-11-19 18:04:37] sent_urls.txt обрезан: 304 -> 300
-[2026-11-19 18:04:37] === Блок ai_evening завершён ===
-[2026-11-20 06:01:02] Загружено 300 уже отправленных новостей
-[2026-11-20 06:01:02] === Запуск блока: morning (тест: False) ===
-[2026-11-20 06:01:02] Story memory: 96 headlines from the last 96 h
-[2026-11-20 06:01:02] Неизвестный источник (bleacherreport.com): RJ Luis Jr. Makes Debut for No. 25 LSU v
-[2026-11-20 06:01:02] Неизвестный источник (formula1.com): 'We can get rid of the noise' – Valtteri
-[2026-11-20 06:01:02] Неизвестный источник (abc7.com): 2026 CMA Awards live updates: A look at 
-[2026-11-20 06:01:02] Лента обновлений, пропускаю: Trump, Xi and Putin set to hold historic
-[2026-11-20 06:01:02] Неизвестный источник (cbssports.com): Cowboys' handling of DC Christian Parker
-[2026-11-20 06:01:02] Неизвестный источник (foxnews.com): Flu activity rises across US as 6 states
 [2026-11-20 06:01:02] Неизвестный источник (space.com): Astronomers witness a star eating its co
 [2026-11-20 06:01:02] Неизвестный источник (9to5google.com): Google launches Gemini 4 Neon with Carbo
 [2026-11-20 06:01:02] Неизвестный источник (9to5google.com): Google Pixel officially re-releases App 
@@ -2998,3 +2896,105 @@
 [2026-11-25 18:03:42] Пауза 60 секунд...
 [2026-11-25 18:04:42] sent_urls.txt обрезан: 304 -> 300
 [2026-11-25 18:04:42] === Блок ai_evening завершён ===
+[2026-11-26 06:01:06] Загружено 300 уже отправленных новостей
+[2026-11-26 06:01:06] === Запуск блока: morning (тест: False) ===
+[2026-11-26 06:01:06] Story memory: 90 headlines from the last 96 h
+[2026-11-26 06:01:06] Лента обновлений, пропускаю: Stock futures slip as traders await key 
+[2026-11-26 06:01:06] Неизвестный источник (nbcsports.com): Broncos face quick pivot to preparing fo
+[2026-11-26 06:01:06] Неизвестный источник (deadline.com): ‘Dancing With The Stars’ Finale Recap: W
+[2026-11-26 06:01:06] Неизвестный источник (tmz.com): Man Plunges to Death at Celebrity-Filled
+[2026-11-26 06:01:06] Неизвестный источник (collegefootballplayoff.com): CFP Selection Committee Issues Fourth Ra
+[2026-11-26 06:01:06] Неизвестный источник (nintendolife.com): Mario Kart World Has Been Updated To Ver
+[2026-11-26 06:01:06] Неизвестный источник (macrumors.com): Missed That $149 AirPods Pro 3 Deal? Ama
+[2026-11-26 06:01:06] Лента обновлений, пропускаю: Shenzhou 24: China launches space missio
+[2026-11-26 06:01:06] Неизвестный источник (abc7ny.com): Thanksgiving storm 2026: Rain, wind, coa
+[2026-11-26 06:01:06] Неизвестный источник (247sports.com): Webblog: Michigan’s Trev Alberts AD Deba
+[2026-11-26 06:01:06] Неизвестный источник (usatoday.com): Flu activity picks up Nationwide: See th
+[2026-11-26 06:01:06] Заблокированный источник (sports.yahoo.com): Former LSU coach Brian Kelly says he won
+[2026-11-26 06:01:06] Неизвестный источник (variety.com): Thanksgiving Box Office: ‘Focker In-Law’
+[2026-11-26 06:01:06] Неизвестный источник (upi.com): Ex-NVIDIA partner Megaspeed hit with U.S
+[2026-11-26 06:01:06] Старая новость (2026-11-24T05:52:00Z): Live storm updates: King tide flooding b
+[2026-11-26 06:01:06] Старая новость (2026-11-24T05:02:39Z): Pennsylvania reports ninth measles death
+[2026-11-26 06:01:06] Старая новость (2026-11-23T12:00:00Z): Review: The Asus ProArt P16 offers a gli
+[2026-11-26 06:01:06] Мировые новости: найдено 14 после фильтрации
+[2026-11-26 06:01:10] Редакторский отбор: выбраны позиции [8, 6, 14, 9]
+[2026-11-26 06:01:11] RSS Ukrinform: 30 записей
+[2026-11-26 06:01:12] RSS Ukrinform: 30 записей
+[2026-11-26 06:01:12] RSS Euromaidan Press: 29 записей
+[2026-11-26 06:01:13] NewsAPI (мировые про Украину): пришло 48 статей
+[2026-11-26 06:01:13] Заблокированный источник (naturalnews.com): Kushner Warns That Israel Is Advancing T
+[2026-11-26 06:01:13] Заблокированный источник (naturalnews.com): The Food Bank Lines Are the Tell: Americ
+[2026-11-26 06:01:13] Заблокированный источник (naturalnews.com): The $2 laser shot taking on $4 million m
+[2026-11-26 06:01:13] Заблокированный источник (naturalnews.com): Diesel Prices Rise, Pressuring Trucking 
+[2026-11-26 06:01:13] Заблокированный источник (dailymail.com): Jim Chalmers warns he will finally cut A
+[2026-11-26 06:01:13] Заблокированный источник (biztoc.com): One killed in Russian attack on Kyiv reg
+[2026-11-26 06:01:13] Нет фото: dstu-core 0.5.3
+[2026-11-26 06:01:13] Заблокированный источник (nypost.com): Gavin Newsom jets around the world playi
+[2026-11-26 06:01:13] Спорт, пропускаю: Every player from California to play for
+[2026-11-26 06:01:13] Заблокированный источник (biztoc.com): Russia ramps up rhetoric after Estonia a
+[2026-11-26 06:01:13] Заблокированный источник (dailymail.com): Hayden Panettiere's estate revealed to b
+[2026-11-26 06:01:13] Заблокированный источник (nypost.com): Trump says Iran war ‘funded’ through Jan
+[2026-11-26 06:01:13] Заблокированный источник (biztoc.com): America First And The Republican Deadwoo
+[2026-11-26 06:01:13] Заблокированный источник (biztoc.com): U.K. warns of Russian sabotage threat to
+[2026-11-26 06:01:13] Спорт, пропускаю: Hill and Brown both beaten in UK Champio
+[2026-11-26 06:01:13] Заблокированный источник (dailymail.com): TikTok PM who demeans No10: After Burnha
+[2026-11-26 06:01:13] Заблокированный источник (rt-english.com): Battle in Brussels: How Germany is holdi
+[2026-11-26 06:01:13] Заблокированный источник (biztoc.com): Two injured in Kyiv drone attack
+[2026-11-26 06:01:13] Заблокированный источник (thegatewaypundit.com): Burma’s Junta Triples Its War Budget as 
+[2026-11-26 06:01:13] Заблокированный источник (rt-english.com): Pentagon holding up Patriot missiles for
+[2026-11-26 06:01:13] Same story twice in candidates: SBU detains hairdresser in Sloviansk suspected of 
+[2026-11-26 06:01:13] Same story twice in candidates: War update: 151 clashes along the front line; 40 R
+[2026-11-26 06:01:13] Same story twice in candidates: Kyiv under ballistic missile attack. Strike hits s
+[2026-11-26 06:01:13] Same story twice in candidates: Cabinet eases approval of new Ukrainian drones, EW
+[2026-11-26 06:01:13] Same story twice in candidates: Russian aircraft and vessels carrying military car
+[2026-11-26 06:01:13] Same story twice in candidates: Border guards foil Russian mechanized assault in n
+[2026-11-26 06:01:13] Same story twice in candidates: Barvinivka in Zaporizhzhia region remains under Uk
+[2026-11-26 06:01:13] Same story twice in candidates: Injury toll in Russian airstrike on Sloviansk rise
+[2026-11-26 06:01:13] Same story twice in candidates: Russian army attacks sawmill in Chernihiv region, 
+[2026-11-26 06:01:13] Same story twice in candidates: Russian forces strike Zaporizhzhia, sparking fire 
+[2026-11-26 06:01:13] Same story twice in candidates: Russia's own figures show almost 500,000 deaths in
+[2026-11-26 06:01:13] Украинские новости: найдено 82 после фильтрации
+[2026-11-26 06:01:16] Редакторский отбор: выбраны позиции [10, 5]
+[2026-11-26 06:01:16] NewsAPI (Харьков, все издания): пришло 4 статей
+[2026-11-26 06:01:17] RSS Ukrinform: 30 записей
+[2026-11-26 06:01:18] RSS Ukrinform: 30 записей
+[2026-11-26 06:01:18] RSS Euromaidan Press: 29 записей
+[2026-11-26 06:01:18] Заблокированный источник (rt-english.com): Ukraine’s far right: Too few votes to go
+[2026-11-26 06:01:18] Same story already published: First UK Defence Secretary to visit Kharkiv as UK  ~ UK defence secretary visits Kharkiv, announces add
+[2026-11-26 06:01:18] Same story twice in candidates: Border guards foil Russian mechanized assault in n
+[2026-11-26 06:01:18] Харьков: найдена новость: Border guards foil Russian mechanized assault in n
+[2026-11-26 06:01:18] Обрабатываю: Russia's own figures show almost 500,000 deaths in war in Uk | https://www.bbc.com/news/articles/cmx27g533zwyo
+[2026-11-26 06:01:18] Полный текст получен (3000 символов)
+[2026-11-26 06:01:18] Попытка 1 для: Russia's own figures show almost 500,000
+[2026-11-26 06:01:20] Успешно, получено 1554 символов
+[2026-11-26 06:01:20] Обрабатываю: US court convicts China’s Huawei for fraud, conspiring to st | https://www.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl
+[2026-11-26 06:01:20] Полный текст получен (3000 символов)
+[2026-11-26 06:01:20] Попытка 1 для: US court convicts China’s Huawei for fra
+[2026-11-26 06:01:32] Успешно, получено 1794 символов
+[2026-11-26 06:01:32] Обрабатываю: Spacecraft overcomes glitch to reach Mercury's orbit after 8 | https://www.cbsnews.com/news/bepicolombo-enters-mercury-orbit-despite-
+[2026-11-26 06:01:32] Полный текст получен (3000 символов)
+[2026-11-26 06:01:32] Попытка 1 для: Spacecraft overcomes glitch to reach Mer
+[2026-11-26 06:01:45] Успешно, получено 1945 символов
+[2026-11-26 06:01:45] Обрабатываю: Scientists discover quasar formed 630 million years after th | https://www.dw.com/en/scientists-discover-quasar-formed-630-million-ye
+[2026-11-26 06:01:45] Полный текст получен (2885 символов)
+[2026-11-26 06:01:45] Попытка 1 для: Scientists discover quasar formed 630 mi
+[2026-11-26 06:02:09] Успешно, получено 1540 символов
+[2026-11-26 06:02:12] Пауза 60 секунд...
+[2026-11-26 06:03:13] Пауза 60 секунд...
+[2026-11-26 06:04:14] Пауза 60 секунд...
+[2026-11-26 06:05:15] Обрабатываю: Kyiv under ballistic missile attack. Strike hits shopping ma | https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-miss
+[2026-11-26 06:05:15] Полный текст получен (1262 символов)
+[2026-11-26 06:05:15] Попытка 1 для: Kyiv under ballistic missile attack. Str
+[2026-11-26 06:05:18] Успешно, получено 1178 символов
+[2026-11-26 06:05:18] Обрабатываю: Finance Ministry raises UAH 2.09 bln from domestic bond auct | https://www.ukrinform.net/rubric-economy/4188413-finance-ministry-rais
+[2026-11-26 06:05:19] Полный текст получен (1008 символов)
+[2026-11-26 06:05:19] Попытка 1 для: Finance Ministry raises UAH 2.09 bln fro
+[2026-11-26 06:05:22] Успешно, получено 1463 символов
+[2026-11-26 06:05:22] Обрабатываю: Border guards foil Russian mechanized assault in northern Kh | https://www.ukrinform.net/rubric-ato/4188651-border-guards-foil-russia
+[2026-11-26 06:05:22] Полный текст получен (961 символов)
+[2026-11-26 06:05:22] Попытка 1 для: Border guards foil Russian mechanized as
+[2026-11-26 06:05:25] Успешно, получено 1311 символов
+[2026-11-26 06:05:28] Пауза 60 секунд...
+[2026-11-26 06:06:29] Пауза 60 секунд...
+[2026-11-26 06:07:30] sent_urls.txt обрезан: 307 -> 300
+[2026-11-26 06:07:30] === Блок morning завершён ===
