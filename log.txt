@@ -1,48 +1,3 @@
-[2026-11-20 08:01:07] Не про ИИ, пропускаю: The U.S. Tech Outage Wave, Explained
-[2026-11-20 08:01:07] Неизвестный источник (siliconangle.com): Recent spate of outages attributed to te
-[2026-11-20 08:01:07] Неизвестный источник (healthpolicy-watch.news): WHO Director-General Candidates Put To T
-[2026-11-20 08:01:07] Заблокированный источник (dailymail.com): Putin brings nuclear 'football' briefcas
-[2026-11-20 08:01:07] Неизвестный источник (rferl.org): US Officials Warn Of Growing Threats Fro
-[2026-11-20 08:01:07] Неизвестный источник (pymnts.com): Chase, Microsoft and FAA Meltdowns Hand 
-[2026-11-20 08:01:07] Неизвестный источник (foxnews.com): China watchdog warns Trump faces ‘2-on-1
-[2026-11-20 08:01:07] Не про ИИ, пропускаю: America and China Are Trying to Alter Their Econom
-[2026-11-20 08:01:07] Не про ИИ, пропускаю: Sam Altman says his life is so weird that he's unf
-[2026-11-20 08:01:07] Неизвестный источник (cryptobriefing.com): MARA Holdings stock slides again as opti
-[2026-11-20 08:01:07] Не про ИИ, пропускаю: What we know about why everything seems to be brea
-[2026-11-20 08:01:07] Неизвестный источник (futurity.org): College student reports of depression an
-[2026-11-20 08:01:07] Нет фото: Coffee Break: Tech Outages Everywhere an
-[2026-11-20 08:01:07] Неизвестный источник (oilprice.com): China Secures Major Gas Deal as Its Infl
-[2026-11-20 08:01:07] Неизвестный источник (denofgeek.com): Artificial Trailer Promises The Social N
-[2026-11-20 08:01:07] Неизвестный источник (aws.amazon.com): How Stretto built an AI voice agent with
-[2026-11-20 08:01:07] Неизвестный источник (geektyrant.com): New Trailer For ARTIFICIAL Takes Aim at 
-[2026-11-20 08:01:07] Неизвестный источник (aws.amazon.com): Governing your AI workloads on AWS at sc
-[2026-11-20 08:01:07] Неизвестный источник (dailycaller.com): Markwayne Mullin Tells Congress He Found
-[2026-11-20 08:01:07] Не про ИИ, пропускаю: Russia Says Europe Is in ‘Humiliating Decline’ as 
-[2026-11-20 08:01:07] AI news: 26 candidates from quality and trusted outlets
-[2026-11-20 08:01:07] AI news: 26 candidates after filtering
-[2026-11-20 08:01:10] Редакторский отбор: выбраны позиции [1, 5, 9, 7]
-[2026-11-20 08:01:10] Обрабатываю: Big tech is already building datacentres in Australia. Why i | https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-t
-[2026-11-20 08:01:10] Полный текст получен (3000 символов)
-[2026-11-20 08:01:10] Попытка 1 для: Big tech is already building datacentres
-[2026-11-20 08:01:13] Успешно, получено 1670 символов
-[2026-11-20 08:01:13] Обрабатываю: Should AI be judging our credit worthiness? | https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&amp;at
-[2026-11-20 08:01:13] Полный текст получен (3000 символов)
-[2026-11-20 08:01:13] Попытка 1 для: Should AI be judging our credit worthine
-[2026-11-20 08:01:15] Успешно, получено 1792 символов
-[2026-11-20 08:01:15] Обрабатываю: AI helps uncover critical flaw in ubiquitous internet softwa | https://theconversation.com/ai-helps-uncover-critical-flaw-in-ubiquito
-[2026-11-20 08:01:15] Полный текст получен (3000 символов)
-[2026-11-20 08:01:15] Попытка 1 для: AI helps uncover critical flaw in ubiqui
-[2026-11-20 08:01:27] Успешно, получено 1445 символов
-[2026-11-20 08:01:27] Обрабатываю: Why depth beats breadth in Europe’s hunt for an AI edge | https://www.politico.eu/sponsored-content/why-depth-beats-breadth-in-e
-[2026-11-20 08:01:27] Полный текст получен (3000 символов)
-[2026-11-20 08:01:27] Попытка 1 для: Why depth beats breadth in Europe’s hunt
-[2026-11-20 08:01:41] Успешно, получено 1804 символов
-[2026-11-20 08:01:44] Пауза 60 секунд...
-[2026-11-20 08:02:45] Пауза 60 секунд...
-[2026-11-20 08:03:46] Пауза 60 секунд...
-[2026-11-20 08:04:46] sent_urls.txt обрезан: 304 -> 300
-[2026-11-20 08:04:46] === Блок ai_morning завершён ===
-[2026-11-20 11:01:08] Загружено 300 уже отправленных новостей
 [2026-11-20 11:01:08] === Запуск блока: midday (тест: False) ===
 [2026-11-20 11:01:08] Story memory: 99 headlines from the last 96 h
 [2026-11-20 11:01:08] Неизвестный источник (stocktwits.com): PANW Stock Surges 8% Overnight: Palo Alt
@@ -2998,3 +2953,48 @@
 [2026-11-26 08:03:28] Пауза 60 секунд...
 [2026-11-26 08:04:28] sent_urls.txt обрезан: 304 -> 300
 [2026-11-26 08:04:28] === Блок ai_morning завершён ===
+[2026-11-26 11:01:07] Загружено 300 уже отправленных новостей
+[2026-11-26 11:01:07] === Запуск блока: midday (тест: False) ===
+[2026-11-26 11:01:07] Story memory: 93 headlines from the last 96 h
+[2026-11-26 11:01:07] Лента обновлений, пропускаю: Stock futures slip as traders await key 
+[2026-11-26 11:01:07] Неизвестный источник (espn.com): Steelers bench struggling QB Aaron Rodge
+[2026-11-26 11:01:07] Неизвестный источник (hollywoodreporter.com): ‘Dancing With the Stars’ Season 35 Coupl
+[2026-11-26 11:01:07] Неизвестный источник (cbssports.com): CFP selection committee finally gets it 
+[2026-11-26 11:01:07] Неизвестный источник (deadline.com): 'Hunger Games: Sunrise On The Reaping' T
+[2026-11-26 11:01:07] Пропускаю уже отправленную: US court convicts China’s Huawei for fraud, conspi
+[2026-11-26 11:01:07] Неизвестный источник (espn.com): Who's on the College Football Playoff bu
+[2026-11-26 11:01:07] Неизвестный источник (macrumors.com): Missed That $149 AirPods Pro 3 Deal? Ama
+[2026-11-26 11:01:07] Лента обновлений, пропускаю: Shenzhou 24: China launches space missio
+[2026-11-26 11:01:07] Пропускаю уже отправленную: Scientists discover quasar formed 630 million year
+[2026-11-26 11:01:07] Неизвестный источник (abc7ny.com): Thanksgiving storm 2026: Rain, wind, coa
+[2026-11-26 11:01:07] Неизвестный источник (usatoday.com): Flu activity picks up Nationwide: See th
+[2026-11-26 11:01:07] Неизвестный источник (rogerebert.com): Hexed review: New animated film can't qu
+[2026-11-26 11:01:07] Заблокированный источник (sports.yahoo.com): RJ Luis Jr. reportedly will sue SEC, Gre
+[2026-11-26 11:01:07] Пропускаю уже отправленную: Spacecraft overcomes glitch to reach Mercury's orb
+[2026-11-26 11:01:07] Старая новость (2026-11-24T10:55:26Z): Scientists Just Sent an Unblockable Mess
+[2026-11-26 11:01:07] Старая новость (2026-11-24T05:52:00Z): Live storm updates: King tide flooding b
+[2026-11-26 11:01:07] Старая новость (2026-11-24T05:02:39Z): Pennsylvania reports ninth measles death
+[2026-11-26 11:01:07] Старая новость (2026-11-23T23:25:00Z): 'It's not a matter of if': King tides th
+[2026-11-26 11:01:07] Старая новость (2026-11-23T12:00:00Z): Review: The Asus ProArt P16 offers a gli
+[2026-11-26 11:01:07] Мировые новости: найдено 12 после фильтрации
+[2026-11-26 11:01:09] Редакторский отбор: выбраны позиции [1, 10, 11, 6]
+[2026-11-26 11:01:09] Обрабатываю: China: Xi Jinping's anti-corruption campaign ensnares rising | https://www.bbc.com/news/articles/c6y80kk4zmdno
+[2026-11-26 11:01:10] Полный текст получен (3000 символов)
+[2026-11-26 11:01:10] Попытка 1 для: China: Xi Jinping's anti-corruption camp
+[2026-11-26 11:01:12] Успешно, получено 1667 символов
+[2026-11-26 11:01:12] Обрабатываю: Newborn hepatitis B vaccination rates dropped sharply after  | https://thehill.com/policy/healthcare/6240970-hepatitis-b-vaccine-rate
+[2026-11-26 11:01:12] Попытка 1 для: Newborn hepatitis B vaccination rates dr
+[2026-11-26 11:01:15] Успешно, получено 794 символов
+[2026-11-26 11:01:15] Обрабатываю: Armed men take hostages in Cartagena, one of Colombia’s top  | https://www.nbcnews.com/world/south-america/armed-men-take-hostages-ca
+[2026-11-26 11:01:15] Полный текст получен (1638 символов)
+[2026-11-26 11:01:15] Попытка 1 для: Armed men take hostages in Cartagena, on
+[2026-11-26 11:01:19] Успешно, получено 1410 символов
+[2026-11-26 11:01:19] Обрабатываю: Fort Hood shooter Nidal Hasan will petition to delay his exe | https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/
+[2026-11-26 11:01:19] Полный текст получен (3000 символов)
+[2026-11-26 11:01:19] Попытка 1 для: Fort Hood shooter Nidal Hasan will petit
+[2026-11-26 11:01:35] Успешно, получено 1357 символов
+[2026-11-26 11:01:38] Пауза 60 секунд...
+[2026-11-26 11:02:38] Пауза 60 секунд...
+[2026-11-26 11:03:39] Пауза 60 секунд...
+[2026-11-26 11:04:39] sent_urls.txt обрезан: 304 -> 300
+[2026-11-26 11:04:39] === Блок midday завершён ===
