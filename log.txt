@@ -1,148 +1,3 @@
-[2026-11-21 06:05:11] Попытка 1 для: Russia launches up to 200 attack drones 
-[2026-11-21 06:05:14] Успешно, получено 1548 символов
-[2026-11-21 06:05:14] Обрабатываю: Nine people injured in Russian strikes in Kharkiv region on  | https://www.ukrinform.net/rubric-ato/4186994-nine-people-injured-in-ru
-[2026-11-21 06:05:15] Полный текст получен (1434 символов)
-[2026-11-21 06:05:15] Попытка 1 для: Nine people injured in Russian strikes i
-[2026-11-21 06:05:18] Успешно, получено 1439 символов
-[2026-11-21 06:05:21] Пауза 60 секунд...
-[2026-11-21 06:06:21] Пауза 60 секунд...
-[2026-11-21 06:07:22] sent_urls.txt обрезан: 307 -> 300
-[2026-11-21 06:07:22] === Блок morning завершён ===
-[2026-11-21 08:01:01] Загружено 300 уже отправленных новостей
-[2026-11-21 08:01:01] === Запуск блока: ai_morning (тест: False) ===
-[2026-11-21 08:01:01] Story memory: 103 headlines from the last 96 h
-[2026-11-21 08:01:02] RSS The Guardian: 20 записей
-[2026-11-21 08:01:02] RSS Wired: 10 записей
-[2026-11-21 08:01:02] RSS TechCrunch: код 403
-[2026-11-21 08:01:02] RSS Ars Technica: 20 записей
-[2026-11-21 08:01:02] RSS MIT Technology Review: 10 записей
-[2026-11-21 08:01:02] RSS BBC News: 21 записей
-[2026-11-21 08:01:02] RSS IEEE Spectrum: 30 записей
-[2026-11-21 08:01:02] Спорт, пропускаю: Forget rogue robots, it’s tech billionai
-[2026-11-21 08:01:02] Лента обновлений, пропускаю: Anthropic shares end first day of tradin
-[2026-11-21 08:01:02] Same story already published: Traumatized teens sue school, cops after Doritos b ~ Four Maryland high school students sue after AI mi
-[2026-11-21 08:01:02] AI feeds: 17 candidates from quality outlets
-[2026-11-21 08:01:03] NewsAPI (AI): пришло 60 статей
-[2026-11-21 08:01:03] Неизвестный источник (business-standard.com): SatSure targets ₹200 cr in Series B to e
-[2026-11-21 08:01:03] Неизвестный источник (m.economictimes.com): Spacetech startup SatSure raises $7 mill
-[2026-11-21 08:01:03] Неизвестный источник (business-standard.com): Indian space startup SatSure raises ₹60 
-[2026-11-21 08:01:03] Заблокированный источник (dailymail.com): New York blackout warning: State's aging
-[2026-11-21 08:01:03] Заблокированный источник (naturalnews.com): White House Cyber Director Sean Cairncro
-[2026-11-21 08:01:03] Заблокированный источник (naturalnews.com): Is America Ready for AI-Powered Cyberwar
-[2026-11-21 08:01:03] Неизвестный источник (hurriyetdailynews.com): NATO outlines €2.7 billion in technology
-[2026-11-21 08:01:03] Неизвестный источник (m.economictimes.com): JPMorgan Chase, Visa and Mastercard cust
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Lawmakers form bipartisan caucus to crea
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Industrial monitoring startup BrightAI c
-[2026-11-21 08:01:03] Заблокированный источник (rt-english.com): Trump’s cyber chief resigns amid mystery
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Google adds computer use capabilities to
-[2026-11-21 08:01:03] Нет фото: Trump’s Nothing-to-See-Here Approach to 
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Despite posting a solid earnings beat, E
-[2026-11-21 08:01:03] Заблокированный источник (nypost.com): AI has ‘crossed the Rubicon’ and is find
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Resolve AI’s SRE-1 model finds root caus
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Wiz ties Microsoft Agent Framework packa
-[2026-11-21 08:01:03] Неизвестный источник (gottabemobile.com): 5 TV Settings You Should Change for a Be
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Intuit sells Mailchimp to Bending Spoons
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Medical AI startup Boltz raises $110M to
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Enterprise AI is pushing cloud infrastru
-[2026-11-21 08:01:03] Неизвестный источник (pymnts.com): Target Puts AI Behind 90% of Its Buying 
-[2026-11-21 08:01:03] Неизвестный источник (legalinsurrection.com): Chase, Visa and Mastercard Now Caught in
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): What we learned from Nvidia’s first earn
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): D-Matrix bets stacked DRAM can solve inf
-[2026-11-21 08:01:03] Неизвестный источник (insights.som.yale.edu): Could Old Tech Be the Secret to Smarter 
-[2026-11-21 08:01:03] Неизвестный источник (timesofindia.indiatimes.com): Auto manufacturing needs greater R&D inv
-[2026-11-21 08:01:03] Неизвестный источник (archinect.com): WHYIS Future Technology Center by line+
-[2026-11-21 08:01:03] Неизвестный источник (spectrum.ieee.org): Community-Focused Academic Brings AI Too
-[2026-11-21 08:01:03] Неизвестный источник (timesofindia.indiatimes.com): California researchers built artificial 
-[2026-11-21 08:01:03] Неизвестный источник (pymnts.com): Visa, Mastercard and JPMorgan Customer D
-[2026-11-21 08:01:03] Заблокированный источник (dailymail.com): Pull out 'weeks' of cash: Democratic def
-[2026-11-21 08:01:03] Неизвестный источник (offgridsurvival.com): Hackers Hit JPMorgan Chase, Visa and Mas
-[2026-11-21 08:01:03] Неизвестный источник (pymnts.com): Walmart Pairs Membership Growth With an 
-[2026-11-21 08:01:03] Неизвестный источник (cryptobriefing.com): Databento raises $100 million at $1.1 bi
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): China-based AI robotics biotech firm Meg
-[2026-11-21 08:01:03] Неизвестный источник (en.protothema.gr): Politico: Major cyberattack on European 
-[2026-11-21 08:01:03] Неизвестный источник (denverpost.com): Tech outages are piling up, AI raising s
-[2026-11-21 08:01:03] Неизвестный источник (cryptobriefing.com): AI financing concerns could trigger furt
-[2026-11-21 08:01:03] Неизвестный источник (pymnts.com): House Bill Would Put Major Cyber and AI 
-[2026-11-21 08:01:03] Неизвестный источник (timesofindia.indiatimes.com): US government says it could convince Cha
-[2026-11-21 08:01:03] Неизвестный источник (vanityfair.com): Luca Guadagnino and Andrew Garfield Get 
-[2026-11-21 08:01:03] Не про ИИ, пропускаю: The Gulf Is America’s Next AI Security Test
-[2026-11-21 08:01:03] Неизвестный источник (thewrap.com): ‘The Altruists’ Review: Netflix Turns FT
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Groundcover launches Agent Investigation
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Superhuman unveils personal AI assistant
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Nodal Networks raises $11.3M to solve gl
-[2026-11-21 08:01:03] Заблокированный источник (journals.plos.org): Applications of computer vision in mosqu
-[2026-11-21 08:01:03] Заблокированный источник (journals.plos.org): Clinical features, first aid practices, 
-[2026-11-21 08:01:03] Заблокированный источник (journals.plos.org): User acceptance of AI-generated cinemati
-[2026-11-21 08:01:03] Заблокированный источник (journals.plos.org): Identifying key figures in Chinese histo
-[2026-11-21 08:01:03] Заблокированный источник (journals.plos.org): Snakebite records in routine hospital da
-[2026-11-21 08:01:03] Неизвестный источник (thehindubusinessline.com): SEBI working on capacity-building networ
-[2026-11-21 08:01:03] Неизвестный источник (triblive.com): Pittsburgh experts weigh in on nationwid
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Metano launches with $12M to help enterp
-[2026-11-21 08:01:03] Неизвестный источник (commondreams.org): Economic Populism Won, But Working Peopl
-[2026-11-21 08:01:03] Неизвестный источник (business-standard.com): Sebi mulls Capacity Building Network to 
-[2026-11-21 08:01:03] Неизвестный источник (timesofindia.indiatimes.com): Utah restored or improved 128,232 acres 
-[2026-11-21 08:01:03] Неизвестный источник (siliconangle.com): Enterprises fear AI success more than fa
-[2026-11-21 08:01:03] Нет фото: hivegate-swarm added to PyPI
-[2026-11-21 08:01:03] AI news: 17 candidates from quality and trusted outlets
-[2026-11-21 08:01:03] AI news: 17 candidates after filtering
-[2026-11-21 08:01:06] Редакторский отбор: выбраны позиции [3, 9, 4, 2]
-[2026-11-21 08:01:06] Обрабатываю: Google rolls out new search homepage with AI chat history an | https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign
-[2026-11-21 08:01:06] Полный текст получен (1185 символов)
-[2026-11-21 08:01:06] Попытка 1 для: Google rolls out new search homepage wit
-[2026-11-21 08:01:08] Успешно, получено 1293 символов
-[2026-11-21 08:01:08] Обрабатываю: In a year of AI solving maths problems, Anthropic may have j | https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&amp;at
-[2026-11-21 08:01:08] Полный текст получен (3000 символов)
-[2026-11-21 08:01:08] Попытка 1 для: In a year of AI solving maths problems, 
-[2026-11-21 08:01:11] Успешно, получено 1420 символов
-[2026-11-21 08:01:11] Обрабатываю: The most misunderstood graph in AI just got a major update | https://www.technologyreview.com/2026/11/20/1149399/the-most-misunders
-[2026-11-21 08:01:11] Полный текст получен (3000 символов)
-[2026-11-21 08:01:11] Попытка 1 для: The most misunderstood graph in AI just 
-[2026-11-21 08:01:13] Успешно, получено 1966 символов
-[2026-11-21 08:01:13] Обрабатываю: What’s With All These Outages? | https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-thes
-[2026-11-21 08:01:13] Полный текст получен (3000 символов)
-[2026-11-21 08:01:13] Попытка 1 для: What’s With All These Outages?
-[2026-11-21 08:01:27] Успешно, получено 1330 символов
-[2026-11-21 08:01:30] Пауза 60 секунд...
-[2026-11-21 08:02:31] Пауза 60 секунд...
-[2026-11-21 08:03:31] Пауза 60 секунд...
-[2026-11-21 08:04:32] sent_urls.txt обрезан: 304 -> 300
-[2026-11-21 08:04:32] === Блок ai_morning завершён ===
-[2026-11-21 11:00:59] Загружено 300 уже отправленных новостей
-[2026-11-21 11:00:59] === Запуск блока: midday (тест: False) ===
-[2026-11-21 11:00:59] Story memory: 103 headlines from the last 96 h
-[2026-11-21 11:00:59] Лента обновлений, пропускаю: Nasdaq futures fall after Anthropic fail
-[2026-11-21 11:00:59] Неизвестный источник (espn.com): C.J. Stroud stays in 'groove' with anoth
-[2026-11-21 11:00:59] Неизвестный источник (hollywoodreporter.com): How High Can ‘Hunger Games: Sunrise on t
-[2026-11-21 11:00:59] Пропускаю уже отправленную: Justice Department seeks dismissal of its lawsuit 
-[2026-11-21 11:00:59] Пропускаю уже отправленную: US approved sale of Nvidia and AMD chips to Chines
-[2026-11-21 11:00:59] Неизвестный источник (cbssports.com): If RJ Luis Jr.'s career at LSU is over, 
-[2026-11-21 11:00:59] Неизвестный источник (bostonglobe.com): Experts have for decades wanted to diagn
-[2026-11-21 11:00:59] Неизвестный источник (abc7.com): Cincinnati Zoo says Fiona the hippo has 
-[2026-11-21 11:00:59] Неизвестный источник (pcmag.com): PS5 vs. Xbox Series X for GTA 6? Here's 
-[2026-11-21 11:00:59] Неизвестный источник (deadline.com): ‘The Traitors: New Blood’ Renewed For Se
-[2026-11-21 11:00:59] Неизвестный источник (pagesix.com): Taylor Swift sparkles in sequins and fri
-[2026-11-21 11:00:59] Неизвестный источник (cbssports.com): College basketball rankings: Houston cla
-[2026-11-21 11:00:59] Неизвестный источник (phys.org): Astronomers discover remarkable triple-s
-[2026-11-21 11:00:59] Старая новость (2026-11-19T07:24:00Z): Eighth measles death reported as Pennsyl
-[2026-11-21 11:00:59] Старая новость (2026-11-19T05:10:00Z): Mental competency at issue in US crimina
-[2026-11-21 11:00:59] Мировые новости: найдено 13 после фильтрации
-[2026-11-21 11:01:02] Редакторский отбор: выбраны позиции [5, 12, 10, 4]
-[2026-11-21 11:01:02] Обрабатываю: Riyadh’s tallest skyscraper hit in Houthi strike on Saudi we | https://www.nbcnews.com/world/saudi-arabia/riyadhs-tallest-skyscraper-
-[2026-11-21 11:01:02] Полный текст получен (3000 символов)
-[2026-11-21 11:01:02] Попытка 1 для: Riyadh’s tallest skyscraper hit in Houth
-[2026-11-21 11:01:05] Успешно, получено 1599 символов
-[2026-11-21 11:01:05] Обрабатываю: Putin says Russia won't negotiate limited ceasefire with Ukr | https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/
-[2026-11-21 11:01:05] Полный текст получен (3000 символов)
-[2026-11-21 11:01:05] Попытка 1 для: Putin says Russia won't negotiate limite
-[2026-11-21 11:01:08] Успешно, получено 1591 символов
-[2026-11-21 11:01:08] Обрабатываю: NASA’s Voyager 1 phones home from an awe-inspiring one light | https://apnews.com/article/voyager-nasa-light-day-interstellar-space-d
-[2026-11-21 11:01:08] Попытка 1 для: NASA’s Voyager 1 phones home from an awe
-[2026-11-21 11:01:11] Успешно, получено 1305 символов
-[2026-11-21 11:01:11] Обрабатываю: Texas execution took over an hour as staff struggled to find | https://apnews.com/article/execution-florida-texas-68c0916f95f514c293f
-[2026-11-21 11:01:11] Попытка 1 для: Texas execution took over an hour as sta
-[2026-11-21 11:01:23] Успешно, получено 704 символов
-[2026-11-21 11:01:26] Пауза 60 секунд...
-[2026-11-21 11:02:27] Пауза 60 секунд...
 [2026-11-21 11:03:27] Пауза 60 секунд...
 [2026-11-21 11:04:28] sent_urls.txt обрезан: 304 -> 300
 [2026-11-21 11:04:28] === Блок midday завершён ===
@@ -2998,3 +2853,148 @@
 [2026-11-27 06:06:09] Пауза 60 секунд...
 [2026-11-27 06:07:10] sent_urls.txt обрезан: 307 -> 300
 [2026-11-27 06:07:10] === Блок morning завершён ===
+[2026-11-27 08:01:11] Загружено 300 уже отправленных новостей
+[2026-11-27 08:01:11] === Запуск блока: ai_morning (тест: False) ===
+[2026-11-27 08:01:11] Story memory: 93 headlines from the last 96 h
+[2026-11-27 08:01:11] RSS The Guardian: код 403
+[2026-11-27 08:01:11] RSS Wired: 10 записей
+[2026-11-27 08:01:11] RSS TechCrunch: код 403
+[2026-11-27 08:01:11] RSS Ars Technica: 20 записей
+[2026-11-27 08:01:11] RSS MIT Technology Review: 10 записей
+[2026-11-27 08:01:12] RSS BBC News: 21 записей
+[2026-11-27 08:01:12] RSS IEEE Spectrum: 30 записей
+[2026-11-27 08:01:12] AI feeds: 2 candidates from quality outlets
+[2026-11-27 08:01:12] NewsAPI (AI): пришло 60 статей
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX plan to put a million data centres in space
+[2026-11-27 08:01:12] Неизвестный источник (economictimes.indiatimes.com): Cybersecurity in AI era: Dark AI used to
+[2026-11-27 08:01:12] Неизвестный источник (infoq.com): Recap of Microsoft Ignite 2026: Copilot 
+[2026-11-27 08:01:12] Заблокированный источник (naturalnews.com): Thanksgiving air travel poised to shatte
+[2026-11-27 08:01:12] Неизвестный источник (lewrockwell.com): The Cyberattack Strategy of Tension
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Medtech start-up wants to take the guesswork out o
+[2026-11-27 08:01:12] Неизвестный источник (fool.com.au): Megaport shares are down 40% in less tha
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): Your AI agents can be fully authorized a
+[2026-11-27 08:01:12] Неизвестный источник (business-standard.com): Data centres in space? SpaceX gets appro
+[2026-11-27 08:01:12] Неизвестный источник (timesofindia.indiatimes.com): US approves Musk's SpaceX plan to deploy
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): New York Bans AI toys amid concern after
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): Voice AI startup ElevenLabs reportedly s
+[2026-11-27 08:01:12] Неизвестный источник (geekwire.com): FCC clears SpaceX to put up to a million
+[2026-11-27 08:01:12] Неизвестный источник (thehindubusinessline.com): 1 million satellites in space? FCC clear
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US regulators approve SpaceX plan to send a millio
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Tunable diffusive memristor arrays for neuromorphi
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): US intelligence agencies reportedly brie
+[2026-11-27 08:01:12] Неизвестный источник (pymnts.com): FinCEN Extends Reporting Deadlines Amid 
+[2026-11-27 08:01:12] Неизвестный источник (punchng.com): NIMASA, UPS partner on Lagos port emissi
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): FCC clears SpaceX to put up to 1 million
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.3
+[2026-11-27 08:01:12] Неизвестный источник (decrypt.co): What Happened to Alice Huang, the Woman 
+[2026-11-27 08:01:12] Неизвестный источник (digitaljournal.com): AI-powered hacking tools are becoming a 
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): AI infrastructure stocks continue their 
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.1
+[2026-11-27 08:01:12] Неизвестный источник (404media.co): Treasury CIO Vibe Coding 'Civilization' 
+[2026-11-27 08:01:12] Неизвестный источник (en.protothema.gr): SpaceX granted approval to launch up to 
+[2026-11-27 08:01:12] Неизвестный источник (frontiersin.org): Frontiers | Nutritional and antioxidant 
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX wins FCC approval to deploy 1 mil
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): Three insights you may have missed from 
+[2026-11-27 08:01:12] Неизвестный источник (zycrypto.com): Ethereum’s Next Upgrade Could Be Harder 
+[2026-11-27 08:01:12] Нет фото: heimdall-guardian added to PyPI
+[2026-11-27 08:01:12] Неизвестный источник (abc.net.au): Trump administration backs Musk's plan f
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US grants SpaceX approval for 1 million space data
+[2026-11-27 08:01:12] Нет фото: briefcase-ai 5.0.0
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX Wins Approval For Ambitious Orbit
+[2026-11-27 08:01:12] Нет фото: MATE-runtime 1.7.0
+[2026-11-27 08:01:12] Неизвестный источник (livemint.com): SpaceX Receives Government Approval to L
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX wins FCC approval to deploy 1 mil
+[2026-11-27 08:01:12] Неизвестный источник (m.economictimes.com): From ropeways to ring roads: Karan Adani
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Arms Control Pledges Are Hard to Keep, But Talking
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX wins FCC approval to deploy 1 million orbit
+[2026-11-27 08:01:12] Неизвестный источник (timesofindia.indiatimes.com): Govt, Airtel sign MoU to set up data cen
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.0
+[2026-11-27 08:01:12] Неизвестный источник (thewrap.com): David Fincher Details His Vision for AI 
+[2026-11-27 08:01:12] Неизвестный источник (timesofindia.indiatimes.com): Mobile towers, AI cameras to keep Magh M
+[2026-11-27 08:01:12] Неизвестный источник (cointelegraph.com): FCC authorizes SpaceX to deploy 1M satel
+[2026-11-27 08:01:12] Неизвестный источник (economictimes.indiatimes.com): Musk's SpaceX gets FCC nod for 1 million
+[2026-11-27 08:01:12] Неизвестный источник (business-standard.com): Bharti Airtel to invest ₹1,200 crore in 
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.3.7
+[2026-11-27 08:01:12] Неизвестный источник (siliconangle.com): Open-weight models are the hottest thing
+[2026-11-27 08:01:12] Неизвестный источник (singularityhub.com): This AI Tweaks LLM Neural Networks Like 
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.3.6
+[2026-11-27 08:01:12] Неизвестный источник (seo-theory.com): Where Does AI Fit Into The Searchable We
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Segmentation of sparse coronary artery c
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Generating scRNA-seq data from bulk RNA-
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Integrated bulk, single-nucleus, spatial
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US court convicts Huawei of theft: A history of Ch
+[2026-11-27 08:01:12] Неизвестный источник (en.antaranews.com): RI eyes opportunities in US$1 trillion g
+[2026-11-27 08:01:12] Заблокированный источник (dailymail.com): ABC boss overheard ripping apart journo 
+[2026-11-27 08:01:12] AI news: 2 candidates from quality and trusted outlets
+[2026-11-27 08:01:12] Not enough quality AI candidates, adding second-tier outlets
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX plan to put a million data centres in space
+[2026-11-27 08:01:12] Заблокированный источник (naturalnews.com): Thanksgiving air travel poised to shatte
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: The Cyberattack Strategy of Tension
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Medtech start-up wants to take the guesswork out o
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Megaport shares are down 40% in less than two mont
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Data centres in space? SpaceX gets approval for a 
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US approves Musk's SpaceX plan to deploy 1 million
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: FCC clears SpaceX to put up to a million satellite
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: 1 million satellites in space? FCC clears SpaceX p
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US regulators approve SpaceX plan to send a millio
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Tunable diffusive memristor arrays for neuromorphi
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US intelligence agencies reportedly brief Congress
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: FinCEN Extends Reporting Deadlines Amid Cyber-Rela
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: NIMASA, UPS partner on Lagos port emissions monito
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: FCC clears SpaceX to put up to 1 million Starmind 
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.3
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: What Happened to Alice Huang, the Woman at the Cen
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.1
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Treasury CIO Vibe Coding 'Civilization' Clone Duri
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX granted approval to launch up to 1 million 
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Frontiers | Nutritional and antioxidant interventi
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX wins FCC approval to deploy 1 mil
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Three insights you may have missed from theCUBE’s 
+[2026-11-27 08:01:12] Нет фото: heimdall-guardian added to PyPI
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Trump administration backs Musk's plan for space-b
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US grants SpaceX approval for 1 million space data
+[2026-11-27 08:01:12] Нет фото: briefcase-ai 5.0.0
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX Wins Approval For Ambitious Orbit
+[2026-11-27 08:01:12] Нет фото: MATE-runtime 1.7.0
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX Receives Government Approval to Launch Spac
+[2026-11-27 08:01:12] Заблокированный источник (biztoc.com): SpaceX wins FCC approval to deploy 1 mil
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: From ropeways to ring roads: Karan Adani reveals t
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Arms Control Pledges Are Hard to Keep, But Talking
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: SpaceX wins FCC approval to deploy 1 million orbit
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Govt, Airtel sign MoU to set up data centres in Jo
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.4.0
+[2026-11-27 08:01:12] Пропускаю уже отправленную: FCC authorizes SpaceX to deploy 1M satellites for 
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Musk's SpaceX gets FCC nod for 1 million satellite
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: Bharti Airtel to invest ₹1,200 crore in three data
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.3.7
+[2026-11-27 08:01:12] Пропускаю уже отправленную: This AI Tweaks LLM Neural Networks Like a Gene Edi
+[2026-11-27 08:01:12] Нет фото: steuermaschine 0.3.6
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Segmentation of sparse coronary artery c
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Generating scRNA-seq data from bulk RNA-
+[2026-11-27 08:01:12] Заблокированный источник (journals.plos.org): Integrated bulk, single-nucleus, spatial
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: US court convicts Huawei of theft: A history of Ch
+[2026-11-27 08:01:12] Не про ИИ, пропускаю: RI eyes opportunities in US$1 trillion global semi
+[2026-11-27 08:01:12] Заблокированный источник (dailymail.com): ABC boss overheard ripping apart journo 
+[2026-11-27 08:01:12] AI news: 14 candidates after filtering
+[2026-11-27 08:01:15] Редакторский отбор: выбраны позиции [3, 1, 11, 5]
+[2026-11-27 08:01:15] Обрабатываю: Cybersecurity in AI era: Dark AI used to breach 19 firms at  | https://economictimes.indiatimes.com/news/company/corporate-trends/cyb
+[2026-11-27 08:01:15] Текст похож на ленту обновлений, беру описание: https://economictimes.indiatimes.com/news/company/corporate-
+[2026-11-27 08:01:15] Попытка 1 для: Cybersecurity in AI era: Dark AI used to
+[2026-11-27 08:01:17] Успешно, получено 953 символов
+[2026-11-27 08:01:17] Обрабатываю: A New Breed of Chip Runs AI Models Using Waves of Light | https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-w
+[2026-11-27 08:01:17] Полный текст получен (3000 символов)
+[2026-11-27 08:01:17] Попытка 1 для: A New Breed of Chip Runs AI Models Using
+[2026-11-27 08:01:20] Успешно, получено 1857 символов
+[2026-11-27 08:01:20] Обрабатываю: New York Bans AI toys amid concern after stuffed animals goi | https://siliconangle.com/2026/11/25/new-york-bans-ai-toys-amid-concern
+[2026-11-27 08:01:21] Полный текст получен (3000 символов)
+[2026-11-27 08:01:21] Попытка 1 для: New York Bans AI toys amid concern after
+[2026-11-27 08:01:23] Успешно, получено 1669 символов
+[2026-11-27 08:01:23] Обрабатываю: Your AI agents can be fully authorized and still do damage | https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-author
+[2026-11-27 08:01:24] Полный текст получен (3000 символов)
+[2026-11-27 08:01:24] Попытка 1 для: Your AI agents can be fully authorized a
+[2026-11-27 08:01:42] Успешно, получено 1674 символов
+[2026-11-27 08:01:45] Пауза 60 секунд...
+[2026-11-27 08:02:45] Пауза 60 секунд...
+[2026-11-27 08:03:46] Пауза 60 секунд...
+[2026-11-27 08:04:46] sent_urls.txt обрезан: 304 -> 300
+[2026-11-27 08:04:46] === Блок ai_morning завершён ===
