@@ -1,44 +1,3 @@
-[2026-11-21 11:03:27] Пауза 60 секунд...
-[2026-11-21 11:04:28] sent_urls.txt обрезан: 304 -> 300
-[2026-11-21 11:04:28] === Блок midday завершён ===
-[2026-11-21 16:01:01] Загружено 300 уже отправленных новостей
-[2026-11-21 16:01:01] === Запуск блока: evening (тест: False) ===
-[2026-11-21 16:01:01] Story memory: 103 headlines from the last 96 h
-[2026-11-21 16:01:02] Неизвестный источник (wesh.com): Flooding, road closures continue across 
-[2026-11-21 16:01:02] Same story already published: Texas execution took over an hour as staff struggl ~ Texas execution took over an hour as staff struggl
-[2026-11-21 16:01:02] Заблокированный источник (tech.yahoo.com): 'GTA 6' release live updates: Reviews, m
-[2026-11-21 16:01:02] Спорт, пропускаю: Rams star Nacua suspended for personal c
-[2026-11-21 16:01:02] Неизвестный источник (deadline.com): 'Hunger Games: Sunrise On The Reaping' $
-[2026-11-21 16:01:02] Неизвестный источник (variety.com): Jennifer Lawrence Ranks Her Onscreen Kis
-[2026-11-21 16:01:02] Неизвестный источник (iowacapitaldispatch.com): Amid public concern and a lawsuit, U.S. 
-[2026-11-21 16:01:02] Пропускаю уже отправленную: US approved sale of Nvidia and AMD chips to Chines
-[2026-11-21 16:01:02] Неизвестный источник (cbssports.com): If RJ Luis Jr.'s career at LSU is over, 
-[2026-11-21 16:01:02] Неизвестный источник (bostonglobe.com): Experts have for decades wanted to diagn
-[2026-11-21 16:01:02] Неизвестный источник (actionnetwork.com): Colts vs Texans Predictions, Odds, Picks
-[2026-11-21 16:01:02] Неизвестный источник (space.com): Voyager 1 team, unbowed by communication
-[2026-11-21 16:01:02] Неизвестный источник (foxnews.com): Iran-backed Houthi 'terrorist attack' hi
-[2026-11-21 16:01:02] Неизвестный источник (macrumors.com): Apple Announces 2026 Black Friday Event,
-[2026-11-21 16:01:02] Неизвестный источник (9to5google.com): Motorola’s iPhone Duo competitor, Razr F
-[2026-11-21 16:01:02] Старая новость (2026-11-19T15:22:37Z): CMA Awards 2026: 12 Best, Worst, and Mos
-[2026-11-21 16:01:02] Старая новость (2026-11-19T11:03:00Z): Measles comeback puts daycares, schools 
-[2026-11-21 16:01:02] Старая новость (2026-11-19T07:24:00Z): Eighth measles death reported as Pennsyl
-[2026-11-21 16:01:02] Старая новость (2026-11-18T23:20:05Z): Webb confirms first-of-its-kind merger o
-[2026-11-21 16:01:02] Старая новость (2026-11-17T18:09:22Z): CERN physicists measure universe at smal
-[2026-11-21 16:01:02] Мировые новости: найдено 9 после фильтрации
-[2026-11-21 16:01:04] Редакторский отбор: выбраны позиции [2, 6, 1, 4]
-[2026-11-21 16:01:05] RSS Ukrinform: 30 записей
-[2026-11-21 16:01:06] RSS Ukrinform: 30 записей
-[2026-11-21 16:01:07] Пропускаю уже отправленную: Russia launches up to 200 attack drones nightly an
-[2026-11-21 16:01:07] Пропускаю уже отправленную: Nine people injured in Russian strikes in Kharkiv 
-[2026-11-21 16:01:07] RSS Euromaidan Press: 29 записей
-[2026-11-21 16:01:07] Старая новость (2026-11-19T16:00:48Z): The Kerch Bridge span fell without Starl
-[2026-11-21 16:01:07] Старая новость (2026-11-19T14:38:20Z): A Russian handler courted a Colombian ex
-[2026-11-21 16:01:07] Старая новость (2026-11-19T10:42:13Z): The world’s new big three has a seat for
-[2026-11-21 16:01:07] Старая новость (2026-11-19T10:10:24Z): Russian armor joins some bad-weather ass
-[2026-11-21 16:01:07] Старая новость (2026-11-19T09:33:32Z): France to give Ukraine two Mirage 2000-5
-[2026-11-21 16:01:07] Старая новость (2026-11-18T23:01:04Z): Russo-Ukrainian war, day 1729: Russia pl
-[2026-11-21 16:01:07] Старая новость (2026-11-18T20:15:46Z): Training alone doesn’t make leader of se
-[2026-11-21 16:01:07] Старая новость (2026-11-18T19:41:41Z): Ukraine hits another bridge, this time o
 [2026-11-21 16:01:07] Старая новость (2026-11-18T19:20:44Z): What weighs heaviest on Ukraine’s sergea
 [2026-11-21 16:01:07] Старая новость (2026-11-18T18:41:34Z): Russia plans to throw 20 million drones 
 [2026-11-21 16:01:07] Старая новость (2026-11-18T17:28:58Z): Hours after Ukraine dropped Kerch bridge
@@ -2998,3 +2957,44 @@
 [2026-11-27 08:03:46] Пауза 60 секунд...
 [2026-11-27 08:04:46] sent_urls.txt обрезан: 304 -> 300
 [2026-11-27 08:04:46] === Блок ai_morning завершён ===
+[2026-11-27 11:01:04] Загружено 300 уже отправленных новостей
+[2026-11-27 11:01:04] === Запуск блока: midday (тест: False) ===
+[2026-11-27 11:01:04] Story memory: 97 headlines from the last 96 h
+[2026-11-27 11:01:05] Неизвестный источник (usatoday.com): Man claimed $1M Massachusetts lottery pr
+[2026-11-27 11:01:05] Неизвестный источник (eonline.com): Dancing With the Stars’ Alan Bersten Spe
+[2026-11-27 11:01:05] Неизвестный источник (espn.com): Rams vs. Packers: Week 12 NFL game highl
+[2026-11-27 11:01:05] Пропускаю уже отправленную: Hegseth, Pentagon officials floated using wartime 
+[2026-11-27 11:01:05] Неизвестный источник (macrumors.com): Redesigned OLED MacBook Air Could Launch
+[2026-11-27 11:01:05] Неизвестный источник (marketwatch.com): Stock Market Today: Dow closes higher af
+[2026-11-27 11:01:05] Неизвестный источник (nbcbayarea.com): Bay Area weather live updates: Waves cra
+[2026-11-27 11:01:05] Пропускаю уже отправленную: European spacecraft finds chaotic scene after aste
+[2026-11-27 11:01:05] Неизвестный источник (nola.com): SEC moving forward with LSU expulsion vo
+[2026-11-27 11:01:05] Неизвестный источник (usatoday.com): Nor'easter brings howling winds, rain to
+[2026-11-27 11:01:05] Заблокированный источник (finance.yahoo.com): Newly proposed tariffs raise chances of 
+[2026-11-27 11:01:05] Неизвестный источник (space.com): November's full moon dazzles skywatchers
+[2026-11-27 11:01:05] Неизвестный источник (hackaday.com): Voyager 1 Stops Sending Data, Reaches On
+[2026-11-27 11:01:05] Неизвестный источник (seattletimes.com): WA measles situation ‘much worse,’ with 
+[2026-11-27 11:01:05] Старая новость (2026-11-24T21:10:10Z): Flu Cases Are Surging Ahead Of Thanksgiv
+[2026-11-27 11:01:05] Старая новость (2026-11-24T17:50:49Z): Unvaccinated Pennsylvania resident dies 
+[2026-11-27 11:01:05] Старая новость (2026-11-24T17:42:19Z): 4 Microsoft To Do app alternatives I’d t
+[2026-11-27 11:01:05] Старая новость (2026-11-24T15:39:00Z): Spacecraft overcomes glitch to reach Mer
+[2026-11-27 11:01:05] Мировые новости: найдено 17 после фильтрации
+[2026-11-27 11:01:07] Редакторский отбор: выбраны позиции [11, 12, 7, 10]
+[2026-11-27 11:01:07] Обрабатываю: US-led consortium agrees to acquire assets from Russian oil  | https://apnews.com/article/russia-ukraine-war-us-sanctions-oil-lukoil-
+[2026-11-27 11:01:07] Попытка 1 для: US-led consortium agrees to acquire asse
+[2026-11-27 11:01:10] Успешно, получено 1009 символов
+[2026-11-27 11:01:10] Обрабатываю: Wang Fuk Court: A renovation was meant to improve these Hong | https://www.bbc.com/news/articles/cqx2wrkyrdn8o
+[2026-11-27 11:01:10] Полный текст получен (3000 символов)
+[2026-11-27 11:01:10] Попытка 1 для: Wang Fuk Court: A renovation was meant t
+[2026-11-27 11:01:12] Успешно, получено 1668 символов
+[2026-11-27 11:01:12] Обрабатываю: Angry young men turn against their elders in ‘two Spains’ el | https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25
+[2026-11-27 11:01:12] Попытка 1 для: Angry young men turn against their elder
+[2026-11-27 11:01:14] Успешно, получено 833 символов
+[2026-11-27 11:01:14] Обрабатываю: Judge declines to issue a long-term ban on taxpayer-funded,  | https://apnews.com/article/dnc-trump-ads-propaganda-lawsuit-fcc1b61e8e
+[2026-11-27 11:01:14] Попытка 1 для: Judge declines to issue a long-term ban 
+[2026-11-27 11:01:21] Успешно, получено 1087 символов
+[2026-11-27 11:01:24] Пауза 60 секунд...
+[2026-11-27 11:02:25] Пауза 60 секунд...
+[2026-11-27 11:03:25] Пауза 60 секунд...
+[2026-11-27 11:04:25] sent_urls.txt обрезан: 304 -> 300
+[2026-11-27 11:04:25] === Блок midday завершён ===
